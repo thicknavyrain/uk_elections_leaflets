@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jim Murphy",
+    "constituency": "Scotland",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "An old-fashioned view",
+        "content": "I take an old fashioned view of this - if you have worked hard and paid into the system all your life then you deserve security in your retirement."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Pension",
+        "policyDescription": "Freeze the UK state pension and guarantee increases in the state pension every single year. Unlike the SNP, Scottish Labour will never vote to scrap the UK pension."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jim Murphy",
+      "otherPartyLeaderCandidate": "Nicola Sturgeon",
+      "partyLeader": "Jim Murphy",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Labour's plan for pensioners in Scotland.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I take an old fashioned view of this - if you have worked hard and paid into the system all your life then you deserve security in your retirement.",
+    "politicalExperience": [
+      {
+        "role": "Scottish Labour Leader",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The only way to protect pensioners in Scotland is to vote Labour on 7 May.",
+        "source": "Jim Murphy",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Jim Murphy"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet addresses the consequences for pensioners if other parties' policies were implemented, highlighting a potential £6.7 billion cost and a decrease of £18 a week for Scottish pensioners."
+  }
+}
+```

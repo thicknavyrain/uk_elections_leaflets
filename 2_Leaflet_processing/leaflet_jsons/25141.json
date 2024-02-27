@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Oliver Dowden",
+    "constituency": "Hertsmere",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Defending our Green Countryside",
+        "content": "Once our precious green space is lost, it is lost forever"
+      },
+      {
+        "title": "Improving Transport",
+        "content": "Standing up to rail companies to get us the very best deal"
+      },
+      {
+        "title": "Better Education",
+        "content": "Making sure all our children get the best start in life"
+      },
+      {
+        "title": "A personal message from Oliver Dowden",
+        "content": "Hertsmere is home for me; it was born and grew up here and now building my own life and family with my wife and two young children. I know the pressures that face local families and I have the determination, with a strong mandate from you, to protect our precious green spaces, to demand improvements for our overcrowded and delayed trains, and I have a 5-year track record as the rail activist supporter to continue doing just that. I have spent my recent years as a senior political adviser; first to the Prime Minister working on how technology and internet reform can achieve economic growth and more importantly help protect our children. Surrounding myself with the inspiring community of Hertsmere represents all that I hold dear and we are united in wanting to effectively make sure our local concerns are heard loud and clear and to ensure our children's future security so we can be confident that they can grow and thrive together with confidence in a safer, fairer society."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Defending Green Spaces",
+        "policyDescription": "Commitment to protecting Hertsmere's precious green spaces."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Improving transport by standing up to rail companies to negotiate better services."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Ensuring all children in Hertsmere receive the best possible start in life through better education."
+      }
+    ],
+    "mentions": {
+      "candidate": "Oliver Dowden",
+      "otherPartyLeaderCandidate": "Labour plan, Coalition of chaos",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Job total hits record high, More jobs, higher pay, Record employment",
+      "education": "Making sure all our children get the best start in life",
+      "environment": "Defending our Green Countryside, Once our precious green space is lost, it is lost forever",
+      "governance": "Benefits cap leads more into work, Tax cuts mean you keep more of the income you earn",
+      "health": "",
+      "immigration": "More control over who comes here to live and work",
+      "socialWelfare": "Benefits cap leads more into work",
+      "housing": [
+        {
+          "content": "Defending our Green Countryside",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I am passionate about defending the things that make Hertsmere such a special place to live",
+    "politicalExperience": [
+      {
+        "role": "Senior political adviser to the Prime Minister",
+        "duration": "Last five years",
+        "achievements": "Working on technology and internet reform to achieve economic growth and protect children."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01727 822821",
+      "email": "oliver@oliverdowden.com",
+      "website": "www.oliverdowden.com",
+      "socialMedia": {
+        "facebook": "www.facebook.com/oliverdowdenhertsmere",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "STOP THE FREIGHT TERMINAL NOW"
+        },
+        {
+          "caption": "Your vote will deliver..."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

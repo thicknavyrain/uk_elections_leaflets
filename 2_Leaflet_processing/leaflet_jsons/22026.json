@@ -1,0 +1,97 @@
+```json
+{
+	"leaflet": {
+		"candidateName": "Archie Dryburgh",
+		"constituency": "Dumfriesshire, Clydesdale and Tweeddale",
+		"politicalParty": "Scottish Labour",
+		"electionDate": "Thursday 7 May",
+		"messages": [
+			{
+				"title": "Another Tory Government would be a disaster for our area. Only a vote for Labour next week can stop the Tories being the largest party",
+				"content": ""
+			}
+		],
+		"keyPolicies": [
+			{
+				"policyTitle": "Youth Guarantee",
+				"policyDescription": "A pledge related to ensuring opportunities for youth, as seen on the campaign leaflet image."
+			},
+			{
+				"policyTitle": "Health",
+				"policyDescription": "Protect our NHS, with investment in frontline healthcare staff, hospital and GP services."
+			},
+			{
+				"policyTitle": "Housing",
+				"policyDescription": "Support local families with a freeze on the unfair 'bedroom tax' and to build more houses."
+			},
+			{
+				"policyTitle": "Employment",
+				"policyDescription": "Make low pay with an increase in the minimum wage and an end to zero hours contracts."
+			}
+		],
+		"mentions": {
+			"candidate": "",
+			"otherPartyLeaderCandidate": "",
+			"partyLeader": "",
+			"tacticalSituation": ""
+		},
+		"issues": {
+			"brexitEurope": "",
+			"economy": "",
+			"education": "",
+			"environment": "",
+			"governance": "",
+			"health": "Protect our NHS, with investment in frontline healthcare staff, hospital and GP services.",
+			"immigration": "",
+			"socialWelfare": "Support local families with a freeze on the unfair 'bedroom tax'.",
+			"housing": [
+				{
+					"content": "Support local families with a freeze on the unfair 'bedroom tax' and to build more houses.",
+					"yimbyNimby": "YIMBY"
+				}
+			]
+		},
+		"personalStatement": "",
+		"politicalExperience": [
+			{
+				"role": "",
+				"duration": "",
+				"achievements": ""
+			}
+		],
+		"contactInformation": {
+			"address": "Election Communication, Ms Catriona Hamilton, 41 Conner Street, Peebles, EH45 8HQ",
+			"phone": "",
+			"email": "",
+			"website": "",
+			"socialMedia": {
+				"facebook": "",
+				"twitter": "",
+				"instagram": "",
+				"linkedin": ""
+			}
+		},
+		"endorsements": [
+			{
+				"endorser": "",
+				"endorsement": ""
+			}
+		],
+		"quotes": [
+			{
+				"text": "",
+				"source": "",
+				"date": ""
+			}
+		],
+		"campaignMaterial": {
+			"images": [
+				{
+					"caption": "Youth Guarantee"
+				}
+			]
+		},
+		"additionalNotes": ""
+	}
+}
+```

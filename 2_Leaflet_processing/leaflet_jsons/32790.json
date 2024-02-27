@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Teresa Murray",
+    "constituency": "Rochester & Strood",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "My pledges to you:",
+        "content": "I will never vote to make you or your family poorer. I want to be an MP beholden to you, not one who only looks after the privileged few."
+      },
+      {
+        "title": "Why I’m backing Teresa Murray",
+        "content": "She fights for local people all year round—not just at election time. We need a strong local voice who will put Rochester & Strood first."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Getting Beyond Brexit",
+        "policyDescription": "Support a public vote and campaign to remain."
+      },
+      {
+        "policyTitle": "A Green Industrial Revolution",
+        "policyDescription": "Create 1 million new jobs across the country and transform our economy."
+      },
+      {
+        "policyTitle": "A Fully-funded Education Service",
+        "policyDescription": "Oppose school cuts. Stop the academisation and privatisation of our schools."
+      }
+    ],
+    "mentions": {
+      "candidate": "Teresa Murray fights for local people all year round—not just at election time. She wants to be an MP beholden to you, not one who only looks after the privileged few.",
+      "otherPartyLeaderCandidate": "Boris Johnson's Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Support a public vote and campaign to remain.",
+      "economy": "",
+      "education": "Oppose school cuts. Stop the academisation and privatisation of our schools.",
+      "environment": "Create 1 million new jobs across the country and transform our economy with A Green Industrial Revolution.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "I want to be an MP beholden to you, not one who only looks after the privileged few.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "73 Maidstone Road, Rochester, Kent, ME1 1RL",
+      "phone": "07855 378043",
+      "email": "teresamurraytm@aol.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@RSLabour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Teresa Murray with constituents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

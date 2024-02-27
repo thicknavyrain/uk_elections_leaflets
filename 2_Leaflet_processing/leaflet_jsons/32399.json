@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "JAMES CUNNINGHAM",
+    "constituency": "West Bromwich West",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "JAMES CUNNINGHAM",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "FOR THE MANY NOT THE FEW IN WEST BROMWICH WEST"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

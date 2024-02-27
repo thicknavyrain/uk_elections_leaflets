@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Peter Jackson",
+	"constituency": "Lancaster & Fleetwood",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Imagine a Britain Without Brexit",
+    	"content": "There'd be no more Brexit News on TV or radio! No more endless back and forth negotiations! No more uncertainty! That sounds great!"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Continued membership of the EU",
+    	"policyDescription": "Cash in on our £50 billion bonus for our public services, protect our economy, any deal will damage it - the best deal is staying in, maintain our rights as EU citizen's rights, freely access healthcare in the EU with the EHIC card, guarantee freedom of movement, ensure we can work, study and retire in any EU country."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Peter Jackson",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "Jo Swinson",
+  	"tacticalSituation": "There is a Remain bonus."
+	},
+	"issues": {
+  	"brexitEurope": "There'd be no more Brexit News on TV or radio! No more endless back and forth negotiations! No more uncertainty! That sounds great! On day one, a Liberal Democrat government will end Brexit and the only way to do this is to elect Peter Jackson! With our continued membership of the EU we can: Cash in on our £50 billion bonus for our public services, protect our economy, any deal will damage it - the best deal is staying in, maintain our rights as EU citizen's rights, freely access healthcare in the EU with the EHIC card, guarantee freedom of movement, ensure we can work, study and retire in any EU country, maintain the high quality of education and health care system with the support of EU nationals, Prepare, Prosperity, Friendship tackled with our nearest neighbours, the climate emergency tackled effectively on an EU wide basis, Continue trading in goods and services with no more close EU partners.",
+  	"economy": "Cash in on our £50 billion bonus for our public services, protect our economy, any deal will damage it - the best deal is staying in.",
+  	"education": "Maintain the high quality of education and health care system with the support of EU nationals.",
+  	"environment": "The climate emergency tackled effectively on an EU wide basis.",
+  	"governance": "",
+  	"health": "Freely access healthcare in the EU with the EHIC card, maintain the high quality of education and health care system with the support of EU nationals.",
+  	"immigration": "Guarantee freedom of movement, so we can work, study and retire in any EU country.",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Cash in on our £50 billion bonus for our public services.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Born on the Fylde coast and living in Lancaster for 25 years, I know, understand and care passionately for our constituency. I am honoured to stand for my Liberal values of fairness, equality, tolerance and opportunity in this election.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "I am honoured to stand for my Liberal values of fairness, equality, tolerance and opportunity in this election.",
+    	"source": "Peter Jackson",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Peter Jackson, Local Candidate For Lancaster & Fleetwood"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

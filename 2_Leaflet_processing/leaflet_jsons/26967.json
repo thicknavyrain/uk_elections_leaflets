@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Lucy Frazer",
+	"constituency": "South East Cambridgeshire",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "A STRONG VOICE FOR SOUTH EAST CAMBRIDGESHIRE",
+    	"content": "OUR AREA HAS BEEN HISTORICALLY UNDERFUNDED - LUCY IS FIGHTING FOR MORE FUNDS."
+  	},
+  	{
+    	"title": "Lucy has worked to improve our infrastructure",
+    	"content": "Ely Southern Bypass."
+  	},
+    {
+      "title": "STRONG AND STABLE LEADERSHIP",
+      "content": "THIS ELECTION IS OUR CHANCE TO SECURE THE STRONG AND STABLE LEADERSHIP THE COUNTRY NEEDS TO SEE US THROUGH BREXIT AND BEYOND."
+    }
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Supporting local schools",
+    	"policyDescription": "Lucy is advocating for more funding and support for historically underfunded schools in the area."
+  	},
+  	{
+    	"policyTitle": "More broadband for our area",
+    	"policyDescription": "Since Lucy has been elected, more homes have access to superfast broadband. Work remains ongoing."
+  	},
+    {
+      "policyTitle": "Fighting for our local healthcare",
+      "policyDescription": "Lucy advocates for fighting on behalf of local healthcare services."
+    },
+    {
+      "policyTitle": "Improving local infrastructure",
+      "policyDescription": "Lucy has worked on developments such as the Ely Southern Bypass."
+    },
+    {
+      "policyTitle": "Supporting local businesses",
+      "policyDescription": "Lucy emphasizes support for local businesses."
+    }
+	],
+	"mentions": {
+  	"candidate": "Lucy Frazer",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "SECURE THE STRONG AND STABLE LEADERSHIP THE COUNTRY NEEDS TO SEE US THROUGH BREXIT",
+  	"economy": "",
+  	"education": "Lucy supports our local schools. Our area has been historically underfunded - Lucy is fighting for more funds.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Fighting for our local healthcare.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Lucy has worked to improve our infrastructure.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "Willingham Chambers, Butchers Row, Ely",
+  	"phone": "01353 664748",
+  	"email": "lucy@secambsconservatives.org.uk",
+  	"website": "www.lucyfrazer.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "twitter.com/FrazerLucy",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Lucy at various campaign events and supporting local initiatives."
+    	}
+  	]
+	},
+	"additionalNotes": "Spring 2017 issue highlighting Lucy Frazer's work and vision for the South East Cambridgeshire constituency."
+  }
+}
+```

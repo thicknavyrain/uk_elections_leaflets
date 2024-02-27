@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Leech",
+    "constituency": "Burnage, Withington & Didsbury",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Road Safety SUCCESS",
+        "content": "Local people and councillors celebrating new road safety measures..."
+      },
+      {
+        "title": "The best team for our area",
+        "content": "John Leech, Bill Fisher..."
+      },
+      {
+        "title": "Gentleman Jim' in £421,000 cash giveaway",
+        "content": "In a gross neglect of the City's finances..."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "John Leech",
+      "otherPartyLeaderCandidate": "Labour councillor Jim Battle, Acting Leader of Manchester City Council",
+      "partyLeader": "",
+      "tacticalSituation": "Only the Lib Dems can beat Labour here. Results cast as the last general election..."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "More Primary School places",
+      "environment": "Keep Burnage Walk-in center open...",
+      "governance": "Gentleman Jim' in £421,000 cash giveaway...",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Gentleman Jim' in £421,000 cash giveaway...",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "A record of action. A promise of more.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Leech, Bill Fisher and your local Lib Dem team. Road Safety SUCCESS"
+        },
+        {
+          "caption": "More Primary School places. More jobs for South Manchester."
+        },
+        {
+          "caption": "Gentleman Jim' in £421,000 cash giveaway"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

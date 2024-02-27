@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Darren Johnson",
+    "constituency": "",
+    "politicalParty": "Green Party",
+    "electionDate": "Spring 2015",
+    "messages": [
+      {
+        "title": "8,000 Council Homes Lost In Regeneration', Report Reveals",
+        "content": "According to a report by London Assembly Member Darren Johnson, 8,000 council homes were destroyed in regeneration projects, but less than 6,200 replacements have been built."
+      },
+      {
+        "title": "Reduce Rail Fares By 10%, Says Leader Natalie Bennett",
+        "content": "The Green Party wants to reduce rail fares by an average of 10%. Party leader Natalie Bennett says 'public transport should be run for public good, not private profit'."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "8,000 council homes were lost in regeneration projects with fewer replacements. The Green Party promises to oppose the demolition of council estates and seek ways to refurbish rather than demolish."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Reduce rail fares by an average of 10%, with the intention of running public transport for public good, not private profit."
+      }
+    ],
+    "mentions": {
+      "candidate": "Darren Johnson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The Green Party pledges to oppose the demolition of council estates and promote refurbishment over demolition to avoid the loss of council homes.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "London Assembly Member",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.london.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@GreenJeanMEP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Darren Johnson protesting with a megaphone."
+        },
+        {
+          "caption": "Visit the Green Party website for more information."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

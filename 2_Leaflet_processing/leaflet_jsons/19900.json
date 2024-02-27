@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gordon Peters",
+    "constituency": "Hornsey & Wood Green",
+    "politicalParty": "Green Party",
+    "electionDate": "Thursday 7th May 2015",
+    "messages": [
+      {
+        "title": "The Green Party stands for a new way forward.",
+        "content": "Our support has surged in the past year as more and more people decide to vote for what they really believe in. They understand that tactical voting is pointless. Everyone just votes for the 'least worst' option of Labour or Lib Dem, nothing will ever change. In the 2015 General Election no party will gain an overall majority. Don't waste your vote trying to second guess the outcome. Vote for what you believe in. Vote Green Party."
+      },
+      {
+        "title": "The Green Party believes in policies for the common good.",
+        "content": "The Green Party believes in policies for the common good: The NHS in public hands, decent affordable housing, a living wage for all. It’s a three-way race in Hornsey & Wood Green: with your vote we can win!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "The NHS in public hands",
+        "policyDescription": "The Green Party believes in keeping the NHS in public hands."
+      },
+      {
+        "policyTitle": "Decent affordable housing",
+        "policyDescription": "The Green Party advocates for decent affordable housing."
+      },
+      {
+        "policyTitle": "A living wage for all",
+        "policyDescription": "The Green Party supports a living wage for everyone."
+      },
+      {
+        "policyTitle": "Affordable energy",
+        "policyDescription": "The Green Party aims to make energy affordable."
+      },
+      {
+        "policyTitle": "Clear air",
+        "policyDescription": "The Green Party wants to ensure air quality is clean and safe."
+      },
+      {
+        "policyTitle": "Protecting our planet",
+        "policyDescription": "The Green Party is committed to protecting the environment."
+      }
+    ],
+    "mentions": {
+      "candidate": "Gordon Peters",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The leaflet suggests that tactical voting for 'least worst' option of Labour or Lib Dem is pointless."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Protecting our planet.",
+      "governance": "",
+      "health": "The NHS in public hands.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Decent affordable housing",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.haringeygreens.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Gordon Peters portrait"
+        },
+        {
+          "caption": "Vote Green in 2015"
+        }
+      ]
+    },
+    "additionalNotes": "Please display the poster on the reverse in your window."
+  }
+}
+```

@@ -1,0 +1,106 @@
+{
+  "leaflet": {
+    "candidateName": "Penny Martin",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+  	  {
+        "title": "Vote Labour",
+        "content": "This is the crucial General Election and it's going to be close. Your vote counts."
+      },
+      {
+        "title": "",
+        "content": "Don't risk a Tory Government."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "The National Health Service",
+        "policyDescription": "Labour has changed all that and now patients are guaranteed that they will be treated within 18 weeks of being referred to hospital by their doctor."
+      },
+      {
+        "policyTitle": "Surestart Children's Centres",
+        "policyDescription": "Surestart Children's Centres offer support to local families."
+      },
+      {
+        "policyTitle": "Tax Credits",
+        "policyDescription": "Tax Credits have changed the lives of thousands of hard working families but are under threat from the Conservatives."
+      },
+      {
+        "policyTitle": "Help for Pensioners",
+        "policyDescription": "Labour has brought in a number of new benefits for pensioners."
+      }
+    ],
+    "mentions": {
+      "candidate": "Penny Martin",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Labour has changed all that and now patients are guaranteed that they will be treated within 18 weeks of being referred to hospital by their doctor.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Penny Martin. Local Knowledge, for you.",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "",
+        "achievements": "Penny has a proven track record as a local Councillor."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Tony Condran",
+        "endorsement": "Thanks to the NHS and Labour I am well again."
+      },
+      {
+        "endorser": "Eric Johnson",
+        "endorsement": "The Winter Fuel Allowance was a huge help during the recent cold spell."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+      	  "caption": "Penny Martin with local residents"
+        },
+        {
+          "caption": "Penny Martin with NHS patients"
+        },
+        {
+          "caption": "Penny Martin visiting Surestart Children's Centre"
+        },
+        {
+          "caption": "Labour government support for families"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

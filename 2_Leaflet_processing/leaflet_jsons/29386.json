@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alan Whitehead",
+    "constituency": "Southampton Test",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "Our Strong Voice for Southampton",
+        "content": "Alan Whitehead has expressed it's a privilege to serve as your Member of Parliament where he's led on issues such as clean energy, climate change, and fighting for a good standard of housing and education for all in Southampton."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "To build 1 million homes in the next 5 years and insulate millions more."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Give NHS workers, patients and visitors a fair deal with well-made parking at NHS England hospitals free for patients, visitors and NHS staff."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Build an education system for the many not the few focusing on what matters most in our schools; reducing testing standards and keeping class sizes down."
+      },
+      {
+        "policyTitle": "Pension Protection",
+        "policyDescription": "Protect the triple lock on pensions."
+      },
+      {
+        "policyTitle": "Living Wage",
+        "policyDescription": "Introduce a real Living Wage of £10 an hour by 2020."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alan Whitehead",
+      "otherPartyLeaderCandidate": "Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Alan Whitehead has been fighting Tory cuts to schools. Since 2010 Southampton schools have seen a funding cut equivalent to the loss of 359 teachers.",
+      "environment": "Working to tackle air pollution. Southampton was one of a handful of cities highlighted as having particularly poor air quality, and I've been working with the Council, the port, and taxi drivers in the city to tackle this.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "To build 1 million homes in the next 5 years and insulate millions more.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "It's been a privilege to serve as your Member of Parliament where I've led on issues such as clean energy, climate change, and fighting for a good standard of housing and education for all in Southampton.",
+    "politicalExperience": [
+      {
+        "role": "Labour Candidate for Southampton Test",
+        "duration": "",
+        "achievements": "Led on issues such as clean energy, climate change, and fighting for a good standard of housing and education."
+      }
+    ],
+    "contactInformation": {
+      "address": "Unit 39 Basepoint, Andersons Road, Southampton SO14 5FE",
+      "phone": "02380 682 086",
+      "email": "alan@alan-whitehead.org.uk",
+      "website": "www.alan-whitehead.org.uk",
+      "socialMedia": {
+        "facebook": "/soton_labour",
+        "twitter": "@soton_labour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Rachael",
+        "endorsement": "As a parent and an NHS worker I've been impressed with Alan’s work on both education and the NHS in Southampton. Recently, I’ve seen him fighting cuts to both, and he’s been a really strong voice for the city."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Re-Elect Alan Whitehead - For all our futures"
+        },
+        {
+          "caption": "Alan Whitehead - Labour Candidate for Southampton Test"
+        },
+        {
+          "caption": "Why I am backing Alan Whitehead"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

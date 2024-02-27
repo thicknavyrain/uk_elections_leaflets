@@ -1,0 +1,103 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Sleigh",
+    "constituency": "Aberdeen South",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "Help John Sleigh shake up and change our broken politics",
+        "content": "Broken politics needs a fresh start. John Sleigh, with a background outside politics, represents this change."
+      },
+      {
+        "title": "It's John Sleigh or Labour",
+        "content": "John Sleigh is the only candidate who can beat Labour in Aberdeen South."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Honest Politics",
+        "policyDescription": "Commitment to honest politics, without spin."
+      },
+      {
+        "policyTitle": "Fair Taxes",
+        "policyDescription": "Fairer, simpler taxes, helping pensioners and those on low and middle incomes."
+      },
+      {
+        "policyTitle": "More Nurses",
+        "policyDescription": "100,000 more nurses and 8,000 more GPs."
+      }
+    ],
+    "mentions": {
+      "candidate": "With John Sleigh, a vote for a change",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Charles Kennedy",
+      "tacticalSituation": "John Sleigh can win here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Local businesses backing John Sleigh. Action plan to support local jobs.",
+      "education": "",
+      "environment": "Policies that protect our environment for future generations.",
+      "governance": "",
+      "health": "Plan to save the local NHS, stating everyone should be able to see a doctor quickly.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "More affordable homes for local people.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I believe in a politics that brings people together. I'm not a career politician. I offer a fresh start. It's time for change.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Local businesses",
+        "endorsement": "Backing John Sleigh with action plan to support local jobs."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "John Sleigh offers a refreshing and believable alternative",
+        "source": "Aberdeen Evening Express",
+        "date": "24th April"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Sleigh with nurses"
+        },
+        {
+          "caption": "John Sleigh with Charles Kennedy"
+        },
+        {
+          "caption": "John Sleigh talking with local people"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet highlights that John Sleigh is the only honest alternative to a Labour MP. Focuses on support from local businesses, commitment to fair taxes and honest politics. Mentions pledge to fight for local NHS."
+  }
+}
+```

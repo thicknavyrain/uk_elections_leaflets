@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Swinson",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "IT'S TIME TO BUILD A BRIGHTER FUTURE",
+        "content": "For too many people, things aren’t working as they should be... Jo Swinson said, 'We have an ambitious plan to future proof our country... ensure every single person can fulfil their potential.'"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stopping Brexit",
+        "policyDescription": "Jo Swinson’s Liberal Democrats promise to stop Brexit and build a brighter future for everyone."
+      },
+      {
+        "policyTitle": "Dealing with Brexit",
+        "policyDescription": "Leading the fight to Stop Brexit."
+      },
+      {
+        "policyTitle": "A plan for the future",
+        "policyDescription": "Cut NHS waiting times, tackle the climate emergency, drive up performance in our schools."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jo Swinson",
+      "otherPartyLeaderCandidate": "Boris Johnson's Conservatives, Jeremy Corbyn's Labour Party",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Leading the fight to Stop Brexit.",
+      "economy": "",
+      "education": "Drive up performance in our schools.",
+      "environment": "Tackle the climate emergency.",
+      "governance": "",
+      "health": "Cut NHS waiting times.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Jo Swinson said, 'We have an ambitious plan to future proof our country...'",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Freepost RSTK-HKSH-EJGE, Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jo Swinson with supporters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

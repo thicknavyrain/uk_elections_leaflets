@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lewis Campbell",
+    "constituency": "Dunfermline and West Fife",
+    "politicalParty": "Scottish Green Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Vote Green in 2015",
+        "content": "The Scottish Green Party stands for an economy for the people and a society for all. Our party has grown five-fold over the last year and along with our sister parties across the UK, Greens are in a strong position to deliver a real alternative to the tired old politics of Westminster."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "EQUALITY NOT POVERTY",
+        "policyDescription": "We'll raise the minimum wage to £10 an hour by 2020."
+      },
+      {
+        "policyTitle": "PUBLIC SERVICES IN PUBLIC HANDS",
+        "policyDescription": "We'll run the railways as a public service and protect other services like the NHS from privatisation."
+      },
+      {
+        "policyTitle": "POWER TO COMMUNITIES",
+        "policyDescription": "We'll press for more powers for Scotland and for local communities."
+      }
+    ],
+    "mentions": {
+      "candidate": "Lewis",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "As an advocate of Greens' ideology, Lewis believes delivering a many green MPs as possible to Westminster allows the pursuit of a more sustainable and just society, whilst 'holding the pro-establishment parties' feet to the fire' on more 'green' issues.",
+    "politicalExperience": [
+      {
+        "role": "Candidate for Dunfermline and West Fife",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "lewis.campbell@scottishgreens.org.uk",
+      "website": "scottishgreens.org.uk",
+      "socialMedia": {
+        "facebook": "/fifegreen",
+        "twitter": "@WestFife_Greens",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lewis Campbell is the Scottish Greens' Candidate for Dunfermline and West Fife"
+        }
+      ]
+    },
+    "additionalNotes": "If elected Lewis will protect spending on railways and public transport, invest local skills and engineering expertise in developing renewable energy, and support local business to flourish in the face of supermarket competition."
+  }
+}
+```

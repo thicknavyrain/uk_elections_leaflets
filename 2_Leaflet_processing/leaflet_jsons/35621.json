@@ -1,0 +1,103 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Swinson",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "THE LIBERAL DEMOCRATS ARE WINNING UP AND DOWN BRITAIN",
+        "content": "People don't have to choose between Boris Johnson and Jeremy Corbyn. Millions of people are switching to back a better future with Jo Swinson and the Lib Dems."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A FAIRER BRITAIN",
+        "policyDescription": "The Liberal Democrats will build an economy that works for everyone, not just the richest."
+      },
+      {
+        "policyTitle": "TACKLING THE CLIMATE EMERGENCY",
+        "policyDescription": "The Liberal Democrats will take the urgent action needed to protect our environment, making Britain a world leader in renewable energy and green technology."
+      },
+      {
+        "policyTitle": "INVEST IN SCHOOLS AND OUR NHS",
+        "policyDescription": "The Liberal Democrats will invest billions more to secure the future of the NHS after years of Conservative neglect. Jo Swinson will work to ensure our children get to go to the best schools in the world."
+      },
+      {
+        "policyTitle": "STOP BREXIT",
+        "policyDescription": "Jo Swinson's first act as Prime Minister would be to stop Brexit."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jo Swinson",
+      "otherPartyLeaderCandidate": "Boris Johnson, Jeremy Corbyn",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Jo Swinson's first act as Prime Minister would be to stop Brexit.",
+      "economy": "The Liberal Democrats will build an economy that works for everyone, not just the richest.",
+      "education": "",
+      "environment": "The Liberal Democrats will take the urgent action needed to protect our environment, making Britain a world leader in renewable energy and green technology.",
+      "governance": "",
+      "health": "The Liberal Democrats will invest billions more to secure the future of the NHS after years of Conservative neglect.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk/help",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "SKY NEWS",
+        "endorsement": "The Lib Dem fightback is real - and it's changing everything."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The Lib Dem fightback is real - and it's changing everything.",
+        "source": "SKY NEWS, August 2019",
+        "date": "August 2019"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jo Swinson with supporters and activists."
+        },
+        {
+          "caption": "Jo Swinson and the statement 'My first act as PRIME MINISTER will be to STOP BREXIT'"
+        },
+        {
+          "caption": "Graphical representation of the Liberal Democrats' success in various regions"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet includes a form where supporters can indicate how they want to help the campaign, such as donating, putting up posters, delivering leaflets, or joining the Liberal Democrats."
+  }
+}
+```

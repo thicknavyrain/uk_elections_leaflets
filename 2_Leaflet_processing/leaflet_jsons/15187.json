@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tulip Siddiq",
+    "constituency": "Hampstead and Kilburn",
+    "politicalParty": "Labour",
+    "electionDate": "2015",
+    "messages": [
+      {
+        "title": "Labour victory in Camden",
+        "content": "A huge thank you to everyone who voted in the local elections in May. Camden had one of the highest turn-outs in the country and I am very proud of what we have achieved over the past four years, and that the voters have put their faith in Labour again. The results were extremely positive for Labour across London and I am grateful for your support. Camden Council now has 40 Labour councillors."
+      },
+      {
+        "title": "Fighting against HS2",
+        "content": "In both my role as a Camden councillor and as a prospective Member of Parliament, I have been fighting against HS2 and trying to make sure that if it does go ahead, any negative effects on the constituency and both boroughs will be minimized."
+      },
+      {
+        "title": "Supporting Kilburn High Road",
+        "content": "I invited Ed Miliband, leader of the Labour Party, to visit Kilburn High Road to show him firsthand the problems we have with betting shops and pay day lenders. Ed also met local people and held discussions about how to improve the High Road. I am already working with Camden and Brent council to continue improving the High Road and I hope to continue this work if elected as your MP."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Plans to build 6,000 new homes across the borough, which will target rich investors who buy homes and don't use them with a proposed 'buy to leave' tax."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "If elected, Labour will put an end to the spread of pay-day lenders, who often get away with charging extortionate rates to the most vulnerable members of society. We will also push for more education about alternatives, including credit unions, to offer hope to those in financial trouble."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Labour has pledged to provide a breakfast club in every school, as well as offering 25 hours of free nursery care to help young parents back into work."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tulip Siddiq",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "If elected, Labour will put an end to the spread of pay-day lenders, who often get away with charging extortionate rates to the most vulnerable members of society.",
+      "environment": "",
+      "governance": "",
+      "health": "Labour has pledged to provide a breakfast club in every school, as well as offering 25 hours of free nursery care to help young parents back into work.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Plans to build 6,000 new homes across the borough, which will target rich investors who buy homes and don't use them with a proposed 'buy to leave' tax.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I want to be your Labour MP for Hampstead and Kilburn.",
+    "politicalExperience": [
+      {
+        "role": "Camden councillor",
+        "duration": "",
+        "achievements": "Fighting against HS2 and trying to ensure that if it does go ahead, any negative effects on the constituency and both boroughs will be minimized."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "tulip@tulipsiddiq.com",
+      "website": "www.tulipsiddiq.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@tulipsiddiq",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "In the community"
+        },
+        {
+          "caption": "Labour victory in Camden"
+        },
+        {
+          "caption": "Fighting against HS2"
+        },
+        {
+          "caption": "Supporting Kilburn High Road"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

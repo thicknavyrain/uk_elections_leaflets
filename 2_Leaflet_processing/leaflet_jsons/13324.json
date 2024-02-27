@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stephen Priestley",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "7.5.15",
+    "messages": [
+      {
+        "title": "MEET YOUR LOCAL UKIP PARLIAMENTARY CANDIDATE",
+        "content": "I am Stephen Priestley, your UKIP candidate in the forth-coming election on 7.5.15."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS policy",
+        "policyDescription": "Promises the NHS will record properly, UKIP party states that as usual all politicians are behind the curve in ignoring this need to support GPs."
+      },
+      {
+        "policyTitle": "Opening hours",
+        "policyDescription": "Promises plans of GP opening hours whenever practical."
+      },
+      {
+        "policyTitle": "Providing full local services",
+        "policyDescription": "Mentions providing full local services including GPs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stephen Priestley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "If you want a referendum to decide the continued membership of the UK in the EU, vote UKIP.",
+      "economy": "The message details that Stephen has dedicated his professional life to ensuring financial probity and economic rigour in all his business dealings. He wants to bring this experience to being an MP.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Plans of opening GP hours, providing proper records and full local services including GPs.",
+      "immigration": "Statements about a strong British identity within a multicultural community.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The message suggests he will deal with the 'Westminster Bubble' that often promises policies that appear nationwide but do not reach people frequently out of their promises.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have now dedicated my entire professional life to ensuring financial probity and economic rigour.",
+    "politicalExperience": [
+      {
+        "role": "Candidate",
+        "duration": "For the forthcoming election on 7.5.15",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07891 118 443",
+      "email": "priestleystephen@hotmail.com",
+      "website": "web: stephenpriestleybrentcentral.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Stephen Priestley with another individual during campaigning."
+        },
+        {
+          "caption": "Photo of Stephen Priestley holding a 'Vote Leave European Union' sign."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet emphasizes the importance of the upcoming election and highlights the need to say NO to the European Union, as well as the promise to address local services."
+  }
+}
+```

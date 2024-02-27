@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Let's get Brexit done so the country can finally move forward",
+        "content": "By getting Brexit done, we can get on with the priorities we all share."
+      },
+      {
+        "title": "A Labour government would spend all their time arguing about Brexit.",
+        "content": "So priorities like the NHS, police and schools would be ignored."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "£33.9 billion extra for the NHS"
+      },
+      {
+        "policyTitle": "Police",
+        "policyDescription": "20,000 extra police officers"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "More money for every single school"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Just 9 more seats needed for a majority"
+    },
+    "issues": {
+      "brexitEurope": "Let's get Brexit done",
+      "economy": "",
+      "education": "More money for every single school",
+      "environment": "",
+      "governance": "",
+      "health": "£33.9 billion extra for the NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "A Labour government would spend all their time arguing about Brexit. So priorities like the NHS, police and schools would be ignored.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "Labour 'still divided over' Brexit",
+        "source": "BBC News",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Police officers on duty"
+        },
+        {
+          "caption": "Scientist looking through a microscope"
+        }
+      ]
+    },
+    "additionalNotes": "POLLS TEETER BETWEEN HUNG PARLIAMENT AND SLIM TORY MAJORITY - The Times headline"
+  }
+}
+```

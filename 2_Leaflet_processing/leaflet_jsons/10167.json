@@ -1,0 +1,111 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gary Ridley",
+    "constituency": "Coventry North West",
+    "politicalParty": "Conservative",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "3 POSITIVE REASONS TO VOTE FOR GARY RIDLEY",
+        "content": "Protecting the NHS, Helping Pensioners, A New Technical Academy for Coventry"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting the NHS",
+        "policyDescription": "Coventry’s residents deserve a world class health service. Conservatives will protect the National Health Service, with budget cuts Gary will also continue to campaign against hospital car parking charges."
+      },
+      {
+        "policyTitle": "Helping Pensioners",
+        "policyDescription": "Pensioners have been hard hit by the recession. Gary supports Conservative plans to raise the basic state pension inline with earnings."
+      },
+      {
+        "policyTitle": "A New Technical Academy for Coventry",
+        "policyDescription": "Conservatives will create twelve new technical academies. Gary will campaign for Coventry to benefit. Gary supports Conservative plans to create 400,000 new apprenticeships and pre-apprenticeship and college places."
+      }
+    ],
+    "mentions": {
+      "candidate": "Gary Ridley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "As a former student of Coventry University, Gary believes that the city is key to helping people back to work after the recession. He hopes we will create over 100,000 university places.",
+      "environment": "",
+      "governance": "",
+      "health": "Coventry’s residents deserve a world class health service. Conservatives will protect the National Health Service, with budget cuts Gary will also continue to campaign against hospital car parking charges.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "6 South Avenue, Coventry, CV2 4DR.",
+      "phone": "07757 138881",
+      "email": "gary.ridley@coventryconservatives.com",
+      "website": "http://www.garyridley.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Gary with fellow Conservative campaigners."
+        },
+        {
+          "caption": "Gary meeting with members of the public."
+        },
+        {
+          "caption": "Gary working to support jobs and business."
+        },
+        {
+          "caption": "Gary at the location of a development that will create skilled jobs."
+        },
+        {
+          "caption": "Gary standing up for higher education."
+        },
+        {
+          "caption": "Gary campaigning for the Ricoh Arena."
+        },
+        {
+          "caption": "Gary unveiling a statue of Lady Godiva."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

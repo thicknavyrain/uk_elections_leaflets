@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ed Miliband",
+    "constituency": "Doncaster North",
+    "politicalParty": "The Labour Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Labour will build a better future for our NHS",
+        "content": "Labour has a better plan for our NHS: Recruit 20,000 more nurses and 8,000 more GPs, guarantee GP appointments within 48 hours, and guarantee cancer tests and results within one week."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Improvement",
+        "policyDescription": "Recruit 20,000 more nurses and 8,000 GPs, guarantee GP appointments within 48 hours, and guarantee cancer tests and results within one week."
+      },
+      {
+        "policyTitle": "Economic Plan",
+        "policyDescription": "Labour's economic plan includes introducing a levy on tobacco firms and a Mansion Tax on properties over £2 million to fund the NHS without increasing overall taxes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ed Miliband",
+      "otherPartyLeaderCandidate": "Nigel Farage",
+      "partyLeader": "Ed Miliband",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour's economic plan includes introducing a levy on tobacco firms and a Mansion Tax on properties over £2 million to fund the NHS.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Recruit 20,000 more nurses and 8,000 more GPs, guarantee GP appointments within 48 hours, and guarantee cancer tests and results within one week.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Introducing a Mansion Tax on properties over £2 million.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "In just a few weeks, you have a choice to make about the future of our NHS, so I wanted to give you the facts about what is at stake.",
+    "politicalExperience": [
+      {
+        "role": "Leader of the Labour Party",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "One Brewers' Green London SW1H 0RH",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photos of Ed Miliband engaging with people and speaking in various settings."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet mentions the threats posed by the Tories and Nigel Farage to the NHS, and emphasizes that Labour will balance the books but will not put the NHS at risk with extreme spending cuts like the Tories."
+  }
+}
+```

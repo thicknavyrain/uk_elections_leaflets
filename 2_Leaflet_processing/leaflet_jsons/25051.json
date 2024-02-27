@@ -1,0 +1,72 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Cambridge",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "2015",
+    "messages": [
+      {
+        "title": "Decision time 2015: The Conservatives can't win in Cambridge",
+        "content": "Voting for the Conservatives here will help Labour ruin our economic recovery."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The Conservatives can't win in Cambridge"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour would leave a monstrous deficit and will bankrupt our country.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Labour would leave a monstrous deficit and will bankrupt our country.",
+        "source": "Business leader Peter Hargreaves",
+        "date": "February 2015"
+      },
+      {
+        "text": "Labour would cost every family £1,000 a year more in taxes.",
+        "source": "Institute for Fiscal Studies",
+        "date": "April 2015"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "But we can stop this! Find out how overleaf"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

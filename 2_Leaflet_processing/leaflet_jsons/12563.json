@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "you can make the difference",
+        "content": "Britain needs change. You will soon have the chance to make that change happen."
+      },
+      {
+        "title": "",
+        "content": "We need a new government with the energy, leadership and values to get the country moving, and our economy back on track. We have bold plans to change our country for the better."
+      },
+      {
+        "title": "",
+        "content": "Some of our plans won’t cost money but will need real energy - like our determination to improve school discipline."
+      },
+      {
+        "content": "And where our plans will cost money, like stopping Labour's jobs tax, we've found the money from other areas like cutting government waste."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Stopping Labour's jobs tax, cutting government waste."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Determination to improve school discipline."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Stopping Labour's jobs tax, cutting government waste.",
+      "education": "Determination to improve school discipline.",
+      "environment": "",
+      "governance": "Cutting government waste.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Only the Conservatives can bring the change Britain needs. I hope you'll take the chance to vote for that change.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron writing, with text supporting change and the Conservative Party."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes the need for change in Britain and highlights Conservative Party's plans to improve the economy and education. It also targets Labour's policies directly."
+  }
+}
+```

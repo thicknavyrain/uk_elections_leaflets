@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Conservatives",
+	"electionDate": "Thursday 8th June",
+	"messages": [
+  	{
+    	"title": "YOUR CHOICE AT THIS ELECTION:",
+    	"content": "A COALITION OF CHAOS WITH JEREMY CORBYN"
+  	},
+    {
+      "title": "STRONG AND STABLE LEADERSHIP THE BEST POSSIBLE DEAL FROM BREXIT",
+      "content": "A GROWING ECONOMY TO SECURE OUR FUTURE"
+    }
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon",
+  	"partyLeader": "Theresa May",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "the best Brexit deal possible",
+  	"economy": "a growing economy to secure our future",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "YOUR CHOICE AT THIS ELECTION: A COALITION OF CHAOS WITH JEREMY CORBYN"
+    	},
+    	{
+      	"caption": "STRONG AND STABLE LEADERSHIP IN THE NATIONAL INTEREST"
+    	}
+  	]
+	},
+	"additionalNotes": "Leaflet focuses on leadership and Brexit, criticizing potential opposition coalition and emphasizing the need for strong and stable leadership from the Conservative Party."
+  }
+}
+```

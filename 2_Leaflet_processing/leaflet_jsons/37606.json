@@ -1,0 +1,81 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sarah Boyack",
+    "constituency": "Edinburgh",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Jobs and Business",
+        "policyDescription": "A real focus on creating jobs and supporting business"
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "No distraction with separating Scotland from the rest of the UK"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Council tax freeze for two years, literacy specialists in classrooms"
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Faster cancer waiting times"
+      }
+    ],
+    "mentions": {
+      "candidate": "Sarah Boyack",
+      "otherPartyLeaderCandidate": "Nick Clegg",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A real focus on creating jobs and supporting business",
+      "education": "Literacy specialists in classrooms",
+      "environment": "",
+      "governance": "No distraction with separating Scotland from the rest of the UK",
+      "health": "Faster cancer waiting times",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local MSP",
+        "duration": "",
+        "achievements": "Experienced, popular local MSP in Sarah Boyack"
+      }
+    ],
+    "contactInformation": {
+      "address": "32 Cowan Road, Edinburgh EH11 1RH",
+      "phone": "",
+      "email": "",
+      "website": "www.scottishlabour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of the campaign leaflet"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet criticizes the opposition, highlighting negative outcomes attributed to the Lib Dems, contrasting them with Labour's policies."
+  }
+}
+```

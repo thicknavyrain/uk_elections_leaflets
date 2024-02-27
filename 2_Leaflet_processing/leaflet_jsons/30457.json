@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "HENRY SMITH",
+    "constituency": "Crawley",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "CRAWLEY'S FUTURE",
+        "content": "Dear Fellow Resident, Representing our home town of Crawley in Parliament for the past seven years has been the greatest honour of my life. I care deeply about our community and have always worked in a constructive and responsible way to get our views and aspirations heard at the national level. I am determined to continue standing up for our community in the face of external challenges and rising cost-of-living pressures."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "STRENGTHENING BREXIT NEGOTIATIONS",
+        "policyDescription": "The Conservatives advocate strengthening the Prime Minister's hand in Brexit negotiations."
+      },
+      {
+        "policyTitle": "ECONOMY",
+        "policyDescription": "Building a stronger economy that rewards people who work hard and creates secure well-paid jobs."
+      },
+      {
+        "policyTitle": "HOUSING",
+        "policyDescription": "Building affordable homes and making sure there is a good school place for every child."
+      },
+      {
+        "policyTitle": "NATIONAL SECURITY",
+        "policyDescription": "Building a more secure and united nation by taking action, looking after your security and stability, and refusing to divide our nation."
+      }
+    ],
+    "mentions": {
+      "candidate": "Henry Smith",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "A vote for Henry Smith and Theresa May will strengthen Britain's hand in the Brexit negotiations and mitigate the risks of a weakened government."
+    },
+    "issues": {
+      "brexitEurope": "Every vote for Henry Smith and Theresa May will strengthen Britain's hand in the Brexit negotiations.",
+      "economy": "Building a stronger economy that rewards people who work hard and creates secure well-paid jobs.",
+      "education": "Building affordable homes and making sure there is a good school place for every child.",
+      "environment": "",
+      "governance": "We need an election to strengthen the Prime Minister’s hand in the crucial negotiations with the EU.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Building affordable homes and making sure there is a good school place for every child.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have been a passionate campaigner for Great Britain to leave the EU – 58% of Crawley voters backed Brexit – now we need Theresa May’s strong leadership to ensure we get the best deal for our country.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Henry Smith Crawley Business Centre, Stephenson Way, Crawley, West Sussex, RH10 1TN",
+      "phone": "",
+      "email": "team@henrysmith4crawley.co.uk",
+      "website": "www.henrysmith.info",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of the candidate Henry Smith with various groups of people and a caption reading Crawley."
+        },
+        {
+          "caption": "Image of Theresa May and Henry Smith with a caption reading Vote Conservative."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

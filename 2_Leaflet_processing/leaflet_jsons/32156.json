@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Copeland",
+    "politicalParty": "",
+    "electionDate": "November 2019",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "The new Brexit deal agreed protects jobs and trade and ends uncertainty."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "PM on Hospitals, Police and School, Prime Minister Boris Johnson",
+      "tacticalSituation": "32% majority"
+    },
+    "issues": {
+      "brexitEurope": "The new Brexit deal agreed protects jobs and trade and ends uncertainty.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "The new Brexit deal protects jobs, trade and ends uncertainty."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

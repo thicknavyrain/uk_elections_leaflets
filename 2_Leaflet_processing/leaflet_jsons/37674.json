@@ -1,0 +1,81 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nicola Sturgeon",
+    "constituency": "",
+    "politicalParty": "SNP",
+    "electionDate": "Thursday 5 May",
+    "messages": [
+      {
+        "title": "A healthier Scotland. We're working on it.",
+        "content": "This year the SNP will pump an extra £500 million into Scotland's health services and social care. That means our health budget for 2016 will be a record £13 billion. Today our doctors and nurses are delivering some of the fastest and best treatment of anywhere in the UK. Staffing in Scotland's NHS is at a record high, with an extra 10,600 workers since the SNP took office. And, of course, the SNP will always stand against the creeping privatisation that is threatening the NHS in England. There is always more work to be done. Scotland's NHS is a vital service, dear to the heart of everyone who lives here. That's why we'll never stop doing our best to make it healthier still."
+      },
+      {
+        "title": "Record funding for Scotland's NHS.",
+        "content": "Just what the doctor ordered."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare Funding",
+        "policyDescription": "An additional £500 million will be invested into Scotland's health services and social care, bringing the health budget to a record £13 billion in 2016. The SNP commits to combating privatisation of health services and continuing to improve the NHS in Scotland."
+      }
+    ],
+    "mentions": {
+      "candidate": "Be sure to re-elect Nicola Sturgeon as First Minister, make it both votes SNP.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "You have two votes for Scotland's election in May."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "An additional £500 million for Scotland's health services and social care. Record high staffing numbers with extra 10,600 workers since the SNP took office.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "There's always more work to be done. Scotland's NHS is a vital service, dear to the heart of everyone who lives here.",
+    "politicalExperience": [
+      {
+        "role": "First Minister",
+        "duration": "",
+        "achievements": "Under SNP's administration, health services and social care have seen increased investment, and staffing in Scotland's NHS reached a record high."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.snp.org/health",
+      "socialMedia": {
+        "facebook": "followtheSNP",
+        "twitter": "theSNP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nicola Sturgeon with a message about a healthier Scotland."
+        },
+        {
+          "caption": "Stethoscope graphic emphasizing record funding for Scotland's NHS."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

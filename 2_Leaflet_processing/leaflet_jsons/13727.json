@@ -1,0 +1,102 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew Judge",
+    "constituency": "Wimbledon",
+    "politicalParty": "Labour Party",
+    "electionDate": "2010",
+    "messages": [
+      {
+        "title": "Your local pledges",
+        "content": "1. A £100 Council Tax rebate over 4 years. 2. No increase in Council Tax in the next 4 years. 3. Reintroduction of ½ day visitor permits at £1. 4. Resident permit scheme for bins and waste containers. 5. Reintroduction of free and supervised community skips."
+      },
+      {
+        "title": "WIMBLEDON IS A TWO HORSE RACE",
+        "content": "Only Labour can beat the Tories. Voting Lib Dem or any other party will let the Tories win!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Taxation",
+        "policyDescription": "Offer a £100 Council Tax rebate over 4 years and no Council Tax increase in the next 4 years."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Promote recycling and environmental care, including free and supervised community skips for large items of household waste."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Labour's support for maintaining and improving local healthcare services, particularly fighting for quality public healthcare over private services."
+      },
+      {
+        "policyTitle": "Green Energy",
+        "policyDescription": "Introduction of new methods to tackle energy and resource waste, including more efficient building and cleaner transport solutions."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andrew Judge",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "It's a two horse race. Only Labour can beat the Tories. Voting Lib Dem or any other party will let the Tories win!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Andrew Judge wants Wimbledon to take a lead on action to preserve the environment.",
+      "governance": "",
+      "health": "Emphasis on fighting for quality public healthcare over private services; saving St Helier Hospital.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "As an environmental lawyer, I believe we could do far more to ensure that Wimbledon takes a lead on action to preserve the environment.",
+        "duration": "",
+        "achievements": "Leading efforts to improve the local environment in the Council."
+      }
+    ],
+    "contactInformation": {
+      "address": "Labour Party, at 267 The Broadway, London SW19 1SD.",
+      "phone": "",
+      "email": "",
+      "website": "www.andrewforwimbledon.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "We lost the last parliamentary election by a mere 2,302 votes. The Lib Dems never held the number of votes that we polled. The Lib Dems don't have a single Councillor in Merton whereas we are just 3 Councillors short of winning the Council back.",
+        "source": "Wimbledon is a two horse race statement",
+        "date": "2010"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andrew Judge praised for saving St Helier Hospital."
+        },
+        {
+          "caption": "Taking liberties: a tale of Kingston Hospital and the Lib Dems."
+        },
+        {
+          "caption": "Vote for real action on the environment."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

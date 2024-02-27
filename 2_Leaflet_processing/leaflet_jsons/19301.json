@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dominic Tristram",
+    "constituency": "Bath",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Vote With Hope",
+        "content": "In May you can vote with hope - by voting for me, by voting Green, you can help bring about real change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Opposes privatisation of the NHS, spending on private contractors and selling off chunks of it to donors in healthcare, a process started by the previous Labour government."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Against austerity and mentions that institutions like banks are being bailed out at the expense of the public, and denounces deminishing power, redistribution wealth up the income scale."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Advocates for values of health and happiness above corporate greed, unsustainable consumption, and environmental destruction."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dominic Tristram",
+      "otherPartyLeaderCandidate": "Conservatives and Liberal Democrats mentioned as doing harm to the NHS.",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Against austerity and wealth being redistributed up the income scale.",
+      "education": "",
+      "environment": "Values health and happiness above corporate greed, unsustainable consumption, and environmental destruction.",
+      "governance": "",
+      "health": "Opposes privatisation and selling parts of NHS to donors; criticizes spending on private contractors.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "I have lived and worked in Bath for 15 years. I believe that it is important that the people of Bath are represented by an MP who is truly one of them and who understands both their local concerns and global issues.",
+    "politicalExperience": [
+      {
+        "role": "NHS, Office of the Chief Scientific Adviser, Home Office, HM Revenue & Customs, Highways and Environment Agencies",
+        "duration": "15 years",
+        "achievements": "Provided with first-hand experience of the challenges these vital public bodies face, something rarely found in so many of today's career politicians."
+      }
+    ],
+    "contactInformation": {
+      "address": "Gloucester Road, Swainswick, Bath BA1 8BD",
+      "phone": "",
+      "email": "",
+      "website": "dominictristram.com",
+      "socialMedia": {
+        "facebook": "facebook.com/DomTristram",
+        "twitter": "twitter.com/DominicTristram",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "I am standing for the Green Party because it is the only party that works for the common good, not the privileged few. It doesn’t take donations from corporations, lobby groups or off-shore billionaires. It believes in putting people before profit, creating a more equal society, one that values health and happiness above corporate greed, unsustainable consumption and environmental destruction.",
+        "source": "Dominic Tristram, Green Party Parliamentary candidate for Bath",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dominic Tristram, Green Party Parliamentary candidate for Bath"
+        }
+      ]
+    },
+    "additionalNotes": "Green Party policies are already very popular in Bath - see the most popular.uk now turn support for policies into votes for power to see them implemented."
+  }
+}
+```

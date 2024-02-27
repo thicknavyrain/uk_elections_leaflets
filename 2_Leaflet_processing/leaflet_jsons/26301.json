@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Hastings",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health Service",
+        "policyDescription": "Save and improve our NHS."
+      },
+      {
+        "policyTitle": "Wages",
+        "policyDescription": "Raise the minimum wage to £8."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Stop people who come here from claiming benefits for two years."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Ban exploitative zero-hours contracts."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "We will cut the deficit every year. None of our manifesto commitments require extra borrowing. Balance the books and cut the deficit."
+      },
+      {
+        "policyTitle": "Nursing",
+        "policyDescription": "Recruit 20,000 more nurses and 8,000 more GPs."
+      },
+      {
+        "policyTitle": "Child Care",
+        "policyDescription": "Provide 25 hours free childcare a week and guarantee childcare from 8am-6pm through every primary school."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We will cut the deficit every year. None of our manifesto commitments require extra borrowing.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Save and improve our NHS.",
+      "immigration": "Stop people who come here from claiming benefits for two years.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour campaign leaflet content."
+        }
+      ]
+    },
+    "additionalNotes": "The Tories have: Caused the worst A&E crisis on record, let the cost of childcare soar by 30 per cent, left working people £1,600 worse off due to rising prices and stagnant wages, broken their promise to cut net migration, increased zero-hours contracts to 1.8 million."
+  }
+}
+```

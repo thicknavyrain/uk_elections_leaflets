@@ -1,0 +1,112 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gordon Brown",
+    "constituency": "",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 6 May",
+    "messages": [
+      {
+        "title": "The recovery is underway",
+        "content": "Labour has a clear plan to secure the recovery."
+      },
+      {
+        "title": "Vote Lib Dem and you get Tory!",
+        "content": "Unlike the Tories, the Lib Dems want to cut Child Tax Credits & Child Trust Funds."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting public services",
+        "policyDescription": "Labour will protect the free child care, tax credits and public services you rely on like schools, hospitals and the police service."
+      },
+      {
+        "policyTitle": "Helping families get on, not just get by",
+        "policyDescription": "With Labour: tax credits will be increased not cut."
+      },
+      {
+        "policyTitle": "The cancer guarantee",
+        "policyDescription": "With Labour all patients are guaranteed to see a cancer specialist within two weeks and a guarantee of test results within just one week."
+      },
+      {
+        "policyTitle": "Experience and judgement",
+        "policyDescription": "Labour's team led Britain from recession to recovery."
+      },
+      {
+        "policyTitle": "Securing the recovery",
+        "policyDescription": "Labour will continue to support the economy to secure recovery and give a training or job guarantee to all 18-24 year olds out of work for six months."
+      }
+    ],
+    "mentions": {
+      "candidate": "Gordon Brown",
+      "otherPartyLeaderCandidate": "Nick Clegg, David Cameron",
+      "partyLeader": "Gordon Brown",
+      "tacticalSituation": "Vote Lib Dem and you get Tory! Vote Labour to protect jobs."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Our economy is recovering. Labour has a clear plan to secure the recovery.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The cancer guarantee - With Labour, all patients are guaranteed to see a cancer specialist within two weeks and test results within just one week.",
+      "immigration": "",
+      "socialWelfare": "Protecting public services - Labour will protect free child care, tax credits and public services like schools, hospitals and the police service.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Prime Minister and Leader of the Labour Party",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Ross Kemp",
+        "endorsement": "I hope you'll join me in taking the right choice for our country's future. Vote Labour."
+      },
+      {
+        "endorser": "JK Rowling",
+        "endorsement": "David Cameron tells us that 'conservatives have changed' but that party are no longer the 'nasty' party, not when that party has given the wink to extremism in the UK by 'one of the most offensive and insulting advertising campaigns of modern British politics'. Everyone, I'm for labour, and I'm for an inclusive society."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We all agree on one thing. It's vital that Labour wins this election. Because if we make a mess of the economy now, we are in deep trouble.",
+        "source": "Endorsements by Patrick Stewart, Sir Alex Ferguson, Ross Kemp, JK Rowling, and others",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Picture of Gordon Brown with his wife"
+        },
+        {
+          "caption": "Endorsements from various celebrities and public figures"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

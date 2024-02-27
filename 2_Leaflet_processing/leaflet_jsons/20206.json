@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dominic Tristram",
+    "constituency": "Bath",
+    "politicalParty": "Green Party",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Vote Dominic Tristram for MP",
+        "content": "Austerity economics is failing us. Millions of people across Britain are struggling to get by."
+      },
+      {
+        "title": "We're all going Green...",
+        "content": "In last year's European Election in Bath & North East Somerset the Greens beat the Lib Dems by 16% and Labour by 8%."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "An economy that works for everyone, because one in five children in Bath is living in poverty."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "With an end to tuition fees."
+      },
+      {
+        "policyTitle": "Railways",
+        "policyDescription": "With the railways back in public hands."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Saving the NHS from privatisation."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "With safe, affordable housing for everyone."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "With real action on climate change and the environment."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dominic Tristram",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "An economy that works for everyone, because one in five children in Bath is living in poverty.",
+      "education": "With an end to tuition fees.",
+      "environment": "With real action on climate change and the environment.",
+      "governance": "",
+      "health": "Saving the NHS from privatisation.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "With safe, affordable housing for everyone.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "dominic.tristram@bathgreenparty.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@DominicTristram",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "On May 7th you have a chance to vote for real change. Vote Green.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "The Greens mean business"
+        }
+      ]
+    },
+    "additionalNotes": "Printed on 100% recycled paper. Delivered by local volunteers."
+  }
+}
+```

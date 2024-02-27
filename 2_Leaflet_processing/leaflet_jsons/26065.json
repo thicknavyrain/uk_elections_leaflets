@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "HELEN WHATELY",
+    "constituency": "Faversham and Mid Kent",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Backing local businesses",
+        "policyDescription": "to create more local jobs and opportunities"
+      },
+      {
+        "policyTitle": "Opposing excessive development",
+        "policyDescription": "and industrialisation of rural Kent"
+      },
+      {
+        "policyTitle": "Campaigning for the NHS",
+        "policyDescription": "better GP access and excellent local healthcare"
+      }
+    ],
+    "mentions": {
+      "candidate": "HELEN WHATELY",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Campaigning for the NHS, better GP access and excellent local healthcare",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Opposing excessive development and industrialisation of rural Kent",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.helenwhately.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "HELEN WHATELY - A strong voice for Faversham and Mid Kent"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

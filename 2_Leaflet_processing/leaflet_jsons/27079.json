@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Julian Huppert",
+    "constituency": "Cambridge",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "Want to change Britain's Future?",
+        "content": "The Lib Dems are fighting to get the best for Britain, staying in the single market, protecting jobs and fighting for an open and tolerant society. The party offers a chance to have the final say on Brexit deal."
+      },
+      {
+        "title": "The only party with a real plan to save our NHS",
+        "content": "The Lib Dems propose investing an extra £6bn a year to save our NHS funded by a 1p rise in income tax."
+      },
+      {
+        "title": "Millions are demanding change",
+        "content": "Liberal Democrats are presented as the choice for changing Britain's future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Invest an extra £6bn a year to save the NHS, funded by a 1p rise in income tax."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Stop a damaging Brexit and ensure vital services like the NHS and schools are protected. Offer a final say on the Brexit deal."
+      }
+    ],
+    "mentions": {
+      "candidate": "Julian Huppert",
+      "otherPartyLeaderCandidate": "Theresa May, Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "The leaflet suggests tactical voting by indicating that Labour's approach to Brexit makes the Lib Dems the real opposition to the Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "The Lib Dems are anti-Brexit, want to stay in the single market and offer a final say on the Brexit deal.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The Lib Dems propose investing an extra £6bn a year to save the NHS, funded by a 1p rise in income tax.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Julian Huppert is deeply concerned about the direction the country is heading under the current Conservative government, stating that if re-elected on June 8th, he will fight day in, day out to stop a damaging Brexit and severe cuts.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "15 Ronald Rolph Court, Wadloes Road, Cambridge CB5 8PX",
+      "phone": "",
+      "email": "",
+      "website": "www.cambridgelibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Times",
+        "endorsement": "Only the Lib Dems can stop hard Brexit."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Lib Dems are the anti-Brexit, reforming party. So for all those Remain voters still unreconciled to the outcome of the referendum, the only obvious choice is Lib Dem.",
+        "source": "BBC, 19 April 2017",
+        "date": "2017-04-19"
+      },
+      {
+        "text": "Labour voted with UKIP and Tories for Brexit.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "Jeremy Corbyn's Labour voted with UKIP in Parliament to support a hard Brexit.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Julian Huppert with supporters."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

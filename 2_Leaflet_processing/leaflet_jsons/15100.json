@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John McDonnell",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "",
+        "content": "I am writing just to let you know that I am standing again as the Labour Parliamentary Candidate in the election on 7th May. The reason I am seeking re-election is because I am really worried about what this government is doing to our community and what could happen if the Conservatives get elected again."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "National Health Service",
+        "policyDescription": "Expresses concern over threats to the National Health Service and opposition to the perceived risk of NHS privatization and sell-off under the Conservative government."
+      },
+      {
+        "policyTitle": "Local Housing Crisis",
+        "policyDescription": "Discusses the local housing crisis including high rents, skyrocketing housing prices, overcrowding, and the lack of council houses being built. Advocates for building council homes and implementing rent controls to ease the demand for housing and bring down prices."
+      }
+    ],
+    "mentions": {
+      "candidate": "John McDonnell",
+      "otherPartyLeaderCandidate": "Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Extremely anxious about the threat to our National Health Service.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Local housing crisis with high rents, skyrocketing prices, overcrowding, families in appalling conditions, and a lack of council houses being built.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I believe that we need a local MP who knows our area and stands up for our community no matter which party is in government. Once again I will be the only candidate that actually lives in our area.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "The Labour Hall, Pump Lane, Hayes UB3 3NB",
+      "phone": "020 8573 3535",
+      "email": "johnmcdonnell@outlook.com",
+      "website": "www.john-mcdonnell.net",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of John McDonnell"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

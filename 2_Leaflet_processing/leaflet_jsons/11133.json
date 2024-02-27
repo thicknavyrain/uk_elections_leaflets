@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Walsall North",
+    "politicalParty": "UKIP",
+    "electionDate": "Thursday, 6th May, 2010",
+    "messages": [
+      {
+        "title": "A New Style Of Politics Is Called For ...",
+        "content": "Straight Talking"
+      },
+      {
+        "title": "Make UK Independence Day!",
+        "content": "VOTE UKIP"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "British Jobs",
+        "policyDescription": "WE CAN SAY 'BRITISH JOBS FOR BRITISH PEOPLE' & MEAN IT!!"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Real Justice for Victims, Respect is earned, Freedom & Democracy. Lets NOT Lose it!",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "How much more can we WASTE!"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

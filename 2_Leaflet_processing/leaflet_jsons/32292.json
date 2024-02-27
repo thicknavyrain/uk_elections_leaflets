@@ -1,0 +1,53 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "DANIEL ZEICHNER",
+    "constituency": "Cambridge",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "TOGETHER, LET'S MAKE OUR CITY THE BEST IT CAN BE."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

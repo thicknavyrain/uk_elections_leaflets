@@ -1,0 +1,72 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alan Mak",
+    "constituency": "Havant",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Postal Vote Information",
+        "content": "Please use your postal vote to support Alan Mak and Clare Satchwell. Your postal vote will shortly land on your doormat."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Lowered taxes for hardworking people and local businesses. Cut Labour's deficit by 50% so our children aren't burdened with debt. Created 1000 new jobs every day, and launched 2 million new apprenticeships."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Help us finish re-building our economy so we don't let Ed Miliband and Ed Balls into Downing Street."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alan Mak",
+      "otherPartyLeaderCandidate": "Ed Miliband and Ed Balls",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Lowered taxes for hardworking people and local businesses. Cut Labour's deficit by 50% so our children aren't burdened with debt. Created 1000 new jobs every day, and launched 2 million new apprenticeships.",
+      "education": "",
+      "environment": "",
+      "governance": "Help us finish re-building our economy so we don't let Ed Miliband and Ed Balls into Downing Street.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Protect green spaces and campaign for more business investment into the Havant Borough.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Havant Conservatives, 19 South Street, Havant, PO9 1BU",
+      "phone": "023 9247 5066",
+      "email": "clare@havantconservatives.com",
+      "website": "www.HavantConservatives.com",
+      "socialMedia": {
+        "facebook": "www.facebook.com/AlanMakHavant",
+        "twitter": "@AlanMakMP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign leaflet for Alan Mak, Conservative MP Candidate for Havant, and Clare Satchwell, Conservative Council Candidate for Hayling East."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

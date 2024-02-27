@@ -1,0 +1,72 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Cynthia Robertson",
+    "constituency": "Maidstone",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "FOCUS",
+        "content": "Stronger economy, fairer society"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Protecting education spending"
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Committing to 8 billion/year by 2020 for NHS"
+      }
+    ],
+    "mentions": {
+      "candidate": "Cynthia Robertson",
+      "otherPartyLeaderCandidate": "Jasper Gerard",
+      "partyLeader": "",
+      "tacticalSituation": "It's so close here! You will let the Conservatives slip through the middle if you vote Labour"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Protecting education spending of £8 billion/year by 2020",
+      "education": "Cutting class sizes",
+      "environment": "",
+      "governance": "",
+      "health": "Committing £8 billion/year by 2020 for NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Building more houses",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Cynthia Robertson has a record of getting things done for the people of Maidstone",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01622 235 671",
+      "email": "maidstonelibdems@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cynthia Robertson and Jasper Gerard working hard together for you"
+        }
+      ]
+    },
+    "additionalNotes": "Your guide to the General Election - Vote Lib Dem on 7th May. Polls open 7am-10pm."
+  }
+}
+```

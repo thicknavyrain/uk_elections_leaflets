@@ -1,0 +1,114 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Five years ago the Labour Minister in charge of spending taxpayers' money left us a note saying 'I’m afraid there is no money'.",
+        "content": ""
+      },
+      {
+        "title": "The first five years of economic progress could come to a halt if you don’t act.",
+        "content": ""
+      },
+      {
+        "title": "Keep Pensioners' benefits",
+        "content": ""
+      },
+      {
+        "title": "Employment rate at record high?",
+        "content": ""
+      },
+      {
+        "title": "An alliance with the SNP would only help Miliband and the Labour get into power.",
+        "content": "This would break the tackled economy."
+      },
+      {
+        "title": "SNP threat to hold UK to ransom.",
+        "content": ""
+      },
+      {
+        "title": "Sturgeon's wishlist: Increase benefits and raise taxes.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Continue on the Conservatives' strategy of economic progress to avoid the pitfalls of past Labour government economic management."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "Voting for the Conservatives here is the only way to stop Labour and the SNP from gaining power and disrupting the economic progress made by the Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The first five years of economic progress could come to a halt if you don’t act.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Sturgeon's wishlist: Increase benefits and raise taxes.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Matthew Parker Street, London, SW1H 9HQ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I’m afraid there is no money.",
+        "source": "Labour Minister in charge of spending taxpayers' money",
+        "date": ""
+      },
+      {
+        "text": "An alliance with the SNP would only help Miliband and the Labour",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Conservative Party leaflet with messages about economic progress, the threat of Labour and SNP, and endorsing David Cameron."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes the risk of voting for Labour and the potential alliance with the SNP, warning against the consequences for the economy and social welfare."
+  }
+}
+```

@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tony Juniper",
+    "constituency": "Cambridge Constituency",
+    "politicalParty": "Green Party",
+    "electionDate": "spring 2010",
+    "messages": [
+      {
+        "title": "VOTE GREEN",
+        "content": "Now is the time to ensure a fresh voice in politics by voting for the Green Party at the upcoming general election."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Real investment in education",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Increasing pensions to £170 per week",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Action on climate change",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Investment in the NHS",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "No cuts to public services",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Tony Juniper",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Because of our unfair voting system no Green MP has yet been elected to Westminster. However, with the surge in green votes in Cambridge recently this year the Green Party is now in a strong position for the forthcoming election."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "has led multiple successful campaigns during his career on food policy, climate change, fuel poverty, transport, fair trade, and shifts towards a greener economy",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Tony Juniper: an experienced and successful leader for positive change",
+    "politicalExperience": [
+      {
+        "role": "Director of Friends of the Earth",
+        "duration": "2002-2008",
+        "achievements": "Instrumental in enacting the Climate Change Act of 2008"
+      },
+      {
+        "role": "Member of the 'Green New Deal' group",
+        "duration": "",
+        "achievements": "which proposed measures to create jobs while protecting the environment"
+      },
+      {
+        "role": "",
+        "duration": "",
+        "achievements": "Has led multiple successful campaigns during his career on food policy, climate change, fuel poverty, transport, fair trade, and shifts towards a greener economy. Award-winning author and strategic advisor to international companies"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.TonyJuniper.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tony Juniper's photo"
+        },
+        {
+          "caption": "Graph showing Cambridge Constituency Vote Change 2005-2009"
+        },
+        {
+          "caption": "Illustrations representing education, pensions, NHS, and public services"
+        },
+        {
+          "caption": "Pie chart from Vote for Policies survey results"
+        }
+      ]
+    },
+    "additionalNotes": "With more than 36,000 people having taken the survey online, the results have been overwhelmingly in favor of Green Party policies. Voters in Cambridge have the chance to see this preference for Green Policy become a reality in 2010 by electing Tony Juniper into Parliament. Information from 6 April 2010."
+  }
+}
+```

@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Oliver Letwin",
+    "constituency": "West Dorset",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May 2015",
+    "messages": [
+      {
+        "title": "YOUR LOCAL CONSERVATIVE TEAM WORKING FOR WEST DORSET",
+        "content": "Against the background of a steadily recovering national economy, your conservative team on West Dorset District Council has been moving forward with ambitious plans for the local area."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Keep the council tax low, freeze parking charges, support local businesses to thrive."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Encourage more affordable housing, promote neighbourhood plans, improve the local plan, tackle second homes issues, keep pressure on housing numbers to a reasonable level."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Promote high-tech and well-managed farming, renewable energy where it doesn't damage our Jurassic coast, encourage rural broadband and mobile phone connections."
+      }
+    ],
+    "mentions": {
+      "candidate": "Oliver Letwin",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Keep the council tax low, freeze parking charges, support local businesses to thrive.",
+      "education": "",
+      "environment": "Promote high-tech and well-managed farming, renewable energy where it doesn't damage our Jurassic coast.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Encourage more affordable housing, promote neighbourhood plans, improve the local plan, tackle second homes issues, keep pressure on housing numbers to a reasonable level.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Oliver Letwin (aged 58) has been MP for West Dorset since 1997. He has a reputation as a hard-working constituency MP. Since 2010, he has served as Minister for Government Policy and Chancellor of the Duchy of Lancaster in the coalition government.",
+    "politicalExperience": [
+      {
+        "role": "Minister for Government Policy and Chancellor of the Duchy of Lancaster",
+        "duration": "2010-Present",
+        "achievements": "Contribution in the coalition government, helped to create the Office for Budget Responsibility, worked to reduce the deficit and to hold the coalition together."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Conservative councillors will be committed to keeping taxes low and to serve you well.",
+        "source": "Campaign message",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Oliver Letwin with supporters."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

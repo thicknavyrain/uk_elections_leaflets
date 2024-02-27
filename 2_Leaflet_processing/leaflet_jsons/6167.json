@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Bruce Reid",
+    "constituency": "North Durham",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "My local issues are",
+        "content": "I oppose the reduction of care home provision and I will campaign for local democracy. 74.8% of the people voted against the creation of a Unitary Authority but it was forced upon us. This emphasises the degree to which the will of the people is held in contempt. I would like to see more police on the streets controlling antisocial behaviour and a reduction in their time-consuming paperwork. I will campaign for regular meetings between the police and residents to ensure that policing methods are as flexible and effective as possible in meeting the needs of the community."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Care Home Provision",
+        "policyDescription": "Opposes the reduction of care home provision and campaigns for local democracy."
+      },
+      {
+        "policyTitle": "Law and Order",
+        "policyDescription": "Wants more police on the streets controlling antisocial behaviour and reducing paperwork. Advocates for regular meetings between police and residents."
+      }
+    ],
+    "mentions": {
+      "candidate": "Bruce Reid",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Paul Nuttall",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Campaigns for local democracy and references the disregard of the will of the people with the creation of a Unitary Authority.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Opposes the reduction of care home provision and campaigns for local democracy.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Married with one grown-up son, enjoys music and songwriting, visiting National Trust properties and the countryside. Has lived in the Durham area for 30 years.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "Call free 0800 587 6 587",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Straight talking. Vote UKIP",
+        "source": "Election communication for the UK Independence Party",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Portrait of Bruce Reid"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet includes a detachable coupon for the reader to request more information or show support, with a FreePost address."
+  }
+}
+```

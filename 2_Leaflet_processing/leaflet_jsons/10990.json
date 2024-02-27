@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ed Fordham",
+    "constituency": "Brent",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Pay more, get less with Brown",
+        "content": "Gordon Brown has put up taxes on those on middle and low incomes. But he's done little about millionaires and bankers who dodge taxes. Under Labour, the prospect is more taxes, more waste and more cuts to the services we all rely on."
+      },
+      {
+        "title": "Real change with Clegg",
+        "content": "Nick Clegg's Lib Dems will make the first £10,000 you earn tax free. This will give everyone a £700 tax cut and take millions of low paid workers and pensioners out of the tax system."
+      },
+      {
+        "title": "Delight for Cameron's chums",
+        "content": "It's no surprise that millionaires are giving such generous donations to David Cameron's Conservatives. The top tax priority for the Conservatives is a tax cut for their millionaire chums. They've even talked about raising VAT to 20%. Tax cuts for millionaires, tough luck for the rest of us."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "The Liberal Democrats will make the first £10,000 you earn tax free, which will result in a £700 tax cut for millions of low paid workers and pensioners."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ed Fordham",
+      "otherPartyLeaderCandidate": "Gordon Brown, David Cameron",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Conservatives have no Councillors in this part of Brent. Here in this new parliamentary seat they are in third place."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour's tenure has resulted in higher taxes and economic waste, whereas the Liberal Democrats propose a significant tax cut for low paid workers and pensioners.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "If you want to send Labour a message that enough is enough you can do by supporting my friend and colleague Ed Fordham.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "291 Kilburn High Road, London, NW6 7JR",
+      "phone": "020 7697 1363",
+      "email": "info@brentlibdems.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Sarah Teather",
+        "endorsement": "Ed is only 474 votes behind Labour. Ed will make an excellent local MP. He has my full support."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sarah Teather backing Ed Fordham to win here"
+        }
+      ]
+    },
+    "additionalNotes": "It's between the Lib Dems and Labour here in this part of Brent."
+  }
+}
+```

@@ -1,0 +1,82 @@
+{
+  "leaflet": {
+    "candidateName": "Emily Benn",
+    "constituency": "Croydon South",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Campaigning to make a difference",
+        "content": "Dear friend, I'm from Croydon and I know what our town needs. A vote for Labour at this election is a vote to protect the NHS, to build more homes and to create a fairer economy. I hope you'll give me your support. Emily"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Reduce the deficit every year to balance the books - but protect vital services like the NHS."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build 200,000 new homes a year by 2020 as well as cap annual rent rises."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Provide 8,000 more GPs and 20,000 more nurses to build an NHS with time to care."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Raise the minimum wage to £8 per hour by 2020 to help make work pay."
+      },
+      {
+        "policyTitle": "Youth Employment",
+        "policyDescription": "Guarantee a job for 18-24 year olds after they have been out of work for a year."
+      }
+    ],
+    "mentions": {
+      "candidate": "Emily Benn",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Reduce the deficit every year to balance the books - but protect vital services like the NHS.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Provide 8,000 more GPs and 20,000 more nurses to build an NHS with time to care.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Build 200,000 new homes a year by 2020 as well as cap annual rent rises.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I'm campaigning on the issues that make a difference to people's lives - like the NHS and housing.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Ruskin House, 23 Coombe Road, Croydon, CR0 1BD",
+      "phone": "07857 357 451",
+      "email": "",
+      "website": "emilybenn.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Emily Benn leaflet with an image of her and the slogan 'Campaigning to make a difference'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

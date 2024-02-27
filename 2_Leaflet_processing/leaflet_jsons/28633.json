@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr Jean Davis",
+    "constituency": "Ross, Skye and Lochaber",
+    "politicalParty": "Scottish Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "The only way to stop the SNP",
+        "content": "It won't take much to beat the SNP and elect an MP focused on the Highlands again. Elections in Ross, Skye and Lochaber are between the Scottish Liberal Democrats and the SNP."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting Your Pensions",
+        "policyDescription": "Liberal Democrats oppose Conservative plans to break the 'triple lock' which will ensure that pensioners have an extra £772 a year by 2021."
+      },
+      {
+        "policyTitle": "Improving Broadband and Mobile Coverage",
+        "policyDescription": "Scottish Liberal Democrats will invest in digital economy for all, not just for the big cities and ensure local people are compensated when service is poor or does not match what is advertised."
+      },
+      {
+        "policyTitle": "Help for Farmers and Crofters",
+        "policyDescription": "Liberal Democrats will fight for payments and access to a flexible system of farming support, strengthened measures to make sure supermarkets pay fair prices and to ensure agriculture puts money not just into the pockets of farmers but also into local shops, Post Offices and all sorts of local businesses."
+      },
+      {
+        "policyTitle": "Returning Power to Local Communities",
+        "policyDescription": "Liberal Democrats believe that local people do know what is best for our local communities and for the people who live here. We stand up to the SNP's power-grabs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr Jean Davis",
+      "otherPartyLeaderCandidate": "SNP",
+      "partyLeader": "",
+      "tacticalSituation": "Local poll results 'real springboard' for Scottish Lib Dems"
+    },
+    "issues": {
+      "brexitEurope": "Only the Liberal Democrats can stop a hard Brexit. Lib Dems to oppose second independence referendum. The Liberal Democrats secure the big winners.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Returning power to local communities. Stopping power-grabs by the SNP.",
+      "health": "Supporting local health services. The SNP government have been downgrading rural hospitals across Scotland. Must be supported and their families have to travel great distances for treatment. The SNP prefers to go the extra mile for patients, rather than patients having to go hundreds of extra miles for treatment.",
+      "immigration": "",
+      "socialWelfare": "Protecting Your Pensions",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Only the Liberal Democrats can stop a hard Brexit.",
+        "source": "The Times, 4th April 2017"
+      },
+      {
+        "text": "Lib Dems to oppose second independence referendum",
+        "source": "The Times, 29th September 2016"
+      },
+      {
+        "text": "The Liberal Democrats secure the big winners.",
+        "source": "The Times, 29th March 2017"
+      },
+      {
+        "text": "Local poll results 'real springboard' for Scottish Lib Dems",
+        "source": "The Herald, 6th May 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Champions for Scotland's rural and coastal communities."
+        },
+        {
+          "caption": "Dr Jean Davis with supporters."
+        }
+      ]
+    },
+    "additionalNotes": "An MP who will continue to be a local champion. In Ross, Skye and Lochaber it's Jean Davis or SNP. No second independence referendum. Oppose the Conservatives' Hard Brexit."
+  }
+}
+```

@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Leech",
+    "constituency": "South Manchester",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "THURSDAY 8th JUNE",
+    "messages": [
+      {
+        "title": "OUR HARDWORKING LOCAL CHAMPION",
+        "content": "When I was your MP, I always put first the needs of residents in South Manchester and delivered a strong and experienced voice in Parliament."
+      },
+      {
+        "title": "MY PROMISE OF MORE",
+        "content": "Fight to reverse cuts to mental health services, Invest £6bn into our NHS, Work for a fairer local economy."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "HEALTH",
+        "policyDescription": "Reverse cuts to mental health services, invest £6bn into our NHS, Paid for by increasing income tax by 1p in every £1"
+      },
+      {
+        "policyTitle": "HOUSING",
+        "policyDescription": "Need more affordable homes. Change keep having homes without extra Labour assurances."
+      },
+      {
+        "policyTitle": "ROADS",
+        "policyDescription": "South Manchester has some of the worst potholes in the UK, which Labour are not fixing them."
+      },
+      {
+        "policyTitle": "ECONOMY",
+        "policyDescription": "Will stand up for local businesses and work for a fair local economy."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Leech",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "LABOUR ARE NOT WORKING HARD ENOUGH; CONSERVATIVES CAN'T WIN HERE: ONLY JOHN CAN BEAT LABOUR"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "I want South Manchester to be a place to work and an attractive place to do business",
+      "education": "",
+      "environment": "Take the issue of air pollution in our city to Parliament. Action to tackle climate change",
+      "governance": "",
+      "health": "Fight to reverse cuts to mental health services, invest £6bn into our NHS, Paid for by increasing income tax by 1p in every £1",
+      "immigration": "",
+      "socialWelfare": "Oppose Theresa May’s “Dementia Tax”. I will stand up for a care system that we can rely on",
+      "housing": [
+        {
+          "content": "We need more affordable homes. Change keep having homes without extra Labour assurances.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP for South Manchester",
+        "duration": "",
+        "achievements": "When I represented you, you had a strong and experienced voice in Parliament."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.johnleech.org.uk",
+      "socialMedia": {
+        "facebook": "JohnLeechMCR",
+        "twitter": "johnleechmcr",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John with residents"
+        },
+        {
+          "caption": "John at a protest"
+        },
+        {
+          "caption": "Map of South Manchester"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

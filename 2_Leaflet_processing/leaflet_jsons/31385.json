@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+	"candidateName": "Jo Swinson",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "A Better Future for Britain",
+    	"content": "Investing in our schools. Tackling the climate emergency."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Investing in our schools"
+  	},
+  	{
+    	"policyTitle": "Environment",
+    	"policyDescription": "Tackling the climate emergency"
+  	}
+	],
+	"mentions": {
+  	"candidate": "Jo Swinson",
+  	"otherPartyLeaderCandidate": "Boris Johnson",
+  	"partyLeader": "",
+  	"tacticalSituation": "Rejecting the politics of division and hate."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "Investing in our schools",
+  	"environment": "Tackling the climate emergency",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "A Better Future for Britain"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Miles Briggs",
+    "constituency": "North East Fife",
+    "politicalParty": "Scottish Conservatives",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "FIFE MSP BACKS MILES BRIGGS",
+        "content": "Everyone agrees that our next MP must be someone who will fight hard for our area and always put local people first."
+      },
+      {
+        "title": "A MESSAGE FROM FIFE MSP, TED BROCKLEBANK",
+        "content": "Miles and I have been working closely on a wide range of important local issues alongside local councillors and community campaigners."
+      },
+      {
+        "title": "LIB DEM VOTERS COULD LET BROWN IN THROUGH THE BACK DOOR",
+        "content": "The General Election on the 6th May is set to be a close two horse race between local Conservative candidate, Miles Briggs, and the Labour Party."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Miles Briggs",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The General Election on the 6th May is set to be a close two horse race between local Conservative candidate, Miles Briggs, and the Labour Party. Many Liberal Democrat voters are saying that they will be backing Miles Briggs because they are fed up with this tired and failing Labour government."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "FIFE MSP",
+        "duration": "",
+        "achievements": "Working closely on a wide range of important local issues alongside Miles Briggs."
+      }
+    ],
+    "contactInformation": {
+      "address": "Volunteer House, 69-73 Crossgate, Cupar, KY15 5AS",
+      "phone": "01334 652927",
+      "email": "miles.briggs@scottishconservatives.com",
+      "website": "www.scottishconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Group photo with Miles Briggs and constituents."
+        }
+      ]
+    },
+    "additionalNotes": "Printed on environmentally friendly paper from sustainable forests."
+  }
+}
+```

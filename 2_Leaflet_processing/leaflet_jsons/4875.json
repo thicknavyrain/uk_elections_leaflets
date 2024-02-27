@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mike Barker",
+    "constituency": "Darlington",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Tory axe hangs over Darlington school rebuilding programme",
+        "content": "The Conservative Shadow Minister for Schools has admitted that, if the Conservatives win the next General Election, the £57million which Darlington has been awarded to rebuild Longfield, Branksome and Hurworth Schools could be axed."
+      },
+      {
+        "title": "Our NHS at risk with the Conservatives",
+        "content": "Tory Health spokesman accepted £21,000 donation from private health firm boss. Key Tory MPs backed call to dismantle NHS. David Cameron meets NHS privatisation campaigners."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Mike Barker",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "It's a three horse race in Darlington! With so many voters deserting Labour in favour of the Lib Dems, anyone can win!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The Conservative Shadow Minister for Schools has admitted that, if the Conservatives win the next General Election, the £57million which Darlington has been awarded to rebuild Longfield, Branksome and Hurworth Schools could be axed.",
+      "environment": "",
+      "governance": "",
+      "health": "Tory Health spokesman accepted £21,000 donation from private health firm boss. Key Tory MPs backed call to dismantle NHS. David Cameron meets NHS privatisation campaigners.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mike Barker: local campaigner for Darlington"
+        }
+      ]
+    },
+    "additionalNotes": "How Darlington voted in the 2007 local elections [chart provided with percentages for Conservatives, Labour, Liberal Democrats, and Others]."
+  }
+}
+```

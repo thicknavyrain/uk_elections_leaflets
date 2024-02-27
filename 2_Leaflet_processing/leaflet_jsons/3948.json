@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Emily Thornberry",
+    "constituency": "Islington South & Finsbury",
+    "politicalParty": "Labour",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "Islington Labour on YOUR SIDE",
+        "content": "We face a choice this year between Labour and the Tories. The Tories are showing what is important to them. Their priority is to give a tax cut to the 3,000 wealthiest people in the country—whilst cutting 1 in 5 Sure Start centres. Islington Labour Is different. Our priority is to make our borough fairer. Although Labour does not run the Council, we have successfully fought for Free school meals, More affordable housing, Local jobs and Council apprenticeships. Only Labour has a plan to make our borough fairer. Please read our priorities. As your local Labour team, we ask for your support on May 6th. Best wishes."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Free school meals",
+        "policyDescription": "Supports free school meals for all primary school children"
+      },
+      {
+        "policyTitle": "More affordable housing",
+        "policyDescription": "Advocates for more affordable housing for young people and those in need"
+      },
+      {
+        "policyTitle": "Local jobs and Council apprenticeships",
+        "policyDescription": "Promotes local jobs and Council apprenticeships"
+      }
+    ],
+    "mentions": {
+      "candidate": "Emily Thornberry",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Labour has successfully fought for Free school meals for all primary school children",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour has successfully fought for More affordable housing for our young people and those in need",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP for Islington South & Finsbury",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "65 Barnsbury Street, London N1 1EJ",
+      "phone": "0207 607 8373",
+      "email": "emily@islingtonlabour.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour's Emily Thornberry with Islington South & Finsbury constituents."
+        }
+      ]
+    },
+    "additionalNotes": "Working with your Canonbury Labour Team: Wally Burgess, Tim McLoughlin, Faye Whaley"
+  }
+}
+```

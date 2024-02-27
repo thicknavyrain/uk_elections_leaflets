@@ -1,0 +1,115 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Finnie",
+    "constituency": "Inverness, Nairn, Badenoch and Strathspey",
+    "politicalParty": "SNP",
+    "electionDate": "Thursday 6 May",
+    "messages": [
+      {
+        "title": "SNP celebrates its local champion.",
+        "content": "John Finnie has been chosen as our local champion, for his role in campaigning for a fairer deal on fuel prices and for improving public services in our communities. SNP leader Alex Salmond was the first to offer his congratulations. As a well known local activist, \"John has played a prominent role in campaigning for new care homes in Inverness and Grantown on Spey. He is also fully supportive of the local campaigns to keep the Nairn Leisure Centre and Inverness Community Centres open.\""
+      },
+      {
+        "title": "Championing local services in Inverness, Nairn, Badenoch and Strathspey.",
+        "content": ""
+      },
+      {
+        "title": "A personal message from John",
+        "content": "The SNP is working hard for Scotland and the people and communities we represent. At all levels, council, parliament and government, we hear people's concerns and are working to promote Scotland's interests. Our team is working to end national and local chieftains."
+      },
+      {
+        "title": "Help me champion local issues.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer deal on fuel prices",
+        "policyDescription": "Campaigning for a fairer deal on fuel prices."
+      },
+      {
+        "policyTitle": "Improving public services",
+        "policyDescription": "Improving public services in our communities."
+      },
+      {
+        "policyTitle": "New care homes",
+        "policyDescription": "Campaigning for new care homes in Inverness and Grantown on Spey."
+      },
+      {
+        "policyTitle": "Local campaigns support",
+        "policyDescription": "Supportive of the local campaigns to keep the Nairn Leisure Centre and Inverness Community Centres open."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Finnie",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Alex Salmond",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "John Finnie is one of the SNP's 59 local champions, pledged to represent the electives in the house, to work hard on their issues of family community. For months. Defending local jobs, and local services, arguing for a fair deal on fuel prices and for pensions to be increased in line with earnings. That is what this election is really about.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "14 Admirals Way Inverness IV2 5GT",
+      "phone": "01463 232405",
+      "email": "john@johnfinnie.org",
+      "website": "www.johnfinnie.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "07557630934",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "SNP leader Alex Salmond",
+        "endorsement": "Congratulations and acknowledgement of John Finnie's role and support for local campaigns."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Finnie and SNP leader Alex Salmond."
+        },
+        {
+          "caption": "Group photo of SNP team."
+        },
+        {
+          "caption": "John Finnie's portrait."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

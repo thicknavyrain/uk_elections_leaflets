@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ben Jones",
+    "constituency": "Halton",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "NEW THREAT TO GREENBELT?",
+        "content": "Residents of the Spinney Avenue area have been in touch with Cllr. Colin Rowan concerning rumours of possible building proposals on land behind their homes."
+      },
+      {
+        "title": "VILLAGE GREEN FIGHT CONTINUES",
+        "content": "In Halebank, the parish council, with the support of local people, is still fighting for the village green and they all have Cllr. Colin Rowan's full support as their Conservative ward councillor."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Ben Jones",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Cllr. Colin Rowan",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Residents of the Spinney Avenue area have been in touch with Cllr. Colin Rowan concerning rumours of possible building proposals on land behind their homes.",
+          "yimbyNimby": "NIMBY"
+        },
+        {
+          "content": "In Halebank, the parish council, with the support of local people, is still fighting for the village green and they all have Cllr. Colin Rowan's full support as their Conservative ward councillor.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Prospective Parliamentary Candidate for the next general election",
+        "duration": "",
+        "achievements": "Ben has been described as a fantastic addition to the excellent team and would work tirelessly for everyone in Ditton and Halton."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0151 555 123",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Ben Jones, campaign leaflet, and green space"
+        }
+      ]
+    },
+    "additionalNotes": "Cllr. Colin Rowan is mentioned as a supporter and local councillor, which suggests that he is currently an elected official in the area and he endorses Ben Jones in the leaflet. It appears that issues relating to housing and development are of particular concern in this leaflet, with a focus on fighting against proposed developments."
+  }
+}
+```

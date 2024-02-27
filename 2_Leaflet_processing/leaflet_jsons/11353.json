@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew Haigh",
+    "constituency": "Delyn",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "Say No to Mass Immigration",
+        "content": "5000 new people settle here every week"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Leave the EU and stop mass immigration, regain control of our borders, end abuse of the UK asylum system"
+      }
+    ],
+    "mentions": {
+      "candidate": "Vote Andrew Haigh on May 6th",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Leave the EU",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "Stop mass immigration, regain control of our borders, end abuse of the UK asylum system",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet containing the message 'Say No to Mass Immigration' and key policies regarding immigration."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contains a section for supporters to send a message or make a donation to UKIP by detaching a portion of the leaflet."
+  }
+}
+```

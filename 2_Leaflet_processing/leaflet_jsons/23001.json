@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Paul Blomfield",
+    "constituency": "Sheffield Central",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "A Strong Voice for you",
+        "content": "It's been a privilege to be your MP since 2010. I've seen first-hand how politics can make a difference. That's why I campaigned for change on issues you raised with me, like tackling rip-off payday lenders."
+      },
+      {
+        "title": "A Labour Government will:",
+        "content": "Scrap the Bedroom Tax, which punishes the poor, disabled and vulnerable."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investing in our future. Our offer for the next generation.",
+        "policyDescription": "A Labour government will cut tuition fees from £9,000 to £6,000, and increase grants for maintenance by £400, helping half of all students."
+      },
+      {
+        "policyTitle": "Vote for a fairer society",
+        "policyDescription": "Growing inequality ill serves our society - and it'll get worse if the Tories are re-elected."
+      },
+      {
+        "policyTitle": "A better deal for renters - and more homes for all",
+        "policyDescription": "Labour will ban letting agents from charging you rip-off fees, and ensure homes are secure, warm, well-maintained."
+      }
+    ],
+    "mentions": {
+      "candidate": "Paul Blomfield",
+      "otherPartyLeaderCandidate": "Nick Clegg",
+      "partyLeader": "",
+      "tacticalSituation": "Don't let the Tories back in."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Paul Blomfield - critical of the tuition fee policy.",
+      "environment": "Paul Blomfield - active on tackling climate change.",
+      "governance": "",
+      "health": "Paul Blomfield - opposed NHS privatisation, low pay for carers, and climate change.",
+      "immigration": "",
+      "socialWelfare": "Scrap the Bedroom Tax, which punishes the poor, disabled and vulnerable.",
+      "housing": [
+        {
+          "content": "Labour will ban letting agents from charging you rip-off fees and ensure homes are secure, warm, well-maintained.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "If you re-elect me I'll continue to speak up for all of you in Parliament, and work with you to create the fairer society we need.",
+    "politicalExperience": [
+      {
+        "role": "MP for Sheffield Central",
+        "duration": "Since 2010",
+        "achievements": "Campaigned for change on issues like tackling rip-off payday lenders."
+      }
+    ],
+    "contactInformation": {
+      "address": "Sheffield Central Labour Party, The Trades & Labour Club, Talbot Street, Sheffield, S2 2TG",
+      "phone": "07467 137229",
+      "email": "paul@paulblomfield.co.uk",
+      "website": "www.paulblomfield.co.uk",
+      "socialMedia": {
+        "facebook": "@PaulBlomfieldMP",
+        "twitter": "@PaulBlomfieldMP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Geoff Green",
+        "endorsement": "Paul is a fantastic constituency MP. He’s campaigned on lots of local issues – like speaking up for local GP surgeries – which are under real threat by tax dodging companies avoiding NHS contributions."
+      },
+      {
+        "endorser": "Abtisam Mohammed",
+        "endorsement": "Paul is a real champion for Sheffield and campaigns for every community. We need more MPs like him."
+      },
+      {
+        "endorser": "Taylor Hearn",
+        "endorsement": "Young people have been screwed over by the Government. Nick Clegg promised to protect them. We've been failed by a generation of politicians who promised one thing, only to do another."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Re-Elect Paul Blomfield as our MP for Sheffield Central"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

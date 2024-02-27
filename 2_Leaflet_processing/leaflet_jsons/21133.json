@@ -1,0 +1,117 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Wallasey",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Will your vote put Ed Miliband into Downing Street?",
+        "content": ""
+      },
+      {
+        "title": "Helping you keep more of the money you earn",
+        "content": "Since 2010, Conservatives have increased the amount you can earn before paying tax. We will increase it to £12,500, taking the typical working taxpayer will be £900 better off."
+      },
+      {
+        "title": "A economy that is growing again means we can:",
+        "content": "Cut taxes for hardworking taxpayers and raise the Minimum Wage. Invest more in the services we need, such as the NHS and schools. Clear the deficit by 2020 so we are living within our means."
+      },
+      {
+        "title": "Helping more people back into work",
+        "content": "Many of the three million people who've gone back to work since 2010 are mums and dads with young children. Most of the new jobs have been permanent and full time."
+      },
+      {
+        "title": "Under Labour last time:",
+        "content": "Immigration hit 2.5 million people as controls were relaxed. 2,968 people in Wallasey and Moreton were out of work. 18,458 people were left waiting a year or longer for NHS treatment. No limit on how much a person could receive in benefits."
+      },
+      {
+        "title": "Since the last election:",
+        "content": "Immigration controls tightened and numbers from outside EU cut. Numbers out of work in Wallasey and Moreton down to 1,153. The NHS 12 month waiting list reduced to just 574 people. Benefits for those capable of working capped at £26,000 a year."
+      },
+      {
+        "title": "Your choice at this election:",
+        "content": "Overview of where the parties stand on NHS, EU, Children and Pensioners."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Increase personal tax-free allowance to £12,500 and raise the minimum wage."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Clear the budget deficit by 2020, ensure the economy is growing, and live within our means."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Help more people, including mums and dads, back into permanent and full-time jobs."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Referendum by 2017 on leaving EU outlined as a Conservative policy.",
+      "economy": "Economy growing again. Clear the deficit by 2020.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Invest more in the NHS as services needed.",
+      "immigration": "Immigration controls tightened, and numbers from outside EU cut.",
+      "socialWelfare": "Benefits for those capable of working capped at £26,000 a year.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.wallaseyconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Marie Wallace",
+        "endorsement": "Expressed concerns about Labour's plan to scrap the Winter Fuel Payment and supports the increase in her pension."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I've seen my pension go up by £15 a week since the last election but I'm worried about Ed Miliband's plan to scrap the Winter Fuel Payment for thousands of pensioners.",
+        "source": "Marie Wallace",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Wallasey mum Becky, seen here with Finlay, is one of the many parents who will be affected by Labour's plan to cap Child Benefit for every family."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

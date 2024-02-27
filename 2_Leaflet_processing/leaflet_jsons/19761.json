@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "ANDREW GWYNNE",
+    "constituency": "Denton and Reddish",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7th May",
+    "messages": [
+      {
+        "title": "LOCAL PRIORITIES for Denton and Reddish",
+        "content": "Campaigning for better local health services, Working for a fair deal for pensioners and families, Improving standards in education and training, Securing new affordable homes to buy and rent, Cracking down on crime and anti-social behaviour, Freezing energy bills and scrapping the bedroom tax"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local health services",
+        "policyDescription": "Campaigning for better local health services"
+      },
+      {
+        "policyTitle": "Fair deal for pensioners and families",
+        "policyDescription": "Working for a fair deal for pensioners and families"
+      },
+      {
+        "policyTitle": "Education and training",
+        "policyDescription": "Improving standards in education and training"
+      },
+      {
+        "policyTitle": "Affordable homes",
+        "policyDescription": "Securing new affordable homes to buy and rent"
+      },
+      {
+        "policyTitle": "Crime and anti-social behaviour",
+        "policyDescription": "Cracking down on crime and anti-social behaviour"
+      },
+      {
+        "policyTitle": "Energy bills and bedroom tax",
+        "policyDescription": "Freezing energy bills and scrapping the bedroom tax"
+      }
+    ],
+    "mentions": {
+      "candidate": "ANDREW GWYNNE"
+    },
+    "issues": {
+      "health": "Campaigning for better local health services",
+      "socialWelfare": "Working for a fair deal for pensioners and families",
+      "education": "Improving standards in education and training",
+      "housing": [
+        {
+          "content": "Securing new affordable homes to buy and rent",
+          "yimbyNimby": "YIMBY"
+        }
+      ],
+      "governance": "",
+      "economy": "Freezing energy bills and scrapping the bedroom tax"
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "ANDREW GWYNNE with constituents"
+        }
+      ]
+    },
+    "additionalNotes": "Inside: Local Priorities for Denton and Reddish, Our Cost-of-Living Contract to YOU, Why you can't trust the Tories with our NHS"
+  }
+}
+```

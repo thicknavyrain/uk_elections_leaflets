@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lisa Forbes",
+    "constituency": "Peterborough",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "My pledges to you",
+        "content": "If elected, Lisa Forbes pledges to tackle the Cost of Living Crisis, Protect Local Services, Save the NHS, Make Immigration Fair, and fight for More High Skilled Jobs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "I'll Tackle the Cost of Living Crisis",
+        "policyDescription": "Lisa Forbes will vote to cap energy bills, raise the minimum wage to £8, and scrap the Bedroom Tax."
+      },
+      {
+        "policyTitle": "Protect Local Services",
+        "policyDescription": "Will fight to ensure Peterborough gets better funding for local services."
+      },
+      {
+        "policyTitle": "Save the NHS",
+        "policyDescription": "Relies on local NHS services like everyone else in Peterborough and fighting for our Local Services will be a priority."
+      },
+      {
+        "policyTitle": "Make Immigration Fair",
+        "policyDescription": "Will vote to stop the undercutting of British workers and the exploitation of migrant labour that's used to drive down wages."
+      },
+      {
+        "policyTitle": "More High Skilled Jobs",
+        "policyDescription": "Will fight for investment in manufacturing and skills to build our local economy and give our young people good local jobs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Lisa Forbes",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Lisa Forbes will vote to cap energy bills, raise the minimum wage to £8, and scrap the Bedroom Tax to tackle the Cost of Living Crisis.",
+      "education": "",
+      "environment": "",
+      "governance": "Will fight to ensure Peterborough gets better funding for local services.",
+      "health": "Relies on local NHS services like everyone else in Peterborough and fighting for our Local Services will be a priority.",
+      "immigration": "Will vote to stop the undercutting of British workers and the exploitation of migrant labour that's used to drive down wages.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Lisa Forbes will vote to ... scrap the Bedroom Tax.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm standing to be your MP because we need more people who have lived real lives representing us in Westminster.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01733 746519",
+      "email": "lisa@lisafobes.com",
+      "website": "lisafobes.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lisa Forbes was in your local area today"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet promoted by Matthew Clemens on behalf of Lisa Forbes both at 121 Park Road, Peterborough, PE1 2TR. Printed by Anton Group Limited, Anton House, Christy Way, Laindon, Essex SS15 6TR."
+  }
+}
+```

@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Maryam Khan",
+    "constituency": "Bury North",
+    "politicalParty": "Labour",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "I want to change the way that young people see politics.",
+        "content": "It seems like it's just a bunch of old men shouting at each other in a room in London and doesn't impact on our lives."
+      },
+      {
+        "title": "Determined to Change",
+        "content": "I got involved in politics as a teenager because I could see that there was no one speaking up for me."
+      },
+      {
+        "title": "It is the difference between...",
+        "content": "Good schools and bad. Opening up university for all and being denied access. World-leading climate change laws and taking no action. Reforming our political system or keeping the status quo. Providing jobs and training for young people or leaving you to fend for yourself."
+      },
+      {
+        "title": "Your vote, your choice",
+        "content": "Of course I'm biased - I believe that Labour is the party that is looking out for young people here in Bury, Tottington and Ramsbottom and introducing policies that matter to us."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Prioritizing good schools, opening up university access."
+      },
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Advocating for world-leading climate change laws."
+      },
+      {
+        "policyTitle": "Political System Reform",
+        "policyDescription": "Reforming the political system instead of keeping the status quo."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Providing jobs and training for young people."
+      }
+    ],
+    "mentions": {
+      "candidate": "I became a local Councillor when I was 22 - the youngest Councillor in Manchester.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Opening up university for all.",
+      "environment": "World-leading climate change laws.",
+      "governance": "Reforming our political system.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I got involved in politics as a teenager because I could see that there was no one speaking up for me.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "4 years",
+        "achievements": "The youngest Councillor in Manchester, giving a voice to young people in democracy."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "The truth is that politics does matter to each and every one of us.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A strong new voice for Bury North"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

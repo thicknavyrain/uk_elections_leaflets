@@ -1,0 +1,117 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Louise Ellman",
+	"constituency": "Princes Park, Canning & Granby",
+	"politicalParty": "Labour",
+	"electionDate": "May 7th",
+	"messages": [
+  	{
+    	"title": "Use Your Two Votes for Labour on May 7th",
+    	"content": "Thousands of people from across Princes Park, Canning & Granby have pledged to vote for Louise Ellman MP in the General Election and Councillor Alan Dean as our Local Councillor."
+  	},
+  	{
+    	"title": "A better plan. A better future.",
+    	"content": "Only Labour can beat the Tories. Vote Labour on May 7th."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Homes for £1",
+    	"policyDescription": "Initiative bringing empty homes back into use."
+  	},
+  	{
+    	"policyTitle": "New Schools",
+    	"policyDescription": "Building 12 new schools."
+  	},
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "Fighting for new homes on the Welsh Streets."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Louise Ellman",
+  	"otherPartyLeaderCandidate": "the Tories",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Liverpool Labour has opened the city for business, bringing in new jobs and investment.",
+  	"education": "Labour is building new schools.",
+  	"environment": "",
+  	"governance": "The Labour Council has been able to keep all the city's much-needed Children's Centres and our Libraries open, despite the government cuts.",
+  	"health": "Desperately needs a Labour Government to save our NHS.",
+  	"immigration": "",
+  	"socialWelfare": "Services for the most vulnerable in society, like children and elderly people, have been slashed by the Bedroom Tax.",
+  	"housing": [
+    	{
+      	"content":"Initiative bringing empty homes back into use and fighting for new homes on the Welsh Streets.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "MP",
+    	"duration": "",
+    	"achievements": ""
+  	},
+  	{
+    	"role": "Local Councillor",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "alan.dean@liverpool.gov.uk",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Labour's landlord licensing scheme giving private tenants a better deal from their landlords."
+    	},
+    	{
+      	"caption": "Your Labour Councillors with Louise Ellman MP at the new henge in the park."
+    	},
+    	{
+      	"caption": "Louise Ellman MP and Cllr Alan Dean fighting for new homes on the Welsh Streets."
+    	},
+    	{
+      	"caption": "The Mayor's Homes for £1 initiative bringing empty homes back in to use."
+    	},
+    	{
+      	"caption": "Alan supporting the City Bike scheme."
+    	},
+    	{
+      	"caption": "Archbishop Blanch – one of Labour's 12 new schools."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

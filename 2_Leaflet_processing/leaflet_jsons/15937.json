@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Julian Huppert",
+    "constituency": "Chesterton",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "It's so close here!",
+        "content": "A statement of change is stronger than a Labour protest vote. Julian Huppert and the Lib Dem team need your support now."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Invest in our NHS",
+        "policyDescription": "Lib Dems will invest £8bn in our NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "Julian Huppert",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "It's a two horse race here between Julian and the Labour candidate."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Fighting to protect our environment",
+      "governance": "",
+      "health": "SELRES services, HEALTH SERVICES",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "MP for Cambridge",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "T: 01223 304421",
+      "email": "",
+      "website": "www.julianhuppert.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image captions relevant to campaign activities and messages."
+        }
+      ]
+    },
+    "additionalNotes": "Out of race - Con 19%, LDs 32%, Lab 33%. The flyer suggests that the Conservatives are out of the race, making it a close competition between Lib Dems and Labour."
+  }
+}
+```

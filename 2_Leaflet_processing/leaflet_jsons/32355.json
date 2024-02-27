@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Royston Smith",
+    "constituency": "Southampton",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "What has Southampton done for a kid from Harefield",
+        "content": "They made him your MP"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Royston Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "both of 70 Dean Road, SO18 6AN",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Royston Smith working for Southampton all year round"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by David Fuller, on behalf of Royston Smith. Printed by United Print Ltd, 166 Great Queen Street, London, WC2B 5AH."
+  }
+}
+```

@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Laura Gordon",
+    "constituency": "Sheffield Hallam",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "A MESSAGE FROM YOUR NEIGHBOUR",
+        "content": "Like you, I want an MP who will work hard for our area and speak up for us in Parliament."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tackling Inequality",
+        "policyDescription": "Laura Gordon will work hard to tackle inequality."
+      },
+      {
+        "policyTitle": "Investment in Local Services",
+        "policyDescription": "She will campaign to secure investment for our schools and NHS."
+      },
+      {
+        "policyTitle": "Climate Crisis",
+        "policyDescription": "She will work hard to fight the climate crisis."
+      }
+    ],
+    "mentions": {
+      "candidate": "Laura Gordon",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "",
+      "tacticalSituation": "Elections here are usually close between the Lib Dems and Labour - but I just can’t trust Labour after the mess their MP caused last time."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "53 Endcliffe Hall Avenue ND No83 Park Avenue 11424",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Mary Aston",
+        "endorsement": "Dear Neighbour, [content of the message]... With best wishes, Mary Aston Fellow Sheffield Hallam resident"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet front and back with text and endorsement from Mary Aston."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

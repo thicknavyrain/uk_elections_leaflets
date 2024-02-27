@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nancy Platts",
+    "constituency": "Brighton Pavilion",
+    "politicalParty": "Labour",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "Building a low carbon economy",
+        "content": "In Brighton, we need more high-skilled jobs. The new Green Investment Bank will help fund the transition to a low carbon economy. We're also already investing in green energy; a new offshore wind farm between Brighton and Newhaven could power 200,000 homes in Sussex by 2020."
+      },
+      {
+        "title": "Your sincerely, Nancy Platts",
+        "content": "I promise to be a hardworking and passionate MP who puts Brighton first and foremost and fights for a fair future for all. Make sure your vote counts in this vital election."
+      },
+      {
+        "title": "P.S. If you'd rather have a Labour than a Conservative government, vote Labour.",
+        "content": "A Green or LibDem vote risks letting the Conservatives in through the back door."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Building a low carbon economy",
+        "policyDescription": "Creation of high-skilled jobs, support from the Green Investment Bank, and investment in renewable energy such as an offshore wind farm that could power homes in Sussex."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nancy Platts",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "A Green or LibDem vote risks letting the Conservatives in through the back door."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Creation of high-skilled jobs with the help of the Green Investment Bank.",
+      "education": "",
+      "environment": "Investing in green energy; a new offshore wind farm.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Investment in renewable energy such as an offshore wind farm that could power homes in Sussex.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I promise to be a hardworking and passionate MP who puts Brighton first and foremost and fights for a fair future for all.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.nancyplatts.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Labour branding elements, campaign information and contact details."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

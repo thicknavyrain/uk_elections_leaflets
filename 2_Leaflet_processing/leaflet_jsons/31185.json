@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Swinson",
+    "constituency": "Llandrindod Wells",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "THE PAST",
+        "content": "'Both Tories and Labour have failed the country' - The Guardian, May 2019; 'British politics is falling apart – the Tories are to blame, but Labour is also a shambles' - The Irish Times, January 2019"
+      },
+      {
+        "title": "THE FUTURE",
+        "content": "Build a brighter future, vote Liberal Democrat"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Jo Swinson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "8-10 Great George Street, London, SW1P 3AE",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk/join",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "'The Lib Dem fightback is real and it's changing everything.'",
+        "source": "SKY NEWS, August 2019"
+      },
+      {
+        "text": "'Lib Dems winning and on the up after by-election victory.'",
+        "source": "THE GUARDIAN, August 2019"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Jo Swinson with text 'THE FUTURE with | gyda Jo Swinson'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

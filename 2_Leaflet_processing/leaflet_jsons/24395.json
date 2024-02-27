@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mick Gee",
+    "constituency": "Meriden",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Believe in Britain",
+        "content": "Only by leaving the EU can we regain control of our Borders."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Regain control of borders, unsustainable to welcome 296,000 more people to the UK every year whilst cutting public services."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "An extra £3bn every year, fully funded for our NHS."
+      },
+      {
+        "policyTitle": "Trade with Europe",
+        "policyDescription": "Trade with Europe - not be run by them."
+      },
+      {
+        "policyTitle": "HS2",
+        "policyDescription": "Stand against Solihull Council policy 'in favour in principle of' HS2."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mick Gee",
+      "otherPartyLeaderCandidate": "THE TORIES LIB DEMS & LABOUR",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Only by leaving the EU can we regain control of our Borders.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "UKIP values and democracy in local government",
+      "health": "An extra £3bn every year, fully funded for our NHS.",
+      "immigration": "It is unsustainable to welcome 296,000 more people to the UK every year whilst cutting public services.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "HS2 would bring pressure on housing and public services",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "UKIP values and democracy in local government",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.ukipsolihull.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "ONLY UKIP SAY NO TO HS2"
+        }
+      ]
+    },
+    "additionalNotes": "Councillors should represent the views of local people even when those conflict with Westminster Party politics. Better local services, better value for the Council Tax payer. Leslie Kaye Local Candidate for Meriden."
+  }
+}
+```

@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Miles Briggs",
+    "constituency": "Midlothian South, Tweeddale and Lauderdale",
+    "politicalParty": "Scottish Conservative and Unionist",
+    "electionDate": "5 May",
+    "messages": [
+      {
+        "title": "A MESSAGE FROM RUTH DAVIDSON",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Opposing Indref 2",
+        "policyDescription": "Miles does not support the SNP's Indref 2 and will focus on more important issues such as local services, schools, and job creation."
+      },
+      {
+        "policyTitle": "Support for Local Services",
+        "policyDescription": "Miles will work to improve local services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Miles Briggs",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Ruth Davidson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Miles wants to focus on more important day-to-day issues such as improving local services and schools.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Miles will work to improve local services.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Miles has been out knocking doors every day and speaking to thousands of local people.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Ruth Davidson",
+        "endorsement": "Endorses candidate Miles Briggs."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Miles Briggs is a strong voice for local people.",
+        "source": "Ruth Davidson",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Miles Briggs, Scottish Conservative and Unionist candidate."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contains a tactical voting message suggesting that only Miles Briggs can beat the SNP in the constituency."
+  }
+}
+```

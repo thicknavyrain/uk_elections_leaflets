@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Green Party",
+    "electionDate": "MAY 6TH",
+    "messages": [
+      {
+        "title": "VOTE LIKE OUR FUTURE DEPENDS ON IT",
+        "content": "At this election, our future is at stake. This is our chance to tackle the climate emergency. To build a fairer Scotland after the pandemic. And to secure our future as an independent country."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Climate Emergency",
+        "policyDescription": "Secure a green recovery and create over 100,000 jobs by investing in public transport, warm homes and renewable energy."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Recruit 5,500 additional permanent teachers and help our schools & young people recover from the pandemic."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Invest in our NHS, including an additional £235 million a year for mental health services, prioritising the needs of children and young people."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Polls show Scottish Greens can win more MSPs than ever, in every part of Scotland."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Secure a green recovery and create over 100,000 jobs by investing in public transport, warm homes and renewable energy.",
+      "education": "Recruit 5,500 additional permanent teachers and help our schools & young people recover from the pandemic.",
+      "environment": "Secure a green recovery by investing in renewable energy. Saved Loch Lomond from a destructive development.",
+      "governance": "",
+      "health": "Invest in our NHS, including an additional £235 million a year for mental health services, prioritising the needs of children and young people.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Warm homes part of the green recovery investment.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Green MSPs",
+        "duration": "",
+        "achievements": "Evictions banned during the pandemic. Restored all school grades lowered by the SQA. Saved Loch Lomond from a destructive development. Free bus travel for under 22s from this summer."
+      }
+    ],
+    "contactInformation": {
+      "address": "19b Graham Street, Edinburgh, EH6 5QN",
+      "phone": "",
+      "email": "",
+      "website": "www.greens.scot/ourfuture",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Children observing a wind turbine."
+        }
+      ]
+    },
+    "additionalNotes": "Vote like our future depends on it. VOTE GREEN"
+  }
+}
+```

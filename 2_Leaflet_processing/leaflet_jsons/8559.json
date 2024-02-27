@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Howell",
+    "constituency": "Henley",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "DO YOU REALLY WANT ANOTHER 5 YEARS OF GORDON BROWN?",
+        "content": "By 2014 our debt will equate to £23,000 for each of us. Do you want Gordon Brown to continue to run your economy into debt now that we get the economy back on its feet?"
+      },
+      {
+        "title": "DO YOU REALLY WANT A HUNG PARLIAMENT?",
+        "content": "The people of Oxfordshire know what a Hung Parliament was, for over 200 years until 1885 Henley was in the Commons under a coalition resulting in 13 Lib Dem costs to make progress. A Hung Parliament could leave Labour in control with the Liberals and that will mean 5 more years of Brown."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Questioning the current economic policies under Gordon Brown and implying a change is needed to get the economy back on its feet."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Howell",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": "References to a Hung Parliament and the historical coalition of Henley which suggest strategic considerations in voting."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Questioning the current economic policies under Gordon Brown and implying a change is needed to get the economy back on its feet.",
+      "education": "",
+      "environment": "",
+      "governance": "References to Henley's history of coalition under a Hung Parliament, suggesting a desire for stable governance without a coalition.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Since being elected MP for the Henley Constituency two years ago I have shown the value of being a local MP rooted in the community.",
+    "politicalExperience": [
+      {
+        "role": "MP for Henley",
+        "duration": "Two years",
+        "achievements": "Rooted in the community as a local MP."
+      }
+    ],
+    "contactInformation": {
+      "address": "1a Reading Road, Henley-on-Thames, Oxfordshire, RG9 1AE",
+      "phone": "020 7239 0400",
+      "email": "john.howell@oxfordshireconservatives.com",
+      "website": "www.johnhowellmp.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Orpwood, Local Farmer",
+        "endorsement": "Support for John Howell's action in defending some of the most beautiful countryside in south Oxfordshire against inappropriate housing and energy planning."
+      },
+      {
+        "endorser": "Kester George, Chairman, Harpsden Parish Council",
+        "endorsement": "Commendation of John Howell's frequent personal intervention, reflecting thorough understanding and common sense advice."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of John Howell working with the community."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet makes several references to local issues and specific interventions in the area, as well as questions targeted at constituents' satisfaction with the current government and views on a hung parliament."
+  }
+}
+```

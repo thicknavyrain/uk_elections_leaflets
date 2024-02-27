@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Llandrindod Wells",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "CONFUSED ABOUT WHO TO VOTE FOR TO STOP BREXIT?",
+        "content": "People's Vote are a cross-party, grassroots campaign committed to giving the people a final say on Brexit."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Brexit",
+        "policyDescription": "Making recommendations on which candidate is best placed to beat Boris Johnson's candidate in every seat in the country."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "",
+      "tacticalSituation": "People's Vote are making recommendations on which candidate is best placed to beat Boris Johnson's candidate in every seat in the country."
+    },
+    "issues": {
+      "brexitEurope": "People's Vote are a cross-party, grassroots campaign committed to giving the people a final say on Brexit.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "8-10 Great George Street, London, SW1P 3AE.",
+      "phone": "",
+      "email": "",
+      "website": "www.tactical-vote.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of a woman posing as if thinking, with the text CONFUSED ABOUT WHO TO VOTE FOR TO STOP BREXIT? Above her."
+        },
+        {
+          "caption": "Image of a demonstration with people holding signs with the European Union flag and slogans to stop Brexit."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet created by the 'People's Vote' campaign."
+  }
+}
+```

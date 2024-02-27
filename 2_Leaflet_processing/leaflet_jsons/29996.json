@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Peter Turner",
+    "constituency": "Braintree",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday June 8th 2017",
+    "messages": [
+      {
+        "title": "Fighting against Hard Brexit",
+        "content": "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal."
+      },
+      {
+        "title": "Standing up for the NHS",
+        "content": "Only the Liberal Democrats would give the NHS the funds it needs by raising a penny on income tax to provide an additional £6 billion for health and care services."
+      },
+      {
+        "title": "Opposing school cuts",
+        "content": "Local schools are under threat from a Conservative Party that has stopped listening to local people in Braintree. Schools in Essex are set to lose nearly £78 million from their budgets."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting against Hard Brexit",
+        "policyDescription": "Liberal Democrats will ensure the UK has a say on the final Brexit deal, maintaining its relationship with the EU."
+      },
+      {
+        "policyTitle": "Standing up for the NHS",
+        "policyDescription": "Liberal Democrats propose an additional £6 billion in funding for health and care services, funded by a tax increase."
+      },
+      {
+        "policyTitle": "Opposing school cuts",
+        "policyDescription": "Liberal Democrats aim to protect local schools in Essex from budget cuts by the Conservative Party."
+      }
+    ],
+    "mentions": {
+      "candidate": "Peter Turner",
+      "otherPartyLeaderCandidate": "Conservative Party",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Liberal Democrats are fighting for your say on the final Brexit deal.",
+      "economy": "",
+      "education": "Schools in Essex are set to lose nearly £78 million from their budgets.",
+      "environment": "",
+      "governance": "",
+      "health": "Liberal Democrats propose an additional £6 billion for health and care services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "braintreeandwithamlibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Peter Turner, the strong voice for us."
+        },
+        {
+          "caption": "Peter Turner, fighting for real change for Braintree. Our country needs a strong opposition."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

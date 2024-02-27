@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Thomas Gravatt",
+    "constituency": "Southampton Test",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "YOUR CHOICE ON 8th JUNE:",
+        "content": "A better future for Britain with the Liberal Democrats - investment in the NHS, school budgets protected and pension rises guaranteed."
+      },
+      {
+        "title": "Let's change Britain's future",
+        "content": "No coalitions, no pacts vote Lib Dem, get Lib Dem. A strong local voice for Southampton Test."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "1p on Income Tax to raise £6bn a year for the NHS"
+      },
+      {
+        "policyTitle": "Education Investment",
+        "policyDescription": "Invest £7bn in schools"
+      },
+      {
+        "policyTitle": "Pension Guarantees",
+        "policyDescription": "Maintain triple lock on pension rises"
+      }
+    ],
+    "mentions": {
+      "candidate": "Thomas Gravatt",
+      "otherPartyLeaderCandidate": "Theresa May, Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Fighting a Hard Brexit. Thomas and the Lib Dems are demanding a referendum on the final deal of the Brexit negotiations.",
+      "economy": "1p on Income Tax to raise £6bn a year for the NHS",
+      "education": "Invest £7bn in schools",
+      "environment": "For a cleaner, greener Southampton",
+      "governance": "",
+      "health": "No coalitions, no pacts vote Lib Dem, get Lib Dem. A strong local voice for Southampton Test. For a stronger and better funded NHS",
+      "immigration": "",
+      "socialWelfare": "Maintain triple lock on pension rises",
+      "housing": [
+        {
+          "content": "Thomas would push to introduce Lib Dem policies such as increasing funding for local councils for homelessness prevention, and reinstating housing benefits for under-21s.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "The local champion fighting to get a better deal for Southampton.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07520 633150",
+      "email": "thomasgravatt@gmail.com",
+      "website": "www.southampton-libdems.org.uk",
+      "socialMedia": {
+        "facebook": "/ThomasGravatt",
+        "twitter": "@ThomasGravatt",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Hospital cuts planned in most of England",
+        "source": "BBC, 7 February 2017"
+      },
+      {
+        "text": "Schools face the worst funding cuts in 20 years",
+        "source": "Mirror, 17 March 2017"
+      },
+      {
+        "text": "Pensions under threat if Conservatives win election",
+        "source": "The Telegraph, 21 April 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Thomas Gravatt, Liberal Democrats"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Norman Johns",
+    "constituency": "Mount Hermon East",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Norman is fighting for real change.",
+        "content": "The Labour Government has let local people down. This May we will get the chance to elect a local champion for real change."
+      },
+      {
+        "title": "Cllr Norman Johns: standing up for Mount Hermon East",
+        "content": "During his four years as a borough councilor for Mount Hermon East, Norman has served on the Planning Task Group, the Health and Climate Change Working Group, the Schools Overview and Scrutiny Committee."
+      },
+      {
+        "title": "White Rose Lane footpath latest",
+        "content": "Norman Johns writes, 'For four years, local residents have been pressing for improvements to a section of footpath in White Rose Lane.'"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Lib Dem Plan for Real Change",
+        "policyDescription": "Look after our local NHS services making sure money is spent here in Woking. More police on our streets to tackle crime and anti-social behaviour and to make people SAFE. Protect the environment by boosting recycling, smarter and lead flight against climate change. Protect More over-development. Local decision schools by enabling the best local education. Real action for our economy by creating jobs, reducing red tape and tax cuts for those on ordinary incomes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Norman Johns",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "LABOUR CANNOT WIN HERE!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Protecting the environment by boosting recycling, smarter and leading the fight against climate change. Protect more over-development.",
+      "governance": "",
+      "health": "Look after our local NHS services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Norman Johns writes, 'For four years, local residents have been pressing for improvements to a section of footpath in White Rose Lane.'",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Borough Councilor for Mount Hermon East",
+        "duration": "four years",
+        "achievements": "Served on the Planning Task Group, Health and Climate Change Working Group, Schools Overview and Scrutiny Committee. Achieving improvements to the railway station subway, reducing traffic queuing and steps pedestrian and cyclist infrastructure at roundabouts."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01483 814375",
+      "email": "norman@wokinglibdems.org.uk",
+      "website": "www.WokingLibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cllr Norman Johns completed a cycle ride from Land's End to John O'Groats."
+        },
+        {
+          "caption": "Norman with some of the White Rose Lane footpath team."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

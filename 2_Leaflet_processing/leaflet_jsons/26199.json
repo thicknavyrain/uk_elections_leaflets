@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "KEEP THE TORIES OUT, KEEP LABOUR IN LINE",
+        "content": "VOTE GREEN"
+      },
+      {
+        "title": "You can return a Green voice to Parliament on May 7th",
+        "content": "Hello Robert, This Thursday, you have the power to return a Green MP to parliament. And in this election, one more MP can make more of a difference than ever. [...] You can vote Green confident that our MPs will stand up for what matters. We will never back the Tories and we will push a Labour-led government to go further, to be bolder. [...] Westminster needs a Green voice. You can make it happen."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Austerity",
+        "policyDescription": "The Greens are the only ones who will stand against austerity."
+      },
+      {
+        "policyTitle": "National Health Service (NHS)",
+        "policyDescription": "Fight for the NHS to remain fully public."
+      },
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Ensure urgent action is taken on climate change."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The polls, experts and bookies all agree that no single party will win outright. So how parties work with each other, or don't, is important."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Stand against austerity.",
+      "education": "",
+      "environment": "Ensure urgent action is taken on climate change.",
+      "governance": "",
+      "health": "Fight for the NHS to remain fully public.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Development House, 56-64 Leonard Street, London EC2A 4LT",
+      "phone": "",
+      "email": "",
+      "website": "ACTION.GREENPARTY.ORG.UK",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaigning visual with seating in the House of Commons depicted in green and the phrases 'KEEP THE TORIES OUT, KEEP LABOUR IN LINE. VOTE GREEN'"
+        }
+      ]
+    },
+    "additionalNotes": "Published and promoted by Penny Kemp on behalf of The Green Party of England and Wales."
+  }
+}
+```

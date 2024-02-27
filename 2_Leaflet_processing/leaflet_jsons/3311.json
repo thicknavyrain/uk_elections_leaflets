@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Shaun Bailey",
+    "constituency": "Hammersmith and Shepherds Bush",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Tackling flooding, not losing parks",
+        "content": "Opposes £2.2 billion 'super sewer' project, advocates for local storm relief and protecting green spaces."
+      },
+      {
+        "title": "Better training, less dependency",
+        "content": "Addressing unemployment by providing school leavers with opportunities and preventing the trap of dependency culture."
+      },
+      {
+        "title": "Better housing and a step up onto the ladder",
+        "content": "Ensures home availability for all income brackets, supports building mixed communities where diversity is celebrated."
+      },
+      {
+        "title": "Giving power to local people",
+        "content": "Supports localism, empowering people to have a say on new bars, planning applications, and opposes Labour's model of governance."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Flood Prevention and Park Protection",
+        "policyDescription": "Against the 'super sewer' project due to cost concerns, favors alternate flood prevention measures."
+      },
+      {
+        "policyTitle": "Employment and Training",
+        "policyDescription": "Implement programs to help long-term unemployed and school leavers, reduce dependency on benefits."
+      },
+      {
+        "policyTitle": "Housing Accessibility",
+        "policyDescription": "Make homes available to residents of all income levels, build mixed communities in Hammersmith, support property ownership."
+      },
+      {
+        "policyTitle": "Local Governance",
+        "policyDescription": "Advocate for localism, giving residents a direct say in local affairs such as licensing and planning."
+      }
+    ],
+    "mentions": {
+      "candidate": "Shaun Bailey",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Opposes costly 'super sewer' project, prefers local flood solutions and protecting green spaces.",
+      "governance": "Supports giving power to local people over decisions such as the licensing of new bars or planning applications, in contrast to Labour's model.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Advocates for better training to prevent dependency on benefits.",
+      "housing": [
+        {
+          "content": "Make homes available to residents of all income levels, build mixed communities in Hammersmith, support property ownership.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "020 7385 1002",
+      "email": "shaun@shaunbailey.com",
+      "website": "www.shaunbailey.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

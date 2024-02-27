@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Maggie Chapman",
+    "constituency": "North East Scotland",
+    "politicalParty": "Scottish Greens",
+    "electionDate": "5 MAY",
+    "messages": [
+      {
+        "title": "A better Scotland needs a bolder Holyrood",
+        "content": "Scotland can scrap the Council Tax and fund public services with a fairer system of land and property tax. Scotland can create 200,000 jobs in lasting industries that benefit communities and environment around them. Scotland can guarantee an income by increasing the carers’ allowance and guaranteeing a Living Wage Plus to all care workers. Scotland can ensure dignity for our young people and offer a place in education, training or employment for all school leavers."
+      },
+      {
+        "title": "What does a better Scotland, a bolder Holyrood mean for you?",
+        "content": "Managed transition from crisis-hit oil and gas industries into sustainable industries with secure, well-paid jobs. Affordable rents and increasing the housing stock by taxing empty properties. Improved public transport and sensible infrastructure investment."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Scotland can scrap the Council Tax and fund public services with a fairer system of land and property tax."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Create 200,000 jobs in lasting industries that benefit communities and environment around them."
+      },
+      {
+        "policyTitle": "Income Guarantee",
+        "policyDescription": "Guarantee an income by increasing the carers' allowance and guaranteeing a Living Wage Plus to all care workers."
+      },
+      {
+        "policyTitle": "Youth Opportunities",
+        "policyDescription": "Ensure dignity for young people by offering a place in education, training or employment for all school leavers."
+      },
+      {
+        "policyTitle": "Industry Transition",
+        "policyDescription": "Managed transition from crisis-hit oil and gas into sustainable industries with secure, well-paid jobs."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Affordable rents and increasing the housing stock by taxing empty properties."
+      },
+      {
+        "policyTitle": "Public Transport & Infrastructure",
+        "policyDescription": "Improved public transport and sensible infrastructure investment."
+      }
+    ],
+    "mentions": {
+      "candidate": "Maggie Chapman",
+      "otherPartyLeaderCandidate": "Patrick Harvie",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Affordable rents and increasing the housing stock by taxing empty properties.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "greens.scot",
+      "socialMedia": {
+        "facebook": "/ScottishGreens",
+        "twitter": "@scotgp",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "VOTE GREEN ON 5 MAY Each ballot paper piece with your vote is a strong Green voice in the Scottish Parliament. Maggie Chapman for Scottish Green Party List, lead candidate and Lead Candidate for North East Scotland, with Patrick Harvie."
+        }
+      ]
+    },
+    "additionalNotes": "#GREENHOLYROOD VOTE GREEN 2016"
+  }
+}
+```

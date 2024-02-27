@@ -1,0 +1,53 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Graham Findlay",
+    "constituency": "Milton Keynes South",
+    "politicalParty": "Green Party",
+    "electionDate": "8th June",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "c/o 38 Station Road, Woburn Sands, Bucks MK17 8RQ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A portrait of Graham Findlay, the Green Party candidate for Milton Keynes South for the 8th June election."
+        }
+      ]
+    },
+    "additionalNotes": "This publication has not been paid for by big business or corporate interests, but has been supported and funded by ordinary people."
+  }
+}
+```

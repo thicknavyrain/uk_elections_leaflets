@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Zac Goldsmith",
+    "constituency": "Richmond Park",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "Britain Needs Change",
+        "content": "Vote Conservative on Thursday 6th May."
+      },
+      {
+        "title": "Your Choice",
+        "content": "A clear choice at this election. Our country is on a different and better course with the Conservatives—don't let Labour wreck it."
+      },
+      {
+        "title": "Change and Hope",
+        "content": "We need to change the way politics is done in Britain. We need to restore people's trust in how they are governed. That's why it's not enough just to get rid of the old government; we need to change the whole way this country is run."
+      },
+      {
+        "title": "A Dangerous World",
+        "content": "After 13 years of Labour, it feels like a more dangerous world. It's time for practical action—not soft talk."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Will not just get spending under control and work to get our economy growing again, but will also offer a new economic model."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Put in place policies to make your community and Britain greener."
+      }
+    ],
+    "mentions": {
+      "candidate": "Zac Goldsmith has set out to prove that you can be green and Conservative.",
+      "otherPartyLeaderCandidate": "don't let Labour wreck it",
+      "partyLeader": "David Cameron has shown the leadership Britain needs.",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A clear choice at this election. Our country is on a different and better course with the Conservatives—don't let Labour wreck it. Will not just get spending under control and work to get our economy growing again, but will also offer a new economic model.",
+      "education": "",
+      "environment": "Put in place policies to make your community and Britain greener. Zac Goldsmith has set out to prove that you can be green and Conservative.",
+      "governance": "We need to change the whole way this country is run.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "We need to restore people's trust in how they are governed.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.zacgoldsmith.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "twitter.com/ZacGoldsmith",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Cameron",
+        "endorsement": "David Cameron has shown the leadership Britain needs. Zac Goldsmith has the passion, the energy, and the values to be a fantastic Member of Parliament."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "David Cameron has shown the leadership Britain needs. Zac Goldsmith has the passion, the energy, and the values to be a fantastic Member of Parliament.",
+        "source": "David Cameron",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Zac Goldsmith with David Cameron"
+        },
+        {
+          "caption": "Zac Goldsmith in action"
+        },
+        {
+          "caption": "Zac Goldsmith with community members around the world"
+        }
+      ]
+    },
+    "additionalNotes": "This leaflet has been produced and promoted by Zac Goldsmith, both at 372 Upper Richmond Road West, London. Printed by St Ives Roche, Cornwall."
+  }
+}
+```

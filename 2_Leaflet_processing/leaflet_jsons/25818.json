@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Thomas O'MALLEY",
+    "constituency": "Ealing North",
+    "politicalParty": "Conservative",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A personal message from Thomas O'MALLEY",
+        "content": "Committed to service at all times; offers a personal message to the constituents."
+      },
+      {
+        "title": "Long-Term Economic Plan",
+        "content": "Emphasizes the party's economic plan and reduction of the deficit."
+      },
+      {
+        "title": "Excellent schools for Ealing North",
+        "content": "Focus on creating excellent schools and ensuring children get the best start in life."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic Stability",
+        "policyDescription": "Continuation of the Long-Term Economic Plan, reducing the deficit, and helping to keep interest rates down."
+      }
+    ],
+    "mentions": {
+      "candidate": "Thomas O'MALLEY",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Emphasizes the importance of a referendum on Europe and letting the British people decide.",
+      "economy": "References to economic growth, reducing the deficit, and stabilising the economy.",
+      "education": "Commitment to excellent schools and improving children's start in life.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "There is a reiteration of the candidate's commitment to service at all times.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "thomas@thomasomalley.co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photos of Thomas O'Malley with political figures and constituents."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes several comparisons with opposition policies and highlights risks if those are implemented."
+  }
+}
+```

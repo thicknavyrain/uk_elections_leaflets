@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tom Chance",
+    "constituency": "Crystal Palace",
+    "politicalParty": "Green Party",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Your candidate for May - Tom Chance",
+        "content": "On the 7th May, you can shake up politics and show Labour they can't take the constituency for granted by voting Green."
+      },
+      {
+        "title": "Railways chaos - end privatisation",
+        "content": "The Green Party is the only major party standing in this constituency that will bring the railways back into public ownership."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Genuinely affordable housing",
+        "policyDescription": "Tom would campaign for: half a million new social homes in England by 2020, an end to the punitive benefit cuts including the bedroom tax, rent controls and more security for private renters, taxes to stop wealthy investors buying up our homes and driving up house prices through speculation."
+      },
+      {
+        "policyTitle": "Railways chaos - end privatisation",
+        "policyDescription": "The Green Party wants to bring the railways back into public ownership and proposes a three-point action plan for our railways: Give TfL control over the Southern and Southeastern services within London when those franchises expire. Let TfL take over the management of London Bridge so they can co-ordinate services better."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tom Chance lives in Anerley, and has led Green campaigns to save Crystal Palace Park, measure and reduce air pollution on our main roads, and protect local shops and businesses.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "shake up politics and show Labour they can't take the constituency for granted"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "half a million new social homes in England by 2020, an end to the punitive benefit cuts including the bedroom tax, rent controls and more security for private renters, taxes to stop wealthy investors buying up our homes and driving up house prices through speculation",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Tom Chance lives in Anerley, and has led Green campaigns to save Crystal Palace Park, measure and reduce air pollution on our main roads, and protect local shops and businesses.",
+    "politicalExperience": [
+      {
+        "role": "Green campaigns to save Crystal Palace Park",
+        "duration": "",
+        "achievements": "Measure and reduce air pollution on our main roads, and protect local shops and businesses."
+      },
+      {
+        "role": "Defended small software companies against a flawed patent law in the European Parliament",
+        "duration": "",
+        "achievements": "Made Southwark Council adopt the living wage and helped Community Land Trusts start to build affordable housing in London."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.crystalpalacegreens.org.uk",
+      "socialMedia": {
+        "facebook": "GreenTomChance",
+        "twitter": "CPGreens",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tom Chance with Crystal Palace Park in the background."
+        },
+        {
+          "caption": "Railway station departure board showing cancelled trains."
+        }
+      ]
+    },
+    "additionalNotes": "NO JUNK MAIL sticker? The Green Party wants to cut down on waste, but we see leaflets as an essential part of the democratic process and not junk mail. If you don't want us to deliver to you, please let us know."
+  }
+}
+```

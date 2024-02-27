@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lucy Care",
+    "constituency": "Derby",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 2017",
+    "messages": [
+      {
+        "title": "A Record of Action",
+        "content": "The leaflet outlines the achievements of the Liberal Democrats while in government including tax reductions, pension improvements, and educational investments."
+      },
+      {
+        "title": "Labour's library cuts will not to be published until after the General Election",
+        "content": "The leaflet criticizes the Labour-controlled City Council for delaying the decision regarding library cuts until after the forthcoming election."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Invested in schools by hiring more teachers and cutting class sizes; aiming to allow every child from a low-income family to go to university."
+      },
+      {
+        "policyTitle": "Health and Social Care",
+        "policyDescription": "The leaflet mentions an update on the Park and Ride near the hospital and criticizes Labour's handling of local libraries, which serve as community hubs and resource centers."
+      }
+    ],
+    "mentions": {
+      "candidate": "Lucy Care Lib Dem Candidate for Derby",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Tories could lose 30 seats to Liberal Democrats at next election."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Invested in schools by hiring more teachers and cutting class sizes; aiming to allow every child from a low-income family to go to university.",
+      "environment": "",
+      "governance": "Criticizes Labour's handling of library cuts and delay of a decision until after the election.",
+      "health": "Update on the construction of a new Park and Ride near the hospital which was falsely rumored.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Lucy Care became active in politics because Labour closed local libraries in 1990. Today, with more than 25 years of experience, she continues to campaign for the best policies in London to deliver the best for Derby.",
+    "politicalExperience": [
+      {
+        "role": "Councillor for Derby",
+        "duration": "20 years",
+        "achievements": "Has been involved in the local community and aimed for the best local policies as well as being a well-known resident of the constituency."
+      }
+    ],
+    "contactInformation": {
+      "address": "9A Great Northern Road, Derby, DE1 1LR",
+      "phone": "",
+      "email": "lucy.care@derbylibdems.org.uk",
+      "website": "www.derbylibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lucy Care working for you all year round"
+        },
+        {
+          "caption": "Lucy Care and the Lib Dem Team up for the fight"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

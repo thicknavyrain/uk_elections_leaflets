@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sue Edwards",
+    "constituency": "Gordon",
+    "politicalParty": "Scottish Green Party",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "Campaigning for better public transport",
+        "content": "A rail halt at Kintore is just one of the public transport improvements supported by Green Party candidate Sue Edwards. Said Sue, 'We have to reduce our dependence on fossil fuels. So we should be investing more in public transport now, building the transport infrastructure needed for a low-carbon future.'"
+      },
+      {
+        "title": "Green Party's election candidate is backed by local councillor",
+        "content": "Right across Gordon, support is increasing for Scottish Green Party election candidate Sue Edwards. Among those backing Sue Edwards is East Garioch councillor Martin Ford."
+      },
+      {
+        "title": "Call for environment action to help economy",
+        "content": "Election candidate Sue Edwards has called for 'a practical response to climate change.' Sue Edwards said, 'The Scottish Green Party’s free insulation scheme for every home in the country would save households hundreds of pounds. Measures like this could deliver tens of thousands of new jobs across Scotland.'"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public Transport",
+        "policyDescription": "Invest in public transport infrastructure to reduce dependence on fossil fuels and facilitate a low-carbon future."
+      },
+      {
+        "policyTitle": "Environment and Economy",
+        "policyDescription": "Implement a free insulation scheme for every home, to reduce energy costs and generate employment."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sue Edwards",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "A practical response to climate change and implementing environmentally friendly policies.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The Scottish Green Party's free insulation scheme for every home in the country would save households hundreds of pounds.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "",
+        "achievements": "Support for public transport improvements and environment action."
+      }
+    ],
+    "contactInformation": {
+      "address": "Hillhead Croft, Chapel of Garioch, Inverurie AB51 5HE",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Martin Ford",
+        "endorsement": "Support for Sue Edwards as the election candidate for the Scottish Green Party."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sue Edwards, candidate for the Scottish Green Party"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,68 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ed Miliband",
+    "constituency": "Hastings",
+    "politicalParty": "Labour Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Labour will rebuild an NHS with the time to care",
+        "content": "You may have read in the papers about the challenges facing your local hospital. Like in many hospitals around the country, services are struggling. Across the country A&E departments are facing the worst crisis since records began."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Improvement",
+        "policyDescription": "Labour plans to improve the NHS by hiring 20,000 more nurses and 8,000 more GPs, guaranteeing GP appointments within 48 hours and cancer test results within 1 week, and bringing in 5,000 more care-workers to join up care from homes to hospitals."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ed Miliband",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Labour has outlined specific plans for the NHS to end the worsening crisis under Conservative Government, including hiring more nurses and GPs, ensuring timely GP appointments and cancer test results, and integrating care from homes to hospitals.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Building the NHS was one of our greatest achievements as a country. Only a Labour government can ensure that the NHS will always be there for you and your family when you need it.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour will rebuild an NHS with the time to care."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet criticizes the Conservative government's performance in relation to the NHS and emphasizes Labour's commitment to improving it without the need for extra borrowing."
+  }
+}
+```

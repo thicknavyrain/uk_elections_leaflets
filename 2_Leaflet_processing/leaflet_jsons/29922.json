@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Enfield Southgate",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Your Tory MP only represents his views. Who represents yours?",
+        "content": "Unlike our Tory MP, Enfield Southgate didn't vote for Brexit - 62% of us voted to Remain. What has he done in your name? Find the facts about his voting record inside."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "David Burrowes",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Enfield Southgate didn't vote for Brexit - 62% of us voted to Remain.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.theyworkforyou.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Your Tory MP only represents his views. Who represents yours?"
+        }
+      ]
+    },
+    "additionalNotes": "*source - They Work For You - www.theyworkforyou.com"
+  }
+}
+```

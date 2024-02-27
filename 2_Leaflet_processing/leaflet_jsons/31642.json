@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mims Davies",
+    "constituency": "Mid Sussex",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "Let's get Brexit done – so we can get on with our priorities",
+        "content": "By voting for a Conservative majority Government, we can end the paralysis in Parliament, get Brexit done and move on to other priorities - our NHS, schools, police and economy."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Pledge of £33.9 billion funding for the NHS."
+      },
+      {
+        "policyTitle": "Police",
+        "policyDescription": "Promise of 20,000 extra police officers to make our streets safer."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "More funding for every pupil in every school."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mims Davies will bring local and Westminster experience to deliver for Mid Sussex.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Get Brexit done.",
+      "economy": "",
+      "education": "More funding for every pupil in every school.",
+      "environment": "",
+      "governance": "",
+      "health": "£33.9 billion for the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Mims Davies is a local resident who understands the community's needs well and will be a strong local voice for you in Parliament.",
+    "politicalExperience": [
+      {
+        "role": "Government Minister and former Mid Sussex District Councillor",
+        "duration": "",
+        "achievements": "Combines local knowledge with the experience of getting things done in Westminster."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01444 452590",
+      "email": "backingmims4midsussex@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "mimsdavies4midsussex",
+        "twitter": "mimsdavies",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mims Davies with supporters."
+        },
+        {
+          "caption": "Mims Davies speaking at an event."
+        },
+        {
+          "caption": "Mims Davies with constituents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

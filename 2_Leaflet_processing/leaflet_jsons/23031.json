@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ed Balls",
+    "constituency": "One Brewer's Green London",
+    "politicalParty": "Labour",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "A better plan. A better future.",
+        "content": "Ed Balls outlines Labour's plan to deal with the deficit, balance the books, and create a strong economic foundation."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic Responsibility",
+        "policyDescription": "Balance the books and cut the deficit every year. No manifesto commitments will require extra borrowing."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "People who come here won't be able to claim benefits for at least two years, saving in the benefits system."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "20,000 more nurses, 8,000 more GPs, and cancer tests guaranteed within a week."
+      },
+      {
+        "policyTitle": "Tax Reforms",
+        "policyDescription": "Implement a mansion tax on properties over £2 million and close tax loopholes. Introduce a levy on tobacco firms."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ed Balls",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Plans to cut the deficit every year without additional borrowing, benefiting from a strong economic foundation.",
+      "education": "Sensible spending cuts while protecting health and education services.",
+      "environment": "",
+      "governance": "",
+      "health": "Promise of 20,000 more nurses and 8,000 GPs, with cancer tests delivered within a week.",
+      "immigration": "Newcomers will not be eligible for benefits for at least two years.",
+      "socialWelfare": "Savings in the benefits system through changed eligibility for immigrants and sensible spending cuts.",
+      "housing": [
+        {
+          "content": "Introducing a mansion tax for properties over £2 million.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "We have a better plan for our country based on a simple truth: Britain only succeeds when working people succeed.",
+    "politicalExperience": [
+      {
+        "role": "Shadow Chancellor of the Exchequer",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "One Brewer's Green London SW1H 0RH",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ed Balls' campaign leaflet outlining Labour's plan for a better future."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

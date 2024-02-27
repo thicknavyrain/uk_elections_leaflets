@@ -1,0 +1,128 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tim Starkey",
+    "constituency": "Amersham",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "Real action on crime",
+        "content": "Nick Clegg and the Liberal Democrats are pledging real action to tackle crime and anti-social behaviour. In Britain today, only one in a hundred crimes is punished by a sentence in court. Two violent crimes are committed every minute. It's clear that Labour has failed to tackle rising crime across the country."
+      },
+      {
+        "title": "Change that works for you",
+        "content": "Lib Dems' four steps to a fairer Britain: 1. Fairer taxes that put money back in your pocket. 2. A fair chance for every child. 3. A fairer, greener Britain. 4. A fair deal for you from the energy companies."
+      },
+      {
+        "title": "Nick Clegg's Liberal Democrat NHS guarantee:",
+        "content": "Labour is cutting frontline services. Many Conservatives want to sell off the NHS. Only Nick Clegg and the Lib Dems will protect the vital services we all rely on. We will protect frontline services and care. The Lib Dems will cut waste and bureaucracy, saving money to improve care and protect frontline services."
+      },
+      {
+        "title": "It's time for a clean start at Westminster",
+        "content": "Join the Surge to the Liberal Democrats. Use your VOTE for a NEW POLITICS. Vote for change that works for You."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "Pledging to put thousands more police on patrol and give local communities more power to tackle anti-social behaviour."
+      },
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Fairer taxes that put money back in the pocket; no tax on first £10,000 you earn - cutting most tax bills by £700."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "A fair chance for every child with smaller class sizes, more cash for schools, and abolishing university tuition fees."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Creating jobs by making Britain greener, invest in public transport, renewable energy and energy efficient homes."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "A fair deal from the energy companies."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Protect frontline services and care, cut waste and bureaucracy to save money and improve care."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "No ID cards, cancel Eurofighter Tranche 3b, no like for like replacement of Trident missiles, restricting pay rises in the public sector, ending government payments into 'Child Trust Funds' etc."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tim Starkey",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "63% of eligible voters didn't vote Tory. No longer a safe Tory Seat."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "No ID cards, cancelling Eurofighter Tranche 3b, no like for like replacement of Trident missiles, restricting pay rises in the public sector, ending government payments into 'Child Trust Funds' etc.",
+      "education": "The Lib Dems believe that access to university education should be based on ability to learn, not ability to pay. We are committed to abolishing university tuition fees over a 6 year period, starting immediately with final year students.",
+      "environment": "Making Britain greener: invest in public transport, renewable energy and energy efficient homes.",
+      "governance": "No ID cards, cancelling Eurofighter Tranche 3b, and other governance policies.",
+      "health": "Labour is cutting frontline services. Many Conservatives want to sell off the NHS. Only Nick Clegg and the Lib Dems will protect the vital services we all rely on.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Printed and Published by Amersham Liberal Democrats, 8 Castle Street, Aylesbury, Bucks, HP20 2RE",
+      "phone": "",
+      "email": "",
+      "website": "http://www.timstarkeylibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Tuition Fees - The Lib Dems believe that access to university education should be based on ability to learn, not ability to pay. We are committed to abolishing university tuition fees over a 6 year period, starting immediately with final year students.",
+        "source": "Tim Starkey",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A photo of Lib Dem Leader Nick Clegg is included in the leaflet."
+        },
+        {
+          "caption": "A graph showing voting percentages with the message 'Join the Surge to the Liberal Democrats. Use your VOTE for a NEW POLITICS. Vote for change that works for You.'"
+
+        },
+        {
+          "caption": "A photo of candidate Tim Starkey is included in the leaflet."
+        }
+      ]
+    },
+    "additionalNotes": "Edited by Marek Trelinski."
+  }
+}
+```

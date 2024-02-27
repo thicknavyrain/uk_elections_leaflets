@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stewart McDonald",
+    "constituency": "Glasgow South",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "If elected, I won't be going to Westminster to settle down. I'll be going there to be a strong voice for you, your community and for Scotland."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Stewart McDonald",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "If elected, I won't be going to Westminster to settle down. I'll be going there to be a strong voice for you, your community and for Scotland.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stewart McDonald for Glasgow South"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

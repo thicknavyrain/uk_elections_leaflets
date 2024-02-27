@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew Gant",
+    "constituency": "Cotswolds",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "Thursday 8th June",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andrew Gant - Liberal Democrat Candidate for the Cotswolds"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

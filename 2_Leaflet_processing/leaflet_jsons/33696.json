@@ -1,0 +1,68 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jason Cooper",
+    "constituency": "Newcastle-under-Lyme",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "Without The Brexit Party there can be no real Brexit",
+        "content": "There are around 130 seats that the Conservatives haven’t won in at least 50 years. Only the Brexit Party can beat Corbyn’s Labour. Leavers, don’t waste your vote."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Ensure a proper, clean break from the European Union."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jason Cooper",
+      "otherPartyLeaderCandidate": "Corbyn’s Labour",
+      "partyLeader": "",
+      "tacticalSituation": "Speaking to the tactical considerations of the constituency, the leaflet suggests that only the Brexit Party can beat the Labour party in 'around 130 seats that the Conservatives haven’t won in at least 50 years.'"
+    },
+    "issues": {
+      "brexitEurope": "Ensure a proper, clean break from the European Union.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "83 Victoria Street, London SW1H 0HW",
+      "phone": "0800 414 8525",
+      "email": "",
+      "website": "www.thebrexitparty.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jason Cooper for Newcastle-under-Lyme"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet highlights the strategic importance for 'Leavers' to vote for the Brexit Party to achieve a 'real Brexit'. The content is focused on the Brexit issue and does not elaborate on other policy areas."
+  }
+}
+```

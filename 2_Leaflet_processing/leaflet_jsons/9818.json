@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sarah Merrill",
+    "constituency": "Solihull",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health Service",
+        "policyDescription": "Labour will continue to invest in health care and will fight to ensure Solihull Hospital offers a full range of services"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "A Labour Government will continue to invest in all our best future: ensuring they get the best possible education here in our city"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "I will fight to keep Land Rover jobs in Solihull while encouraging green technology companies to come here"
+      },
+      {
+        "policyTitle": "Champion your cause",
+        "policyDescription": "Councils and developers often try to force unwelcome plans on local communities. I will stand up for what people here want"
+      },
+      {
+        "policyTitle": "Take pride in our town",
+        "policyDescription": "I will work with the local groups who support hard for our community and make the great British high places to live: making Solihull so attractive a place to live"
+      }
+    ],
+    "mentions": {
+      "candidate": "Sarah Merrill",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "I will fight to keep Land Rover jobs in Solihull while encouraging green technology companies to come here.",
+      "education": "A Labour Government will continue to invest in all our best future: ensuring they get the best possible education here in our city.",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will continue to invest in health care and will fight to ensure Solihull Hospital offers a full range of services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Councils and developers often try to force unwelcome plans on local communities. I will stand up for what people here want",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Freepost RRYG-XUYC-JJCZ Sarah Merrill 200 London Road Solihull B93 9HU",
+      "phone": "07748 713003",
+      "email": "sarah.solihull@yahoo.co.uk",
+      "website": "www.labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Jackie Fox",
+        "endorsement": "Access to medical services has improved enormously over the last 12 years and patients are being seen so much quicker now."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sarah Merrill - a fresh start for Solihull"
+        },
+        {
+          "caption": "Sarah listens to the views of local young people"
+        },
+        {
+          "caption": "Local GP's backing for Sarah"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

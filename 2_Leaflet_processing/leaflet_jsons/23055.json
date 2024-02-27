@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Huw Thomas",
+    "constituency": "Ceredigion",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Labour Voice",
+        "content": "A personal message from Huw Thomas to the voters discussing the importance of the election and the need for change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Growing the economy",
+        "policyDescription": "Labour intends to grow the economy by supporting small businesses."
+      },
+      {
+        "policyTitle": "Improving living standards",
+        "policyDescription": "Labour will raise living standards while bringing the deficit down fairly."
+      },
+      {
+        "policyTitle": "Tackling Climate Change",
+        "policyDescription": "Labour wants to tackle climate change with 1 million green jobs."
+      },
+      {
+        "policyTitle": "Improving living standards in rural Wales",
+        "policyDescription": "Labour has plans for improving living standards in rural Wales."
+      },
+      {
+        "policyTitle": "Fighting to protect the NHS",
+        "policyDescription": "Labour commits to fighting to protect the NHS from Tory/Lib Dem broken promises."
+      }
+    ],
+    "mentions": {
+      "candidate": "Huw Thomas",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Small businesses growth and support.",
+      "education": "",
+      "environment": "1 million green jobs to tackle climate change.",
+      "governance": "",
+      "health": "Protecting the NHS from Tory/Lib Dem broken promises.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Huw Thomas details his connection to the local area, having been born and brought up in Aberystwyth.",
+    "politicalExperience": [
+      {
+        "role": "Candidate",
+        "duration": "Current",
+        "achievements": "Details his commitment to fighting for Ceredigion and the changes he believes are necessary."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07912 517 831",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour will raise living standards while bringing the deficit down fairly.",
+        "source": "Campaign Leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photos of Huw Thomas and supporters, as well as Labour branding and campaign messages."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

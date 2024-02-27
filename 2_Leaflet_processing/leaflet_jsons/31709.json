@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Charlotte Hoagland",
+    "constituency": "West Oxfordshire",
+    "politicalParty": "Lib Dem",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "Dear Resident,",
+        "content": "In just a few short weeks we will go to the polls to decide the future of this country. This election is a once in a generation opportunity to reshape our politics and give hope to millions. It is our opportunity to reject the tired old politics of fear and hatred with Boris Johnson and Jeremy Corbyn's infighting in Parliament and elect a Prime Minister with a vision for a fairer, brighter future for the UK."
+      },
+      {
+        "title": "I will:",
+        "content": "Campaign for investment in better local transport; Fight for more genuinely affordable homes for local people; Win a secure future for our local community hospitals"
+      },
+      {
+        "title": "",
+        "content": "On all these issues, we have been badly let down by the Conservatives."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Transport",
+        "policyDescription": "Campaign for investment in better local transport"
+      },
+      {
+        "policyTitle": "Affordable Housing",
+        "policyDescription": "Fight for more genuinely affordable homes for local people"
+      },
+      {
+        "policyTitle": "Community Hospitals",
+        "policyDescription": "Win a secure future for our local community hospitals"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "The Liberal Democrats will fund 20,000 extra teachers"
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "A mental health service accessible 24 hours a day, 365 days a year"
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Investment in insulating all homes by 2030 to reduce fuel poverty and help tackle the climate emergency"
+      }
+    ],
+    "mentions": {
+      "candidate": "Charlotte Hoagland",
+      "otherPartyLeaderCandidate": "Boris Johnson, Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "It's between me and a right wing Tory who will back a chaotic bad Brexit. Please support me on 12th December."
+    },
+    "issues": {
+      "brexitEurope": "a chaotic bad Brexit",
+      "economy": "",
+      "education": "fund 20,000 extra teachers",
+      "environment": "insulating all homes by 2030 to reduce fuel poverty",
+      "governance": "",
+      "health": "a mental health service accessible 24 hours a day, 365 days a year",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Fight for more genuinely affordable homes for local people",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.charlotte4witney.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Charlotte Hoagland - Lib Dem campaigner for West Oxfordshire"
+        }
+      ]
+    },
+    "additionalNotes": "Published and promoted by Cooper on behalf of C Hoagland (Liberal Democrat) both at Unit E5, Grange Court Business Park, Barton Lane, Abingdon, OX14 3NB. Printed by Park, Alpine Way, London E6 6LA."
+  }
+}
+```

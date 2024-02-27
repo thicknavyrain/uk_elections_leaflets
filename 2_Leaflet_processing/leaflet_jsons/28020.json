@@ -1,0 +1,116 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Lilian Greenwood",
+	"constituency": "Nottingham South",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 8th June",
+	"messages": [
+  	{
+    	"title": "Getting the best for Nottingham South",
+    	"content": "On the reverse of this leaflet, you will see some of the key priorities I have for our local area, as well as my record of standing up for Nottingham South in Parliament."
+  	},
+  	{
+    	"title": "Why I'm backing Lilian Greenwood",
+    	"content": "[Name removed] says: 'I'm backing Lilian because of her tireless work standing up for Nottingham South - from securing investments in our transport system to backing local businesses and jobs. She has always put Nottingham South first.'"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Better Brexit",
+    	"policyDescription": "Vote for a better Brexit that works for every community."
+  	},
+  	{
+    	"policyTitle": "Our NHS",
+    	"policyDescription": "We'll defend our NHS."
+  	},
+  	{
+    	"policyTitle": "School Cuts",
+    	"policyDescription": "We will oppose cuts to our schools."
+  	},
+  	{
+    	"policyTitle": "Living Standards",
+    	"policyDescription": "We will stand up for living standards."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Lilian Greenwood",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "[Name removed]",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Vote for a better Brexit that works for every community.",
+  	"economy": "",
+  	"education": "We will oppose cuts to our schools.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "We'll defend our NHS.",
+  	"immigration": "",
+  	"socialWelfare": "We will stand up for living standards.",
+  	"housing": [
+    	{
+      	"content":"Vote for action on the housing crisis.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "On the reverse of this leaflet, you will see some of the key priorities I have for our local area, as well as my record of standing up for Nottingham South in Parliament.",
+	"politicalExperience": [
+  	{
+    	"role": "Member of Parliament for Nottingham South",
+    	"duration": "June 2010 - present",
+    	"achievements": "Standing up for Nottingham South - from securing investments in our transport system to backing local businesses and jobs. She has always put Nottingham South first."
+  	}
+	],
+	"contactInformation": {
+  	"address": "UNISON Vivian Avenue, Nottingham, NG5 1AF",
+  	"phone": "07570518202",
+  	"email": "lilian_greenwood@labour.org.uk",
+  	"website": "www.liliangreenwood.co.uk",
+  	"socialMedia": {
+    	"facebook": "facebook.com/liliangreenwoodlabour",
+    	"twitter": "@LilianGreenwood",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "[Name removed]",
+    	"endorsement": "I'm backing Lilian because of her tireless work standing up for Nottingham South."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "She has always put Nottingham South first.",
+    	"source": "[Name removed]",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Lilian Greenwood with [Name removed]"
+    	},
+    	{
+      	"caption": "Lilian Greenwood at a town meeting with residents"
+    	},
+    	{
+      	"caption": "Lilian Greenwood with children and educators"
+    	},
+    	{
+      	"caption": "Lilian Greenwood in conversation with a small business owner"
+    	},
+    	{
+      	"caption": "Lilian Greenwood aboard public transport"
+    	},
+    	{
+      	"caption": "Portrait of Lilian Greenwood"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

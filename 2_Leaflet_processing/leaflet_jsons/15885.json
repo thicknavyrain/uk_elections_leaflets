@@ -1,0 +1,103 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "BALANCE THE BOOKS.",
+        "content": ""
+      },
+      {
+        "title": "BETTER WAGES.",
+        "content": ""
+      },
+      {
+        "title": "BACK THE NEXT GENERATION.",
+        "content": ""
+      },
+      {
+        "title": "LABOUR: A BETTER PLAN.",
+        "content": "A BETTER FUTURE."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "BALANCE THE BOOKS.",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "BETTER WAGES.",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "BACK THE NEXT GENERATION.",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "READ OUR PLEDGE TO YOU INSIDE"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Graham Stuart",
+    "constituency": "Beverley and Holderness",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Competent leadership",
+        "content": "Job total hits record high while wages surge; Benefits cap 'leads more into work'; Tax cuts for workers and savers; The deficit down; Income tax cut; More jobs; New businesses."
+      },
+      {
+        "title": "Coalition of Chaos",
+        "content": "Labour plan to borrow risks £170bn extra debt; Bosses queue up to warn: Miliband will bankrupt Britain."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Highlights tax cuts for workers and savers, reduction of the deficit, income tax cuts, more jobs, and new businesses."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Mentions competent leadership that has led to a record high in jobs and wage surges."
+      }
+    ],
+    "mentions": {
+      "candidate": "Graham Stuart runs his street surgeries all year, every year, not just at election time. No one does more to protect local services and champion local jobs - vote to keep him.",
+      "otherPartyLeaderCandidate": "Labour is plotting with the SNP; Miliband will bankrupt Britain.",
+      "partyLeader": "David Cameron is shown as an example of competent leadership, although not explicitly mentioned by name.",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Emphasizes tax cuts, job creation, and warns about Labour's borrowing plan risking extra debt.",
+      "education": "",
+      "environment": "",
+      "governance": "Advocates for continued competent leadership for a better future.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Mentions benefits cap leading more into work.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "One of the country's hardest working MPs. Graham runs his street surgeries all year, every year, not just at election time.",
+    "politicalExperience": [
+      {
+        "role": "MP for Beverley and Holderness",
+        "duration": "",
+        "achievements": "Works throughout the year to address local concerns and has been active in protecting local services and jobs."
+      }
+    ],
+    "contactInformation": {
+      "address": "Election Communication, Ramon L Duffill, 6 Johnson Court, Hull, HU12 8EF",
+      "phone": "",
+      "email": "",
+      "website": "www.grahamstuart.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of the candidate and various interactions with the public."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

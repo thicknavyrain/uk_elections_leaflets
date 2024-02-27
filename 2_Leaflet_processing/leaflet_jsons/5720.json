@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "MICHAEL GOVE",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Standing up for the law-abiding majority",
+        "content": "People across the country are fed up with our criminal justice system. They feel that it's just not on their side anymore. Violence, disorder and anti-social behaviour make their days more miserable. Labour's lax on crime policies have seen thousands of people let off with cautions. We can't go on like this."  
+      },
+      {
+        "title": "The NHS: our number one priority",
+        "content": "When David Cameron became leader of the Conservative Party four-and-a-half years ago, he made clear that the NHS was our number one priority - and it has remained our priority ever since."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Criminal Justice",
+        "policyDescription": "Promising a new era of transparency and immediate action against crime and anti-social behavior."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Commitment to the NHS as the top priority, increasing patient power through choice and transparency, slashing bureaucracy by scrapping tick boxes and targets; and empowering doctors and nurses to focus on results."
+      }
+    ],
+    "mentions": {
+      "candidate": "Michael Gove",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "When David Cameron became leader of the Conservative Party four-and-a-half years ago, he made clear that the NHS was our number one priority - and it has remained our priority ever since.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Michael Gove engaging with community members and addressing issues of public safety and health."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

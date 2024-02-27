@@ -1,0 +1,68 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Green Party",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "A 'Living Wage' for all",
+    	"policyDescription": "Green MPs will demand a 'Living Wage' to ensure low paid workers earn enough to provide for themselves and their families. They will fight for a fair financial deal, with community banks, credit unions and mutuals providing realistic loans to families and small businesses."
+  	},
+  	{
+    	"policyTitle": "A million new jobs",
+    	"policyDescription": "Green MPs will press for a free insulation scheme for every single home as part of a green package to cut fuel bills and create a million new jobs. Green Party councillors have already pioneered such a scheme in Kirklees."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Green MPs will demand a 'Living Wage' to ensure low paid workers earn enough to provide for themselves and their families.",
+  	"education": "",
+  	"environment": "Green MPs will press for a free insulation scheme for every single home as part of a green package to cut fuel bills and create a million new jobs.",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Bringing Britain’s housing up to 'green' standards would create much-needed jobs for builders, plumbers, electricians, and engineers.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "A 'Living Wage' for all - Green MPs will demand a 'Living Wage' to ensure low paid workers earn enough to provide for themselves and their families."
+    	},
+    	{
+      	"caption": "A million new jobs - Green MPs will press for a free insulation scheme for every single home as part of a green package to cut fuel bills and create a million new jobs."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

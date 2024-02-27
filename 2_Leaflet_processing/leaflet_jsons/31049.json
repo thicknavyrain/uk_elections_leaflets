@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr Nicholas Wood",
+    "constituency": "Runnymede & Weybridge",
+    "politicalParty": "UKIP",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "BREXIT COULD BE GREAT—BUT FOR TORY DITHERING & DELAYS",
+        "content": "Despite 'Project Fear', Britain voted to leave. The establishment told unproven lies, forecast painful tax rises, collapsing industry, rising unemployment, and no one would trade with us. They all got it wrong, their friends - the IMF, Bank of England, the EU, etc."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "UKIP will deliver better healthcare by giving the NHS an additional £11 billion by no EU payments, maintaining wages international aid, and preventing health tourism."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Boost the armed forces, support veterans, ensure NATO minimum spending (2% GDP on military), and rebuild our navy in British yards."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Have smaller schools county-wide, effective discipline, and free after-school clubs."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Focus on brownfield sites, renovate derelict homes, and ensure a local connection for new housing."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr Nicholas Wood",
+      "otherPartyLeaderCandidate": "Theresa May, Jeremy Corbyn, Mr Hammond, the Tory government",
+      "partyLeader": "Paul Nuttall MEP and Nigel Farage MEP continue to fight for the UK in the European Parliament.",
+      "tacticalSituation": "On 8th June, your vote will deliver..."
+    },
+    "issues": {
+      "brexitEurope": "EU employment costs UK £9 billion, automated surgery and computerised medicine dispensing. Nadine Dorries called for EU Exit - 'Let Labour-Lib Con coalition deliver...' EU food prices will fall under UKIP.",
+      "economy": "Cut corporation tax to 10% to create more jobs.",
+      "education": "",
+      "environment": "Maintain annual payments for hedgerows and dry stone walls.",
+      "governance": "Repealing the 1972 European Communities Act; free trade with non-EU countries to sell to UK tariff-free—unlike now.",
+      "health": "Deliver better healthcare by giving the NHS an additional £11 billion by no EU payments, maintaining wages international aid, and preventing health tourism.",
+      "immigration": "Points system for immigration, select on merit.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Focus on brownfield sites, renovate derelict homes, and ensure a local connection for new housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.ukipsurrey.org",
+      "socialMedia": {
+        "facebook": "http://www.facebook.com/UKIPSurrey",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nicholas Wood in the EU Parliament chamber"
+        },
+        {
+          "caption": "Photo of potholed road and damaged fencing"
+        },
+        {
+          "caption": "Graph depicting 'Net EU contributions'"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet also mentions tactical voting in terms of how a vote could deliver or affect Brexit. Key focus on criticizing Tory government's handling of Brexit, the economy, and pointing out failures and inconsistencies."
+  }
+}
+```

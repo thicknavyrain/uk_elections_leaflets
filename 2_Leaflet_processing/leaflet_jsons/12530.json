@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Securing a future fair for all",
+        "content": "The pledges that we are putting before the British people are new Labour's plan to ensure a future fair for all. Each pledge is substantial, deliverable and carefully costed, speaking to the values of Britain's mainstream majority - ordinary families like the one in which I grew up that want to get on and not simply to get by."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Secure the recovery and halve the deficit",
+        "policyDescription": "Secure the recovery and halve the deficit through economic growth, fair taxes and cuts to lower priority spending."
+      },
+      {
+        "policyTitle": "Raise family living standards",
+        "policyDescription": "Raise family living standards, keeping mortgage rates as low as possible; increasing tax credits for families with young children; providing new help for first-time buyers; and restoring the link between the state pension and earnings from 2012."
+      },
+      {
+        "policyTitle": "Protect frontline investment",
+        "policyDescription": "Protect frontline investment in policing, schools, childcare and the NHS, with a new guarantee of cancer test results within a week."
+      },
+      {
+        "policyTitle": "Guarantee education and training for young people",
+        "policyDescription": "Australian-style points-based system to control immigration; guaranteed education, apprenticeships and jobs for young people; and a crack down on anti-social behaviour."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "The Tories",
+      "partyLeader": "Gordon Brown",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Secure the recovery and halve the deficit through economic growth, fair taxes and cuts to lower priority spending.",
+      "education": "Guarantee education and training for young people.",
+      "environment": "",
+      "governance": "",
+      "health": "Protect frontline investment in policing, schools, childcare and the NHS, with a new guarantee of cancer test results within a week.",
+      "immigration": "Australian-style points-based system to control immigration.",
+      "socialWelfare": "Raise family living standards, keeping mortgage rates as low as possible; increasing tax credits for families with young children; providing new help for first-time buyers; and restoring the link between the state pension and earnings from 2012.",
+      "housing": [
+        {
+          "content": "Provide new help for first-time buyers.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk/join",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "The Tories plan a tax giveaway of £200,000 to the wealthiest 3,000 estates in the country.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Gordon Brown interacting with school children."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "THE CHOICE AT THIS ELECTION IS BETWEEN A LABOUR OR A TORY GOVERNMENT",
+        "content": "A VOTE FOR ANYONE BUT LABOUR RISKS ANOTHER TORY GOVERNMENT"
+      },
+      {
+        "title": "TOMORROW",
+        "content": "only a vote for Labour will stop David Cameron walking back into Downing Street."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Ban exploitative zero-hours contracts",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Raise the minimum wage to more than £8 an hour",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "1,000 more nurses paid for by a mansion tax",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Promoted by Brian Roy, Scottish General Secretary, on behalf of the Scottish Labour Party, both at 290 Bath Street, Glasgow, G2 4RE. Printed by Anton Group, Anton House, Christy Way, Laindon, Essex SS15 6TR.",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

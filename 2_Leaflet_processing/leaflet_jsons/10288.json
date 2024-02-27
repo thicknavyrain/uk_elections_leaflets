@@ -1,0 +1,66 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ashay Ghai",
+    "constituency": "Paisley & Renfrewshire South",
+    "politicalParty": "SCOTTISH LIBERAL DEMOCRATS",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer taxes",
+        "policyDescription": "Nick Clegg’s tax plan means that you will pay no tax on the first £10,000 you earn – cutting most tax bills by £700."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ashay Ghai",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.ScotLibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Ashay Ghai with a group of supporters holding campaign materials."
+        },
+        {
+          "caption": "Image of Nick Clegg with a description of the Liberal Democrats' tax policy."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

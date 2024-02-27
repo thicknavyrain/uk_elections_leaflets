@@ -1,0 +1,108 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "James Baker",
+    "constituency": "Wallasey and Moreton",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "A fresh start with James Baker",
+        "content": "It's time to vote for a new MP"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A fair share for Wallasey of the extra 20,000 police",
+        "policyDescription": "James Baker will make our streets safer by fighting for a fair share of the new police being recruited."
+      },
+      {
+        "policyTitle": "Improve rail and local bus services",
+        "policyDescription": "Campaigning for better access at Wallasey Village Station, an extra station for Moreton and re-regulating some bus routes."
+      },
+      {
+        "policyTitle": "Protecting support for pensioners",
+        "policyDescription": "Will continue to provide Winter Fuel Payments, free prescriptions and pension rises for older people. I will campaign for the BBC to maintain free TV licences."
+      },
+      {
+        "policyTitle": "Supporting our NHS to give people the care they need",
+        "policyDescription": "Running the NHS for 44 of the 71 years it has existed. Will give the NHS the biggest cash boost in its history."
+      },
+      {
+        "policyTitle": "Every child should have the chance to succeed in life",
+        "policyDescription": "Conservatives guarantee at least £4,000 to spend on every primary school pupil and £5,000 on every high school student."
+      },
+      {
+        "policyTitle": "Challenge the Birkenhead-Wirral Council",
+        "policyDescription": "James Baker will stand up for Wallasey and Moreton, fighting for a fairer share of council spending for this community."
+      }
+    ],
+    "mentions": {
+      "candidate": "James Baker",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Get Brexit done with our new deal",
+      "economy": "",
+      "education": "Guarantee at least £4,000 to spend on every primary school pupil and £5,000 on every high school student.",
+      "environment": "",
+      "governance": "",
+      "health": "Will give the NHS the biggest cash boost in its history.",
+      "immigration": "",
+      "socialWelfare": "Will continue to provide Winter Fuel Payments, free prescriptions and pension rises for older people. I will campaign for the BBC to maintain free TV licences.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Victoria Parade, Wallasey CH45 2PH",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "ArroWe Park Hospital"
+        },
+        {
+          "caption": "Police Wallasey"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

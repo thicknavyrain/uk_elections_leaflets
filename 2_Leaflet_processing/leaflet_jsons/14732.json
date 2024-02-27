@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "Scotland",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "CLEAN UP POLITICS",
+    	"content": "Only the Lib Dems will CLEAN UP POLITICS."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Governance",
+    	"policyDescription": "Give you the power to sack corrupt MPs, stop MPs being bought by millionaire and billionaire donors, make politicians work for the people."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "In many parts of Scotland, the Conservatives and SNP can't win. In these areas it's a two horse race between the Lib Dems or Labour. Voting Conservative or SNP will just help Labour win again. Only the Liberal Democrats can beat Labour."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "Give you the power to sack corrupt MPs, stop MPs being bought by millionaire and billionaire donors, make politicians work for the people.",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "A vote for Labour is a vote for more of this... [various negative claims about Labour Party's past].",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Only the Lib Dems will CLEAN UP POLITICS"
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet contains various claims and headlines from sources like Daily Telegraph and The Independent about past political scandals involving the Labour Party and asserts that voting for other parties in many areas will result in Labour winning."
+  }
+}
+```

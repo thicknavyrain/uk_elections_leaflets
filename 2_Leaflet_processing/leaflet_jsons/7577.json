@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sheila Low",
+    "constituency": "Glenrothes",
+    "politicalParty": "Scottish Conservatives",
+    "electionDate": "6 May",
+    "messages": [
+      {
+        "title": "3 POSITIVE REASONS TO VOTE FOR SHEILA LOW",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Enterprise and Act",
+        "policyDescription": "Sheila has a track record in helping to grow businesses."
+      },
+      {
+        "policyTitle": "Listen and Act",
+        "policyDescription": "Sheila will listen to you and act to resolve local issues."
+      },
+      {
+        "policyTitle": "Family Life",
+        "policyDescription": "Sheila knows the pressures faced by families today and will stand up for you in the Scottish Parliament."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sheila Low",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Sheila is a hard worker with a love of Glenrothes",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "75 Springfield, Markinch, Glenrothes",
+      "phone": "",
+      "email": "sheila.low@scottishconservatives.com",
+      "website": "www.scottishconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sheila Low with campaign supporters"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by David Mole on behalf of Sheila Low, both of 75 Springfield, Markinch, Glenrothes; Printed by Hill and Hay Ltd, 58 East Dock Street, Glasgow G40 4AA."
+  }
+}
+```

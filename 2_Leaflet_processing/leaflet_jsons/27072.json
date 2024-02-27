@@ -1,0 +1,70 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Tim Barons",
+	"constituency": "Leafy country seat",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+		{
+			"title": "Your postal vote can stop Theresa May’s Brexit wrecking Britain",
+			"content": "Voting for the Lib Dems sends a powerful message against hard Brexit."
+		},
+		{
+			"title": "...AND LABOUR IS SUPPORTING THEM!",
+			"content": "Their extreme Brexit will wreck Britain."
+		}
+	],
+	"keyPolicies": [],
+	"mentions": {
+		"candidate": "Tim Barons",
+		"otherPartyLeaderCandidate": "Theresa May, UKIP, Labour Party",
+		"partyLeader": "",
+		"tacticalSituation": ""
+	},
+	"issues": {
+		"brexitEurope": "Voting for the Lib Dems sends a powerful message against hard Brexit.",
+		"economy": "",
+		"education": "",
+		"environment": "",
+		"governance": "",
+		"health": "",
+		"immigration": "",
+		"socialWelfare": "",
+		"housing": [
+			{
+				"content":"",
+				"yimbyNimby": ""
+			}
+		]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+		"address": "",
+		"phone": "",
+		"email": "",
+		"website": "LibDems.org.uk",
+		"socialMedia": {
+			"facebook": "",
+			"twitter": "",
+			"instagram": "",
+			"linkedin": ""
+		}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+		"images": [
+			{
+				"caption": "Tim Barons with supporters holding a sign against Brexit."
+			},
+			{
+				"caption": "Caricatures of Theresa May and UKIP leader holding a wrecking ball labelled 'Brexit'."
+			}
+		]
+	},
+	"additionalNotes": "Both the front and the back pages of the leaflet presenting the message against hard Brexit and portraying Labour as a supporter of an extreme Brexit are visible."
+  }
+}
+```

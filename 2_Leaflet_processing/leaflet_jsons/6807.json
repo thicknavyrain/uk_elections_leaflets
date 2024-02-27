@@ -1,0 +1,80 @@
+{
+  "leaflet": {
+    "candidateName": "Julie",
+    "constituency": "Cardiff North",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "New measure to reduce the risk of Cancer",
+        "content": "Julie with the support of cancer charities campaigned in Parliament to ban the use of sun beds by under-16's."
+      },
+      {
+        "title": "Protecting front-line services, protecting the NHS",
+        "content": ""
+      },
+      {
+        "title": "Creating a future that is fair for all",
+        "content": "Strong families are the heart of strong communities. We know that hard decisions will have to be made in the coming months. In Cardiff North the choice is between a Labour government that cares about the community and a Tory government through difficult times attacking services and taking us back to the high unemployment of the 80s. It is a straight choice between Labour and the Tories."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Campaign to reduce the risk of cancer, including a ban on the use of sun beds by under-16's."
+      }
+    ],
+    "mentions": {
+      "candidate": "Julie",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "In Cardiff North the choice is between Labour and the Tories."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Strong families are the heart of strong communities.",
+      "health": "New measure to reduce the risk of Cancer championed by Julie.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Creating a future that is fair for all includes strong families as the heart of strong communities.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.labour4north.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Julie with supporters and members of the community."
+        },
+        {
+          "caption": "Julie with the support of cancer charities."
+        },
+        {
+          "caption": "Julie and community members discussing issues."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

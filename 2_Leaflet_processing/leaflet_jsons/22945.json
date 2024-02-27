@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nicola Blackwood",
+    "constituency": "Oxford West and Abingdon",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Deliver immediate A34 junction improvements and cut congestion for the long term."
+      },
+      {
+        "policyTitle": "Employment and Education",
+        "policyDescription": "24,000 good jobs by 2021 and great schools and skills training so local kids benefit."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "More homes for our impossibly expensive area but vital infrastructure built first."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nicola Blackwood",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "More homes for our impossibly expensive area but vital infrastructure built first.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.nicolablackwood.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nicola Blackwood with constituents and imagery related to key policy areas."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

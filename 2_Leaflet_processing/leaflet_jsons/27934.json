@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "LIZ WALTERS",
+    "constituency": "Cynon Valley",
+    "politicalParty": "Plaid Cymru",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "",
+        "content": "Born and bred in the Cynon Valley. Liz is married with 2 children who both attend local schools. Liz works in the NHS with pre-school children with additional learning needs. An experienced former councillor and school governor for over 20 years."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Defending Cynon Valley and Wales",
+        "policyDescription": "Work to defend Cynon Valley and Wales against Tory attacks. Labour are too weak and divided to do this and have given up on Wales."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Fight to ensure that the Cynon Valley and Wales does not lose a single penny of funding as a result of Brexit."
+      },
+      {
+        "policyTitle": "Protecting Public Services",
+        "policyDescription": "Always fight to protect public services like the NHS and schools by supporting Plaid Cymru’s multi-billion pound investment programme."
+      }
+    ],
+    "mentions": {
+      "candidate": "Liz Walters",
+      "otherPartyLeaderCandidate": "Tory",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Fight to ensure that the Cynon Valley and Wales does not lose a single penny of funding as a result of Brexit.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Always fight to protect public services like the NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Born and bred in the Cynon Valley. Married with 2 children. Works in the NHS. Former councillor and school governor.",
+    "politicalExperience": [
+      {
+        "role": "Former councillor and school governor",
+        "duration": "20 years",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "57 Llewellyn Street, Trecynon, Aberdare, CF44 8HU",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Liz Walters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

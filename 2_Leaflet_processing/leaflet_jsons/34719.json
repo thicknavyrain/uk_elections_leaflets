@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Joy MORRISSEY",
+    "constituency": "Beaconsfield",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "LET'S GET BREXIT DONE",
+        "content": "And get on with our priorities."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "PROTECT OUR FINE SCHOOLS",
+        "policyDescription": "Oppose Labour's threat to Grammar Schools and all private education."
+      },
+      {
+        "policyTitle": "HS2 IS A BLIGHT ON BUCKS",
+        "policyDescription": "Challenge the HS2 project and stand with campaigners who want it stopped."
+      },
+      {
+        "policyTitle": "PROTECT GREEN BELT",
+        "policyDescription": "Balance the need for homes with protecting the environment."
+      },
+      {
+        "policyTitle": "LET'S GET BREXIT DONE",
+        "policyDescription": "Deliver Brexit then focus on day to day issues such as investing in the NHS, policing, and education."
+      }
+    ],
+    "mentions": {
+      "candidate": "Joy MORRISSEY",
+      "otherPartyLeaderCandidate": "Corbyn's Labour Party",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Deliver Brexit then focus on day to day issues.",
+      "economy": "",
+      "education": "More funding for every pupil in every school.",
+      "environment": "Defend the Green Belt.",
+      "governance": "",
+      "health": "£33.9 billion for the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We need homes for our children and grandchildren but these must go hand in hand with infrastructure.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "A new local voice for Beaconsfield.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01494 673745",
+      "email": "joymorrissey@beaconsfieldconservatives.co.uk",
+      "website": "www.beaconsfieldconservatives.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Deliver Brexit then focus on day to day issues.",
+        "source": "Campaign Material",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Time for a change in Beaconsfield."
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by Philip Dumville, on behalf of Joy Morrissey."
+  }
+}
+```

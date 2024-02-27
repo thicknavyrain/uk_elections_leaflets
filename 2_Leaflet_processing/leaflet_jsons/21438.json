@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Bowler",
+    "constituency": "North East Beds",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "VOTE FORWARD WHAT YOU BELIEVE IN",
+        "content": "A fairer, more equal society with no more austerity. A minimum wage that is a living-wage: £10/hour by 2020. Abolish university tuition fees, cancel student debt and create apprenticeship places for 16-25 year olds. Build affordable, efficient homes and tackle the housing crisis. Maintaining a publicly funded, publicly provided National Health Service. End pensioner poverty with a weekly citizens’ pension of £180 for a single person and £310 for a couple. Cut bus & rail fares by 10% and create safer roads for cyclists. Combat Climate Change, investing in renewable and efficient energy production. Return the railways to public hands and improve services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "A fairer, more equal society with no more austerity. A minimum wage that is a living-wage: £10/hour by 2020."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Abolish university tuition fees, cancel student debt and create apprenticeship places for 16-25 year olds."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build affordable, efficient homes and tackle the housing crisis."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Maintaining a publicly funded, publicly provided National Health Service."
+      },
+      {
+        "policyTitle": "Social Welfare",
+        "policyDescription": "End pensioner poverty with a weekly citizens’ pension of £180 for a single person and £310 for a couple."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Cut bus & rail fares by 10% and create safer roads for cyclists."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Combat Climate Change, investing in renewable and efficient energy production."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Return the railways to public hands and improve services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Bowler",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A fairer, more equal society with no more austerity.",
+      "education": "Abolish university tuition fees, cancel student debt and create apprenticeship places for 16-25 year olds.",
+      "environment": "Combat Climate Change, investing in renewable and efficient energy production.",
+      "governance": "Return the railways to public hands and improve services.",
+      "health": "Maintaining a publicly funded, publicly provided National Health Service.",
+      "immigration": "",
+      "socialWelfare": "End pensioner poverty with a weekly citizens’ pension of £180 for a single person and £310 for a couple.",
+      "housing": [
+        {
+          "content": "Build affordable, efficient homes and tackle the housing crisis.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Mark believes that our health care services should not be treated as a commodity to be sold to the highest bidder. Greens will increase spending on mental health & dementia services and will provide free social care for those who need it.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "72 Crispin Drive, Bedford, MK41 7FS",
+      "phone": "",
+      "email": "Mark.Bowler@greenparty.org.uk",
+      "website": "lutonandbedsgreen.party.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/lutonandbedsgreen",
+        "twitter": "@mbowlergreen",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mark Bowler Green Party Candidate for North East Beds Constituency"
+        }
+      ]
+    },
+    "additionalNotes": "Printed on 100% recycled paper using vegetable oil based inks."
+  }
+}
+```

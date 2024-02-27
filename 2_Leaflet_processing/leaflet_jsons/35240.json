@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Lewes District",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "You can make history on 7 May.",
+        "content": "Polls are open until 10pm"
+      },
+      {
+        "title": "A better plan. A better future.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Lewes LibDem MP",
+      "partyLeader": "",
+      "tacticalSituation": "In the Lewes District at last year's European election Labour was only 173 votes away from the LibDems. The Lewes LibDem MP voted with the Tories 99.3% of the time. The only way to keep a Tory out is to vote Labour."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Lewes, BN7 2PA",
+      "phone": "",
+      "email": "",
+      "website": "www.lewesseahavenlabour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "In many wards at recent local elections in Lewes, Labour was the second party."
+  }
+}
+```

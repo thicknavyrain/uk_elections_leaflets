@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Eimear O'Casey",
+    "constituency": "West Ham",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "STOP BREXIT",
+        "content": "BUILD A BRIGHTER FUTURE"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Eimear O'Casey",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "STOP BREXIT",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "139 Keogh Road, London E15 4NT",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Eimear O'Casey for West Ham"
+        }
+      ]
+    },
+    "additionalNotes": "Election Communication. Published and promoted by James Jones, on behalf of Eimear O'Casey"
+  }
+}
+```

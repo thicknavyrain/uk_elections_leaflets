@@ -1,0 +1,53 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Griffin",
+    "constituency": "Newcastle Upon Tyne Central",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "Without the Brexit Party there can be no real Brexit",
+        "content": "There are around 130 seats that the Conservatives haven't won in at least 50 years. Only the Brexit Party can beat Corbyn's Labour."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Ensuring a real Brexit outcome where the United Kingdom leaves the European Union."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Griffin",
+      "otherPartyLeaderCandidate": "Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "There are around 130 seats that the Conservatives haven't won in at least 50 years."
+    },
+    "issues": {
+      "brexitEurope": "Ensuring a real Brexit outcome where the United Kingdom leaves the European Union."
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "83 Victoria Street, London SW1H 0HW",
+      "phone": "0800 414 8525",
+      "email": "",
+      "website": "www.thebrexitparty.org",
+      "socialMedia": {}
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Mark Griffin standing with text stating 'Without the Brexit Party there can be no real Brexit. Vote for the Brexit Party on December 12th.'"
+        },
+        {
+          "caption": "Image of a 'Contract with the People' highlighting pledges by The Brexit Party."
+        }
+      ]
+    },
+    "additionalNotes": "A call to action to not waste votes and to support the Brexit Party to beat Corbyn's Labour."
+  }
+}
+```

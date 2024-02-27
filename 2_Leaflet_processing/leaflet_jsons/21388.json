@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anita Lower",
+    "constituency": "Newcastle North",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "12th December 2019",
+    "messages": [
+      {
+        "title": "Opposing Brexit",
+        "content": "Anita and the Lib Dems want to stop Brexit to protect jobs and the economy. 'A Brighter Future.'"
+      },
+      {
+        "title": "Your Priorities Are My Priorities",
+        "content": "Anita will fight for the issues that matter to you such as investing in our schools, protecting our environment, and improving mental health care. The Liberal Democrats have an ambitious plan for the future of our country, where every single person and community can thrive."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stopping Brexit",
+        "policyDescription": "Protection of jobs and the economy by stopping Brexit."
+      },
+      {
+        "policyTitle": "Protecting the Environment",
+        "policyDescription": "Tackling climate emergency, insulating homes, and more trees."
+      },
+      {
+        "policyTitle": "Investing in Schools",
+        "policyDescription": "£10 billion a year more for schools and 20,000 more teachers."
+      },
+      {
+        "policyTitle": "Improving Mental Health",
+        "policyDescription": "Making mental health a priority with urgent treatment for those who need it."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anita Lower",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Liberal Democrats only 3,000 votes behind Labour. Tactical voting could get Anita elected."
+    },
+    "issues": {
+      "brexitEurope": "Anita and the Lib Dems want to stop Brexit to protect jobs and the economy.",
+      "economy": "",
+      "education": "Invest in schools with £10 billion a year more and hire 20,000 more teachers.",
+      "environment": "Tackle the climate emergency with insulating homes and planting more trees.",
+      "governance": "",
+      "health": "Make treating mental health a priority with urgent treatment for those who need it.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Tackle the climate emergency with insulating homes and planting more trees.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I originally came into politics because I wanted to make a difference locally, and I have a 24 year record of delivery for residents.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "24 years",
+        "achievements": "Record of delivery for residents"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "Anita4NewcastleNorth",
+        "twitter": "Anita4Newcastle",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Anita Lower is pictured in various campaign settings."
+        }
+      ]
+    },
+    "additionalNotes": "Bar chart on the leaflet showing the Liberal Democrats almost overtaking Labour, indicating a tactical voting message."
+  }
+}
+```

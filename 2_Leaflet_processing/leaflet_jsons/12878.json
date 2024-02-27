@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Val Woodruff",
+	"constituency": "Willenhall North",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "Thursday May 6th",
+	"messages": [
+	  {
+		"title": "",
+		"content": "Keep the Team Together"
+	  }
+	],
+	"keyPolicies": [
+	  {
+		"policyTitle": "Taxes",
+		"policyDescription": "Fairer taxes that put money back in your pocket. Plan means that you will pay no tax on the first £10,000 you earn - cutting most tax bills by £700."
+	  }
+	],
+	"mentions": {
+	  "candidate": "Val Woodruff",
+	  "otherPartyLeaderCandidate": "David Cameron, Gordon Brown",
+	  "partyLeader": "Nick Clegg",
+	  "tacticalSituation": ""
+	},
+	"issues": {
+	  "brexitEurope": "",
+	  "economy": "Plans to crack down on bankers' bonuses and making taxes fairer so that no one pays tax on the first £10,000 they earn.",
+	  "education": "",
+	  "environment": "",
+	  "governance": "",
+	  "health": "",
+	  "immigration": "",
+	  "socialWelfare": "Making taxes fairer so that no one pays tax on the first £10,000 they earn.",
+	  "housing": [
+		{
+		  "content":"",
+		  "yimbyNimby": "N/A"
+		}
+	  ]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+	  {
+		"role": "",
+		"duration": "",
+		"achievements": ""
+	  }
+	],
+	"contactInformation": {
+	  "address": "23 Lynwood Close, Willenhall WV12 5BW",
+	  "phone": "01902 631407",
+	  "email": "",
+	  "website": "www.libdems.org.uk",
+	  "socialMedia": {
+		"facebook": "",
+		"twitter": "",
+		"instagram": "",
+		"linkedin": ""
+	  }
+	},
+	"endorsements": [
+	  {
+		"endorser": "Nadia Fazal",
+		"endorsement": "Clegg’s choice for Parliament"
+	  }
+	],
+	"quotes": [
+	  {
+		"text": "It’s your future, it’s your election, it’s your vote, make it count",
+		"source": "",
+		"date": ""
+	  }
+	],
+	"campaignMaterial": {
+	  "images": [
+		{
+		  "caption": "Councillors Ian Shires, Val Woodruff and Pete Hughes"
+		},
+		{
+		  "caption": "Nadia Fazal, Councillor Pete Hughes and members of the FOCUS Team"
+		}
+	  ]
+	},
+	"additionalNotes": "After three debates, there is one clear winner and that is Lib Dem Leader Nick Clegg."
+  }
+}
+```

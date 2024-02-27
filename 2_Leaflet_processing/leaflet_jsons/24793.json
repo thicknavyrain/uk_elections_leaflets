@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sarah Lesiter-Burgess",
+    "constituency": "Clwyd West Constituency",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Our Local Voice",
+        "content": "Fight hard to improve the quality of our NHS. Campaign for more and better paid jobs for our area. Invest in our schools through our 'Pupil Premium'. Get a better deal from Cardiff and London for Clwyd West!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "AN £800 TAX CUT",
+        "policyDescription": "The Lib Dems made bringing down the cost of living a top priority. They delivered an £800 Income Tax cut for 1.4 million people in Wales - and are campaigning for a further £400 cut."
+      },
+      {
+        "policyTitle": "AFFORDABLE HOMES",
+        "policyDescription": "The Welsh Lib Dems have called for proper targets for building affordable homes and made it easier for first-time buyers to get a mortgage for up to 95% of new build homes."
+      },
+      {
+        "policyTitle": "HELP FOR FAMILIES",
+        "policyDescription": "The Lib Dems introduced £2,000 of tax free childcare - benefiting 83,000 young families across Wales. This has helped to cut the cost of childcare by £400 per family."
+      },
+      {
+        "policyTitle": "TACKLING MENTAL HEALTH",
+        "policyDescription": "1 in 4 younger people in the UK suffer from some kind of mental illness. The Lib Dems are determined to tackle mental health - and are investing to make sure it is treated seriously."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sarah Lesiter-Burgess",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Campaign for more and better paid jobs for our area.",
+      "education": "Invest in our schools through our 'Pupil Premium'.",
+      "environment": "",
+      "governance": "Get a better deal from Cardiff and London for Clwyd West!",
+      "health": "Fight hard to improve the quality of our NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The Welsh Lib Dems have called for proper targets for building affordable homes and made it easier for first-time buyers to get a mortgage for up to 95% of new build homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "A real record of action in the community...",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01745 826528",
+      "email": "SarahLIB2015@gmail.com",
+      "website": "www.welshlibdems.wales",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sarah Lesiter-Burgess with local residents"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

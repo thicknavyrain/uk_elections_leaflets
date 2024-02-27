@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Graham Stuart",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday May 6",
+    "messages": [
+      {
+        "title": "THREE THINGS TO REMEMBER",
+        "content": "1. If you have a Postal Vote, but have not sent it back you can take it to any Polling Station on Polling Day. 2. You don't need your official polling card in order to vote, so long as you're on the electoral register. 3. If you're unsure where your Polling Station is, or you need a lift, please call our campaign hotline on 01482 881316."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Graham Stuart",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01482 881316",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Make your vote count"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

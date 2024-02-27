@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Wes Streeting",
+    "constituency": "Ilford North",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "USE YOUR POSTAL VOTE TODAY",
+        "content": "Hopefully, you've received your postal vote. If not you should be receiving it through the door shortly."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protect our NHS",
+        "policyDescription": "More doctors and nurses, guaranteed GP appointments within 48 hours and cancer tests within a week."
+      },
+      {
+        "policyTitle": "A balanced economy",
+        "policyDescription": "Lower taxes for people on low and middle incomes and for small and medium-sized businesses - asking the wealthier individuals and larger corporations to pay more."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Will tackle the cost of living issues of free childcare every week, freezing energy bills, banning exploitative zero hours contracts and increasing the National Minimum Wage to £8 per hour."
+      },
+      {
+        "policyTitle": "Cost of living",
+        "policyDescription": "Issues of free childcare every week, freezing energy bills, increasing the National Minimum Wage to £8 per hour."
+      },
+      {
+        "policyTitle": "Affordable education",
+        "policyDescription": "Back the next generation: university fees reduced to £6,000, smaller class sizes, more school places and apprenticeships."
+      },
+      {
+        "policyTitle": "Crime and policing",
+        "policyDescription": "Stopping neighbourhood policing from planned Tory cuts to police numbers by scrapping police and crime commissioners and establishing a new local policing commitment."
+      },
+      {
+        "policyTitle": "Fair economy & social justice",
+        "policyDescription": "Every policy in our manifesto is paid for. No commitment requires extra borrowing and will reduce the deficit every year. We'll do it by making fairer choices and making sure that everyone benefits from Britain's recovery - not just the few at the top."
+      }
+    ],
+    "mentions": {
+      "candidate": "Wes Streeting",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "I hope you'll trust me with your vote so that I can fight your corner in Westminster."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Lower taxes for people on low and middle incomes and for small and medium-sized businesses - asking the wealthier individuals and larger corporations to pay more.",
+      "education": "Back the next generation: university fees reduced to £6,000, smaller class sizes, more school places and apprenticeships.",
+      "environment": "",
+      "governance": "",
+      "health": "More doctors and nurses, guaranteed GP appointments within 48 hours and cancer tests within a week.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Throughout this campaign, I’ve been working incredibly hard with my team to speak to as many people as possible. I don’t take people for granted.",
+    "politicalExperience": [
+      {
+        "role": "Labour's Candidate for Ilford North",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Vote Labour, Freepost RSBB-XRZT-ZTXE, The Labour Party, One Brewer's Green, London, SW1H 0RH",
+      "phone": "020 3475 7901",
+      "email": "wes@redbridge-labour.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "wesstreeting",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Wes Streeting, Ilford North’s Labour Candidate for Parliament"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet provided information on how to vote along with candidate name and constituency, a personal message from the candidate, key policies, contact information, and an image caption."
+  }
+}
+```

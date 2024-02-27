@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Max Wilkinson",
+    "constituency": "Stroud",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8 June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "AGAINST Hard Brexit",
+        "policyDescription": "Max knows that a thriving economy and public services like NHS and schools must be a priority. Max will fight for a different approach."
+      },
+      {
+        "policyTitle": "FOR NHS and schools",
+        "policyDescription": "Max will work FOR affordable homes for local people."
+      },
+      {
+        "policyTitle": "FOR Affordable homes for local people",
+        "policyDescription": "Max will campaign on housing to get a market that works for all, from young people needing affordable homes to older people who want to downsize."
+      }
+    ],
+    "mentions": {
+      "candidate": "Max Wilkinson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "AGAINST Hard Brexit - Max knows that a thriving economy and public services like NHS and schools must be a priority. Max will fight for a different approach.",
+      "economy": "Max will campaign on housing to get a market that works for all, from young people needing affordable homes to older people who want to downsize.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Max will work FOR affordable homes for local people.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Max will campaign on housing to get a market that works for all, from young people needing affordable homes to older people who want to downsize.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "max@stroudbidems.org.uk",
+      "website": "www.stroudbidems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "See the whole manifesto at www.stroudbidems.org.uk"
+  }
+}
+```

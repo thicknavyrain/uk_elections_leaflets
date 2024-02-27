@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Theresa May",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "THE PROGRESS WE'VE MADE TOGETHER AS A NATION SINCE 2010",
+        "content": "The deficit down by almost two thirds, income tax cut for 31 million people, 2.8 million new jobs, welfare capped to reward work, 3 million new apprenticeships, safer streets with crime down by a third."
+      },
+      {
+        "title": "Think Jeremy Corbyn as Prime Minister is never going to happen?",
+        "content": "DON'T BE SO SURE. Shock wins in global politics hint at possible success for Corbyn, risk for higher debt, higher taxes, economic chaos."
+      },
+      {
+        "title": "AN IMPORTANT MESSAGE FROM THERESA MAY TO YOU",
+        "content": "Getting on with the job of securing the best possible deal from Brexit is vital. Aiming for a strong economy, well-paid jobs, affordable housing, good school places, strong NHS. Only a good deal from Brexit can keep our economy and all the public services we rely on."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "A strong economy with well-paid jobs, more affordable housing, and good school places for every child."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "A strong economy paying for a strong NHS."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Securing the best possible deal from Brexit, ensuring it works for the UK, and maintaining a strong negotiating hand."
+      }
+    ],
+    "mentions": {
+      "candidate": "Theresa May",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "Warning against a coalition of chaos if not voting for Conservatives, reference to 'shock' political wins to suggest tactical voting might be necessary."
+    },
+    "issues": {
+      "brexitEurope": "Securing the best possible deal from Brexit is vital, EU leaders agree on tough stance at special Brexit summit.",
+      "economy": "Aiming for a stronger economy with well-paid jobs, improvements in public services.",
+      "education": "Good school places for every child.",
+      "environment": "",
+      "governance": "Strong and stable leadership, maintaining a strong negotiating hand in Brexit.",
+      "health": "A strong NHS backed by a stronger economy.",
+      "immigration": "Take back control of our borders.",
+      "socialWelfare": "Welfare capped to reward work.",
+      "housing": [
+        {
+          "content":"More affordable housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "EU leaders agree on tough stance at special Brexit summit",
+        "source": "The Guardian, 29 April 2017",
+        "date": "2017-04-29"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Theresa May with supporters."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

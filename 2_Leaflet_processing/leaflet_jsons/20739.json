@@ -1,0 +1,139 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Protecting our NHS",
+        "content": ""
+      },
+      {
+        "title": "Tax cuts for workers and savers",
+        "content": ""
+      },
+      {
+        "title": "Help for first-time buyers",
+        "content": ""
+      },
+      {
+        "title": "Low Mortgage rates",
+        "content": ""
+      },
+      {
+        "title": "More jobs",
+        "content": ""
+      },
+      {
+        "title": "A healthy economy",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "The leaflet headlines a commitment to protecting the NHS."
+      },
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Proposes tax cuts for workers and savers."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Offers help for first-time home buyers."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Suggests a plan for maintaining low mortgage rates to encourage a healthy economy."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Aims to create more jobs."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The leaflet implies a focus on maintaining a healthy economy with measures like low mortgage rates.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The leaflet emphasizes protecting the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Support for first-time home buyers is highlighted.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Protecting our NHS"
+        },
+        {
+          "caption": "Tax cuts for workers and savers"
+        },
+        {
+          "caption": "Help for first-time buyers"
+        },
+        {
+          "caption": "Low Mortgage rates"
+        },
+        {
+          "caption": "SECURING A BETTER FUTURE FOR YOU & YOUR FAMILY"
+        },
+        {
+          "caption": "More jobs"
+        },
+        {
+          "caption": "A healthy economy"
+        }
+      ]
+    },
+    "additionalNotes": "Plus, look inside to find out how our commitments will make life better for you and your family"
+  }
+}
+```

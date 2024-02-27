@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Paul Sample",
+    "constituency": "Salisbury & South Wiltshire",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "No more coalitions!",
+        "content": "Paul Sample has welcomed news that the Lib Dems WILL NOT support a coalition with the Labour Party or the Conservatives. This time if you vote Lib Dem you will get Lib Dem!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "Liberal Democrats demand an extra £4.6bn to fix NHS funding, paid for by a 1p rise in Income Tax and a dedicated Health and Social Care Tax."
+      }
+    ],
+    "mentions": {
+      "candidate": "Paul Sample",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Paul Sample is the first Lib Dem to finish ahead of all other Liberal Democrat candidates in Salisbury's recorded history. Tactical suggestion is that voting for the conservative candidate would be a 'wasted vote' due to the fact that they thought they could ignore Salisbury."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Liberal Democrats demand an extra £4.6bn to fix the growing crisis in the NHS. Worked in the local campaign for proper resourcing of Salisbury District Hospital, recruiting doctors, nurses, general health staff and to 'pay Dumayne the pharmacist her £167,000'.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "1999-2013",
+        "achievements": "Served South Wiltshire as a councillor."
+      }
+    ],
+    "contactInformation": {
+      "address": "174 Coombe Road, Salisbury, SP2 8BN",
+      "phone": "07718 801579",
+      "email": "paulsample71@icloud.com",
+      "website": "www.paulsample.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "PaulSample2020",
+        "instagram": "PaulSampleLibDem",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Paul Sample working on the local campaign for proper resourcing of Salisbury District Hospital"
+        }
+      ]
+    },
+    "additionalNotes": "This time Paul!"
+  }
+}
+```

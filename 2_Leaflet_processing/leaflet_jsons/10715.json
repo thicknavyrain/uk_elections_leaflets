@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "David Cameron",
+	"constituency": "Witney",
+	"politicalParty": "Conservative Party",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "WHY WE NEED CHANGE IN BRITAIN TODAY",
+    	"content": "Thirteen years ago Labour were elected promising change. But today, with the economy in a mess and a growing gap between rich and poor, a lot of people feel let down. The Conservative Party has the energy and ideas to change Britain."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS",
+    	"policyDescription": "We'll increase spending and improve it for everyone."
+  	},
+    {
+      "policyTitle": "Economy",
+      "policyDescription": "We'll get the economy moving and tackle the debt, creating 400,000 new apprenticeships, training places and work pairings."
+    },
+    {
+      "policyTitle": "Governance",
+      "policyDescription": "We'll stop Labour's job tax which will kill the recovery, meaning that seven out of ten working people will be better off than under Labour."
+    },
+    {
+      "policyTitle": "Social Welfare",
+      "policyDescription": "We'll help your family budget by working with local councils to freeze council tax for two years. We'll raise the basic state pension in line with earnings and protect winter fuel payments."
+    },
+    {
+      "policyTitle": "Environment and Family",
+      "policyDescription": "We'll keep bus passes and free TV licences for older people. And we'll make Britain the most family-friendly country in Europe, keeping Sure Start credits, improving Sure Start and providing 4,200 extra Sure Start health visitors."
+    }
+	],
+	"mentions": {
+  	"candidate": "David Cameron",
+  	"otherPartyLeaderCandidate": "Gordon Brown",
+  	"partyLeader": "",
+  	"tacticalSituation": "The choice at this election is clear: five more years of Gordon Brown's tired government with Labour or change with the Conservatives."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "We'll get the economy moving and tackle the debt.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "We'll stop Labour's job tax which will kill the recovery. We'll help your family budget by working with local councils to freeze council tax for two years.",
+  	"health": "We'll increase spending and improve the NHS for everyone.",
+  	"immigration": "",
+  	"socialWelfare": "We'll help your family budget by working with local councils to freeze council tax for two years. We'll raise the basic state pension in line with earnings and protect winter fuel payments.",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "The Conservative Party has the energy and ideas to change Britain. I'm writing to you today to steer the country. The Conservative Party is the hope for a fairer, stronger country.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "David Cameron interacting with people during his campaign."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

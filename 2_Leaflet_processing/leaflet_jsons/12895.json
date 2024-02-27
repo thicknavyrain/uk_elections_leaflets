@@ -1,0 +1,98 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 5 May",
+    "messages": [
+      {
+        "title": "Our pledges for flourishing communities",
+        "content": "Protection for the post offices and pubs on which communities depend."
+      },
+      {
+        "title": "Britain in the world a safer, fairer world",
+        "content": "Labour's Global Future, the benefits of a common defence policy, the idea that Britain will be safer and our interests better protected in a tough world if we work closely with our key partners in Europe and across the Atlantic."
+      },
+      {
+        "title": "Our pledges for a safer and fairer world",
+        "content": "Labour's global future- benefits of cooperation on crime, terrorism, and global instability."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Post offices and pubs protection",
+        "policyDescription": "Protection for the post offices and pubs on which communities depend."
+      },
+      {
+        "policyTitle": "Commitment to a Strategic Defence Review",
+        "policyDescription": "Commit a Strategic Defence Review to equip our Armed Forces for new global challenges."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Labour's Global Future, the benefits of a common defence policy, the idea that Britain will be safer and our interests better protected in a tough world if we work closely with our key partners in Europe and across the Atlantic.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Protection for the post offices and pubs on which communities depend.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk/policies",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of a community post office."
+        },
+        {
+          "caption": "Leaders and citizens engaged in conversations."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet mentions Labour pledges for flourishing communities and a safer, fairer world, including benefits of cooperation on crime, terrorism, and global instability."
+  }
+}

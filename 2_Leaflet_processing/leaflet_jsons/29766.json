@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jon Hannah",
+    "constituency": "Leeds North East",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "Brexit Message",
+        "content": "If this lot don't speak for you on Brexit... then neither does Jeremy Corbyn, Fabian Hamilton and their Labour Party."
+      },
+      {
+        "title": "Voters Message",
+        "content": "But this time, we're Voters. Register today. Then vote for the Liberal Democrats on the 8 June to change the direction of our country."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "While Labour and the Tories have sided with UKIP on Brexit, the Lib Dems are fighting to protect our friends, neighbours, loved ones and public services from the damage it will cause."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jon Hannah",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Fabian Hamilton",
+      "partyLeader": "Tim Farron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Whilst Labour and the Tories are voting together for the hardest possible Brexit, the Lib Dems are fighting to protect our friends, neighbours, loved ones and public services from the damage it will cause.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am passionate and unapologetic European, after the Referendum I decided I could not stand by as friends, family and neighbours from the EU were let down by Labour and the Tories.",
+    "politicalExperience": [
+      {
+        "role": "Senior manager in the NHS",
+        "duration": "Last year",
+        "achievements": "Defeated the damage done by the Tory Government."
+      }
+    ],
+    "contactInformation": {
+      "address": "FREEPOST RRRJ-ZJYE-AULT",
+      "phone": "",
+      "email": "",
+      "website": "www.facebook.com/jonhannahlibdem",
+      "socialMedia": {
+        "facebook": "jonhannahlibdem",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jon Hannah, candidate image"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

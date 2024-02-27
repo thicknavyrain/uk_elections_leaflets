@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Theresa May",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "An Important Message From Theresa May to You",
+        "content": "Getting on with the job of securing the best possible deal from Brexit is vital. With your help, together we can make it work."
+      },
+      {
+        "title": "THE RISK IS JUST TOO BIG TO TAKE.",
+        "content": "HIGHER DEBT, HIGHER TAXES, ECONOMIC CHAOS"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Take back control of our borders, our laws and our money. Sign new trade deals around the world. Ensure a smooth and orderly exit that works for the UK."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Only with a good deal from Brexit can we keep our growing economy and all the public services we rely on: well-paid jobs, more affordable housing, a good school place for every child, and a strong economy paying for a strong NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "Theresa May",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Getting the Brexit deal right is vital for the future of the United Kingdom.",
+      "economy": "Growing economy with well-paid jobs, more affordable housing, and a strong NHS",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "A strong economy paying for a strong NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "affordable housing",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Getting Brexit right matters because it will decide whether or not our children have a safe, secure and prosperous future.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Theresa May for Britain"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet is a part of the 2017 UK General Election campaign materials."
+  }
+}
+```

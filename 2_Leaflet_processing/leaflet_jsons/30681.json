@@ -1,0 +1,122 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Stephanie Smith",
+	"constituency": "Edinburgh South",
+	"politicalParty": "Scottish Conservatives",
+	"electionDate": "8th June",
+	"messages": [
+  	{
+    	"title": "A MESSAGE FROM RUTH DAVIDSON",
+    	"content": "With just a few days to go before the General Election on 8th June, more and more local people are making clear to me their votes may be considered Stephanie Smith because she is a direct threat to the SNP here in Edinburgh South."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Opposing SNP",
+    	"policyDescription": "The Scottish Conservatives WILL OPPOSE THE SNP EVERY STEP OF THE WAY."
+  	},
+  	{
+    	"policyTitle": "IndyRef2",
+    	"policyDescription": "We don't want another Independence referendum."
+  	},
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Stopping the SNP dragging us back to the division of another independence referendum."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Stephanie Smith",
+  	"otherPartyLeaderCandidate": "Nicola Sturgeon",
+  	"partyLeader": "Ruth Davidson",
+  	"tacticalSituation": "Only the Scottish Conservatives can be relied on to send that message."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "With just a few days to go before the General Election on 8th June, more and more local people are making clear to me their votes may be considered Stephanie Smith because she is a direct threat to the SNP here in Edinburgh South.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "steph4edinburghsouth@gmail.com",
+  	"website": "www.scottishconservatives.com",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "'We don't want another independence referendum.'",
+    	"source": "Stephanie Smith",
+    	"date": ""
+  	},
+  	{
+		"text": "Jeremy Corbyn: SECOND INDEPENDENCE REFERENDUM 'SHOULD BE HELD'",
+		"source": "Jeremy Corbyn",
+		"date": ""
+	  },
+	  {
+		"text": "Nick Clegg warns ministers of 'danger of stoking independence referendum'",
+		"source": "Nick Clegg",
+		"date": ""
+	  },
+	  {
+		"text": "Labour Candidate says 'VOTE 2 CORBYN FOR INDYREF2'",
+		"source": "Labour Candidate",
+		"date": ""
+	  },
+	  {
+		"text": "Ruth Davidson: 'Scots do not want a referendum'",
+		"source": "Ruth Davidson",
+		"date": ""
+	  }
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Stephanie Smith's 3 Point Plan for Edinburgh South"
+    	},
+    	{
+      	"caption": "Scotland goes to the polls on 8th June - 3 THINGS TO REMEMBER BEFORE YOU VOTE"
+    	},
+    	{
+      	"caption": "YOUR CHOICE AT THIS ELECTION: RUTH DAVIDSON'S SCOTTISH CONSERVATIVES OR THE SNP"
+    	},
+    	{
+      	"caption": "A MESSAGE FROM RUTH DAVIDSON"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

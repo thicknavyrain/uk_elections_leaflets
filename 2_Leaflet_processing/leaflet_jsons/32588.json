@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "CELIA HICKSON",
+    "constituency": "",
+    "politicalParty": "Green Party",
+    "electionDate": "12th Dec",
+    "messages": [
+      {
+        "title": "IF NOT NOW, WHEN?",
+        "content": "#VOTEGREEN2019"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A REAL GREEN NEW DEAL",
+        "policyDescription": "Energy efficient homes for all"
+      },
+      {
+        "policyTitle": "AFFORDABLE AND RELIABLE PUBLIC TRANSPORT",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "A PERMANENT BAN ON FRACKING",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "ACTION ON AIR POLLUTION",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "INVESTMENT IN GREEN ENERGY",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "AN END TO AIRPORT EXPANSION",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "CELIA HICKSON",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Energy efficient homes for all",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "",
+        "achievements": "The Green Party are the only party putting forward a real “Green New Deal” that will make the changes we need to decarbonise our economy by 2030. The other parties may talk green but we have seen that they are all talk – we are the real deal. - Councillor Martin Love"
+      }
+    ],
+    "contactInformation": {
+      "address": "Flat 7, Fairfield, Shipley, BD18 4QP",
+      "phone": "",
+      "email": "CELIA.HICKSON@GREENPARTY.ORG.UK",
+      "website": "BRADFORD.GREENPARTY.ORG.UK",
+      "socialMedia": {
+        "facebook": "FACEBOOK.COM/BRADFORDGREENS",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Councillor Martin Love",
+        "endorsement": "The Green Party are the only party putting forward a real “Green New Deal” that will make the changes we need to decarbonise our economy by 2030. The other parties may talk green but we have seen that they are all talk – we are the real deal."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The Green Party are the only party putting forward a real “Green New Deal” that will make the changes we need to decarbonise our economy by 2030. The other parties may talk green but we have seen that they are all talk – we are the real deal.",
+        "source": "Councillor Martin Love",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "CELIA HICKSON"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by Martin Love on behalf of Bradford Green Party and Celia Hickson, at 7 Fairfield, Shipley, BD18 4QP. Printed on FSC certified or recycled paper by Scentaprint Graphic Design, 2 Eileen St, Shipley, BD18 3NR."
+  }
+}
+```

@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tim Archer",
+    "constituency": "Poplar and Limehouse",
+    "politicalParty": "Conservatives",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "3 POSITIVE REASONS TO VOTE FOR TIM ARCHER",
+        "content": "Local: Tim lives on the Isle of Dogs with his wife Jane and their young son Charlie. He is a school governor and a trustee of a local charity.\nHard-working: Tim has promised to spend half his time as our MP in the constituency, holding regular surgeries.\nEffective: With Tim, Poplar and Limehouse will be a well-resourced constituency - no longer taken for granted by Labour."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Schools",
+        "policyDescription": "Tim aims to improve local schools."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Tim commits to scrutinize the planned development of 2,500 housing units on the site of the former St. Andrew's Hospital, ensuring concerns are addressed."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "Tim pledges to fight to reopen Limehouse Police Station."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tim Archer",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The new Docklands constituency of Poplar and Limehouse is a key marginal."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Tim is active in local clean-up activities, such as helping clear the Thames River of rubbish.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Commits to scrutinize the planned development of 2,500 housing units at the St. Andrew's Hospital site, ensuring concerns are addressed.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "",
+        "achievements": "Helped clean up the River Thames, protection of green spaces, involvement with local charities."
+      },
+      {
+        "role": "School Governor and Trustee of a local charity",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "Board member of a local Housing Association",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "1d Pepper Street, London, E14 9RP (Docklands Business Centre)",
+      "phone": "020 7345 5035",
+      "email": "info@timarcher.co.uk",
+      "website": "www.timarcher.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tim Archer engaging with the local community and participating in local issues."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

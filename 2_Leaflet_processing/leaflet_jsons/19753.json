@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Lib Dem",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Who will give the NHS the money it needs?",
+        "content": "We all rely on the NHS, but with the rising cost of treatment it desperately needs more money. The Lib Dems are the only party who have set out a plan to invest an extra £8bn per year in the NHS by 2020."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "The Liberal Democrats pledge to invest an additional £8 billion per year in the NHS by 2020."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "I want to see investment in the NHS and fix our economy and only the Lib Dems have promised to do that.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Who will give the NHS the money it needs? We all rely on the NHS, but with the rising cost of treatment it desperately needs more money. The Lib Dems are the only party who have set out a plan to invest an extra £8bn per year in the NHS by 2020.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm worried Labour haven't learnt the lessons of the mistakes they made in government. I can't risk seeing patients I work with every day put at risk, so I will be supporting the Liberal Democrats on 7th May.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.libdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Linda, Nurse",
+        "endorsement": "I want to see investment in the NHS and fix our economy and only the Lib Dems have promised to do that. I'm worried Labour haven't learnt the lessons of the mistakes they made in government. I can't risk seeing patients I work with every day put at risk, so I will be supporting the Liberal Democrats on 7th May."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour doctors refuse to commit to £8bn NHS funding plea - The Guardian, March 2015",
+        "source": "The Guardian",
+        "date": "March 2015"
+      },
+      {
+        "text": "Liberal Democrats pledge to fund NHS in full as public service faces a £8 billion shortfall.",
+        "source": "The Independent",
+        "date": "January 2015"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "NHS Funding Pledge"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

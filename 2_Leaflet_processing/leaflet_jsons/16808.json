@@ -1,0 +1,114 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kevin Brennan",
+    "constituency": "Cardiff West",
+    "politicalParty": "Labour Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "My pledges to you",
+        "content": "Abolish the unfair Tory bedroom tax, Increase the minimum wage, Help to buy scheme for first-time buyers, End zero hours contracts, Cut energy bills for households and Freeze rail prices for commuters"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Abolish the unfair Tory bedroom tax."
+      },
+      {
+        "policyTitle": "Wages",
+        "policyDescription": "Increase the minimum wage."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Help to buy scheme for first-time buyers."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "End zero hours contracts."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Cut energy bills for households."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Freeze rail prices for commuters."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kevin Brennan",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Supporting schools in Cardiff West.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Help to buy scheme for first-time buyers.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Labour Hall, 23 Pendwyallt Road, Cardiff, CF14 7EG",
+      "phone": "029 2022 3207",
+      "email": "office@cardifflabour.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "/kevinbrennanmp",
+        "twitter": "@kevinbrennanmp",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Rhodri Morgan",
+        "endorsement": "Kevin has been a strong voice for Cardiff West. He's respected across the political divide for the way he stands up for our area."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Kevin has a track record of fighting hard for local people on the issues that matter – jobs, schools and hospitals.",
+        "source": "Rhodri Morgan",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Kevin standing outside the House of Commons"
+        },
+        {
+          "caption": "Kevin with local residents"
+        },
+        {
+          "caption": "Endorsed by Rhodri Morgan"
+        },
+        {
+          "caption": "Campaign pledges listed"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

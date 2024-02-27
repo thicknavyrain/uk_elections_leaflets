@@ -1,0 +1,73 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Tuition fees scrapped, Fair deal at work, National Education Service"
+  	},
+  	{
+    	"policyTitle": "Health",
+    	"policyDescription": "NHS waiting lists cut, end hospital closures, repeal the Health and Social Care Act"
+  	},
+  	{
+    	"policyTitle": "Worker's Rights",
+    	"policyDescription": "Fair deal at work, ban zero hour contracts"
+  	},
+  	{
+    	"policyTitle": "Social Care",
+    	"policyDescription": "Pensioner bus passes"
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "Tuition fees scrapped, Fair deal at work, National Education Service",
+  	"environment": "",
+  	"governance": "",
+  	"health": "NHS waiting lists cut, end hospital closures, repeal the Health and Social Care Act",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "FOR OUR COUNTRY - FOR THE MANY NOT THE FEW"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Mole",
+    "constituency": "Ipswich",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 6 May",
+    "messages": [
+      {
+        "title": "Go OUT and VOTE!",
+        "content": "Labour will secure the recovery – the Tories will wreck it. Labour will protect the NHS, schools and police – the Tories will slash services. Labour will improve public transport – the Tories will sell off Ipswich Buses."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic Recovery",
+        "policyDescription": "Labour will secure the recovery."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Labour will protect the NHS."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Labour will protect schools."
+      },
+      {
+        "policyTitle": "Public Safety",
+        "policyDescription": "Labour will protect the police."
+      },
+      {
+        "policyTitle": "Public Transport",
+        "policyDescription": "Labour will improve public transport."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Mole for Westminster",
+      "otherPartyLeaderCandidate": "Only Labour can beat the Tories in Ipswich",
+      "partyLeader": "",
+      "tacticalSituation": "Only Labour can beat the Tories in Ipswich"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour will secure the recovery.",
+      "education": "Labour will protect the schools.",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will protect the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "33 Silent Street, Ipswich IP1 1TF",
+      "phone": "2553131",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Chris Mole with another individual."
+        }
+      ]
+    },
+    "additionalNotes": "Need a lift to the polling station? Call 255131"
+  }
+}
+```

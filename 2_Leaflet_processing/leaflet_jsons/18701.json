@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jon Ball",
+    "constituency": "Ealing and Acton",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax Cuts",
+        "policyDescription": "Delivered an £800 income tax cut for 58,100 working people."
+      },
+      {
+        "policyTitle": "Apprenticeship Places",
+        "policyDescription": "Created 1,790 new apprenticeship places in Ealing and Acton to help more young people start great work."
+      },
+      {
+        "policyTitle": "NHS Services",
+        "policyDescription": "Protected the NHS budget and invested an extra £2 billion for frontline NHS services, with a commitment to increasing this figure a year by 2020."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jon Ball",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Worked towards a fairer society, introduced the £800 income tax cut instead of tax cuts for millionaires, allowed schools to run for profit, and gave employees protection against being fired without a reason.",
+      "health": "Protected the NHS budget by investing an extra £2 billion for frontline services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm proud that in the last five years the Liberal Democrats have worked towards doing just that. Here in Ealing and Acton they have...",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "57 Webster Gardens, Ealing, London, W5 5NB",
+      "phone": "020 8752 1247",
+      "email": "Jon@EalingLibDems.org.uk",
+      "website": "www.EalingLibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photographs of Jon Ball with various individuals presumably involved in the campaign."
+        }
+      ]
+    },
+    "additionalNotes": "Calls out the Labour party for growing the government without effective results and criticizes the Tories potentially not implementing the £800 income tax cut and allowing for unfair employer practices."
+  }
+}
+```

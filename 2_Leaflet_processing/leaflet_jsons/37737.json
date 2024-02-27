@@ -1,0 +1,119 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "UKIP",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "THE EU AND SCOTLAND",
+    	"content": "Inside the EU:\nScotland has no control over fishing, farming or environment policy\nWe cannot make our own trade deals\nWe cannot manage and control immigration"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Job creation and the economy",
+    	"policyDescription": "Put Job creation and the economy first"
+  	},
+  	{
+    	"policyTitle": "Scottish taxes",
+    	"policyDescription": "Keep Scottish taxes in line with the UK"
+  	},
+  	{
+    	"policyTitle": "Business rates",
+    	"policyDescription": "Lower Business Rates"
+  	},
+  	{
+    	"policyTitle": "Agricultural payments",
+    	"policyDescription": "Maintain Single Farm Payments"
+  	},
+  	{
+    	"policyTitle": "Wind turbines",
+    	"policyDescription": "Oppose inefficient wind turbines"
+  	},
+  	{
+    	"policyTitle": "NHS and TTIP",
+    	"policyDescription": "Protect the NHS from TTIP"
+  	},
+  	{
+    	"policyTitle": "Bedroom tax",
+    	"policyDescription": "Remove the Bedroom tax"
+  	},
+  	{
+    	"policyTitle": "Named Person Scheme",
+    	"policyDescription": "Repeal the Named Person Scheme"
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Open Technical & Grammar Schools"
+  	},
+  	{
+    	"policyTitle": "Veterans",
+    	"policyDescription": "Look after Veterans"
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Scotland has no control over fishing, farming or environment policy\nWe cannot make our own trade deals\nWe cannot manage and control immigration",
+  	"economy": "Put Job creation and the economy first\nKeep Scottish taxes in line with the UK\nLower Business Rates",
+  	"education": "Open Technical & Grammar Schools",
+  	"environment": "Oppose inefficient wind turbines",
+  	"governance": "",
+  	"health": "Protect the NHS from TTIP",
+  	"immigration": "We cannot manage and control immigration",
+  	"socialWelfare": "Remove the Bedroom tax",
+  	"housing": [
+    	{
+      	"content": "Remove the Bedroom tax",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "ukipscot.org/manifesto",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "SHAKE UP HOLYROOD VOTE UKIP"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

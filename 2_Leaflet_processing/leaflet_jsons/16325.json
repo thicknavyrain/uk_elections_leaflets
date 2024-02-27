@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Getting the economy back on its feet",
+        "content": "My Government's number one priority has been to get Britain's economy back on its feet. To back businesses to grow and create more jobs so that more families could have the security of a pay packet, and more young people the chance to gain the skills and experience to succeed in life. To reward work by keeping taxes low, so that hard working taxpayers keep more of the money they earn, while ensuring those who have worked hard all their lives are protected and secure in their retirement."
+      },
+      {
+        "title": "Working together we've achieved a lot",
+        "content": "I've included with this letter a leaflet that sets out some of the things we've achieved together over the past five years – thanks to the hard work and dedication of the British people. Like reducing the deficit by half, creating 1.9 million new jobs and freezing fuel duty to help with family budgets."
+      },
+      {
+        "title": "Why we have done the things we've done",
+        "content": "I firmly believe that if you are willing to do the right thing and contribute you should expect some simple things in return: the security of a good job and the chance of a home of your own; a decent education for your children; a first-class NHS and reliable public services; and a safe and secure retirement."
+      },
+      {
+        "title": "Let's finish the job",
+        "content": "As we approach the most important General Election in a generation, I am asking for your support to finish the job we started."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Aiming to grow businesses, create more jobs, keep taxes low, protect and secure retirement, and ensure more young people can gain necessary skills and experience."
+      },
+      {
+        "policyTitle": "Home Ownership",
+        "policyDescription": "Working to give more people the chance to own their own home with affordable interest rates."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Restoring a strong and healthy economy to protect and increase spending on vital public services such as the NHS."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Focused on reducing spending across government to pay down deficit and keep mortgage rates low while capping benefits and ensuring work pays."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "My Government's number one priority has been to get Britain's economy back on its feet. To back businesses to grow and create more jobs so that more families could have the security of a pay packet, and more young people the chance to gain the skills and experience to succeed in life.",
+      "education": "",
+      "environment": "",
+      "governance": "Reducing spending across government, lowering deficit, capping benefits, and ensuring that work always pays.",
+      "health": "Restoring a strong and healthy economy to protect and increase spending on vital public services such as the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "To give more people the chance to fulfill the dream of owning their own home, and ensure those who already do are more financially secure because interest rates have stayed low.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Prime Minister and Leader of the Conservative Party",
+        "duration": "",
+        "achievements": "Reduced the deficit by half, created 1.9 million new jobs, and froze fuel duty."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "With clouds gathering in the global economy, it is clear our country still faces big challenges in the years ahead. So it's vital that we continue working together, sticking with a strong Conservative team that is working to secure a better future for you, your family and our country.",
+        "source": "David Cameron",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A letter from David Cameron detailing achievements and future goals."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

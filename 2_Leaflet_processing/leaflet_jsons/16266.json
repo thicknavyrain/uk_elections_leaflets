@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Morris",
+    "constituency": "Morecambe and Lunesdale",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Strong Leadership.",
+        "content": "A Clear Economic Plan.\nA Better, More Secure Future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A Growing Economy",
+        "policyDescription": "Eliminate the deficit\nBring down our debt\nCompetitive business taxes to create more jobs"
+      },
+      {
+        "policyTitle": "Good Schools",
+        "policyDescription": "All pupils studying the core subjects at GCSE\nCreating more excellent school places\nRaising the status of the teaching profession"
+      },
+      {
+        "policyTitle": "More Jobs",
+        "policyDescription": "Keep job taxes down\nAll young people working or training - earning or learning\n3 million new apprenticeships"
+      },
+      {
+        "policyTitle": "Lower Taxes",
+        "policyDescription": "Raise personal allowance to £12,500\nDelivering tax-free childcare over £50,000"
+      },
+      {
+        "policyTitle": "Welfare That Works",
+        "policyDescription": "Reduce the benefit cap to £23,000 a year\nBenefits frozen for 2 years\nThe toughest system on welfare for EU migrants anywhere in Europe"
+      },
+      {
+        "policyTitle": "Security in Retirement",
+        "policyDescription": "Pass on your pension tax-free\nProtecting the triple lock\nIntegrating health and social care to improve care in retirement"
+      }
+    ],
+    "mentions": {
+      "candidate": "David Morris MP",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "The toughest system on welfare for EU migrants anywhere in Europe",
+      "economy": "Eliminate the deficit\nBring down our debt\nCompetitive business taxes to create more jobs",
+      "education": "All pupils studying the core subjects at GCSE\nCreating more excellent school places\nRaising the status of the teaching profession",
+      "environment": "",
+      "governance": "",
+      "health": "Integrating health and social care to improve care in retirement",
+      "immigration": "The toughest system on welfare for EU migrants anywhere in Europe",
+      "socialWelfare": "Reduce the benefit cap to £23,000 a year\nBenefits frozen for 2 years",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.davidmpmorris.com",
+      "socialMedia": {
+        "facebook": "facebook.com/davidmpmorris",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "M6 link road brings jobs and investment to the area"
+        }
+      ]
+    },
+    "additionalNotes": "NHS Services receive more investment for Morecambe and Lunesdale."
+  }
+}
+```

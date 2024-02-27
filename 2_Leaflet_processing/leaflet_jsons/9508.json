@@ -1,0 +1,106 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "David Ward",
+	"constituency": "Bradford East",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "It's David or Labour here...",
+    	"content": "In 2005, Lib Dem David Ward came a close second to our little known, London-based MP. Since then David has campaigned tirelessly for local people."
+  	},
+  	{
+    	"title": "Labour has failed",
+    	"content": "Post Office closures, Illegal War in Iraq, more and more people are turning their backs on Labour after a lifetime of loyalty. It's time for a change."
+  	},
+  	{
+    	"title": "It's time for real change...",
+    	"content": "Local people who want to see a fairer Britain are turning to the Liberal Democrats."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Fairer taxes",
+    	"policyDescription": "Saving hard-working people £700 a year."
+  	},
+  	{
+    	"policyTitle": "Better schools",
+    	"policyDescription": "With extra help for schools in the worst-off areas."
+  	},
+  	{
+    	"policyTitle": "Protect our NHS",
+    	"policyDescription": "Cut wasteful spending, take back control with local doctors."
+  	}
+	],
+	"mentions": {
+  	"candidate": "David Ward",
+  	"otherPartyLeaderCandidate": "Tony Blair",
+  	"partyLeader": "",
+  	"tacticalSituation": "Only David Ward can beat Labour in Bradford East... the Conservatives can't win in our area."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Gordon Brown pledged to 'end boom and bust' but his handling of the economy has left millions of people out of work.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Post Office closures",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "David Ward has built a strong reputation as a real campaigner who stands up for local people.",
+	"politicalExperience": [
+  	{
+    	"role": "Lib Dem MP Candidate for Bradford East",
+    	"duration": "",
+    	"achievements": "David Ward has asked people their views every year for six years and sent local residents an Annual Report of his campaigns. This is in sharp contrast to our MP. David Ward has fought successful campaigns for better health care, more jobs against Post Office closures, for more police officers and increased recycling to protect our environment."
+  	}
+	],
+	"contactInformation": {
+  	"address": "FIREPOST BD3, BRADFORD BD3 7DR",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.DavidWard4Bradford.org",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [
+  	{
+    	"text": "Tony Blair and his ministers went to war in Iraq despite repeated warnings from senior Government lawyers that there had 'no leg to stand on' legally.",
+    	"source": "Daily Telegraph",
+    	"date": ""
+  	},
+  	{
+    	"text": "Sixty-three post offices across West Yorkshire face closure",
+    	"source": "BBC News",
+    	"date": ""
+  	},
+  	{
+    	"text": "Gap between rich and poor widens after the war.",
+    	"source": "The Guardian",
+    	"date": "August 2009"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "David Ward, a strong voice for Bradford."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

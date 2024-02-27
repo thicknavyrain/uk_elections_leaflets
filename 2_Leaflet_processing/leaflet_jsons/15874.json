@@ -1,0 +1,115 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "UKIP says YES to",
+        "content": "An NHS free at the point of delivery - UKIP will give £3 billion extra to the NHS to keep it free. No tax on the minimum wage - UKIP proposes that workers on the minimum wage should not have to pay income tax at all. Housing priority for local people - UKIP proposes building social and low-cost housing on existing sites not on green fields, to help local youngsters get on the ladder. Affordable energy - UKIP wants to invest in affordable energy from shale gas and nuclear, and reduce subsidies for solar farms."
+      },
+      {
+        "title": "UKIP says NO to",
+        "content": "Unlimited immigration - UKIP wants to control immigration to prevent lower wages and pressure on housing and services. £55m a day membership fees to the EU - UKIP believes Britain would be better off out of the EU. £12 billion a year in foreign aid - UKIP wants to reduce foreign aid that subsidizes space programs in countries like India and China. The 'bedroom tax' and the 'mansion tax' - UKIP opposes these taxes and advocates for simpler and fairer tax systems."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "UKIP supports an NHS that is free at the point of delivery and proposes an additional £3 billion funding to maintain its free access."
+      },
+      {
+        "policyTitle": "Minimum Wage",
+        "policyDescription": "UKIP proposes that workers on the minimum wage should not have to pay income tax."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "UKIP advocates for giving housing priority to local people, focusing on social and low-cost housing solutions on existing sites, not on green fields."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "UKIP supports investing in affordable energy from shale gas and nuclear, while reducing subsidies for solar farms."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "UKIP supports controlling immigration to prevent lower wages and pressure on housing and services."
+      },
+      {
+        "policyTitle": "EU Membership Fees",
+        "policyDescription": "UKIP believes that Britain should leave the EU to avoid £55m a day in membership fees."
+      },
+      {
+        "policyTitle": "Foreign Aid",
+        "policyDescription": "UKIP wants to reduce foreign aid, especially that which subsidizes space programs in other countries."
+      },
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "UKIP opposes the 'bedroom tax' and the 'mansion tax,' advocating for a simpler and fairer tax system."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Labour and the Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "UKIP wants to control immigration to prevent lower wages and pressure on housing and services.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "UKIP advocates for giving housing priority to local people, focusing on social and low-cost housing solutions on existing sites, not on green fields.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Lexdrum House, King Charles Business Park, Newton Abbot TQ12 6UT",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour are lying to you about UKIP and the NHS.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet page discussing UKIP's stance on various issues."
+        }
+      ]
+    },
+    "additionalNotes": "Published and promoted by UKIP, Lexdrum House, King Charles Business Park, Newton Abbot TQ12 6UT. Printed by Printbridge, 16 Castle St, Bodmin PL31 2DU."
+  }
+}

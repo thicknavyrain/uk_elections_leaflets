@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Iain Duncan Smith",
+    "constituency": "Chingford and Woodford Green",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June 2017",
+    "messages": [
+      {
+        "title": "Strong and Stable Leadership",
+        "content": "I am proud to have always put the people of Chingford and Woodford Green first during 25 years as your MP. In that time I have campaigned across a range of issues and will continue to stand up for what is best for residents and communities across Chingford and Woodford Green."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Supporting the Whipps Cross Hospital New Health Campus proposal, along with new hospitals for Barking, Havering and Redbridge."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Support for local businesses, and ensuring strong and stable economic growth."
+      },
+      {
+        "policyTitle": "Local Issues",
+        "policyDescription": "Opposing high-rise development by protecting local green sites, fighting Labour's library closures, and mini Holland in Waltham Forest."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Campaigning to introduce 15 minutes free car parking and tackling the Mini Holland scheme concerns."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Improving air quality, reducing congestion and supporting clean air initiatives."
+      }
+    ],
+    "mentions": {
+      "candidate": "Iain Duncan Smith",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Establish Britain as the strongest country in Europe after Brexit. Ensure the FREEDOM to strike new trade deals around the globe.",
+      "economy": "",
+      "education": "",
+      "environment": "Fighting air pollution and improving quality of the air we breathe.",
+      "governance": "",
+      "health": "Support the Whipps Cross Hospital New Health Campus proposal.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Opposing high-rise development by protecting local green sites.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Most people know someone who has been helped by Iain",
+    "politicalExperience": [
+      {
+        "role": "MP of Chingford and Woodford Green",
+        "duration": "25 years",
+        "achievements": "Campaigning across a range of issues and continuing to stand up for what is best for residents and communities."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.cwgca.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Iain Duncan Smith with residents and supporters."
+        },
+        {
+          "caption": "Iain Duncan Smith with veterans at a war memorial."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

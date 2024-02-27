@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Matt Turmaine",
+    "constituency": "Watford",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Dear fellow resident",
+        "content": "It's outrageous that this government cut taxes for millionaires and hit the rest of us with tax bombshells."
+      },
+      {
+        "title": "Why we're all backing Matt to win...",
+        "content": "Endorsements from local supporters."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Protect our NHS from 'real danger', plan to cut loan rates for NHS staff, better integration of local health services."
+      },
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "Labour plans to extend free childcare to working parents of three and four year-olds up to 25 hours a week."
+      }
+    ],
+    "mentions": {
+      "candidate": "Matt Turmaine",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Only Labour can beat the Tories in Watford."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "It's outrageous that this government cut taxes for millionaires and hit the rest of us with tax bombshells. Hitting hard-working families with a stealth tax-rises is not the right way to go about deficit reduction, whilst the national debt has gone up under David Cameron. Plenty of pain, but no gain.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Our NHS is in real danger. Labour plans are about quality for patients, value for money for the taxpayer and full accountability for providers. Conservatives plans mean hospital closures, local A&E departments under threat, longer waiting times and wasting money on bureaucracy.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm on your side, committed to building a proper forward vision - not just one lucky guess.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Anne Joynes",
+        "endorsement": "Former school teacher and mother believes Labour understands key issues affecting families."
+      },
+      {
+        "endorser": "Bilqees Mauthoor",
+        "endorsement": "Nurse, North Watford concerned about the NHS."
+      },
+      {
+        "endorser": "Muhammad Afsar",
+        "endorsement": "Businessman, West Watford."
+      },
+      {
+        "endorser": "Sarah Lowes",
+        "endorsement": "Former business woman, mum, and keen environmentalist supporting Labour's childcare policy."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Pictures of Matt Turmaine with supporters and residents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

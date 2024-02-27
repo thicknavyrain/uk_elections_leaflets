@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Aaron Bell",
+    "constituency": "Newcastle-under-Lyme",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A prescription for a stronger NHS",
+        "content": "With a majority government that can get Brexit done, we can take back control of our borders. That means we can introduce an Australian-style points-based immigration system. Taking pressure off our public services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stronger NHS",
+        "policyDescription": "A new NHS visa for the world's best doctors and nurses. 50 million extra GP surgery appointments. 6,000 more doctors. £33.9 billion extra in funding."
+      },
+      {
+        "policyTitle": "40 new hospitals and 20 hospital upgrades",
+        "policyDescription": "Plan to build 40 new hospitals and upgrade 20 existing ones."
+      },
+      {
+        "policyTitle": "Clamp down on health tourism",
+        "policyDescription": "Measures to prevent health tourism and ensure the NHS is for UK residents."
+      },
+      {
+        "policyTitle": "300 new MRI machines, CT scanners and breast-screening machines",
+        "policyDescription": "Investment in 300 new MRI machines, CT scanners, and breast-screening machines."
+      },
+      {
+        "policyTitle": "50,000 more nurses",
+        "policyDescription": "Plans to recruit 50,000 more nurses for the NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "Let’s get Brexit done – so we can focus on the country’s priorities. Like giving our NHS the same care and attention that NHS staff give to us.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "With a majority government that can get Brexit done, we can take back control of our borders.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "A prescription for a stronger NHS",
+      "immigration": "Introduce an Australian-style points-based immigration system. Taking pressure off our public services.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Matthew Parker Street, London, SW1H 9HQ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign leaflet images showing keywords and policies related to the NHS."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet content strongly focuses on NHS-related policies and Brexit."
+  }
+}
+```

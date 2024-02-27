@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jason Edwards",
+    "constituency": "Aberconwy",
+    "politicalParty": "Welsh Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "STOP BREXIT",
+        "content": "This election is your chance to DEMAND BETTER FOR WALES."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Brexit",
+        "policyDescription": "Liberal Democrats - Stop Brexit on day one."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jason Edwards",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Liberal Democrats - Stop Brexit on day one.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jason Edwards with campaign supporters."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contrasts the positions of the Conservatives, Labour, and the Liberal Democrats on Brexit. It promotes Jo Swinson as the leader of the Liberal Democrats and connects Jason Edwards with the message to stop Brexit."
+  }
+}
+```

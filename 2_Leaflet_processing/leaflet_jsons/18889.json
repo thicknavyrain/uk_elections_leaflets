@@ -1,0 +1,110 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Julian Huppert",
+    "constituency": "Cambridge",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "Julian: the best choice for you",
+        "content": "CAMBRIDGE VOTERS FACE A CLEAR CHOICE on May 7 between popular local champion Julian Huppert and Labour's candidate."
+      },
+      {
+        "title": "Lib Dems to protect full education budget",
+        "content": "The Lib Dems have announced plans to Protect the full education budget - from world of the cradle to college."
+      },
+      {
+        "title": "Confirmed: Only Lib Dems will safeguard our NHS for the future",
+        "content": "Campaign group 38 Degrees has said that 'the NHS needs £8bn by 2020 - only the Liberal Democrats have committed to this'."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education Budget Protection",
+        "policyDescription": "The Liberal Democrats plan to protect the full education budget, from cradle to college."
+      },
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "The Liberal Democrats are committed to investing the £8 billion per year the NHS says it needs by 2020."
+      }
+    ],
+    "mentions": {
+      "candidate": "Julian Huppert",
+      "otherPartyLeaderCandidate": "Labour's candidate",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The Liberal Democrats plan to protect the full education budget, from cradle to college.",
+      "environment": "",
+      "governance": "",
+      "health": "Campaign group 38 Degrees has said that 'the NHS needs £8bn by 2020 - only the Liberal Democrats have committed to this'.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Julian and the local team keep in touch all year round, always fighting for the local community.",
+        "source": "Elisha, Rill Road"
+      },
+      {
+        "text": "On all the key issues, Julian has stood up for Cambridge. He's an incredibly diligent caseworker and a regular visitor to our community.",
+        "source": "David, Hazelwood Close"
+      },
+      {
+        "text": "I'm hugely grateful for Julian's work, championing the UK and its economy, research for the importance of scientific discovery.",
+        "source": "Ian, York Street"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Julian Huppert with supporters."
+        },
+        {
+          "caption": "Lib Dems committing to full education budget."
+        },
+        {
+          "caption": "Damien Tunnacliffe with local residents."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet also mentions local champion Damien Tunnacliffe and promises pedestrian & cyclist safety improvements."
+  }
+}
+```

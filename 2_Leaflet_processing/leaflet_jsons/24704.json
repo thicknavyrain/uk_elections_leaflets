@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "A. M. Poppy",
+    "constituency": "Chipping Barnet",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "End austerity & restore the public sector",
+        "content": "Green Party pledges to end austerity, create over one million good jobs that pay at least a living wage, and pay for this with a 1% tax on wealth over £3 million."
+      },
+      {
+        "title": "Publicly funded health service & end creeping privatisation",
+        "content": "The Green Party promises to fight for a publicly funded, publicly provided health service free at the point of use and end creeping privatisation of the NHS and repeal the Health and Social Care Act 2012."
+      },
+      {
+        "title": "Increase Minimum Wage",
+        "content": "A commitment is made to make the minimum wage a living wage and to increase the minimum wage to reach a living wage of £10 an hour by 2020."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fair Economy",
+        "policyDescription": "Pledge to end austerity, creating over one million good jobs that pay at least a living wage, funded by a tax on the top 1%, a Robin Hood tax on banks, and the closure of tax loopholes."
+      },
+      {
+        "policyTitle": "Decent Homes",
+        "policyDescription": "Aim to build 500,000 social rented homes by 2020 and bring empty homes back into use to ensure everyone has a chance to afford a decent and stable place to live."
+      },
+      {
+        "policyTitle": "Safe Climate",
+        "policyDescription": "Take serious actions to fight climate change through investment in renewable energy generation and ensure a public programme of insulation, flood defences and building renovations."
+      },
+      {
+        "policyTitle": "Free Education",
+        "policyDescription": "Opinions expressed against university tuition fees and support for comprehensive education, with a move to bring Academies and Free Schools into the Local Authority system."
+      },
+      {
+        "policyTitle": "Better Transport",
+        "policyDescription": "Plans to bring railways back to public hands, create more affordable fares and encourage walking and cycling to improve people's health."
+      }
+    ],
+    "mentions": {
+      "candidate": "A. M. Poppy",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": "Mentions that Barnet council is proud of building none of the homes needed, suggesting the need for tactical voting to address housing concerns."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Green Party pledges to end austerity and restore the public sector, creating good jobs that pay at least a living wage.",
+      "education": "The party promises to scrap tuition fees and to bring Academies and Free Schools into the Local Authority system.",
+      "environment": "The Green Party is committed to taking serious actions on climate change and investing in renewable energy generation.",
+      "governance": "",
+      "health": "Green Party fights for a publicly funded health service and to end the privatisation of the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The Green Party aims to build 500,000 social rented homes by 2020 and bring empty homes back into use.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "A. M. Poppy has been campaigning with the Barnet Green Party for social justice and environmental justice since 2000.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "ampoppy@greenparty.org.uk",
+      "website": "greenpartypoppy.wordpress.com",
+      "socialMedia": {
+        "facebook": "facebook.com/GreenPartyPoppy",
+        "twitter": "@GreenPartyPoppy",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Imagine a political system that puts the public first. Imagine an economy that gives everyone their fair share. Imagine a society capable of supporting everyone’s needs. Imagine a planet protected from the threat of climate change now and for generations to come.",
+        "source": "Natalie Bennett, Green Party Leader",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A. M. Poppy with supporters and activists."
+        },
+        {
+          "caption": "A. M. Poppy in the community."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

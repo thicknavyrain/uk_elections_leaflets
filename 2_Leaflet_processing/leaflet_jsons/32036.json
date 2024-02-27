@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Slaughter",
+    "constituency": "Hammersmith",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "RE-ELECT ANDY SLAUGHTER",
+        "content": "Andy Slaughter - Fighting for you."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Re-elect me if you want a public vote on Brexit and to remain in the EU."
+      },
+      {
+        "policyTitle": "National Health Service",
+        "policyDescription": "Together, we saved Charing Cross Hospital. Now after 10 years of Conservative austerity, we need to invest in our schools and police."
+      },
+      {
+        "policyTitle": "Affordable Homes",
+        "policyDescription": "We must build more affordable homes."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "We must work towards the target of a carbon neutral by 2030."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andy Slaughter",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Only Labour can stop the Conservatives in Hammersmith."
+    },
+    "issues": {
+      "brexitEurope": "If you want a public vote on Brexit and to remain in the EU.",
+      "economy": "",
+      "education": "Now after 10 years of Conservative austerity, we need to invest in our schools.",
+      "environment": "We must work towards the target of a carbon neutral by 2030.",
+      "governance": "10 years of Conservative austerity.",
+      "health": "Together, we saved Charing Cross Hospital.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We must build more affordable homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I'm Andy Slaughter, Labour candidate for Hammersmith. I have worked hard for people in Shepherds Bush, Hammersmith and Fulham for over 30 years.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "28 Greyhound Road, London, W6 8NX",
+      "phone": "020 7381 1638",
+      "email": "andy@hammersmithlabour.co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "fb.com/hammersmithlabour",
+        "twitter": "twitter.com/hammersmithandy",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Re-elect Andy Slaughter Thursday 12 December"
+        }
+      ]
+    },
+    "additionalNotes": "The conservatives have failed Hammersmith. Two years ago, the Lib Dems won only 5% of the vote in Hammersmith, and the Greens less than 2%. 2017 Election results in Hammersmith."
+  }
+}
+```

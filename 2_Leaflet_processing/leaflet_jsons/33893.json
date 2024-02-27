@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Clive Johnson",
+    "constituency": "Sittingbourne and Sheppey",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "FOR THE MANY - NOT THE FEW",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health and Social Care",
+        "policyDescription": "Save our NHS, fight for more GPs and tackle the social care crisis."
+      },
+      {
+        "policyTitle": "Housing and Planning",
+        "policyDescription": "Address the housing crisis, adapt/improve the local housing to fit social and economic requirements."
+      },
+      {
+        "policyTitle": "National Education Service for Life Long Learning",
+        "policyDescription": "End underfunding in education, and restore the Sure Start programme."
+      },
+      {
+        "policyTitle": "Schools",
+        "policyDescription": "Pressure the government to provide adequate school places and funding."
+      },
+      {
+        "policyTitle": "Economy and Climate Emergency",
+        "policyDescription": "Support Labour's plans for a green economy to tackle the climate emergency."
+      },
+      {
+        "policyTitle": "Food Banks and Universal Credit",
+        "policyDescription": "Reduce the need for food banks by backing Labour's plans to remove Universal Credit."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Fight for affordable local social housing."
+      }
+    ],
+    "mentions": {
+      "candidate": "Clive Johnson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A green economy to tackle the climate emergency.",
+      "education": "End underfunding in education, and ensure adequate school places and funding.",
+      "environment": "A green economy to tackle the climate emergency.",
+      "governance": "",
+      "health": "Save our NHS, fight for more GPs and tackle the social care crisis.",
+      "immigration": "",
+      "socialWelfare": "Reduce the need for food banks by backing Labour's plans to remove Universal Credit.",
+      "housing": [
+        {
+          "content":"Address the housing crisis, adapt/improve the local housing to fit social and economic requirements, and fight for affordable local social housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I am proud to have been selected to stand in Sittingbourne and Sheppey and I offer my commitment to fight to improve the lives of local residents.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "29 Park Road, Sittingbourne, ME10 1DR",
+      "phone": "01795 410253",
+      "email": "sitshepplabour@hotmail.co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@sitshepplabour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Roger Truelove",
+        "endorsement": "I know Clive is truly committed to improving the lives of people in Sittingbourne and Sheppey. That means better homes, improvement in education for all, a cleaner environment, and social care."
+      },
+      {
+        "endorser": "Angela Harrison",
+        "endorsement": "I am delighted Clive shares my passion for keeping our NHS out of the hands of American drug companies. He knows our rights will suffer greatly if this happens. He worked with me against Stroke Services cuts at Medway Hospital."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Clive Johnson - Labour candidate for Sittingbourne and Sheppey"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

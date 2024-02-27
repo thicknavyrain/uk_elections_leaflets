@@ -1,0 +1,154 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "LET'S UNLEASH BRITAIN'S POTENTIAL",
+        "content": "Let's get Brexit done. Let's get on with the country's priorities."
+      },
+      {
+        "title": "OUR ECONOMY CAN'T AFFORD MORE UNCERTAINTY WITH A HUNG PARLIAMENT",
+        "content": "Labour can't win a majority. But Jeremy Corbyn could still become Prime Minister. Propped up by smaller parties like Nicola Sturgeon's SNP. That means more uncertainty for the Brexit arguments. And another Scottish independence referendum."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "£33.9 billion extra for the NHS"
+      },
+      {
+        "policyTitle": "Policing",
+        "policyDescription": "20,000 extra police for safer streets"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "More funding for every pupil in every school"
+      },
+      {
+        "policyTitle": "Economic Development",
+        "policyDescription": "£3.6 billion to help towns invest and attract new businesses"
+      },
+      {
+        "policyTitle": "Infrastructure",
+        "policyDescription": "£29 billion to improve our roads"
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "30 million more trees for cleaner air"
+      },
+      {
+        "policyTitle": "Technology",
+        "policyDescription": "Gigabit broadband for the whole country"
+      },
+      {
+        "policyTitle": "Healthcare Infrastructure",
+        "policyDescription": "40 new hospitals across the country"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": "Preventing a hung parliament and securing a majority government."
+    },
+    "issues": {
+      "brexitEurope": "Let's get Brexit done.",
+      "economy": "Labour's economic plans described as damaging, claims about massive taxes on businesses with Corbyn's plans.",
+      "education": "More funding for every pupil in every school",
+      "environment": "30 million more trees for cleaner air",
+      "governance": "",
+      "health": "£33.9 billion extra for the NHS, 40 new hospitals across the country",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Financial Times",
+        "endorsement": "Jeremy Corbyn's hard-left pregramme will wreck the UK economy"
+      },
+      {
+        "endorser": "CBI Chief",
+        "endorsement": "Labour plans 'crack the foundations of our economy'"
+      },
+      {
+        "endorser": "IoD",
+        "endorsement": "Hung parliament sinks business confidence, IoD finds"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Jeremy Corbyn's hard-left pregramme will wreck the UK economy.",
+        "source": "The Financial Times"
+      },
+      {
+        "text": "Labour plans 'crack the foundations of our economy'.",
+        "source": "CBI Chief"
+      },
+      {
+        "text": "Hung parliament sinks business confidence, IoD finds.",
+        "source": "IoD"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Boris Johnson with nurses"
+        },
+        {
+          "caption": "Boris Johnson at construction site"
+        },
+        {
+          "caption": "Full country broadband coverage"
+        },
+        {
+          "caption": "New road infrastructure"
+        },
+        {
+          "caption": "Boris Johnson with police officers"
+        },
+        {
+          "caption": "Boris Johnson with school children"
+        },
+        {
+          "caption": "Economic boost for towns"
+        },
+        {
+          "caption": "New hospital"
+        },
+        {
+          "caption": "Planting trees for environment"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

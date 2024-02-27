@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Bill Cashmore",
+    "constituency": "Chelsea and Fulham",
+    "politicalParty": "Green Party",
+    "electionDate": "8th June",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Bill Cashmore",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "200A Alma Square, St John's Wood, London NW8 9QA.",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "YOUR GREEN PARTY CANDIDATE BILL CASHMORE CHELSEA AND FULHAM"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

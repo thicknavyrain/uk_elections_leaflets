@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Angela Stone",
+    "constituency": "Haltemprice and Howden",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "YOUR GREEN PARTY CANDIDATE",
+        "content": "Lives and works in the constituency. A vocal and committed campaigner for local issues and causes. Champions local businesses and community involvement."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "GREEN NEW DEAL",
+        "policyDescription": "Unleashing a Green Economic and Social Revolution."
+      },
+      {
+        "policyTitle": "REMAIN AND TRANSFORM",
+        "policyDescription": "Saying Yes to Europe and its Potential to Deliver Climate and Social Justice."
+      },
+      {
+        "policyTitle": "GROW DEMOCRACY",
+        "policyDescription": "Unleashing a Democratic Revolution."
+      },
+      {
+        "policyTitle": "THE GREEN QUALITY OF LIFE GUARANTEE",
+        "policyDescription": "Unleashing a Revolution in Public Services and the Public Realm."
+      },
+      {
+        "policyTitle": "THE NEW DEAL FOR TAX AND SPEND",
+        "policyDescription": "Unleashing a Revolution in the Redistribution of Wealth."
+      }
+    ],
+    "mentions": {
+      "candidate": "Angela Stone",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Saying Yes to Europe and its Potential to Deliver Climate and Social Justice.",
+      "economy": "Unleashing a Green Economic and Social Revolution.",
+      "education": "",
+      "environment": "",
+      "governance": "Unleashing a Democratic Revolution.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Lives and works in the constituency. A vocal and committed campaigner for local issues and causes. Champions local businesses and community involvement.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "hullandeastriding.greenparty.org.uk/candidates",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Angela Stone"
+        }
+      ]
+    },
+    "additionalNotes": "This publication has not been paid for by big business or corporate interests, but has been supported and funded by ordinary people."
+  }
+}
+```

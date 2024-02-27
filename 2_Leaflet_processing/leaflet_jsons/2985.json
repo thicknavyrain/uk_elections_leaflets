@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Caroline Lucas",
+    "constituency": "",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "Green Party Councillors proposed to raise Council Tax, looking to raise an additional £1 Million from Council offers."
+      },
+      {
+        "policyTitle": "Income Tax",
+        "policyDescription": "Introduce 60% income tax on incomes over £100,000 as a conservation incentive for tax avoidance."
+      },
+      {
+        "policyTitle": "Air Passenger Duty",
+        "policyDescription": "Raise air passenger duty to £100 a ticket to save 1% of UK carbon emissions - the equivalent of a third of all UK flights scrapped."
+      },
+      {
+        "policyTitle": "VAT Cut",
+        "policyDescription": "Cut VAT permanently to 15%."
+      },
+      {
+        "policyTitle": "Population Control",
+        "policyDescription": "Top Green Jonathon Porritt has suggested the population of the UK should be slashed in half by families only having 2 children."
+      },
+      {
+        "policyTitle": "Citizen's Income",
+        "policyDescription": "Citizen's Income for everyone regardless of income will be set at £60.50 a week, costing the UK a mere £188 billion a year."
+      }
+    ],
+    "mentions": {
+      "candidate": "Caroline Lucas",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Introduce 60% income tax on incomes over £100,000. Cut VAT permanently to 15%. Citizen's Income for everyone which will be set at £60.50 a week.",
+      "education": "",
+      "environment": "Raise air passenger duty to £100 a ticket to save 1% of UK carbon emissions - the equivalent of a third of all UK flights scrapped.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Citizen's Income for everyone regardless of income.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "When asked if flying to Spain was as bad as knifing a person in the street, Ms Lucas said, 'Yes because they are dying from climate change.'",
+        "source": "As reported in the Daily Mail",
+        "date": "29th April 2009"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Prominently features Green Party Councillor Caroline Lucas' stance on various issues, as well as a summary of some Green Party proposals, under the headline 'GREEN PARTY COUNCILLORS PROPOSE COUNCIL TAX RISE'."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

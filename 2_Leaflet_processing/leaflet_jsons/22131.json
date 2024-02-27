@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "NIGEL CECIL",
+    "constituency": "Barrow and Furness",
+    "politicalParty": "UKIP",
+    "electionDate": "Thursday 7th May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "UKIP says NO to unlimited immigration"
+      },
+      {
+        "policyTitle": "EU Membership Fees",
+        "policyDescription": "UKIP says NO to £55m a day membership fees to the EU"
+      },
+      {
+        "policyTitle": "Foreign Aid",
+        "policyDescription": "UKIP says NO to £12 billion a year in foreign aid"
+      },
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "UKIP says NO to the 'bedroom tax' and the 'mansion tax'"
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "UKIP says YES to an NHS free at the point of delivery"
+      },
+      {
+        "policyTitle": "Tax Policy",
+        "policyDescription": "UKIP says YES to no tax on the minimum wage"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "UKIP says YES to housing priority for local people"
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "UKIP says YES to affordable energy"
+      }
+    ],
+    "mentions": {
+      "candidate": "NIGEL CECIL",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "UKIP says NO to £55m a day membership fees to the EU",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "UKIP says YES to an NHS free at the point of delivery",
+      "immigration": "UKIP says NO to unlimited immigration",
+      "socialWelfare": "UKIP says NO to the 'bedroom tax' and the 'mansion tax'",
+      "housing": [
+        {
+          "content": "UKIP says YES to housing priority for local people",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "UKIP Cumbria at 16 Marlde Grove, Barrow-in-Furness Cumbria, LA13 9QD",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "BELIEVE IN BARROW AND FURNESS BELIEVE IN SUBMARINES"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

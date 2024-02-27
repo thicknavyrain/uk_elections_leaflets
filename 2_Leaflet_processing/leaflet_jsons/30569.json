@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Catherine McKinnell",
+    "constituency": "Newcastle North",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "Re-elect Catherine McKinnell as Newcastle North’s Labour MP",
+        "content": "Catherine McKinnell has been your local MP since 2010, she’s determined to get the results Newcastle needs in these uncertain times. Catherine doesn’t just talk about making a difference. She gets on and does it."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting for our NHS and social care services",
+        "policyDescription": "Catherine pledges to fight for our NHS trust, striving for better health and social care."
+      },
+      {
+        "policyTitle": "Standing up for our children and young people",
+        "policyDescription": "Catherine aims to protect education funding from Tory cuts."
+      },
+      {
+        "policyTitle": "Protecting education funding from Tory cuts",
+        "policyDescription": "Catherine aims to protect education funding from Tory cuts."
+      },
+      {
+        "policyTitle": "Striving for a fairer economy that works for everyone",
+        "policyDescription": "She is committed to working for a fairer economy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Catherine McKinnell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Catherine aims to protect education funding from Tory cuts.",
+      "environment": "",
+      "governance": "",
+      "health": "Catherine pledges to fight for our NHS trust, striving for better health and social care.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "It’s been a huge privilege to serve as the MP for Newcastle North since 2010.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0191 229 0352",
+      "email": "newcastlenorthlabour@gmail.com",
+      "website": "www.catherinemckinnell.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/CatherineMcKinnell",
+        "twitter": "twitter.com/CatMcKinnell",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Re-elect Catherine McKinnell as Newcastle North’s Labour MP"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet prominently features Labour's color and branding, includes a personal statement and pledges from the candidate, and notes the Tory failure as a counterpoint to her policies."
+  }
+}
+```

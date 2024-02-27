@@ -1,0 +1,65 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kate Hoey",
+    "constituency": "Vauxhall",
+    "politicalParty": "Labour",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "Every vote counts, so use it!",
+        "content": "Remember that this year when you vote we have the local elections on the same day to decide who represents you on Lambeth Council. You will have two ballot papers."
+      },
+      {
+        "title": "An Honest, Independent Voice",
+        "content": "The election is finally drawing to an end, and all that is left is the most important part of all—for you to cast your vote. I hope that you have carefully considered the issues and have read my material that sets out my record and my promises for the future. Unlike the last three general elections, the result this time cannot be predicted, so every vote really counts and I hope that you will elect me again."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Kate Hoey",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "The Labour Party candidate",
+      "phone": "0207 582 0380",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A sample image showing how to vote for Kate Hoey on the ballot paper."
+        },
+        {
+          "caption": "Kate Hoey with the Labour Party logo."
+        }
+      ]
+    },
+    "additionalNotes": "Need a lift to the polling station? Call Kate Hoey's election office."
+  }
+}
+```

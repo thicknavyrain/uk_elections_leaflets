@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Graeme Brown",
+	"constituency": "Dudley North",
+	"politicalParty": "Conservative",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Our troops are doing a great job and all deserve our gratitude",
+    	"content": "Graeme knows everyone in Dudley is very proud of the work our troops are doing. Proof of this came just before Christmas when Graeme and some friends spent a Saturday afternoon at Merry Hill collecting money for the Army Benevolent Fund, a charity that supports members of our armed forces and their families."
+  	},
+  	{
+	    "title": "Supporting people who play by the rules",
+	    "content": "One of the most common things voters say to Graeme when he knocks on doors in Dudley is that, \"the people in my street or in my village [...] work hard, pay their taxes, obey the law and play by the rules. Yet they feel they get little support from the government.\""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Controlling Immigration",
+    	"policyDescription": "Local Conservative candidate Graeme Brown has found that immigration is an issue that voters in Dudley want to discuss. Plans include a vote on an annual cap on immigration, introducing a dedicated Border Police Force, and ensuring that the student visa system is used as it was intended with money dispersed to students paid back when they leave the country."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Graeme Brown",
+  	"otherPartyLeaderCandidate": "Theresa May",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "Local Conservative candidate Graeme Brown has found that immigration is an issue that voters in Dudley want to discuss. [...] The Labour government's open door policy is now seen as a mistake and has averaged 200,000 a year. This is far too high in an economy with high unemployment.",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "01384 211041",
+  	"email": "graeme@dudleyconservatives.com",
+  	"website": "www.dudleynorthconservatives.com",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Graeme and friends collecting for our troops"
+    	},
+    	{
+      	"caption": "Graeme with Theresa May and an Asda employee"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,108 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Field",
+    "constituency": "Cities of London and Westminster",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday",
+    "messages": [
+      {
+        "title": "Competent leadership",
+        "content": "Employment is at a record high & Tax cuts for workers and savers"
+      },
+      {
+        "title": "Coalition of chaos",
+        "content": "Labour is plotting Scottish alliance & £3k Labour tax blow for every family"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Seven-day NHS will be offered to everyone"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Growth rises to raise income"
+      },
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Benefits cap 'leads more into work'"
+      },
+      {
+        "policyTitle": "Pension",
+        "policyDescription": "Pensioners to keep benefits"
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Field",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Employment is at a record high.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Seven-day NHS will be offered to everyone.",
+      "immigration": "",
+      "socialWelfare": "Benefits cap 'leads more into work'. Pensioners to keep benefits.",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.votemarkfield.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Dr. Oliver Victoria",
+        "endorsement": "Mark is a very visible and active MP for all of us in this constituency and I look forward to voting for him on Thursday."
+      },
+      {
+        "endorser": "Peter McCoy from the Churchill Gardens Estate",
+        "endorsement": "Mark is a very visible and active MP for all of us in this constituency and I look forward to voting for him on Thursday."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Employment is at a record high.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mark Field with constituents"
+        },
+        {
+          "caption": "Graphs and comparison charts"
+        }
+      ]
+    },
+    "additionalNotes": "The key topics illustrated on the leaflet are employment, NHS, tax, and policy comparison with another party."
+  }
+}
+```

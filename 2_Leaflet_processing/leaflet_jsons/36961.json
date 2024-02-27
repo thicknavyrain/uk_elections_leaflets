@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jane Keep",
+    "constituency": "Feltham and Heston",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "LET'S GET BREXIT DONE",
+        "content": "And get on with our priorities: £33.9 billion for the NHS, 20,000 extra police, More funding for every pupil in every school."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "No more housing",
+        "policyDescription": "No mentions of lackluster infrastructure support."
+      },
+      {
+        "policyTitle": "Support for local businesses, high streets, and local jobs",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Boosting our schools",
+        "policyDescription": "To put children and young people on the road to a brighter future."
+      },
+      {
+        "policyTitle": "Conservative Youth Investment Fund",
+        "policyDescription": "To invest in facilities for young people."
+      },
+      {
+        "policyTitle": "Resident Safety",
+        "policyDescription": "Our share of extra local police from Conservatives 20,000 more police."
+      },
+      {
+        "policyTitle": "Tackling traffic gridlocks",
+        "policyDescription": "To support local businesses and commuters."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jane Keep",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "LET'S GET BREXIT DONE",
+      "economy": "",
+      "education": "More funding for every pupil in every school.",
+      "environment": "Feltham & Heston - a healthy flourishing place to live - no more litter, fly tipping",
+      "governance": "",
+      "health": "Protect our local NHS, mental health, elderly care & young people services",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "No more housing developments that lack infrastructure support.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "A strong local voice for Feltham and Heston",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07876140413",
+      "email": "janekeep@me.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@FelthamHestonC1",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jane Keep on a high street with constituents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

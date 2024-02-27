@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr Tania Mathias",
+    "constituency": "Twickenham",
+    "politicalParty": "Conservative",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "Twickenham's fearless fighter",
+        "content": "Having worked as an NHS doctor and a refugee officer for the United Nations, my background is not a traditional one for a politician. But since being elected as your Member of Parliament in 2015, I have given my all for our constituency."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Progress on Heathrow",
+        "policyDescription": "Remains resolutely opposed to a third runway at Heathrow and has led the fight against expansion in Parliament."
+      },
+      {
+        "policyTitle": "Better train services",
+        "policyDescription": "Secured the 5-year funding commitment from train operating companies to put additional rolling stock on to South Western Railway."
+      },
+      {
+        "policyTitle": "Stronger schools",
+        "policyDescription": "Supported moves by local councils to ensure all local secondary schools have sixth forms, which was opposed by Liberal Democrat councillors."
+      },
+      {
+        "policyTitle": "Supporting local pubs",
+        "policyDescription": "Votes and support for pubs in Parliament, and was named a 'Pub Hero' for efforts to prevent pubs from being demolished or their use changed without full planning consultation."
+      },
+      {
+        "policyTitle": "Reducing traffic congestion",
+        "policyDescription": "Working with local councillors on alternative improvement schemes to tackle queues at the junction and along Hampton Road."
+      },
+      {
+        "policyTitle": "Tackling illegal mooring",
+        "policyDescription": "Led work on a new by-law to tackle illegal mooring, and involve the wider community including local residents, police, and the Environment agency to better manage our stretch of the river."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr Tania Mathias",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Says our children and our schools are vital to the majority and believes decisions on schools should be taken by the county, depending on governance to become academies, parents, teachers, and governors.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Says our children and our schools are vital to the majority and believes decisions on schools should be taken by the county, depending on governance to become academies, parents, teachers, and governors.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Councillor and MP",
+        "duration": "Since 2015",
+        "achievements": "Opposed to a third runway at Heathrow, secured additional rolling stock for South Western Railway, ensured sixth forms are in local secondary schools, named 'Pub Hero', and worked on a new by-law to tackle illegal mooring."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Discussing how Heathrow can be better for Twickenham with the Secretary of State for Transport."
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by David Jones on behalf of Dr Tania Mathias."
+  }
+}
+```

@@ -1,0 +1,110 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Graham Cockarill",
+    "constituency": "Hart",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "December 2019",
+    "messages": [
+      {
+        "title": "BEWARE: 'Get Brexit Done' means 10 more years of Brexit Chaos",
+        "content": "Discusses potential negative outcomes if Brexit is pushed through parliament, including economic impacts, peace process risks, and renewed Scottish independence push."
+      },
+      {
+        "title": "SAVE Our Country",
+        "content": "Opposes 'more years of Brexit' chaos."
+      },
+      {
+        "title": "SAVE Our Politics",
+        "content": "Comments on Boris Johnson and Jeremy Corbyn suggesting a departure from politics."
+      },
+      {
+        "title": "SAVE Our Countryside in Hart",
+        "content": "Discusses Hart's countryside and a plan to save local green fields."
+      },
+      {
+        "title": "SAVE Our Planet",
+        "content": "Advocates for the environment with Liberal Democrats pledging to plant 60 million trees per year."
+      },
+      {
+        "title": "SAVE Our Services",
+        "content": "Mentions Liberal Democrats' commitment to public services including the recruitment of more police."
+      },
+      {
+        "title": "SAVE Our NHS and Care Services",
+        "content": "Plans to safeguard the NHS with a penny rise in income tax and addressing underfunding."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "The leaflet opposes the idea of pushing through Brexit and discusses the ramifications of such an action."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Liberal Democrats pledge to plant 60 million trees per year."
+      },
+      {
+        "policyTitle": "Public Services",
+        "policyDescription": "A commitment to recruiting 20,000 more police and increasing the number of civilian staff."
+      },
+      {
+        "policyTitle": "NHS and Care Services",
+        "policyDescription": "Proposes safeguarding the NHS by increasing income tax by a penny and correcting funding deficits."
+      }
+    ],
+    "mentions": {
+      "candidate": "Graham Cockarill",
+      "otherPartyLeaderCandidate": "Boris Johnson and Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "States that Labour, Greens, and the Independent can't win here; tactical implication that the Liberal Democrats are the alternative to Conservatives in North East Hampshire."
+    },
+    "issues": {
+      "brexitEurope": "Opposes 'more years of Brexit chaos'.",
+      "economy": "",
+      "education": "",
+      "environment": "Pledge to plant 60 million trees per year.",
+      "governance": "",
+      "health": "Proposes a penny rise in income tax to safeguard the NHS and address underfunding issues.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Plans to save local green fields from development and mentions countryside's importance.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "35 hours of free Childcare from nine months and Police cuts shocker! narratives indicate Graham's background and stance on public services.",
+    "politicalExperience": [
+      {
+        "role": "Councillor, Hart District Council",
+        "duration": "",
+        "achievements": "Led the fight to stop the Conservatives from allowing developers onto our Green Fields."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Contains images of the candidate and campaign messages."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contains a mix of criticism for the current government, particularly on Brexit, and outlines key Liberal Democrat policies and commitments."
+  }
+}
+```

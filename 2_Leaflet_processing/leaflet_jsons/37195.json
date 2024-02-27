@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Aled Davies",
+    "constituency": "Arfon",
+    "politicalParty": "Welsh Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "SUPPORTING AGRICULTURE",
+        "content": "Family farms are the backbone of Welsh rural life. As a farmer I will promote the interests of Arfon's farms."
+      },
+      {
+        "title": "SUPPORTING SCHOOLS",
+        "content": "As a County Councillor and Governor I have fought to protect schools. As a former student, I will promote Bangor University."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "HEALTH",
+        "policyDescription": "Improving care for mental health."
+      },
+      {
+        "policyTitle": "EDUCATION",
+        "policyDescription": "Investing in children's education to achieve a better future for Wales."
+      },
+      {
+        "policyTitle": "BUSINESS",
+        "policyDescription": "Aiming to end the area's business rate to aid local economy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Aled Davies",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Improving care for mental health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "YOUR FAMILIES ARE OUR FUTURE - I WILL LISTEN TO YOU AND WORK HARD FOR OUR COMMUNITY",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Aled Davies supporting agriculture and schools, improving care for mental health."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

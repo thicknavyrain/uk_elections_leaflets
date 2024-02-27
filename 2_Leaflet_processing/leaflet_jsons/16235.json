@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Deidre Brock",
+    "constituency": "Edinburgh North and Leith",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Deidre Brock",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Deidre Brock - A strong local voice for Edinburgh North and Leith"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

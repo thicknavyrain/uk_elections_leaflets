@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anna SOUBRY",
+    "constituency": "Broxtowe",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "A job for everyone in Broxtowe.",
+        "policyDescription": "We have record levels of employment and apprenticeships in Broxtowe. A strong economy also pays for great services like our NHS."
+      },
+      {
+        "policyTitle": "The best schools for all our children.",
+        "policyDescription": "Broxtowe's schools keep on getting better! Labour were wrong to close academies which have brought aspiration and success."
+      },
+      {
+        "policyTitle": "Keep on defending our Green Belt.",
+        "policyDescription": "Broxtowe is a great place to live and we need our green open spaces not just as places to enjoy but to keep communities special."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anna SOUBRY",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We have record levels of employment and apprenticeships in Broxtowe. A strong economy also pays for great services like our NHS.",
+      "education": "Broxtowe's schools keep on getting better! Labour were wrong to close academies which have brought aspiration and success.",
+      "environment": "Broxtowe is a great place to live and we need our green open spaces not just as places to enjoy but to keep communities special.",
+      "governance": "",
+      "health": "A strong economy also pays for great services like our NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Broxtowe is a great place to live and we need our green open spaces not just as places to enjoy but to keep communities special.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "63 Barton House, 61 High Road, Chilwell, Nottinghamshire NG9 4AJ",
+      "phone": "0115 943 6507",
+      "email": "anna@annasoubry.org.uk",
+      "website": "annasoubry.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Anna Soubry with campaign message"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

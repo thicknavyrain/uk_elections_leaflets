@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Robert Courts",
+    "constituency": "Witney & West Oxfordshire",
+    "politicalParty": "Conservative",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "",
+        "content": "You will very shortly be able to vote in one of the most important General Elections in decades, when you cast your vote 12th December."
+      },
+      {
+        "title": "",
+        "content": "Nationally, the choice is between a moderate Conservative government that helps people realise their aspirations and rewards hard work, or a Labour government driven by hard-left socialist dogma."
+      },
+      {
+        "title": "",
+        "content": "Locally, I offer myself as a strong, effective, genuinely local candidate, with a proud record of listening, campaigning and delivering for our area."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Deliver Brexit with the Prime Minister's new deal."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Support a positive Conservative agenda and a moderate Conservative government."
+      }
+    ],
+    "mentions": {
+      "candidate": "Robert Courts",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Prime Minister",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Brexit is a major issue in this campaign.",
+      "economy": "A Labour government...will surely destroy the economy.",
+      "education": "",
+      "environment": "",
+      "governance": "Support a positive Conservative agenda.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I offer myself as a strong, effective, genuinely local candidate, with a proud record of listening, campaigning and delivering for our area.",
+    "politicalExperience": [
+      {
+        "role": "Local candidate",
+        "duration": "The last three years.",
+        "achievements": "Listening, campaigning and delivering for our area."
+      }
+    ],
+    "contactInformation": {
+      "address": "Promoted by Ian Galletley, on behalf of Robert Courts.",
+      "phone": "",
+      "email": "vote@robertcourts.co.uk",
+      "website": "www.robertcourts.co.uk/positivereasons",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Robert Courts campaign leaflet image."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet promotes a Conservative government and criticizes the Labour party led by Jeremy Corbyn."
+  }
+}
+```

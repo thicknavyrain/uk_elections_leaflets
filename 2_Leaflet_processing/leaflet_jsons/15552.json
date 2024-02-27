@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dorothy Thornhill",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "THE CONSERVATIVES HAVE A LONG RECORD OF FAILING THE NHS...",
+        "content": "THE CONSERVATIVES CANNOT BE TRUSTED WITH OUR NHS..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "Our NHS needs an extra £8bn, says local champion Dorothy Thornhill who proposes increasing NHS funding by £8bn-a-year by the end of the next parliament."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dorothy Thornhill",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The leaflet emphasizes the need to increase NHS funding by £8bn and critiques Conservative management of the NHS. It also highlights Dorothy Thornhill and the Liberal Democrats' efforts to improve the NHS by delivering an extra £2bn for the NHS during their time in coalition government.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Simon Stevens, Chief Executive of NHS England",
+        "endorsement": "The Liberal Democrats have shown that they put our hospital and NHS first..."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The NHS isn't safe in the hands of the Tories",
+        "source": "The Independent",
+        "date": "10th October 2014"
+      },
+      {
+        "text": "The biggest threat to the NHS is the Tories.",
+        "source": "New Statesman",
+        "date": "7th April 2014"
+      },
+      {
+        "text": "Cameron will have to cut his spending promises, admit his deficit plans have failed, raise taxes, or extend the cuts – hitting the NHS and breaking his pledge.",
+        "source": "The Independent",
+        "date": "22nd December 2014"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dorothy and the Liberal Democrats have shown that they put our hospital and NHS FIRST..."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

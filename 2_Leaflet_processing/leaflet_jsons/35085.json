@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Julian Huppert",
+    "constituency": "Cambridge",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A Cambridge Experience",
+        "content": "The Cambridge Experience wishes all our readers a wonderful Christmas and New Years!"
+      },
+      {
+        "title": "Cambridge Experience",
+        "content": "Exclusive Interview: We speak to Cambridge MP Julian Huppert."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Mental Health",
+        "policyDescription": "Taking mental health as seriously as physical health, helping to end the stigma around mental health and plans for new waiting times."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Discussion of residents coping with the cost of living."
+      },
+      {
+        "policyTitle": "Education Funding",
+        "policyDescription": "Advocating for fairer school funding, highlighting issues related to school funding cuts."
+      },
+      {
+        "policyTitle": "Free School Meals",
+        "policyDescription": "Support for free school meals, emphasizing that the whole class benefits when every child is well-fed."
+      }
+    ],
+    "mentions": {
+      "candidate": "Julian Huppert",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Discussion about residents coping with the cost of living. Mention of savings on income tax and tax-free childcare.",
+      "education": "Highlight of the school funding petition and issues related to cuts in school funding.",
+      "environment": "",
+      "governance": "",
+      "health": "Focus on mental health, including efforts to end stigma and introduce new waiting times for treatment.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm proud of putting Cambridge residents first.",
+    "politicalExperience": [
+      {
+        "role": "MP of Cambridge",
+        "duration": "",
+        "achievements": "Described as a true parliamentarian, believed to put Cambridge residents first."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes a festive section with recommendations for a perfect Cambridge Christmas."
+  }
+}
+```

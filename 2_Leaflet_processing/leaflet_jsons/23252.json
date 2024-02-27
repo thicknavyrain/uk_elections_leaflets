@@ -1,0 +1,121 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Karen Buck",
+    "constituency": "Westminster North",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Dear resident",
+        "content": "I want to live in a country where everyone is secure, with good jobs, classic health care, decent homes for all and where every young person has a chance of a great future. In London the housing crisis has become very severe..."
+      },
+      {
+        "title": "Time to care for the NHS",
+        "content": "The Tories wasted £3 billion on a top-down reorganisation that nobody wanted. They have allowed waiting lists to rise again... Labour will invest in our health services, recruiting 20,000 more nurses and 8,000 more GPs."
+      },
+      {
+        "title": "A healthy economy",
+        "content": "I want an economy that works for everyday people, not just a privileged few... That means raising the minimum wage, ending the abuse of zero-hour contracts, and promoting the living wage."
+      },
+      {
+        "title": "Protecting our neighbourhoods",
+        "content": "Increasing the residents' on-street voice, dealing decisively with anti-social behaviour... I also support measures to protect local employment standards..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Invest in health services, recruit 20,000 more nurses, 8,000 GPs, and guarantee a GP appointment within 48 hours."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Raise the minimum wage, end zero-hour contracts abuse, promote living wage, cut business rates for small firms, freeze energy bills until 2017."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build 200,000 homes a year by 2020, guarantee long-term tenancies and predictable rents for those renting privately."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Reduce class sizes for 5, 6, and 7-year-olds, and ensure all teachers are qualified."
+      },
+      {
+        "policyTitle": "Safety",
+        "policyDescription": "Increase police, reverse 1,000 officer cuts in London, bring back community policing."
+      }
+    ],
+    "mentions": {
+      "candidate": "Karen Buck",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "I want an economy that works for everyday people, not just a privileged few... That means raising the minimum wage, ending the abuse of zero-hour contracts, and promoting the living wage.",
+      "education": "Reduce class sizes for 5, 6, and 7-year-olds, and ensure all teachers are qualified.",
+      "environment": "Labour will freeze energy bills until 2017, fix the broken energy market, increase competition and transparency.",
+      "governance": "",
+      "health": "The Tories wasted £3 billion on a top-down reorganisation that nobody wanted. They have allowed waiting lists to rise again... Labour will invest in our health services, recruiting 20,000 more nurses and 8,000 more GPs.",
+      "immigration": "",
+      "socialWelfare": "Ways to get people back to work... boost jobs and earn money to reduce the deficit... raising the minimum wage and promoting the living wage.",
+      "housing": [
+        {
+          "content": "Labour has a better plan for homes... build 200,000 homes a year... guarantee long-term tenancies... cap rents",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Labour Parliamentary Candidate",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4G Shirland Mews, London, W9",
+      "phone": "020 8968 7999",
+      "email": "karenbuck@labour.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "KarenPBuck",
+        "twitter": "KarenPBuckMP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Ted Taylor",
+        "endorsement": "Karen is one of the strongest MPs in parliament."
+      },
+      {
+        "endorser": "Candy Coghlan",
+        "endorsement": "During the Nursery Milk campaign, Karen was the most responsive politician we dealt with."
+      },
+      {
+        "endorser": "Rima Begum",
+        "endorsement": "Karen has always taken a stand against inequality and poverty, and personally supported me through tough times."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Karen Buck with constituents."
+        },
+        {
+          "caption": "Karen Buck campaigning for better healthcare."
+        },
+        {
+          "caption": "Karen Buck supporting local business."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

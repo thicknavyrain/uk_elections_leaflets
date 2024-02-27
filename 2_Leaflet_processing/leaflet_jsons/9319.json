@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ian Jackson",
+    "constituency": "Lichfield Constituency",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "Dear Resident",
+        "content": "Elections can make a real difference to our future do not come along very often. But the election on May 6th is one of those. We have had 65 years of Labour and the Tories taking their turn at running the country. We are left disillusioned and disappointed by their failures and broken promises."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fair Start for Children",
+        "policyDescription": "A fair start for our children."
+      },
+      {
+        "policyTitle": "Fair Economy",
+        "policyDescription": "A fair economy, creating jobs that will benefit the environment."
+      },
+      {
+        "policyTitle": "Clean-up Politics",
+        "policyDescription": "A clean-up of our corrupt and rotten politics with fair votes - so that everyone's vote has a meaning."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ian Jackson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Labour is in disarray. Divided and demoralised, weakened by defections, Labour knows it has no chance here. In last year's round of elections Labour languished in third place both locally and nationally. Labour knows it can't win here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The policy on the economy is to create a fair economy, creating jobs that will benefit the environment.",
+      "education": "Policy on education as part of political reform that you can believe in.",
+      "environment": "Creating jobs that will benefit the environment.",
+      "governance": "Political reform are achievable because they have been properly costed by Vince Cable and our treasury team.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm campaigning as a Liberal Democrat because we have the big ideas for fundamental change in the way our country is run.",
+    "politicalExperience": [
+      {
+        "role": "Liberal Democrat Candidate",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "20 Richmond Drive, Lichfield WS14 9DZ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet content"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

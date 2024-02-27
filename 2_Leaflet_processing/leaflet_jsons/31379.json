@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Swinson",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "OUR NHS: NOT SAFE IN HIS HANDS",
+        "content": "Our NHS is in crisis and things are set to get worse if Boris Johnson stays in charge of our country for long."
+      },
+      {
+        "title": "TRUMP'S NHS THREAT",
+        "content": "When Donald Trump visited Britain recently, he made it clear that the NHS would be part of negotiating any trade deals with the US."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "Securing extra funds for our NHS starting with a penny on Income Tax to tackle the crisis."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jo Swinson is leading the fight to secure the funds the NHS needs.",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Our NHS is in crisis with soaring waiting times for GP appointments, A&E departments and for mental health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Lib Dem Leader",
+        "duration": "",
+        "achievements": "Fighting for NHS funding and against Trump's NHS threat."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We've heard Conservatives promise the world on the NHS again and again. The reality is always very different. Fewer resources leading to more cuts and more patients suffering.",
+        "source": "Jo Swinson",
+        "date": ""
+      },
+      {
+        "text": "Trump and Johnson have tried to row back from his comments, but many are not convinced. Jo Swinson added, 'We will not allow it to happen. We will fight the US attempts to privatise the NHS. Any health system is not a model any country should wish to replicate.'",
+        "source": "Campaign leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lib Dems are winning"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

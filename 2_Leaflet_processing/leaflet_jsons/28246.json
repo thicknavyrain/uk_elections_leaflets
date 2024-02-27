@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Cheryl Gillan",
+    "constituency": "Chesham & Amersham",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "STRONG, STABLE LEADERSHIP IN THE NATIONAL INTEREST",
+        "content": "Or A COALITION OF CHAOS WITH JEREMY CORBYN"
+      },
+      {
+        "title": "THINKING OF VOTING LIBERAL DEMOCRAT OR GREEN?",
+        "content": "It will only help Jeremy Corbyn."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Making Brexit a success is central to our national interest and central to your own financial security."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Building a stronger economy that rewards people who work hard so they can lead a better and more secure life."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "With a strong negotiating hand, I can deliver for you and for Britain."
+      }
+    ],
+    "mentions": {
+      "candidate": "Cheryl Gillan",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "Thinking of voting Liberal Democrat or Green? It will only help Jeremy Corbyn."
+    },
+    "issues": {
+      "brexitEurope": "Making Brexit a success is central to our national interest and central to your own financial security.",
+      "economy": "Building a stronger economy that rewards people who work hard so they can lead a better and more secure life. Provide real opportunity and security for you and your loved ones.",
+      "education": "",
+      "environment": "",
+      "governance": "With a strong negotiating hand, I can deliver for you and for Britain.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am standing with Theresa May in the national interest.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for Chesham & Amersham",
+        "duration": "Since 1992",
+        "achievements": "Protecting and enhancing the environment and helping local businesses to thrive."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01494 673745",
+      "email": "cheryl4candam@gmail.com",
+      "website": "www.cherylgillan.co.uk",
+      "socialMedia": {
+        "facebook": "Cheryl Gillan",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cheryl Gillan with Theresa May"
+        }
+      ]
+    },
+    "additionalNotes": "Officially endorsed by Prime Minister Theresa May. Warning against a coalition of chaos with Jeremy Corbyn."
+  }
+}
+```

@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sarah",
+    "constituency": "Brent",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Cleaning up MPs expenses",
+        "content": ""
+      },
+      {
+        "title": "Investing in our future",
+        "content": "The Lib Dems will invest in our schools to cut class sizes and abolish Labour’s unfair tuition fees. We will lead the fight for real action to stop climate change by making Britain a world leader in renewable energy."
+      },
+      {
+        "title": "More money in your pocket",
+        "content": "Sarah wants to cut the tax bill of ordinary families. The Lib Dem fair taxes plan will mean that no one will pay tax on the first £10,000 they earn. If you earn over £10,000 a year you will be £700 better off. This will be paid for by closing tax loopholes exploited by the very rich and by the new 'mansion tax'."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "The Lib Dems will invest in our schools to cut class sizes and abolish Labour’s unfair tuition fees."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "We will lead the fight for real action to stop climate change by making Britain a world leader in renewable energy."
+      },
+      {
+        "policyTitle": "Tax Policy",
+        "policyDescription": "Cut the tax bill of ordinary families, no tax on the first £10,000 earned, offset by closing tax loopholes and a 'mansion tax'."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sarah has campaigned against Labour cuts which will see fewer police in Brent.",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Invest in our schools, cut class sizes, abolish unfair tuition fees.",
+      "environment": "Lead the fight for real action to stop climate change, make Britain a leader in renewable energy.",
+      "governance": "Cleaning up MPs expenses",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Closing tax loopholes exploited by the very rich and by the new 'mansion tax'.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": "Sarah has campaigned against Labour cuts which will see fewer police in Brent."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sarah with local service professionals discussing improvements and campaigning against Labour cuts."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Swinson",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "It's TIME TO BUILD A BRIGHTER FUTURE",
+        "content": "For too many people, things aren’t working as they should be. Both the Conservatives and Labour are failing time and again to deliver a better future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Dealing with Brexit",
+        "policyDescription": "Leading the Stop Brexit."
+      },
+      {
+        "policyTitle": "A plan for the future",
+        "policyDescription": "Secure fair funding for Wales, tackle the climate emergency, strengthen our public services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jo Swinson",
+      "otherPartyLeaderCandidate": "Boris Johnson, Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Leading the Stop Brexit.",
+      "economy": "",
+      "education": "",
+      "environment": "tackle the climate emergency",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "strengthen our public services",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "For too many people, things aren’t working as they should be. Both the Conservatives and Labour are failing time and again to deliver a better future.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Whether it’s the Conservatives’ rush to a no-deal Brexit, or the Labour leadership’s failure to root out anti-Semitism, both have failed in compassion and competence.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

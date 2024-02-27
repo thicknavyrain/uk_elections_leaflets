@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "George Jabbour",
+    "constituency": "Inverclyde",
+    "politicalParty": "Scottish Conservative and Unionist",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "SECURING SCOTLAND’S FUTURE",
+        "content": "Real change for the better with the Scottish Conservatives."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Grow the economy and create jobs."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Invest in our children's future."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Increase frontline NHS spending."
+      },
+      {
+        "policyTitle": "Fact not Spin",
+        "policyDescription": "First Minister held to account."
+      }
+    ],
+    "mentions": {
+      "candidate": "Your Scottish Conservative and Unionist candidate for Inverclyde.",
+      "otherPartyLeaderCandidate": "Scottish Labour",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "George Jabbour will grow the economy.",
+      "education": "George Jabbour will invest in children's future.",
+      "environment": "",
+      "governance": "George Jabbour promises to hold the First Minister to account with Fact not Spin.",
+      "health": "George Jabbour will ensure increase in frontline NHS spending.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "George Jabbour believes in hard work, meritocracy and equal opportunity.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07365810272",
+      "email": "george.jabbour@scottishconservatives.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@george_jabbour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Real change for the better with the Scottish Conservatives.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A strong voice for Inverclyde"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

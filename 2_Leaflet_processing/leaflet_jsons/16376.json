@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Flick DRUMMOND",
+    "constituency": "Portsmouth South",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Flick DRUMMOND",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.flickdrummond.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Flick DRUMMOND sitting at a table with a drink, with the beach in the background."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

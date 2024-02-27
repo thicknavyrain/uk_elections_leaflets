@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Emily",
+    "constituency": "Islington",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A future fair for all",
+        "content": "The choice on the economy is clear. Through tough times, Labour put people first. The Tories would let the recession run longer and deeper, and help only the richest. The Government stepped in to save people's savings and homes. Now we must continue investing to get the economy growing again."
+      },
+      {
+        "title": "Supporting your family",
+        "content": "Whilst the Tories offer a married man's tax break, Labour is offering real support for families with Tax credits to make work pay, Flexible working hours, Maternity & paternity leave, Guaranteed free nursery places, 3,000 Sure Start centres."
+      },
+      {
+        "title": "A champion for equality",
+        "content": "Emily has been a champion for equality in Parliament—she's been a leading MP in all the battles we have faced for equality for women, ethnic minorities, and the LGBT community. 'Emily led MPs in defending women's road to choice, and has given me invaluable support on the Equality Bill.' - Harriet Harman MP"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Create more jobs & affordable homes, support low & middle earners, protect NHS, schools & police. A plan for recovery will use a bankers' bonus tax and a new rate for the very wealthy so the cost of fighting the recession is spread fairly."
+      }
+    ],
+    "mentions": {
+      "candidate": "Emily",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Labour's deputy Harriet Harman",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Tories want immediate cuts that would put the economic recovery at risk. This risks doubling unemployment to 5 million and a 'decade-long depression' according to Bank of England expert Prof. Blanchflower. The International Monetary Fund (IMF) also criticised the Tory plans, saying 'unwinding public interventions too early could jeopardise progress in securing a sustained economic recovery.' The Tories' priority is a tax cut for Britain's 3,000 wealthiest people whilst axing funding for 1 in 5 Sure Start centres.",
+      "education": "Education or training till 18, More apprenticeships, Unemployment falling in Islington",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Whilst the Tories offer a married man's tax break, Labour is offering real support for families.",
+      "housing": [
+        {
+          "content": "Create more jobs & affordable homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Harriet Harman MP",
+        "endorsement": "Emily led MPs in defending women's road to choice, and has given me invaluable support on the Equality Bill."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Emily in weekly Treasury meetings"
+        },
+        {
+          "caption": "Emily with Labour's deputy Harriet Harman"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

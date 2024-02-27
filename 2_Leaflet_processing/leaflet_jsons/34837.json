@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Meri O'Connell",
+    "constituency": "Reading West",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "JO SWINSON'S PLAN FOR BRITAIN'S FUTURE:",
+        "content": "STOP BREXIT\nTackle the climate emergency\nGive every child the best start in life\nBuild a fairer economy\nTransform our mental health services"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Brexit",
+        "policyDescription": "Stop Brexit and invest the £50 billion Remain Bonus in public services and tackling inequality."
+      },
+      {
+        "policyTitle": "Tackle the climate emergency",
+        "policyDescription": "Generate 80% of electricity from renewables by 2030 and insulate all low-income homes by 2025. Will plant 60 million trees every year to cover 1 million hectares by 2045."
+      },
+      {
+        "policyTitle": "Give every child the best start in life",
+        "policyDescription": "Recruit 20,000 more teachers as part of an extra £10 billion a year for schools."
+      },
+      {
+        "policyTitle": "Build a fairer economy",
+        "policyDescription": "Provide free childcare from 9 months and give every adult £10,000 to spend on skills and training throughout their lives."
+      },
+      {
+        "policyTitle": "Transform our mental health services",
+        "policyDescription": "Treat mental health with the same urgency as physical health."
+      }
+    ],
+    "mentions": {
+      "candidate": "Meri O'Connell",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Boris Johnson",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": "Decent, moderate people are moving to the Lib Dems in the drive towards tactical voting. Only the Lib Dems can beat Leave here."
+    },
+    "issues": {
+      "brexitEurope": "Stop Brexit and invest the £50 billion Remain Bonus in public services and tackling inequality.",
+      "economy": "Provide free childcare from 9 months and give every adult £10,000 to spend on skills and training throughout their lives.",
+      "education": "Recruit 20,000 more teachers as part of an extra £10 billion a year for schools.",
+      "environment": "Generate 80% of electricity from renewables by 2030 and insulate all low-income homes by 2025. Will plant 60 million trees every year to cover 1 million hectares by 2045.",
+      "governance": "",
+      "health": "Treat mental health with the same urgency as physical health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Make big companies pay their fair share of taxes. We must support local businesses, workers and their families, including building more affordable and social housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I'm campaigning to stop Brexit, because I believe we will be thrown into economic disarray in the event of a deal, or a no-deal Brexit. If Brexit happens, we will not have money to focus on the NHS, Education, Social Care, or tackling the climate crisis. Without a strong economy, we can't afford the improvements that we desperately need.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.readinglibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Ken Clarke - Conservative MP for 50 years",
+        "endorsement": "\"Say no to Johnson and Corbyn and all their disarray. Stand tall and vote Lib Dem because of Brexit\""
+      },
+      {
+        "endorser": "Former Conservative Deputy PM, Michael Heseltine",
+        "endorsement": "\"Millions of Tories will now vote Lib Dem because of Brexit\""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I'm not sure yet, but I may have to protest and vote Lib Dem.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "I'm impressed by Jo Swinson. I think if I was living in a lot of constituencies I would vote for the Liberal Democrats.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Meri O'Connell A strong voice for Reading West"
+        },
+        {
+          "caption": "Meri O'Connell Building a brighter future for Reading West"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

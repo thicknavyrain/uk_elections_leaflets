@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Glenn Hall",
+    "constituency": "Tynemouth Constituency",
+    "politicalParty": "Conservatives",
+    "electionDate": "May 7th 2015",
+    "messages": [
+      {
+        "title": "A PERSONAL MESSAGE FOR YOU",
+        "content": "This election is the most important for a generation. It is not only a decision about who we want as Prime Minister, but also who we want as our local MP. A Minister who works at a local, regional and national level. Even though you may not have considered voting Conservative before, I hope you will consider voting for me."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic recovery",
+        "policyDescription": "Secure economic recovery to create more jobs for local people."
+      },
+      {
+        "policyTitle": "Tax and wages",
+        "policyDescription": "Make sure work pays by delivering tax cuts for low and middle earners and fighting for a local living wage."
+      },
+      {
+        "policyTitle": "National Convention",
+        "policyDescription": "Campaign for a 'National Convention' on the future of the health service to take politics out of the NHS."
+      },
+      {
+        "policyTitle": "Youth employment",
+        "policyDescription": "Establish a community college to provide opportunities and skills for young people, offering a real alternative to university."
+      },
+      {
+        "policyTitle": "Local investment",
+        "policyDescription": "Fight for more investment for our roads and infrastructure and ensure we get our fair share from Central Council."
+      },
+      {
+        "policyTitle": "Community representation",
+        "policyDescription": "Provide the imagination, energy and commitment we expect from our MP."
+      }
+    ],
+    "mentions": {
+      "candidate": "Glenn Hall",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "An in/out EU referendum in 2017",
+      "economy": "Income tax cut for 30m people, Benefits capped, The deficit eliminated, Strong and stable leadership",
+      "education": "Establish a community college to provide opportunities and skills for young people",
+      "environment": "Fight for more investment for our roads and infrastructure",
+      "governance": "Strong and stable leadership",
+      "health": "Campaign for a 'National Convention' on the future of the health service to take politics out of the NHS.",
+      "immigration": "Getting immigration under control",
+      "socialWelfare": "Benefits capped",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "This election is the most important for a generation. It is not only a decision about who we want as Prime Minister, but also who we want as our local MP.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.ournextmp.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Glenn Hall with family and supporters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

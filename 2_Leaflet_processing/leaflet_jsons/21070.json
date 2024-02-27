@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tim Dawes",
+    "constituency": "Havant",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "Vote for what you believe in",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public NHS",
+        "policyDescription": "Fight for a publicly funded, publicly provided health service free at the point of use."
+      },
+      {
+        "policyTitle": "Fair Economy",
+        "policyDescription": "Create jobs that pay at least a living wage."
+      },
+      {
+        "policyTitle": "Decent Homes",
+        "policyDescription": "Build 500,000 social rented homes by 2020 and bring empty homes back into use to ensure everyone has an affordable place to live."
+      },
+      {
+        "policyTitle": "Safe Climate",
+        "policyDescription": "Take serious action on climate change by working with other countries to ensure global temperatures do not rise beyond 2 degrees."
+      },
+      {
+        "policyTitle": "Free Education",
+        "policyDescription": "Promote a comprehensive system of local schools offering mixed ability teaching staffed by qualified teachers."
+      },
+      {
+        "policyTitle": "Better Transport",
+        "policyDescription": "Return the railways to public hands to stop profits being put before passengers."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tim Dawes",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Take serious action on climate change by working with other countries to ensure global temperatures do not rise beyond 2 degrees.",
+      "governance": "",
+      "health": "Fight for a publicly funded, publicly provided health service free at the point of use.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Build 500,000 social rented homes by 2020 and bring empty homes back into use.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "02392 470592",
+      "email": "tim-dawes@havantgreens.org.uk",
+      "website": "www.havantgreens.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@TheGreenParty",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Natalie Bennett",
+        "endorsement": "Green Party Leader"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Imagine a political system that puts the public first. Imagine an economy that gives everyone their fair share. Imagine a society capable of supporting everyone's needs. Imagine a planet protected from the threat of climate change now and for the generations to come.",
+        "source": "Natalie Bennett, Green Party Leader",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "VOTE FOR WHAT YOU BELIEVE IN"
+        }
+      ]
+    },
+    "additionalNotes": "Tim and his wife Sue live in South Street, Havant in the heart of the constituency. Their children went to local schools. They run local businesses and are both deeply involved in the community life... A strong believer in arts for everyone, Tim has organised local art exhibitions, musical festivals and is the Director of the popular Havant Literary Festival."
+  }
+}
+```

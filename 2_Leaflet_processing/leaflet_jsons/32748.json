@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Charlotte Hoagland",
+    "constituency": "Witney",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "Thursday 12th December",
+    "messages": [
+      {
+        "title": "",
+        "content": "Dear resident, I'm sure you'd agree with me that the NHS is our most treasured public service."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS investment",
+        "policyDescription": "The Liberal Democrats' plan will invest in the NHS across Britain. It will start to tackle the problems we hear about every week. We will cut waiting times in our NHS, increase access to mental health support and ensure it's properly funded."
+      }
+    ],
+    "mentions": {
+      "candidate": "Charlotte Hoagland",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Charlotte Hoagland emphasizes the tactical importance of the election date for supporting the Liberal Democrat perspective on the NHS."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Commitment to ensuring that mental health is treated with the same urgency as physical health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I know the difference this will make to the lives of so many here in West Oxfordshire.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.charlotte4witney.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Charlotte Hoagland, Liberal Democrat campaigner for Witney constituency."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet references attempts by the Conservatives to privatise cancer screening services and the closures in Oxford, Witney, and Chipping Norton Community Hospitals."
+  }
+}
+```

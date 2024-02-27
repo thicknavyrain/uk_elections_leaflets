@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "West Suffolk",
+    "politicalParty": "The Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A Personal Message from David Cameron",
+        "content": "Thirteen years ago Labour were elected promising change. But today, a lot of people feel let down. Promises on jobs, on managing the economy, on improving schools all came to nothing... We'll get the economy moving and start to rebuild our broken society."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Increase spending and improve the economy by creating 400,000 new apprenticeships, training places and work pairings."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Committed to the NHS, increase its spending."
+      },
+      {
+        "policyTitle": "Social Welfare",
+        "policyDescription": "Better off with local councils to freeze council tax for two years, raise the basic state pension and increase winter fuel payments, free bus passes and free TV licenses for older people."
+      },
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "Keep tax credits, improve Sure Start and providing 4,200 extra Sure Start visitors."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We'll get the economy moving.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Increase spending on the NHS.",
+      "immigration": "",
+      "socialWelfare": "Help people by working with local councils to freeze council tax for two years, raise the basic state pension.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Dear Resident, Thirteen years ago Labour were elected promising change... I hope you take this chance to vote for change.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Printed by St Ives plc, One Caxton Way, Watford",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron interacting with various individuals in different settings."
+        }
+      ]
+    },
+    "additionalNotes": "The choice at this election is clear: five more years of Gordon Brown's tired government making things worse or change with the Conservatives."
+  }
+}
+```

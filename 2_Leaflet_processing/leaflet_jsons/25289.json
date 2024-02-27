@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Luke Parker",
+    "constituency": "Brent North",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 7th May",
+    "messages": [
+      {
+        "title": "Campaign Focus",
+        "content": "Local people want someone who will stand up to Labour run Brent Council, fight the bin tax and champion school choice."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax Cuts",
+        "policyDescription": "Tax cuts for workers and pensions to keep benefits."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Employment is at a record high."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Seven-day NHS will be offered to millions."
+      }
+    ],
+    "mentions": {
+      "candidate": "Luke Parker",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Labour's Brexit shambles: Labour's confusion over Brexit backs division not decision.",
+      "economy": "I'm worried about Labour wrecking the economy locally and nationally.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "A better future for you, your family and Britain.",
+      "immigration": "",
+      "socialWelfare": "Pensions to keep benefits.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm delighted the Conservatives have a real business person standing for Parliament in Brent North. As the MD of an SME I'm worried about Labour wrecking the economy locally and nationally.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Printed by Snap Mailing, Unit 4, Refuge House, 9-10 River Place, 90 York Way, London N1C 4QN. Published and Promoted by Luke Parker on behalf of the Brent North Conservative Association, 209 Preston Road, Wembley, London HA9 8NF.",
+      "phone": "",
+      "email": "",
+      "website": "www.lukeparker.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Mick Iqbal",
+        "endorsement": "I'm delighted the Conservatives have a real business person standing for Parliament in Brent North. As the MD of an SME I'm worried about Labour wrecking the economy locally and nationally."
+      },
+      {
+        "endorser": "Kanta Mistry",
+        "endorsement": "Luke has worked tirelessly to engage with all communities in Brent North; campaigning to rejuvenate the high street, improve local school choice, support families and reward hard work."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Luke Parker with Theresa May"
+        },
+        {
+          "caption": "Luke Parker in the community"
+        },
+        {
+          "caption": "Campaign slogans and contrasts between Conservatives and Labour"
+        }
+      ]
+    },
+    "additionalNotes": "Remembrance: if you haven't sent your postal vote back yet, please take your completed and postal vote pack to any polling station before 10 pm on 7th May."
+  }
+}
+```

@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "David Lammy",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+	  {
+		"title": "This is the most important election in a generation.",
+		"content": "The choice is about the future of our area, local businesses and hard-working families. Britain is on the road to recovery. Don't let the Tories and Lib Dems wreck it."
+	  },
+	  {
+		"title": "5 THINGS TO REMEMBER:",
+		"content": "1. You don't need your polling card to vote\n2. Polls are open 7am - 10pm\n3. If you've got a postal vote, but haven't sent it back yet, you can take it to any polling station before 10pm\n4. if you don't know where your polling station is or you need a lift to vote, call our campaign office on 020 8340 7362\n5. Place a cross(X) next to. Labour. And remember you have 1 vote in the General Election and 3 votes in the Local Elections. Use all your votes for Labour."
+	  }
+	],
+	"keyPolicies": [],
+	"mentions": {
+	  "candidate": "David Lammy",
+	  "otherPartyLeaderCandidate": "",
+	  "partyLeader": "",
+	  "tacticalSituation": ""
+	},
+	"issues": {
+	  "brexitEurope": "",
+	  "economy": "",
+	  "education": "",
+	  "environment": "",
+	  "governance": "",
+	  "health": "",
+	  "immigration": "",
+	  "socialWelfare": "",
+	  "housing": [
+		{
+		  "content": "",
+		  "yimbyNimby": ""
+		}
+	  ]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+	  "address": "39b High Street, London N8",
+	  "phone": "020 8340 7362",
+	  "email": "",
+	  "website": "labour.org.uk",
+	  "socialMedia": {
+		"facebook": "",
+		"twitter": "",
+		"instagram": "",
+		"linkedin": ""
+	  }
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+	  "images": [
+		{
+		  "caption": "GOOD MORNING TODAY IS POLLING DAY IT'S YOUR FUTURE, VOTE FOR IT"
+		}
+	  ]
+	},
+	"additionalNotes": "Please recycle"
+  }
+}
+```

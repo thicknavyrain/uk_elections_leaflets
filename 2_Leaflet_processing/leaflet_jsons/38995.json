@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Julian Sturdy",
+    "constituency": "York Outer",
+    "politicalParty": "Conservative",
+    "electionDate": "12 December 2019",
+    "messages": [
+      {
+        "title": "Conservative Action in York Outer",
+        "content": "Julian Sturdy your Conservative Parliamentary Candidate. Delivering For York Outer."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Better hospitals. Safer streets. Improved schools. A growing economy.",
+        "policyDescription": "Investing an extra £33.9 billion into the NHS. Helping hire more police, improve our schools, and fund public services for a better economy."
+      },
+      {
+        "policyTitle": "Get Brexit Done",
+        "policyDescription": "Supporting Brexit to proceed with other priorities."
+      }
+    ],
+    "mentions": {
+      "candidate": "Julian Sturdy",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Let's get Brexit done – so we can finally get on with the priorities we all share.",
+      "economy": "Better hospitals. Safer streets. Improved schools. A growing economy.",
+      "education": "Improved schools.",
+      "environment": "",
+      "governance": "",
+      "health": "Better hospitals. Investing an extra £33.9 billion into the NHS. Helping hire more nurses, improve local hospital and GP surgeries.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Securing funding for the dualling of the Northern Ring Road.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "For 9 years I have been the Member of Parliament for York Outer, in which time I've worked with residents, volunteer groups & communities to achieve victories on the issues that matter locally.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for York Outer",
+        "duration": "9 years",
+        "achievements": "Working with the Friends of New Earswick Swimming Pool to secure the pool's long-term future; delivering a funding boost for every school; fighting with local residents to improve NHS services, including the first local chemotheraphy unit and life-changing fibrosis drugs now available for patients."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Julian Sturdy with community members."
+        },
+        {
+          "caption": "Local activists joined me in Haxby to launch my campaign."
+        },
+        {
+          "caption": "Speaking with a resident."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

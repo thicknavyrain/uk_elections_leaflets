@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sandy Walkington",
+    "constituency": "St Albans",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "It's a Walkington win or Anne Main back in",
+        "content": "National pollsters agree that St Albans is too close to call. Only the Lib Dems can beat the Conservatives."
+      },
+      {
+        "title": "My contract with you",
+        "content": "I want to be a strong voice for St Albans constituency. I will be there to listen to your concerns and stand up for our community. I will hold regular surgeries in each part of the constituency open all office days a year, answer your queries within a week, ask you every time to complete a constituency-wide survey, not spend a second home at taxpayers expense. No more politics at the taxpayers' expense."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Fairer taxes that put money back in your pocket - Nick Clegg's tax plan will raise the point at which you pay no tax on the first £10,000 you earn, cutting most tax bills by £700."
+      },
+      {
+        "policyTitle": "Green Belt",
+        "policyDescription": "Sandy is fighting to protect our Green Belt. He presented crucial evidence on how the developers got their traffic figures wrong at the Park Street Freight Terminal Inquiry."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Sandy's campaign to get our roads and pavements fixed has struck a chord with local residents as evidenced in results from his constituency-wide survey."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sandy Walkington",
+      "otherPartyLeaderCandidate": "Anne Main",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "St Albans is too close to call. Only the Lib Dems can beat the Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Sandy is fighting to protect our Green Belt.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Sandy is fighting to protect our Green Belt. He presented crucial evidence on how the developers got their traffic figures wrong at the Park Street Freight Terminal Inquiry.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I want to be a strong voice for St Albans constituency. I will be there to listen to your concerns and stand up for our community.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": "Sandy has campaigned for local improvements and for a proper future from rail franchise operators."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "BBC Radio 4 - The World This Weekend",
+        "endorsement": "The main challenger in this constituency Liberal Democrat Sandy Walkington."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sandy Walkington campaigning."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

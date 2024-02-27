@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stephen Mosley",
+    "constituency": "City of Chester",
+    "politicalParty": "Conservative",
+    "electionDate": "May 2010",
+    "messages": [
+      {
+        "title": "Let's make 2010 the year of change",
+        "content": ""
+      },
+      {
+        "title": "BUILDING A WORLD CLASS NHS",
+        "content": "Conservative plans to build a world class NHS that targets the frontline services. Increased spending on health year on year and reduced bureaucracy."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Allocation of funds from lower priorities into vital services to avoid 'more taxing' and 'reckless spending'."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Commitment to increase NHS investment every year; decrease bureaucratic costs and management positions."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Support for new school buildings and restoration projects."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stephen Mosley says 'NHS is my top priority'.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Stephen Mosley's approach for steering the country out of the Debt Crisis and avoiding high taxes.",
+      "education": "Investment in school infrastructure like new buildings and playing fields.",
+      "environment": "The leaflet mentions some local environment projects without detailing any specific policies or stances.",
+      "governance": "",
+      "health": "Highlighting the need for effective management and commitment to investment in the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Commitment to the NHS and involvement in community projects/pride in British history.",
+    "politicalExperience": [
+      {
+        "role": "City of Chester’s MP",
+        "duration": "",
+        "achievements": "Local campaigns, constituency service, work with interest groups and local organizations."
+      }
+    ],
+    "contactInformation": {
+      "address": "Office on 01244 34292",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Cameron",
+        "endorsement": "We will cut the NHS not the bureaucracy."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stephen Mosley with David Cameron"
+        },
+        {
+          "caption": "Stephen Mosley involved in local community projects"
+        },
+        {
+          "caption": "Graph showing how Chester voted at the last General Election"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes historical data on the voting percentages from the previous election and a title 'StepChange', which might suggest some strategic campaigning or political positioning."
+  }
+}
+```

@@ -1,0 +1,65 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alistair Thompson",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "Tom Watson, Westminster's Mr Greedy",
+        "content": "Tom Watson, Westminster's Mr Greedy has spent thousands of pounds of your money on food. It's time to send MPs who abused their expenses a message."
+      },
+      {
+        "title": "Alistair Thompson said",
+        "content": "\"I don't think it is right to expect the taxpayer to pay for trips to Tesco and the mortgage on a second home. I will not claim for these.\" Send a message to MPs who abused their expenses- Vote for change, Vote Conservative on 6th May."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Alistair Thompson",
+      "otherPartyLeaderCandidate": "Tom Watson",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Send a message to MPs who abused their expenses- Vote for change, Vote Conservative on 6th May.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "I don't think it is right to expect the taxpayer to pay for trips to Tesco and the mortgage on a second home. I will not claim for these.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tom Watson, Westminster's Mr Greedy has spent thousands of pounds of your money on food. It's time to send MPs who abused their expenses a message."
+        },
+        {
+          "caption": "Alistair Thompson said: \"I don't think it is right to expect the taxpayer to pay for trips to Tesco and the mortgage on a second home. I will not claim for these.\""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

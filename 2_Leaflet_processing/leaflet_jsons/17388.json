@@ -1,0 +1,72 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dan Greef",
+    "constituency": "South Cambridgeshire",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "",
+        "content": "I will fight for our local communities, to protect our NHS and social care services, and to ensure developers put local peoples' concerns first"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS and Social Care",
+        "policyDescription": "Protect our NHS and social care services."
+      },
+      {
+        "policyTitle": "Housing and Development",
+        "policyDescription": "Ensure developers put local people's concerns first."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dan Greef",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protect our NHS and social care services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Ensure developers put local people's concerns first.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dan Greef - Labour candidate for South Cambridgeshire"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

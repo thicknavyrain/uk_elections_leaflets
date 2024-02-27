@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Apsana Begum",
+    "constituency": "Poplar and Limehouse",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "For the Many Not the Few",
+        "content": "Vote for a Poplar and Limehouse for the many. Vote for our NHS, for investment in schools, education and housing."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investment in Public Services",
+        "policyDescription": "Support for the NHS, schools, education, and housing."
+      }
+    ],
+    "mentions": {
+      "candidate": "Apsana Begum",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Support for investment in schools and education.",
+      "environment": "",
+      "governance": "",
+      "health": "Support for the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Support for investment in housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "07579004244",
+      "email": "info@apsanabegum.com",
+      "website": "https://apsanabegum.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@ApsanaForPL",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "I'M VOTING Labour"
+        },
+        {
+          "caption": "Apsana Begum, Labour candidate for Poplar and Limehouse"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Flick Drummond",
+    "constituency": "Portsmouth South",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Preventing Homelessness",
+        "policyDescription": "Flick is working to prevent homelessness on our streets."
+      },
+      {
+        "policyTitle": "Combating Loneliness",
+        "policyDescription": "Helping with loneliness among older people."
+      },
+      {
+        "policyTitle": "Improving Education",
+        "policyDescription": "Improving education."
+      }
+    ],
+    "mentions": {
+      "candidate": "Flick",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Flick has supported improving education.",
+      "environment": "",
+      "governance": "Flick speaks in Parliament frequently and has taken no personal expenses.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Flick is working to prevent homelessness on our streets.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Flick loves living in Southsea and has been campaigning with people for the last 10 years on the issues that matter to us.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "two years",
+        "achievements": "Flick has supported 4000 people, speaks in Parliament frequently and has taken no personal expenses."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Flick Drummond with Theresa May"
+        },
+        {
+          "caption": "Flick Drummond with supporters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

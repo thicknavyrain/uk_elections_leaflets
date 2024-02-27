@@ -1,0 +1,68 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Phil Woolas",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "May 6",
+    "messages": [
+      {
+        "title": "Will you stand by Phil?",
+        "content": "Please get out. Vote for Phil Woolas. Stop the extremists in their tracks. Now."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "The leaflet suggests a strong stance on illegal immigration, mentioning that 'The Lib Dems plan to give hundreds of thousands of illegal immigrants the right to stay.' It implies opposition to this policy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Phil Woolas",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The leaflet seems to suggest a tactical situation where voting for Phil Woolas's party is presented as a way to 'stop the extremists in their tracks.'"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "The leaflet implies a stance against allowing illegal immigrants to stay.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "c/o 11 Church Lane, Oldham, OL1 3AN",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet page with Phil Woolas and the Labour logo, including imagery of protestors and election messaging."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contains potentially provocative imagery and messaging aimed at highlighting a threat from 'extremists' and positions the candidate as a bulwark against them. It is focused specifically on an immigration issue related to policy by the opposing Liberal Democrats."
+  }
+}
+```

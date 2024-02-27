@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "South Derbyshire",
+    "politicalParty": "The Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A PERSONAL MESSAGE FROM DAVID CAMERON",
+        "content": "Dear Resident, Thirteen years ago Labour were elected promising change. But the truth is, the economy is in a mess and a growing gap between rich and poor, a lot of people feel let down. Perhaps you're one of them. I'm writing to tell you that you don't need to give up hope for a fairer, stronger country. The Conservative Party has the energy and ideas to change Britain."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "The Conservative Party has plans to improve the NHS by increasing spending and improving its condition. Promises to ensure recovery, mean seven out of ten working people will be better off than under Labour."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "The Conservative's economic plan includes creating 400,000 new apprenticeships, training places and work pairings. Aims to stop tax increases that kill the recovery."
+      },
+      {
+        "policyTitle": "Family Support",
+        "policyDescription": "The Conservative Party promises to help your family budget by working with local councils to freeze council tax for two years. Plans to raise the basic state pension with earnings and provide winter fuel payments, keeping tax credits in the most family-friendly country in Europe."
+      },
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "The party commits to providing an extra Sure Start health visitors."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Conservative's economic plan includes creating 400,000 new apprenticeships, training places and work pairings.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The Conservative Party has plans to improve the NHS by increasing spending and improving its condition.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I hope you take this chance to vote for change.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The choice at this election is clear: five more years of Gordon Brown's tired government making things worse or change with the Conservatives.",
+        "source": "David Cameron",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron engaging with the public and colleagues in different settings."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet frames the election as a choice between the incumbent government and the promise of change represented by the Conservative Party."
+  }
+}
+```

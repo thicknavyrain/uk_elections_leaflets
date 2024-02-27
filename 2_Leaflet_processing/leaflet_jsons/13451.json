@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Cllr Gerri Bird",
+    "constituency": "East Chesterton Ward",
+    "politicalParty": "Labour Party",
+    "electionDate": "March 2015",
+    "messages": [
+      {
+        "title": "URGENT - POLICE CUTS",
+        "content": "Cambridge Liberal Democrats are falsely claiming that Labour City councillors have cut policing in the city."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Policing in Cambridge",
+        "policyDescription": "Labour is committed to addressing policing in Cambridge, noting that cuts have not been made to police services, and that funding is a complex issue involving council tax and government grants."
+      }
+    ],
+    "mentions": {
+      "candidate": "Cllr Gerri Bird",
+      "otherPartyLeaderCandidate": "Julian Huppert",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "5, Grieve Court\nCambridge\nCB4 1FR",
+      "phone": "(01223) 457236",
+      "email": "gerrirbird@sky.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Labour Party logo, Cllr Gerri Bird's photo, contact details, and text regarding police cuts."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet disputes claims made by the Liberal Democrats about police cuts in Cambridge and explains Labour's stance on community investment in policing. It also criticizes the waste of public funds by police commissioners' offices and cuts to the police budget by Liberal Democrat MPs."
+  }
+}
+```

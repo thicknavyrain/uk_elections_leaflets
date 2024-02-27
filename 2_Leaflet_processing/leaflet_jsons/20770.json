@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Fell",
+    "constituency": "Barrow & Furness",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investment",
+        "policyDescription": "Will keep investment flowing into our area, support Trident and the jobs it brings."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Will protect Furness General and fight for a good local hospital for local people."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Will improve our roads and the rail line. Furness needs better transport."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Fell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Investment; support Trident and the jobs it brings.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Will protect Furness General and fight for a good local hospital for local people.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.simonfell.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Simon Fell's campaign leaflet detailing his pledges to Barrow & Furness."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

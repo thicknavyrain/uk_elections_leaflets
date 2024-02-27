@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Shona Simpson",
+    "constituency": "Aberdeen South",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "SPEAKING UP FOR YOU IN ABERDEEN SOUTH",
+        "content": "After years of deep division over Brexit and Independence, we need a Labour Government committed to tackling climate change, ending poverty and working for a fairer and more equal society. If you agree it is time to move on, I would welcome your support."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "GIVING YOU THE FINAL SAY ON BREXIT",
+        "policyDescription": "Labour will give the people the final say on Brexit, and the chance to vote to Remain in the EU."
+      },
+      {
+        "policyTitle": "REMAINING IN THE UK",
+        "policyDescription": "We believe Scotland should Remain in the UK, and will oppose another independence referendum."
+      },
+      {
+        "policyTitle": "SUPPORTING THE ENVIRONMENT",
+        "policyDescription": "Labour will use the skills and expertise of North Sea oil workers to help deliver a zero-carbon economy."
+      },
+      {
+        "policyTitle": "INVESTING IN PUBLIC SERVICES",
+        "policyDescription": "Labour will invest in council housing and the NHS, and bring vital services into public ownership."
+      },
+      {
+        "policyTitle": "TACKLING POVERTY AND INEQUALITY",
+        "policyDescription": "We will bring in a real living wage of £10 an hour, and will scrap the failed system of Universal Credit."
+      }
+    ],
+    "mentions": {
+      "candidate": "Shona Simpson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Labour will give the people the final say on Brexit, and the chance to vote to Remain in the EU.",
+      "economy": "",
+      "education": "",
+      "environment": "Labour will use the skills and expertise of North Sea oil workers to help deliver a zero-carbon economy.",
+      "governance": "",
+      "health": "Labour will invest in council housing and the NHS, and bring vital services into public ownership.",
+      "immigration": "",
+      "socialWelfare": "We will bring in a real living wage of £10 an hour, and will scrap the failed system of Universal Credit.",
+      "housing": [
+        {
+          "content": "Labour will invest in council housing",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "After years of deep division over Brexit and Independence, we need a Labour Government committed to tackling climate change, ending poverty and working for a fairer and more equal society. If you agree it is time to move on, I would welcome your support.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "20 Whitehills Gardens, Aberdeen AB12 3ST",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Candidate Shona Simpson with a background scenery"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

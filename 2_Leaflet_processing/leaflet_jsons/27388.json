@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Rosie Duffield",
+	"constituency": "Canterbury",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 8 June",
+	"messages": [
+  	{
+    	"title": "Standing Up For You",
+    	"content": "Why I’m backing Rosie’s plan."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Securing Our NHS",
+    	"policyDescription": "Protecting NHS from Tory underfunding and privatisation, reducing waiting times and improving patient care."
+  	},
+    {
+    	"policyTitle": "Tackling the Tory Housing Crisis",
+    	"policyDescription": "Building new council houses, securing decent housing for all."
+  	},
+  	{
+    	"policyTitle": "Cleaning Up Our Environment and Economy",
+    	"policyDescription": "Opposing developments on greenfield sites, protecting bus services while investing in jobs, and high street regeneration."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Rosie Duffield",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Investing in jobs and high street regeneration.",
+  	"education": "",
+  	"environment": "Opposing developments on greenfield sites, protecting bus services.",
+  	"governance": "",
+  	"health": "Protecting NHS from Tory underfunding and privatisation, reducing waiting times and improving patient care.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Building new council houses, securing decent housing for all.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "Why I’m backing Rosie’s plan.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "Rosie4MP, 12 Belmont Road, Whitstable, CT5 1QP",
+  	"phone": "07826 515161",
+  	"email": "rosie.duffield@canterburylabour.org.uk",
+  	"website": "www.canterburylabour.org.uk",
+  	"socialMedia": {
+    	"facebook": "rosie.duffield.labour",
+    	"twitter": "@RosieDuffield1",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Rosie Duffield with constituents."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

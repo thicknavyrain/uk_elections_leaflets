@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jonathan Chilvers",
+    "constituency": "Warwick and Leamington",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "YES TO EUROPE",
+        "content": "Brexit is a disaster. Greens will give power back to people to decide the way forward with a People's Vote. Greens would campaign to Remain in the EU for the benefit of everyone."
+      },
+      {
+        "title": "NO TO CLIMATE CHAOS",
+        "content": "Greens have led the way for years on tackling climate change. Every vote for the Greens helps speed up climate action. This means cheaper energy, better transport, warmer homes and hundreds of thousands of new decent jobs."
+      },
+      {
+        "title": "A FAIRER BRITAIN",
+        "content": "A Britain of 'us and them' life ruins lives. The only force left to take the bold action needed to transform Britain so it works for everyone again."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "YES TO EUROPE",
+        "policyDescription": "Advocate for a People's Vote on Brexit and campaign to Remain in the EU."
+      },
+      {
+        "policyTitle": "NO TO CLIMATE CHAOS",
+        "policyDescription": "Prioritise climate action to provide cheaper energy, better transport, warmer homes, and create jobs."
+      },
+      {
+        "policyTitle": "A FAIRER BRITAIN",
+        "policyDescription": "Work towards a more equitable society, opposing 'us and them' divisions."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jonathan Chilvers",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Brexit is a disaster. Greens will give power back to people to decide the way forward with a People's Vote. Greens would campaign to Remain in the EU for the benefit of everyone.",
+      "economy": "",
+      "education": "",
+      "environment": "Greens have led the way for years on tackling climate change. Every vote for the Greens helps speed up climate action.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Every vote for the Greens helps speed up climate action. This means cheaper energy, better transport, warmer homes and hundreds of thousands of new decent jobs.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jonathan Chilvers with supporters"
+        },
+        {
+          "caption": "Vote Green Party - Standing up for your community"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

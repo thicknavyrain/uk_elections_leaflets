@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gerald Vernon-Jackson",
+    "constituency": "Portsmouth South Constituency",
+    "politicalParty": "Lib Dem",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "On 7th May you have a clear choice:",
+        "content": "Either local hard working Lib Dem Gerald Vernon-Jackson will be our local MP...risk letting the Tories get away with their wicked cuts."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "AN INCOME TAX CUT",
+        "policyDescription": "A further £400 income tax cut for 29,400 workers across the UK."
+      },
+      {
+        "policyTitle": "BETTER PENSIONS",
+        "policyDescription": "Putting the 'triple lock' on increasing pensions into law."
+      },
+      {
+        "policyTitle": "HELP FOR FAMILIES",
+        "policyDescription": "Continue to tackle the deficit - whilst creating more jobs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Gerald Vernon-Jackson",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "It's extremely close between the Lib Dems and Conservatives in Portsmouth South. Only a vote for Gerald Vernon-Jackson can beat the Tories here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The education budget alone could be cut by up to £25 billion under Tory plans.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Under his leadership, Portsmouth gained nearly 19,000 jobs between 2004-2013 and the city started building council houses again for the first time in a generation.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Gerald has a 12 year track record of standing up for Portsmouth.",
+    "politicalExperience": [
+      {
+        "role": "Leadership in Portsmouth",
+        "duration": "2004-2013",
+        "achievements": "Portsmouth gained nearly 19,000 jobs and started building council houses again for the first time in a generation."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stronger Economy. Fairer Society. Opportunity for Everyone."
+        }
+      ]
+    },
+    "additionalNotes": "The Tories' plans mean public services could be cut by £50 billion. Using textile bank charity cash to fill the controversial council budget."
+  }
+}
+```

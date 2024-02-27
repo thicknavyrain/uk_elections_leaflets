@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Mellen",
+    "constituency": "Rushcliffe",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7th May",
+    "messages": [
+      {
+        "title": "Putting Rushcliffe First",
+        "content": "David Mellen is the Labour candidate for Rushcliffe. He has twenty years' experience of teaching in primary schools including 12 years at Crossdale Primary School in Keyworth and as a head teacher in Radford. David is currently the councillor responsible for children and young people in Nottingham City and organises free basketball in Nottingham as well as being a warden for the Church in West Bridgford as a priority area for representation. If elected, David would be an accessible part of the representative, holding surgeries in every ward of the constituency as responding quickly to the issues raised by constituents. He will work for you, the people of Rushcliffe."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "David Mellen has experience in primary education, including as a head teacher, and is involved in organizing activities for youth."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Labour will give a guaranteed appointment with your GP within 48 hours."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Labour pledges to raise the minimum wage to £8 per hour within the next Parliament."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Labour will cap gas and electricity prices until at least 2017."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Labour will abolish the unfair 'bedroom tax'."
+      },
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "Labour will introduce 25 hours of free childcare for 3 and 4 year olds."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Mellen",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "David Mellen has twenty years' experience of teaching in primary schools.",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will give a guaranteed appointment with your GP within 48 hours.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour will abolish the unfair 'bedroom tax'.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "David Mellen has a history in education and community engagement, wants to be an accessible and responsive part of the constituency, and organizes free basketball and church warden duties.",
+    "politicalExperience": [
+      {
+        "role": "Councillor for Children and Young People",
+        "duration": "",
+        "achievements": "Organises free basketball in Nottingham and performs church warden duties in West Bridgford."
+      }
+    ],
+    "contactInformation": {
+      "address": "447 Meadow Lane Nottingham NG2 3GB",
+      "phone": "07759 829654",
+      "email": "rushcliffe4labour@co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "david.mellen4rushcliffe",
+        "twitter": "@dm4rushcliffe",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Mellen - Labour Parliamentary Candidate for Rushcliffe"
+        },
+        {
+          "caption": "Vote Labour - Thursday 7th May"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

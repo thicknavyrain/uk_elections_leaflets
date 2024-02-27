@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Hemingway",
+    "constituency": "Leeds North West",
+    "politicalParty": "Green Party",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "ELECTION COMMUNICATION",
+        "content": "This election isn't about the next five years. It's about the next fifty years. Only the Green Party is offering real opposition to this Government's extreme Brexit. Every Green vote on 8th June will help make that vision a reality."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Martin Hemingway",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Caroline Lucas and Jonathan Bartley",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Only the Green Party is offering real opposition to this Government's extreme Brexit.",
+      "economy": "To shape an economy for everyone while preserving a safe environment.",
+      "education": "",
+      "environment": "To build affordable homes and provide properly funded public services.",
+      "governance": "And to put power back in your hands through a citizen’s democracy.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "To build affordable homes and provide properly funded public services.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "5 Egerton Drive Leeds, 1 Fern Pippin, Shipley, BD18 3LB",
+      "phone": "",
+      "email": "martin.hemingway@greenparty.org.uk",
+      "website": "headingley.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "/thegreenparty",
+        "twitter": "@GreenLeedsNW",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote for Martin Hemingway on June 8th."
+        }
+      ]
+    },
+    "additionalNotes": "This publication has not been paid for by big business or corporate interests, but has been supported and funded by ordinary people."
+  }
+}
+```

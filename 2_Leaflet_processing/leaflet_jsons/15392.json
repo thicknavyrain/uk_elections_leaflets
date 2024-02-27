@@ -1,0 +1,99 @@
+{
+  "leaflet": {
+    "candidateName": "Michael Rose",
+    "constituency": "St Michaels",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Five things a Labour Government will do for you",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Jobs",
+        "policyDescription": "Introducing a living wage, ensuring secure jobs"
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Ending privatisation, recruiting 20,000 more nurses, 8,000 more GPs"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Reducing class size to under 30 for 5, 6, 7 year-olds"
+      },
+      {
+        "policyTitle": "Homes",
+        "policyDescription": "Building more council homes"
+      },
+      {
+        "policyTitle": "Fair Taxes",
+        "policyDescription": "A fairer taxing system where richest pay more"
+      }
+    ],
+    "mentions": {
+      "candidate": "Steve Fitzsimmons",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Louise Ellman",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Introducing a living wage, ensuring secure jobs",
+      "education": "Reducing class size to under 30 for 5, 6, 7 year-olds",
+      "environment": "",
+      "governance": "",
+      "health": "Ending privatisation, recruiting 20,000 more nurses, 8,000 more GPs",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Building more council homes",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "14 years",
+        "achievements": "Playing a leading part in saving Sefton Park Palm House, fighting for 20mph zones"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Michael Rose with Louise Ellman"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ed Miliband",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "REVEALED: NIGEL FARAGE WANTS TO SCRAP OUR FREE NHS",
+        "content": "Nigel Farage has been caught on camera suggesting the UK should scrap our free NHS and replace it with an American-style healthcare insurance system."
+      },
+      {
+        "title": "LABOUR IS BACKING THE NEXT GENERATION",
+        "content": "Under the Tories, tuition fees have trebled, apprenticeships for young people are falling, and there are over 750,000 unemployed young people. Labour has a better plan."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Controls on Immigration",
+        "policyDescription": "Labour has a plan to control immigration with fair rules, ensuring people who come here won't be able to claim benefits for at least two years, and reducing exploitation of workers to undercut wages."
+      },
+      {
+        "policyTitle": "Labour will cut the deficit every year",
+        "policyDescription": "Labour's plan includes reversing the Tory tax cut for millionaires, imposing a levy on tobacco companies, and cutting down on ministerial cars to help balance the books."
+      },
+      {
+        "policyTitle": "Higher living standards for working families",
+        "policyDescription": "Labour outlines plans to tackle the cost-of-living crisis by freezing energy prices, expanding free childcare for 3 and 4-year-olds to 25 hours, and lowering tuition fees to £6,000."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ed Miliband",
+      "otherPartyLeaderCandidate": "Nigel Farage",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour's plan for a strong economic foundation will balance the books and cut the deficit every year while securing the future of our NHS.",
+      "education": "With Labour, the next government will back the next generation by reducing tuition fees to £6,000, guaranteeing an apprenticeship for every school leaver with the grades.",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will invest £2.5 billion more than the Tories would, to recruit 20,000 nurses and 8,000 GPs, ensuring people don't have to wait for more than a week to see a doctor.",
+      "immigration": "Labour's plan to control immigration includes not allowing people to claim benefits for at least two years and making it illegal for employers to undercut wages by exploiting workers.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "support.labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour will share the burden fairly by reversing the Tory tax cut for millionaires, imposing a levy on tobacco companies, and cutting down on ministerial cars.",
+        "source": "Labour's plan for economy",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

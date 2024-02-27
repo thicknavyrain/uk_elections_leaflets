@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Barry Holliday",
+    "constituency": "Nottingham East",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June 2017",
+    "messages": [
+      {
+        "title": "Barry Holliday - The STRONG voice for us.",
+        "content": "Fighting against Hard Brexit. Standing up for the NHS. Opposing school cuts."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Hard Brexit",
+        "policyDescription": "Barry Holliday and the Liberal Democrats want you to have your say on the final Brexit deal."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "The Liberal Democrats would put a penny in the pound on income tax to raise an additional £6 billion for NHS and social care."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Barry Holliday opposes the Conservative government school cuts. We will invest in schools to ensure no school loses money."
+      }
+    ],
+    "mentions": {
+      "candidate": "Barry Holliday",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Liberal Democrats are the official opposition in Nottingham East."
+    },
+    "issues": {
+      "brexitEurope": "Barry Holliday and the Liberal Democrats want you to have your say on the final Brexit deal.",
+      "economy": "",
+      "education": "Barry Holliday opposes the Conservative government school cuts.",
+      "environment": "",
+      "governance": "",
+      "health": "The Liberal Democrats would put a penny in the pound on income tax to raise an additional £6 billion for NHS and social care.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The Liberal Democrats would put a penny in the pound on income tax to raise an additional £6 billion for NHS and social care.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "434 Huntingdon Road, Nottingham",
+      "phone": "0115 784 5604",
+      "email": "office@nottlibdems.org.uk",
+      "website": "http://nottlibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Barry Holliday with supporters"
+        },
+        {
+          "caption": "Graph showing Liberal Democrats as the official opposition in Nottingham East."
+        },
+        {
+          "caption": "Barry Holliday delivering pamphlets."
+        },
+        {
+          "caption": "Barry Holliday with constituents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

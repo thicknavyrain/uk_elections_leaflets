@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tom McCann",
+    "constituency": "Hampshire North West Constituency",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Liberal Democrats are winning for Britain",
+        "content": "The Liberal Democrats: Run many of our biggest cities including Liverpool, Sheffield and Bristol. Won more votes than Labour in the last elections. Are stronger now than at any time since 1929. Can deliver real change across Britain today."
+      },
+      {
+        "title": "The Lib Dem difference",
+        "content": "The Liberal Democrats will take action to protect frontline NHS services. We will put more police on patrol, restore the pensions' earnings link and deliver fair pay for the armed forces. We can make this pledge because we have identified real savings to pay for it. The Lib Dems are the only party with a plan to balance the country's books after the recession."
+      },
+      {
+        "title": "Help the Lib Dems win",
+        "content": "Please help Tom McCann and the local Lib Dems win for local people by filling in and returning this form."
+      },
+      {
+        "title": "Change that works for you",
+        "content": "Nick Clegg's tax plan means that you will pay no tax on the first £10,000 you earn – cutting most tax bills by £700."
+      },
+      {
+        "title": "Change our NHS: At risk with the Conservatives",
+        "content": "Tory Health spokesman accepted £21,000 donation from private health firm boss. David Cameron meets NHS privatisation campaigners. Key Tory MPs backed call to dismantle NHS."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Nick Clegg's tax plan will ensure no tax on the first £10,000 of your income – reducing most tax bills by £700."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Protect frontline NHS services and highlight contrast with Conservative health policies."
+      },
+      {
+        "policyTitle": "Policing",
+        "policyDescription": "Increase police presence by putting more officers on patrol."
+      },
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "Restore the pensions' earnings link."
+      },
+      {
+        "policyTitle": "Armed Forces",
+        "policyDescription": "Ensure fair pay for the armed forces."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Balance the country's books after the recession by identifying real savings."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tom McCann",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Balance the country's books after the recession by identifying real savings.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protect frontline NHS services and highlight contrast with Conservative health policies.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "",
+        "achievements": "Work on saving Post Offices and Delivery Offices, reducing litter, increasing bus services, and saving local jobs and businesses."
+      }
+    ],
+    "contactInformation": {
+      "address": "North West Hampshire Liberal Democrats FREEPOST RG 1469, Whitchurch, Hampshire RG28 7BR",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg and the Liberal Democrats are winning support across Britain."
+        },
+        {
+          "caption": "Tom McCann with local residents, fighting to save local jobs and services."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

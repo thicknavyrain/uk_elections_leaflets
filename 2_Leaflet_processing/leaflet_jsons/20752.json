@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rupert Read",
+    "constituency": "Cambridge",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "Getting Cambridge Moving",
+        "content": "Having spoken to thousands of residents, we've learned that many of you share our concerns about local transport. Cambridge deserves an affordable and much public transport system. Through careful research we've put together a 'Transport Greenprint' to make Cambridge run more smoothly..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public NHS",
+        "policyDescription": "Fight for a publicly funded, publicly provided health service free at the point of use."
+      },
+      {
+        "policyTitle": "Fair Economy",
+        "policyDescription": "End austerity and restore the public sector, creating jobs that pay well over a living wage. Pay for this with a new wealth tax on the top 1%, and Robin Hood Tax on the banks."
+      },
+      {
+        "policyTitle": "Decent Homes",
+        "policyDescription": "Abolish the cruel and unfair bedroom tax. Build 500,000 social rented homes by 2020 and bring empty homes back into use to ensure everyone can access to an affordable place to live."
+      },
+      {
+        "policyTitle": "Safe Climate",
+        "policyDescription": "Take serious action on climate change by working with other countries to ensure global temperatures do not rise above 2 degrees."
+      },
+      {
+        "policyTitle": "Free Education",
+        "policyDescription": "Scrap university tuition fees. Promote a comprehensive school system including free schooling staffed by fully-qualified teachers."
+      },
+      {
+        "policyTitle": "Better Transport",
+        "policyDescription": "Return the railways to public hands to stop profits being put before passengers. Increase fares a maximum of 1% to give passengers a much-needed price break."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rupert Read",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "End austerity and restore the public sector, creating jobs that pay well over a living wage.",
+      "education": "Scrap university tuition fees. Promote a comprehensive school system including free schooling staffed by fully-qualified teachers.",
+      "environment": "Take serious action on climate change by working with other countries to ensure global temperatures do not rise above 2 degrees.",
+      "governance": "",
+      "health": "Fight for a publicly funded, publicly provided health service free at the point of use.",
+      "immigration": "",
+      "socialWelfare": "Abolish the cruel and unfair bedroom tax.",
+      "housing": [
+        {
+          "content": "Build 500,000 social rented homes by 2020 and bring empty homes back into use to ensure everyone can access to an affordable place to live.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "contact@cambridge.greenparty.org.uk",
+      "website": "http://cambridge.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "CambridgeGreenParty",
+        "twitter": "GreenRupertRead",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Imagine a political system that puts the public first. Imagine an economy that gives everyone their fair share. Imagine a society capable of supporting everyone’s needs...",
+        "source": "Natalie Bennett, Green Party Leader",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Candidate Rupert Read and Green Party Leader Natalie Bennett in front of the Houses of Parliament."
+        }
+      ]
+    },
+    "additionalNotes": "This publication has not been paid for by big business or corporate interests, but has been supported and funded by ordinary people and printed on 100% post-consumer recycled paper."
+  }
+}
+```

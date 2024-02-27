@@ -1,0 +1,70 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lynne Featherstone",
+    "constituency": "Hornsey",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Before your postal vote arrives, I want to tell you why I am standing again to be your MP for the next five years. It's because there is still so much to do - for all the reasons I went into politics in the first place. We need stronger public services. We need to continue to promote fairness and equality. We need to fight for community and for a world where we take care of those less able than ourselves."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public Services",
+        "policyDescription": "Need for stronger public services, promoting fairness and equality, and fighting for the community and those less able."
+      }
+    ],
+    "mentions": {
+      "candidate": "Lynne Featherstone",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The previous Labour Government's closure plans. Saving the Whittington A&E from closure.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "There is still so much to do - for all the reasons I went into politics in the first place.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "Next five years",
+        "achievements": "Saving the Whittington A&E from the previous Labour Government's closure plans."
+      }
+    ],
+    "contactInformation": {
+      "address": "62 High Street, Hornsey, London, N8 7NX",
+      "phone": "020 8347 8214",
+      "email": "Lynne@lynneFeatherstone.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": []
+    },
+    "additionalNotes": "This needs to happen on both a local and national level - and I believe I have a proven track record on both."
+  }
+}
+```

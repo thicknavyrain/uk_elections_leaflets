@@ -1,0 +1,53 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Cass MacGregor",
+    "constituency": "Glasgow North",
+    "politicalParty": "Scottish Green Party",
+    "electionDate": "Thursday December 12",
+    "messages": [
+      {
+        "title": "DEMAND CLIMATE ACTION!",
+        "content": "The clearest and loudest way you can demand urgent action on the climate emergency is by voting Scottish Greens on December 12"
+      },
+      {
+        "title": "A GREEN VOTE IS URGENT",
+        "content": "Our climate is breaking down. This is an unprecedented global emergency and climate scientists are clear that we have just a decade left to radically cut emissions"
+      },
+      {
+        "title": "THE GREENS HAVE A PLAN",
+        "content": "Our Scottish Green New Deal would transform the economy, create hundreds of thousands of jobs in green industries, and slash emissions"
+      },
+      {
+        "title": "A GREEN VOTE SENDS A MESSAGE",
+        "content": "The other parties think that rhetoric and eye-catching targets are enough to get the green vote. They need to see that people demand action"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Climate Action",
+        "policyDescription": "Implement the Scottish Green New Deal to transform the economy, create green jobs, and reduce emissions."
+      }
+    ],
+    "mentions": {
+      "candidate": "I need your help to deliver our message of more jobs in a just, green economy, our determination for a society where everyone can live in dignity, and our belief that Scotland's future is in Europe."
+    },
+    "issues": {
+      "environment": "Our climate is breaking down. This is an unprecedented global emergency and climate scientists are clear that we have just a decade left to radically cut emissions. The Scottish Green New Deal aims to slash emissions."
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {},
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cass MacGregor, your Green candidate for Glasgow North."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet focuses primarily on climate action, with specifics on the Scottish Green New Deal and the urgency of environmental issues."
+  }
+}
+```

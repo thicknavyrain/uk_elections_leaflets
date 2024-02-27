@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stephen Evans",
+    "constituency": "Bury North",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "SEND THE POLITICIANS A MESSAGE... VOTE UKIP Straight talking."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Say NO to mass immigration."
+      },
+      {
+        "policyTitle": "Referendums",
+        "policyDescription": "Say YES to referendums on all major issues."
+      },
+      {
+        "policyTitle": "EU Budget",
+        "policyDescription": "Say NO to wasting £45 million a day in Brussels."
+      },
+      {
+        "policyTitle": "Freedom of Choice",
+        "policyDescription": "A relaxation of the smoking ban to allow pubs and clubs freedom of choice."
+      },
+      {
+        "policyTitle": "Public Planning",
+        "policyDescription": "Major planning decisions involving public places, such as parks, should go to a referendum."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stephen Evans",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "We need to radically change the way this country is governed.",
+      "health": "",
+      "immigration": "Say NO to mass immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Major planning decisions involving public places, such as parks, should go to a referendum.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have lived in Bury for 45 years and married 34 years with one son and three grandchildren and currently working in sales. I believe in freedom of choice, education not legislation, the right for the British people to govern themselves, the return of common sense to Westminster, that Britain comes first and a real justice system. We need to radically change the way this country is governed.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "UK Independence Party, PO Box 408, Newton Abbot TQ12 9BG.",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign leaflet front side featuring VOTE UKIP message."
+        },
+        {
+          "caption": "Campaign leaflet back side featuring candidate Stephen Evans with personal statement, local issues and contact information."
+        }
+      ]
+    },
+    "additionalNotes": "Please place this leaflet in your window."
+  }
+}
+```

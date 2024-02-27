@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stella Creasy",
+    "constituency": "Walthamstow",
+    "politicalParty": "Labour and Co-operative",
+    "electionDate": "Thursday 6 May 2010",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Stella Creasy",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "020 8520 6586",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "All across Walthamstow people like us are deciding to vote for Stella on Thursday to become our next local MP."
+        }
+      ]
+    },
+    "additionalNotes": "Not one of these people is a member of a political party. Every one of them wants Stella to be Walthamstow's next MP."
+  }
+}
+```

@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Richard Harrington",
+    "constituency": "Watford",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Watford's On The Up!",
+        "content": "A growing economy, job creation and huge government investment is making Watford an even better place to live and work."
+      },
+      {
+        "title": "£50MILLION SCHOOLS INVESTMENT",
+        "content": "Over £50 million investment, there is no doubt that the party is dedicated to investing in our schools."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "7,000 new jobs, unemployment down 50%, 3,000 new apprentices"
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Five new hospital wards"
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Extending the Met Line to Watford Junction is brilliant for businesses and commuters."
+      },
+      {
+        "policyTitle": "Schools",
+        "policyDescription": "Investment in local schools with over 2,500 new school places. Highlights include Hollywell Primary School extra places funded, 30 extra places at Warren Dell Primary School, New St. John's C of E Primary School opened in central Watford in September 2016, providing 420 places. New £3 million new building at St. Anthony's Primary, and more places at Cassiobury Junior School."
+      }
+    ],
+    "mentions": {
+      "candidate": "Richard Harrington",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "7,000 new local jobs created, unemployment down 50%",
+      "education": "Over £50 million schools investment. Over 2,500 new school places.",
+      "environment": "",
+      "governance": "",
+      "health": "Five new hospital wards at Watford General.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "There's no doubt that Watford is on the up and I think we should celebrate our area's success!",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": "Securing investments, new jobs creation and the improvement of local schools."
+      }
+    ],
+    "contactInformation": {
+      "address": "30 The Avenue, Watford WD17 4NS",
+      "phone": "01923 296790",
+      "email": "richard@richardharrington.org.uk",
+      "website": "www.richardharrington.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Richard discussing our area's success story with the Prime Minister in Watford."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

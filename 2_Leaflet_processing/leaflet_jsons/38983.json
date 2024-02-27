@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Brian Paddick",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "December",
+	"messages": [
+  	{
+    	"title": "THE CONSERVATIVES' CRIMINAL RECORD:",
+    	"content": "Knife crime has increased by over 75 percent since 2015; homicides are at their highest rate for a decade; robberies and thefts are increasing and almost all go unsolved; there are more and more places in the country where people simply don't see police officers."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "More money for our police",
+    	"policyDescription": "Invest £1 billion to restore community policing, enough for two new police officers in every council ward. Provide a £500 million fund to repair the damage done to youth services. Fully fund an immediate two per cent pay-rise for police officers to support recruitment and retention. End the disproportionate use of Stop and Search."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Brian Paddick",
+  	"otherPartyLeaderCandidate": "Mr Johnson",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "are too distracted by their arguments on Brexit to be able to focus on the urgent problems our public services are facing.",
+  	"economy": "",
+  	"education": "also address other factors such as in-work poverty and school exclusions",
+  	"environment": "",
+  	"governance": "",
+  	"health": "the NHS yet again in crisis, cuts being made to schools, and the police suffering from underfunding",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "I know first-hand how Mr Johnson oversaw the devastation of community policing in London - which is now helping to fuel knife crime violence in the capital.",
+	"politicalExperience": [
+  	{
+    	"role": "Former Deputy Assistant Commissioner, Metropolitan Police Service",
+    	"duration": "",
+    	"achievements": ""
+  	},
+    {
+      "role": "Former Police Commander",
+      "duration": "",
+    	"achievements": ""
+    }
+	],
+	"contactInformation": {
+  	"address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Knife crime hits new record high",
+    	"source": "Independent, October 2019",
+    	"date": "October 2019"
+  	},
+    {
+      "text": "Criminals going unpunished because of cuts, says police chief.",
+      "source": "Guardian, May 2019",
+      "date": "May 2019"
+    }
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "THE CONSERVATIVES' CRIMINAL RECORD showing image of broken window and newspaper headlines."
+    	},
+    	{
+        "caption": "Picture of police officers with the title MORE MONEY FOR OUR POLICE from the LIBERAL DEMOCRAT PLAN."
+      }
+  	]
+	},
+	"additionalNotes": "PS. The Liberal Democrat plan means more police focussed on the community policing that prevents crime and makes people feel safe."
+  }
+}
+```

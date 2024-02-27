@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "A Labour Government?",
+        "content": "On May 8th, don't wake up to the NIGHTMARE. On May 7th you can STOP Labour"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "8-10 Great George Street, London, SW1P 3AE",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A Labour Government? On May 8th, don't wake up to the NIGHTMARE. On May 7th you can STOP Labour"
+        }
+      ]
+    },
+    "additionalNotes": "Printed by Bristow Potter, Walton Road, Portsmouth, PO6 1TR. Printed and promoted by G. Hughes Senior Development Officer at 8-10 Great George Street, London, SW1P 3AE on behalf of the Liberal Democrats."
+  }
+}
+```

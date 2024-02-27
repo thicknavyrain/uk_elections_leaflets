@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 7 May",
+	"messages": [
+  	{
+    	"title": "TOMORROW OUR NHS NEEDS YOU.",
+    	"content": "WE HAVE 24 HOURS TO SAVE OUR NHS."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "WE HAVE 24 HOURS TO SAVE OUR NHS.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "TOMORROW OUR NHS NEEDS YOU. WE HAVE 24 HOURS TO SAVE OUR NHS."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

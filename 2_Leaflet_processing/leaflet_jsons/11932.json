@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jon Ball",
+    "constituency": "Ealing Central & Acton",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday 6 May",
+    "messages": [
+      {
+        "title": "A real chance for a fresh start!",
+        "content": "London opinion polls show the Liberal Democrats on course to make substantial gains in Ealing from both the two old parties."
+      },
+      {
+        "title": "",
+        "content": "The Evening Standard predicts that the new constituency of Ealing Central & Acton will show favourable to Lib Dems. A Metro poll shows the party well ahead of both Conservatives and Labour in London, which would give it big gains in Ealing."
+      },
+      {
+        "title": "Jon Ball fights to save A&E units",
+        "content": "Jon Ball's campaign to save the A&E units at Central Middlesex and Ealing Hospitals, after a leaked NHS document disclosed a threat to close them, has received good support."
+      },
+      {
+        "title": "Local Lib Dems lead fight to protect town centre",
+        "content": "Lib Dems have been in the forefront of the battle against the Conservative Council's proposals for damaging alterations to Acton's town centre."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Jon Ball is campaigning to save the A&E units at local hospitals."
+      },
+      {
+        "policyTitle": "Transport and Congestion",
+        "policyDescription": "Concerns about Ealing's traffic congestion and the potential closure of A&E services threatening the local population."
+      },
+      {
+        "policyTitle": "Public Safety",
+        "policyDescription": "Tom Parkinson addresses the cut of police numbers by the Tory Mayor and the consequences for local safety."
+      },
+      {
+        "policyTitle": "Town Centre Protection",
+        "policyDescription": "Fighting against the Conservative Council's proposals that could alter Acton's town centre detrimentally."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jon Ball",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Jon Ball fights to save A&E units at Central Middlesex and Ealing Hospitals.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Emmanuel Sheehan is passionate about providing good housing for all, with proper community consultation and support for those most in need.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "020 8997 8302",
+      "email": "SouthActon@ealinglibdems.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Local Lib Dems lead fight to protect town centre"
+        }
+      ]
+    },
+    "additionalNotes": "On Thursday 6 May, you have four votes and four Liberal Democrat candidates. The best choice for our new MP... Jon Ball."
+  }
+}
+```

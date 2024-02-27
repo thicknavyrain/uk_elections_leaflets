@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Lidington",
+    "constituency": "Aylesbury",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "High Speed Rail Proposals",
+        "policyDescription": "David Lidington argues for an alternative route for the High Speed 2 (HS2) rail link that would cause less environmental damage."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Lidington",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Expresses concern over the environmental impact of the HS2 rail link on the Aylesbury area.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The HS2 rail link proposed route brings it close to Walton Court, as indicated by the photograph showing the proximity to the brook.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "100 Walton Street, Aylesbury, HP21 7AB",
+      "phone": "",
+      "email": "office@aylesburyconservatives.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "We have to put together the strongest possible case for an alternative route that would cause less environmental damage.",
+        "source": "David Lidington on the High Speed Rail Link",
+        "date": ""
+      },
+      {
+        "text": "Let's make it clear that we are not prepared to blindly accept the route that Labour proposes.",
+        "source": "Theresa Villiers MP, Conservative Transport Spokesman",
+        "date": "March 2010"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Lidington sitting at a table looking at documents."
+        },
+        {
+          "caption": "The line will come close to Walton Court, a photo shows the brook."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet discusses details on how the public can get involved with consultations regarding the HS2 rail link and the importance of getting community input."
+  }
+}
+```

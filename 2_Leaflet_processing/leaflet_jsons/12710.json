@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sandy Walkington",
+    "constituency": "",
+    "politicalParty": "Lib Dem",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "It's a two horse race here!",
+        "content": "Polling stations are open from 7am - 10pm. You don't need to have your polling card to vote. If you have a postal vote and have forgotten to send it in, you can still take it to the polling station. For a lift to the polling station call [PHONE NUMBER]"
+      },
+      {
+        "title": "After sixty-five years, they've got nothing new to offer...",
+        "content": "Tories intensify personal attacks on Nick Clegg. Desperate Labour in smear bid. Just the same old scare stories and the same old negative politics."
+      },
+      {
+        "title": "This time we can do things differently",
+        "content": "Only the Lib Dems offer real change"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "No tax on the first £10,000 you earn"
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Cut NHS admin to protect frontline services"
+      },
+      {
+        "policyTitle": "Military",
+        "policyDescription": "3000 more police on patrol"
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Proper equipment for Britain's Armed Forces"
+      }
+    ],
+    "mentions": {
+      "candidate": "Sandy Walkington",
+      "otherPartyLeaderCandidate": "Tories intensify personal attacks on Nick Clegg. Desperate Labour in smear bid",
+      "partyLeader": "Nick Clegg now in contention as potential PM",
+      "tacticalSituation": "It's a two horse race here! Can't win here [Lab]. Lib Dem 44% Con 33% Lab 12% Others 11%. Ladbrokes make it evens on a Lib Dem win here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "No tax on the first £10,000 you earn",
+      "education": "",
+      "environment": "",
+      "governance": "Proper equipment for Britain's Armed Forces",
+      "health": "Cut NHS admin to protect frontline services",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01727 855523",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Only the Lib Dems offer real change",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images depicting candidate Sandy Walkington, Nick Clegg, and two opposing party candidates with emphasized negative messaging."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

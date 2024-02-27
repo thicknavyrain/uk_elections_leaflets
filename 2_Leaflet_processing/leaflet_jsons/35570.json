@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dionne Cocozza",
+    "constituency": "Glasgow North",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "I AM READY",
+        "content": "I am from Glasgow and have lived here for many years. It's a privilege to be your Brexit Party Parliamentary Candidate at the General Election. I am not a career politician. I have worked as a fitness instructor for many years. Our broken political system has failed to deliver the Brexit that 52 percent of us voted for. Like many, I have lost trust in politics. As your MP I would build homes on brownfield sites to help solve the housing crisis. Whether fighting for Brexit and democracy, or standing up for local people, I will be a strong voice for Glasgow North."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "To abolish inheritance tax",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "To invest £200 billion in our neglected regions — creating well paid, highly skilled jobs",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "To break free from the EU Customs Union",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "To defend our fishing industry",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "To tackle homelessness with affordable housing",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Dionne Cocozza",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Our broken political system has failed to deliver the Brexit that 52 percent of us voted for.",
+      "economy": "To invest £200 billion in our neglected regions — creating well paid, highly skilled jobs",
+      "education": "",
+      "environment": "",
+      "governance": "Our broken political system has failed to deliver the Brexit that 52 percent of us voted for.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "As your MP I would build homes on brownfield sites to help solve the housing crisis.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I am not a career politician. I have worked as a fitness instructor for many years.",
+    "politicalExperience": [
+      {
+        "role": "Fitness Instructor",
+        "duration": "Many years",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "dionne.cocozza@thebrexitparty.org",
+      "website": "www.thebrexitparty.org",
+      "socialMedia": {
+        "facebook": "brexitparty_uk",
+        "twitter": "brexitparty_uk",
+        "instagram": "brexitpartyuk",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dionne Cocozza standing outside with a blurred street background, wearing a green scarf."
+        },
+        {
+          "caption": "The Brexit Party stands for section listing policies, with an image of a smiling man wearing a badge."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

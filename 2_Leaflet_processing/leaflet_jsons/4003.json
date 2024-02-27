@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Lancaster",
+    "constituency": "Milton Keynes North",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Fighting for Milton Keynes",
+        "content": "During that time I have done my best to be a strong voice for Milton Keynes in Parliament and am pleased to have earned the reputation as one of the most vocal MP's in Westminster."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local NHS Funding",
+        "policyDescription": "Mark and the Conservatives are committed to fair funding for Milton Keynes especially our local NHS."
+      },
+      {
+        "policyTitle": "Rail and School Funding",
+        "policyDescription": "Proud to have delivered on many projects from rail to school funding."
+      },
+      {
+        "policyTitle": "Decision on Housing",
+        "policyDescription": "Mark and the Conservatives will let Milton Keynes decide for itself how many new homes should be built, and where."
+      },
+      {
+        "policyTitle": "Rewarding Responsibility",
+        "policyDescription": "Mark and the Conservatives will reward those who take responsibility for themselves and care for those who can't rather than look after those who won't."
+      },
+      {
+        "policyTitle": "Infrastructure Before Expansion",
+        "policyDescription": "Committed to delivering better or new infrastructure before 'Expansion'."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Mark and the Conservatives will let Milton Keynes decide for itself how many new homes should be built, and where.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Milton Keynes is a vibrant community and it has been a privilege and an honor to have served as your MP for the last five years.",
+    "politicalExperience": [
+      {
+        "role": "MP for Milton Keynes",
+        "duration": "Five years",
+        "achievements": "Best to be a strong voice for Milton Keynes in Parliament. Delivered on many projects from rail to school funding."
+      }
+    ],
+    "contactInformation": {
+      "address": "House of Commons, London, SW1A 0AA",
+      "phone": "01908 372308",
+      "email": "lancaster4mk@googlemail.com",
+      "website": "www.lancaster4mk.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mark Lancaster for Milton Keynes North"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alistair Fernie",
+    "constituency": "Oxford East",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Stop Brexit",
+        "content": "Vote for Alistair Fernie and the Liberal Democrats for a brighter future"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Alistair Fernie",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Stop Brexit",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "VOTE FOR Alistair Fernie and the Liberal Democrats for a brighter future for Oxford East"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

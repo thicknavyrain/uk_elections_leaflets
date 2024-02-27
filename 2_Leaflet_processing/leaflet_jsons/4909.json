@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anne Main",
+    "constituency": "St Albans",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "WE CAN'T GO ON LIKE THIS. IT'S TIME FOR CHANGE.",
+        "content": "The general election is less than a month away – a crucial turning moment for Britain. To come out of the recession and is in deep trouble, we need to mend our broken economy, and rebuild trust in our political system."
+      },
+      {
+        "title": "ANNE MAIN FOR ST ALBANS",
+        "content": "My record shows that I have fought hard and effectively for all that people judge me on what I have done for St Albans, for families and for our environment."
+      },
+      {
+        "title": "ANNE'S KEY CAMPAIGN PLEDGES",
+        "content": "To continue giving you a strong voice as your representative in Westminster not Westminster's representative in St Albans."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stronger Voice in Westminster",
+        "policyDescription": "Anne Main pledges to continue giving St Albans a strong voice in Westminster not Westminster's representative in St Albans."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anne Main",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "We will protect spending on the NHS, and improve it for all.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We will stop and scrap the government's expensive home information packs. We will reform housing revenue accounts.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am a fighter who brings together determination and clear judgement serving the families and hard-working people of St Albans.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "104 High Street, London Colney, AL2 1QL",
+      "phone": "01727 825100",
+      "email": "here@tohelpstalbans.com",
+      "website": "www.annemain.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron with a message on leaflet"
+        },
+        {
+          "caption": "Anne Main for St Albans with photograph"
+        }
+      ]
+    },
+    "additionalNotes": "Anne Main emphasizes her effectiveness and dedication to her constituents, focusing on her role as their representative in Westminster. Key pledges include continuing to argue for fair funding, better NHS, more police on the beat, and more schools."
+  }
+}
+```

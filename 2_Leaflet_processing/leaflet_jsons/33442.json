@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Will Forster",
+    "constituency": "Woking",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "",
+        "content": "This election is a once in a generation opportunity to reshape our politics. A chance to reject the tired old politics of the two traditional parties and to support a vision for a fairer and brighter future with the Lib Dems."
+      },
+      {
+        "title": "",
+        "content": "Please support me with your vote on 12th December."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Brexit",
+        "policyDescription": "Will Forster aims to stop Brexit, describing it as a 'huge mistake'. He highlights the potential to invest in public services like NHS and schools, and to fight climate change with a £50 billion 'Remain Bonus'."
+      }
+    ],
+    "mentions": {
+      "candidate": "Will Forster",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The leaflet mentions that the Lib Dems won Woking in the most recent election, the European Parliament elections in May this year, and that all predictions say this election could be really close between the Conservatives and Lib Dems."
+    },
+    "issues": {
+      "brexitEurope": "Will Forster is pro-European and wants to stop Brexit, considering it a mistake.",
+      "economy": "Mentions a £50 billion 'Remain Bonus' that could be invested in public services.",
+      "education": "Implies investment in schools through the use of the 'Remain Bonus'.",
+      "environment": "Implies fighting the threat of climate change through the use of the 'Remain Bonus'.",
+      "governance": "",
+      "health": "Implies investment in the NHS through the use of the 'Remain Bonus'.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Will Forster grew up in Woking and expresses pride in the area. As a local councillor and former mayor, he has helped many people in Woking.",
+    "politicalExperience": [
+      {
+        "role": "Councillor, former mayor",
+        "duration": "",
+        "achievements": "He has helped many people in Woking as a councillor and mayor."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "will@wokinglibdems.org.uk",
+      "website": "www.wokinglibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@willforster",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Will Forster with text stating his role and that he's a life-long Woking resident."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Livsey",
+    "constituency": "Wallasey",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "OUR PLAN FOR BRITAIN",
+        "content": "The EU referendum result was an instruction to change the way our country works, and the way our country works, for the people."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "To make a success of Brexit and ensure that the UK leaves the EU."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Control of immigration and control of our own laws."
+      },
+      {
+        "policyTitle": "Social Issues",
+        "policyDescription": "A fairer society where success is based on merit not privilege; homes that people feel proud to call home."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andy Livsey",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Angela Eagle",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "A vote for UKIP is a wasted vote. They can't win here."
+    },
+    "issues": {
+      "brexitEurope": "To make a success of Brexit and ensure that we leave the EU.",
+      "economy": "Control of immigration and our own laws; more homes built; more jobs and money is being spent to protect our economy.",
+      "education": "",
+      "environment": "",
+      "governance": "Our plan for a united nation that children and grandchildren are proud to call home: strength, fairness, and opportunity.",
+      "health": "Wirral's NHS is treating more people than ever before and extra cash for new radiotherapy is also on the way.",
+      "immigration": "Control of immigration and our own laws.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "More homes being built; more jobs and money is being spent to protect our economy.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.conservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Theresa May",
+        "endorsement": "Only my local candidate can provide strong and stable leadership for Wirral."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Only the Conservatives can deliver Brexit: Labour can't; the Lib Dems won't.",
+        "source": "Campaign Slogan",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andy Livsey with Theresa May"
+        },
+        {
+          "caption": "Councillors alongside Andy Livsey"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

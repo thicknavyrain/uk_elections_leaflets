@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Whitfield",
+    "constituency": "East Lothian",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "MY PLEDGES TO YOU",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "FAIRNESS FOR PENSIONERS",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "HOMES FOR LOCAL PEOPLE",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "MORE SUPPORT FOR SMALL BUSINESSES",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin Whitfield",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "opposing independence and the SNP's obsession with breaking up the UK.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "HOMES FOR LOCAL PEOPLE",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have always put East Lothian first and always will. That includes opposing independence and the SNP's obsession with breaking up the UK.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01875 613020",
+      "email": "martin@scottishlabour.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "martinwhitfieldeastlothian",
+        "twitter": "martwhitfieldmp",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "I'M VOTING Labour"
+        }
+      ]
+    },
+    "additionalNotes": "PLEASE DISPLAY IN YOUR WINDOW"
+  }
+}
+```

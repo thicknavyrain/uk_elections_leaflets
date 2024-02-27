@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Tod",
+    "constituency": "Winchester",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Real change with Martin Tod",
+        "content": "For decades, the Conservatives and Labour have been taking it in turns to run Britain. It's their 'old politics' that have got our country where it is now. We can do things differently. This week we can have real change with Martin Tod and Nick Clegg's Liberal Democrats."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "With the Lib Dems you will get fairer taxes - while the Conservatives want to give millionaires a big tax cut."
+      },
+      {
+        "policyTitle": "NHS services",
+        "policyDescription": "Martin has a strong record of successful campaigning for local NHS services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin Tod",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Only the Lib Dems will deliver real change from Labour. Your vote could decide who wins. Gordon Brown and Labour cannot win here in Winchester."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"It's Martin or the Conservative",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Martin lives in the heart of Winchester and has 18 years' experience in top industrial companies. He will be a strong, independent-minded MP who will always work hard to help residents with their problems.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01962 622210",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Martin Tod engaging with community members"
+        }
+      ]
+    },
+    "additionalNotes": "Polling stations are open from 7 am to 10 pm. If you need a lift call 01962 622210. You do not need your polling card to vote."
+  }
+}
+```

@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John BELL",
+    "constituency": "Wirral South",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "My priorities for Wirral South",
+        "content": "John Bell lists the key areas he will focus on for Wirral South, mentioning local jobs, training, and skills for local people; fighting Labour's taxes on pensioners; protecting vital local library services; and working hard on the issues that matter in Wirral South to secure the area's future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Jobs, training and skills for local people",
+        "policyDescription": "Creating hardworking families - provision of a start on apprenticeships and skilled employment."
+      },
+      {
+        "policyTitle": "Fighting Labour's taxes on pensioners",
+        "policyDescription": "John Bell aims to fight Labour's council tax and reduce local spending, promising no more waste on union consultants and stopping council credit card abuse."
+      },
+      {
+        "policyTitle": "Protecting vital local library services",
+        "policyDescription": "Commitment to fight cuts in library hours, mentioning libraries being about more than just books."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Bell",
+      "otherPartyLeaderCandidate": "Ed Miliband, David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "The leaflet suggests considering the impact of the vote on the national leadership, hinting at tactical voting by asking to prevent Ed Miliband and Alex Salmond from winning."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The leaflet implies support for economic measures taken by the conservatives, with references to jobless fall, welfare reforms, and tax cuts.",
+      "education": "",
+      "environment": "",
+      "governance": "Mentions reducing Labour's council tax and spending on consultants.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Welfare reforms saving the taxpayer money are mentioned.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "johnbellwirral.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Competence and a clear plan.",
+        "source": "Headline next to the candidate's photo.",
+        "date": "N/A"
+      },
+      {
+        "text": "The choice is clear.",
+        "source": "Main headline in the blue section.",
+        "date": "N/A"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Bell pictured with a landscape in the background."
+        },
+        {
+          "caption": "John Bell working on the issues that matter in Wirral South."
+        },
+        {
+          "caption": "Various headlines stating political views and successes."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes the impact of the local vote on the national stage and compares the Conservative candidate with the opposition, suggesting economic competence and clear planning as reasons to vote."
+  }
+}
+```

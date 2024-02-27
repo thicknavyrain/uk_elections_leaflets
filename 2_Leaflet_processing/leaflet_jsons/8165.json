@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nicola Turner",
+    "constituency": "Colne Valley Constituency",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Local people want change",
+        "content": "Local Champion Nicola Turner will win for our area"
+      },
+      {
+        "title": "BRITAIN DECIDES - CHANGE WITH THE LIB DEMS...",
+        "content": "...OR BACK TO CONSERVATIVE CUTS"
+      },
+      {
+        "title": "EXPENSES SCANDAL",
+        "content": "Expenses: Fifth Labour MP Being Investigated"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "More money in your pocket",
+        "policyDescription": "The Lib Dems will deliver fairer taxes, more jobs and help for pensioners."
+      },
+      {
+        "policyTitle": "Protecting our vital services",
+        "policyDescription": "The Lib Dems will protect our NHS and invest in schools and more police."
+      },
+      {
+        "policyTitle": "Cleaning up Politics",
+        "policyDescription": "The Lib Dems will give people the power to sack their MP and clean up Parliament."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nicola Turner",
+      "otherPartyLeaderCandidate": "Labour MP Being Investigated",
+      "partyLeader": "",
+      "tacticalSituation": "Labour can't win here now"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "The Lib Dems will give people the power to sack their MP and clean up Parliament.",
+      "health": "The Lib Dems will protect our NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Local Champion Nicola Turner with supporters"
+        },
+        {
+          "caption": "Nicola Turner with local residents"
+        },
+        {
+          "caption": "SAVE OUR SERVICES banner"
+        },
+        {
+          "caption": "SAVE OUR NHS banner"
+        }
+      ]
+    },
+    "additionalNotes": "Can the Conservatives be TRUSTED with OUR NHS?"
+  }
+}
+```

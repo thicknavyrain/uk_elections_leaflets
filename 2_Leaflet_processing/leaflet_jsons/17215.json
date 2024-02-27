@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Slaughter",
+    "constituency": "Hammersmith, Shepherds Bush and Fulham",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting for our NHS",
+        "policyDescription": "Protect our local hospitals and health services from sell-off and closure."
+      },
+      {
+        "policyTitle": "Fighting for affordable housing and sustainable development",
+        "policyDescription": "Prevent Conservative Party plans to demolish hospitals and affordable homes for unaffordable homes or luxury flats. Support a government that will stand up for everyone in Hammersmith regardless of their background or income."
+      },
+      {
+        "policyTitle": "Fighting to improve Living Standards",
+        "policyDescription": "Keep the economy moving and improve financial services."
+      },
+      {
+        "policyTitle": "Fighting for our Environment",
+        "policyDescription": "React to climate change and pollution by preserving parks and riversides and opposing a third runway at Heathrow."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andy Slaughter",
+      "otherPartyLeaderCandidate": "Conservative Party",
+      "partyLeader": "Jeremy Corbyn",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "React to climate change and pollution by preserving parks and riversides.",
+      "governance": "",
+      "health": "Protect our local hospitals and health services from sell-off and closure.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Prevent demolition of hospitals and affordable homes and construction of unaffordable homes or luxury flats.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have lived in Hammersmith my entire adult life – I wouldn’t want to live anywhere else. I have worked with the community to improve our area and provided effective representation at City Hall and in Parliament. I am proud to serve every part of Hammersmith, regardless of the different interests and needs.",
+    "politicalExperience": [
+      {
+        "role": "City Hall and Parliament representative",
+        "duration": "",
+        "achievements": "Worked with the community to improve our area."
+      }
+    ],
+    "contactInformation": {
+      "address": "28 Greyhound Road, London, W6",
+      "phone": "020 7381 2047",
+      "email": "andy@andyslaughter.com",
+      "website": "www.andyslaughter.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "hammersmithandy",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andy Slaughter with supporters and constituents"
+        },
+        {
+          "caption": "Andy Slaughter speaking at a rally to save local hospital"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

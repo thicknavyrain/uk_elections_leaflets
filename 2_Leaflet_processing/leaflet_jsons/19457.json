@@ -1,0 +1,86 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Manchester",
+    "politicalParty": "Green Party",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Turn Manchester Green",
+        "content": "We aim to create a just and sustainable society, a society that gives everyone their fair share."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Safe climate",
+        "policyDescription": "Serious action to stop climate change by drastically reducing carbon emissions, an end to all UK fracking operations."
+      },
+      {
+        "policyTitle": "Fair economy",
+        "policyDescription": "An end to austerity, a reformed welfare system, a doubled Child Benefit and better pensions, a Living Wage of £10 per hour by 2020, a wealth tax on the richest 1%, a clamp down on tax avoidance, a reduction in risky trading and billions saved by scrapping Trident."
+      },
+      {
+        "policyTitle": "Decent homes",
+        "policyDescription": "500,000 high quality social homes, The Bedroom Tax scrapped, Investment in home insulation to lower energy bills for the poorest 9 million homes."
+      },
+      {
+        "policyTitle": "Better transport",
+        "policyDescription": "Renationalised railways, saving £1.2 billion, improving services and reducing fares, Rather than HS2, support for a nationwide high-speed rail network that serves the whole nation, not just London."
+      },
+      {
+        "policyTitle": "Free education",
+        "policyDescription": "Free undergraduate university education and restoration of Education Maintenance Allowance for 16-17 year olds, a comprehensive nationwide system of good quality pre-school early education and childcare, free at the point of delivery."
+      },
+      {
+        "policyTitle": "Public NHS",
+        "policyDescription": "An end to the privatisation of our NHS"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "An end to austerity, a reformed welfare system, a doubled Child Benefit and better pensions.",
+      "education": "Free undergraduate university education and restoration of Education Maintenance Allowance for 16-17 year olds.",
+      "environment": "Serious action to stop climate change by drastically reducing carbon emissions.",
+      "governance": "",
+      "health": "An end to the privatisation of our NHS",
+      "immigration": "",
+      "socialWelfare": "A reformed welfare system, a doubled Child Benefit and better pensions.",
+      "housing": [
+        {
+          "content": "500,000 high quality social homes, The Bedroom Tax scrapped, Investment in home insulation to lower energy bills for the poorest 9 million homes.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Turn Manchester Green"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

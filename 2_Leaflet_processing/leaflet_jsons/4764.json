@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Zakir Khan",
+    "constituency": "Bethnal Green and Bow",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Zakir Khan",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Serving the community for the last 20 years",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "18 Brick Lane, E1 6RS",
+      "phone": "0785 468 4244",
+      "email": "votezakirkhan@gmail.com",
+      "website": "www.zakirkhan.net",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Zakir Khan with Boris Johnson and a group of people."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet also promotes Conservative council election candidates for Bethnal Green North on 6 May: Nur Baksh, Alan Mak, and Matthew Smith."
+  }
+}
+```

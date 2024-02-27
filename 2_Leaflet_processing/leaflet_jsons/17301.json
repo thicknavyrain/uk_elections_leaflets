@@ -1,0 +1,81 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Marcus",
+    "constituency": "Hampstead and Kilburn",
+    "politicalParty": "Conservative",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Mansion Tax & Council Tax Revaluation Information",
+        "content": "You may think the 'Mansion Tax' won’t affect you, but it could mean a Council Tax rise for almost all homes in Hampstead & Kilburn. Labour’s 'Mansion Tax' is a tax on London. If Ed Miliband wins the election, the value of all properties above £2 million will be taxed at 1% every year, averaging £15,000 a year. In Hampstead & Kilburn, that is nearly 5,000 homes at risk."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Mansion Tax & Council Tax",
+        "policyDescription": "Conservative policy opposes the 'Mansion Tax', suggesting it could lead to a council tax revaluation that would double the bills for properties over £400,000, negatively impact elderly residents, families with mortgages, and those trying to get on the property ladder."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Marcus",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "",
+      "tacticalSituation": "There is only one way you can stop the 'Mansion Tax' and an increase in your Council Tax."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Claim against 'Mansion Tax': Could slow economy, as reported by a Centre for Economics and Business Research and Chartered Surveyors.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The 'Mansion Tax' could force elderly residents, families with mortgages, and hard-working people from their homes. A big rise in Council Tax would hit those getting a foot on the property ladder and saving for the future.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "88 Heath Hurst Road, London, NW3 2RU",
+      "phone": "",
+      "email": "simon@simonmarcus.org.uk",
+      "website": "simonmarcus.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Labour’s Mansion Tax proposal to place heavy burden on South East.",
+        "source": "Zoopla, 'Labour’s Mansion Tax: Floodgates to be Opened', 23rd September 2014"
+      },
+      {
+        "text": "The proposed Mansion Tax on Family Homes in the UK could lead to a fall in property values, slowdown and a £2 billion loss in Stamp Duty and Business Rates.",
+        "source": "Centre for Economics and Business Research, 'Analysis of the Proposed Mansion Tax on Family Homes in the UK', September 2014"
+      },
+      {
+        "text": "The Mansion Tax... would lead to the Royal Institution of Chartered Surveyors being flooded with appeals.",
+        "source": "Jeremy Blackburn, Head of UK Policy, RICS, Response to the RICS Reponse, 23rd September 2014"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet pages outlining arguments against the 'Mansion Tax' proposed by the Labour Party, presented by Simon Marcus, the Conservative Parliamentary Candidate for Hampstead and Kilburn."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

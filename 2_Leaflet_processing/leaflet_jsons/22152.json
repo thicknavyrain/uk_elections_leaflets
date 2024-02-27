@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Cheryl Gillan",
+    "constituency": "Chesham & Amersham",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A strong voice for Chesham & Amersham",
+        "content": "Cheryl has a strong record for standing up for local people and businesses. She works to protect the Chilterns, particularly from HS2, and collaborates with local authorities to support constituents."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local economy",
+        "policyDescription": "Supporting the local economy and businesses to promote job growth."
+      },
+      {
+        "policyTitle": "HS2",
+        "policyDescription": "Continuing her work to protect the Chilterns especially from HS2."
+      },
+      {
+        "policyTitle": "Public services",
+        "policyDescription": "Working for you alongside Councillors, the NHS, Police and local organisations."
+      }
+    ],
+    "mentions": {
+      "candidate": "Cheryl Gillan",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Cheryl is active on the UK Constitutional Renewal issues in Parliament.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Protecting the Chilterns from HS2.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Cheryl Gillan gives a personal message stating she has served as the MP for 23 years, held about 3,000 surgeries, and believes she has probably met more than 60,000 people face to face.",
+    "politicalExperience": [
+      {
+        "role": "Elected MP for Chesham & Amersham",
+        "duration": "Since 1992",
+        "achievements": "Appointed to the Cabinet as Secretary of State for Wales and Shadow Cabinet. Expertise in marketing, law, and international management. Regular surgeries and help with problems. Actively addressing UK constitutional issues. Introduced Autism Act 2009."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01494 673745 / 721577",
+      "email": "cheryl@cherylgillan.co.uk",
+      "website": "www.cherylgillan.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cheryl Gillan with local residents and representatives"
+        },
+        {
+          "caption": "Cheryl Gillan in the community"
+        },
+        {
+          "caption": "Headline snippets on national issues"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contrasts the Conservatives as competent leadership against the perceived risks of a Labour-led coalition. It also indicates Labour's borrowing plans and other parties' stances on various national issues."
+  }
+}
+```

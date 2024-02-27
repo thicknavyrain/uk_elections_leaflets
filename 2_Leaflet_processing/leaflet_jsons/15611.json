@@ -1,0 +1,111 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Newark",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Feb/March 2015",
+    "messages": [
+      {
+        "title": "Lib Dems Highlight True Cost Of Kings Mill Re-Build",
+        "content": "Labour's PFI programme has left us with enormous liabilities."
+      },
+      {
+        "title": "Lib Dem Concern About Kelham Hall Replacement",
+        "content": "Liberal Democrat District Councillor Julian Hamilton has concerning plans to build replacement offices."
+      },
+      {
+        "title": "Lib Dems Welcome EU Decision on Flood Insurance",
+        "content": "Liberal Democrat MEP Catherine Bearder has welcomed the EU Commission's go-ahead to the UK Government's scheme for affordable insurance for homes at risk of flooding."
+      },
+      {
+        "title": "Yes, the Liberal Democrats in Government HAVE made a Difference!",
+        "content": "Figures for the Newark Constituency covering the first three years of the coalition."
+      },
+      {
+        "title": "Meet some of your Local Lib Dem Team",
+        "content": "Newark Lib Dems would like to hear your views."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Kings Mill Hospital Re-Build",
+        "policyDescription": "Addressing the liabilities left by Labour's PFI programme at Kings Mill Hospital."
+      },
+      {
+        "policyTitle": "Flood Insurance",
+        "policyDescription": "Support for the EU Commission's decision on flood insurance, ensuring affordable insurance for homes at risk of flooding."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A Promise of More: In a Future Coalition the Lib Dems aim to...raise the personal allowance to £12,500...saving another £400.",
+      "education": "The Lib Dems have delivered free School meals to infants...Total Pupil Premium Paid to Local Schools.",
+      "environment": "EU decision on Flood Insurance.",
+      "governance": "",
+      "health": "In Coalition the Lib Dems helped to...Protect the NHS Budget.",
+      "immigration": "",
+      "socialWelfare": "A Record of Delivery: Save you £800 per year if you pay tax at the standard rate.",
+      "housing": [
+        {
+          "content": "Kelham Hall Replacement concerns. Plans to build new replacement offices.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "District Councillor",
+        "duration": "",
+        "achievements": "Julian Hamilton has raised concerns about plans to build new offices."
+      },
+      {
+        "role": "MEP",
+        "duration": "",
+        "achievements": "Catherine Bearder welcomed the EU Commission's decision on affordable flood insurance."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "christopher.adams01@btinternet.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lib Dems Highlight True Cost Of Kings Mill Re-Build"
+        },
+        {
+          "caption": "Lib Dems Welcome EU Decision on Flood Insurance"
+        },
+        {
+          "caption": "A Record of Delivery"
+        },
+        {
+          "caption": "A Promise of More"
+        },
+        {
+          "caption": "Meet some of your Local Lib Dem Team"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes specific figures for the Newark Constituency such as jobs created, apprenticeships created, people taken out of income tax, total pupil premium paid, and more."
+  }
+}
+```

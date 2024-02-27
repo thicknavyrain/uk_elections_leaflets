@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Craig Hoy",
+	"constituency": "East Lothian",
+	"politicalParty": "Scottish Conservative and Unionist",
+	"electionDate": "12th December 2019",
+	"messages": [
+  	{
+    	"title": "IT'S GOING TO BE VERY CLOSE HERE.",
+    	"content": "A VOTE FOR LABOUR OR THE LIB DEMS WILL LET THE SNP WIN HERE."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Tactical Voting",
+    	"policyDescription": "Only Craig Hoy can stop the SNP here"
+  	}
+	],
+	"mentions": {
+  	"candidate": "Craig Hoy",
+  	"otherPartyLeaderCandidate": "Nicola Sturgeon",
+  	"partyLeader": "",
+  	"tacticalSituation": "A vote for Labour or the Lib Dems will let the SNP win here."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "4 Church Street, Haddington EH41 3EX",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Images of Craig Hoy with supporters and residents."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

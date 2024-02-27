@@ -1,0 +1,129 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "James Blanchard",
+    "constituency": "York Outer",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "City of York Council: Lib Dems investing in frontline services",
+        "content": "Liberal Democrat councillors, as part of the joint executive, are working hard to protect and invest in crucial frontline services in York."
+      },
+      {
+        "title": "Outcry at Tory Social Care plans",
+        "content": "The Conservative manifesto outlines spending by the social care system funded by the family home after death. James Blanchard said: 'This is a callous attack on the elderly who have saved and own a house. I will always fight these plans.'"
+      },
+      {
+        "title": "Lib Dems pledge to boost forces",
+        "content": "The Lib Dems have pledged to keep the spending on the National Defence Budget at 2% of national income. Leader Tim Farron said: 'Our armed forces are the best in the world and Liberal Democrats recognize that.'"
+      },
+      {
+        "title": "James calls for NHS investment",
+        "content": "James Blanchard, your York Outer Lib Dem candidate is joined by Tim Farron in the fight for the NHS, your local Lib Dem team is fighting for more GPs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investing in frontline services",
+        "policyDescription": "Working hard to protect and invest in York's crucial frontline services."
+      },
+      {
+        "policyTitle": "Opposing Conservative Social Care plans",
+        "policyDescription": "Fighting against the Conservative manifesto's plans for funding social care by the family home after death."
+      },
+      {
+        "policyTitle": "National Defence",
+        "policyDescription": "Pledged to keep the National Defence Budget at 2% of national income."
+      },
+      {
+        "policyTitle": "NHS Investment",
+        "policyDescription": "Fighting for more GPs and investment in the NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "James Blanchard",
+      "otherPartyLeaderCandidate": "Tim Farron",
+      "partyLeader": "Tim Farron",
+      "tacticalSituation": "Don't waste your vote - Labour can't win in York Outer"
+    },
+    "issues": {
+      "brexitEurope": "Brexit is the elephant in the room",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "James Blanchard, your York Outer Lib Dem candidate is joined by Tim Farron in the fight for the NHS, your local Lib Dem team is fighting for more GPs.",
+      "immigration": "",
+      "socialWelfare": "Outcry at Tory Social Care plans",
+      "housing": [
+        {
+          "content": "The Conservative manifesto outlines spending by the social care system funded by the family home after death. James Blanchard said: 'This is a callous attack on the elderly who have saved and own a house. I will always fight these plans.'",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "FREPOST: RSSA-SALE-EUUC, York, YO30 6PQ.",
+      "phone": "",
+      "email": "jamesblanchard@yorklibdems.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Fiona Hall",
+        "endorsement": "Lib Dems work hard for us - you never see the others"
+      },
+      {
+        "endorser": "Keith Aspden",
+        "endorsement": "Don't waste your vote - Labour can't win in York Outer"
+      },
+      {
+        "endorser": "Madeleine Kirk",
+        "endorsement": "You just can't believe a word the Tories say anymore"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "'Budget shows councillors are planning to put an extra £800,000 into the drainage budget'",
+        "source": "York Press, February 2017",
+        "date": "February 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liberal Democrats investing over £20,000,000"
+        },
+        {
+          "caption": "We're backing James Blanchard and the Lib Dem FOCUS team"
+        },
+        {
+          "caption": "It's Lib Dem or Conservative in York Outer"
+        },
+        {
+          "caption": "We're Backing James Blanchard"
+        },
+        {
+          "caption": "A record of action Working all year round for Rural West York"
+        }
+      ]
+    },
+    "additionalNotes": "Brexit is the elephant in the room"
+  }
+}
+```

@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Daniel Zeichner",
+    "constituency": "Cambridge",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Labour's pledges to you",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health and Social Care",
+        "policyDescription": "Repeal the NHS Health and Social Care Act."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Make longer term tenancies the norm, stop rip off charges from landlords and get 200,000 homes built a year."
+      },
+      {
+        "policyTitle": "Jobs and Economy",
+        "policyDescription": "Create 1.5 million new green jobs by 2025, make five million homes energy-efficient within 10 years and make the UK's electricity supply carbon-free by 2030."
+      },
+      {
+        "policyTitle": "Cost-of-Living",
+        "policyDescription": "Tackle the cost-of-living crisis: cap energy bills, increase the minimum wage and back the Living Wage, guarantee working parents 25 hours free childcare for three and four year olds."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Fair but firm action on immigration: making it a criminal offence for companies to only advertise jobs abroad while ensuring Cambridge can attract top talent from abroad."
+      }
+    ],
+    "mentions": {
+      "candidate": "Daniel Zeichner",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Make longer term tenancies the norm, stop rip off charges from landlords and get 200,000 homes built a year.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "A progressive MP who will never prop up the Tories",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Professor Stephen Hawking",
+        "endorsement": "is voting for Labour's Daniel Zeichner"
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Professor Stephen Hawking with Daniel Zeichner"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

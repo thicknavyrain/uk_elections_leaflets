@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "Sheffield Hallam",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "We are the opposition to this hard-line Government.",
+        "content": "Knocking on doors in Hallam, a lot of residents have told me how disappointed they are with the state of the Labour Party. People want a strong opposition to the Conservative Government and if Labour are not up to the job, I know that the Liberal Democrats are."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health Service Investment",
+        "policyDescription": "Putting a penny on income tax to fund our NHS."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Letting the public decide what happens with Brexit – if the Conservatives make a bad deal, then the option to reject it and have the option to remain in Europe."
+      },
+      {
+        "policyTitle": "Education Investment",
+        "policyDescription": "Increasing investment in our schools – an extra £7bn for education which means an extra £36m for Sheffield."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Brexit is the biggest decision that has faced the nation for decades.",
+      "economy": "",
+      "education": "Increasing investment in our schools – an extra £36m for Sheffield to ensure that no school and no child loses out.",
+      "environment": "",
+      "governance": "",
+      "health": "Putting a penny on income tax to fund our NHS – Our health service is the envy of the world.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Dear [Redacted], At the last General Election, I was honoured to be re-elected as your MP. The last 12 years have been a huge privilege. A lot has happened since I was first elected here in 2005. But looking forward, I see a city and a country that is in dire need of a bit of ambition. If you re-elect me as your MP...",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "Since 2005",
+        "achievements": "Re-elected at the last General Election."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.nickclegg.org.uk",
+      "socialMedia": {
+        "facebook": "/nickclegg",
+        "twitter": "@nick_clegg",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Nigel Farage says that Theresa May is now doing what he always wanted to do. A vote for me will be a vote for a decent opposition",
+        "source": "P.S. section on leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Nick Clegg"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "George Turner",
+	"constituency": "Vauxhall",
+	"politicalParty": "Liberal Democrat",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": "This election is your chance to change things. Over the next two years, the UK will negotiate its exit from the European Union. The outcome of those negotiations will affect our country forever."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Brexit",
+    	"policyDescription": "Will fiercely hold the Government to account on Brexit and opposes the Government's hard Brexit plans. Ensures that rights are protected, and will fight for affordable housing and against Conservative cuts to schools and the NHS."
+  	}
+	],
+	"mentions": {
+  	"candidate": "George Turner",
+  	"otherPartyLeaderCandidate": "Kate Hoey",
+  	"partyLeader": "",
+  	"tacticalSituation": "A vote for Labour in Vauxhall is a vote for UKIP."
+	},
+	"issues": {
+  	"brexitEurope": "The UK will negotiate its exit from the European Union. The outcome of those negotiations will affect our country forever. Will ferociously hold the Government to account on Brexit. A vote for Labour in Vauxhall is a vote for UKIP.",
+  	"economy": "",
+  	"education": "Will fight against Conservative cuts to schools.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Will fight against Conservative cuts to the NHS.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Will campaign for better, more affordable housing and against Conservative cuts to schools and the NHS, we can change the future of our country.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "It is vital that during this time Vauxhall has a voice that represents our values, and ensures that the decisions that are going to be taken are the right ones for our community.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "19 Lower Marsh, Lambeth, London, SE1 7RJ",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.george4vauxhall.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Only the Liberal Democrats are speaking out against the hard Brexit.",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Picture of George Turner, Liberal Democrat candidate for Vauxhall."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

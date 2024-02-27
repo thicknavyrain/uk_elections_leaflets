@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Lib Dems",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Expense scandal Tory MP blames jealousy",
+        "content": "Labour MPs charged with false accounting try to claim immunity"
+      },
+      {
+        "title": "Three Labour MPs and one Tory will face criminal charges over their expenses",
+        "content": "We deserve much better than this"
+      },
+      {
+        "title": "But when the Lib Dems put forward plans to clean up Westminster",
+        "content": "Labour and Conservative MPs voted them down"
+      },
+      {
+        "title": "So who are you going to trust to really change things now?",
+        "content": "Don't forget, in many parts of Britain, it's a choice between Labour or the Lib Dems"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Don't forget, in many parts of Britain, it's a choice between Labour or the Lib Dems"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "But when the Lib Dems put forward plans to clean up Westminster, Labour and Conservative MPs voted them down",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Expense scandal Tory MP blames jealousy"
+        },
+        {
+          "caption": "Labour MPs charged with false accounting try to claim immunity"
+        },
+        {
+          "caption": "We deserve much better than this"
+        },
+        {
+          "caption": "But when the Lib Dems put forward plans to clean up Westminster, Labour and Conservative MPs voted them down"
+        },
+        {
+          "caption": "Don't forget, in many parts of Britain, it's a choice between Labour or the Lib Dems"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

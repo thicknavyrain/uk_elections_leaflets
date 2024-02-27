@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dave Dymond",
+    "constituency": "Park Ward",
+    "politicalParty": "Labour",
+    "electionDate": "7 MAY",
+    "messages": [
+      {
+        "title": "ON YOUR SIDE IN PARK WARD",
+        "content": "I want to protect the quality of our local environment and have good schools and good employment opportunities."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Dave Dymond is Labour's candidate for Park Ward in the local council elections this year.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "I want to protect the quality of our local environment",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Dave cares about speaking up for people on local issues and building a legacy to be proud of for future residents.",
+    "politicalExperience": [
+      {
+        "role": "Labour Councillor for Minster Ward",
+        "duration": "over 25 years",
+        "achievements": "He helped save the Stepping Stones centre for disabled adults"
+      },
+      {
+        "role": "Governor at Alfred Sutton Primary School and New Town School",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "Works for the Fire and Rescue Service in Reading",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0791 706 5857",
+      "email": "davedym13@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dave Dymond for Park Ward"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Brown",
+    "constituency": "Skipton and Ripon",
+    "politicalParty": "Green Party",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "VOTE FOR ANDY BROWN ON JUNE 8TH",
+        "content": "Andy has retired from a career which included being Deputy Principal of Keighley College and Director of Young People’s Learning across Yorkshire and the Humber. He writes regularly for the Yorkshire Post Country Section on beekeeping. He is passionate about protecting the environment locally and internationally and an enthusiast for a well organised investment in our services and eventually our valuable education."
+      },
+      {
+        "title": "THE GREEN PARTY STANDS FOR:",
+        "content": "enhancing and improving the environment, a properly funded public health service that you can rely on, building homes people need, modern high tech green businesses, world class education for all children, traditional British values of tolerance, a secure and sustainable future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Enhancing and improving the environment."
+      },
+      {
+        "policyTitle": "Health Service",
+        "policyDescription": "A properly funded public health service that you can rely on."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Building homes people need."
+      },
+      {
+        "policyTitle": "Business",
+        "policyDescription": "Modern high tech green businesses."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "World class education for all children."
+      },
+      {
+        "policyTitle": "British Values",
+        "policyDescription": "Traditional British values of tolerance."
+      },
+      {
+        "policyTitle": "Sustainable Future",
+        "policyDescription": "A secure and sustainable future."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andy Brown"
+    },
+    "issues": {
+      "education": "World class education for all children."
+    },
+    "personalStatement": "Andy has retired from a career which included being Deputy Principal of Keighley College and Director of Young People's Learning across Yorkshire and the Humber. He writes regularly for the Yorkshire Post Country Section on beekeeping. He is passionate about protecting the environment locally and internationally and an enthusiast for a well organised investment in our services and eventually our valuable education.",
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "andy.brown1951@outlook.com",
+      "website": "votegreenandybrown.weebly.com",
+      "socialMedia": {
+        "facebook": "facebook.com/thegreenparty",
+        "twitter": "@thegreenparty",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Andy Brown, YOUR GREEN CANDIDATE."
+        }
+      ]
+    }
+  }
+}
+```

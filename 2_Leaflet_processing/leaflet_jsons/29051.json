@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Dr Jean Davis",
+	"constituency": "the Highlands",
+	"politicalParty": "Scottish Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+	  	{
+    		"title": "The only way to stop the SNP in the Highlands",
+    		"content": "Jean will fight against another divisive independence referendum, oppose the Conservatives' damaging hard Brexit and continue to be a hard working local champion for the Highlands."
+	  	}
+	],
+	"keyPolicies": [
+	  	{
+    		"policyTitle": "Independence Referendum",
+    		"policyDescription": "Jean will fight against another divisive independence referendum."
+	  	},
+	  	{
+    		"policyTitle": "Brexit",
+    		"policyDescription": "Jean will oppose the Conservatives' damaging hard Brexit."
+	  	},
+	  	{
+    		"policyTitle": "Local Advocacy",
+    		"policyDescription": "Jean will continue to be a hard working local champion for the Highlands."
+	  	}
+	],
+	"mentions": {
+  		"candidate": "Dr Jean Davis",
+  		"otherPartyLeaderCandidate": "",
+  		"partyLeader": "",
+  		"tacticalSituation": "The only way to stop the SNP in the Highlands"
+	},
+	"issues": {
+  		"brexitEurope": "Jean will oppose the Conservatives' damaging hard Brexit.",
+  		"economy": "",
+  		"education": "",
+  		"environment": "",
+  		"governance": "Jean will fight against another divisive independence referendum.",
+  		"health": "",
+  		"immigration": "",
+  		"socialWelfare": "",
+  		"housing": [
+    		{
+      		"content":"",
+      		"yimbyNimby": "N/A"
+    		}
+  		]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+	  	{
+    		"role": "",
+    		"duration": "",
+    		"achievements": ""
+	  	}
+	],
+	"contactInformation": {
+  		"address": "",
+  		"phone": "",
+  		"email": "",
+  		"website": "",
+  		"socialMedia": {
+    		"facebook": "",
+    		"twitter": "",
+    		"instagram": "",
+    		"linkedin": ""
+  		}
+	},
+	"endorsements": [
+  		{
+    		"endorser": "",
+    		"endorsement": ""
+  		}
+	],
+	"quotes": [
+	  	{
+    		"text": "",
+    		"source": "",
+    		"date": ""
+	  	}
+	],
+	"campaignMaterial": {
+  		"images": [
+    		{
+      		"caption": "Photo of Dr Jean Davis with a background of a city and greenery."
+    		}
+  		]
+	},
+	"additionalNotes": ""
+  }
+}
+```

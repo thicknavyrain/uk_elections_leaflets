@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Robin Julian",
+    "constituency": "Torridge and West Devon",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Straight talking",
+        "content": "I am an ex-army family man and former special constable farming in Devon."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "No tax rises."
+      },
+      {
+        "policyTitle": "Frontline Services",
+        "policyDescription": "Investment in frontline services, protection for local post offices and local and national industries."
+      },
+      {
+        "policyTitle": "Governance and Trade",
+        "policyDescription": "Achievable by Britain governing itself, while continuing to trade with Europe and the Commonwealth."
+      }
+    ],
+    "mentions": {
+      "candidate": "Robin Julian",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "This can be achieved by Britain governing itself, while continuing to trade with Europe and the Commonwealth.",
+      "health": "All front-line services saved.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "I am an ex-army family man and former special constable farming in Devon.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Robin Julian"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

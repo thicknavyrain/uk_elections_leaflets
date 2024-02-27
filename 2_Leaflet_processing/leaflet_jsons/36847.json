@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Alistair Fernie",
+	"constituency": "Oxford East",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+	  {
+		"title": "MODERATE CONSERVATIVES SPEAK OUT",
+		"content": "Comments from Conservative figures expressing distrust in Boris Johnson and considering supporting the Liberal Democrats."
+	  },
+	  {
+		"title": "JEREMY CORBYN BACKS BREXIT",
+		"content": "Criticism of Jeremy Corbyn's stance on Brexit, suggesting Labour puts remain voters at risk and always voted with Conservative Brexiters."
+	  },
+	  {
+		"title": "YOUR CHOICE FOR THIS ELECTION",
+		"content": "Claims that the Conservatives can't win in Oxford, implying a two-horse race between Labour and the Liberal Democrats."
+	  }
+	],
+	"keyPolicies": [
+	  {
+		"policyTitle": "Brexit",
+		"policyDescription": "The leaflet suggests that Alistair Fernie and the Liberal Democrats are opposed to Brexit, in contrast to the positions of Boris Johnson and Jeremy Corbyn."
+	  }
+	],
+	"mentions": {
+	  "candidate": "Alistair Fernie",
+	  "otherPartyLeaderCandidate": "Jeremy Corbyn, Boris Johnson",
+	  "partyLeader": "",
+	  "tacticalSituation": "It's been 36 years since Tories won in Oxford East and they haven't even elected a councillor since then. Tactical voting suggestion towards Liberal Democrats."
+	},
+	"issues": {
+	  "brexitEurope": "Anti-Brexit stance mentioned, opposing both Conservative and Labour's positions.",
+	  "economy": "",
+	  "education": "",
+	  "environment": "",
+	  "governance": "",
+	  "health": "",
+	  "immigration": "",
+	  "socialWelfare": "",
+	  "housing": [
+		{
+		  "content": "",
+		  "yimbyNimby": "N/A"
+		}
+	  ]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+	  {
+		"role": "",
+		"duration": "",
+		"achievements": ""
+	  }
+	],
+	"contactInformation": {
+	  "address": "",
+	  "phone": "",
+	  "email": "",
+	  "website": "",
+	  "socialMedia": {
+		"facebook": "",
+		"twitter": "",
+		"instagram": "",
+		"linkedin": ""
+	  }
+	},
+	"endorsements": [],
+	"quotes": [
+	  {
+		"text": "I'm impressed by Jo Swinson. I think if I was living in a lot of constituencies I would lend my vote to the Liberal Democrats.",
+		"source": "Former Conservative Minister",
+		"date": ""
+	  },
+	  {
+		"text": "I'm not sure yet, but I may protest and vote Lib Dem.",
+		"source": "Ken Clarke - Conservative MP for 49 years",
+		"date": ""
+	  },
+	  {
+		"text": "Millions of Tories will now vote Lib Dem because of Brexit.",
+		"source": "Former Conservative Deputy PM",
+		"date": ""
+	  }
+	],
+	"campaignMaterial": {
+	  "images": [
+		{
+		  "caption": "Alistair Fernie - Building a brighter future for Oxford East."
+		}
+	  ]
+	},
+	"additionalNotes": "Conservative figures quoted are against Boris Johnson's approach, implying a cross-party support for the Liberal Democrats in the context of Brexit."
+  }
+}
+```

@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+  	"candidateName": "Dan Watkins",
+  	"constituency": "Tooting",
+  	"politicalParty": "Conservatives",
+  	"electionDate": "Thursday 8th June",
+  	"messages": [
+    	{
+      	"title": "Your choice at this election",
+      	"content": "Strong, stable leadership in the national interest OR A coalition of chaos with Jeremy Corbyn"
+    	},
+    	{
+    		"title": "Think Jeremy Corbyn as Prime Minister is never going to happen?",
+    		"content": "DON'T BE SO SURE"
+    	}
+  	],
+  	"keyPolicies": [],
+  	"mentions": {
+    	"candidate": "Dan Watkins",
+    	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+    	"partyLeader": "Theresa May",
+    	"tacticalSituation": ""
+  	},
+  	"issues": {
+    	"brexitEurope": "",
+    	"economy": "The risk is just too big to take: Higher debt, higher taxes, economic chaos",
+    	"education": "",
+    	"environment": "",
+    	"governance": "",
+    	"health": "",
+    	"immigration": "",
+    	"socialWelfare": "",
+    	"housing": [
+      	{
+        	"content": "",
+        	"yimbyNimby": "N/A"
+      	}
+    	]
+  	},
+  	"personalStatement": "I live locally in Earlsfield and know our area well.",
+  	"politicalExperience": [
+    	{
+      	"role": "Candidate for Tooting",
+      	"duration": "2015 and 2016",
+      	"achievements": "Securing investment in local services, championing our high streets and working hard on individual issues raised by residents"
+    	}
+  	],
+  	"contactInformation": {
+    	"address": "",
+    	"phone": "",
+    	"email": "",
+    	"website": "",
+    	"socialMedia": {
+      	"facebook": "",
+      	"twitter": "",
+      	"instagram": "",
+      	"linkedin": ""
+    	}
+  	},
+  	"endorsements": [],
+  	"quotes": [],
+  	"campaignMaterial": {
+    	"images": [
+      	{
+        	"caption": "Dan Watkins with Theresa May."
+      	},
+      	{
+        	"caption": "Dan Watkins at Bingo."
+      	},
+      	{
+        	"caption": "Dan Watkins talking to residents."
+      	}
+    	]
+  	},
+  	"additionalNotes": ""
+  }
+}
+```

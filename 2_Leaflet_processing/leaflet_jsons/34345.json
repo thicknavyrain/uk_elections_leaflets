@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kim Johnson",
+    "constituency": "Liverpool Riverside",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "A STRONG VOICE FOR RIVERSIDE",
+        "content": "Kim Johnson, community activist, lifelong local resident, I've seen our communities devastated by nearly a decade of austerity. Too many of our children live in poverty, too many families rely on foodbanks, and homelessness rises every day. Liverpool, and our country, desperately needs real change. And only a Labour Government can deliver it. I'm proud to be standing on one of Labour's boldest platforms to generation. Together, we will build a society that truly works for everyone."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "BUILDING WEALTH IN THE COMMUNITY",
+        "policyDescription": "Ensure money stays in the community, with the relocalisation of the Treasury to Liverpool, bringing jobs and £150 billion worth of investment. Support 'shares for workers' schemes."
+      },
+      {
+        "policyTitle": "TACKLING RACIAL DISPARITIES",
+        "policyDescription": "Address discriminatory hiring practices and the racial pay gap, while ensuring the voices of diverse communities are heard at policy-making."
+      },
+      {
+        "policyTitle": "FOR A NATIONAL CARE SERVICE",
+        "policyDescription": "Address devastation caused by Tory austerity cuts on health and social care services by providing proper rights and professional care for vulnerable people. Support Labour's pledge to bring forward a National Personal Social Care Plan."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kim Johnson",
+      "otherPartyLeaderCandidate": "The Tories & Lib Dems",
+      "partyLeader": "",
+      "tacticalSituation": "Labour has pledged a referendum in the next 6 months with Remain on the ballot paper."
+    },
+    "issues": {
+      "brexitEurope": "Labour has pledged a referendum in the next 6 months with Remain on the ballot paper.",
+      "economy": "Ensuring money stays in the community, with the relocalisation of the Treasury to Liverpool, bringing jobs and £150 billion worth of investment.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Address devastation caused by Tory austerity cuts on health and social care services by providing proper rights and professional care for vulnerable people.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Kim Johnson, community activist, lifelong local resident, I've seen our communities devastated by nearly a decade of austerity.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "kim4riverside@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@KimLabour1",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "MICHELLE CHARTERS",
+        "endorsement": "I have known Kim for nearly 30 years and in that time have seen her commitment, loyalty, professionalism and leadership on many roles. She is the perfect & memorable role model as Liverpool's Black MP!"
+      },
+      {
+        "endorser": "ROGER PHILLIPS",
+        "endorsement": "I've seen Kim in action at Squash Nutrition, a social enterprise in L8. Kim is driven by a passion for community and the potential of individual performance."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I'm voting Labour",
+        "source": "Election Communication",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "PLEASE DISPLAY IN YOUR WINDOW"
+        }
+      ]
+    },
+    "additionalNotes": "My pledges to you: Stop and Scrap Universal Credit, Free Broadband For All, Public Control of Our Utilities Service, Connecting Communities."
+  }
+}
+```

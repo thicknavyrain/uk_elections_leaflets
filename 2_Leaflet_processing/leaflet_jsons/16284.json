@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Webber",
+    "constituency": "South West Surrey",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "A clear choice",
+        "content": "You have a clear choice on May 7th: more of the same or a vote for real change!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Safeguard the NHS",
+        "policyDescription": "Safeguard the NHS"
+      },
+      {
+        "policyTitle": "Protect the green belt",
+        "policyDescription": "Protect the green belt"
+      },
+      {
+        "policyTitle": "Support business and enterprise",
+        "policyDescription": "Support business and enterprise"
+      },
+      {
+        "policyTitle": "Encourage real local democracy",
+        "policyDescription": "Encourage real local democracy"
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Webber",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Safeguard the NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Protect the green belt",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "My name is Mark, your Parliamentary Candidate for the UK Independence Party. I am standing for election because I believe that we need a fundamental change in the way that this country is governed.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.MarkWebber2015.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mark Webber campaigning leaflet cover image."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

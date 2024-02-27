@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Adam Price",
+    "constituency": "",
+    "politicalParty": "Plaid Cymru - Party of Wales",
+    "electionDate": "2019",
+    "messages": [
+      {
+        "title": "Rhowch ddiwedd ar lanast Brexit",
+        "content": "GYDA PHAID CYMRU - PLIAD FYWAF CYMRU DROS AROS"
+      },
+      {
+        "title": "Stop the Brexit chaos",
+        "content": "WITH PLAID CYMRU - WALES' LEADING PARTY OF REMAIN"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Plaid Cymru stands as the main party opposing Brexit, advocating for staying in the European Union and offering a clear message against Brexit chaos."
+      }
+    ],
+    "mentions": {
+      "candidate": "Adam Price",
+      "otherPartyLeaderCandidate": "Boris Johnson and Jeremy Corbyn",
+      "partyLeader": "Adam Price",
+      "tacticalSituation": "In constituencies across Wales the Liberal Democrats and Green Party are not contesting the candidate - a Plaid Cymru candidate - signalling support for remaining in the European Union."
+    },
+    "issues": {
+      "brexitEurope": "Plaid Cymru - Party of Wales is positioned as the main party advocating for remaining within the European Union, urging for the cancellation of Brexit and sending a clear anti-Brexit message.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Wales is being held back by Westminster.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Adam Price states that 'Wales, it's us' indicating a personal and inclusive approach towards the constituency.",
+    "politicalExperience": [
+      {
+        "role": "Leader of Plaid Cymru",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Ni yw Cymru Wales, it's us",
+        "source": "Adam Price | Arweinydd Plaid Cymru",
+        "date": "2019"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Adam Price with the text 'Ni yw Cymru Wales, it's us'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

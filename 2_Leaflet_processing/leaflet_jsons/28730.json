@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Welsh NHS Special...",
+        "content": "The Conservatives in Westminster are starving the Welsh NHS of funding. The Liberal Democrats are the only party who will provide the funding our NHS needs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "The Liberal Democrats propose to be the only party committed to providing the necessary funding for the NHS in Wales."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The leaflet criticizes the Conservative Party's record on the NHS, arguing that years of funding squeezes have never provided the resources the NHS in Wales needs, putting key services under strain.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The Tory Government are cutting NHS funding, plunging it into crisis.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "Five more years under Theresa May will bring our NHS to its knees.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "Theresa May is trying to ignore the NHS in this election.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Welsh NHS Special leaflet page with statements about NHS funding and criticisms of the Tory government."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Rebecca Fraser",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Opposition to Independence Referendum",
+    	"policyDescription": "Rebecca Fraser will stand firm against IndyRef2."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Rebecca Fraser",
+  	"otherPartyLeaderCandidate": "Nicola Sturgeon’s SNP Candidate",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Rebecca Fraser standing against IndyRef2"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

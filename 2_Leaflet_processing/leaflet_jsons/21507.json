@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Reduce class sizes for 5, 6, and 7-year-olds to a maximum of 30 pupils per class; Guarantee an apprenticeship for every school leaver who gets the basic grades."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Require all firms that get a major government contract and all large firms hiring from outside the EU to offer apprenticeships."
+      },
+      {
+        "policyTitle": "Higher Education",
+        "policyDescription": "Cut tuition fees from £9,000 to £6,000 to tackle the burden of debt facing the next generation."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build 200,000 homes a year, with priority for local first-time buyers in Housing Growth Areas."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Require all firms that get a major government contract and all large firms hiring from outside the EU to offer apprenticeships.",
+      "education": "Reduce class sizes for 5, 6, and 7-year-olds to a maximum of 30 pupils per class; Guarantee an apprenticeship for every school leaver who gets the basic grades.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Build 200,000 homes a year, with priority for local first-time buyers in Housing Growth Areas.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk/pledges",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour will build a country where the next generation can do better than the last."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

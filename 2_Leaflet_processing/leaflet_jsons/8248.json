@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Natalie Bennett",
+    "constituency": "Kentish Town",
+    "politicalParty": "Green Party",
+    "electionDate": "May 2010",
+    "messages": [
+      {
+        "title": "Fairness - time to really tackle inequality",
+        "content": "Green Party candidate Natalie Bennett asks how we plan to address the growing inequality in our society."
+      },
+      {
+        "title": "Green Party: fair is worth fighting for",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Council Housing",
+        "policyDescription": "Green candidates favor a plan where empty properties are refurbished for council housing to solve the homes crisis."
+      },
+      {
+        "policyTitle": "Living Wage",
+        "policyDescription": "Green Party proposes a London 'living wage' of at least £7.60/hour."
+      },
+      {
+        "policyTitle": "Fair Pay",
+        "policyDescription": "Calls for a maximum 10:1 pay ratio in the public sector, to reduce the income gap."
+      }
+    ],
+    "mentions": {
+      "candidate": "Natalie Bennett",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Aims to ensure that 'every child matters' with a fair start in life, including a fair living wage for all and affordable local services.",
+      "housing": [
+        {
+          "content": "Green candidates favor a plan where empty properties are refurbished for council housing to solve the homes crisis.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Lead Green Party candidate for Camden",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Fair is worth fighting for.",
+        "source": "Green Party slogan",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Natalie Bennett standing in front of a housing block."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet is printed on recycled paper using environmentally friendly inks. Please recycle it after you've read it."
+  }
+}
+```

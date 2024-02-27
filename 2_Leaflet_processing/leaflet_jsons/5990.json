@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jeff Burgess",
+    "constituency": "Birmingham Selly Oak",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "SEND THE POLITICIANS A MESSAGE...",
+        "content": "VOTE UKIP"
+      },
+      {
+        "title": "My local issues are",
+        "content": "Ensure that no jobs are lost at Cadbury due to the Kraft takeover, also to ensure Cadbury and its traditions remain in Bournville. Expose the myth of global warming created through the use of falsified figures which are then used to raise excessive taxes."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Say NO to mass immigration"
+      },
+      {
+        "policyTitle": "Referendums",
+        "policyDescription": "Say YES to referendums on all major issues"
+      },
+      {
+        "policyTitle": "EU Spending",
+        "policyDescription": "Say NO to wasting £45 million a day in Brussels"
+      }
+    ],
+    "mentions": {
+      "candidate": "Jeff Burgess",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Expose the myth of global warming created through the use of falsified figures which are then used to raise excessive taxes.",
+      "governance": "",
+      "health": "",
+      "immigration": "Say NO to mass immigration",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Ensure that no jobs are lost at Cadbury due to the Kraft takeover",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "If elected, promises to campaign for standards which have been lost over the years through government neglect and political correctness.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Straight talking. Vote UKIP. Jeff Burgess for Birmingham Selly Oak."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

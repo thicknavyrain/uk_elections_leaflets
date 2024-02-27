@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alan Duncan",
+    "constituency": "Rutland and Melton",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "60 SECOND Q&A",
+        "content": "Answers to various questions on why voting is important, local problems, restoring trust in politicians, and reasons to vote for Alan Duncan."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Alan Duncan",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "After 13 years of Labour's financial mismanagement, the economy is not in great shape. This has damaged vital services and local businesses.",
+      "education": "",
+      "environment": "",
+      "governance": "Restoring trust in politicians is crucial, constituents must know that their MP is working to their best interests.",
+      "health": "A personal commitment to the NHS, increasing spending and improving service for everyone.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Helping with housing or a local business in trouble; have always been there to help.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have campaigned for the constituency, defended local issues, and have the experience in dealing with all levels of government to secure a better deal for constituents.",
+    "politicalExperience": [
+      {
+        "role": "Shadow Prisons Minister",
+        "duration": "",
+        "achievements": "Successfully campaigned against the previous government's proposals to turn Melton Mowbray into a 'Titan Jail' town."
+      }
+    ],
+    "contactInformation": {
+      "address": "136 High Street, Melton Mowbray, Leicestershire, LE13 0TR",
+      "phone": "01664 566666",
+      "email": "alan@alansduncan.org.uk",
+      "website": "www.alanduncan.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "The choice at this election is clear: five more years of Gordon Brown's tired government making things worse or change with the Conservatives.",
+        "source": "David Cameron",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photos of Alan Duncan in various community settings."
+        }
+      ]
+    },
+    "additionalNotes": "Includes a personal message from David Cameron outlining why change in Britain is needed today."
+  }
+}
+```

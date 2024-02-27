@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Joseph Lee",
+    "constituency": "Greenwich West",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "A fresh start for Greenwich West",
+        "content": "The local Liberal Democrat FOCUS team have a record of action for our area. The team are pledging to continue working hard on your behalf if elected on May 6th."
+      },
+      {
+        "title": "LABOUR ISN'T LISTENING",
+        "content": "The Labour majority on Greenwich Council have shown a disregard bordering on contempt for any views except their own."
+      },
+      {
+        "title": "Lib Dems fight for Greenwich's future",
+        "content": "Lucy Mortimer, Ian Gerrard and Anthony Austin are fighting to save Greenwich market from the hands of developers."
+      },
+      {
+        "title": "Change that works for you",
+        "content": "The Liberal Democrats will take action to protect frontline NHS services. We will put more police on patrol, restore the pensions' earnings link and deliver fair pay for the armed forces."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protect Green Spaces",
+        "policyDescription": "Lib Dem team pledges to continue to protect green spaces from development."
+      },
+      {
+        "policyTitle": "Restore Pensions Earnings Link",
+        "policyDescription": "The Liberal Democrats commit to restoring the link between pensions and earnings."
+      },
+      {
+        "policyTitle": "Stop Overdevelopment",
+        "policyDescription": "Fight to save Greenwich market from overdevelopment and stop developers from destroying the historic market site."
+      },
+      {
+        "policyTitle": "NHS and Public Services",
+        "policyDescription": "Protect frontline NHS services and deliver fair pay for the armed forces."
+      }
+    ],
+    "mentions": {
+      "candidate": "Joseph Lee",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "It's a two horse race"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Comments regarding the disregard of the Labour majority on Greenwich Council for views except their own.",
+      "health": "Pledge to protect frontline NHS services.",
+      "immigration": "",
+      "socialWelfare": "Restore the pensions' earnings link and deliver fair pay for the armed forces.",
+      "housing": [
+        {
+          "content": "Campaigning to save Greenwich market from the hands of developers.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "FREEPOST RRJH-HACR-EHZG, LONDON, SE9 3XD",
+      "phone": "07585 230552",
+      "email": "greenwichwest@greenwich-libdems.org.uk",
+      "website": "www.greenwich.libdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Joseph Lee meets with Nick Clegg"
+        },
+        {
+          "caption": "Your local Lib Dem FOCUS Team"
+        }
+      ]
+    },
+    "additionalNotes": "Delivered free by volunteers to Deptford Green, Millenium Quay and Greenwich. Edited by Anthony Austin, Ian Gerrard & Lucy Mortimer."
+  }
+}
+```

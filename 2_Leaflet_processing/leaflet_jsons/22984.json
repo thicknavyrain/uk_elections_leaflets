@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Peter Barton",
+    "constituency": "West Dorset",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Why Vote Green?",
+        "content": "The Green Party is now the third largest political party in England and Wales with over 58,000 members. Support for us has risen because we do not accept the need for austerity which is needlessly punishing the poorest for the mistakes made by the banks. And we are the only party facing up to the issue of climate change. A tactical vote is a wasted vote. If you agree with our policies and share our values: Vote Peter Barton for the Green Party in the General Election, and vote Green in the local elections - we have candidates in almost every part of West Dorset."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Homes",
+        "policyDescription": "Increase the percentage of affordable and low carbon housing in new developments to support local needs, promote high standards of insulation for all homes to help tackle fuel poverty."
+      },
+      {
+        "policyTitle": "Democracy",
+        "policyDescription": "We oppose the undemocratic Cabinet model of local government and would replace it with a much more open Committee arrangement to provide wider, inclusive debates of policy development for local communities."
+      },
+      {
+        "policyTitle": "Energy and Waste",
+        "policyDescription": "We promote community-owned renewable energy and waste management schemes that reuse and recycle, banning throwaway society by reducing zero waste."
+      }
+    ],
+    "mentions": {
+      "candidate": "Peter Barton",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "By ensuring that everyone has access to a secure job that pays at least the Living Wage we will build an economy that works for the common good, not just for the privileged few. By restoring public services to public hands, we will ensure that they are run in the interests of the people that use them.",
+      "education": "scrapping university tuition fees",
+      "environment": "We will take serious action on Climate Change by investing in renewable energy and reducing our reliance on fossil fuels. We will build a stable and sustainable society that helps protect our planet from climate change.",
+      "governance": "We oppose the undemocratic Cabinet model of local government and would replace it with a much more open Committee arrangement to provide wider, inclusive debates of policy development for local communities",
+      "health": "an end to privatisation in the NHS",
+      "immigration": "",
+      "socialWelfare": "By restoring public services to public hands we ensure that they are run in the interest of the people that use them.",
+      "housing": [
+        {
+          "content": "Increase the percentage of affordable and low carbon housing in new developments to support local needs.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "westandsouthdorsetgreenparty@gmail.com",
+      "website": "westandsouthdorset.greenparty.org.uk/elections",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "SWDorsetGreens",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Green for the Common Good"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

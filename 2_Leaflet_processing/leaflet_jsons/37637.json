@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rob",
+    "constituency": "North of Scotland",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "CREATING HIGHLAND JOBS",
+        "content": "Under Rob and the SNP, apprenticeship places in the Highlands have rocketed by a whopping 53%."
+      },
+      {
+        "title": "KEEP THE PRESSURE ON FOR FAIR BROADBAND",
+        "content": "Rob has consistently put pressure on BT to deliver a fair broadband system in the North. Rob says: 'The internet has the power to unlock so many opportunities for the Highlands. With proper connectivity, we can open up our area to more development, which means more jobs. Keeping broadband speeds as they are is damaging the North, and I will keep the pressure on in Edinburgh to deliver fast, fair broadband for our community.'"
+      },
+      {
+        "title": "FIGHTING FOR FAIR FUEL",
+        "content": "At the last election, the Lib Dems and the SNP promised to lower fuel costs in the North. The Lib Dems are in power down in London now, and we’ve seen NO action for our Highland drivers. Rob says: 'I know that up here, a car is a necessity, not a luxury. I still support fair fuel for the North, and I’ll keep the pressure on to deliver it—what we’ve seen from Nick Clegg’s party is sheer high-way robbery.'"
+      },
+      {
+        "title": "A WINNING RECORD FOR THE NORTH",
+        "content": "Rob and the SNP have achieved so much over the past four years. Just think what we could do with four more: FROZEN COUNCIL TAX, ABOLISHED PRESCRIPTION CHARGES, BUILT THOUSANDS OF NEW COUNCIL HOUSES, PROTECTED FREE EDUCATION, CUT CLASS SIZES, INTRODUCED 20,000 NEW APPRENTICESHIPS, PROTECTED THE FREE BUS PASS FOR ELDERLY AND DISABLED SCOTS, 30-HOURS PER WEEK FREE CHILDCARE, TEMPTED UNIVERSITY STATUS FOR THE UHI, MORE FUNDS FOR COLLEGES, AND SO MUCH MORE."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Highland Jobs",
+        "policyDescription": "Increase apprenticeship places in the Highlands, as they have already increased by 53% under Rob and the SNP."
+      },
+      {
+        "policyTitle": "Fair Broadband",
+        "policyDescription": "Continue pressuring BT to improve broadband connectivity in the North, offering more opportunities for development and jobs."
+      },
+      {
+        "policyTitle": "Fair Fuel",
+        "policyDescription": "Advocate for lower fuel costs in the North, recognizing the necessity of cars and the lack of action from competing parties on this issue."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rob has been YOUR man in Edinburgh since 2003.",
+      "otherPartyLeaderCandidate": "Nick Clegg",
+      "partyLeader": "",
+      "tacticalSituation": "At the last election, the Lib Dems and the SNP promised to lower fuel costs in the North. The Lib Dems are now in power down in London but have taken no action for Highland drivers."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "PROTECTED FREE EDUCATION",
+      "environment": "",
+      "governance": "FROZEN COUNCIL TAX, ABOLISHED PRESCRIPTION CHARGES",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "PROTECTED THE FREE BUS PASS FOR ELDERLY AND DISABLED SCOTS, 30-HOURS PER WEEK FREE CHILDCARE",
+      "housing": [
+        {
+          "content": "BUILT THOUSANDS OF NEW COUNCIL HOUSES",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Vote for a Highland Champion. Rob has been YOUR man in Edinburgh since 2003. With a positive attitude and vision for the North, he's ensured that our area has made REAL progress. The North of Scotland has so much potential - vote for a man who gets things done.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament",
+        "duration": "Since 2003",
+        "achievements": "Advocated for and saw progress in the Highlands, including increased apprenticeship places, pressuring BT for fair broadband, fighting for lower fuel costs, and numerous achievements under the SNP."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "One man puts the Highlands first"
+        },
+        {
+          "caption": "Creating Highland Jobs"
+        },
+        {
+          "caption": "Vote for a Highland Champion"
+        },
+        {
+          "caption": "Keep the pressure on for fair broadband"
+        },
+        {
+          "caption": "Fighting for fair fuel"
+        },
+        {
+          "caption": "A winning record for the North"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

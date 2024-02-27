@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "A Labour or a Tory government",
+        "content": "A Labour or a Tory government - it's a two horse race"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "the Tories",
+      "partyLeader": "",
+      "tacticalSituation": "Only a vote for Labour will stop the Tories"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A Labour or a Tory government - it's a two horse race"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet positions the election as a direct contest between Labour and the Tories, suggesting strategic voting to prevent a Tory government."
+  }
+}

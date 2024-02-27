@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Barnett",
+    "constituency": "Dundee West Constituency",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Four steps to a fairer Britain",
+        "content": "1. Fairer taxes that put money back in your pocket\n2. A fair chance for every child\n3. A fair future: create jobs by making Britain greener\n4. A fair deal for you from the politicians"
+      },
+      {
+        "title": "Liberal Democrats change that works for you",
+        "content": "In Scotland there is only one party in a position to challenge Labour's domination of our politics at Westminster - the Scottish Liberal Democrats."
+      },
+      {
+        "title": "Help the Lib Dems win",
+        "content": "Please help the Liberal Democrats win here for local people at this General Election by displaying a poster and helping us deliver our newsletters."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Fairer taxes that put money back in your pocket. Nick Clegg's tax plan means you will pay no tax on the first £10,000 you earn - cutting most tax bills by £700."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "We will pay for smaller class sizes, better discipline and extra help for children who fall behind by cancelling Labour's plan for new child trust funds and scrapping the Government's 'baby bond' scheme."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "A fair future: create jobs by making Britain greener towards in public transport, renewable energy and energy efficient homes."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "A fair deal for you from the politicians. Make politicians accountable and give you the right to sack corrupt MPs."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "The Liberal Democrats will take action to protect frontline NHS services."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Barnett - Dundee West Constituency",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "In Scotland there is only one party in a position to challenge Labour's domination of our politics at Westminster - the Scottish Liberal Democrats. And more and more people are switching to back Lib Dem campaigners up and down the country."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Lib Dems are the only ones with a credible plan for balancing the country's books after the recession.",
+      "education": "We will pay for smaller class sizes, better discipline and extra help for children who fall behind by cancelling Labour's plan for new child trust funds and scrapping the Government's 'baby bond' scheme.",
+      "environment": "A fair future: create jobs by making Britain greener towards in public transport, renewable energy and energy efficient homes.",
+      "governance": "A fair deal for you from the politicians. Make politicians accountable and give you the right to sack corrupt MPs.",
+      "health": "The Liberal Democrats will take action to protect frontline NHS services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Isn't it time you had an MP who fights for you?",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "c/o Dundee Liberal Democrats, 4 Panmure Street, Dundee, DD1 2BW",
+      "phone": "",
+      "email": "",
+      "website": "www.ScotLibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Spending squeeze for NHS despite Darling's promise",
+        "source": "The Independent, 11 Dec 2009",
+        "date": "11 Dec 2009"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Four steps to a fairer Britain"
+        },
+        {
+          "caption": "Liberal Democrats change that works for you"
+        },
+        {
+          "caption": "Labour's record of shame"
+        },
+        {
+          "caption": "Help the Lib Dems win"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

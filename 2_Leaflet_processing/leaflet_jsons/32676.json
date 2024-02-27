@@ -1,0 +1,42 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "CLIVE JOHNSON",
+	"constituency": "Sittingbourne and Sheppey",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 12 December",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "CLIVE JOHNSON",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": []
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "IT'S TIME FOR REAL CHANGE IN SITTINGBOURNE AND SHEPPEY"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

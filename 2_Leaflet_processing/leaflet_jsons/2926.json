@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Leech",
+    "constituency": "South Manchester",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "You don't need me to tell you that things are tough right now for many families.",
+        "content": "Gordon Brown's economic disaster is hitting us all. Soaring prices for petrol, food and heating; the return of negative equity and rising repossessions; businesses failing and unemployment rising. It paints a pretty bleak picture doesn't it?"
+      },
+      {
+        "title": "We need decisive action now to help families in our area deal with this crisis.",
+        "content": "So far, we just aren't getting this from Gordon Brown and Labour. Too often they seem paralysed with fear as everything goes wrong around them. Meanwhile David Cameron's Conservatives are offering little more than criticism of what's going on."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Cutting taxes and improving pensions, lowering energy bills, tough new rules for the city institutions."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Creating more job opportunities with better education and vocational higher education."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Leech has a strong record of action for local people. He is fighting for real change in Britain.",
+      "otherPartyLeaderCandidate": "Gordon Brown helped cause the mess 12 years of LABOUR government has.",
+      "partyLeader": "Vince Cable and Nick Clegg",
+      "tacticalSituation": "Only John Leech can beat Labour here in South Manchester. The Conservatives can't win here!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Gordon Brown's economic disaster is hitting us all with soaring prices for petrol, food and heating; the return of negative equity and rising repossessions; businesses failing and unemployment rising.",
+      "education": "Creating more job opportunities with better education and vocational higher education.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "John Leech has a strong record of action for local people. He is fighting for real change in Britain.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "House of Commons, Westminster, London, SW1A 0AA",
+      "phone": "",
+      "email": "",
+      "website": "www.john-leech.co.uk/blog",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "It's John Leech or Labour here. John Leech MP will get real change for us.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Picture of John Leech"
+        },
+        {
+          "caption": "Labour's DEBT CRISIS Economy in free fall under Labour"
+        }
+      ]
+    },
+    "additionalNotes": "P.S. We need a change from years of let downs under Gordon Brown and Labour. To find out more about what the Lib Dems are doing for you locally, please visit our website."
+  }
+}
+```

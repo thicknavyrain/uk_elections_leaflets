@@ -1,0 +1,103 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Mark Coote",
+	"constituency": "Cheltenham",
+	"politicalParty": "Conservative",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "A WOLRD CLASS NHS",
+    	"content": "Mark said this Government has given the NHS the biggest cash boost in its history and has made sure that money is beginning to reach the front line here in Cheltenham."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "SUPPORT FOR OUR ARMED FORCES",
+    	"policyDescription": "Mark said he will continue to work to ensure that veterans get the support they need."
+  	},
+    {
+      "policyTitle": "SUPPORTING PENSIONERS",
+      "policyDescription": "The Older People’s Fair enabled Mark to showcase local services available to pensioners."
+    },
+    {
+      "policyTitle": "HELP FOR WORKING FAMILIES",
+      "policyDescription": "Mark supports the creation of jobs by backing businesses, cutting taxes for low- and middle-income earners, and ensuring access to education."
+    },
+    {
+      "policyTitle": "RESTORING FAITH IN POLITICS",
+      "policyDescription": "Mark Coote will ensure people's voices are heard in Parliament and push for getting Brexit done."
+    }
+	],
+	"mentions": {
+  	"candidate": "Mark Coote",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Mark Coote will ensure people's voices are heard in Parliament and push for getting Brexit done.",
+  	"economy": "Mark supports the creation of jobs by backing businesses, cutting taxes for low- and middle-income earners.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "Mark Coote will ensure people's voices are heard in Parliament.",
+  	"health": "This Government has given the NHS the biggest cash boost in its history.",
+  	"immigration": "",
+  	"socialWelfare": "The Older People’s Fair showcased local services available to pensioners.",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Mark Coote wants to continue his work to make Cheltenham even better.",
+	"politicalExperience": [
+  	{
+    	"role": "Councillor",
+    	"duration": "10 years",
+    	"achievements": "Funding secured for road improvements and school expansions, helping start Cheltenham's annual jobs fair."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Boris Johnson",
+    	"endorsement": "Mark is working tirelessly to ensure that Cheltenham is properly heard in Westminster."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Mark Coote with Boris Johnson"
+    	},
+    	{
+        "caption": "Mark Coote meeting with people"
+    	},
+    	{
+        "caption": "Mark Coote in local business premises"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

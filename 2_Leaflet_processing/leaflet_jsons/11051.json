@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Caroline Pidgeon",
+    "constituency": "Vauxhall",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "Nick Clegg’s team for change",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fair taxes for all",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "A fair start for children",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Fair, transparent & local politics",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "A fair & sustainable economy",
+        "policyDescription": "To read the Liberal Democrat manifesto in full, visit: www.libdems.org.uk"
+      }
+    ],
+    "mentions": {
+      "candidate": "Caroline Pidgeon",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Zero-tolerance of empty council properties that blight our borough and waste millions in lost rent",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.libdems.org.uk",
+      "socialMedia": {}
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Bishop's Ward Councillors Peter Truesdale, Diana Braithwaite and Gavin Dodsworth"
+        }
+      ]
+    },
+    "additionalNotes": "Liberal Democrats - working hard all year round, not just at election time!"
+  }
+}
+```

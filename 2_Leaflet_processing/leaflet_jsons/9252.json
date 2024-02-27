@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Stuart King",
+	"constituency": "Putney",
+	"politicalParty": "Labour",
+	"electionDate": "6th May",
+	"messages": [
+  	{
+    	"title": "Families first",
+    	"content": "Stuart King, Labour's candidate to be our next MP, will be a vote to protect the huge improvements in local schools since Labour was first elected in 1997."
+  	},
+  	{
+    	"title": "Labour will keep improving your school; the Tories won't",
+    	"content": "The Tories will take money from existing schools to set up new private selective schools. The Tories will axe your child's Trust Fund Labour will keep investing in it. The Tories will close 1 in 5 children's centres Labour will keep them open."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Schools and Education",
+    	"policyDescription": "Commitment to maintaining and continuing the improvement in education. Opposition to Tory plans to take money from existing schools and the promised closure of children's centers."
+  	},
+  	{
+    	"policyTitle": "Child Trust Funds",
+    	"policyDescription": "Promises to preserve and continue investing in children's Trust Funds in contrast to Tory plans to axe them."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Stuart King",
+  	"otherPartyLeaderCandidate": "the Tories, SureStart",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "Labour has improved the schools in Putney since 1997, increasing GCSE passes and reducing class sizes. Critique of Tory plans to fund private selective schools.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "Comments on cutting £200 million from SureStart budgets by Tories.",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.labourwandsworth.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Look how Brandlehow School has improved with Labour"
+    	},
+    	{
+      	"caption": "1 in 5 - That's the number of SureStart Children's Centres that will close as a direct result of their cuts if they win the election."
+    	},
+    	{
+      	"caption": "On Thursday 6th May vote Labour"
+    	},
+    	{
+      	"caption": "We work hard, but without tax credit we would barely be able to get by on nothing extra on help."
+    	},
+    	{
+      	"caption": "The conservatives have made their choice for this election. The losers: hard working families, families with kids and earning more than £16,040 will lose £1,000. The winners: millionaires will get a £200,000 inheritance tax cut."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

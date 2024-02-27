@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Masud Mohammed",
+    "constituency": "Rochdale",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Dear Resident, May I introduce myself as your prospective parliamentary candidate representing the UK Independence Party. I am married with three grown up children and live in Rochdale. I have a good track record in community and comprehensive schools. I have also been involved with various voluntary organisations. I am a working-class person - not from the ruling elite. I am not new to the Rochdale constituency."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Controlled immigration",
+        "policyDescription": "Controlled immigration."
+      },
+      {
+        "policyTitle": "Quit the European Union",
+        "policyDescription": "Quit the European Union and give independence to the British people."
+      },
+      {
+        "policyTitle": "Abolish the bedroom tax",
+        "policyDescription": "Abolish the bedroom tax."
+      },
+      {
+        "policyTitle": "NHS remains free",
+        "policyDescription": "Ensure the NHS remains free at the point of delivery."
+      },
+      {
+        "policyTitle": "More investment in social housing",
+        "policyDescription": "More investment in social housing to meet growing demand."
+      },
+      {
+        "policyTitle": "More investment in careers advice",
+        "policyDescription": "More investment in careers advice and apprenticeships for the young."
+      }
+    ],
+    "mentions": {
+      "candidate": "Masud Mohammed",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Quit the European Union and give independence to the British people.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Ensure the NHS remains free at the point of delivery.",
+      "immigration": "Controlled immigration.",
+      "socialWelfare": "Abolish the bedroom tax.",
+      "housing": [
+        {
+          "content":"More investment in social housing to meet growing demand.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am a working-class person - not from the ruling elite. I am not new to the Rochdale constituency. I am married with three grown up children and live in Rochdale.",
+    "politicalExperience": [
+      {
+        "role": "Chair of a partnership school in Oldham",
+        "duration": "11 years",
+        "achievements": "I have a good track record in community and comprehensive schools."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07874 605 746",
+      "email": "Masud@ukiprochdale.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Masud visiting Rochdale Infirmary"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

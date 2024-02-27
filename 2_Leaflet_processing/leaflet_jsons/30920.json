@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "JOHN LEECH",
+    "constituency": "South Manchester",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "SUPPORT GROWING FOR JOHN LEECH",
+        "content": "John has a visible track record for standing up for our area"
+      },
+      {
+        "title": "BETRAYED OVER BREXIT",
+        "content": "Labour voted with UKIP to trigger a damaging Brexit."
+      },
+      {
+        "title": "Only one party can stop Brexit wrecking Britain - see inside",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Opposition to Brexit",
+        "policyDescription": "John Leech opposed Brexit, supported Remain, and backed calls for a final say given the risks of Brexit."
+      },
+      {
+        "policyTitle": "Support for NHS & Social Care",
+        "policyDescription": "John Leech advocated for proper funding for the NHS and social care."
+      },
+      {
+        "policyTitle": "School Funding",
+        "policyDescription": "John Leech campaigned against school budget cuts."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Leech",
+      "otherPartyLeaderCandidate": "Theresa May, Jeremy Corbyn, Nigel Farage",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Opposed Brexit, supported Remain, backed calls for a final say. Labour and Tories followed through with Brexit.",
+      "economy": "",
+      "education": "Campaigned against school budget cuts.",
+      "environment": "",
+      "governance": "",
+      "health": "Advocated for proper funding for the NHS and social care.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Councillor for Didsbury West",
+        "duration": "",
+        "achievements": "John Leech has been re-elected multiple times and served as the Leader of the Opposition in Manchester."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Leech holding a sign, showing support from various demographics, and stopping Brexit."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet presents a strong stance against Brexit and criticizes Labour and the Conservatives for their role in advancing it."
+  }
+}
+```

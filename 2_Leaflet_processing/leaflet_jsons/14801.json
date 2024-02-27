@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Richard Thomson",
+    "constituency": "Gordon",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "SNP push for fair fuel prices",
+        "content": ""
+      },
+      {
+        "title": "Voting SNP gets results!",
+        "content": ""
+      },
+      {
+        "title": "SNP Education priority",
+        "content": ""
+      },
+      {
+        "title": "Welcome for North East Renewables Bonanza",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fair Fuel Prices",
+        "policyDescription": "Campaigning for the creation of a fuel duty regulator to ensure fair fuel prices for all."
+      },
+      {
+        "policyTitle": "Pensioner Focus",
+        "policyDescription": "Pledging to secure additional financial support for pensioners."
+      }
+    ],
+    "mentions": {
+      "candidate": "Richard Thomson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Alex Salmond",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Richard Thomson...local, hard working and effective"
+        },
+        {
+          "caption": "Welcome for North East Renewables Bonanza"
+        },
+        {
+          "caption": "Making pensions a priority"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

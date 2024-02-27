@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "A recovering economy is growing, creating jobs and paying its way again."
+  	},
+  	{
+    	"policyTitle": "Deficit",
+    	"policyDescription": "The deficit is halved - and national debt as a share of income will be falling by next year. We are safeguarding our economic security for the future."
+  	},
+  	{
+    	"policyTitle": "Long-Term Economic Plan",
+    	"policyDescription": "Our long-term economic plan is working - but more tough decisions are needed to keep working through it to secure a better future."
+  	},
+  	{
+    	"policyTitle": "Health",
+    	"policyDescription": "Cutting income tax and freezing petrol, helping poor families, and backing businesses to create jobs. Strong NHS including more support for mental health."
+  	},
+  	{
+    	"policyTitle": "Retirement Security",
+    	"policyDescription": "Continuing to increase the State Pension with the triple lock, protect pension benefits and give people freedom over their pension pot and annuities. No one is forced to sell their home to pay for care."
+  	},
+  	{
+    	"policyTitle": "Saving",
+    	"policyDescription": "A new Personal Savings Allowance, abolishing tax for about 17 million people, making it easier to save and take money back out."
+  	},
+  	{
+    	"policyTitle": "Home Ownership",
+    	"policyDescription": "Help first-time home buyers and extending the Help to Buy scheme. A new Help to Buy ISA to help people save for their first deposit."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "George Osborne, David Cameron",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "A recovering economy is growing, creating jobs and paying its way again.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "A strong economy will deliver a strong NHS.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Helping people save for the future. Giving everyone a chance to have a home of their own. Help first-time home buyers and extending the Help to Buy scheme. A new Help to Buy ISA to help people save for their first deposit.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "BUDGET 2015 A BUDGET THAT WORKS FOR YOU"
+    	}
+  	]
+	},
+	"additionalNotes": "This leaflet provides information about the Conservative party's achievements and upcoming plans. Specific candidate details and constituency information are not provided. References to the strategic voting considerations or historical voting patterns in the constituency are not mentioned."
+  }
+}
+```

@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "AMBER RUDD",
+    "constituency": "Hastings and Rye",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "YOUR CHOICE AT THIS ELECTION:",
+        "content": "STRONG, STABLE LEADERSHIP IN THE NATIONAL INTEREST or A COALITION OF CHAOS WITH JEREMY CORBYN"
+      },
+      {
+        "title": "Think Jeremy Corbyn as Prime Minister is never going to happen?",
+        "content": "DON'T BE SO SURE"
+      },
+      {
+        "title": "THE RISK IS JUST TOO BIG TO TAKE.",
+        "content": "HIGHER DEBT, HIGHER TAXES, ECONOMIC CHAOS"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "AMBER RUDD",
+      "otherPartyLeaderCandidate": "JEREMY CORBYN",
+      "partyLeader": "THERESA MAY",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "BREXIT: EUROPE STUNNED BY LEAVE VOTE",
+      "economy": "HIGHER DEBT, HIGHER TAXES, ECONOMIC CHAOS",
+      "education": "",
+      "environment": "",
+      "governance": "STRONG, STABLE LEADERSHIP IN THE NATIONAL INTEREST",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "AMBER RUDD Hastings and Rye STANDING WITH THERESA MAY"
+        },
+        {
+          "caption": "AMBER RUDD with THERESA MAY"
+        },
+        {
+          "caption": "Campaign Supporters"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet focuses on contrasting Conservative leadership with the prospect of a Jeremy Corbyn-led government. It emphasizes risks associated with the Labour Party and aligns Amber Rudd with Theresa May."
+  }
+}
+```

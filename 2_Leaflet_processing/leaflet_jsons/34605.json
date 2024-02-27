@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tom Bennett",
+    "constituency": "Ealing Southall",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "LET'S UNLEASH BRITAIN'S POTENTIAL",
+        "content": "Let’s get Brexit done. Let’s get on with the country’s priorities."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "MAKE OUR STREETS SAFER",
+        "policyDescription": "Crime went up by 10% in the Borough of Ealing over the last year. Conservatives are fighting back by hiring 20,000 more police officers nationwide and training a third of all Met Police to carry tasers."
+      },
+      {
+        "policyTitle": "NO NEW TOWERS",
+        "policyDescription": "Tower blocks aren't the answer to the lack of housing. Need more good quality low-rise developments, not towers like those proposed near West Ealing Station, which are marketed abroad, unsuitable for local families, and completely out of keeping with the area."
+      },
+      {
+        "policyTitle": "SUPPORT LOCAL BUSINESSES",
+        "policyDescription": "Supports local shops and businesses at the heart of Southall, Hanwell, and Northfields. Will always support them and keep their taxes low, unlike Labour who wants to increase tax on businesses."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tom Bennett",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Let’s get Brexit done.",
+      "economy": "£3.6 billion to help towns invest and attract new businesses",
+      "education": "More funding for every pupil in every school",
+      "environment": "",
+      "governance": "",
+      "health": "£33.9 billion extra for the NHS, 20,000 extra police for safer streets, 40 new hospitals across the country",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "No new tower blocks, promote good quality low-rise developments.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Ealing Southall W7 LONDON",
+      "phone": "EA S 37455618 132861",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tom Bennett with Boris Johnson"
+        },
+        {
+          "caption": "Conservative party pledges about NHS, police numbers, and broadband"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Yvette Cooper",
+    "constituency": "Normanton, Pontefract & Castleford",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "Re-Elect",
+        "content": "Yvette Cooper Labour candidate for Normanton, Pontefract & Castleford constituency"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Yvette Cooper",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Help me to stop the Tories destroying the NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "1 York Street, Castleford, WF10 1RB",
+      "phone": "01977 520 525",
+      "email": "yvette@yvettecooper.com",
+      "website": "www.yvettecooper.com",
+      "socialMedia": {
+        "facebook": "facebook.com/YvetteCooperMP",
+        "twitter": "@YvetteCooperMP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Working for Normanton, Pontefract, Castleford & Knottingley"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

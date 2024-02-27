@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Miles Gravely",
+    "constituency": "Ruraltown",
+    "politicalParty": "UKIP",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "A Fresh Start for Ruraltown",
+        "content": "I want to thank you for your past support for UKIP and for me as your UKIP candidate. I believe in Ruraltown."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Planning for Real People",
+        "policyDescription": "Opposes mass development and will fight to give local communities the final say on housing projects."
+      },
+      {
+        "policyTitle": "Protecting Green Spaces",
+        "policyDescription": "Advocates for safeguarding parks and open spaces from being sold off or built on."
+      },
+      {
+        "policyTitle": "Real Local Democracy",
+        "policyDescription": "Aims to empower local government and restore faith in local decision-making processes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Miles Gravely",
+      "otherPartyLeaderCandidate": "Boris Johnson, Keir Starmer",
+      "partyLeader": "Nigel Farage",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Miles Gravely is a keen environmentalist.",
+      "governance": "Wants to empower local leaders to make decisions without undue interference from central government.",
+      "health": "Mentions NHS and the delivery of healthcare, suggesting improvements.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Opposes mass development and wants to protect green spaces.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I believe in Ruraltown...",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "FREEPOST UKIP",
+      "phone": "0800 808 809",
+      "email": "miles@ukip.org",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "/ukip",
+        "twitter": "@UKIP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Miles Gravely is a man of the people",
+        "source": "Nigel Farage",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Miles Gravely with supporters"
+        },
+        {
+          "caption": "Campaign ribbon"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

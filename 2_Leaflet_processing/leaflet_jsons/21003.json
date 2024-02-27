@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew Smith",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Protecting our environment",
+        "content": "We cannot go on postponing action to deal with climate change. Sadly for our climate, the Coalition pledge to be the greenest government ever has gone unmet."
+      },
+      {
+        "title": "A better plan with Labour",
+        "content": "A Labour government would invest £2.5 billion in our NHS to hire 20,000 more nurses and 8,000 more GPs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Backing investments in renewables, planning for a comprehensive local network of cycle routes, supporting a plan to axe funding for award-winning flood prevention projects."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Investing £2.5 billion in our NHS, hiring 20,000 more nurses and 8,000 more GPs, repealing the Coalition's Health and Social Care Act."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andrew Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Stand up for local residents for the best quality education, pensions, social care and policing work with local residents for the best quality education, pensions, social care and policing.",
+      "environment": "We cannot go on postponing action to deal with climate change.",
+      "governance": "",
+      "health": "The NHS can’t survive five more years of the Tories and Lib Dems. Labour created the NHS, has saved it from the Tories before, and will do the right again.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Press for the housing we need so local people are able to find somewhere decent and affordable to live in our city.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local MP",
+        "duration": "",
+        "achievements": "Raised key UK climate pledge, supported Energy Bill constituents argued for and received positive reception for."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Leading NHS staff",
+        "endorsement": "Vote Labour to save our NHS"
+      },
+      {
+        "endorser": "Tariq Ali, a local NHS consultant",
+        "endorsement": "I see first hand how vital it is to keep up the momentum for Andrew Smith as our local MP. Andrew does a first rate job and we need to keep him as our MP on May 7th."
+      },
+      {
+        "endorser": "Julie Wild, a local NHS nurse",
+        "endorsement": "Andrew has done a great job speaking up for our patients and staff. The Tory/Lib-Dem Government NHS wreck must stop. I will be voting for Andrew Smith Labor on the day because he's the way to save the NHS and get the local services and social care we need."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andrew Smith with NHS staff."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

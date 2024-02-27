@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Theresa May",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "STRENGTH AND STABILITY FOR BREXIT AND BEYOND",
+        "content": "Prime Minister Theresa May asks country for support to strengthen her hand in Brexit negotiations and to lock in Britain's economic progress."
+      },
+      {
+        "title": "LET'S GET ON WITH THE JOB: WHY EVERY VOTE WILL COUNT",
+        "content": "Some people think Jeremy Corbyn can't win this election. But he said that about Donald Trump becoming US President - and Jeremy Corbyn becoming Labour party leader. So if Jeremy Corbyn does become Prime Minister he can happen to anything."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Promises to strengthen Britain's hand in Brexit negotiations and secure leadership needed to deliver the best possible deal for Britain."
+      }
+    ],
+    "mentions": {
+      "candidate": "Theresa May",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon, Paul Nuttall",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Promises strong leadership for Brexit negotiations and securing the best possible deal for Britain.",
+      "economy": "Mentions locking in Britain's economic progress and avoiding chaos with Corbyn as PM.",
+      "education": "",
+      "environment": "",
+      "governance": "Mentions strong and stable leadership with Theresa May and the risk of a coalition of chaos with Jeremy Corbyn.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Prime Minister",
+        "duration": "",
+        "achievements": "Asking for support to strengthen her hand in Brexit negotiations and to lock in Britain's economic progress."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "conservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "The country is about to elect a new government and forge a new role outside the EU, where the Liberal Democrats and Labour cannot agree amongst themselves on the crucial issue at this election.",
+        "source": "The leaflet content",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Theresa May with a caption 'Strong and Stable Leadership with Theresa May'"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet tries to portray a binary choice between 'Strong, Stable Leadership with Theresa May' or 'A Coalition of Chaos with Jeremy Corbyn'. Highlights the unpredictability of elections by referencing unexpected wins such as Trump becoming US President and the Leave victory in the Brexit referendum."
+  }
+}
+```

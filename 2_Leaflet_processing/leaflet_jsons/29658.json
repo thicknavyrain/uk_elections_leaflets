@@ -1,0 +1,106 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Greg Mulholland",
+	"constituency": "Leeds North West",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "A strong voice for Leeds North West",
+    	"content": ""
+  	},
+    {
+    	"title": "Fighting for our NHS",
+    	"content": "Greg has a strong record of campaigning for local health services"
+  	},
+    {
+    	"title": "Helping local people",
+    	"content": ""
+  	},
+    {
+    	"title": "Supporting local business",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS",
+    	"policyDescription": "Greg has a strong record of campaigning for local health services and has been endorsed by a number of healthcare professionals."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Greg Mulholland",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "It's Greg or Labour here - The Conservatives can't win in Leeds North West."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Greg has a strong record of campaigning for local health services.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Healthcare professionals",
+    	"endorsement": "Various endorsements from healthcare professionals."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Greg Mulholland with a local resident and animals."
+    	},
+    	{
+      	"caption": "Article about Greg fighting for the NHS."
+    	},
+    	{
+      	"caption": "Work with the local people."
+    	},
+    	{
+      	"caption": "Greg actively engaging in a discussion with a local businessperson."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet emphasizes that only the Liberal Democrats and Labour are the main contenders in Leeds North West, suggesting that a vote for other parties is wasted."
+  }
+}
+```

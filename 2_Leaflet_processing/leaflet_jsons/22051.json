@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Braden Davy",
+    "constituency": "Gordon",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday, May 4th",
+    "messages": [
+      {
+        "title": "Vote Labour: For a Fairer, Better Scotland",
+        "content": "Pledges to fight for the people of Gordon at every opportunity."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Backing Local Schools and Kids",
+        "policyDescription": "Commitment to improving local schools."
+      },
+      {
+        "policyTitle": "Secure Jobs and Fair Wages for Everyone",
+        "policyDescription": "Determined to fight for more jobs and better pay."
+      },
+      {
+        "policyTitle": "Protect our National Health Service",
+        "policyDescription": "Fight for better local healthcare services and to stop cuts."
+      },
+      {
+        "policyTitle": "Safer Communities",
+        "policyDescription": "Promise to work with local police to reduce crime."
+      }
+    ],
+    "mentions": {
+      "candidate": "Braden Davy",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Only Labour can beat the SNP here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Secure Jobs and Fair Wages for Everyone",
+      "education": "Backing Local Schools and Kids",
+      "environment": "",
+      "governance": "",
+      "health": "Protect our National Health Service",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Local lad, Braden Davy, is standing up for families across Gordon.",
+    "politicalExperience": [
+      {
+        "role": "Former Aberdeen City Councillor, Leading on Education and Children’s Services",
+        "duration": "",
+        "achievements": "Helping to secure a £100 million investment in city schools."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "BradenDavyLabour",
+        "twitter": "BradenDavy",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Braden Davy, local Labour campaigner"
+        }
+      ]
+    },
+    "additionalNotes": "Vote Labour to lock the Tories out."
+  }
+}
+```

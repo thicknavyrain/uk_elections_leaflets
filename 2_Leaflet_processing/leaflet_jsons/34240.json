@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alan Whitehead",
+    "constituency": "Southampton Test",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "OUR STRONG VOICE FOR SOUTHAMPTON",
+        "content": "This election is about more than Brexit. It's about the climate emergency, saving the NHS and improving the lives of the whole community."
+      },
+      {
+        "title": "STANDING UP FOR SOUTHAMPTON",
+        "content": "In the last few years, I have helped thousands of constituents who have been devastated by Tory government cuts to everything from the NHS to education."
+      },
+      {
+        "title": "WHY WE'RE SUPPORTING ALAN",
+        "content": "There are many reasons to support Alan but his work on the environment really stands out. The climate emergency is a priority for me as it's who I and Alan are."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stand Up for our Schools",
+        "policyDescription": "Ensure that our schools get the funding they need to reverse years of Tory cuts."
+      },
+      {
+        "policyTitle": "Ensure that our city is safe",
+        "policyDescription": "The Tories have made substantial cuts to Police. Labour would put police officers back on the streets."
+      },
+      {
+        "policyTitle": "Fight for decent homes for everyone",
+        "policyDescription": "I will work towards all homes being energy efficient including privately rented ones."
+      },
+      {
+        "policyTitle": "Tackle the climate emergency",
+        "policyDescription": "I will continue my work on finding more sustainable ways to power our country."
+      },
+      {
+        "policyTitle": "Guarantee a Public Vote on any Brexit Deal",
+        "policyDescription": "Labour would renegotiate a deal with the EU and let people have their say. I would campaign to Remain."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alan Whitehead",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "This election is about more than Brexit. Guarantee a Public Vote on any Brexit Deal. Labour would renegotiate a deal with the EU and let people have their say. I would campaign to Remain.",
+      "economy": "",
+      "education": "Stand Up for our Schools. Ensure that our schools get the funding they need to reverse years of Tory cuts.",
+      "environment": "OUR ENVIRONMENT. The climate emergency is one of the most urgent threats we face globally, nationally and locally. Tackle the climate emergency. I will continue my work on finding more sustainable ways to power our country.",
+      "governance": "",
+      "health": "OUR STRONG VOICE FOR SOUTHAMPTON. This election is about more than Brexit. It's about the climate emergency, saving the NHS and improving the lives of the whole community.",
+      "immigration": "",
+      "socialWelfare": "In the last few years, I have helped thousands of constituents who have been devastated by Tory government cuts to everything from the NHS to education.",
+      "housing": [
+        {
+          "content": "Fight for decent homes for everyone including privately rented ones being energy efficient.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "\"If re-elected on December 12th I would continue as a strong voice for Southampton, standing up for our cities schools and hospitals in Parliament.\"",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "023 80682086",
+      "email": "alan@alan-whitehead.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "@alanwhiteheadmp",
+        "twitter": "@alanwhiteheadmp",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "ELOISE, BANISTER PARK",
+        "endorsement": "The climate emergency is a priority for me as it's who I and Alan are."
+      },
+      {
+        "endorser": "AJAY, BEVOIS",
+        "endorsement": "This is my first time voting in a General Election and I'm excited to vote for Alan. I'm a student at University of Southampton and see firsthand that Richard Taunton's, Alan is the voice of our amazing city."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Alan Whitehead with constituents"
+        },
+        {
+          "caption": "Image of Alan Whitehead's portrait"
+        },
+        {
+          "caption": "PLEASE DISPLAY IN YOUR WINDOW"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

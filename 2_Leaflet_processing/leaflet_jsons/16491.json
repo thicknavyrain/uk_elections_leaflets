@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tim Purser",
+    "constituency": "Northampton South",
+    "politicalParty": "UKIP",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "An Open Letter to the Citizens of Northampton",
+        "content": "Dear People of Northampton, your UKIP candidates for Northamptonshire, unlike the other political parties, wanted to let you know that the expansion of Northampton that is currently being promoted by the Northamptonshire Enterprise Partnership (NEP) is not our policy..."
+      },
+      {
+        "title": "For a better future for Northampton",
+        "content": "For yourself, your children and your grandchildren Vote UKIP on 7th May"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing and Development",
+        "policyDescription": "UKIP is against the mindless expansion of Northampton. Labour & Conservative politicians have wrecked this town. Don't vote them in again."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tim Purser",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "We need 4 new schools a year for the next 10 years to keep up",
+      "environment": "Farmland and greenfields are being built on at an increasing rate",
+      "governance": "",
+      "health": "Northampton General's A&E is continually overwhelmed",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "UKIP is against the mindless expansion of Northampton. Labour & Conservative politicians have wrecked this town. Don't vote them in again.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Published and Promoted by Robin Ekins at [address redacted] on behalf of the Northamptonshire South Northamptonshire Independents of UKIP.",
+      "phone": "",
+      "email": "",
+      "website": "www.ukipnorthampton.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "36,000 new houses 90,000 new people - NO!"
+        },
+        {
+          "caption": "For a better future for Northampton for yourself, your children and your grandchildren - Vote UKIP on 7th May"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet strongly focuses on local development and its perceived negative impacts, with particular opposition to housing expansion and its strain on local resources such as A&E, schools, and traffic."
+  }
+}
+```

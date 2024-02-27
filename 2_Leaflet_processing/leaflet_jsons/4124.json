@@ -1,0 +1,125 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tom Brake",
+    "constituency": "Carshalton and Wallington",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Tom Brake will continue to deliver for you!",
+        "content": "Tom Brake has a proven record of delivering for our area for over a decade. A hardworking family man to champion your views."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Tom Brake",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Nobody has fought harder to save St Helier Hospital than Tom Brake – he’s an inspiration.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Paul Burstow",
+        "endorsement": "Tom has done so much for us to save St Helier."
+      },
+      {
+        "endorser": "Amisha Patel",
+        "endorsement": "Nobody has fought harder to save St Helier Hospital than Tom Brake – he’s an inspiration."
+      },
+      {
+        "endorser": "Stanley King",
+        "endorsement": "Tom Brake led the extensive campaign to deliver local pensioners he gives his all for the people of Sutton Borough."
+      },
+      {
+        "endorser": "Monica Harding",
+        "endorsement": "I’ve always supported Tom because he gives his all for the people of Sutton Borough."
+      },
+      {
+        "endorser": "Izzy Dedring",
+        "endorsement": "Tom’s led from the front in our campaign for the N213 Nightbus."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Tom has done so much for us to save St Helier.",
+        "source": "Paul Burstow",
+        "date": ""
+      },
+      {
+        "text": "Nobody has fought harder to save St Helier Hospital than Tom Brake – he’s an inspiration.",
+        "source": "Amisha Patel",
+        "date": ""
+      },
+      {
+        "text": "Tom Brake led the extensive campaign to deliver local pensioners he gives his all for the people of Sutton Borough.",
+        "source": "Stanley King",
+        "date": ""
+      },
+      {
+        "text": "I’ve always supported Tom because he gives his all for the people of Sutton Borough.",
+        "source": "Monica Harding",
+        "date": ""
+      },
+      {
+        "text": "Tom’s led from the front in our campaign for the N213 Nightbus.",
+        "source": "Izzy Dedring",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tom Brake has a proven record of delivering for our area for over a decade."
+        },
+        {
+          "caption": "Paul Bustow - Tom has done so much for us to save St Helier."
+        },
+        {
+          "caption": "Amisha Patel - Nobody has fought harder to save St Helier Hospital than Tom Brake – he’s an inspiration."
+        },
+        {
+          "caption": "Stanley King - Tom Brake led the extensive campaign to deliver local pensioners he gives his all for the people of Sutton Borough."
+        },
+        {
+          "caption": "Monica Harding - I’ve always supported Tom because he gives his all for the people of Sutton Borough."
+        },
+        {
+          "caption": "Izzy Dedring - Tom’s led from the front in our campaign for the N213 Nightbus."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

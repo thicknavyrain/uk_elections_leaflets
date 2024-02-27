@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sarah Wollaston",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "this December",
+    "messages": [
+      {
+        "title": "",
+        "content": "Earlier this year, I left the Conservative Party because it had shifted beyond recognition. It is now in the grip of its right-wing and has no room for moderate views. It has also abandoned any serious commitment to tackling burning injustices."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Addressing urgent problems like climate change."
+      },
+      {
+        "policyTitle": "Inequality",
+        "policyDescription": "Tackling the widening inequality."
+      },
+      {
+        "policyTitle": "Affordable Housing",
+        "policyDescription": "Focusing on the lack of affordable housing."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Concern over our overstretched NHS being neglected."
+      },
+      {
+        "policyTitle": "Reinventing Business Relationships",
+        "policyDescription": "The Liberal Democrats will reinvent the relationship between business and communities in which they operate."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sarah Wollaston",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "The prospect of No Deal Brexit has already put our economy in reverse, making it even harder for many in our country. The local and European elections showed that people are ready to get behind the most consistent, credible, leading Remain party force in British politics - the Liberal Democrats.",
+      "economy": "The prospect of No Deal Brexit has already put our economy in reverse.",
+      "education": "",
+      "environment": "Where we protect our planet for future generations.",
+      "governance": "The relationship between business and the communities.",
+      "health": "Our overstretched NHS being neglected.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The lack of affordable housing and our overstretched NHS being neglected.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Earlier this year, I left the Conservative Party because it had shifted beyond recognition.",
+    "politicalExperience": [
+      {
+        "role": "Former Conservative MP",
+        "duration": "2010 - 2019",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "PS. If Remainers come together, we can combat the hatred and division at the extremes of the Conservative and Labour parties. We can build a brighter future.",
+        "source": "Sarah Wollaston",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sarah Wollaston"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

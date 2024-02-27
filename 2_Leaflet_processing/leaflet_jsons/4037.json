@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "UK democracy isn’t working properly.",
+        "content": "UKIP believes that you should be able to get involved in democracy through Swiss-style referenda on key local and national issues - and force politicians to listen."
+      },
+      {
+        "title": "Crime in the UK is out of control.",
+        "content": "Law-abiding citizens fear for their safety and criminals are released early or on bail to commit more crimes. Police now enforce minor motoring offences more rigorously than shoplifting or assault. People are losing faith in the system."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Referenda and MP Accountability",
+        "policyDescription": "Let the public call binding referendums on key local and national issues. Provide 'hotel' type accommodation to MPs and scrap the second home allowance. Set up an independent panel on MP expenses."
+      },
+      {
+        "policyTitle": "Criminal Justice Reform",
+        "policyDescription": "Make sentences mean what they say. Scrap the Human Rights Act. Put police back on the beat. Create enough prison places. Give people the vote on police priorities."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "UKIP believes in involving citizens in democracy through Swiss-style referenda and in increasing MP accountability.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Robin Harper",
+    "constituency": "Edinburgh East",
+    "politicalParty": "Scottish Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Three-horse race for Edinburgh East",
+        "content": "The race for Edinburgh East is between Labour, the SNP and Greens, according to the latest poll information. In June 2009, in the European elections, the Greens comfortably took third place in the area, well ahead of the Liberal Democrats and Tories."
+      },
+      {
+        "title": "Greens win funds for local climate action",
+        "content": "Green candidate, Robin Harper, has praised Portobello Transition Town – known as PEDAL – on its climate change projects and has distributed funds as one of the first transition projects in Scotland."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Climate Action",
+        "policyDescription": "Support for local climate initiatives such as Portobello Transition Town (PEDAL)."
+      }
+    ],
+    "mentions": {
+      "candidate": "Robin Harper",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Robin Harper",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Support for local climate action through initiatives such as the Portobello Transition Town (PEDAL) and the Climate Challenge Fund. Supports community lightening and power scheme for Lauriston Hall in the Old Town and the Craigmillar Community Heat and Power Scheme.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Support for community-led projects closer to home. These ideas are for the planet but strengthen communities too.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Robin Harper, a teacher for over 30 years, is instantly recognisable figure across the city. Since announcing that he is standing, he has been overwhelmed by messages of support.",
+    "politicalExperience": [
+      {
+        "role": "Scotland’s longest serving Green MSP",
+        "duration": "Since 1999",
+        "achievements": "Robin Harper made history when he became the first Green to be elected to a parliament in the UK. He stands for re-election in the Scottish Parliament at the next Holyrood election but retains boundless energy for Green ideals. Emphasizes the importance of taking fresh thinking to a Westminster Parliament which has seen its reputation battered."
+      }
+    ],
+    "contactInformation": {
+      "address": "5 Rose Street, Edinburgh EH2 2PR",
+      "phone": "",
+      "email": "robin@edinburghgreens.org.uk",
+      "website": "www.edinburghgreens.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Harper urges voters to elect first Green MP"
+        },
+        {
+          "caption": "Contact your local Greens"
+        },
+        {
+          "caption": "Your Green voices on the Council"
+        }
+      ]
+    },
+    "additionalNotes": "This newsletter is also available in large print."
+  }
+}
+```

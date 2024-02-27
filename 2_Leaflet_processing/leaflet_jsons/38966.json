@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "ANDREW GEORGE",
+    "constituency": "",
+    "politicalParty": "LIB DEM",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Only ANDREW GEORGE can beat the Tories here"
+      },
+      {
+        "title": "tacticalSituation",
+        "content": "Elections for our MP here are always a clear choice between the Liberal Democrats and Conservatives. Labour are a distant third. That's why so many Labour supporters are here lending their vote to Lib Dem Andrew George this time. JUST 313 MORE VOTES TO WIN"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Invest in our children’s education",
+        "policyDescription": "Invest in our children’s education"
+      },
+      {
+        "policyTitle": "Restore our NHS with extra funding",
+        "policyDescription": "Restore our NHS with extra funding"
+      },
+      {
+        "policyTitle": "Support radical climate action",
+        "policyDescription": "Support radical climate action"
+      }
+    ],
+    "mentions": {
+      "candidate": "ANDREW GEORGE",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "JUST 313 MORE VOTES TO WIN"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Invest in our children’s education",
+      "environment": "Support radical climate action",
+      "governance": "",
+      "health": "Restore our NHS with extra funding",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.andrewgeorge.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Andrew George with supporters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

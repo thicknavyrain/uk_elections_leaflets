@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Leech",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "URGENT UPDATE",
+        "content": "only John Leech can beat Labour here. This time we can do things differently."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "John Leech",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "",
+      "tacticalSituation": "only John Leech can beat Labour here"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote for change..."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

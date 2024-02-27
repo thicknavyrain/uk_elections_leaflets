@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Janice Hurne",
+	"constituency": "New Forest West",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "I want to hear from you",
+    	"content": "Don't risk your job, school, hospital and pension. Labour the only realistic alternative to the Tories in New Forest West."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Cancer Care",
+    	"policyDescription": "Ensuring every person diagnosed with cancer doesn't wait longer than one week for diagnostic tests by 2010."
+  	},
+    {
+    	"policyTitle": "Affordable Housing",
+    	"policyDescription": "Providing a mix of affordable homes to rent and to buy at decent standards."
+  	},
+    {
+    	"policyTitle": "Caring for the Elderly and Disabled",
+    	"policyDescription": "Free local bus travel for people over the age of 60 and disabled people."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Janice Hurne",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "The leaflet suggests that Labour is the only realistic alternative to the Tories in New Forest West, indicating a tactical situation where voters concerned with an opposition to the Tories may consider voting Labour."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Labour is investing in and reforming the NHS to create a health service fit for the needs of 21st century Britain.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Providing a mix of affordable homes to rent and to buy at decent standards.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "Janice has lived in Brockenhurst for 34 years and is married with a daughter. She secured a Law Degree from Bournemouth University for 32 years before retiring.",
+	"politicalExperience": [
+  	{
+    	"role": "Labour candidate for the last general election",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "New Forest West Labour Party, 202 Southampton Road, Ringwood, Hampshire, BH24 1JG",
+  	"phone": "01202 512391",
+  	"email": "janice-mp@newforestlabour.org.uk",
+  	"website": "www.newforestlabour.org.uk",
+  	"socialMedia": {
+    	"facebook": "/janicehurne",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "John Denham",
+    	"endorsement": "Janice Hurne would make an excellent hardworking, compassionate Member of Parliament for New Forest West."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Janice Hurne would make an excellent hardworking, compassionate Member of Parliament for New Forest West.",
+    	"source": "John Denham, Former Secretary of State for Communities and Local Government",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Janice with volunteers from New Forest National Park."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

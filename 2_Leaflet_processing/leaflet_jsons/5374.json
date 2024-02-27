@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Joe Benton",
+    "constituency": "Bootle",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Local Education",
+        "content": "Joe Benton has been at the forefront in achieving massive investment in our school buildings and in raising educational standards."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investment in Education",
+        "policyDescription": "Continue to fight for the highest standards in our local schools and colleges."
+      },
+      {
+        "policyTitle": "Investment in Health",
+        "policyDescription": "Demand that investment in our local health services is maintained."
+      },
+      {
+        "policyTitle": "Investment in Housing",
+        "policyDescription": "Work to ensure that decent homes are made available within our community."
+      },
+      {
+        "policyTitle": "Investment in Jobs",
+        "policyDescription": "Work with both the Public and Private Sectors to provide jobs for local people."
+      },
+      {
+        "policyTitle": "Investment in Communities",
+        "policyDescription": "Work to ensure that our community is a better and safer place for all."
+      }
+    ],
+    "mentions": {
+      "candidate": "Joe Benton",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Continue to fight for the highest standards in our local schools and colleges.",
+      "environment": "",
+      "governance": "",
+      "health": "Demand that investment in our local health services is maintained.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Work to ensure that decent homes are made available within our community.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I am honoured and privileged to have been chosen once again by local people to stand as LABOUR's candidate in this General Election. I am proud to have represented our Constituency in Parliament for two decades. I am particularly proud of the achievements made by our LABOUR Government since 1997. During the next few years, I want to work to build upon those achievements, with particular emphasis on Hard Working Families.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "Represented since 1997",
+        "achievements": "Achievements made by our LABOUR Government since 1997"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Andy Windsor, Former local Head Teacher",
+        "endorsement": "Joe Benton has been at the forefront in achieving massive investment in our school buildings and in raising educational standards."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Picture of Joe Benton with 'Putting local people first' and images of NHS Sefton, Litherland Town Hall Health Centre, South Sefton 6th Form College, South Sefton Investment Centre, and New Sefton Water Centre."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

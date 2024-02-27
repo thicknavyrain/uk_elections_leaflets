@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Alan Durrant",
+	"constituency": "Gosport",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+	  {
+		"title": "Labour's Plan for Britain",
+		"content": ""
+	  },
+	  {
+		"title": "Vote to Save Our NHS",
+		"content": ""
+	  }
+	],
+	"keyPolicies": [],
+	"mentions": {
+	  "candidate": "Alan Durrant",
+	  "otherPartyLeaderCandidate": "",
+	  "partyLeader": "",
+	  "tacticalSituation": ""
+	},
+	"issues": {
+	  "brexitEurope": "",
+	  "economy": "",
+	  "education": "",
+	  "environment": "",
+	  "governance": "",
+	  "health": "",
+	  "immigration": "",
+	  "socialWelfare": "",
+	  "housing": [
+		{
+		  "content":"",
+		  "yimbyNimby": ""
+		}
+	  ]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+	  "address": "",
+	  "phone": "",
+	  "email": "",
+	  "website": "www.alandurrant4gosport.co.uk",
+	  "socialMedia": {
+		"facebook": "",
+		"twitter": "",
+		"instagram": "",
+		"linkedin": ""
+	  }
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+	  "images": [
+		{
+		  "caption": "Election Communication Gosport"
+		}
+	  ]
+	},
+	"additionalNotes": "Tagline on the leaflet: 'Restore Fairness to Britain: Vote Labour'"
+  }
+}
+```

@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Theresa May",
+    "constituency": "",
+    "politicalParty": "Conservative Party",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "YOUR CHOICE AT THIS ELECTION:",
+        "content": "STRONG, STABLE LEADERSHIP FOR THE UNITED KINGDOM OR A COALITION OF CHAOS WITH JEREMY CORBYN"
+      },
+      {
+        "title": "LET'S GET ON WITH THE JOB. WHY EVERY VOTE WILL COUNT",
+        "content": "Some people think Jeremy Corbyn can’t win because they assume other people will keep him out. If Jeremy Corbyn does become Prime Minister, at the head of a coalition of chaos, he will have huge tasks that will go even bigger overnight."
+      },
+      {
+        "title": "STABILITY FOR BREXIT AND BEYOND",
+        "content": "Prime Minister Theresa May asks country for support to strengthen hand in Brexit negotiations and to lock in Britain’s economic progress."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "BREXIT AND BEYOND",
+        "policyDescription": "Theresa May aims to get the best Brexit deal and lock in economic progress for Britain."
+      }
+    ],
+    "mentions": {
+      "candidate": "Theresa May",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Get the best deal possible from Brexit.",
+      "economy": "Lock in Britain’s economic progress.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Prime Minister",
+        "duration": "",
+        "achievements": "Asks for support to strengthen hand in Brexit negotiations and lock in Britain’s economic progress."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "conservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "NICOLA STURGEON ACCUSED OF PLOTTING TO MAKE JEREMY CORBYN PM IN RETURN FOR INDYREF2",
+        "source": "telegraph.co.uk 20th April 2017",
+        "date": "20th April 2017"
+      },
+      {
+        "text": "LABOUR PLOTS BREXIT DEAL WITH THE SCOTS TO WIN ELECTION MAJORITY",
+        "source": "Mirror, 20th April 2017",
+        "date": "20th April 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Prime Minister Theresa May speaking"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

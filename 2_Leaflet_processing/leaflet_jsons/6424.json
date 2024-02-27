@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Paul McCloskey",
+    "constituency": "Battledown",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "Our children deserve much better",
+        "content": "Children across Britain are being failed by this Labour Government."
+      },
+      {
+        "title": "Our Lib Dem vision for Cheltenham",
+        "content": "The Liberal Democrats have produced a 24 page manifesto for how to turn the promise of the town into the same level of achievement."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Investing in Britain's future and stopping the loss of small schools."
+      }
+    ],
+    "mentions": {
+      "candidate": "Paul McCloskey",
+      "otherPartyLeaderCandidate": "Nick Clegg",
+      "partyLeader": "Martin Horwood",
+      "tacticalSituation": "Greens pull out of election race to back Martin Horwood's fight to stay as our MP."
+    },
+    "issues": {
+      "education": "After thirteen years of Labour rule, 1 in 5 children leave primary school unable to read, write and add up reliably.",
+      "housing": [
+        {
+          "content": "Paul McCloskey has spent years working hard for Battledown as your candidate for Cheltenham Borough Council. He is keenly resisting the overdevelopment of Cheltenham and is dedicated to retaining the essential character if treasured our council. Paul will continue to fight against the Government's proposals for a compulsory 'garden grab' and fully supports the residents and homeowners right to enjoy and protect their own properties.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Paul McCloskey has spent years working hard for Battledown as your candidate for Cheltenham Borough Council.",
+    "politicalExperience": [
+      {
+        "role": "Former candidate for Cheltenham Borough Council",
+        "duration": "years",
+        "achievements": "Resisting overdevelopment, fighting against government's 'garden grab' proposals, supporting residents and homeowners."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.martinhorwood.net",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Cheltenham Green Party",
+        "endorsement": "Backs Martin Horwood's strong environmental record since becoming Cheltenham’s MP in 2005."
+      },
+      {
+        "endorser": "Karen",
+        "endorsement": "A former Tory Councillor has joined Martin's campaign too."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I am delighted to have Karen's support. She has been a tireless local Councillor and she knows that in tough times like this my priority for Cheltenham to make sure that every local family and every local business gets the support they need.",
+        "source": "Martin Horwood MP",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Paul works hard for Battledown."
+        },
+        {
+          "caption": "Our children deserve much better."
+        },
+        {
+          "caption": "Greens back Martin's outstanding record."
+        },
+        {
+          "caption": "Paul McCloskey will work hard for Battledown."
+        },
+        {
+          "caption": "And a former Tory Councillor has joined Martin's campaign too."
+        }
+      ]
+    },
+    "additionalNotes": "Paul examines the poor state of the road surface with a local resident."
+  }
+}
+```

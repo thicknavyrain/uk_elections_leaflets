@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Ryan Stephenson",
+	"constituency": "Leeds North East",
+	"politicalParty": "Conservative",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "A UNIQUE AND CRUCIAL ELECTION FOR OUR COUNTRY",
+    	"content": "By going to Brussels with a strong negotiating hand I can ensure we guarantee our economic security."
+  	},
+  	{
+    	"title": "NATIONAL INTEREST SUCCESS IS CENTRAL TO OUR MAKING BREXIT A SUCCESS",
+    	"content": "Making Brexit a success is central to our national interest - and it is central to your own security and prosperity."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Brexit",
+    	"policyDescription": "Ensure economic security and prosperity by negotiating a good Brexit deal."
+  	},
+  	{
+    	"policyTitle": "Economic Security",
+    	"policyDescription": "Guarantee economic security by going to Brussels with a strong negotiating hand."
+  	},
+  	{
+    	"policyTitle": "Strong Leadership",
+    	"policyDescription": "Provide strong and stable leadership to take the right decisions for Britain."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Ryan Stephenson",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "Theresa May",
+  	"tacticalSituation": "The leaflet implies a tactical situation by emphasizing that 'every single vote will count' and references the local constituency's potential influence on the Brexit negotiation and avoiding a coalition of chaos."
+	},
+	"issues": {
+  	"brexitEurope": "Making Brexit a success is vital, ensure guarantee of economic security through strong Brexit deal negotiation.",
+  	"economy": "Ensure economic security through strong Brexit deal negotiation.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "37 North Lane, Headingley, Leeds, LS6 3HW",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Theresa May",
+    	"endorsement": "Theresa May urges to vote for Ryan Stephenson, emphasizing strong and stable leadership and economic security through Brexit."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Labour plots Brexit deal with others if Tories don't win election majority.",
+    	"source": "Mirror, 20th April 2017",
+    	"date": "2017-04-20"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Leaflet page showing a message from Rt Hon Theresa May Prime Minister supporting Ryan Stephenson."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet is addressed to a voter named Benjamin Dalton, emphasizing the personal nature of political outreach."
+  }
+}
+```

@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "Glasgow",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The Westminster Labour Government has fallen to pieces in front of our eyes.",
+        "content": "They failed to tackle MPs’ expenses - several Labour MPs face jail. Their recession has hit Scotland hard."
+      },
+      {
+        "title": "No wonder Westminster politics is viewed with disgust.",
+        "content": "Now yet another scandal - former Labour Ministers apparently offering to change Government policy for cash."
+      },
+      {
+        "title": "Only a vote for the Liberal Democrats can deliver real change.",
+        "content": "We will stop billionaires buying political parties with big donations. We will give you the power to sack corrupt MPs. We will clean up corruption at Westminster."
+      },
+      {
+        "title": "Scotland deserves a fair deal after years of let downs with Labour.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "In many areas, the SNP and the Conservatives are out of the race and can't win."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Their recession has hit Scotland hard.",
+      "education": "",
+      "environment": "",
+      "governance": "We will stop billionaires buying political parties with big donations. We will give you the power to sack corrupt MPs. We will clean up corruption at Westminster.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "4 Cowley Street, London, SW1P 3NB",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg interacting with various groups of people."
+        }
+      ]
+    },
+    "additionalNotes": "PS - Remember, in many parts of Scotland, the SNP and the Conservatives cannot win. The choice is between the Liberal Democrats or Labour."
+  }
+}
+```

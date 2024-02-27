@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Margaret Ferrier",
+    "constituency": "Rutherglen & Hamilton West",
+    "politicalParty": "SNP",
+    "electionDate": "May 7th",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer Scotland",
+        "policyDescription": "Fight to deliver the powers we need to build a fairer Scotland."
+      },
+      {
+        "policyTitle": "Austerity",
+        "policyDescription": "Stand up against the harmful Westminster austerity agenda."
+      },
+      {
+        "policyTitle": "Jobs and Living Wage",
+        "policyDescription": "Help create real jobs, removing need for zero hours contracts & support a living wage."
+      },
+      {
+        "policyTitle": "NHS and Public Services",
+        "policyDescription": "Protect our NHS and other vital public services."
+      },
+      {
+        "policyTitle": "Nuclear Disarmament",
+        "policyDescription": "Support nuclear disarmament & oppose renewal of Trident."
+      }
+    ],
+    "mentions": {
+      "candidate": "Margaret Ferrier",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protect our NHS and other vital public services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "Follow theSNP",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Margaret Ferrier's campaign leaflet"
+        }
+      ]
+    },
+    "additionalNotes": "Stronger for Scotland"
+  }
+}
+```

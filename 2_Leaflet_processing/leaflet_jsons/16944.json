@@ -1,0 +1,111 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Steve Guy",
+    "constituency": "Wycombe",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "The Local Choice for Wycombe",
+        "content": "Do you remember what it was like in 2010? The economy had crashed... But when Britain needed a stable Government, prepared to make some difficult decisions, we were there to make sure that happened."
+      },
+      {
+        "title": "Action on Education",
+        "content": "We've delivered £2.5bn extra for struggling school kids through the Pupil Premium."
+      },
+      {
+        "title": "Action on the Environment",
+        "content": "Steve Guy has a consistent record of campaigning to protect the Chilterns."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "The Liberal Democrats supported creating key policies from 2010 to ensure a stronger economy and a fairer society."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "The Liberal Democrats delivered £2.5bn extra for struggling school kids through the Pupil Premium."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Steve Guy has a consistent record of campaigning to protect the Chilterns, including against developments in Gomm Valley."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "The pledge to restore our Hospital Services, including £8 billion a year extra for the NHS and to end the privatisation of the Hospitals."
+      }
+    ],
+    "mentions": {
+      "candidate": "A decision you make may affect not only your constituency but the wider UK. Steve Guy as a local choice can make a difference.",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "A vote for Labour or minor parties in Wycombe will just help the Conservatives here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "When Britain needed a stable Government, we were there to make sure that happened. We've achieved ... key policies from 2010 to ensure a stronger economy.",
+      "education": "We've delivered £2.5bn extra for struggling school kids through the Pupil Premium.",
+      "environment": "Steve Guy has a consistent record of campaigning to protect the Chilterns.",
+      "governance": "",
+      "health": "Steve will fight to deliver fairer share of health cash for Bucks.",
+      "immigration": "",
+      "socialWelfare": "The Liberal Democrats supported creating key policies from 2010 to ensure ... a fairer society.",
+      "housing": [
+        {
+          "content": "Campaigning against developments in Gomm Valley.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Steve Guy is married with two young children. Works in IT...",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "",
+        "achievements": "Leading the local campaign against Conservative cuts to social care. Worked hard to bring jobs to Wycombe..."
+      }
+    ],
+    "contactInformation": {
+      "address": "14 Conengra Road, High Wycombe, HP13 6EA",
+      "phone": "07966 237550",
+      "email": "steve@steveguy.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Julian",
+        "endorsement": "With the Lib Dems you get someone who listens, someone who's on your side, someone who acts."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "With the Lib Dems you get someone who listens, someone who's on your side, someone who acts.",
+        "source": "Julian",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Steve Guy with supporters"
+        },
+        {
+          "caption": "Steve Guy in the community"
+        },
+        {
+          "caption": "Graph showing tactical voting considerations"
+        }
+      ]
+    },
+    "additionalNotes": "Supports an £800 tax cut for 24m workers. Advocates for a record rise in apprenticeships. Strategic voting considerations depicted in a bar graph showing potential vote distribution."
+  }
+}
+```

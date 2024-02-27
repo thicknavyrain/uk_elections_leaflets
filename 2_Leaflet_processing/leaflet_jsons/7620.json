@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gisela Stuart",
+    "constituency": "Edgbaston",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Re-elect Gisela Stuart",
+        "content": "My pledges to you"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Secure the economic recovery",
+        "policyDescription": "Halve the budget deficit over 4 years. Raise money from those who have a lot more (50% tax on earnings on £150,000). Protect tax breaks for those earning under £150,000 for pension contributions and make cuts of 10% for ministers."
+      },
+      {
+        "policyTitle": "Protect NHS spending",
+        "policyDescription": "Front line spending on the NHS will rise in line with inflation for the next 3 years. A new right to see a cancer specialist within two weeks."
+      },
+      {
+        "policyTitle": "Invest in future jobs",
+        "policyDescription": "Labour's Young Person's Guarantee means that every single school leaver from age 18 with six months' unfilled training or work experience are guaranteed a further education place or on the job training."
+      },
+      {
+        "policyTitle": "Fight for green manufacturing jobs",
+        "policyDescription": "I'll fight for green manufacturing jobs for Birmingham. Companies want to locate next to top research units. Birmingham University's hydrogen car research can create local high tech manufacturing jobs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Gisela Stuart",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Halve the budget deficit over 4 years. Raise money from those who have a lot (50% tax on earnings on £150,000). Protect tax breaks for lower earners and make cuts for ministers.",
+      "education": "",
+      "environment": "Fight for green manufacturing jobs that involve innovative, eco-friendly technology such as the development of a hydrogen car.",
+      "governance": "",
+      "health": "Protect NHS spending. A right to see a cancer specialist within two weeks. Together with local consultants and doctors to bid for a life saving proton beam cancer therapy facility to be built at the QE.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "5 Greenfield Crescent Edgbaston Birmingham B15 3BE",
+      "phone": "0121 270 7259",
+      "email": "gisela@teams.org.uk",
+      "website": "www.teams.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Take a long hard look at the Tories. The Tories say they have changed. But their priorities show they haven’t.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "New hydrogen car being developed at Birmingham University"
+        },
+        {
+          "caption": "Queen Elizabeth Hospital – The first new hospital for Birmingham in 70 years"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

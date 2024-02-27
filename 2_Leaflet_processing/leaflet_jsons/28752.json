@@ -1,0 +1,73 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Flick Drummond",
+    "constituency": "Portsmouth South",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "Your choice at this election:",
+        "content": "Strong, stable leadership in the national interest with Theresa May, OR a coalition of chaos with Jeremy Corbyn."
+      },
+      {
+        "title": "",
+        "content": "Think Jeremy Corbyn as Prime Minister is never going to happen? Don't be so sure."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Flick Drummond",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Brexit: Europe didn't work out the way you wanted.",
+      "economy": "The risk is just too big to take. Higher debt, higher taxes, economic chaos.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Standing with Theresa May"
+        },
+        {
+          "caption": "Flick Drummond Portsmouth South"
+        },
+        {
+          "caption": "General Election, Thursday 8th June"
+        }
+      ]
+    },
+    "additionalNotes": "Shock win headlines reference stunning Trump win and mention Brexit, the economy and Jeremy Corbyn, suggesting competitiveness and unpredictability of the election."
+  }
+}
+```

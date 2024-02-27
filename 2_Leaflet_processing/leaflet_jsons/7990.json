@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jack Straw",
+    "constituency": "Blackburn",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Everyone knows someone who has been helped by Jack",
+        "content": "Jack holds five walk-in advice surgeries each month, regular residents' meetings in every part of town, town-centre open air meetings each Saturday and his people have been Jack Straw’s priority in all that he’s achieved as MP."
+      },
+      {
+        "title": "Making a difference",
+        "content": "Helping to secure the economic recovery, Improving life for the elderly, Supporting families and children, More police and PCSOs, Tackling community cohesion"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Jack Straw",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Helping to secure the economic recovery",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "New community health facility - Shadsworth, Sure Start Children's Centre, Spring Bank, Improving life for the elderly",
+      "immigration": "",
+      "socialWelfare": "Supporting families and children",
+      "housing": [
+        {
+          "content":"For Jack no problem is too big, no issue too small. He provides answers and help for over 1400 new cases a year from constituents.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP for Blackburn",
+        "duration": "",
+        "achievements": "He deals with over 1400 new cases a year from constituents."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Christine Donnelly",
+        "endorsement": "Jack has given my family and me an astonishing amount of help over the years. Both his dedication and skill are remarkable and he’s helped us so much. I’ve seen how he has helped the town as a whole. What’s more, I know from so many friends that he gives the same high service to everybody."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A Sure Start Children’s Centre"
+        },
+        {
+          "caption": "New Community Health Facility - Shadsworth"
+        },
+        {
+          "caption": "Spring Bank"
+        }
+      ]
+    },
+    "additionalNotes": "Jack pledges to keep up the work improving Blackburn."
+  }
+}
+```

@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Joan Ryan",
+    "constituency": "Enfield North",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Shocking news: The Tories plan to close Chase Farm Hospital",
+        "content": "For months now I have been trying in vain to get a guarantee from the Tories about their plans for Chase Farm Hospital. All the Tory election candidate for Enfield North has said so far is that his position 'is not a guarantee that we will keep A&E and maternity' and that it was 'impossible to make commitments' about the hospital's future."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Joan Ryan",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The Lib Dems have so few votes here in Enfield North that even with Nick Clegg's surge recently they'll get nowhere near enough to win. In fact it is very possible that by voting Lib Dem, people may let the Tories in through the back door."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Shocking news: The Tories plan to close Chase Farm Hospital - For months now I have been trying in vain to get a guarantee from the Tories about their plans for Chase Farm Hospital. It's because the Tories here in Enfield want to close down Chase Farm Hospital and replace it with a private one.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "I now know that the Leader of the Tory-run Enfield Council has held meetings with the chief Executive of Chase Farm Hospital and the Chair of the Board of Trustees to discuss selling off the Chase Farm land to the owner of the King's Oak and Cavell, formerly the Nuffield, private hospitals so they can build one, larger, private hospital on the site.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Enfield North Labour Party, 605 Hertford Road, Enfield EN3 6UP",
+      "phone": "T: 0208 805 8212 / F: 01992 652 920",
+      "email": "joanryan@joanryan.net",
+      "website": "www.joanryan.net",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet image of Joan Ryan with Labour branding and campaign messages regarding Chase Farm Hospital."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet warns against voting for the Lib Dems, stating it might inadvertently result in a Tory win."
+  }
+}
+```

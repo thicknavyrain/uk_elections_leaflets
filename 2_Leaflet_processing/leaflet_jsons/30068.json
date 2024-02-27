@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Nuttall",
+    "constituency": "Bury North",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting the greenbelt",
+        "policyDescription": "Protecting the greenbelt around Bury, Ramsbottom and Tottington from unnecessary housing development."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Helping Theresa May to deliver the best Brexit deal for everyone in Bury North."
+      },
+      {
+        "policyTitle": "Supporting small businesses",
+        "policyDescription": "Supporting small businesses in Bury, Ramsbottom and Tottington."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Nuttall",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Helping Theresa May to deliver the best Brexit deal for everyone in Bury North.",
+      "economy": "",
+      "education": "",
+      "environment": "Protecting the greenbelt around Bury, Ramsbottom and Tottington from unnecessary housing development.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Protecting the greenbelt around Bury, Ramsbottom and Tottington from unnecessary housing development.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Nuttall with Theresa May"
+        },
+        {
+          "caption": "David Nuttall with two unidentified men"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

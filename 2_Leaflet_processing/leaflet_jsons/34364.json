@@ -1,0 +1,72 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Catherine Cui",
+    "constituency": "Poplar & Limehouse",
+    "politicalParty": "Brexit Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "I am Catherine Cui, your Brexit Party candidate... It's time to change politics for good... #FightToWin"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax Reduction & Investment",
+        "policyDescription": "Promise to reduce taxes including VAT, Corporation Tax and Tariff, and bring global investment to local communities."
+      },
+      {
+        "policyTitle": "Supporting Brexit",
+        "policyDescription": "Support leaving the EU, ensuring control of laws, borders, money, and fishing waters; getting a cheaper supply of food and start exporting again."
+      }
+    ],
+    "mentions": {
+      "candidate": "Catherine Cui",
+      "otherPartyLeaderCandidate": "Sheun Oke",
+      "partyLeader": "",
+      "tacticalSituation": "Encourages voter to not vote for the Conservative candidate Sheun Oke as they have not won since the 1920s and will not win this time with the current candidate."
+    },
+    "issues": {
+      "brexitEurope": "Support leaving the EU, ensuring control of laws, borders, money, and fishing waters.",
+      "economy": "Promise to reduce taxes including VAT, Corporation Tax and Tariff, and bring global investment to local communities.",
+      "education": "Invest money in schools and local communities.",
+      "environment": "",
+      "governance": "Fighting the 100 years of Labour dominance and corruption.",
+      "health": "No mention of health policy.",
+      "immigration": "",
+      "socialWelfare": "Tackle the homelessness crisis.",
+      "housing": [
+        {
+          "content": "Tackle the homelessness crisis by getting the right to decide who can come to trade with us and thereby reducing living costs via a cheaper supply of food.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am a Cambridge Graduate who worked at the Bank of England for more than five years both negotiating and dealing with the European Union and European Central Bank before becoming an international businesswoman and entrepreneur.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A campaign leaflet from Catherine Cui, the Brexit Party candidate."
+        }
+      ]
+    },
+    "additionalNotes": "Catherine Cui emphasizes that she is the change the constituency needs and highlights that as the potential first female Chinese MP in Britain, her victory would be historic."
+  }
+}
+```

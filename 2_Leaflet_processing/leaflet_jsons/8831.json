@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sarah Carr",
+    "constituency": "Ross-on-Wye",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Two Horse Race",
+        "content": "The election here is now a race between the Liberal Democrats and the Conservatives. Labour are in a distant third and cannot win here at this election. Only the Liberal Democrats and the Conservatives are strong enough to win in Herefordshire."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Sarah Carr, Paul Keetch",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Only Sarah Carr can beat the London based banker here!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Anger at bankers' bonuses as small businesses suffer.",
+      "education": "",
+      "environment": "",
+      "governance": "Council Chaos, local Conservatives and County Council have ignored the wishes of local people...",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "More and more Ross-on-Wye residents are backing Sarah Carr to be our next MP.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": "Paul Keetch campaigned against the closure of the local maternity ward and against Tory cuts to our schools and police. Sarah Carr has developed the town record of action over her own few years of involvement."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sarah Carr, and Paul Keetch show strong record of action for Ross-on-Wye."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

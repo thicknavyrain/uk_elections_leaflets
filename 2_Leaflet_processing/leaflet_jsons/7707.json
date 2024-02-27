@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sam Gurney",
+    "constituency": "new Kensington Parliamentary Constituency",
+    "politicalParty": "Labour",
+    "electionDate": "6 May",
+    "messages": [
+      {
+        "title": "Labour’s Ward Initiative",
+        "content": "Your local Councillors won funding from the Council for £30,000 to fix a very potholed road, have a community skip day, improve a park, and award £10,000 to the Golborne Festival."
+      },
+      {
+        "title": "Vote Labour on 6 May - or you could lose a lot...",
+        "content": "We Golborne Councillors work hard to represent you in Golborne Ward. We got the Council to allocate £1.5 million to improve Golborne Road, made sure the Community Kitchen opens..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Labour's housing policy would reduce the number of social rented homes being forcibly sold; keep people in the community; make renovations to lease properties cheaper."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sam Gurney",
+      "otherPartyLeaderCandidate": "Emma Dent Coad",
+      "partyLeader": "",
+      "tacticalSituation": "noting Lib Dem or Green will only mean a Tory Kensington"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour's housing policy would: Reduce the number of social rented homes being forcibly sold - Keep people in the community - Make renovations to lease properties cheaper.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "On May 6th we have a crucial decision to make about the future of our community",
+    "politicalExperience": [
+      {
+        "role": "Local Councillors",
+        "duration": "",
+        "achievements": "Won funding from the Council for £30,000 for community improvements, allocated £1.5 million to improve Golborne Road, and many other locally focused achievements."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "emma@kensingtonlabour.com, bridget@kensingtonlabour.com, pat@kensingtonlabour.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "The Tories are threatening to effectively abolish social housing without replacement. This must not be allowed to happen!",
+        "source": "Emma Dent Coad",
+        "date": ""
+      },
+      {
+        "text": "It is a travesty that the RBKC has not approved a CrossRail station for North Kensington. The economic and landmark rating was never understood.",
+        "source": "Pat Mason",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A candidate photo and message, housing policy, endorsement quotes, and local initiatives are depicted."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

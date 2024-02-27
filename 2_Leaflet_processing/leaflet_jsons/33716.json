@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Beckett",
+    "constituency": "Hackney South & Shoreditch",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "Election Communication",
+        "content": "Let's get Brexit done. Let's get on with the country's priorities. LET'S UNLEASH BRITAIN'S POTENTIAL."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Affordable Housing",
+        "policyDescription": "Building high quality and genuinely affordable new homes, as well as tackling unfair increases in rent and service charges."
+      },
+      {
+        "policyTitle": "Safer Streets",
+        "policyDescription": "More police on the streets of Hackney, and longer sentences for criminals so that they can be properly rehabilitated."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "More money for Homerton Hospital and other local NHS services, and a payrise for Hackney NHS staff."
+      },
+      {
+        "policyTitle": "Supporting Business",
+        "policyDescription": "Campaigning against rising rents and calling for a review of business rates to move the unfair tax burden away from shop owners."
+      },
+      {
+        "policyTitle": "Schools",
+        "policyDescription": "Increased funding for schools to give every child in Hackney the best start in life."
+      },
+      {
+        "policyTitle": "Cleaner Air",
+        "policyDescription": "Calling for an improved Vehicle Scrappage Scheme so that more people can afford to switch to electric/hybrid vehicles to improve air quality."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Beckett",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Let's get Brexit done.",
+      "economy": "More funding for every pupil in every school. £3.6 billion to help towns invest and attract new businesses.",
+      "education": "Increased funding for schools to give every child in Hackney the best start in life.",
+      "environment": "Calling for an improved Vehicle Scrappage Scheme so that more people can afford to switch to electric/hybrid vehicles to improve air quality.",
+      "governance": "",
+      "health": "More money for Homerton Hospital and other local NHS services, and a payrise for Hackney NHS staff.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Building high quality and genuinely affordable new homes, as well as tackling unfair increases in rent and service charges.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mark Beckett with constituents"
+        },
+        {
+          "caption": "Planned NHS investments and police force expansion"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

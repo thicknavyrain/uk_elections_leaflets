@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Margaret Mitchell and Robert Crozier",
+    "constituency": "Central Scotland Region",
+    "politicalParty": "Scottish Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Common sense policies. Promises kept.",
+        "content": "Vote Scottish Conservative with your regional list vote"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "More police on our streets",
+        "policyDescription": "Action to increase the number of police officers on the streets."
+      },
+      {
+        "policyTitle": "Action on affordable housing",
+        "policyDescription": "Extra funding for affordable housing and support for initiatives to create more affordable homes."
+      },
+      {
+        "policyTitle": "Help for small businesses",
+        "policyDescription": "The reduction or abolition of business rates for 72,000 small businesses across Scotland."
+      },
+      {
+        "policyTitle": "Cash to regenerate town centres",
+        "policyDescription": "A £60 million Town Centre Regeneration Fund."
+      },
+      {
+        "policyTitle": "Action on Council Tax bills",
+        "policyDescription": "A four year Council Tax freeze."
+      }
+    ],
+    "mentions": {
+      "candidate": "Margaret Mitchell and Robert Crozier",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Need for business experience in the Scottish Parliament to provide much-needed business experience to the Scottish economy.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Extra funding for affordable housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Margaret has an outstanding record of achievements working on behalf of constituents and Robert, with a background in financial services, will bring some much-needed business experience to the Scottish Parliament.",
+    "politicalExperience": [
+      {
+        "role": "Candidate",
+        "duration": "",
+        "achievements": "Together they are a formidable team to stand up for the interests of local people."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Margaret Mitchell and Robert Crozier are the top-ranked Conservative candidates."
+        }
+      ]
+    },
+    "additionalNotes": "Your Regional List vote - which is on a peach coloured ballot paper - is crucial to deciding the political balance of the Scottish Parliament and will make a real difference to the policies followed over the next five years."
+  }
+}
+```  

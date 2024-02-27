@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jon Oakton",
+    "constituency": "North Herefordshire",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Standing Up for Real Change",
+        "content": "The key issues I stand for are abolishing the bedroom tax, abolishing inheritance tax, bringing Herefordshire hospitals back under state ownership without PFI, and stopping the 40% further cuts proposed for Herefordshire Council services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Abolishing the Bedroom Tax",
+        "policyDescription": "Jon Oakton stands for the abolition of the bedroom tax."
+      },
+      {
+        "policyTitle": "Abolishing the Inheritance Tax",
+        "policyDescription": "Jon Oakton aims to abolish the inheritance tax."
+      },
+      {
+        "policyTitle": "State Ownership of Hospitals",
+        "policyDescription": "Jon Oakton proposes bringing Herefordshire hospitals back under state ownership without PFI."
+      },
+      {
+        "policyTitle": "Preventing Further Cuts",
+        "policyDescription": "Jon Oakton is focused on stopping the 40% further cuts proposed for Herefordshire Council services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jon Oakton",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Jon Oakton proposes bringing Herefordshire hospitals back under state ownership without PFI.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "07518 052500",
+      "email": "jonoakton@aol.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Election communication for Jon Oakton in North Herefordshire."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

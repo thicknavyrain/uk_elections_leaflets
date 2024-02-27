@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Joan Ryan",
+    "constituency": "Enfield North",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "I'll always stand up for Enfield and put local people first. I will:",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protect Chase Farm and the NHS",
+        "policyDescription": "Improve our NHS, with a guaranteed GP appointment within 48 hours."
+      },
+      {
+        "policyTitle": "Help people in Enfield with their cost of living",
+        "policyDescription": "An energy price freeze to stop energy bills going up anymore, and an increase to £8 in the Minimum Wage to make work pay."
+      },
+      {
+        "policyTitle": "Get more affordable homes",
+        "policyDescription": "Build more affordable homes for Enfield families and a fairer deal for renters, with longer tenancies and an end to unfair charges."
+      }
+    ],
+    "mentions": {
+      "candidate": "Joan Ryan",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "An energy price freeze to stop energy bills going up anymore, and an increase to £8 in the Minimum Wage to make work pay.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Improve our NHS, with a guaranteed GP appointment within 48 hours.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Build more affordable homes for Enfield families and a fairer deal for renters, with longer tenancies and an end to unfair charges.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Selbic Hall, 77 Lancaster Road, Enfield, EN2 0DW",
+      "phone": "0208 367 3396",
+      "email": "",
+      "website": "joanryan.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Joan Ryan with local residents and community leaders."
+        },
+        {
+          "caption": "Joan Ryan monitoring local service improvements."
+        },
+        {
+          "caption": "Joan Ryan supporting the construction of new affordable homes."
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by Amy Saunders on behalf of Joan Ryan, at Celtic Hall, 77 Lancaster Road, Enfield, EN2 0DW. Printed by Potts Print (UK) Ltd, Atlas House, Nelson Park, Cramlington, NE23 1WG."
+  }
+}
+```

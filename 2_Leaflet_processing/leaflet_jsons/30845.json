@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Carolyn Abbott",
+    "constituency": "Gedling",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "YOUR CHOICE AT THIS ELECTION:",
+        "content": "STRONG, STABLE LEADERSHIP IN THE NATIONAL INTEREST or A COALITION OF CHAOS WITH JEREMY CORBYN"
+      },
+      {
+        "title": "Think Jeremy Corbyn as Prime Minister is never going to happen?",
+        "content": "DON'T BE SO SURE"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Carolyn Abbott",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Brexit: Europe stunned by UK Leave vote",
+      "economy": "The risk is just too big to take: HIGHER DEBT, HIGHER TAXES, ECONOMIC CHAOS",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "SHOCK WIN",
+        "source": "Stunning Trump win",
+        "date": ""
+      },
+      {
+        "text": "SHOCK WIN",
+        "source": "Corbyn wins QS 200/1",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Carolyn Abbott standing with Theresa May"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

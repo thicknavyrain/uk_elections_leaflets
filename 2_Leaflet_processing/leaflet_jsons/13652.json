@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Shaw",
+    "constituency": "Holborn & St. Pancras",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "Only Nick Clegg will Change Britain on May 6th",
+        "content": "As the election comes to an end, it's clear that people want a bigger change now than ever before. We have fought this campaign on the key issue of fairness."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairness for children",
+        "policyDescription": "Fair taxation, with a £10,000 tax free allowance for all and pensions index linked."
+      },
+      {
+        "policyTitle": "Fairness for schools",
+        "policyDescription": "A fair and sustainable economy, building up jobs in the environment sector."
+      },
+      {
+        "policyTitle": "Fairness for politics",
+        "policyDescription": "Reform of parliament and the voting system, an end to massive donations and lobbyists, and an end to the abuses of power by government and MPs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jo Shaw",
+      "otherPartyLeaderCandidate": "Nick Clegg",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Reform of parliament and the voting system, an end to massive donations and lobbyists, and an end to the abuses of power by government and MPs.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "In my first time in 65 years, there's a chance for change in Britain. Only Nick Clegg stands for that change. A vote for Nick Clegg and the Liberal Democrats is a vote for a fairer Britain, with reform of politics and fairer treatment of the weak and protecting our economy.",
+    "politicalExperience": [
+      {
+        "role": "Parliamentary Candidate",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "53 Reachview Close, London NW1 0TY",
+      "phone": "",
+      "email": "jo@shaw2win.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jo Shaw, Parliamentary Candidate for Holborn & St. Pancras"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

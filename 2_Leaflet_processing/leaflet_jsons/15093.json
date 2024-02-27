@@ -1,0 +1,53 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Sheffield",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nigel Farage",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nigel Farage - UKIP Leader"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet primarily contains an invitation to fill out a survey with a secondary emphasis on support for UKIP and the representation of UKIP for a better future for Sheffield."
+  }
+}
+```

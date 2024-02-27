@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "HELEN MCFARLANE",
+    "constituency": "Airdrie and Shotts",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "IT'S TIME FOR REAL CHANGE",
+        "content": "FOR THE MANY, NOT THE FEW"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "HELEN MCFARLANE",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "HELEN MCFARLANE posing in front of a cityscape, wearing a red blazer with a Scottish Labour rosette."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

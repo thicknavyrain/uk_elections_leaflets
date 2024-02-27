@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Seacombe",
+    "politicalParty": "",
+    "electionDate": "Thursday",
+    "messages": [
+      {
+        "title": "Save our Sure Start",
+        "content": "Our local Sure Start children's nursery here on St Paul's Road in Seacombe helps mums like us with child minding and support for our toddlers. The staff here are doing a fantastic job! But despite the great service that Sure Start provides, the Tories have said that they will cut its budget if they win the election on Thursday. That means our centre here in Seacombe is at risk of closing. We really can't afford to let that happen."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Sure Start",
+        "policyDescription": "Support for the Sure Start children's nursery to prevent closure due to budget cuts."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Support for local children's nursery to continue providing child minding and support for toddlers.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Seacombe Sure Start Mums",
+        "endorsement": "Supporting the campaign to save Sure Start."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Sure Start helps us get a better standard of living and gives our kids the best start in life.",
+        "source": "Seacombe Sure Start Mums",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A handwritten campaign leaflet regarding the support for Sure Start in Seacombe."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

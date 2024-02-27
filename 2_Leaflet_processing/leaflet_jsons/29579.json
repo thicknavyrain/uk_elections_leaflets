@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Prior",
+    "constituency": "Arundel and South Downs",
+    "politicalParty": "Green Party",
+    "electionDate": "June 8",
+    "messages": [
+      {
+        "title": "STANDING UP FOR WHAT MATTERS",
+        "content": "SAVING THE NHS, AFFORDABLE HOMES FOR ALL, FAIR FUNDING FOR LOCAL SCHOOLS, A VOTE ON THE TERMS OF BREXIT, FIGHTING AUSTERITY, ACTION ON CLIMATE CHANGE"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "SAVING THE NHS",
+        "policyDescription": "Ensuring that our most vulnerable members are properly supported."
+      },
+      {
+        "policyTitle": "AFFORDABLE HOMES FOR ALL",
+        "policyDescription": "Work with local campaigners fighting oil drilling and take immediate and decisive action to improve public transport and tackle the congestion on our roads."
+      },
+      {
+        "policyTitle": "FAIR FUNDING FOR LOCAL SCHOOLS",
+        "policyDescription": "Demand fair funding for our schools, an end to SATS and a balanced and age appropriate curriculum."
+      },
+      {
+        "policyTitle": "A VOTE ON THE TERMS OF BREXIT",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "FIGHTING AUSTERITY",
+        "policyDescription": "Insist that our NHS and social care, the police and fire services are fully funded."
+      },
+      {
+        "policyTitle": "ACTION ON CLIMATE CHANGE",
+        "policyDescription": "Work to ensure that everyone has an affordable home with good transport links and secure, meaningful work whilst at the same time protecting the environment and tackling climate change."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jo Prior",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Demand fair funding for our schools, an end to SATS and a balanced and age appropriate curriculum.",
+      "environment": "Work to ensure that everyone has an affordable home with good transport links and secure, meaningful work whilst at the same time protecting the environment and tackling climate change.",
+      "governance": "",
+      "health": "Ensuring that our most vulnerable members are properly supported. Will insist that our NHS and social care, the police and fire services are fully funded.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Work to ensure that everyone has an affordable home with good transport links.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "“As your MP I will never forget that I work for you. The Green Party is a party of social and environmental good, which wants to transform society for the benefit of all, and for the planet as a whole. I can't guarantee you that as your MP I will achieve this, but I can tell you that I will give it my best shot.”",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "SWAT Marketing Ltd, 74 Preston Road, Brighton, East Sussex, BN1 4QG",
+      "phone": "",
+      "email": "greenjprior@gmail.com",
+      "website": "https://joannaprior.wixsite.com/vote-green",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/jopriorgreenparty/",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "“As your MP I will never forget that I work for you. The Green Party is a party of social and environmental good, which wants to transform society for the benefit of all, and for the planet as a whole. I can't guarantee you that as your MP I will achieve this, but I can tell you that I will give it my best shot.”",
+        "source": "Jo Prior",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Jo Prior with the text 'VOTE FOR JO PRIOR'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

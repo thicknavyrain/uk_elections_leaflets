@@ -1,0 +1,110 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Keith Simpson",
+	"constituency": "Broadland Constituency",
+	"politicalParty": "Conservative",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "LABOUR'S TAX ON JOBS WILL KILL THE RECOVERY",
+    	"content": "The re-election of Gordon Brown's government - more debt, waste and taxes - will bring us a new recession. ... Keith Simpson with David Cameron"
+  	},
+  	{
+    	"title": "A STRONG VOICE",
+    	"content": "Keith is determined to see the military covenant respected. ... Supporter of Cancer & Polio Eradication Fights for Wanstead Park Veterans' Toy Parade."
+  	},
+  	{
+    	"title": "BACKING THE NHS",
+    	"content": "The NHS is our number one priority. We back it and we want to improve it for everyone."
+  	},
+  	{
+    	"title": "BACKING LOCAL BUSINESS",
+    	"content": "As an MP for 13 years Keith has kept regular touch with local business through business surveys..."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Combat Gordon Brown's legacy of more debt, waste, and taxes which could lead to a new recession."
+  	},
+  	{
+    	"policyTitle": "Supporting the Military",
+    	"policyDescription": "Determined to see the military covenant respected and to fully support service personnel and their families."
+  	},
+  	{
+    	"policyTitle": "Healthcare",
+    	"policyDescription": "Backs the NHS as the number one priority, aiming to improve it for everyone."
+  	},
+  	{
+    	"policyTitle": "Local Business",
+    	"policyDescription": "Keeps in touch with local businesses through regular surveys; supports measures to help grow and create a resilient economy."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Keith Simpson",
+  	"otherPartyLeaderCandidate": "Gordon Brown",
+  	"partyLeader": "David Cameron",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Combat Gordon Brown's legacy of more debt, waste, and taxes which could lead to a new recession.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Backs the NHS as the number one priority, aiming to improve it for everyone.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "MP for Broadland",
+    	"duration": "13 years",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "The Old Smithy, Church Farm, Alderfen Road, Surlingham, Norwich, NR14 7GD",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Keith Simpson with David Cameron"
+    	},
+    	{
+      	"caption": "Keith working with local community"
+    	},
+    	{
+      	"caption": "Support for veterans"
+    	},
+    	{
+      	"caption": "Support for local businesses"
+    	},
+    	{
+      	"caption": "Map of Broadland Constituency Contact Points"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nicola Sturgeon",
+    "constituency": "",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "More SNP seats means more influence and power for the people of Scotland.",
+        "content": "More SNP seats means more influence and power for the people of Scotland."
+      },
+      {
+        "title": "It's time for a more responsible economic policy",
+        "content": "It's time for a more responsible economic policy, one which boosts long-term growth, creates jobs and delivers for all."
+      },
+      {
+        "title": "Voting SNP means...",
+        "content": "Voting SNP means..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "We'll make sure Scotland's NHS is always cared for -- its budget protected and its future secure in public hands."
+      },
+      {
+        "policyTitle": "Economic Policy",
+        "policyDescription": "It's time for a more responsible economic policy, one which boosts long-term growth, creates jobs and delivers for all."
+      },
+      {
+        "policyTitle": "Childcare Investment",
+        "policyDescription": "With budgets so tight, we'll invest in childcare and vital public services not waste £100 billion on new nuclear weapons."
+      },
+      {
+        "policyTitle": "Nuclear Disarmament",
+        "policyDescription": "Bairns not Bombs - We'll spend better on childcare and public services rather than on nuclear weapons."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nicola Sturgeon",
+      "otherPartyLeaderCandidate": "Tory-Labour",
+      "partyLeader": "Nicola Sturgeon",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "It's time for a more responsible economic policy, one which boosts long-term growth, creates jobs and delivers for all.",
+      "education": "",
+      "environment": "",
+      "governance": "The SNP will play a constructive role in Westminster and bring ideas forward in a positive spirit.",
+      "health": "We'll make sure Scotland's NHS is always cared for -- its budget protected and its future secure in public hands.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "With budgets so tight, we'll invest in childcare and vital public services not waste £100 billion on new nuclear weapons.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "We offer a real alternative to the drab Tory-Labour cuts consensus in Westminster.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Daily Record",
+        "endorsement": "The Vow"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We offer a real alternative to the drab Tory-Labour cuts consensus in Westminster.",
+        "source": "Nicola Sturgeon, Speech to the London School of Economics, 16 March 2015",
+        "date": "2015-03-16"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nicola Sturgeon's photo with signature on the campaign leaflet."
+        }
+      ]
+    },
+    "additionalNotes": "The campaign leaflet encourages downloading the SNP app and mentions 'The Vow' as an endorsement from Daily Record."
+  }
+}
+```

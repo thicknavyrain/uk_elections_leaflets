@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "SNP",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "STOP THE TORIES",
+        "content": "On Thursday 8th June, vote SNP to stand up to the hard-right Tories, and to give Scotland a strong voice at Westminster."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Margaret Thatcher, Michael Gove, Ruth Davidson, Jeremy Hunt, Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "On Thursday 8th June, vote SNP to stand up to the hard-right Tories, and to give Scotland a strong voice at Westminster."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

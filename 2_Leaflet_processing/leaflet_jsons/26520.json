@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mick Gee",
+    "constituency": "Coventry North West",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "8th June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Support a free NHS",
+        "policyDescription": "Stop sending money to Brussels and spend it on training doctors and nurses instead. Cut wasteful administration and redirect savings into front-line services. Stop health tourism. End hospital parking charges."
+      },
+      {
+        "policyTitle": "Education and Skills",
+        "policyDescription": "More grammar schools and technical skills colleges, vocational education courses and apprenticeships. Give parents the right to choose where their children go to school. Protect rural schools and home schooling."
+      },
+      {
+        "policyTitle": "Safer communities",
+        "policyDescription": "Get police officers back on the beat and stop the scrapping of front-line police jobs. Adopt a zero tolerance approach to anti-social behaviour, joy-riders and crack down on nuisance neighbours."
+      },
+      {
+        "policyTitle": "Save our Green Belt",
+        "policyDescription": "Houses and Jobs for Local people"
+      }
+    ],
+    "mentions": {
+      "candidate": "Mick Gee",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Stop sending money to Brussels.",
+      "economy": "",
+      "education": "More grammar schools and technical skills colleges, vocational education courses and apprenticeships.",
+      "environment": "Save our Green Belt.",
+      "governance": "",
+      "health": "Support a free NHS. Stop health tourism. End hospital parking charges.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Houses and Jobs for Local people",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "mickgee.org.uk",
+      "website": "mickgee.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet with Mick Gee's campaign promises and image of the Westminster bubble."
+        }
+      ]
+    },
+    "additionalNotes": "Election Communication"
+  }
+}
+```

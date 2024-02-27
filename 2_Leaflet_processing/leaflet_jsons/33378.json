@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Matthew Evans",
+    "constituency": "Newport West",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "Your local vote will decide the next Prime Minister",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Brexit done with a deal, More funding available for schools across Wales"
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "An extra £1.2 billion for the Welsh NHS, 20,000 more nurses"
+      },
+      {
+        "policyTitle": "Policing",
+        "policyDescription": "20,000 extra police for safer streets"
+      },
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Cutting income tax for 32 million people"
+      },
+      {
+        "policyTitle": "Investment",
+        "policyDescription": "£700 million to deliver Growth Deals across Wales"
+      },
+      {
+        "policyTitle": "Broadband",
+        "policyDescription": "Gigabit broadband to every home"
+      }
+    ],
+    "mentions": {
+      "candidate": "Matthew Evans, Local campaigner and experienced councillor",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn propped up by Nicola Sturgeon",
+      "partyLeader": "Your local vote will decide the next Prime Minister (Images of Boris Johnson and Jeremy Corbyn)",
+      "tacticalSituation": "This election will be close. YOUR LOCAL VOTE will decide it."
+    },
+    "issues": {
+      "brexitEurope": "Brexit done with a deal",
+      "economy": "",
+      "education": "More funding available for schools across Wales",
+      "environment": "",
+      "governance": "",
+      "health": "An extra £1.2 billion for the Welsh NHS, 20,000 more nurses",
+      "immigration": "",
+      "socialWelfare": "Cutting income tax for 32 million people",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Has a plan to improve our city and deliver for local residents.",
+    "politicalExperience": [
+      {
+        "role": "Local councillor",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+
+    ],
+    "quotes": [
+
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Delivering Brexit in Newport West"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

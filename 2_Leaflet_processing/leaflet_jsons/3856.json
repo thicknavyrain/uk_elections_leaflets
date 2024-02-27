@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Steve Pound",
+    "constituency": "Ealing North",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "ACTION ON CRIME IN YOUR AREA",
+        "content": "Labour demands more action on Crime in Ealing and has repeated calls for Tory Mayor Boris Johnson to deliver more police officers to our under-staffed police force."
+      },
+      {
+        "title": "ACTION ON KNIFE CRIME",
+        "content": "Labour has taken the tough and necessary measures to combat the growing problem of knife crime. Knife crime in our communities is a serious problem, and action must be taken to ensure more lives are not lost."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "Demands more action on crime, specifically calling for more police officers to address under-staffing and a reduction in crime."
+      },
+      {
+        "policyTitle": "Knife Crime",
+        "policyDescription": "Labour has increased the minimum sentence criminals must serve if they commit murder using a knife, with plans to ensure even tougher sentences against those found carrying an illegal knife."
+      }
+    ],
+    "mentions": {
+      "candidate": "Steve Pound",
+      "otherPartyLeaderCandidate": "Boris Johnson, Jason Stacey",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Steve Pound, Labour candidate for Ealing North said 'Jason Stacey recently tried to cover up Tory incompetence on crime by taking out a lot of our hard working officers. The truth is that it is a Tory Mayor and a Tory Council who are responsible for the surge of unnecessary increased crime rate.'",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ealinglabour.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Steve Pound talking with two police officers about action on crime. Labour has delivered 16,000 more police officers, whilst Boris has cut 455."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

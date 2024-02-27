@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [
+	  {
+	    "title": "WE NEED THIS ELECTION NOW",
+	    "content": "We need this election now to secure the strong and stable leadership that the United Kingdom needs to see us through Brexit and beyond; to lock in the economic progress we have made together."
+	  }
+	],
+	"keyPolicies": [
+	  {
+	    "policyTitle": "Brexit",
+	    "policyDescription": "Seeking strong and stable leadership to see the UK through Brexit and beyond."
+	  },
+	  {
+	    "policyTitle": "Economy",
+	    "policyDescription": "To lock in economic progress, opposing higher taxes, fewer jobs, more waste and more debt."
+	  }
+	],
+	"mentions": {
+	  "candidate": "",
+	  "otherPartyLeaderCandidate": "Labour, Lib Dem and SNP opponents",
+	  "partyLeader": "",
+	  "tacticalSituation": ""
+	},
+	"issues": {
+	  "brexitEurope": "Our Labour, Lib Dem and SNP opponents are already seeking to disrupt our Brexit negotiations.",
+	  "economy": "Bringing grave risk to our growing economy with higher taxes, fewer jobs, more waste and more debt.",
+	  "education": "",
+	  "environment": "",
+	  "governance": "",
+	  "health": "",
+	  "immigration": "",
+	  "socialWelfare": "",
+	  "housing": [
+	    {
+	      "content":"",
+	      "yimbyNimby": "N/A"
+	    }
+	  ]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+	  {
+	    "role": "",
+	    "duration": "",
+	    "achievements": ""
+	  }
+	],
+	"contactInformation": {
+	  "address": "",
+	  "phone": "",
+	  "email": "",
+	  "website": "",
+	  "socialMedia": {
+	    "facebook": "",
+	    "twitter": "",
+	    "instagram": "",
+	    "linkedin": ""
+	  }
+	},
+	"endorsements": [
+	  {
+	    "endorser": "",
+	    "endorsement": ""
+	  }
+	],
+	"quotes": [],
+	"campaignMaterial": {
+	  "images": [
+	    {
+	      "caption": "WE NEED THIS ELECTION NOW"
+	    }
+	  ]
+	},
+	"additionalNotes": ""
+  }
+}
+```

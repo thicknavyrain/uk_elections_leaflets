@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mary Glindon",
+    "constituency": "North Tyneside",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "For the many not the few",
+        "content": "Under the Tories our NHS has been brought to its knees. Labour will give the NHS the money it needs and will give everyone in home a hospital with a properly integrated health and social care service."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Labour will create top-class comprehensive schools by working with teachers."
+      },
+      {
+        "policyTitle": "National Health Service",
+        "policyDescription": "Labour will give the NHS the money it needs and integrate health and social care services."
+      },
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "Labour will extend the winter fuel allowance and WASPI."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mary Glindon",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "education": "Labour will create top-class comprehensive schools by working with teachers.",
+      "health": "Under the Tories our NHS has been brought to its knees. Labour will give the NHS the money it needs and will give everyone in home a hospital with a properly integrated health and social care service.",
+      "pensions": "Labour will extend the winter fuel allowance and WASPI - cheated out of their pensions by the Coalition Government."
+    },
+    "personalStatement": "I am proud and passionate about North Tyneside and my aim to make life better for everyone living here has driven my work in Parliament and in the constituency. I have helped thousands of individuals and scores of vital businesses and essential community organisations through my parliamentary work, campaigning for jobs, supporting our families, young people, pensioners, veterans and the disabled. I promise that, if re-elected, I would continue to hold regular surgeries and weekly street visits, maintain an accessible constituency office, and be a strong champion for North Tyneside and its people in Parliament. Please trust me to represent your interests and vote Labour on 8th June.",
+    "politicalExperience": [
+      {
+        "role": "MP for the place where she was born and have lived all my life",
+        "duration": "Last seven years",
+        "achievements": "Supported many individuals and organisations in the constituency."
+      }
+    ],
+    "contactInformation": {
+      "address": "North Tyneside Freepost, NEA4534, NE12 9BA",
+      "phone": "0191 2345678",
+      "email": "mary.glindon@parliament.uk",
+      "website": "visit www.maryglindonmp.co.uk",
+      "socialMedia": {
+        "facebook": "MaryGlindon",
+        "twitter": "@MaryGlindon",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Norma Redfearn",
+        "endorsement": "Mary has been a hard working Member of Parliament for North Tyneside. She has been extremely supportive to me and helped to bring business and jobs to the area to boost the local economy."
+      },
+      {
+        "endorser": "Liz McMullen",
+        "endorsement": "Mary values voluntary and community involvement in North Tyneside. She has volunteered and worked in the Voluntary Sector and in Parliament she has opposed government cuts to funding."
+      },
+      {
+        "endorser": "John Marshall",
+        "endorsement": "I am backing Mary because she speaks up for North Tyneside in Westminster. I trust her to represent me as she genuinely cares about the place she comes from and the people who live here."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Serving as the MP for the place where I was born and have lived all my life has been a great honour and duty.",
+        "source": "Mary Glindon",
+        "date": ""  // No specific date provided, just tenure as MP mentioned
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mary Glindon, Labour candidate for North Tyneside."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

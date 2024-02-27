@@ -1,0 +1,106 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stephen Williams",
+    "constituency": "Bristol West",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A record of delivery for Bristol West",
+        "content": "Stephen has a 20 year record of action for our area."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Local residents know that the race to be the next MP for Bristol West is between local Lib Dem Stephen Williams and the GREENs."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Stephen Williams has dedicated his life to fighting inequality. He received international recognition for his campaigns against racism, and won more money from government to ensure that every child in Bristol has a place in school."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "The Liberal Democrats have committed to invest £8 billion a year more in the NHS to ensure it remains a world class service we can continue to be proud of."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stephen Williams",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "It's a choice between the Lib Dems and Labour here. The Conservatives are out of the race in Bristol West."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Building a stronger economy.",
+      "education": "More money dedicated to the education of the poorest children.",
+      "environment": "",
+      "governance": "",
+      "health": "£8 billion extra for the NHS. The Liberal Democrats have committed to invest £8 billion a year more in the NHS to ensure it remains a world class service.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Cotham resident Tom Townsend",
+        "endorsement": "a better deal on cleaner streets, recycling, bus services and our share."
+      },
+      {
+        "endorser": "Cabot East Councillor Christian Martin",
+        "endorsement": "Stephen has played a key part in saving cash for our pavements, parks & street cleaning."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Stephen Williams has dedicated his life to fighting inequality. He received international recognition for his campaigns against racism, and won more money from government to ensure that every child in Bristol has a place in school.",
+        "source": "On his work for education.",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A record of delivery for Bristol West"
+        },
+        {
+          "caption": "Stephen Williams: For a fairer society and stronger economy"
+        },
+        {
+          "caption": "Make it count!"
+        },
+        {
+          "caption": "The Liberal Democrat plan for Britain"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

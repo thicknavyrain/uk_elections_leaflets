@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Antoinette SANDABACH",
+	"constituency": "Eddisbury",
+	"politicalParty": "Conservatives",
+	"electionDate": "7th May",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Growing the economy",
+    	"policyDescription": "Growing the economy in Winsford and our villages with record jobs and apprenticeships"
+  	},
+  	{
+    	"policyTitle": "Boosting our NHS, elderly and social care services, school standards up, crime down",
+    	"policyDescription": "Boosting our NHS, elderly and social care services, school standards up, crime down"
+  	},
+  	{
+    	"policyTitle": "Lower Income Tax and Business Rates, pensions protected and lower Council Tax",
+    	"policyDescription": "Lower Income Tax and Business Rates, pensions protected and lower Council Tax"
+  	}
+	],
+	"mentions": {
+  	"candidate": "Antoinette Sandbach",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Growing the economy in Winsford and our villages with record jobs and apprenticeships",
+  	"education": "Boosting our NHS, elderly and social care services, school standards up, crime down",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Boosting our NHS, elderly and social care services, school standards up, crime down",
+  	"immigration": "",
+  	"socialWelfare": "Boosting our NHS, elderly and social care services, school standards up, crime down",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "School governor",
+    	"duration": "",
+    	"achievements": "Understands the need for high standards in schools."
+  	},
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": "A seasoned campaigner for accessible and affordable childcare."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.antoinettesandbach.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Antoinette SANDABACH with constituents"
+    	},
+    	{
+      	"caption": "Antoinette SANDABACH at Leighton Hospital"
+    	},
+    	{
+      	"caption": "Antoinette SANDABACH campaigning"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

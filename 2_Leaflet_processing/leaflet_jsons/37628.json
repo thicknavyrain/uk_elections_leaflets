@@ -1,0 +1,114 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alex Cole-Hamilton",
+    "constituency": "Edinburgh",
+    "politicalParty": "Lib Dem",
+    "electionDate": "May's election",
+    "messages": [
+      {
+        "title": "KEEP OUR POLICE LOCAL",
+        "content": "The biggest threat to local policing for a generation. Lib Dems oppose a new Glasgow-Led police force."
+      },
+      {
+        "title": "A BIG GREEN BOOST",
+        "content": "Scotland will benefit from the Lib Dem's proposals for a Green Investment Bank based here in Edinburgh."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Policing",
+        "policyDescription": "Opposes plans to scrap Lothian & Borders police to be replaced by a Scotland-wide police force, believes local policing decisions should be made here."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Challenges Labour's deficit and suggests using debt interest savings to invest in economy, education, or healthcare."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Advocates for building 10 new primary schools each and every hour."
+      },
+      {
+ {
+        "policyTitle": "Defense",
+        "policyDescription": "Presents the option to buy a new Chinook helicopter every day."
+      },
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Proposes to take the poorest 1 million people out of Income Tax."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Promises to triple the number of doctors in hospitals."
+      },
+      {
+        "policyTitle": "Green Investment",
+        "policyDescription": "Supports basing the Green Investment Bank in Edinburgh."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alex Cole-Hamilton says that Edinburgh’s policing decisions should be made here.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Would save money from debt interest to invest in economy, education, or healthcare.",
+      "education": "Could build 10 new primary schools each hour with savings from debt interest.",
+      "environment": "Promotion of a Green Investment Bank based in Edinburgh suggests environmental concerns.",
+      "governance": "",
+      "health": "Could increase the number of doctors in hospitals by tripling them with savings from debt interest.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "FREEPOST EH877, 4 Clifton Terrace, Edinburgh, EH12 5DR",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Alex Cole-Hamilton standing before a police vehicle."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

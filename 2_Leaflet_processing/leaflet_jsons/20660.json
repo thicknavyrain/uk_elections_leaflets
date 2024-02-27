@@ -1,0 +1,123 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Selaine Saxby",
+	"constituency": "Llanelli",
+	"politicalParty": "Welsh Conservatives",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Competent leadership or Coalition of chaos",
+    	"content": "The choice at the General Election."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "The deficit down, income tax cut, more jobs and businesses created."
+  	},
+    {
+      "policyTitle": "Education",
+      "policyDescription": ""
+    },
+    {
+      "policyTitle": "Health",
+      "policyDescription": ""
+    },
+    {
+      "policyTitle": "Immigration",
+      "policyDescription": ""
+    },
+    {
+      "policyTitle": "Environment",
+      "policyDescription": ""
+    },
+    {
+      "policyTitle": "Social Welfare",
+      "policyDescription": ""
+    },
+    {
+      "policyTitle": "Housing",
+      "policyDescription": ""
+    },
+    {
+      "policyTitle": "Governance",
+      "policyDescription": ""
+    },
+    {
+      "policyTitle": "Brexit/Europe",
+      "policyDescription": ""
+    }
+	],
+	"mentions": {
+  	"candidate": "Selaine Saxby",
+  	"otherPartyLeaderCandidate": "Ed Miliband",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "The deficit down, income tax cut, more jobs and businesses created.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "Sydney J Charles, 132 Pentre Nicklaus Village, Llanelli, SA15 2DF",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "David Cameron",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Borrowing to spend doesn't work - just look at Greece, Portugal & Spain...",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Selaine Saxby - Securing a better future for Llanelli."
+    	},
+    	{
+    	  "caption": "Competent leadership or Coalition of chaos"
+    	},
+    	{
+    	  "caption": "Bosses queue up to warn: Miliband will bankrupt Britain."
+    	}
+  	]
+	},
+	"additionalNotes": "Promoted by Bethan Sayed, on behalf of Selaine Saxby, both at Unit 2 Ffordd Y Fynnon, Treforest Ind. Est, Pontypridd, CF37 5UR."
+  }
+}
+```

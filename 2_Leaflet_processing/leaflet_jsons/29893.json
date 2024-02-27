@@ -1,0 +1,68 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Meg Powell-Chandler",
+	"constituency": "Birmingham Northfield",
+	"politicalParty": "Conservative",
+	"electionDate": "June 8th",
+	"messages": [
+  	{
+    	"title": "BREXIT NEGOTIATIONS ARE STARTING IN UNDER TWO WEEKS",
+    	"content": "Just 11 days after you vote, Brexit negotiations with Britain will begin. So whoever is Prime Minister must be up to the job and ready to start."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Brexit",
+    	"policyDescription": "Stands for a strong representation of Britain in Brexit negotiations, suggesting that getting Brexit wrong would negatively impact various aspects of society including economy and security."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Meg Powell-Chandler",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn, Richard Burden",
+  	"partyLeader": "Theresa May",
+  	"tacticalSituation": "It could come down to just six seats, ours in Birmingham Northfield could be one of them, so your vote really matters."
+	},
+	"issues": {
+  	"brexitEurope": "Getting Brexit wrong will negatively impact economy, education, and security.",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "I'm standing with Theresa May because she has a plan for Brexit and the ability to deliver. This will mean we can guarantee increased funding for schools and hospitals every year as well as helping businesses create even more well-paid jobs.",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "27 Lord House, Birmingham B29 6HR",
+  	"phone": "0121 472 0740",
+  	"email": "meg@northfieldconservatives.com",
+  	"website": "www.northfieldconservatives.com",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Meg Powell-Chandler. Conservative Candidate for Birmingham Northfield."
+    	}
+  	]
+	},
+	"additionalNotes": "P.S. With so much at stake not voting is the same as voting for Jeremy Corbyn to become Prime Minister. Please make your vote count. Polling stations are open from 7am to 10pm on Thursday 8th."
+  }
+}
+```

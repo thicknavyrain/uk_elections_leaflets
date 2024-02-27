@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "Haringey",
+	"politicalParty": "Green Party",
+	"electionDate": "7 May 2015",
+	"messages": [
+  	{
+    	"title": "SAYS: CLAIM YOUR VOTE",
+    	"content": "Not yet registered to vote in Haringey? You've got until 20 April 2015 to register to vote in the General Election on 7 May 2015."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "605 Lordship Lane N22 5LE",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.haringeygreens.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Haringey Green Party leaflet page encouraging voter registration."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet provides information on voter registration and informs about the ability for Irish, British Commonwealth and British Dependent Territory citizens currently resident in the UK to vote in all UK elections. It also states the importance of registration for EU citizens resident in the UK, as they cannot vote in general elections but can in local and European Parliament elections."
+  }
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Vince Cable",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Let’s get Britain on the road to recovery",
+        "content": "Our economy is in a fragile state. One wrong move could send Britain tumbling back into recession. Now more than ever our country needs the right policies to get the economy moving again."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic Recovery",
+        "policyDescription": "Implement policies to avoid recession and get the economy moving."
+      },
+      {
+        "policyTitle": "Bank Reform",
+        "policyDescription": "Break up the banks to ensure that people's savings are never put at risk again."
+      },
+      {
+        "policyTitle": "Jobs Creation",
+        "policyDescription": "Move to get the banks lending to small businesses to help create jobs."
+      },
+      {
+        "policyTitle": "Fair Tax Plan",
+        "policyDescription": "Implement a fair tax plan that puts money back in the pockets of ordinary families."
+      }
+    ],
+    "mentions": {
+      "candidate": "Vince Cable",
+      "otherPartyLeaderCandidate": "David Cameron, George Osborne",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "One wrong move could send Britain tumbling back into recession. Now more than ever our country needs the right policies to get the economy moving again.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "After thirteen years of disappointment and failure, you’ve seen what Labour can do.",
+    "politicalExperience": [
+      {
+        "role": "Shadow Chancellor of the Exchequer for the Liberal Democrats",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Cowley Street, London, SW1P 3NB",
+      "phone": "",
+      "email": "",
+      "website": "www.libdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Vince Cable"
+        }
+      ]
+    },
+    "additionalNotes": "PS - Make sure your voice is heard by signing up for a postal vote today using the form enclosed. Your vote could be the one that brings real change to Britain."
+  }
+}
+```

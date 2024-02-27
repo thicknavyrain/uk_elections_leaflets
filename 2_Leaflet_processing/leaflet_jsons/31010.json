@@ -1,0 +1,78 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "WHAT THE LIB DEMS WOULD RATHER YOU FORGET?",
+        "content": "Quotes from Lib Dem leader Tim Farron, and Nick Clegg."
+      },
+      {
+        "title": "YOU CAN'T TRUST THE LIBERAL DEMOCRATS",
+        "content": "You promised not to increase tuition fees, then you trebled them. You promised a fairer voting system, you gave us a referendum that backed the status quo. You promised to reform the Lords, and then packed it with more unelected peers."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Tim Farron, Nick Clegg",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "You promised not to increase tuition fees, then you trebled them.",
+      "environment": "",
+      "governance": "You promised a fairer voting system, you gave us a referendum that backed the status quo. You promised to reform the Lords, and then packed it with more unelected peers.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Abortion is wrong ... Said in an interview with Salvation Army",
+        "source": "Tim Farron, 18 May 2007"
+      },
+      {
+        "text": "... Lib Dems would force ...",
+        "source": "Nick Clegg, The Guardian, May 2010"
+      },
+      {
+        "text": "Nick Clegg ... sees betrayal votes as least deceitful option for the country.",
+        "source": "Tim Farron, The Guardian, October 2006"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign leaflet from Labour targeting the Liberal Democrats."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

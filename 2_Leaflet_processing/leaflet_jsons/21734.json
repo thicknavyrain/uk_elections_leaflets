@@ -1,0 +1,110 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "MARK FIELD",
+    "constituency": "Cities of London & Westminster",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A strong voice for Cities of London & Westminster",
+        "content": "Fighting for top services - since 2010 I have backed transport upgrades and secured investment in our hospitals and a new school."
+      },
+      {
+        "title": "Competent leadership or Coalition of Chaos",
+        "content": "On 7th May, your vote will deliver..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Transport and Health Investment",
+        "policyDescription": "Backed transport upgrades and secured investment in hospitals and a new school since 2010."
+      },
+      {
+        "policyTitle": "Championing London",
+        "policyDescription": "Against envy-driven policies like a mansion tax and the negative rhetoric so damaging to the UK's reputation."
+      },
+      {
+        "policyTitle": "Representing ALL constituents",
+        "policyDescription": "Speaking for the voiceless on issues like homelessness and low pay."
+      }
+    ],
+    "mentions": {
+      "candidate": "MARK FIELD",
+      "otherPartyLeaderCandidate": "Miliband, Salmond",
+      "partyLeader": "Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Job total hits record high while wages surge. Benefits cap 'leads more into work'. Tax cuts for workers and savers. You’re getting £10 off a tank with the Tories.",
+      "education": "",
+      "environment": "",
+      "governance": "Competent leadership with deficit down, income tax cut, more jobs, and new businesses.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Against envy-driven policies like a mansion tax.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Fighting for top services - since 2010 I have backed transport upgrades and secured investment in our hospitals and a new school.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Cowley Street, London, SW1P 3NB",
+      "phone": "",
+      "email": "",
+      "website": "www.votemarkfield.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Times",
+        "endorgence": "Labour plan to borrow risks £170bn extra debt"
+      },
+      {
+        "endorser": "The Times",
+        "endorcence": "Labour is plotting Scottish alliance"
+      },
+      {
+        "endorser": "Daily Mail",
+        "endorgence": "Bosses queue up to warn; Miliband will bankrupt Britain"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Benefits cap 'leads more into work'",
+        "source": "Press Association 05/02/2015",
+        "date": "05/02/2015"
+      },
+      {
+        "text": "Job total hits record high while wages surge",
+        "source": "Birmingham Business 05/03/2015",
+        "date": "05/03/2015"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "MARK FIELD - A strong voice for Cities of London & Westminster"
+        }
+      ]
+    },
+    "additionalNotes": "Election Communication - London Central, Cities of London And Westminster. Promoted by MARK NICHOLAS DOWN TURNER, on behalf of MARK FIELD. Printed by St Ives plc."
+  }
+}
+```

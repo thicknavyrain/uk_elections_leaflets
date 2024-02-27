@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Clive Martin",
+    "constituency": "Taunton Deane",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Social Justice and Climate Change",
+        "policyDescription": "Belief in social justice, in equality, workers' rights, and in co-ordinated action on climate change, in equality, in workers' rights, in an economy that works for people and planet, and in real care for the future."
+      },
+      {
+        "policyTitle": "Protecting the Planet",
+        "policyDescription": "Belief in protecting the planet, its land and its oceans, and the plants, animals and people who live on it."
+      },
+      {
+        "policyTitle": "World of Security",
+        "policyDescription": "Belief in a world of security for all, in lives lived more locally, with services close to where people need them, and connected by affordable, energy-efficient public transport."
+      },
+      {
+        "policyTitle": "Society and Culture of Hope",
+        "policyDescription": "Belief in society, in our common humanity, and in a culture of hope."
+      }
+    ],
+    "mentions": {
+      "candidate": "Clive Martin - Green Party Candidate",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "In an economy that works for people and planet.",
+      "education": "",
+      "environment": "Co-ordinated action on climate change.",
+      "governance": "",
+      "health": "A public NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "\"Join me to fight for a fairer and more sustainable future for Taunton Deane and its people\"",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "tauntongreens",
+        "twitter": "tauntongreens",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Clive Martin - Green Party Candidate"
+        }
+      ]
+    },
+    "additionalNotes": "Supports public NHS, railways under public control, investment in renewable energy. Opposes corporate tax avoidance, fracking, wasting £150bn on trident and HS2."
+  }
+}
+```

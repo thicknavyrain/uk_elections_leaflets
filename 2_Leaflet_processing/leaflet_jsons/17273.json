@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Slaughter MP",
+    "constituency": "Hammersmith",
+    "politicalParty": "Labour",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Save Our Hospitals",
+        "content": "As your MP I'm standing up for our NHS every day. I need your help to do this."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "Recruit 20,000 more nurses, 8,000 more GPs, 5,000 more care workers and 3,000 more midwives to meet waiting time and improve hospital services."
+      },
+      {
+        "policyTitle": "Healthcare Quality",
+        "policyDescription": "Guarantee a GP appointment within 48 hours."
+      },
+      {
+        "policyTitle": "Healthcare Support",
+        "policyDescription": "Combine a cancer signup guarantee, giving older and disabled people more caring and effective support."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andy Slaughter",
+      "otherPartyLeaderCandidate": "Conservative party",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The local Conservative plans to demolish Charing Cross Hospital, with the loss of its A&E, 93% of inpatient beds and its world-class stroke unit.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I was shocked when I heard that the local Conservative party support the closure of our hospital services.",
+    "politicalExperience": [
+      {
+        "role": "MP for Hammersmith",
+        "duration": "30 years as an MP and councillor in Hammersmith & Fulham",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "28 Greyhound Road, London, W6 8NX",
+      "phone": "020 7610 1950",
+      "email": "andy@andyslaughter.co.uk",
+      "website": "www.andyslaughter.co.uk",
+      "socialMedia": {
+        "facebook": "/Andy4Hammersmith",
+        "twitter": "@HammersmithAndy",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andy Slaughter with NHS staff"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet focuses on the protection of local hospital services and the proposed closure of Charing Cross Hospital. The leaflet emphasizes the need for the reader's support to prevent cuts to the NHS and the closure of local services."
+  }
+}
+```

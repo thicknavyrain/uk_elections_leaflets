@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr Karen Maunder",
+    "constituency": "Lichfield and Burntwood",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "THE REAL OPPOSITION",
+        "content": "HOW WOULD YOU SPEND £40 MILLION A DAY?"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Dr Karen Maunder believes in regaining control of UK borders to deal with issues arising from immigration."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Committed to addressing an overloaded NHS."
+      },
+      {
+        "policyTitle": "Affordable Housing",
+        "policyDescription": "Wants to make affordable housing a fairer option."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Focused on tackling debt and investing in education."
+      },
+      {
+        "policyTitle": "Defence",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr Karen Maunder",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Believes the UK should leave the EU to take back control and come out of the dictatorship of the EU.",
+      "economy": "Wants to tackle the national debt and ensure a fair economy.",
+      "education": "",
+      "environment": "",
+      "governance": "Believes in change of approach to deal with mounting debt and restoring control to Britain.",
+      "health": "Mentions an overloaded NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Supports the provision of affordable housing",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Dr Karen Maunder has a PhD in Biochemistry and has worked in Clinical Research for 17 years. She lives in Lichfield with her husband and two children.",
+    "politicalExperience": [
+      {
+        "role": "UKIP Prospective Parliamentary Candidate",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "UK Independence Party, 24 Lime Grove, Lichfield WS13 6ER",
+      "phone": "01543 253210",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dr Karen Maunder, UKIP Prospective Parliamentary Candidate for Lichfield and Burntwood"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

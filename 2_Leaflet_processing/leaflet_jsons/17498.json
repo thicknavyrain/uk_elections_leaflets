@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Matt Rodda",
+    "constituency": "Reading East",
+    "politicalParty": "Labour",
+    "electionDate": "7 May",
+    "messages": [
+      {
+        "title": "10 Reasons to VOTE Labour",
+        "content": ""
+      },
+      {
+        "title": "What they said and what they did!",
+        "content": ""
+      },
+      {
+        "title": "So how do I make my vote count?",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Better Value",
+        "policyDescription": "Promises better value by contrasting Labour's record with Conservative cuts in working tax credit and increasing council tax."
+      },
+      {
+        "policyTitle": "Good Schools, More Places",
+        "policyDescription": "Pledges to create more primary school places, claiming a record of 2,500 new places in Reading under Labour."
+      },
+      {
+        "policyTitle": "Clean Reading, Better Reading",
+        "policyDescription": "Focuses on keeping streets clean as a local priority and promotes investments in parks and open spaces."
+      },
+      {
+        "policyTitle": "More Homes",
+        "policyDescription": "Labour has initiated a program to build homes targeting different segments, including the elderly and families."
+      }
+    ],
+    "mentions": {
+      "candidate": "Matt Rodda's work for Katesgrove Ward and commitment to schools is mentioned.",
+      "otherPartyLeaderCandidate": "Nick Clegg making his pledge on tuition fees is shown, referencing the Liberal Democrats.",
+      "partyLeader": "",
+      "tacticalSituation": "Tactical voting is described, emphasizing that the only realistic options are the Conservative or Labour parties."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "References to Conservative economic policies, suggesting they have made life more difficult for the majority, specifically mentioning an increase in VAT, cuts in UK debt downgrades, and trebling student tuition fees.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "More homes, Labour has started a program to build homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "MATT SAYS: \"I care passionately about the local area, I want all of our children in Reading to see spending making a difference in ALL schools rather than borrowed money wasting on Conservative pet projects.\"",
+    "politicalExperience": [
+      {
+        "role": "Candidate for Katesgrove Ward",
+        "duration": "",
+        "achievements": "Activity in the local area such as opposing green bin charges, campaigning to save the number 4 bus service, etc."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.readinglabour.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/ReadingLabour",
+        "twitter": "@ReadingLabour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Reading Labour does better for Reading banner image."
+        }
+      ]
+    },
+    "additionalNotes": "There are two elections on Thursday 7 May - For Reading East and For Reading West."
+  }
+}
+```

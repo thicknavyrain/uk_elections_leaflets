@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Hunt, Graham",
+    "constituency": "Gedling",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "ON DECEMBER 12th",
+    "messages": [
+      {
+        "title": "THERE ARE AROUND 130 SEATS THAT THE CONSERVATIVES HAVEN'T WON",
+        "content": "ONLY THE BREXIT PARTY CAN BEAT CORBYN'S LABOUR - LEAVERS, DON'T WASTE YOUR VOTE"
+      },
+      {
+        "title": "WITHOUT THE BREXIT PARTY THERE CAN BE NO REAL BREXIT",
+        "content": "VOTE FOR THE BREXIT PARTY ON DECEMBER 12th"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A Clean-Break Brexit",
+        "policyDescription": "Proposals for a clean-break Brexit."
+      },
+      {
+        "policyTitle": "Investing in Public Services",
+        "policyDescription": "Reform of the way we invest in public services."
+      },
+      {
+        "policyTitle": "Boosting Jobs and Economy",
+        "policyDescription": "A targeted approach to boosting jobs and the economy."
+      },
+      {
+        "policyTitle": "Political Reform",
+        "policyDescription": "Political reforms including the abolition of the House of Lords."
+      }
+    ],
+    "mentions": {
+      "candidate": "Hunt, Graham",
+      "otherPartyLeaderCandidate": "CORBYN'S LABOUR",
+      "partyLeader": "",
+      "tacticalSituation": "There are around 130 seats that the Conservatives haven't won in at least 50 years. Only the Brexit Party can beat Corbyn's Labour."
+    },
+    "issues": {
+      "brexitEurope": "Clean-Break Brexit.",
+      "economy": "Investing in public services and a targeted approach to boosting jobs and the economy.",
+      "education": "",
+      "environment": "",
+      "governance": "Political reform including the abolition of the House of Lords.",
+      "health": "Investing in public services.",
+      "immigration": "",
+      "socialWelfare": "Investing in public services.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "83 VICTORIA STREET, LONDON SW1H 0HW",
+      "phone": "0800 414 8525",
+      "email": "",
+      "website": "WWW.THEBREXITPARTY.ORG",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Candidate standing with watch indicating time for change."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

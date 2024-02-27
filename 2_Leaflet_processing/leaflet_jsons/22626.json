@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ed Miliband",
+	"constituency": "Doncaster North",
+	"politicalParty": "The Labour Party",
+	"electionDate": "",
+	"messages": [
+	  {
+		"title": "Dear",
+		"content": "In just a few weeks, you have a choice to make about the future of our NHS, so I wanted to give you the facts about what is at stake."
+	  }
+	],
+	"keyPolicies": [
+	  {
+		"policyTitle": "NHS",
+		"policyDescription": "Labour has a better plan for our NHS: recruit 20,000 more nurses and 8,000 more GPs, guarantee GP appointments within 48 hours, cap private profit in the NHS, clamp down on tax avoidance, introduce a levy on tobacco firms, and introduce a Mansion Tax to pay for the NHS. P.S. Labour will recruit 20,000 more nurses and 8,000 GPs for our NHS"
+	  }
+	],
+	"mentions": {
+	  "candidate": "Ed Miliband",
+	  "otherPartyLeaderCandidate": "Nigel Farage",
+	  "partyLeader": "Ed Miliband",
+	  "tacticalSituation": ""
+	},
+	"issues": {
+	  "brexitEurope": "Nigel Farage was caught on camera saying he wants to scrap our free NHS and move to an American-style insurance system. That could mean huge bills for patients.",
+	  "economy": "",
+	  "education": "",
+	  "environment": "",
+	  "governance": "",
+	  "health": "Labour has a better plan for our NHS: recruit 20,000 more nurses and 8,000 more GPs, guarantee GP appointments within 48 hours.",
+	  "immigration": "",
+	  "socialWelfare": "",
+	  "housing": [
+		{
+		  "content": "",
+		  "yimbyNimby": "N/A"
+		}
+	  ]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+	  {
+		"role": "",
+		"duration": "",
+		"achievements": ""
+	  }
+	],
+	"contactInformation": {
+	  "address": "One Brewer’s Green London SW1H 0RH",
+	  "phone": "",
+	  "email": "",
+	  "website": "labour.org.uk",
+	  "socialMedia": {
+		"facebook": "",
+		"twitter": "",
+		"instagram": "",
+		"linkedin": ""
+	  }
+	},
+	"endorsements": [
+	  {
+		"endorser": "",
+		"endorsement": ""
+	  }
+	],
+	"quotes": [
+	  {
+		"text": "",
+		"source": "",
+		"date": ""
+	  }
+	],
+	"campaignMaterial": {
+	  "images": [
+		{
+		  "caption": ""
+		}
+	  ]
+	},
+	"additionalNotes": ""
+  }
+}
+```

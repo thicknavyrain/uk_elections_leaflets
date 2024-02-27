@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Liz Jarvis",
+    "constituency": "Southampton Itchen",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "STOP BREXIT",
+        "content": "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives."
+      },
+      {
+        "title": "BUILD A BRIGHTER FUTURE",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Liz Jarvis",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom. Labour now say they want to negotiate their own Brexit deal. A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liberal Democrats logo and candidate Liz Jarvis with the message 'This election is your chance to STOP BREXIT BUILD A BRIGHTER FUTURE.'"
+        }
+      ]
+    },
+    "additionalNotes": "WE HAVE A CLEAR CHOICE"
+  }
+}
+```

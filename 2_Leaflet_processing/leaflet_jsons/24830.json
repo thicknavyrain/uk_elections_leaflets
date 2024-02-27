@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "A Labour or a Tory government",
+        "content": "The choice at this election is between a Labour or a Tory government. Scottish Labour has a better plan."
+      },
+      {
+        "title": "",
+        "content": "At this election a vote for anyone but Labour risks another Tory government."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Ban exploitative zero-hours contracts",
+        "policyDescription": "Ban exploitative zero-hours contracts"
+      },
+      {
+        "policyTitle": "Raise the minimum wage to more than £8 an hour",
+        "policyDescription": "Raise the minimum wage to more than £8 an hour"
+      },
+      {
+        "policyTitle": "1,000 more nurses paid for by a mansion tax",
+        "policyDescription": "1,000 more nurses paid for by a mansion tax"
+      },
+      {
+        "policyTitle": "Guarantee a job and training for young people",
+        "policyDescription": "Guarantee a job and training for young people"
+      },
+      {
+        "policyTitle": "Freeze energy bills",
+        "policyDescription": "Freeze energy bills"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "ONLY A VOTE FOR LABOUR WILL STOP THE TORIES AND DELIVER THE CHANGE WE NEED."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "1,000 more nurses paid for by a mansion tax",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A Labour or a Tory government - it's a two horse race"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

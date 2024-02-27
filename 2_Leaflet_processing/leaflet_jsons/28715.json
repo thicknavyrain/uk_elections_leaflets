@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Deidre Brock",
+    "constituency": "Edinburgh North & Leith",
+    "politicalParty": "SNP",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "Re-elect",
+        "content": "Two years ago you elected me as your MP and I’ve been working for you here and in London since then. I voted against Brexit, against Trident, and against Tory austerity."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Opposition to Brexit",
+        "policyDescription": "Voted against Brexit and pursued protections for EU citizens post-Brexit."
+      },
+      {
+        "policyTitle": "Public Services and Pensions",
+        "policyDescription": "Made the case for fair pensions, investment in public services, and an end to pension protections."
+      },
+      {
+        "policyTitle": "Creative Communities",
+        "policyDescription": "Support for our creative communities."
+      },
+      {
+        "policyTitle": "Environmental Issues",
+        "policyDescription": "Pursued environmental issues including EU protections."
+      }
+    ],
+    "mentions": {
+      "candidate": "Deidre Brock",
+      "otherPartyLeaderCandidate": "Theresa May, Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "It’s a contest between the SNP and the Tories here in Edinburgh North and Leith."
+    },
+    "issues": {
+      "brexitEurope": "Voted against Brexit, pursued protections for EU citizens post-Brexit.",
+      "economy": "",
+      "education": "",
+      "environment": "Pursued environmental issues (including EU protections).",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Made the case for fair pensions, investment in public services, and an end to pension protections.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Two years ago you elected me as your MP and I’ve been working for you here and in London since then.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "deidre@edinburghsnp.org",
+      "website": "deidrebrock.org",
+      "socialMedia": {
+        "facebook": "DeidreBrockSNP",
+        "twitter": "DeidreBrock",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A strong voice for Edinburgh North & Leith"
+        }
+      ]
+    },
+    "additionalNotes": "Jeremy Corbyn is described as a decent man but his credibility is questioned. Infighting and squabbling have damaged Labour. It’s a contest between the SNP and the Tories in Edinburgh North and Leith."
+  }
+}
+```

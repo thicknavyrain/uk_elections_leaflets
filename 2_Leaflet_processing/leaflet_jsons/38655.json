@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tom Randall",
+    "constituency": "Gedling",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "Your local voice, backing Brexit, backing Boris.",
+        "content": "Help me Get Brexit Done and deliver for Gedling."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Get Brexit Done",
+        "policyDescription": "Ensure that Gedling's vote to Leave, ignored by Labour, is acted on. Only the Conservatives can deliver Brexit."
+      },
+      {
+        "policyTitle": "More police on Gedling's streets",
+        "policyDescription": "Recruit Gedling's fair share of the 20,000 extra police, ensuring strong sentencing and a clear message to criminals."
+      },
+      {
+        "policyTitle": "More jobs in Gedling",
+        "policyDescription": "Build on record levels of employment, attracting investment and jobs to Gedling."
+      },
+      {
+        "policyTitle": "Supporting our NHS",
+        "policyDescription": "Investment in local NHS services and staff, securing funding for the NHS in Gedling."
+      },
+      {
+        "policyTitle": "More funding for schools",
+        "policyDescription": "Ensure schools have the chance to succeed with the Conservatives' £14 billion cash injection."
+      },
+      {
+        "policyTitle": "Protecting our green spaces",
+        "policyDescription": "Preserve green spaces. Incentivize developers to build on derelict or unused land first."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tom Randall",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Boris",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Ensure that Gedling's vote to Leave is acted on.",
+      "economy": "Attracting investment and jobs to Gedling.",
+      "education": "Secure schools' chance to succeed with £14 billion cash injection.",
+      "environment": "Preserve green spaces, incentivize building on derelict or unused land.",
+      "governance": "",
+      "health": "Investment in local NHS services and staff, securing funding.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Preserve green spaces, incentivize building on derelict or unused land.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tom Randall with Boris"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

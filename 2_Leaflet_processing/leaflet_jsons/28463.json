@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jackie Porter",
+    "constituency": "Winchester",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Represent your views on Brexit",
+        "policyDescription": "Fight to protect local businesses and families from the impact of Brexit."
+      },
+      {
+        "policyTitle": "Protect local hospital services and increase funding for the NHS",
+        "policyDescription": "Need to keep health care local and properly fund our NHS and care systems."
+      },
+      {
+        "policyTitle": "Fight funding cuts for schools and the selection agenda",
+        "policyDescription": "Fight for more money for our schools against making any of our schools second rate."
+      },
+      {
+        "policyTitle": "Protect our environment",
+        "policyDescription": "Fight to reduce air pollution and to keep current standards of environmental protection."
+      },
+      {
+        "policyTitle": "Build more homes and fight homelessness",
+        "policyDescription": "Housing costs are too high and we need more public housing."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jackie Porter",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Fight to protect local businesses and families from the impact of Brexit.",
+      "economy": "",
+      "education": "Fight for more money for our schools against making any of our schools second rate.",
+      "environment": "Fight to reduce air pollution and to keep current standards of environmental protection.",
+      "governance": "",
+      "health": "Need to keep health care local and properly fund our NHS and care systems.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Housing costs are too high and we need more public housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jackie Porter with a list of her 5 priorities for Winchester displayed on a flipchart."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

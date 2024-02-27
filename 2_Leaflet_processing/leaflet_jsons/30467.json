@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Olivia Bailey",
+    "constituency": "Reading West",
+    "politicalParty": "Labour",
+    "electionDate": "General Election 2017",
+    "messages": [
+      {
+        "title": "Into Battle",
+        "content": "Battle is delighted to announce that Olivia Bailey has been selected to stand as the Parliamentary Candidate for Reading West."
+      },
+      {
+        "title": "5 pledges from Olivia",
+        "content": "'I will fight Tory cuts to local schools.' 'I will stand up for our struggling NHS' 'I will fight Tory plans for a reckless Brexit' 'I will demand affordable homes' 'I will be on the side of the many'"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Labour will keep class sizes down, drive up standards and reintroduce the EMA for pupils from lower income households."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Labour will fight to improve local GP services like Circuit Lane Surgery and invest back in the NHS. Labour will always give the NHS the money it needs."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Labour will put jobs, rights, and prosperity first in the Brexit negotiations. Labour will also guarantee the right of EU nationals to remain in the UK, and secure fairer controls on immigration."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Labour will build a million new homes and introduce tough new controls on unscrupulous private landlords."
+      },
+      {
+        "policyTitle": "General Statement",
+        "policyDescription": "'I will be on the side of the many.'"
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin",
+      "otherPartyLeaderCandidate": "Tories",
+      "partyLeader": ""
+    },
+    "issues": {
+      "brexitEurope": "Labour will put jobs, rights, and prosperity first in the Brexit negotiations. Labour will also guarantee the right of EU nationals to remain in the UK, and secure fairer controls on immigration.",
+      "economy": "",
+      "education": "Labour will keep class sizes down, drive up standards and reintroduce the EMA for pupils from lower income households.",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will fight to improve local GP services like Circuit Lane Surgery and invest back in the NHS. Labour will always give the NHS the money it needs.",
+      "immigration": "Labour will also guarantee the right of EU nationals to remain in the UK, and secure fairer controls on immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour will build a million new homes and introduce tough new controls on unscrupulous private landlords.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Olivia said: 'The Tories have let people in Battle ward down. They have savagely cut funding for local services, schools and hospitals – and now they want a blank cheque for a reckless Brexit that will threaten jobs and prosperity across Reading. Only a vote for Labour can stop the Tories in their tracks.'",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Into Battle"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

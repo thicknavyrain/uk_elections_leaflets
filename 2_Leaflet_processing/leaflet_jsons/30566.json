@@ -1,0 +1,115 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Duncan Crute",
+    "constituency": "Newcastle North",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "MY PRIORITIES",
+        "content": "Building more affordable homes and investing in schools to give everyone a chance to get on in life. Working with businesses to grow the economy and bring jobs to this part of Newcastle. Taking control of our borders so we can cut immigration that works for our communities."
+      },
+      {
+        "title": "MAKING BREXIT HAPPEN",
+        "content": "I am the only viable candidate in this election committed to respecting the result of the EU referendum. Jeremy Corbyn's Labour candidate voted to block the referendum result in Parliament and keep us in the EU. I will campaign to ensure we take back control of our border and can make our own laws. Only Theresa May and the Conservatives can deliver a good deal for Newcastle and for Britain but we need your support in this election to do this."
+      },
+      {
+        "title": "WHO IS BEST TO BEAT LABOUR IN NEWCASTLE?",
+        "content": "It's a two horse race in Newcastle North. The Conservatives came 2nd to Labour at the last election. The Lib Dems were a distant fourth place in Newcastle in 2015 and had just 8 MPs elected to Parliament. Voting Lib Dem or UKIP just helps to put Jeremy Corbyn one step closer to Downing Street. Only the Conservatives can stop Jeremy Corbyn and the Labour Party in Newcastle."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Building more affordable homes."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Investing in schools to give everyone a chance to get on in life."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Working with businesses to grow the economy and bring jobs to this part of Newcastle."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Taking control of our borders to cut immigration that works for our communities."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Ensuring respect for the EU referendum result, take back control of borders, and make our own laws."
+      }
+    ],
+    "mentions": {
+      "candidate": "Duncan Crute",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "It's a two horse race in Newcastle North. The Conservatives came 2nd to Labour at the last election. Voting Lib Dem or UKIP just helps to put Jeremy Corbyn one step closer to Downing Street. Only the Conservatives can stop Jeremy Corbyn and the Labour Party in Newcastle."
+    },
+    "issues": {
+      "brexitEurope": "I am the only viable candidate in this election committed to respecting the result of the EU referendum...",
+      "economy": "Working with businesses to grow the economy and bring jobs to this part of Newcastle.",
+      "education": "Investing in schools to give everyone a chance to get on in life.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "Taking control of our borders so we can cut immigration that works for our communities.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Building more affordable homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Office 2, Horton Park, Newcastle upon Tyne NE13",
+      "phone": "07375 995391",
+      "email": "info@duncan4north.uk",
+      "website": "duncan4north.uk",
+      "socialMedia": {
+        "facebook": "fb.me/Duncan4North",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Theresa May",
+        "endorsement": "Duncan Crute is standing with me to secure strong and stable leadership for our country, and the best Brexit possible for you and your constituency of Newcastle North."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Duncan Crute with people."
+        },
+        {
+          "caption": "Graph showing election result in Newcastle."
+        },
+        {
+          "caption": "Theresa May with the quote: 'THRESA MAY IS BACKING DUNCAN CRUTE'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

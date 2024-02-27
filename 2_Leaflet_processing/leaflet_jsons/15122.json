@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anna Soubry",
+    "constituency": "Broxtowe",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Creating vibrant town centres",
+        "policyDescription": "Encouraging shops and businesses into our town centres."
+      },
+      {
+        "policyTitle": "Protecting our precious greenbelt.",
+        "policyDescription": "Campaigning to keep Green Belt from housing development while recognising the need for affordable housing."
+      },
+      {
+        "policyTitle": "Making our great schools even better",
+        "policyDescription": "Supporting additional funding and new free schools."
+      },
+      {
+        "policyTitle": "Strengthening our charities and community groups, such as Beeston Utd FC",
+        "policyDescription": "Helping local community groups and charities with their funding and projects."
+      },
+      {
+        "policyTitle": "Hope at the end of the tramworks",
+        "policyDescription": "Fighting a strong and loud campaign for compensation and improvement."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anna Soubry",
+      "otherPartyLeaderCandidate": "David Cameron, Ed Miliband",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Supporting additional funding and new free schools.",
+      "environment": "Campaigning to keep Green Belt from housing development.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Campaigning to keep Green Belt from housing development while recognising the need for affordable housing.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "It has been a privilege to be your MP and since 2010 I've been working hard and trying to do things differently. I speak my mind and always put Broxtowe first.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for Broxtowe",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0115 943 6507",
+      "email": "anna.soubry.mp@parliament.uk",
+      "website": "www.annasoubry.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Darren",
+    "constituency": "Lewisham Deptford",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Million-jobs recovery plan",
+        "policyDescription": "Creating over 4,000 jobs to Lewisham alone, with jobs in public transport, care for the elderly, housebuilding and green industries."
+      },
+      {
+        "policyTitle": "Insulation in every home",
+        "policyDescription": "Free insulation in each household which could save around £150 a year in fuel bills."
+      },
+      {
+        "policyTitle": "Living Wage",
+        "policyDescription": "Push for a 'Living Wage' – a policy to ensure low income workers can earn enough to provide for themselves and their families."
+      },
+      {
+        "policyTitle": "Support for pensioners",
+        "policyDescription": "Support pensioners in their demand for a guaranteed non-means tested weekly pension of £170."
+      },
+      {
+        "policyTitle": "Protecting NHS services",
+        "policyDescription": "Ensure local NHS services are easy to access and will oppose cuts, closures and sell-offs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Darren",
+      "otherPartyLeaderCandidate": "the Old Labour party",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Green Party's million-jobs recovery plan would bring over 4,000 jobs to Lewisham alone. These jobs would be in public transport, care for the elderly, housebuilding and green industries.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Darren will make sure your local NHS services are easy to access and will oppose cuts, closures and sell-offs.",
+      "immigration": "",
+      "socialWelfare": "Darren will push for a 'Living Wage' – a policy to ensure low income workers can earn enough to provide for themselves and their families.",
+      "housing": [
+        {
+          "content": "Darren will push for free insulation in every home.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "020 8690 0658",
+      "email": "darren.johnson@greenparty.org.uk",
+      "website": "www.darrenforlewisham.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Green Party leaflet featuring candidate Darren and messaging for the Lewisham Deptford constituency."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

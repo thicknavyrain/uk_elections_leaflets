@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr Tariq Mahmood",
+    "constituency": "Ealing Southall",
+    "politicalParty": "Liberal Democrat Party",
+    "electionDate": "12th December 2019",
+    "messages": [
+      {
+        "title": "",
+        "content": "Dr Tariq Mahmood, a NHS consultant, will be your Liberal Democrat candidate for the next General Election."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Opposition to Brexit",
+        "policyDescription": "He is totally opposed to Brexit which will damage the futures of everyone for generations to come."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr Tariq Mahmood",
+      "otherPartyLeaderCandidate": "Siobhan Benita",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "He is totally opposed to Brexit which will damage the futures of everyone for generations to come.",
+      "economy": "",
+      "education": "",
+      "environment": "Concerned about the shocking air quality problem.",
+      "governance": "",
+      "health": "Will fight for Ealing Hospital.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Is particularly concerned about the housing crisis",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "As you'd expect, he will fight for Ealing Hospital. In addition to his knowledge of, and passion for, the National Health Service he is particularly concerned about the housing crisis, knife crime and the shocking air quality problem.",
+    "politicalExperience": [
+      {
+        "role": "NHS Consultant",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "libdems.org/join-local",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Picture of Dr Tariq Mahmood and quote"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet suggests being part of the biggest and most effective anti-Brexit party with over 30,000 new members joined since the last election."
+  }
+}
+```

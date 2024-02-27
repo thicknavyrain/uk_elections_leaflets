@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Edinburgh",
+    "politicalParty": "Scottish Greens",
+    "electionDate": "12 Dec",
+    "messages": [
+      {
+        "title": "",
+        "content": "From fighting for action on the climate emergency, to challenging austerity, to defending Scotland’s place at the heart of Europe, the Scottish Green Party are the only Scottish party taking the challenges of today seriously. Let’s build a new Scotland together."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Climate Action",
+        "policyDescription": "The candidate emphasizes a strong stance on tackling the climate emergency."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Defending Scotland's place at the heart of Europe",
+      "economy": "Challenging austerity",
+      "education": "",
+      "environment": "Action on the climate emergency",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "YOUR GREEN CANDIDATES FOR EDINBURGH"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

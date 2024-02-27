@@ -1,0 +1,104 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "There's a May Way For Britain",
+        "content": "Strong, stable leadership in the national interest. A plan for Brexit and beyond. A stronger economy for your future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting Our NHS",
+        "policyDescription": "We will give the NHS the resources it needs... ensuring that all GP practices are open from 8 am to 8 pm, 7 days a week."
+      },
+      {
+        "policyTitle": "Schools & Education",
+        "policyDescription": "A good school place for every child with more investment... and free school breakfast for every child in primary school."
+      },
+      {
+        "policyTitle": "New Job Opportunities",
+        "policyDescription": "We aim to create a new job opportunity every 80 seconds, setting up funding for experienced workers and major investment in skills training."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "We will meet our 2015 commitment to deliver a million homes by the end of 2020 and will deliver half a million more by the end of 2022. We will also help more people to buy their own home."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Making a success of Brexit",
+      "economy": "A better deal for ordinary working people with more secure jobs, more affordable housing and lower energy bills.",
+      "education": "More good school places and better jobs.",
+      "environment": "",
+      "governance": "",
+      "health": "We will give the NHS the resources it needs...",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We will...help more people to buy their own home.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Theresa May with supporters."
+        },
+        {
+          "caption": "Theresa May delivering speech."
+        },
+        {
+          "caption": "Theresa May working with others."
+        },
+        {
+          "caption": "Theresa May visiting facilities and people."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

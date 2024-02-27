@@ -1,0 +1,108 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Luke Pollard",
+    "constituency": "Plymouth, Sutton and Devonport",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "My Pledges to You",
+        "content": "I will be here all year round not just at election time. I will protect our armed forces and veterans. I will oppose any Tory police and public services cuts. I will oppose the closure of our local schools, hospitals and walk-ins. I will support foodbank users, the homeless and those struggling to heat their homes. I will support raising the minimum wage and banning zero hours contracts."
+      },
+      {
+        "title": "A future fair for all",
+        "content": "When Labour came to power in 1997 there were just over 256,000 more people in the South West on the dole than today... Labour is also committed to change health care..."
+      },
+      {
+        "title": "3 Questions for the Tories",
+        "content": "Why did the Tories sell off Citybus? Why did the Tories silence our MPs? Where is the Plymouth Prowler?"
+      },
+      {
+        "title": "Labour's in power",
+        "content": "Experts say Labour's time in power has seen a transformation of education with billions invested, crime has fallen with more police and crime down by a third, 8,000 more doctors and 14,000 more nurses and cleaner hospitals."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting public services",
+        "policyDescription": "Opposing Tory police and public services cuts and ensuring the protection of schools, hospitals, and walk-ins."
+      },
+      {
+        "policyTitle": "Supporting those in need",
+        "policyDescription": "Supporting foodbank users, the homeless, and those struggling with heating."
+      },
+      {
+        "policyTitle": "Labour market reforms",
+        "policyDescription": "Raising the minimum wage and banning zero-hours contracts."
+      }
+    ],
+    "mentions": {
+      "candidate": "Luke Pollard",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Transformation of education with billions invested",
+      "environment": "",
+      "governance": "Labour's time in power",
+      "health": "8,000 more doctors and 14,000 more nurses and cleaner hospitals",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm proud that since 1997, we have more doctors and nurses and we've built most new schools than ever before.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "luke.pollard.mp@parliament.uk",
+      "website": "www.lukepollard.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@lukepollard",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "\"I'm proud that since 1997, we have more doctors and nurses and we've built most new schools than ever before.\"",
+        "source": "Luke Pollard",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Luke Pollard in healthcare setting visiting patients."
+        },
+        {
+          "caption": "Luke Pollard interacting with constituents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

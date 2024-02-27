@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "LONDON E14",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "A better plan. A better future.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Homes to Buy and Action on Rents",
+        "policyDescription": "Biggest house building programme for a generation with priority for first-time buyers, stamp duty cut to zero for first-time buyers, secure three-year rents capped by inflation, a ban on unfair letting fees saving tenants £600 on average."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Biggest house building programme for a generation with priority for first-time buyers, stamp duty cut to zero for first-time buyers, secure three-year rents capped by inflation, a ban on unfair letting fees saving tenants £600 on average.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Do you rent? Want to buy your first home? You'll be better off with Labour."
+        },
+        {
+          "caption": "JUST ANNOUNCED: HOMES TO BUY AND ACTION ON RENTS"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

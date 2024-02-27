@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Richard McKenzie",
+    "constituency": "Henley",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A Future Fair For All",
+        "content": "Putting local people first"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Your Labour candidate for Henley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "57 Shiplake Bottom, Peppard Common, Henley-on-Thames, RG9 5HJ",
+      "phone": "07739 801929",
+      "email": "richard@richardmckenzie.org",
+      "website": "www.henley.labour.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "richard@richardmckenzie",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Richard McKenzie in front of a pub with a sign 'A Future Fair For All'"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contains an expression of intention to promote local priorities and signifies a responsive approach to the needs of the constituency. It seeks engagement with voters through feedback on local concerns."
+  }
+}
+```

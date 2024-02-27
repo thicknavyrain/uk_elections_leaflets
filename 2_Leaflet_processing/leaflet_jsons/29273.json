@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stewart McDonald",
+    "constituency": "Glasgow South",
+    "politicalParty": "SNP",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "Keep Scotland strong at Westminster",
+        "content": "Now, more than ever, we need a strong voice for Scotland - one truly committed to protecting us from unjust and immoral Tory policies."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Stewart McDonald",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nicola Sturgeon MSP, First Minister of Scotland",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "Stewart@GlasgowSNP.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "Stewart McDonald SNP",
+        "twitter": "@StewartMcDonald",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Nicola Sturgeon",
+        "endorsement": "Stewart has been a strong and effective champion for this constituency. He will continue to work hard for you and your community if re-elected on June 8th."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stewart McDonald has been an impartial voice in parliament."   
+        },
+        {
+          "caption": "Re-elect Stewart McDonald. A Strong Voice for Glasgow South."
+        }
+      ]
+    },
+    "additionalNotes": "A vote for the SNP on June 8th means we can continue to speak up for Scotland, and speak out against Tory cuts."
+  }
+}
+```

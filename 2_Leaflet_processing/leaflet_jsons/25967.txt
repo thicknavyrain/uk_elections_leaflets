@@ -1,0 +1,106 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Shas Sheehan",
+    "constituency": "Wimbledon",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8 June 2017",
+    "messages": [
+      {
+        "title": "Vote for Shas Sheehan",
+        "content": "A strong opposition to a hard Brexit. A passionate voice for our area. Experienced campaigner who gets things done."
+      },
+      {
+        "title": "Read on for...",
+        "content": "A record of action. A promise of more."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "School Places",
+        "policyDescription": "Fight to provide more school places."
+      },
+      {
+        "policyTitle": "Congestion",
+        "policyDescription": "Tackle congestion and air pollution."
+      },
+      {
+        "policyTitle": "Safer Neighbourhoods",
+        "policyDescription": "Work for safer neighbourhoods."
+      },
+      {
+        "policyTitle": "St Helier Hospital",
+        "policyDescription": "Protect St Helier Hospital from dangerous cuts."
+      },
+      {
+        "policyTitle": "Save our Trains",
+        "policyDescription": "Complete the long overdue access improvements at Raynes Park and Motspur Park stations."
+      }
+    ],
+    "mentions": {
+      "candidate": "Shas Sheehan",
+      "otherPartyLeaderCandidate": "Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": "Shas came second here at the last election. Only Shas can beat the Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "A strong opposition to a hard Brexit.",
+      "economy": "",
+      "education": "Fight to provide more school places.",
+      "environment": "Tackle congestion and air pollution.",
+      "governance": "A passionate voice for our area. Experienced campaigner who gets things done.",
+      "health": "Protect St Helier Hospital from dangerous cuts.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I love Wimbledon... I'm determined to stop the Conservatives from taking us for granted.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "7 years",
+        "achievements": "Proven record of action"
+      }
+    ],
+    "contactInformation": {
+      "address": "St Marks Place, Wimbledon",
+      "phone": "020 8944 2905",
+      "email": "shaswimbledon@gmail.com",
+      "website": "www.shassheehan.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Name of the endorser",
+        "endorsement": "Endorsement text"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "\"Shas saved our nursery...\"",
+        "source": "Local resident",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Shas Sheehan taking action on various campaign issues"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet does not mention a party leader specifically."
+  }
+}
+```
+Please note that I have created a generic endorsement entry in the JSON since the actual content of the endorsement is not legible from the image provided. The 'Name of the endorser' and 'Endorsement text' are placeholders as the image does not provide this information in a readable form. Additionally, the website and address are approximations based on the partially visible content.

@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Richard Burt",
+    "constituency": "West Worcestershire",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "Richard Burt’s contract with You",
+        "content": "I will put local people first. I will be there to help, listen to your concerns and stand up for our community. I have an office in the constituency open at least 5 days a week. I hold regular surgeries in easily accessible places. I will make sure your voice is heard - locally and at Westminster. I will be a strong voice for fairness."
+      },
+      {
+        "title": "It’s a question of honesty",
+        "content": "The Conservatives say about their candidate... 'Harriett has never been a banker.' But the truth is... 'Harriett was until recently a managing director at JP Morgan, the investment bank...before she decided to run for Parliament.'"
+      },
+      {
+        "title": "Who will deliver for you as our new MP?",
+        "content": "It’s a two horse race! Richard Burt has been a real champion for local people: Fighting to keep and improve our NHS services. Leading the campaign against Tory plans to cut housing and devolve power more to towns and villages. Helping flood victims and making a strong case for extra flood money and flood protection. Labour can’t win in West Worcestershire"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "I will introduce a Bill to help improve research and care for Dementia sufferers. Fight to preserve vital public services and the NHS."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Support 'green' economic growth to create jobs and protect the environment."
+      },
+      {
+        "policyTitle": "Community Services",
+        "policyDescription": "Meet regularly with local service providers like the police, health services and residents' groups."
+      }
+    ],
+    "mentions": {
+      "candidate": "Richard Burt",
+      "otherPartyLeaderCandidate": "Harriett",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "It’s a two horse race! Labour can’t win in West Worcestershire"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Support 'green' economic growth to create jobs and protect the environment.",
+      "education": "",
+      "environment": "Support 'green' economic growth to create jobs and protect the environment.",
+      "governance": "Leading the campaign against Tory plans to cut housing and devolve power more to towns and villages",
+      "health": "I will introduce a Bill to help improve research and care for Dementia sufferers. Fight to preserve vital public services and the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Leading the campaign against Tory plans to cut housing and devolve power more to towns and villages",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Richard Burt has been a real champion for local people.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Delivering real change for you"
+        },
+        {
+          "caption": "Nick Clegg offers Britain real change"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

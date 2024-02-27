@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sarah Bool",
+    "constituency": "Vauxhall",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "HOUSING",
+        "policyDescription": "Deliver more affordable housing. Residents need greater help to buy their own home and those renting need more protection. Importantly, local authority housing needs better maintenance - have pushed for this in Union Grove and the Kenning's Estate."
+      },
+      {
+        "policyTitle": "SAFER STREETS",
+        "policyDescription": "Work with police, community organisations, charities and schools to promote the wellbeing of our younger people, steering them away from crime. Taking a zero tolerance approach to gang activity and anti-social behaviour with 1400 more police on the beat in London."
+      },
+      {
+        "policyTitle": "ENVIRONMENT",
+        "policyDescription": "Make Vauxhall and London a cleaner healthier place to live and work. Since 2010 under the Conservatives, reduced greenhouse gases have been reduced by a quarter. We want to do more, including increasing the number of electric vehicles and meeting our net zero target."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sarah Bool",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Make Vauxhall and London a cleaner healthier place to live and work.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Deliver more affordable housing. Residents need greater help to buy their own home and those renting need more protection. Importantly, local authority housing needs better maintenance - have pushed for this in Union Grove and the Kenning's Estate.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sarah Bool in Vauxhall"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

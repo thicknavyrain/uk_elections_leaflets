@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Dawn Primarolo",
+	"constituency": "Bristol South",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Communication",
+    	"policyDescription": "Communicate with you. Through regular newsletters and emails, and by continuing to hold face-to-face surgeries."
+  	},
+    {
+      "policyTitle": "Health",
+      "policyDescription": "Campaign for you. Our hospital and new schools are being built – but there's more to do."
+    },
+    {
+      "policyTitle": "Community Engagement",
+      "policyDescription": "Work alongside you. Working together, we'll make Bristol South an even better place to live."
+    }
+	],
+	"mentions": {
+  	"candidate": "Dawn Primarolo",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Our hospital and new schools are being built – but there's more to do.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "labour.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Re-Elect Dawn Primarolo"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

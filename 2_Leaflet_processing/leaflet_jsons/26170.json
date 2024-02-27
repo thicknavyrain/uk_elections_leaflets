@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Fixing the economy and investing in our NHS services",
+        "content": "The Liberal Democrats fought to increase investment in the NHS this financial year - and are campaigning for an extra £8 billion a year for the NHS. Worked to repair Britain's economy at the same time as delivering an £800 income tax cut for 25 million working people in Britain - that the Tories said could not be done."
+      },
+      {
+        "title": "Only the Liberal Democrats will introduce the Mansion Tax to fund NHS and end pay freeze",
+        "content": "Only the Liberal Democrats will invest the £8 billion extra a year our NHS needs by 2020. Back their campaign for extra NHS funding."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investing in NHS",
+        "policyDescription": "An extra £8 billion a year for the NHS by 2020, and to take those on minimum wage out of tax altogether."
+      },
+      {
+        "policyTitle": "Mental Health",
+        "policyDescription": "Plans to make sure mental health is taken seriously with £1.25 billion of funding."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Ensure more money for school pupils from disadvantaged backgrounds."
+      },
+      {
+        "policyTitle": "Fair Tax",
+        "policyDescription": "Continue to make income tax fairer, taking those on minimum wage out of tax altogether."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Worked to repair Britain's economy and delivering an £800 income tax cut for 25 million working people in Britain.",
+      "education": "Ensure more money for school pupils from disadvantaged backgrounds.",
+      "environment": "",
+      "governance": "",
+      "health": "Fighting for an extra £8 billion a year for the NHS by 2020; mending the NHS by reversing the Tory NHS reorganisation; plans to make sure mental health is taken seriously with £1.25 billion of funding.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Only the Liberal Democrats will introduce the Mansion Tax to fund NHS and end pay freeze.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+      "phone": "",
+      "email": "",
+      "website": "LibDems.org.uk/nhs_funding",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liberal Democrats logo"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

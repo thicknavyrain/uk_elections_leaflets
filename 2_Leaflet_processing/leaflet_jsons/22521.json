@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Helen Grant",
+	"constituency": "Maidstone & The Weald",
+	"politicalParty": "Conservatives",
+	"electionDate": "7th May",
+	"messages": [
+  	{
+    	"title": "Competent Leadership",
+    	"content": "Job total hits record high while wages surge. Benefits cap 'leads more into work'. Tax cuts for workers and savers. The deficit down, income tax cut, more jobs, new businesses."
+  	},
+  	{
+    	"title": "Coalition of Chaos",
+    	"content": "Labour plan to borrow risks £170bn extra debt. Labour is ransoming Salmond Scottish alliance. Spending up, more debt, higher taxes, jobs lost."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "Stop inappropriate housing developments."
+  	},
+  	{
+    	"policyTitle": "Health",
+    	"policyDescription": "Preserve our NHS and its vital hospital services."
+  	},
+  	{
+    	"policyTitle": "Local Economy",
+    	"policyDescription": "Boost our local businesses, jobs and apprenticeships."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Helen Grant",
+  	"otherPartyLeaderCandidate": "Labour, SNP, Vince Cable, Lib Dems",
+  	"partyLeader": "David Cameron",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Job total hits record high while wages surge, Tax cuts for workers and savers, The deficit down, more jobs, new businesses",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Preserve our NHS and its vital hospital services.",
+  	"immigration": "",
+  	"socialWelfare": "Benefits cap 'leads more into work'",
+  	"housing": [
+    	{
+      	"content":"Stop inappropriate housing developments.",
+      	"yimbyNimby": "NIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "My plan for Maidstone & The Weald",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "16 Kiplands, Maidstone, ME14 5RS",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.helengrant.org",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Pembury Hospital - Maidstone and The Weald Needs its Maternity. Save Our Maternity."
+    	},
+    	{
+      	"caption": "#backs mall business"
+    	}
+  	]
+	},
+	"additionalNotes": "Election Communication. Promoted by Andrew Kennedy on behalf of Helen Grant (Conservative Election Campaign), both of Suite 3, Ruxton Business Centre, Ruxton Farm, Ruxton Road, Maidstone, Kent, ME14 3BF."
+  }
+}
+```

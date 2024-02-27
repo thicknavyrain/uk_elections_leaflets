@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Howard Linsley",
+    "constituency": "Meon Valley",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Healthcare: better than ever under Labour",
+        "content": "Under the last Tory Government waiting lists for operations rose by 400,000. Patients often waited 18 months or more. Today, thanks to Labour's huge investment, many waiting lists have disappeared. Operations are performed within 18 weeks of first seeing your own GP. Deaths from heart disease alone are down 40%."
+      },
+      {
+        "title": "Labour investment in our children's future",
+        "content": "Labour Government investment in education has more than doubled since 1997. We've got more teachers, classroom assistants and new schools. Pupils have smaller classes and greatly improved exam results. Labour's 3,500 Sure Start Centres provide childcare, early learning, healthcare and family support for thousands of children, their parents and carers."
+      },
+      {
+        "title": "Labour protecting the environment",
+        "content": "Labour is committed to reducing carbon emissions and tackling dangerous climate change. Our children deserve the best environment to grow up in. Over five million households have already received home insulation grants. This figure is due to double the next three years. Recent announcements ensure green home energy will be affordable."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Labour pledges to decrease waiting times for operations, with improvements already seen in reduced waiting lists and decreased deaths from heart disease."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Investment in education has increased, with more teachers, classroom assistants, new schools, and smaller classes leading to improved exam results."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Labour commits to carbon emission reduction, climate change action, and providing home insulation grants to millions, improving energy affordability."
+      }
+    ],
+    "mentions": {
+      "candidate": "Howard Linsley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Ed Miliband",
+      "tacticalSituation": "At this election we have a straight choice between Labour and Conservative."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Threatened Tory cuts before the economic recovery is secured.",
+      "education": "Labour Government investment in education has more than doubled since 1997.",
+      "environment": "Labour is committed to reducing carbon emissions and tackling dangerous climate change.",
+      "governance": "",
+      "health": "Under the last Tory Government waiting lists for operations rose by 400,000...",
+      "immigration": "",
+      "socialWelfare": "Labour's 3,500 Sure Start Centres provide childcare, early learning, healthcare and family support...",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Freepost RTHT-TLLL-KKLA Howard Linsley, The Labour Party, Promoted by...",
+      "phone": "07711 043197",
+      "email": "meonvalleyfirst@linsley.co.uk",
+      "website": "www.meonvalleylabourparty.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "At this election we have a straight choice between Labour and Conservative. Labour continuing to invest in hospitals, schools and jobs. Threatened Tory cuts before the economic recovery is secured.",
+        "source": "Labour - for the many not the few.",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Parents Sophie and Clive telling Howard about improved schools under Labour."
+        },
+        {
+          "caption": "Howard with Cabinet Minister for Energy and Climate Change, Ed Miliband."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

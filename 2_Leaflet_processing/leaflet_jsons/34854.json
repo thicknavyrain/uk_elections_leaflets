@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kenny MacAskill",
+    "constituency": "East Lothian",
+    "politicalParty": "SNP",
+    "electionDate": "12 December",
+    "messages": [
+      {
+        "title": "East Lothian's right to choose",
+        "content": "There’s a better way. [...] This election is your chance to [...] vote SNP."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit Opposition",
+        "policyDescription": "Opposes Brexit, wants Scotland to choose its own future."
+      },
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Global warming threatens our planet; supports urgent measures to address the climate emergency."
+      },
+      {
+        "policyTitle": "Public Transport",
+        "policyDescription": "Support local rail and bus services, and implement responsible changes for free transport for the young, elderly, and unemployed."
+      },
+      {
+        "policyTitle": "NHS Protection",
+        "policyDescription": "Opposes privatisation of the NHS and supports a publicly paid service in Scottish hands."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Tories",
+      "partyLeader": "",
+      "tacticalSituation": "Scotland must decide, not have the outcome of Brexit imposed upon them."
+    },
+    "issues": {
+      "brexitEurope": "Opposes Brexit, believes Scotland should have a choice post-Brexit, describes it as the single most important election for a generation.",
+      "economy": "",
+      "education": "",
+      "environment": "Global warming threatens our planet; supports urgent measures to address the climate emergency.",
+      "governance": "",
+      "health": "Opposes privatisation of the NHS and supports a publicly paid service in Scottish hands.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I’ll work for a fairer society, for all of those in East Lothian and not just the privileged few.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Kenny MacAskill with supporters, holding a Scottish flag with EU stars."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet focuses on the importance of the election in the context of Brexit and calls for Scotland to have the right to choose its own future."
+  }
+}
+```

@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+    "candidateName": "Cat Smith",
+    "constituency": "Lancaster and Fleetwood",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Use your vote this Thursday",
+        "content": "Dear resident, This Thursday you have the chance to decide the future of our country. If the Tories are re-elected this week, we are in for five more years of the same - the NHS pushed deeper into crisis, millionaires given tax breaks and ordinary people left out."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Opposition to the NHS being pushed deeper into crisis."
+      }
+    ],
+    "mentions": {
+      "candidate": "This Thursday you have the chance to decide the future of our country.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The Tories won here by just 333 votes last time."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Opposition to the NHS being pushed deeper into crisis.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Lancaster will be one of the places that settles whether we have five more years of the Conservatives, or a Labour government that will take urgent action to defend our living standards.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Scotforth Labour Hall, 47 Scotforth Road, Lancaster, LA1 4SA",
+      "phone": "01524 566 551",
+      "email": "cat@catsmith.co.uk",
+      "website": "www.catsmith.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The Tories plan is failing because they only stand up for a privileged few.",
+        "source": "Personal statement",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Graph showing Lancaster & Fleetwood general election result, 2010."
+        }
+      ]
+    },
+    "additionalNotes": "Polls are open 7am - 10pm."
+  }
+}

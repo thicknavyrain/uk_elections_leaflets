@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Johnson",
+    "constituency": "Orpington",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "JOIN ORPINGTON'S WINNING TEAM",
+        "content": "By displaying a poster, registering to vote by post, helping to deliver Conservative newsletters, holding a meeting in your home, pledging your vote, or joining the Orpington Conservatives."
+      },
+      {
+        "title": "IT'S A TWO-HORSE RACE FOR GOVERNMENT",
+        "content": "Highlighted the tactical situation with historical voting patterns and the decline in Liberal Democrat support as evidence of a two-horse race between Conservatives and another unnamed party."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Jo Johnson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Decline in Liberal Democrat support suggests a two-party race."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+      "role": "",
+      "duration": "",
+      "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Orpington Conservatives, 7 Sevenoaks Road, Orpington, Kent BR6 9JJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Graph showing national voting intentions since 2005"
+        },
+        {
+          "caption": "Graph and statistics showing the decline in Liberal Democrat support"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

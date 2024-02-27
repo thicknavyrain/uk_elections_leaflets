@@ -1,0 +1,53 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Green",
+    "constituency": "Bolton West",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday 8 June 2017",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Chris Green",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "55 New Hall Lane, Bolton, BL1 5LW",
+      "phone": "01204 492080",
+      "email": "chris@chris-green.org.uk",
+      "website": "chris-green.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Chris Green with an image of Big Ben in the background."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

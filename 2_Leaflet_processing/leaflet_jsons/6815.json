@@ -1,0 +1,73 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Dixon",
+    "constituency": "Cardiff North",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "A hard-working campaigner for Cardiff North",
+        "content": "I have been working in Cardiff North for a long time. Along with local Lib Dem councillors, I have demonstrated my commitment to helping people in our area and standing up for residents."
+      },
+      {
+        "title": "DON'T FORGET",
+        "content": "In our area, only the Liberal Democrats can stop Cameron's Conservatives. Labour are a spent force - they don't even have any councillors in Cardiff North!"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "John Dixon",
+      "otherPartyLeaderCandidate": "Cameron's Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": "Remember, with Labour & Plaid out of the race here, only the Lib Dems can keep the Tories out!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have been working in Cardiff North for a long time. Along with local Lib Dem councillors, I have demonstrated my commitment to helping people in our area and standing up for residents.",
+    "politicalExperience": [
+      {
+        "role": "Local Lib Dem Councillor",
+        "duration": "Long time",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "5 Welwyn Road, Heath, Cardiff, CF14 1TG",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Dixon speaking to an audience"
+        }
+      ]
+    },
+    "additionalNotes": "P.S. Remember, with Labour & Plaid out of the race here, only the Lib Dems can keep the Tories out!"
+  }
+}
+```

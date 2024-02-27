@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Murray Sackwild",
+    "constituency": "Harlow",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "Vote for what you believe in",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public NHS",
+        "policyDescription": "Fight for a publicly funded, publicly provided health service free at the point of use."
+      },
+      {
+        "policyTitle": "Fair Economy",
+        "policyDescription": "End austerity and restore the public sector, creating over one million good jobs that pay at least a living wage."
+      },
+      {
+        "policyTitle": "Decent Homes",
+        "policyDescription": "Abolish the cruel and unfair bedroom tax. Build 500,000 social rented homes by 2020."
+      },
+      {
+        "policyTitle": "Safe Climate",
+        "policyDescription": "Take serious action on climate change by working with other countries to ensure global temperatures do not rise beyond 2 degrees."
+      },
+      {
+        "policyTitle": "Free Education",
+        "policyDescription": "Scrap university tuition fees. Promote a comprehensive system of local schools offering mixed ability teaching staffed by qualified teachers."
+      },
+      {
+        "policyTitle": "Better Transport",
+        "policyDescription": "Return the railways to public hands to stop profits being put before passengers."
+      }
+    ],
+    "mentions": {
+      "candidate": "Murray Sackwild",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "End austerity and restore the public sector, creating over one million good jobs that pay at least a living wage.",
+      "education": "Scrap university tuition fees. Promote a comprehensive system of local schools.",
+      "environment": "Take serious action on climate change by working with other countries.",
+      "governance": "",
+      "health": "Fight for a publicly funded, publicly provided health service free at the point of use.",
+      "immigration": "",
+      "socialWelfare": "Abolish the cruel and unfair bedroom tax.",
+      "housing": [
+        {
+          "content":"Build 500,000 social rented homes by 2020",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I have worked in Harlow for the last 14 years. For 13 as a Head of Year, and later Head of the Humanities Faculty at Mark Hall Academy – more recently as a Supply Teacher mostly at Passmores Academy. For the last 8 years I have also been General Secretary of Harlow and Epping Forest NEU supporting 1180 teachers in the local area.",
+    "politicalExperience": [
+      {
+        "role": "Head of Year, Head of the Humanities Faculty, Supply Teacher",
+        "duration": "Last 14 years",
+        "achievements": "Supporting 1180 teachers as General Secretary of Harlow and Epping Forest NEU"
+      }
+    ],
+    "contactInformation": {
+      "address": "Development House, 56-64 Leonard Street, London, EC2A 4LT",
+      "phone": "077955 68913",
+      "email": "murray.sackwild@greenparty.org.uk",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/76383016041",
+        "twitter": "@TheGreenParty",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Murray Sackwild, your Green Party candidate"
+        }
+      ]
+    },
+    "additionalNotes": "This publication has been paid for without big business or corporate interests, but has been supported and funded by ordinary people and printed on 100% post-consumer waste, FSC® recycled certified and FSC® Process Chlorine Free paper. PRINTED BY Printgraphics, Wally Road, Pepperhill, Northfleet, Kent, DA11 8PG. Printed by Furbish Lithugram on behalf of Murray Sackwild, both at Development House, 56-64 Leonard Street, London, EC2A 4LT."
+  }
+}
+```

@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Harriett Baldwin",
+    "constituency": "West Worcestershire",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "REAL PLANS TO TACKLE THE DEFICIT",
+        "content": "Time to get government spending under control. West Worcestershire voters have decisively backed plans to cut Britain's deficit under control."
+      },
+      {
+        "title": "HANDS OFF OUR HOSPITALS",
+        "content": "Don't go forward with this rushed merger. Harriett Baldwin has urged NHS Worcestershire to stop its rush to reorganise community hospitals in Pershore, Malvern and Tenbury Wells. Plans are to abolish the local hospitals and combine them with the Mental Health Trust, with a decision to be rushed through before a General Election."
+      },
+      {
+        "title": "THE BLOOR HOMES SAGA",
+        "content": "Bloor Homes has put in an outline planning application to Malvern Hills District Council to build 4,000 homes in Lower Broadheath. At the same time, the government has refused to spend money to dual the Southern Link Road or build a North West Link Road. Harriett Baldwin said, 'We must abolish Labour's top-down approach to imposing these excessive housing numbers on South Worcestershire. The infrastructure cannot cope.'"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic Policy",
+        "policyDescription": "Plans to reduce the deficit and keep interest rates low."
+      },
+      {
+        "policyTitle": "Healthcare Policy",
+        "policyDescription": "Opposes the merger of NHS community hospitals in Pershore, Malvern and Tenbury Wells with the Mental Health Trust, to protect local hospitals."
+      },
+      {
+        "policyTitle": "Housing Policy",
+        "policyDescription": "Against the 'top-down' approach to imposing housing numbers in South Worcestershire, emphasizing that the local infrastructure cannot cope with the proposed development."
+      }
+    ],
+    "mentions": {
+      "candidate": "Harriett Baldwin",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Decisively backed plans to cut Britain's deficit under control.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Urged NHS Worcestershire to stop the rushed merger of community hospitals.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Opposes the development of 4,000 homes in Lower Broadheath as the local infrastructure cannot cope.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "209A Worcester Road, Malvern Link, WR14 1SP",
+      "phone": "01684 573469",
+      "email": "harriett@harriettbaldwin.com",
+      "website": "www.harriettbaldwin.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Harriett Baldwin at the closed Foley Arms Hotel"
+        },
+        {
+          "caption": "Harriett Baldwin looking at plans for Malvern's new hospital"
+        },
+        {
+          "caption": "Harriett Baldwin with David Cameron"
+        }
+      ]
+    },
+    "additionalNotes": "Top 10 Ideas for Spending Cuts outlined on leaflet."
+  }
+}
+```

@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "CHARLOTTE HOAGLAND",
+    "constituency": "Witney",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Vote for a brighter future:",
+        "content": "Investment in better local transport infrastructure, More genuinely affordable housing for local people, Save our local hospitals"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Transport Infrastructure",
+        "policyDescription": "Investment in better local transport infrastructure"
+      },
+      {
+        "policyTitle": "Affordable Housing",
+        "policyDescription": "More genuinely affordable housing for local people"
+      },
+      {
+        "policyTitle": "Local Hospitals",
+        "policyDescription": "Save our local hospitals"
+      }
+    ],
+    "mentions": {
+      "candidate": "CHARLOTTE HOAGLAND",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "More genuinely affordable housing for local people",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "CHARLOTTE HOAGLAND - A strong voice for Witney"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

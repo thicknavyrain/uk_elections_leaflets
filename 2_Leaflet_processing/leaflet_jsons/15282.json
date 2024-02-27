@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Pete Lowe",
+    "constituency": "Stourbridge",
+    "politicalParty": "Labour",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Addressing the Next Generation",
+        "content": "This May you will have the opportunity to vote in the most important General Election of a generation. Your voice can count."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Labour will cut tuition fees from £9,000 to £6,000 to tackle the burden of debt facing the next generation imposed by the Tories and the Lib Dems."
+      },
+      {
+        "policyTitle": "Economy and Employment",
+        "policyDescription": "Require all firms that get a major government contract or hire from outside the EU to offer apprenticeships. To help people in work, will raise the minimum wage to £8 and cut income tax."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build 200,000 new homes a year, with priority for local first-time buyers, and put a ban on letting agents imposing rip-off fees to tenants."
+      }
+    ],
+    "mentions": {
+      "candidate": "Pete Lowe",
+      "otherPartyLeaderCandidate": "the Tories and the Lib Dems"
+    },
+    "issues": {
+      "economy": "Will raise the minimum wage to £8 and cut income tax.",
+      "education": "Labour will cut tuition fees from £9,000 to £6,000.",
+      "housing": [
+        {
+          "content": "Build 200,000 new homes a year, with priority for local first-time buyers, and put a ban on letting agents imposing rip-off fees to tenants.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "As a father of two young adults, I know just how important the right to the next generation is.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01384 442122",
+      "email": "pete4stourbridge@gmail.com",
+      "website": "www.pete4stourbridge.com/thenextgeneration",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@pete4stour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Josh, first-time voter",
+        "endorsement": "Supporting Pete Lowe at the general election because he is not your typical politician. Knows the area, the problems people face on a day to day basis. Born and raised in the Black Country, and knowing Pete he will go all out to fully representing the views of Black Country people if he is to be elected on May 7th."
+      },
+      {
+        "endorser": "Gavin, Unit3Sixty",
+        "endorsement": "Pete makes things happen. He's approachable and gets things done by being supportive and considerate to the needs of Stourbridge community. That's why I'm backing Pete—he's a great local guy who will do what’s best for people around here."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Pete Lowe interacting with the public and speaking at events."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet encourages returning the provided form in a freepost envelope, it includes a survey with a selection of important issues, and has a call to action for tactical voting to help get Pete elected as the first locally born MP for Stourbridge."
+  }
+}
+```

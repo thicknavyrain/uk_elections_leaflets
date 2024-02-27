@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "STEVE WOOD",
+    "constituency": "Bristol South",
+    "politicalParty": "UK INDEPENDENCE PARTY",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Standing Up for Real Change",
+        "content": "South Bristol deserves change and expects change. You were the first voters in our City to elect a UKIP Councillor."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Full employment for our young people."
+      },
+      {
+        "policyTitle": "Social Housing",
+        "policyDescription": "A fairer system for access to social housing."
+      },
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "No income tax for the lowest earners in Bristol South."
+      }
+    ],
+    "mentions": {
+      "candidate": "Steve Wood",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Britain's exit from the EU.",
+      "economy": "Full employment for our young people, no income tax for the lowest earners.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "A fairer system for access to social housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "07721 460028",
+      "email": "steve@bristolukip.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Election Communication for the UK Independence Party"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

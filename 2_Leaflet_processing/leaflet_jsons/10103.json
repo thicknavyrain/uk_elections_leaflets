@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Edward Davey",
+    "constituency": "Kingston & Surbiton",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Re-elect Edward & re-zone Surbiton",
+        "content": "With the Election now called, Liberal Democrat Edward Davey is standing for re-election as our MP. Edward has won past campaigns for better local train services. His campaign to re-zone Surbiton station would bring huge savings for commuters and is being seriously considered at the Department for Transport."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Re-zone Surbiton",
+        "policyDescription": "Campaign to re-zone Surbiton station from zone 6 to zone 5, which would bring huge savings for commuters."
+      },
+      {
+        "policyTitle": "Stop the sell-off of hospital sites",
+        "policyDescription": "Successfully campaigned to stop Eurostar platform at Waterloo being used for shops and offices."
+      },
+      {
+        "policyTitle": "Improve local train services",
+        "policyDescription": "Campaign for better local train services and has initiated actions like installation of CCTV, help points, etc., and continues to push Mayor of London to electrify the line to improve services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Edward Davey",
+      "otherPartyLeaderCandidate": "Conservatives, Labour",
+      "partyLeader": "",
+      "tacticalSituation": "The election for Kingston & Surbiton's next MP will be a close fight between Edward and the Conservative. Labour cannot win here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Leading the fight against the threat to Kingston Hospital's A&E and maternity units. The Daily Telegraph called him a 'saint' for his record on expenses.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Edward Davey has won a reputation as a hard working local MP who stands up for our area.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": "Successfully campaigned for better local train services, led the fight against the threat to Kingston Hospital's A&E and maternity units, and has been seriously considered at the Department for Transport regarding re-zoning Surbiton station."
+      }
+    ],
+    "contactInformation": {
+      "address": "21 Berrylands Road, Surbiton, KT5 8QX",
+      "phone": "",
+      "email": "",
+      "website": "www.edwarddavey.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Daily Telegraph",
+        "endorsement": "Called him a 'saint' for his record on expenses."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour can't win here",
+        "source": "Campaign Material",
+        "date": ""
+      },
+      {
+        "text": "Edward Davey has won a reputation as a hard working local MP who stands up for our area.",
+        "source": "Campaign Material",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Edward Davey campaigning for re-zone Surbiton."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

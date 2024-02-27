@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew Rosindell",
+    "constituency": "Romford",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 7th May 2015",
+    "messages": [
+      {
+        "title": "Keep our local M.P. working for Romford!",
+        "content": "As your M.P. for the past fourteen years, I am proud to have represented my home town in the U.K. Parliament. Romford is my home and always will be. This is where I have lived all my life. I am a truly local person who cares about our community and understands what matters to local people. That is why I hope to continue to be able to work for Romford as your representative in the House of Commons. To do so, I need your support on Thursday 7th May 2015."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Andrew Rosindell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am proud to have represented my home town in the U.K. Parliament.",
+    "politicalExperience": [
+      {
+        "role": "M.P. for Romford",
+        "duration": "fourteen years",
+        "achievements": "representing Romford in the U.K. Parliament"
+      }
+    ],
+    "contactInformation": {
+      "address": "1 Pettits Close, Romford, Essex RM1 4EB / 85 Western Road, Romford Essex RM1 3LS",
+      "phone": "(01708) 761186 / (01708) 766700",
+      "email": "andrew@rosindell.com",
+      "website": "www.andrew-rosindell.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photos of Andrew Rosindell engaging with constituents and participating in community events."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet is mainly a personal appeal for support without detailed policy positions or mention of specific issues such as Brexit, governance, or health."
+  }
+}
+```

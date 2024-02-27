@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Daniel Zeichner",
+    "constituency": "Cambridge",
+    "politicalParty": "Labour",
+    "electionDate": "Spring 2015",
+    "messages": [
+      {
+        "title": "THE CHOICE",
+        "content": "Cambridge and Britain face a choice: five more years of Cameron and Clegg, a cost of living crisis and a struggling NHS or a Labour Government delivering a recovery that works for working people. Too many Cambridge people are struggling to pay the bills, it's getting harder to see a GP, young people are frustrated when an unpaid internship follows a good quality education rather than a good job and older people are worried about paying for care in old age. We live in a divided city where some are writing the digital future, while others are left behind and are forced to rely on food banks."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Labour will save our NHS & tackle the cost of living crisis.",
+        "policyDescription": "Labour will invest in 20,000 nurses and 8,000 GPs, guarantee a GP appointment in 48 hours and increase the minimum wage."
+      },
+      {
+        "policyTitle": "NHS with time to care",
+        "policyDescription": "Labor will invest in 20,000 nurses and 8,000 GPs, a guaranteed GP appointment in 48 hours and 8 hours per patient each week in care homes."
+      },
+      {
+        "policyTitle": "Fair deal for renters",
+        "policyDescription": "Labour will build more affordable homes. Daniel Zeichner will vote for new laws to ban letting agents' charges and offer longer tenancies."
+      },
+      {
+        "policyTitle": "Expand free childcare",
+        "policyDescription": "Daniel Zeichner will vote to extend free childcare for working parents to 25 hours a week for 3 and 4 year-olds and a primary school guarantee."
+      }
+    ],
+    "mentions": {
+      "candidate": "Daniel Zeichner",
+      "otherPartyLeaderCandidate": "Cameron and Clegg",
+      "partyLeader": "",
+      "tacticalSituation": "The Tories have shown whose side they are on, embracing policies that mean losing your job or a pay cut, getting a bedroom tax bill of £1,600 a year, struggling at work and facing a cost-of-living crisis."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Tackle the cost of living crisis.",
+      "education": "Young people are frustrated when an unpaid internship follows a good quality education rather than a good job.",
+      "environment": "",
+      "governance": "",
+      "health": "It's getting harder to see a GP. Labour will invest in 20,000 nurses and 8,000 GPs.",
+      "immigration": "",
+      "socialWelfare": "Some people are forced to rely on food banks.",
+      "housing": [
+        {
+          "content": "Labour will build more affordable homes.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.danielzeichner.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Daniel Zeichner with supporters."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes mention of the current LibDem MP in Cambridge, and how frequently they've voted with the Tory-led Government, as an attempt to appeal to tactical voting considerations."
+  }
+}
+```

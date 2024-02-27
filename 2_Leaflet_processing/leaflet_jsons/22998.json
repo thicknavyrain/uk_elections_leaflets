@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jillian Creasy",
+    "constituency": "Sheffield Central",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "THIS TIME NO SEAT IS SAFE",
+        "content": "YOUR VOTE COUNTS"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Program",
+        "policyDescription": "A policy that scraps the £100 billion Trident missile program and ends tuition fees, freeing the funds to protect the NHS from private sector encroaching."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jillian Creasy",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Caroline Lucas",
+      "tacticalSituation": "Only the Green Party and Labour are seriously contesting Sheffield Central."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "If you want an MP who will challenge authority by taxing the rich, stopping tax evasion and investing in jobs and public services, then vote Green.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "Since 2004",
+        "achievements": "Jillian Creasy has been a Green Party councillor since 2004, representing Sheffield and Social Care."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07709 110580",
+      "email": "jillian.creasy@greenparty.org.uk",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Caroline Lucas",
+        "endorsement": "MP of the year 2014 Caroline Lucas is backing Jillian Creasy to be Sheffield's first Green MP."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jillian Creasy with Caroline Lucas and supporters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

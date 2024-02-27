@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Swinson",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "MENTAL HEALTH CARE 24 HOURS A DAY 7 DAYS A WEEK",
+        "content": "Jo Swinson's plan for mental health."
+      },
+      {
+        "title": "NHS UNDER THREAT WITH TRUMP AND JOHNSON",
+        "content": "If Boris Johnson remains as Prime Minister, things will only get worse for our NHS."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Mental Health",
+        "policyDescription": "Increase mental health staffing; apply the same waiting time standards to mental health care as have for physical care; ensure all GPs receive core mental health training; increase access to talking therapies; introduce further mental health maximum waiting time standards."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jo Swinson",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The NHS may be the envy of the world, but our mental health service is not. People are struggling. When they turn up for help, it is often not there. Waiting times for mental health services are, on average, 14 weeks - just for an assessment - before support and care has even begun. Problems that can start small, become crises as help is not available, or arrives late.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "The Liberal Democrats have a plan to tackle this.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Liberal Democrats 8-10 Great George Street London, SW1P 3AE",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk/join",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Fiona Dryburgh, former Labour councillor",
+        "endorsement": "I have now found a new home within the Liberal Democrats. I am proud to join a progressive party. I left Labour as a direct consequence of the direction in which the party is moving."
+      },
+      {
+        "endorser": "Gabriel Rozenberg, former Conservative councillor",
+        "endorsement": "Conservatives have become a party promoting an extremist view of a strong isolationism."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Liberal Democrat Leader Jo Swinson said: 'For many years, mental health has been overlooked by Conservative and Labour governments. My government will ensure no patients longer face shamefully long waiting times and are treated with the same care as those with physical illnesses. We will ensure our mental health services are there for everyone who needs them.'",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "Poll reveals majority believe lying Boris Johnson will sell off NHS services to US.",
+        "source": "Daily Mirror, October 2019",
+        "date": "October 2019"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet images displaying key messages, endorsements, contact information, and concerns about NHS under threat with Trump and Johnson."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

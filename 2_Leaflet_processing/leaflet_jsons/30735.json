@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Robert Largan",
+    "constituency": "Bury South",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "STANDING WITH THERESA MAY",
+        "content": "Robert Largan Fighting for Bury South. STANDING WITH THERESA MAY."
+      },
+      {
+        "title": "MAKING A SUCCESS OF BREXIT IN BURY SOUTH",
+        "content": "Robert is working to ensure that the priorities of people in Bury South are heard at the highest level of government on the main issues that affect the UK and the world. And work to make sure we make the best of the new economic opportunities Brexit brings."
+      },
+      {
+        "title": "SECURING ECONOMIC STABILITY FOR BURY SOUTH",
+        "content": "Jeremy Corbyn's candidate is too close to local job losses and a weaker economy - just look what happened at Asda in Radcliffe and now Network Rail is under threat of closure in the constituency. A vote for any candidate apart from the Conservatives hands Jeremy Corbyn the keys to Downing Street."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Ensure the priorities of Bury South are heard in Brexit negotiations, making a success of the new economic opportunities Brexit brings."
+      },
+      {
+        "policyTitle": "Economic Stability",
+        "policyDescription": "Prevent local job losses and strengthen the economy to avoid situations like those at Asda in Radcliffe and the potential threat to Network Rail in the constituency."
+      }
+    ],
+    "mentions": {
+      "candidate": "Robert Largan",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "A vote for any candidate apart from the Conservatives hands Jeremy Corbyn the keys to Downing Street."
+    },
+    "issues": {
+      "brexitEurope": "Robert is working to ensure that the priorities of people in Bury South are heard at the highest level of government on the main issues that affect the UK and the world.",
+      "economy": "A vote for any candidate apart from the Conservatives risks economic instability, job losses and a weaker economy, referencing recent events at Asda in Radcliffe and Network Rail.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0161 764 4548",
+      "email": "help@robertlargan.co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Robert Largan with constituents."
+        },
+        {
+          "caption": "Prime Minister Theresa May."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

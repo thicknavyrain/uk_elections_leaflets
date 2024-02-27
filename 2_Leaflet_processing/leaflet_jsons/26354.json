@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lee Sherriff",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "PUT CARLISLE FIRST",
+        "policyDescription": "Fighting for our city at Westminster and putting residents' needs before party politics."
+      },
+      {
+        "policyTitle": "MAKE WORK PAY",
+        "policyDescription": "Raising the minimum wage and banning exploitative zero hour contracts."
+      },
+      {
+        "policyTitle": "BACK THE NHS",
+        "policyDescription": "Opposing crippling NHS charges, prioritising elderly care, and treating mental health as seriously as physical health."
+      },
+      {
+        "policyTitle": "GUARANTEE A JOB OR TRAINING FOR 18-24 YEAR OLDS",
+        "policyDescription": "Tackling unemployment by supporting young people into work or training."
+      },
+      {
+        "policyTitle": "FREEZE YOUR ENERGY BILLS",
+        "policyDescription": "Freezing energy prices until 2017, ensuring bills can only fall and not rise."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Opposing crippling NHS charges, prioritising elderly care, and treating mental health as seriously as physical health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lee Sherriff campaigning with residents."
+        },
+        {
+          "caption": "Lee Sherriff portrait."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

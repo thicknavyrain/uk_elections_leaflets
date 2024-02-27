@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "DAVID HOLLAS",
+    "constituency": "Nottingham South",
+    "politicalParty": "UKIP",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "Dear Voter",
+        "content": "Please see the personal message on the image which is too small to read clearly."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Cut Immigration",
+        "policyDescription": "UKIP pledges to cut immigration, end mass uncontrolled immigration and take back border control."
+      },
+      {
+        "policyTitle": "More Secure Britain",
+        "policyDescription": "UKIP commits to a more secure Britain, aiming to add 20,000 more police, 7,000 more prison officers, and secure 4,000 more border staff."
+      },
+      {
+    "policyTitle": "Secure Our Future Outside the `Failed EU'",
+    "policyDescription": "UKIP seeks to ensure a future outside of the 'failing European Union' and aims to protect Britain's culture."
+      },
+      {
+        "policyTitle": "Protecting British Culture",
+        "policyDescription": "UKIP prioritizes protecting British culture, including the English language, and British culture."
+      },
+      {
+        "policyTitle": "Fair Democracy",
+        "policyDescription": "UKIP proposes a fairer democracy with initiatives like one person, one vote, and abolition of the House of Lords."
+      }
+    ],
+    "mentions": {
+      "candidate": "DAVID HOLLAS",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Ensure a future outside of the 'failing European Union'.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Proposes fairer democracy, abolition of the House of Lords.",
+      "health": "",
+      "immigration": "Aims to cut immigration and take back border control.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "The personal statement of the candidate is likely included in the image, but the text is too small to read clearly.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "07833423834",
+      "email": "david.hollas@ukipnottingham.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "The leaflet features an image of the candidate, DAVID HOLLAS."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

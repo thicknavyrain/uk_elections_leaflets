@@ -1,0 +1,106 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Geoff Garbett",
+    "constituency": "Camborne, Redruth & Hayle",
+    "politicalParty": "Green Party",
+    "electionDate": "2015",
+    "messages": [
+      {
+        "title": "Competition is killing the NHS",
+        "content": "The message here promotes the public ownership of the NHS, criticizing the competition that the article claims is negatively affecting the healthcare system."
+      },
+      {
+        "title": "The Green Party supports a living economy",
+        "content": "This section discusses the introduction of a living wage, investment in renewable energy, and community-focused banks as part of the Green Party's vision for a sustainable economy."
+      },
+      {
+        "title": "Green energy powers ahead",
+        "content": "The leaflet describes the benefits of investing in renewable energy and the potential for job creation in this sector."
+      },
+      {
+        "title": "How party funding can control politics",
+        "content": "This part of the leaflet raises concerns about political parties being funded by big businesses and wealthy individuals."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Stop the privatization of our NHS, return to a fully publicly owned service."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Introduce a living wage, fix the banks, develop power from Westminster to communities, invest in renewable energies, and support community banks."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Scrap tuition fees, share the wealth."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Nationalize our railways."
+      },
+      {
+        "policyTitle": "Welfare",
+        "policyDescription": "Put people before profit, offer a citizens income."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build council houses, proper deal for private renters."
+      }
+    ],
+    "mentions": {
+      "candidate": "Geoff Garbett",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The leaflet includes a pie chart showing the tactical voting considerations, where Green Party supporters could influence the majority in 'CRH Votes for Policies'."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Introduce a living wage, invest in renewable energy, and community-focused banks are mentioned under the economy.",
+      "education": "Scrap tuition fees is mentioned under education.",
+      "environment": "Investment in renewable energy is emphasized as a key policy point.",
+      "governance": "",
+      "health": "The leaflet talks about stopping the privatization of the NHS.",
+      "immigration": "",
+      "socialWelfare": "Citizens income and putting people before profit are mentioned as part of social welfare policies.",
+      "housing": [
+        {
+          "content":"Build council houses, a proper deal for renters.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Geoff has lived in Carharrack for nearly 30 years, and worked as a science teacher at Cornwall College in Camborne. Speaks about a Green political vision - a society of equality and mutual respect.",
+    "politicalExperience": [
+      {
+        "role": "Green Party Candidate",
+        "duration": "",
+        "achievements": "Lifelong science teacher bringing knowledge and enthusiasm to the party's stance on the environment."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.voteforpolicies.org.uk www.crhgreen15.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "The leaflet features images of Geoff Garbett, graphs illustrating poll positions, and graphics representing Green Party policies."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes a variety of informational content, such as a chart showing a poll of young people's voting intentions, emphasizing support for the Green Party."
+  }
+}
+```

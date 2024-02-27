@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Farid Ahmed",
+	"constituency": "Walthamstow",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Protect Whipps Cross",
+    	"content": "Labour's London health bosses are planning to make cuts at Whipps Cross Hospital. Farid Ahmed and the local Liberal Democrats are campaigning to protect Whipps Cross from such cuts."
+  	},
+  	{
+    	"title": "Fighting for Change",
+    	"content": "Farid Ahmed and the local Lib Dem Team are fighting for real change in Walthamstow after 18 years of Labour neglect."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Protect local NHS services",
+    	"policyDescription": "Campaigning to protect Whipps Cross from cuts planned by health bosses."
+  	},
+  	{
+    	"policyTitle": "Put 3,000 more police on Britain's streets",
+    	"policyDescription": "Supports increasing the number of police officers to enhance safety."
+  	},
+  	{
+    	"policyTitle": "Get cleaner safer streets for Walthamstow",
+    	"policyDescription": "Aims to improve the cleanliness and safety of streets in the Walthamstow area."
+  	},
+  	{
+    	"policyTitle": "Make parking charges more affordable",
+    	"policyDescription": "Wants to make it less expensive to park vehicles by reducing charges."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Farid Ahmed",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "Lib Dems can beat Labour on Election Day just like Gordon Brown's Labour around here."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Campaigning to protect Whipps Cross from health care cuts.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Farid Ahmed at Whipps Cross with supporters."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

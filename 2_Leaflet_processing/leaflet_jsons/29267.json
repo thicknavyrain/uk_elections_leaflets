@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Eileen Dinning",
+    "constituency": "Glasgow South",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "A fresh voice for the Southside",
+        "content": "My whole working life has been dedicated to protecting the rights of workers and their families."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting for Better Jobs",
+        "policyDescription": "The leaflet outlines a dedication to job creation and job security, aiming to guarantee a living wage and abolish zero hour contracts."
+      },
+      {
+        "policyTitle": "Fighting for Public Services",
+        "policyDescription": "The leaflet presents a commitment to opposing privatization and supporting the renewal of public services."
+      },
+      {
+        "policyTitle": "Working for You",
+        "policyDescription": "The leaflet states a promise to tackle day-to-day issues that matter to the southside community."
+      }
+    ],
+    "mentions": {
+      "candidate": "Eileen Dinning",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Job creation and job security, living wage, abolition of zero hour contracts.",
+      "education": "",
+      "environment": "",
+      "governance": "Opposition to privatization, renewal of public services.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "My whole working life has been dedicated to protecting the rights of workers and their families. I want to be your MP to fight for everyone in Glasgow South.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Scottish Labour Party, 290 Bath Street, Glasgow, G2 4RE",
+      "phone": "07549 009666",
+      "email": "dinning4glasgowsouth@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "facebook.com/EileenDinning4GlasgowSouth",
+        "twitter": "@eileen_dinning",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Eileen Dinning, A fresh voice for the Southside."
+        }
+      ]
+    },
+    "additionalNotes": "The flyer also includes an application section for voters to indicate their voting intention, request a poster, or get involved."
+  }
+}
+```

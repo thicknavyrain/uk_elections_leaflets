@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alan Whitehead",
+    "constituency": "Southampton Test",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8th of June",
+    "messages": [
+      {
+        "title": "Alan Whitehead: Our Strong Voice for Southampton",
+        "content": "It's been my privilege to serve our city for many years as a councillor, council leader and Member of Parliament. In that time I have always tried to do right by all of my constituents, no matter who they are or where they are from."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Alan Whitehead",
+      "otherPartyLeaderCandidate": "Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "I have made it very clear that I will fight to protect the rights and futures of EU citizens living in the UK and if re-elected on Thursday 8th of June will speak out to get the best deal for Southampton and all its residents in the upcoming Brexit negotiations.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "One worrying aspect of how the Government has dealt with Brexit so far is its stance on EU citizens already living in the UK.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Councillor, Council Leader, Member of Parliament",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Basepoint, Andersons Road, Southampton, SO14 5FE",
+      "phone": "023 8068 2066",
+      "email": "alan@alan-whitehead.org.uk",
+      "website": "www.alan-whitehead.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Alan Whitehead"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

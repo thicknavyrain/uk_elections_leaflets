@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Julian Smith",
+    "constituency": "Skipton & Ripon",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "I'll continue to support families and businesses to secure our economy."
+      },
+      {
+        "policyTitle": "Community Connectivity",
+        "policyDescription": "From buses to broadband, I'll continue to lead efforts so communities are connected."
+      },
+      {
+        "policyTitle": "Rural Support",
+        "policyDescription": "I'll fight to protect rural North Yorkshire & support shops, pubs and our Market Towns."
+      }
+    ],
+    "mentions": {
+      "candidate": "Julian Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "I'll continue to support families and businesses to secure our economy.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "votejuliansmith.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Julian engaging with the local community and participating in various activities."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

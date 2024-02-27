@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew Pakes",
+    "constituency": "Milton Keynes North",
+    "politicalParty": "Labour and Co-operative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "I want to hear from you",
+        "content": ""
+      },
+      {
+        "title": "A positive local choice for Milton Keynes North",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Andrew Pakes",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Andrew Pakes, Labour Action Centre, 112 Newport Road, Milton Keynes MK13 0AA",
+      "phone": "01908 314974",
+      "email": "info@andrewpakes.org.uk",
+      "website": "www.andrewpakes.org.uk",
+      "socialMedia": {
+        "facebook": "andrew4mk",
+        "twitter": "andrew4mk",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andrew Pakes with a caption stating 'A positive local choice for Milton Keynes North'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sally Keeble",
+    "constituency": "Boothville",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Boothville Matters",
+        "content": "Geoff - your neighbour in Boothville. Geoff warns on local road safety. Labour's Geoff Herbert wants to see improvements to safety on local roads."
+      },
+      {
+        "title": "Sally warns of roundabout risks at Round Spinney",
+        "content": "Sally Keeble has called for better risk management and traffic management at the Round Spinney roundabout."
+      },
+      {
+        "title": "Geoff takes up the planning problems in Moulton Leys",
+        "content": "Geoff will take on the challenge of standing up for people in Moulton Leys over planning proposals in the Moulton area."
+      },
+      {
+        "title": "Sally backs children's centres",
+        "content": "Sally Keeble, Labour's parliamentary candidate, has warned that many families and children will lose out as children's centers close their doors to all but the most needy. Concerns about the impact of these changes, let Sally know."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Labour's six point immigration plan",
+        "policyDescription": "Employ 1,000 more border guards. Introduce more border checks. Limit in work and out of work benefit for migrants. Stop benefits for migrants' families not in the UK. Smart controls so the UK can still get the skilled labour we need. Action to stop agencies recruiting just from abroad."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sally Keeble",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Yvette Cooper",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Geoff takes up the planning problems in Moulton Leys. Lots of people have complained about the impact on schools, roads and local amenities.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "[redacted]",
+      "website": "www.sallykeeble.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Right: Labour’s Geoffrey Herbert lives locally"
+        },
+        {
+          "caption": "Sally's called on the County Council to improve safety at the roundabout for pedestrians and drivers."
+        },
+        {
+          "caption": "Geoff wants to support the police in reducing alcohol-related crime."
+        }
+      ]
+    },
+    "additionalNotes": "Contact details for Geoff are provided, offering three ways to get in touch with him for local services and issues."
+  }
+}
+```

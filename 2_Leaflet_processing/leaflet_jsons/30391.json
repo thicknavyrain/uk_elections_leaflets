@@ -1,0 +1,70 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "YOUR LOCAL VOTES WILL DECIDE:",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Theresa May as PRIME MINISTER",
+      "otherPartyLeaderCandidate": "JEREMY CORBYN and A COALITION OF CHAOS",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Strong, stable leadership and economic security for Britain. IMF upgrades UK growth again as Theresa May hails economic strength.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "IMF upgrades UK growth again as Theresa May hails economic strength.",
+        "source": "TELEGRAPH, 18 APRIL 2017"
+      },
+      {
+        "text": "Labour's taxes would be highest since Second World War.",
+        "source": "THE TIMES, 27 MAY 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "THREE MAY AS PRIME MINISTER"
+        }
+      ]
+    },
+    "additionalNotes": "BACK THE CONSERVATIVES LOCALLY TO KEEP THERESA MAY AS PRIME MINISTER AND OUR ECONOMY STRONG"
+  }
+}

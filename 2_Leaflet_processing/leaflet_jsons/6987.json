@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Peter Day",
+    "constituency": "New Forest East",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Straight talking. Vote UKIP",
+        "content": "As a businessman, living and working in the New Forest, I know how the EU stifles free enterprise with burdensome regulations. Also, I object to being a citizen of the EU and having to pay over £2000 a year for the 'privilege'."
+      },
+      {
+        "title": "My local issues are",
+        "content": "For the sake of local jobs, Dibden Bay should be developed to make Southampton the leading port in Europe. Local businesses should be encouraged to make the New Forest sustainable for local people."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "EU Regulations",
+        "policyDescription": "Peter Day is against EU regulations that stifle free enterprise and objects to being a citizen of the EU with associated costs."
+      },
+      {
+        "policyTitle": "Local Development",
+        "policyDescription": "Peter Day advocates for the development of Dibden Bay to make Southampton the leading port in Europe for the sake of local jobs."
+      },
+      {
+        "policyTitle": "Support for Local Businesses",
+        "policyDescription": "Encouraging local businesses to sustain the New Forest for the local people."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Peter Day objects to being a citizen of the EU and dislikes the financial 'privilege' cost.",
+      "economy": "Wants Dibden Bay developed to benefit local jobs and make Southampton the leading European port.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Dibden Bay should be developed to benefit the local economy.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "UK Independence Party, PO Box 408, Newton Abbot TQ12 9BG.",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Peter Day with UKIP branding."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

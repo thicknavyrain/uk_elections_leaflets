@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Patricia Sullivan",
+    "constituency": "Sheffield, Brightside and Hillsborough",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "My local issues are",
+        "content": "Zero tolerance on crime - make Sheffield’s streets safer. Flat tax - make tax simpler, no tax on minimum wage."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Zero tolerance on crime",
+        "policyDescription": "Make Sheffield’s streets safer."
+      },
+      {
+        "policyTitle": "Flat tax",
+        "policyDescription": "Make tax simpler, no tax on minimum wage."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Say NO to mass immigration."
+      },
+      {
+        "policyTitle": "Referendums",
+        "policyDescription": "Say YES to referendums on all major issues."
+      },
+      {
+        "policyTitle": "EU expenditure",
+        "policyDescription": "Say NO to wasting £45 million a day in Brussels."
+      }
+    ],
+    "mentions": {
+      "candidate": "Patricia Sullivan",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Say NO to wasting £45 million a day in Brussels.",
+      "economy": "Flat tax - make tax simpler, no tax on minimum wage.",
+      "education": "",
+      "environment": "",
+      "governance": "Say YES to referendums on all major issues.",
+      "health": "",
+      "immigration": "Say NO to mass immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "As a former magistrate in Sheffield I have strong views on law and order - protecting the innocent, and punishing the guilty. I'm a small business owner who did voluntary work as the ‘shop leader’ (manager) of Oxfam on Ecclesall Road, and helped to set up several other Oxfam shops. I am married with two sons.",
+    "politicalExperience": [
+      {
+        "role": "Magistrate",
+        "duration": "",
+        "achievements": "Strong views on law and order - protecting the innocent, and punishing the guilty."
+      },
+      {
+        "role": "Small business owner",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "‘Shop leader’ (manager) of Oxfam on Ecclesall Road",
+        "duration": "",
+        "achievements": "Helped to set up several other Oxfam shops."
+      }
+    ],
+    "contactInformation": {
+      "address": "UK Independence Party, PO Box 408, Newton Abbot TQ12 9BG.",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Patricia Sullivan for Sheffield, Brightside and Hillsborough."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

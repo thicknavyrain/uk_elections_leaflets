@@ -1,0 +1,102 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Phil Sawford",
+	"constituency": "Kettering",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "A future fair for all in Kettering",
+    	"content": "Fighting the recession and protecting jobs."
+  	},
+  	{
+    	"title": "My Pledges to You",
+    	"content": "Efficient, regular rubbish clearance [...] improved leisure facilities [...]"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Protecting Green Fields",
+    	"policyDescription": "Defending Kettering against unwanted housing development and warehouse expansion."
+  	},
+  	{
+    	"policyTitle": "A future fair for families",
+    	"policyDescription": "Investing in education, supporting family finances and protecting children from crime and anti-social behaviour."
+  	}
+	],
+	"mentions": {
+  	"candidate": "I have the experience",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Fighting the recession and protecting jobs.",
+  	"education": "Investing in education",
+  	"environment": "Defending Kettering against unwanted housing development and warehouse expansion.",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "Supporting family finances",
+  	"housing": [
+    	{
+      	"content": "Defending Kettering against unwanted housing development and warehouse expansion.",
+      	"yimbyNimby": "NIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "What kind of MP do you want?",
+	"politicalExperience": [
+  	{
+    	"role": "Local MP",
+    	"duration": "",
+    	"achievements": "I have fought for Kettering as a hard working, independent minded MP."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Phil Sawford - Labour"
+    	},
+    	{
+      	"caption": "Phil working for Kettering."
+    	},
+    	{
+      	"caption": "Phil and his dog, campaigning for better animal welfare."
+    	},
+    	{
+      	"caption": "Phil with local residents, discussing community concerns."
+    	}
+  	]
+	},
+	"additionalNotes": "Phil believes in effective opposition but also works constructively to get a fair deal for Kettering."
+  }
+}
+```

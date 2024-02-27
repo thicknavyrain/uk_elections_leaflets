@@ -1,0 +1,84 @@
+{
+  "leaflet": {
+    "candidateName": "Taylor Muir",
+    "constituency": "Glasgow South",
+    "politicalParty": "Scottish Conservative and Unionist",
+    "electionDate": "Thursday 8th June 2017",
+    "messages": [
+      {
+        "title": "General Election",
+        "content": "The latest Scottish opinion polls are clear. Labour can't win here, it's a two horse race. Right up until 10pm on polling day, it will either be me or the SNP that wins here."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic Growth",
+        "policyDescription": "Support accelerated delivery of City Deal to create growth and jobs."
+      },
+      {
+        "policyTitle": "NHS Services",
+        "policyDescription": "Fight for local and Glasgow-wide NHS services."
+      },
+      {
+        "policyTitle": "Local Infrastructure",
+        "policyDescription": "Prioritise improvement of our local infrastructure including for investment in roads."
+      },
+      {
+        "policyTitle": "Opposing SNP",
+        "policyDescription": "Oppose SNP's campaign for referendum on independence."
+      }
+    ],
+    "mentions": {
+      "candidate": "Taylor Muir",
+      "otherPartyLeaderCandidate": "SNP",
+      "partyLeader": "",
+      "tacticalSituation": "Labour can't win here, it's a two horse race."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Support accelerated delivery of City Deal to create growth and jobs.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Fight for local and Glasgow-wide NHS services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Prioritise improvement of our local infrastructure including for investment in roads.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "242 Westmuir Street, Glasgow, G31 5BS",
+      "phone": "0141 882 5916",
+      "email": "office@glasgowconservatives.com",
+      "website": "www.glasgowconservatives.com",
+      "socialMedia": {
+        "facebook": "taylor4glasgowsouth",
+        "twitter": "taylor_muirtory",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "If you want a local MP that will work tirelessly for you and make sure every penny and every promise is delivered on City Deal, every step of the way.",
+        "source": "Taylor Muir",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of candidate Taylor Muir with campaign message."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

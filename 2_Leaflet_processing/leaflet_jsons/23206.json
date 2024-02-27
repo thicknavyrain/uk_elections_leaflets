@@ -1,0 +1,103 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mike Hibbs",
+    "constituency": "Saffron Walden",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday 7th May",
+    "messages": [
+      {
+        "title": "Fairer Society",
+        "content": "Lib Dems are committed to the NHS, having delivered 6,000 more doctors, and budgeted an extra £8 billion a year by 2020 - to keep hospitals like Brookfield working well. Mike Hibbs has been campaigning to keep local services, working with the Uttlesford Health Forum to address the shortage of GP's surgeries, and to keep specialist clinics at Saffron Walden hospital. Mike is particularly concerned about the fragmentation of Mental Health services in the constituency."
+      },
+      {
+        "title": "Education and young families",
+        "content": "The Lib Dems in Government introduced the Pupil Premium, ensuring every child in school gets the attention they need and deserve. Lib Dems also introduced free school meals for all infants, ensuring our children get a good meal in the day and a good start in life. We urgently need more school places, both at primary and at secondary levels."
+      },
+      {
+        "title": "Stronger Economy",
+        "content": "Lib Dem pension promise has restored the link between pensions and earnings, made it the biggest ever basic state pension. The Coalition Government has given an £800 tax cut to sustainable growth for middle income earners - and taken 3 million of the lowest paid out of tax altogether - at the same time as having the deficit. Lib Dems also introduced the new apprenticeship scheme which has benefited over 2 million new workers, and have helped create over 2 million new private sector jobs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS and Health",
+        "policyDescription": "Increase funding to the NHS by £8 billion annually by 2020, work to retain local services, and address the shortage of GP's surgeries and mental health services."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Introduced the Pupil Premium and free school meals for infants, with an emphasis on the urgent need for more school places at both primary and secondary levels."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Ensure pensions are linked with earnings, provide a tax cut for middle income earners and those on low income, while still reducing the deficit. Support the creation of over 2 million new apprenticeships and private sector jobs."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Campaigning locally for a better housing deal because of a belief in affordable housing and the need for key workers and young people to have access to good new homes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mike Hibbs",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Elections are close between Lib Dems and Conservative"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Coalition Government has given an £800 tax cut to sustainable growth for middle income earners - and taken 3 million of the lowest paid out of tax altogether.",
+      "education": "The Lib Dems in Government introduced the Pupil Premium, ensuring every child in school gets the attention they need and deserve. Lib Dems also introduced free school meals for all infants.",
+      "environment": "",
+      "governance": "",
+      "health": "Increase funding to the NHS by £8 billion annually by 2020, work to retain local services, and address the shortage of GP's surgeries and mental health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Mike Hibbs has campaigned locally for a better housing deal because of a belief in affordable housing and the need for key workers and young people to have access to good new homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I believe in personal freedom, in a fair and open society where no one is held back from achieving the best they can. I believe we need greater equality for the good of everyone in the community.",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "30 years",
+        "achievements": "Served as Mayor of Saffron Walden and as Chairman of the District Council."
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Mount Pleasant Cottages, Saffron Walden, Essex CB11 4AE",
+      "phone": "01799 525205",
+      "email": "mike@mikehibbs.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "Mike Hibbs for Saffron Walden",
+        "twitter": "@mike4walden",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mike Hibbs with supporters."
+        },
+        {
+          "caption": "Mike Hibbs on a bike."
+        },
+        {
+          "caption": "Mike Hibbs outside with supporters."
+        },
+        {
+          "caption": "Mike Hibbs headshot with election day reminder."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Richard Quigley",
+    "constituency": "Isle of Wight",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12th December",
+    "messages": [
+      {
+        "title": "IT'S TIME FOR REAL CHANGE",
+        "content": "This is an election that will reshape the future of our country and the future of our Island. We can create a better future for our children."
+      },
+      {
+        "title": "Only Labour can beat the Tories on the Island",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "I will protect services in St. Mary's Hospital. Ensure our NHS gets the funding it needs to protect the health and lives of Islanders, including protecting and restoring services at St. Mary's."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "I will ensure Island schools are properly funded. Make sure all Island schools get the resources needed to provide a first-rate education for all of our children."
+      },
+      {
+        "policyTitle": "Green New Deal",
+        "policyDescription": "I will ensure the Island is at the forefront of Labour's Green New Deal. Ensure the Island obtains the full benefit of jobs and investment from Labour's Green New Deal."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "I will support a referendum on Labour's improved Brexit deal."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "I will seek to introduce legislation to make sure our transport works for Islanders. Deliver an Island-wide transport strategy, beginning with the ferries."
+      }
+    ],
+    "mentions": {
+      "candidate": "Richard Quigley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Only Labour can beat the Tories on the Island."
+    },
+    "issues": {
+      "brexitEurope": "I will support a referendum on Labour's improved Brexit deal.",
+      "economy": "",
+      "education": "Ensure Island schools are properly funded.",
+      "environment": "Ensure the Island is at the forefront of Labour's Green New Deal.",
+      "governance": "",
+      "health": "Protect services in St. Mary's Hospital. Fight to ensure our NHS gets the funding it needs.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have lived on the Isle of Wight for sixteen years. I am extremely proud to be representing the Labour Party on the Isle of Wight in this election.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Richard Quigley pictured in various settings on the Isle of Wight."
+        }
+      ]
+    },
+    "additionalNotes": "2017 General Election Results show Labour as the 2nd place after Tories with 17,121 votes."
+  }
+}
+```

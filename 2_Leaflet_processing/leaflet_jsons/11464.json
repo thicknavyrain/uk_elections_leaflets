@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Steve Pitt",
+    "constituency": "Wallasey",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "Thursday May 6th",
+    "messages": [{
+        "title": "CHANGE THAT WORKS FOR YOU: BUILDING A FAIRER BRITAIN",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [{
+        "policyTitle": "Fair Taxes",
+        "policyDescription": "Ensure the first £10,000 people earn is tax-free, lift 3.6 million low earners and pensioners out of income tax completely, paid for by closing loopholes that unfairly benefit the wealthy and polluters."
+      },
+      {
+        "policyTitle": "A Fair Chance for every child",
+        "policyDescription": "Ensure children get the individual attention they need by cutting class sizes, made possible by investing £2.5 billion in schools targeted to help struggling pupils, give schools the freedom to make the right choices for their pupils."
+      },
+      {
+        "policyTitle": "A Fair Future",
+        "policyDescription": "Creating jobs by making Britain greener, break up the banks and get them lending again to protect real businesses, honesty about the tough choices needed to cut the deficit, green growth and jobs that last by investing in infrastructure and cutting-edge technology."
+      }
+    ],
+    "mentions": {
+      "candidate": "Steve Pitt and the Wallasey Liberal Democrats: FIGHTING HARD FOR THE PEOPLE OF WALLASEY ALL YEAR ROUND",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Don't let anybody tell you a Lib Dem vote is a wasted vote. The latest nationwide polls show the three main parties separated by just a few percent!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [{
+        "content": "",
+        "yimbyNimby": "N/A"
+      }]
+    },
+    "personalStatement": "Steve believes that many powers and decisions taken by a centralised state leave local people feeling isolated and powerless; he is a passionate believer that these powers and decisions should be decided by local people.",
+    "politicalExperience": [{
+      "role": "Liberal Democrat Parliamentary Candidate",
+      "duration": "",
+      "achievements": "Steve was born and raised in Wallasey; he attended Egerton Grove Primary School and Wallasey Technical Grammar School. At the age of 16 he joined the Army and served in Germany, Northern Ireland, Canada, Cyprus, the Falklands and Kenya. After leaving the Army, Steve has worked in the motorway construction industry."
+    }],
+    "contactInformation": {
+      "address": "22 Rudgrave Sq, CH44.",
+      "phone": "",
+      "email": "",
+      "website": "www.libdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Wallasey people deserve REAL change - that's the change offered by the Liberal Democrats",
+        "source": "Nationwide Poll of Polls, April 20th",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Steve Pitt with supporters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

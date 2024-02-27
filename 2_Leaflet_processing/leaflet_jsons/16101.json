@@ -1,0 +1,103 @@
+{
+  "leaflet": {
+    "candidateName": "Pauline ___",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "A tax rise for the wealthiest."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "More doctors and nurses."
+      },
+      {
+        "policyTitle": "Homes",
+        "policyDescription": "200,000 homes a year by 2020."
+      },
+      {
+        "policyTitle": "Minimum Wage",
+        "policyDescription": "Raise the minimum wage to more than £8 by October 2019."
+      },
+      {
+        "policyTitle": "Zero Hours Contracts",
+        "policyDescription": "Ban exploitative zero hours contracts."
+      },
+      {
+        "policyTitle": "Apprenticeships",
+        "policyDescription": "Guarantee an apprenticeship for young people."
+      }
+    ],
+    "mentions": {
+      "candidate": "Pauline ___",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A tax rise for the wealthiest",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "More doctors and nurses.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "200,000 homes a year by 2020.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I work hard and play by the rules but too many of the privileged few don't.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "I work hard and play by the rules but too many of the privileged few don't."
+        }
+      ]
+    },
+    "additionalNotes": "Every manifesto commitment is fully funded and requires no additional borrowing."
+  }
+}

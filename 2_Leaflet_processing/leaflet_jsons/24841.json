@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "SNP",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "We'll make sure Scotland's NHS is always cared for.",
+        "content": "In this election the more seats the SNP wins the more power and influence Scotland will have at Westminster. We fully intend to make that count for the NHS."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "Nicola Sturgeon is backing plans to invest an extra £9.5 billion in the health service across the UK. For Scotland that would mean an extra £2 billion for the health budget by 2020."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nicola Sturgeon",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The leaflet emphasizes the SNP's commitment to health by planning to secure additional funding for Scotland's NHS. The better funded our NHS, the healthier our country will be.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "Follow theSNP",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "WHO WILL DEMAND EXTRA CASH FOR SCOTLAND'S NHS?"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by Peter Murrell on behalf of the Scottish National Party, both at 3 Jackson’s Entry, Edinburgh, EH8 8PJ. Printed by Cambrian Printers, Llanbadarn Road, Aberystwyth, SY23 3TN."
+  }
+}
+```

@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sebastian Kindersley",
+    "constituency": "South Cambridgeshire",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Sebastian Kindersley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.sclibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Nick Clegg knew that entering a coalition meant that many supporters would be unhappy. However, the result of the election with the appalling state of the economy left the Liberal Democrats with little choice. Believe us, coalition with the Conservatives was not a very desirable outcome for us either. Sadly, some of our key policies such as the Mansion Tax (now stolen by Labour) and the abolition of student fees were unacceptable to the Conservatives.",
+        "source": "Lib Dem Leader, Nick Clegg",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sebastian Kindersley, local candidate, local councillor, local campaigner."
+        },
+        {
+          "caption": "Our record of delivery - policy achievements by the Liberal Democrats."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

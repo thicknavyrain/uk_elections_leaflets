@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Real change for Britain",
+        "content": "Britain needs a real change after years of failure under Gordon Brown and Labour. Under Nick Clegg's leadership, it is the Liberal Democrats who can deliver that change."
+      },
+      {
+        "title": "Protecting our NHS and our vital public services",
+        "content": "Labour's waste and red tape mean that frontline public services face more cuts in the coming years. The Liberal Democrats have identified billions of pounds of Government waste that can be used to protect frontline services and start paying back the national debt."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting our NHS",
+        "policyDescription": "Identified billions of pounds of Government waste to be used to protect frontline services and start paying back the national debt."
+      },
+      {
+        "policyTitle": "Investing in a new green economy",
+        "policyDescription": "Will invest in a new green economy to help put the UK back to work."
+      },
+      {
+        "policyTitle": "Tax policy",
+        "policyDescription": "Ordinary people will see their tax bills drop, while the very rich will pay more."
+      },
+      {
+        "policyTitle": "Clean up politics",
+        "policyDescription": "Act to clean up politics and give people power to sack corrupt MPs."
+      },
+      {
+        "policyTitle": "Children's future",
+        "policyDescription": "Improve every school in the UK. Work to invest in a new green economy to help put the UK back to work."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Identified billions of pounds of Government waste that can be used to protect frontline services and start paying back the national debt.",
+      "education": "Improve every school in the UK.",
+      "environment": "Invest in a new green economy.",
+      "governance": "Act to clean up politics and give people power to sack corrupt MPs.",
+      "health": "Identified billions of pounds of Government waste to be used to protect frontline services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Cowley Street, London, SW1P 3NB",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg and Vince Cable will make Britain a fairer place to live."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

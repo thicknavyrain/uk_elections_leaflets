@@ -1,0 +1,104 @@
+```json
+{
+	"leaflet": {
+		"candidateName": "Toby Brothers",
+		"constituency": "Mid Sussex",
+		"politicalParty": "UK Independence Party",
+		"electionDate": "",
+		"messages": [
+			{
+				"title": "Election Communication from the UK Independence Party",
+				"content": ""
+			}
+		],
+		"keyPolicies": [
+			{
+				"policyTitle": "Control our borders",
+				"policyDescription": "UKIP wants to implement an Australian-style points-based immigration system."
+			},
+			{
+				"policyTitle": "Safeguard the NHS",
+				"policyDescription": "UKIP believes in a National Health Service free at the point of use."
+			},
+			{
+				"policyTitle": "Political reform",
+				"policyDescription": "Out of touch Westminster elite: do not understand what the people want. We need to reform the cosy Westminster club."
+			},
+			{
+				"policyTitle": "Local GPs",
+				"policyDescription": "Too many local folks struggle to see a doctor, Ministers promised real change, but instead spent £2.5 billion on a top Down re-organisation of the NHS, which Cameron had no mandate for."
+			},
+			{
+				"policyTitle": "Stop Gatwick 2",
+				"policyDescription": "The Gatwick second runway is the wrong place and would wreck the environment. We need to protect the surrounding infrastructure."
+			}
+		],
+		"mentions": {
+			"candidate": "Toby Brothers",
+			"otherPartyLeaderCandidate": "",
+			"partyLeader": "",
+			"tacticalSituation": ""
+		},
+		"issues": {
+			"brexitEurope": "",
+			"economy": "",
+			"education": "",
+			"environment": "Stop Gatwick 2: The Gatwick second runway is the wrong place and would wreck the environment.",
+			"governance": "Political reform: Out of touch Westminster elite: do not understand what the people want. We need to reform the cosy Westminster club.",
+			"health": "Safeguard the NHS: UKIP believes in a National Health Service free at the point of use.\nLocal GPs: Too many local folks struggle to see a doctor, Ministers promised real change, but instead spent £2.5 billion on a top Down re-organisation of the NHS, which Cameron had no mandate for.",
+			"immigration": "Control our borders: UKIP wants to implement an Australian-style points-based immigration system.",
+			"socialWelfare": "",
+			"housing": [
+				{
+					"content": "",
+					"yimbyNimby": "N/A"
+				}
+			]
+		},
+		"personalStatement": "",
+		"politicalExperience": [
+			{
+				"role": "",
+				"duration": "",
+				"achievements": ""
+			}
+		],
+		"contactInformation": {
+			"address": "",
+			"phone": "07701 306 350",
+			"email": "toby@ukipmidsussex.org",
+			"website": "",
+			"socialMedia": {
+				"facebook": "",
+				"twitter": "",
+				"instagram": "",
+				"linkedin": ""
+			}
+		},
+		"endorsements": [
+			{
+				"endorser": "",
+				"endorsement": ""
+			}
+		],
+		"quotes": [
+			{
+				"text": "",
+				"source": "",
+				"date": ""
+			}
+		],
+		"campaignMaterial": {
+			"images": [
+				{
+					"caption": "Toby Brothers outside the Moatfield Surgery"
+				},
+				{
+					"caption": "Toby Brothers at the local area"
+				}
+			]
+		},
+		"additionalNotes": "We need your help! Can you: Deliver leaflets, knock on doors, or display a poster? If so contact us."
+	}
+}
+```

@@ -1,0 +1,65 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Fred Mackintosh",
+    "constituency": "Edinburgh South",
+    "politicalParty": "Liberal Democrats",
+    "messages": [
+      {
+        "title": "Labour's record of shame...",
+        "content": "an illegal war in Iraq and the deaths of over 100,000 people, the collapse of the banks, higher income tax for people on low incomes, sleaze and crisis in Parliament, introducing top up fees after promising not to do so"
+      },
+      {
+        "title": "Change that works for you",
+        "content": "Fairer taxes that put money back in your pocket. Nick Clegg’s tax plan means that you will pay no tax on the first £10,000 you earn—cutting most tax bills by £700."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Fairer taxes that put money back in your pocket. Implementing Nick Clegg’s tax plan, so no tax is paid on the first £10,000 earned, cutting most tax bills by £700"
+      }
+    ],
+    "mentions": {
+      "candidate": "Fred Mackintosh",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Just 405 votes separate Labour and the Lib Dems in Edinburgh South. Voting Conservative, SNP or Green will just help Labour."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "the collapse of the banks",
+      "education": "introducing top up fees after promising not to do so",
+      "environment": "",
+      "governance": "sleaze and crisis in Parliament",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "4 Grange Road, Edinburgh EH9 1UH",
+      "website": "www.fredmackintosh.com",
+      "email": "fred@edinburghsouthlibdems.org",
+      "phone": "0131 662 4513"
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet page with information about Fred Mackintosh, the Liberal Democrats, and their policies for Edinburgh South."
+        }
+      ]
+    },
+    "additionalNotes": "Your Labour MP has quit. Isn't it time you had a local MP who fights for you?"
+  }
+}
+```

@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tessa Jowell",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Putting local people first",
+        "content": "In the past 12 years our local schools have improved fast, our local NHS is transformed with the lowest waiting times on record and an every community is safer with its own local police team."
+      },
+      {
+        "title": "Tessa gets things done",
+        "content": "Delivering on education, Our local NHS transformed, Campaigning to improve your area."
+      },
+      {
+        "title": "Vote",
+        "content": "We've come a long way but there is so much more to do to improve the local area. I hope you will support me so that I can continue that work."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Five new schools with more on the way. Standards up and improving fast. Seven new Children’s Centres delivered."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Record Labour investment has delivered the shortest waiting times since records began, to transform our local NHS."
+      },
+      {
+        "policyTitle": "Community",
+        "policyDescription": "Securing money for a youth centre, campaigning for a new school, helping people with their problems - Tessa is always there."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tessa Jowell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Better local schools are giving many children a chance for the first time.",
+      "environment": "",
+      "governance": "",
+      "health": "Record Labour investment has delivered the shortest waiting times since records began, to transform our local NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "We've come a long way but there is so much more to do to improve the local area. I hope you will support me so that I can continue that work.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Campaign HQ 256A Brixton Road London SE24 9BH",
+      "phone": "020 8393 1372",
+      "email": "",
+      "website": "www.tessajowell.net",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@TessaJowell",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Better local schools are giving many children a chance for the first time. I am worried that the Tories would take away Children’s Centres and cut spending on schools.",
+        "source": "Mother and student",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "At one of five new local schools delivered by Labour"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

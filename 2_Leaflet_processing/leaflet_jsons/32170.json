@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stuart Andrew",
+    "constituency": "Pudsey",
+    "politicalParty": "Conservative Party",
+    "electionDate": "N/A",
+    "messages": [
+      {
+        "title": "Unleashing Britain's Potential",
+        "content": "The Conservatives promise to get Brexit done with a new deal, invest in public services, and to not go back to square one on Brexit, economy, and political gridlock."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "50 million extra GP appointments and £14 billion extra for schools."
+      },
+      {
+        "policyTitle": "Law and Order",
+        "policyDescription": "20,000 more police on our streets."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Brexit deal ready to go that protects jobs and trade, ends uncertainty for our economy. A higher national living wage, an extra £33.9 billion for the NHS, more funding for every pupil in every school."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stuart Andrew's plan for Pudsey includes tackling crime, climate change, and local health services.",
+      "otherPartyLeaderCandidate": "Corbyn - five long years of gridlock.",
+      "partyLeader": "Mention of Boris Johnson and his priorities for the country.",
+      "tacticalSituation": "The Conservatives were just nine seats short of a majority. Tactical consideration for voters in Pudsey is highlighted, given the close call."
+    },
+    "issues": {
+      "brexitEurope": "Brexit deal agreed and ready to go.",
+      "economy": "A higher national living wage, an extra £33.9 billion for the NHS.",
+      "education": "£14 billion extra for schools, more funding for every pupil.",
+      "environment": "Tackling climate change is part of Stuart Andrew's local plan.",
+      "governance": "Corbyn associated with five years of gridlock and hung parliament situation.",
+      "health": "50 million extra GP appointments.",
+      "immigration": "An immigration system that works for Britain is promised.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Last time, the Conservatives were just nine seats short of a majority.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stuart Andrew with fellow party members and constituents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

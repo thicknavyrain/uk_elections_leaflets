@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Mike Thornton",
+	"constituency": "Eastleigh",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "June 8th",
+	"messages": [
+  	{
+    	"title": "CHANGE THE DIRECTION OF THE COUNTRY",
+    	"content": "Only Mike Thornton will be the strong opposition to Conservative cuts."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS and Schools",
+    	"policyDescription": "Mike Thornton is fighting to protect our NHS from further Conservative cuts. He stands against cuts to local schools and NHS services."
+  	},
+    {
+      "policyTitle": "Economy",
+      "policyDescription": "The Liberal Democrats are proposing an alternate plan to the Conservative cuts."
+    },
+    {
+      "policyTitle": "Transport",
+      "policyDescription": "The Liberal Democrats have made prior life to improve traffic congestion and Botley bypasses to tackle traffic."
+    }
+	],
+	"mentions": {
+  	"candidate": "Mike Thornton",
+  	"otherPartyLeaderCandidate": "Theresa May",
+  	"partyLeader": "",
+  	"tacticalSituation": "Only Mike Thornton and the Liberal Democrats can win here."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "The Liberal Democrats are proposing an alternate plan to the Conservative cuts.",
+  	"education": "He stands against cuts to local schools and NHS services.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Mike Thornton is fighting to protect our NHS from further Conservative cuts.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"The Liberal Democrats have made prior life to improve traffic congestion and Botley bypasses to tackle traffic.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "Eastleigh Liberal Democrats, FREEPOST RTHL-YXCK-BKXE, 107 Leigh Road, Eastleigh, SO50 9DR",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Hospital cuts planned in most of England",
+    	"source": "BBC, 7 February 2017",
+    	"date": "2017-02-07"
+  	},
+    {
+      "text": "All schools in England likely to face real-term cuts",
+      "source": "Guardian, 16 March 2017",
+      "date": "2017-03-16"
+    }
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Mike Thornton with local residents discussing healthcare."
+    	},
+    	{
+      	"caption": "Mike Thornton visiting a local manufacturing plant."
+    	}
+  	]
+	},
+	"additionalNotes": "In Eastleigh your choice is clear: it's LIB DEM or CONSERVATIVES HERE."
+  }
+}
+```

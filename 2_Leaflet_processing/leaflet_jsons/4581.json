@@ -1,0 +1,125 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Hughes",
+    "constituency": "Bermondsey and Old Southwark",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Only Liberal Democrats stop Labour here",
+        "content": "Last General Election result: Lib Dem 47%, Lab 33%, Con 12%."
+      },
+      {
+        "title": "Leading on Our Biggest Issues",
+        "content": "Simon Hughes has decades of experience standing up for us. As a local the National, he has always been ahead of the game, e.g. campaigning to change the MP's expenses system."
+      },
+      {
+        "title": "TWO HORSE RACE",
+        "content": "Elections here are between the Liberal Democrats and Labour. More and More Conservative supporters in our area are backing the Liberal Democrats to make sure Gordon Brown's Labour Party don't win here."
+      },
+      {
+        "title": "A FAIRER SOCIETY.",
+        "content": "Simon entered politics to build a fairer society. He backs Liberal Democrat plans to boost the economy by cutting class sizes at school in poorer areas like Southwark. He also wants to stop Labour shutting Guy's Hospital."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Liberal Democrat plans to boost the economy include cutting class sizes in schools in poorer areas like Southwark."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Fighting to keep Guy's Hospital open and to stop Labour plans for a 60% NHS cuts in Southwark."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Simon is fighting to change the law to get more money for councils and housing associations to repair and build social housing."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Working to stop overcrowding on local buses."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "Simon has been instrumental in bringing more police to Bermondsey and Old Southwark."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Simon wants to cut school class sizes and provide better school buildings funded by fairer taxes."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "He has shown commitment through action on climate change and improving river Thames."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Hughes",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": "Conservative supporters backing the Liberal Democrats to prevent Labour from winning."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Simon Hughes backs Liberal Democrat plans to boost the economy by cutting class sizes in schools in poorer areas like Southwark.",
+      "education": "Simon is committed to reducing class sizes and to building better school facilities.",
+      "environment": "Simon has taken part in the Thames beach clean and has marched for climate change action.",
+      "governance": "Ahead of the game on issues like MP’s expenses system.",
+      "health": "Simon is committed to stopping Labour from shutting Guy's Hospital.",
+      "immigration": "",
+      "socialWelfare": "Simon Hughes plans to build a fairer society and support the vulnerable.",
+      "housing": [
+        {
+          "content": "Fighting to change the law to get more money for councils and housing associations to repair and build social housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Simon has always fought for social justice and a fairer society.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": "Simon Hughes has decades of experience and has been representing the area since 1983."
+      }
+    ],
+    "contactInformation": {
+      "address": "Simon Hughes Campaign, Freepost (LON 7670), London SE16 2BR",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Simon Hughes fighting for more affordable housing."
+        },
+        {
+          "caption": "Simon Hughes speaking at an event."
+        },
+        {
+          "caption": "Simon Hughes with medical staff."
+        },
+        {
+          "caption": "Simon Hughes at a community garden."
+        },
+        {
+          "caption": "Simon Hughes on a bus to stop overcrowding."
+        },
+        {
+          "caption": "Simon Hughes with police officers."
+        }
+      ]
+    },
+    "additionalNotes": "Simon Hughes has been the local MP since 1983 and is known by almost everyone."
+  }
+}
+```

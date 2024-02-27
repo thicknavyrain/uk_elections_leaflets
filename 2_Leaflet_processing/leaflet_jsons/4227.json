@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Louise Bagshawe",
+    "constituency": "Corby",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "READY FOR CHANGE",
+        "content": "The general election is just weeks away now. This is a big moment for Britain. It comes at a time when our economy is in deep trouble, we need to mend our broken society and rebuild trust in our political system. We can't go on like this. Britain needs change to get the country back on its feet - to heal the mistakes of the past and bring new ideas and energy for our future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "We will cut the deficit. As every family knows, the longer you leave a debt problem, the worse it gets."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "We will protect spending on the NHS and improve it for everyone."
+      },
+      {
+        "policyTitle": "Social Welfare",
+        "policyDescription": "We will stand up for families, sort out our schools and fight back against crime."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "We will take action to restore responsibility to our society. And we will cut the cost of politics and bring transparency to Parliament."
+      }
+    ],
+    "mentions": {
+      "candidate": "Louise Bagshawe",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "We will take action to restore responsibility to our society. And we will cut the cost of politics and bring transparency to Parliament.",
+      "health": "We will protect spending on the NHS and improve it for everyone.",
+      "immigration": "",
+      "socialWelfare": "We will stand up for families, sort out our schools and fight back against crime.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "On 6 May you have the chance to vote for change. I hope you will join me in telling Gordon Brown that enough is enough.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Louise Bagshawe FOR CORBY - READY FOR CHANGE"
+        }
+      ]
+    },
+    "additionalNotes": "As a local mum, I'm convinced that Corby and East Northants deserves better than five more years of Gordon Brown and Labour. This Government has failed us."
+  }
+}
+```

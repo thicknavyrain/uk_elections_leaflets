@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Eric Ollerenshaw",
+    "constituency": "Lancaster & Fleetwood",
+    "politicalParty": "Conservatives",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "The most important election of our lifetime?",
+        "content": "This year’s General Election is the most pivotal Britain has faced in generations."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Growing Economy",
+        "policyDescription": "What we've done: 2 million more people in work. What is next: Full employment."
+      },
+      {
+        "policyTitle": "More Jobs",
+        "policyDescription": "What we've done: 760,000 more businesses. What is next: 3 million new apprenticeships."
+      },
+      {
+        "policyTitle": "Lower Taxes",
+        "policyDescription": "What we've done: Reduced income tax for 26 million people. What is next: Increase personal allowance to £12,500."
+      },
+      {
+        "policyTitle": "Good Schools",
+        "policyDescription": "What we've done: Over 1 million more pupils in good or outstanding schools. What is next: Free childcare for 3 and 4 year olds."
+      },
+      {
+        "policyTitle": "Welfare that Works",
+        "policyDescription": "What we've done: Capped benefits to reward work. What is next: Lower the benefits cap."
+      },
+      {
+        "policyTitle": "Security in Retirement",
+        "policyDescription": "What we've done: Increased state pension by £950. What is next: Keep pensioner benefits including the free bus pass."
+      }
+    ],
+    "mentions": {
+      "candidate": "Eric Ollerenshaw",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Full employment. Reduce income tax and increase personal allowance to £12,500. 3 million new apprenticeships.",
+      "education": "Over 1 million more pupils in good or outstanding schools. Free childcare for 3 and 4 year olds.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Capped benefits to reward work. Lower the benefits cap. Increased state pension by £950. Keep pensioner benefits including the free bus pass.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": "Helping to bring more jobs to Lancaster."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "facebook.com/conservatives",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Eric Ollerenshaw alongside David Cameron"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

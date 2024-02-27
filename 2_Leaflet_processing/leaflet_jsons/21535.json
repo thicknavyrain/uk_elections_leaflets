@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Collins",
+    "constituency": "North Tyneside",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Your Green Party Parliamentary Candidate for North Tyneside Constituency",
+        "content": "Martin says, \"Our country is in a mess. It is in that state due to the greed based boom-&-bust economic policy of ALL the other political parties contesting this election. What we need on Tyneside, the UK and all over the world is a GREEN revolution. I am a GREENIST and GREENISM is the great leap forward that our society needs to make. It is not to the left, the right or the centre it is beyond. The leap into a GREENER future will not be easy, and it will not be immediate, but it is necessary if the societies of the world are to be there for our children and the generations to come. Only GREEN party candidates offer a sustainable, happy, healthy future based on community need rather than individual greed. So vote for me, Martin Collins, to be your representative in Parliament on May 7th.\""
+      },
+      {
+        "title": "Reasons to be cheerful – VOTE GREEN!",
+        "content": "This year you have DEFINITE CHOICES in the way you vote, both in the local and the Parliamentary Elections."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Promotes proactive work towards the NHS to avoid it being turned into a long-term partnership (TTP) and increase efforts to stop the Transatlantic Trade and Investment Partnership (TTIP)."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Aims to ensure that house building in the area is for the people who need it, so that we're not building just to make builders rich."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Work towards preserving the character, heritage, and uniqueness that is North Tyneside, with sympathetic, not slash and burn, development and preserving of green spaces and open spaces."
+      },
+      {
+        "policyTitle": "Business",
+        "policyDescription": "Promote and support sustainable and 'green' businesses, ensuring people can work near their homes and commute out of the area."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Plans to keep roads safe for all users, and restore British Rail back into public hands."
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin Collins",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Critique of the greed based boom-&-bust economic policy of all the other political parties.",
+      "education": "",
+      "environment": "Promote and support sustainable and 'green' businesses, ensure roads are safe for all users, preserve existing green and open spaces, making them available for everyone.",
+      "governance": "",
+      "health": "Promotion of proactive work towards the NHS to avoid it being turned into a long-term partnership (TTP) and stopping TTIP.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Aims to ensure that house building in the area is for the people who need it, so that we're not building just to make builders rich.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "9 North View, NE28 7PN",
+      "phone": "",
+      "email": "",
+      "website": "www.policy.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Green Party candidate Martin Collins."
+        },
+        {
+          "caption": "Local council candidate Mary Laver."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet also promotes local council candidate Mary Laver, stating 'The time has come for a new face on the council', advocating for the disabled and elderly, and suggesting a small Sunday Market."
+  }
+}
+```

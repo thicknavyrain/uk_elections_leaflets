@@ -1,0 +1,106 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "JANET RICHARDS",
+    "constituency": "New Forest West",
+    "politicalParty": "Green Party",
+    "electionDate": "Spring 2010",
+    "messages": [
+      {
+        "title": "A Green New Deal",
+        "content": "The policy to tackle the on the one hand the economic and climate change crisis on the other. It involves a shift from taxation from work to that on pollution, tackling climate change and creating green jobs, we call this the Green New Deal."
+      },
+      {
+        "title": "Fair Care for the Elderly",
+        "content": "The leaflet acknowledges recent government announcements of free care for the elderly as welcome, but not clear what it will really mean."
+      },
+      {
+        "title": "The Scandal of Housing Waiting Lists",
+        "content": "Discussion about the increase of housing waiting lists in New Forest and the calls for converting empty homes and building affordable housing."
+      },
+      {
+        "title": "Protect Public Services",
+        "content": "Emphasis on the defense of public services which are threatened by cuts from both Tory and Labour governments."
+      },
+      {
+        "title": "Social Justice",
+        "content": "The Green Party promotes a political statement that is formed out of a commitment to social justice, fair future by prioritizing the earth, our environment."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A Green New Deal",
+        "policyDescription": "Transform the tax system by shifting burden from work to pollution, tackle climate challenge, sustainable and fair economy, create new green jobs."
+      },
+      {
+        "policyTitle": "Fair Care for the Elderly",
+        "policyDescription": "Scrutinize governmental approach to free care for the elderly, seeking clarification and proper implementation."
+      },
+      {
+        "policyTitle": "The Scandal of Housing Waiting Lists",
+        "policyDescription": "Address housing crisis by converting empty houses, building affordable housing, addressing housing waiting lists."
+      },
+      {
+        "policyTitle": "Protect Public Services",
+        "policyDescription": "Commitment to defending and investing in public services, as opposed to cuts by other parties."
+      },
+      {
+        "policyTitle": "Social Justice",
+        "policyDescription": "Promotion of social justice, prioritizing environmental commitment and fairness."
+      }
+    ],
+    "mentions": {
+      "candidate": "JANET RICHARDS",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A Green New Deal involves a transforming economy for creating new green jobs.",
+      "education": "",
+      "environment": "A Green New Deal addresses environment concerns by reducing pollution.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Fair Care for the Elderly addresses social welfare concerns.",
+      "housing": [
+        {
+          "content": "The Scandal of Housing Waiting Lists calls for converting empty homes and building affordable housing to address housing crisis.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Janet Richards discusses her ties to the local community, being a school representative and part of a food co-operative and other local groups.",
+    "politicalExperience": [
+      {
+        "role": "General Election Candidate",
+        "duration": "Spring 2010",
+        "achievements": "Discussing housing with local people."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "janet.richards@greenparty.org.uk",
+      "website": "www.newforestgreenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Janet discussing housing with local people."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Cat Smith",
+    "constituency": "Lancaster",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "Re-elect",
+        "content": "I love Lancaster. I live here and am delighted to be raising my family here. I use our local public services just like you - it is important that your local MP is just that, local. Lancaster matters to me because this is my home too. With your support, I can continue to serve our city and work for the real change our country needs."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Cat Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "I love Lancaster. I live here and am delighted to be raising my family here. I use our local public services just like you - it is important that your local MP is just that, local. Lancaster matters to me because this is my home too.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "It’s time for real change in our country"
+        }
+      ]
+    },
+    "additionalNotes": "FOR THE MANY NOT THE FEW"
+  }
+}
+```

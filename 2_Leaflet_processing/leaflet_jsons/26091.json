@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ian Wood",
+    "constituency": "Derbyshire Dales",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "IAN SAYS",
+        "content": "We've all benefited with new ownership of our water. We could do likewise for energy... too much goes to shareholders and not children."
+      },
+      {
+        "title": "A PUBLIC NHS",
+        "content": "Fight for a publicly-funded NHS. Protecting the free at the point of resource."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "SAVE CLIMATE",
+        "policyDescription": "Action to ensure global temperatures rise no further. Phasing out of fossil fuels to ensure this. Invest in renewable and flood defences."
+      },
+      {
+        "policyTitle": "FAIR ECONOMY",
+        "policyDescription": "For a stable and prosperous economy. End austerity now. Fair taxes - close loopholes for the banks and rich."
+      },
+      {
+        "policyTitle": "DECENT HOMES",
+        "policyDescription": "Decent homes - cap rents. Tax for empty homes and second residences. Minimum wage of £10 an hour by 2020."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ian Wood",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "For a stable and prosperous economy. End austerity now. Fair taxes - close loopholes for the banks and rich.",
+      "education": "",
+      "environment": "Action to ensure global temperatures rise no further. Phasing out of fossil fuels to ensure this. Invest in renewable and flood defences.",
+      "governance": "",
+      "health": "Fight for a publicly-funded NHS. Protecting the free at the point of resource.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Decent homes - cap rents. Tax for empty homes and second residences.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "We've all benefited with new ownership of our water. We could do likewise for energy... too much goes to shareholders and not children.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.derbyshiregreenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ian Wood with local residents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stephen Dorrell",
+    "constituency": "Leicestershire",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "60 SECOND Q&A",
+        "content": "Stephen answers key questions on taxes, public services, bureaucracy, local government, climate change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Plans to boost jobs by cutting corporation tax and reversing the national insurance hike."
+      },
+      {
+        "policyTitle": "Public Services",
+        "policyDescription": "Aiming not to reduced public services but to make them more competitively priced."
+      },
+      {
+        "policyTitle": "Bureaucracy",
+        "policyDescription": "Conservatives are set against bureaucracy and will seek to control and reduce it."
+      },
+      {
+        "policyTitle": "Local Government",
+        "policyDescription": "Conservatives believe that local decisions should be made locally, with local issues taking precedence over long-term sustainability concerns."
+      },
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Acknowledges the importance of the issue but emphasizes the need to balance with day to day issues."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stephen has been an actively engaged in the development of Leicestershire public service policy.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron will ensure that local issues take precedence.",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The Conservatives will reduce bureaucracy in the education service.",
+      "environment": "",
+      "governance": "",
+      "health": "The Conservatives will increase the NHS budget and reduce bureaucracy, empowering doctors and nurses.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Leicestershire MP",
+        "duration": "since 1979",
+        "achievements": "Senior minister in the last Conservative government."
+      }
+    ],
+    "contactInformation": {
+      "address": "768 Melton Road, Thurmaston, Leicester, LE4 8BD",
+      "phone": "0116 260 8609",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stephen Dorrell Q&A and Factfile, support for the NHS, schools, and safe communities."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

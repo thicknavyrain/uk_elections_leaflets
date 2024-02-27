@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "IMPORTANT INFORMATION ABOUT YOUR POSTAL VOTE",
+    	"content": "TIM FARRON'S LIB DEMS WILL SAY AND DO ANYTHING TO GET ELECTED. YOU CAN'T TRUST THEM WITH YOUR VOTE."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Tim Farron",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "The Labour Party, C/O Potts (UK), Atlas House, Nelson Park, Cramlington, Northumberland, NE23 1WG",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [
+  	{
+    	"text": "TIM FARRON'S LIB DEMS WILL SAY AND DO ANYTHING TO GET ELECTED. YOU CAN'T TRUST THEM WITH YOUR VOTE.",
+    	"source": "Campaign Leaflet",
+    	"date": ""
+  	},
+    {
+      "text": "Lib Dem leader Tim Farron won't say if he thinks being gay is a sin",
+      "source": "The Daily Mirror, April 2017",
+      "date": "April 2017"
+    },
+    {
+      "text": "Tim Farron: Lib Dems would go back into coalition with the Tories",
+      "source": "The Guardian, September 2015",
+      "date": "September 2015"
+    }
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "WARNING - Postal Vote Information"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

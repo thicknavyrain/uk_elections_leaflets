@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Strachan McDonald",
+    "constituency": "Tooting",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Straight talking.",
+        "content": "Vote UKIP"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Say NO to mass immigration"
+      },
+      {
+        "policyTitle": "Referendums",
+        "policyDescription": "Say YES to referendums on all major issues"
+      },
+      {
+        "policyTitle": "EU Funding",
+        "policyDescription": "Say NO to wasting £45 million a day in Brussels"
+      }
+    ],
+    "mentions": {
+      "candidate": "Strachan McDonald",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "The intelligent people of this great nation are wondering how they came to be tricked into the abomination we know as the EU.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Restore power to the local level with local referenda and action groups.",
+      "health": "",
+      "immigration": "Say NO to mass immigration",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We need a new bus route connecting Streatham with Fulham Broadway via Trinity Road and Wandsworth Bridge.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "In a proper democracy nobody has the right to wield power over us unless we, in our turn, have both the means and the right to remove them.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "SEND THE POLITICIANS A MESSAGE...",
+        "source": "Campaign Leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote UKIP"
+        },
+        {
+          "caption": "My local issues are"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

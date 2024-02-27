@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Lib Dems",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "I want my children to have the best possible start in life.",
+    	"content": "I'm backing the Lib Dems because they've really helped families like mine by extending free childcare, introducing shared parental leave and putting extra cash into schools. They're offering more help to parents by extending paternity leave and reducing childcare costs even further."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Family Support",
+    	"policyDescription": "The Lib Dems have extended free childcare, introduced shared parental leave and invested extra cash into schools. Plans to offer more help include extending paternity leave and reducing childcare costs."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "Invested extra cash into schools.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Lisa, mother of two",
+    	"endorsement": "Backing the Lib Dems for extending free childcare, introducing shared parental leave and putting extra cash into schools."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "I want my children to have the best possible start in life.",
+    	"source": "Lisa, mother of two",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Lisa, mother of two, with her children."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

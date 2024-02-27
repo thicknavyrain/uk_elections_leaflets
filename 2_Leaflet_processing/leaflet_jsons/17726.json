@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Bob Russell",
+    "constituency": "Colchester",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The Tory Plan",
+        "content": "More Construction and Traffic. Less Money for Colchester. David Cameron and his Colchester Tory candidate want developers to pave over parks and surrounding areas without having to contribute to our infrastructure. That means no money for new roads, no money for new schools, no money for doctors' surgeries, more overcrowded, developers won't have to contribute to our schools, NHS services demand will increase, making it harder for our doctors to treat every patient."
+      },
+      {
+        "title": "TRAFFIC, CONGESTION, OVERDEVELOPMENT",
+        "content": "A vote for the Tories would damage our town. DON'T LET THE TORIES CONCRETE OVER COLCHESTER"
+      },
+      {
+        "title": "Overdevelopment in Colchester is at Breaking Point, but the Conservatives Want to Push Us Over.",
+        "content": "David Cameron plans for Colchester would drop the requirement for developers to pay towards any infrastructure improvements. They would build their buildings and leave our roads, schools, and hospitals to get more crowded and run down."
+      },
+      {
+        "title": "Don't Let the Tories Concrete Over Colchester!",
+        "content": "Bob Russell and the Local Team are Fighting to Protect Our Town. Only a vote for Bob and the Lib Dem team will stop this Tory plan!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting Infrastructure and Services",
+        "policyDescription": "Opposed to overdevelopment without necessary contributions to infrastructure, aiming to avoid congestion and ensure money is allocated for new roads, schools, and doctors' surgeries."
+      }
+    ],
+    "mentions": {
+      "candidate": "Bob Russell",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "It's a two-way race this election. Only a vote for Bob and the Lib Dem team will stop this Tory plan!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Opposition to the Tory plan to allow developers to pave over parks and nearby areas without infrastructure contributions, leading to overcrowded schools, strained NHS services, and increased traffic congestion.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Bob Russell has a record of fighting against development in the wrong places.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "",
+        "achievements": "Helped create High Woods Country Park. Prevented the Conservative from building a huge housing estate which would have sprawled across the southern slopes of the Country Park. Supported redevelopment of land that was previously used, such as the former Garrison, the area at The Hythe, and old industrial sites such as Paxmans and Woods."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "It's a two-way race this election. Only a vote for Bob and the Lib Dem team will stop this Tory plan!",
+        "source": "Bob Russell",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Bob Russell and the Local Team are Fighting to Protect Our Town."
+        }
+      ]
+    },
+    "additionalNotes": "Mentions tactical voting situation suggesting strategic considerations to stop the Tory plan."
+  }
+}
+```

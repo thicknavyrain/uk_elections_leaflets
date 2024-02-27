@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Gibson",
+    "constituency": "West Lancashire",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Liberal Democrats are winning for Britain",
+        "content": "The Liberal Democrats: Run many of our biggest cities including Liverpool, Sheffield and Bristol. Won more votes than Labour in the last elections. Are stronger now than at any time since 1929. Can deliver real change across Britain today."
+      },
+      {
+        "title": "Join the campaign for change that works for you.",
+        "content": ""
+      },
+      {
+        "title": "Fairer taxes that put money back in your pocket",
+        "content": "Nick Clegg’s tax plan means that you will pay no tax on the first £10,000 you earn – cutting most tax bills by £700."
+      },
+      {
+        "title": "Change that works for you",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer Taxes",
+        "policyDescription": "Implementing a tax plan to ensure no tax is paid on the first £10,000 of income, reducing most tax bills by £700."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Gibson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "West Lancashire Liberal Democrats, 5 Rowan Close, Penwortham, PRESTON, PR1 0YH",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg and the Liberal Democrats are winning support across Britain."
+        },
+        {
+          "caption": "John Gibson in West Lancashire"
+        }
+      ]
+    },
+    "additionalNotes": "Please help John Gibson and the local Lib Dems win for local people by filling in and returning this form."
+  }
+}
+```

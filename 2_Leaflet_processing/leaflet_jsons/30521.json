@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "MARTIN TIGHE",
+    "constituency": "Bolton West",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "ELECTION COMMUNICATION",
+        "content": "Martin, a father of two young children, himself born and raised in Westhoughton wishes to represent you in Parliament."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Keep the NHS publicly owned, FREE at the point of delivery for all eligible users"
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "A Fair & equal immigration policy giving everyone the same opportunity, using a points based system"
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "ONLY UKIP was 100% committed to BREXIT, every other party campaigned against it."
+      }
+    ],
+    "mentions": {
+      "candidate": "MARTIN TIGHE",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "ONLY UKIP was 100% committed to BREXIT, every other party campaigned against it.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Keep the NHS publicly owned, FREE at the point of delivery for all eligible users",
+      "immigration": "A Fair & equal immigration policy giving everyone the same opportunity, using a points based system",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Martin, a father of two young children, himself born and raised in Westhoughton wishes to represent you in Parliament.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Introducing MARTIN TIGHE - UKIP Candidate for Bolton West"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

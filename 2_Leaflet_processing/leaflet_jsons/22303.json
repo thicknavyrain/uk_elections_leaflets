@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Liz McInnes",
+    "constituency": "Heywood and Middleton",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7th May",
+    "messages": [
+      {
+        "title": "Liz is a fulltime MP working for you.",
+        "content": "It's been an honour and a privilege to represent you in Parliament. Since I was elected in October it’s been a busy time for me, but it’s been a pleasure to meet so many of you in your workplaces, in schools, shops and on your doorsteps."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "A strong economic foundation; balance the books; work with local employers and businesses to bring high-quality jobs to the area; stand up for everyone's job security, rights at work, and the NHS."
+      },
+      {
+        "policyTitle": "Standard of living",
+        "policyDescription": "Higher living standards for working families; freeze energy bills until 2017; provide starter homes at 20% below the regular price."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "An NHS with the time to care; deliver 20,000 more nurses and 8,000 more GPs; guarantee GP appointments within 48 hours and cancer tests within one week."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Controls on immigration; people who come here won't be able to claim benefits for at least two years and have to contribute before taking out; introduce fair rules making it illegal for employers to undercut wages by exploiting workers."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "A country where the next generation can do better than the last; tuition fees reduced to £6,000; improve teacher standards and guarantee every teacher has a degree."
+      }
+    ],
+    "mentions": {
+      "candidate": "Liz McInnes",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A strong economic foundation; balance the books; work with local employers and businesses to bring high-quality jobs to the area.",
+      "education": "Tuition fees reduced to £6,000; improve teacher standards and guarantee every teacher has a degree.",
+      "environment": "",
+      "governance": "",
+      "health": "An NHS with the time to care; 20,000 more nurses and 8,000 more GPs; GP appointments within 48 hours and cancer tests within one week.",
+      "immigration": "Controls on immigration; people who come here won't be able to claim benefits for at least two years and have to contribute before taking out.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Higher living standards for working families; freeze energy bills until 2017; provide starter homes at 20% below the regular price.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "Since October",
+        "achievements": "It’s been a busy time, but it’s been a pleasure to meet so many of you in your workplaces, in schools, shops and on your doorsteps."
+      }
+    ],
+    "contactInformation": {
+      "address": "Labour Office, Suite 5, Sufficient House, Middleton Gardens, Middleton M24 4EL",
+      "phone": "07899 562064",
+      "email": "",
+      "website": "www.lizmcinnes.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liz McInnes Labour candidate for Heywood and Middleton"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

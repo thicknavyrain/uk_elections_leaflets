@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Robert Syms",
+    "constituency": "Poole",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "Getting Britain Working Again",
+        "content": "Labour have left the public finances of this country in a mess... Our plan is to get people off welfare and into work. We'll help small businesses..."
+      },
+      {
+        "title": "Backing the NHS",
+        "content": "We will increase spending every year... cut the deficit, not the NHS."
+      },
+      {
+        "title": "Raising Standards in Schools",
+        "content": "We believe that discipline in schools is paramount... More powers for headteachers..."
+      },
+      {
+        "title": "Supporting Families",
+        "content": "We will recognise marriage in the tax system..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Our plan is to get people off welfare and into work. We'll help small businesses and encourage people to take up new skills."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "We will increase spending every year on the NHS. Our goal is to cut the deficit and not the NHS."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "We believe that discipline in schools is paramount to high educational standards. More powers for headteachers."
+      },
+      {
+        "policyTitle": "Families",
+        "policyDescription": "We will recognise marriage in the tax system and lift the earnings limit for married couples."
+      }
+    ],
+    "mentions": {
+      "candidate": "As your next MP, I will continue to fight for Poole and in the heart of the constituency Robert Syms' experience and campaigning record on local issues makes him the best candidate to represent you.",
+      "otherPartyLeaderCandidate": "5 more years of Gordon Brown or change with the Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour have left the public finances of this country in a mess.",
+      "education": "We believe discipline in schools is paramount. More powers for headteachers.",
+      "environment": "",
+      "governance": "",
+      "health": "We will increase spending every year on the NHS.",
+      "immigration": "",
+      "socialWelfare": "Our plan is to get people off welfare and into work.",
+      "housing": [
+        {
+          "content": "RIGHT: A FAIR DEAL FOR TENANTS Robert Housing policy generates a great deal of debate. We feel like Tenants’ rights are very important affected by excessive taxes... Robert has campaigned against this.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I will continue to fight for Poole. Changing the heart of the constituency Robert Syms' experience and campaigning record...",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for Poole",
+        "duration": "",
+        "achievements": "Has addressed many meetings of residents, attended and taken up the cases of constituents who have difficulty with National or Local Government, part of the Health Committee."
+      }
+    ],
+    "contactInformation": {
+      "address": "38 Sandbanks Road, Poole, BH14 8BX",
+      "phone": "01202 739922",
+      "email": "robert@pooleconservatives.org",
+      "website": "www.pooleconservatives.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Robert Syms standing with others holding a banner 'No More Taxes'"
+        },
+        {
+          "caption": "Robert Syms speaking to an audience"
+        },
+        {
+          "caption": "Robert Syms in a discussion with a group of people"
+        },
+        {
+          "caption": "Robert Syms with a resident"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

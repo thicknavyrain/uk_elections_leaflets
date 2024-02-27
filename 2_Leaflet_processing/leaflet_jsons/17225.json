@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Vicky Foxcroft",
+    "constituency": "Lewisham Deptford",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Lewisham Deptford Labour",
+        "content": "Vicky Foxcroft - Standing on a Record of Action"
+      },
+      {
+        "title": "JOAN RUDDOCK BACKS VICKY",
+        "content": "Our are Lewisham Deptford MP Joan Ruddock has backed Vicky Foxcroft."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Helping local families",
+        "policyDescription": "Labour will cut class sizes to under 30 for 5, 6, & 7 year-olds, and guarantee apprenticeships."
+      },
+      {
+        "policyTitle": "Raising school standards",
+        "policyDescription": "Labour has a plan for new Technical Baccalaureate, and require teachers to have a degree."
+      },
+      {
+        "policyTitle": "Reforming social care",
+        "policyDescription": "A Labour government will recruit 5,000 new home-care workers to support the elderly."
+      },
+      {
+        "policyTitle": "Public control of railways",
+        "policyDescription": "Labour plans to allow the public sector to take on lines and challenge the private franchises."
+      },
+      {
+        "policyTitle": "Private rents",
+        "policyDescription": "Labour is committed to banning unfair letting fees and capping rents so that they can’t rise more than inflation during secure three-year tenancies."
+      }
+    ],
+    "mentions": {
+      "candidate": "Vicky Foxcroft",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Joan Ruddock",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Labour will cut class sizes for young children, create a new Technical Baccalaureate, and require teachers to have a degree.",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will recruit 5,000 new home-care workers to support the elderly.",
+      "immigration": "",
+      "socialWelfare": "Labour plans to support local families with childcare costs and social care reform.",
+      "housing": [
+        {
+          "content":"Labour is committed to capping rents and banning unfair letting fees.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I promise that if you choose me to be your MP on 7th May I'll work hard every day to make Lewisham Deptford a better place to live.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "82 Tanners Hill, SE8 4PN",
+      "phone": "020 8469 4638",
+      "email": "info@lewishamdeptfordlabour.org.uk",
+      "website": "www.vickyfoxcroft.org.uk",
+      "socialMedia": {
+        "facebook": "/lewishamdeptfordlabour",
+        "twitter": "@vickyfoxcroft",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vicky Foxcroft with supporters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

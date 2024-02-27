@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Jon Fuller",
+	"constituency": "Southend West",
+	"politicalParty": "Green Party",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "There is a better way",
+    	"content": "The Green Party fights for tried and tested Keynesian economics: We need to invest in zero emission renewable technologies, and insulate every home to advanced Scandinavian standards. An 'Insulation Army' will create 350,000 jobs."
+  	},
+  	{
+    	"title": "We are determined to get you your money back",
+    	"content": "Quantitative Easing made the rich a lot richer. We seek a Wealth Tax on the richest 1% - UK individuals with assets of more than £3 million."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Keynesian economics, investment in zero emission renewable technologies, insulating homes, creation of an 'Insulation Army' for jobs and energy savings."
+  	},
+  	{
+    	"policyTitle": "NHS",
+    	"policyDescription": "Keep the NHS public, stop creeping privatisation."
+  	},
+  	{
+    	"policyTitle": "Wealth Redistribution",
+    	"policyDescription": "Introduce a Wealth Tax on the richest 1% to redistribute wealth and fund social programs."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Jon Fuller",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "The UKIP threat to our economy."
+	},
+	"issues": {
+  	"brexitEurope": "The question of our membership of the EU won't go away. We have to face and give the electorate the final say in a referendum. The Green Party demands an EU membership referendum and calls upon Lib-Dems and Labour to trust the electorate.",
+  	"economy": "Investment in zero emission renewable technologies and insulating homes. Seeking a Wealth Tax on the richest 1%.",
+  	"education": "",
+  	"environment": "Investment in zero emission renewable technologies.",
+  	"governance": "",
+  	"health": "Stop creeping privatisation of the NHS.",
+  	"immigration": "",
+  	"socialWelfare": "Introducing Wealth Tax to redistribute wealth.",
+  	"housing": [
+    	{
+      	"content":"Insulate every home to advanced Scandinavian standards.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "38 Hainault Avenue, Westcliff-on-Sea, SS0 9HB",
+  	"phone": "07951 570784",
+  	"email": "jon@sszero.org.uk",
+  	"website": "http://bit.ly/JonFuller",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Campaign leaflet image with information about the Green Party's policies and campaign messages."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

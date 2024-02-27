@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tom Thornhill",
+    "constituency": "North Shropshire",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Welcome to Whitchurch Hospital",
+        "content": "Tom grew up in Whitchurch, and is keen to fight for the area he knows and loves. He says: 'growing up in a family that used the NHS for treating relatives and with a mother who worked in the NHS for 30 years, I know how important it is to our community. I pledge, I will be your NHS champion.' Tom is also committed to improving the prospects of North Shropshire's younger people. The Lib Dems will continue to protect the education budget, while increasing spending on the pre-school pupil premium, those from poorer families to reach their potential."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Investment",
+        "policyDescription": "£88m more investment in our NHS."
+      },
+      {
+        "policyTitle": "Supporting Young People",
+        "policyDescription": "Increased funding for our most vulnerable young people."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tom Thornhill",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Tom says, 'It's time North Shropshire had a real choice - let's build our economy, but make sure we do it fairly, without the aggressive left and right wing politics of the Conservatives and Labour.'"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The Lib Dems will continue to protect the education budget, while increasing spending on the pre-school pupil premium, those from poorer families to reach their potential.",
+      "environment": "",
+      "governance": "",
+      "health": "pledge, I will be your NHS champion.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Tom says: 'growing up in a family that used the NHS for treating relatives and with a mother who worked in the NHS for 30 years, I know how important it is to our community. I pledge, I will be your NHS champion.'",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "29 Leg Street, Oswestry SY11 2NN",
+      "phone": "",
+      "email": "tomthornhill.libdems@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "It's time North Shropshire had a real choice - let's build our economy, but make sure we do it fairly, without the aggressive left and right wing politics of the Conservatives and Labour.",
+        "source": "Tom Thornhill",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tom Thornhill outside Whitchurch Hospital"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

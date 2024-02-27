@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "George Lee",
+    "constituency": "Holborn & St. Pancras",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Change",
+        "content": "Vote for change. Five more years of Gordon Brown would make things even worse. David Cameron and the Conservatives have the energy, leadership and values to get our country moving again."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Practical plans to take advantage of the economic opportunities the world presents to reduce carbon emissions."
+      },
+      {
+        "policyTitle": "Green Deal",
+        "policyDescription": "Offering every household a 'Green Deal' - an entitlement to free energy efficiency improvements."
+      },
+      {
+        "policyTitle": "Green Belt Protection",
+        "policyDescription": "Protecting the Green Belt and areas of environmental importance to preserve our landscape and wildlife and stop unsustainable urban sprawl."
+      },
+      {
+        "policyTitle": "Heathrow Expansion",
+        "policyDescription": "Not building the third runway at Heathrow; instead advocating for improved rail travel to North England and Scotland."
+      },
+      {
+        "policyTitle": "Local Empowerment",
+        "policyDescription": "Giving local communities stronger powers to stop unwanted development; protect the character of their neighborhoods from over expansion."
+      },
+      {
+        "policyTitle": "Energy from Renewables",
+        "policyDescription": "Rolling out smart meters to every home to save families an average of £100 per year; generating electricity from renewable sources."
+      },
+      {
+        "policyTitle": "Green ISAs",
+        "policyDescription": "Creating new Green ISAs so that families can save and invest in green technology companies."
+      },
+      {
+        "policyTitle": "Recycling",
+        "policyDescription": "Working with local councils to pay the public to recycle, which can earn families up to £200 a year, in contrast to Labour's plans for new bin taxes which would fuel fly-tipping."
+      }
+    ],
+    "mentions": {
+      "candidate": "George Lee",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Practical plans to take advantage of the economic opportunities the world presents to reduce carbon emissions.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Giving local communities stronger powers to stop unwanted development; protect the character of their neighborhoods from over expansion.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "1A Heath Hurst Road London NW3 2RU",
+      "phone": "020 7794 5679",
+      "email": "george@mygeorgelee.com",
+      "website": "www.mygeorgelee.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Cameron",
+        "endorsement": "Under David Cameron's leadership, the Conservative Party is committed to taking urgent action on climate change and protecting the environment."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Holborn & St Pancras Conservative Association leaflet image."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

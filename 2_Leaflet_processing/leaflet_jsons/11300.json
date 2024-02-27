@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Rendel",
+    "constituency": "Newbury",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "OUR NHS... AT RISK",
+        "content": "We’ve lived through this mistake for 60 years now... The reality is the NHS hasn’t worked." 
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "The leaflet suggests opposition to the privatization of the NHS and criticism of the Conservative party's handling of the NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Rendel",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "David Cameron meets NHS privatization campaigners; Key Tory MPs backed call to dismantle NHS; Tory Health spokesman accepted £21,000 donation from private health firm boss.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We’ve lived through this mistake for 60 years now... The reality is the NHS hasn’t worked.",
+        "source": "Senior Conservative MEP Daniel Hannan, Daily Mail, Jan 2010"
+      },
+      {
+        "text": "David Cameron meets NHS privatization campaigners",
+        "source": "Daily Telegraph, Dec 2009"
+      },
+      {
+        "text": "Key Tory MPs backed call to dismantle NHS",
+        "source": "The Guardian, Summer 2009"
+      },
+      {
+        "text": "Tory Health spokesman accepted £21,000 donation from private health firm boss",
+        "source": "Daily Mail, Jan 2010"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "We're all backing David Rendel"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

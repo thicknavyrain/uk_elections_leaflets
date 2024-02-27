@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "5 MORE YEARS OF GORDON BROWN OR CHANGE WITH THE CONSERVATIVES",
+        "content": "In just a few weeks we will have the most important election for a generation. Our economy is burdened by huge debts and millions are out of work. Our society is broken by crime and irresponsible behaviour. Our political system is a mess. We can't go on like this."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "GETTING BRITAIN WORKING",
+        "policyDescription": "Labour are now the party of unemployment. Conservatives will get Britain working again by boosting enterprise, as well as allowing taxes on the first ten jobs created by new businesses. We will also push to help people off welfare and into work."
+      },
+      {
+        "policyTitle": "BACKING THE NHS",
+        "policyDescription": "David Cameron has made the NHS our number one priority. We back our plans to improve services for everyone and stop the top-down reorganisations."
+      },
+      {
+        "policyTitle": "RAISING STANDARDS IN SCHOOLS",
+        "policyDescription": "We will create a new generation of schools run by parents, not reorganised by politicians. Parents will get what they want: smaller schools, smaller classes, good behaviour, great teachers, and restored confidence in the curriculum."
+      },
+      {
+        "policyTitle": "SUPPORTING FAMILIES",
+        "policyDescription": "Families are the foundation of a strong society. Our plans to introduce Sure Start with 4,200 extra health visitors, flexible working, improve paternity leave and open new schools will help make Britain the most family-friendly country in Europe."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Our economy is burdened by huge debts and millions are out of work.",
+      "education": "We will create a new generation of schools run by parents.",
+      "environment": "",
+      "governance": "Our political system is a mess.",
+      "health": "David Cameron has made the NHS our number one priority.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We can't go on like this.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

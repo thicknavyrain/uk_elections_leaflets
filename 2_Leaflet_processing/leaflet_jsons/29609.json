@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Cut Immigration",
+        "policyDescription": "Immigration system fair for all; Border & coastal security reinstated."
+      },
+      {
+        "policyTitle": "A More Secure Britain",
+        "policyDescription": "Recruit 20,000 Police and 20,000 Soldiers; Rebuild our Armed Forces."
+      },
+      {
+        "policyTitle": "NHS Before Foreign Aid",
+        "policyDescription": "Fund 20,000 nurses and 8,000 doctors; Scrap hospital parking fees."
+      },
+      {
+        "policyTitle": "Protecting British Culture",
+        "policyDescription": "One legal system for all; Defending hard-won equality and free speech."
+      },
+      {
+        "policyTitle": "Modern & Fair Democracy",
+        "policyDescription": "Full Brexit; Reformed House of Lords; English Parliament; Proportional Representation."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Full Brexit; Reformed House of Lords; English Parliament; Proportional Representation.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Full Brexit; Reformed House of Lords; English Parliament; Proportional Representation.",
+      "health": "Fund 20,000 nurses and 8,000 doctors; Scrap hospital parking fees.",
+      "immigration": "Immigration system fair for all; Border & coastal security reinstated.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0333 800 6800",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "#BritainTogether campaign leaflet cover."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

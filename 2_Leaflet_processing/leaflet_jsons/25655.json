@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Edward Miliband",
+    "constituency": "Doncaster North",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Labour's better plan for working families",
+        "content": "Labour kickstarts election campaign."
+      },
+      {
+        "title": "A BETTER PLAN FOR A BETTER FUTURE",
+        "content": "Vote Labour for a better, fairer Britain."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "The Economy",
+        "policyDescription": "Labour's plan is for big changes not big spending."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Labour will recruit 8,000 more GPs, 20,000 more nurses and 3,000 more midwives."
+      }
+    ],
+    "mentions": {
+      "candidate": "Edward Miliband starting campaign trail with everyday people.",
+      "otherPartyLeaderCandidate": "Nigel Farage",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour's plan is for big changes not big spending.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will recruit 8,000 more GPs, 20,000 more nurses and 3,000 more midwives.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "I want to be your Prime Minister for one simple reason: to make your family better off...",
+    "politicalExperience": [
+      {
+        "role": "Leader of the Labour Party",
+        "duration": "since 2010",
+        "achievements": "Stood up to Rupert Murdoch, took on the energy companies, reformed the banks."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "http://www.labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The People's Choice",
+        "endorsement": "Say you're with us. Support Labour.org.uk"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "REVEALED: Nigel Farage wants to scrap our NHS.",
+        "source": "Labour Party",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Edward Miliband and health professional"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

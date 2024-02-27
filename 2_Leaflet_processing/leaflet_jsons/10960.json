@@ -1,0 +1,110 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Chris Mole",
+	"constituency": "Ipswich",
+	"politicalParty": "Labour Party",
+	"electionDate": "Thursday 6 May",
+	"messages": [
+  	{
+    	"title": "Putting Ipswich First",
+    	"content": "And if Labour's Chris Mole wins...because he knows how much local people value our Sure Start Centres, he is campaigning to stop the Tories closing any of Ipswich's 12 centres."
+  	},
+  	{
+    	"title": "My promise to you",
+    	"content": "It's about your living standards, your neighbourhood police, your local schools and your local hospital. That's what's at stake at this election. I'm proud of Ipswich. And I want to keep working for Ipswich and delivering for you..."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Preventing the closure of Sure Start Centres in Ipswich."
+  	},
+  	{
+    	"policyTitle": "Health",
+    	"policyDescription": "Support safeguarding the future of the NHS."
+  	},
+  	{
+    	"policyTitle": "Social Welfare",
+    	"policyDescription": "Get a free bus pass, supporting pensioners."
+  	},
+  	{
+    	"policyTitle": "Police",
+    	"policyDescription": "Continuing the fight for more police on the beat."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Chris Mole",
+  	"otherPartyLeaderCandidate": "Tories",
+  	"partyLeader": "Gordon Brown",
+  	"tacticalSituation": "The constituency vote is neck and neck between Labour and Tories."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "And if Labour's Chris Mole wins...he is campaigning to stop the Tories closing any of Ipswich's 12 centres.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "'Quality of healthcare has increased dramatically under a Labour Government. A vote for Chris Mole is a vote to safeguard the future of the NHS.' - Dr Rebecca Ball, Local GP",
+  	"immigration": "",
+  	"socialWelfare": "'Thanks to Chris' hard work in Westminster, and a Labour Government, I now get a free bus pass. He's the right man to serve Ipswich in Westminster.' - Ms Laws, Local Pensioner",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "01473 255131",
+  	"email": "chris@chrismole.org.uk",
+  	"website": "www.chrismole.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Dr Rebecca Ball",
+    	"endorsement": "Quality of healthcare has increased dramatically under a Labour Government. A vote for Chris Mole is a vote to safeguard the future of the NHS."
+  	},
+  	{
+    	"endorser": "Ms Laws",
+    	"endorsement": "Thanks to Chris' hard work in Westminster, and a Labour Government, I now get a free bus pass. He's the right man to serve Ipswich in Westminster."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Quality of healthcare has increased dramatically under a Labour Government. A vote for Chris Mole is a vote to safeguard the future of the NHS.",
+    	"source": "Dr Rebecca Ball, Local GP",
+    	"date": ""
+  	},
+  	{
+    	"text": "Thanks to Chris' hard work in Westminster, and a Labour Government, I now get a free bus pass. He's the right man to serve Ipswich in Westminster.",
+    	"source": "Ms Laws, Local Pensioner",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Chris Mole joins Gordon Brown to fight for Sure Start in Ipswich."
+    	}
+  	]
+	},
+	"additionalNotes": "URGENT NOTICE — Polling Day's Thursday and the race is close. Every vote will make the difference."
+  }
+}
+```

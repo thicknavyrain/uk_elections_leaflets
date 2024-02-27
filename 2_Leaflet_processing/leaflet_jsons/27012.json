@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Frank Harasiwka",
+    "constituency": "Bolton South East",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "Standing up for the NHS",
+        "content": "We urgently need additional investment in frontline services..."
+      },
+      {
+        "title": "Opposing school cuts",
+        "content": "Local schools are under threat..."
+      },
+      {
+        "title": "Fighting against Hard Brexit",
+        "content": "Tories have admitted that post Brexit there will be no reduction in immigration..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS and Social Care",
+        "policyDescription": "£31 million more for the NHS and Social Care in Bolton"
+      },
+      {
+        "policyTitle": "Support for Pensioners",
+        "policyDescription": "£770 more for pensioners by protecting the triple-lock"
+      },
+      {
+        "policyTitle": "Education Funding",
+        "policyDescription": "Reversing cuts of £19 million to schools throughout Bolton"
+      }
+    ],
+    "mentions": {
+      "candidate": "Frank Harasiwka",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Fighting against Hard Brexit...Many people feel that they should have a vote on the final deal.",
+      "economy": "",
+      "education": "Opposing school cuts...schools...are set to lose £19 million...",
+      "environment": "",
+      "governance": "",
+      "health": "Standing up for the NHS...an additional £6 billion...reversing numerous planned closures of surgeries and A&E departments...and securing more staff...",
+      "immigration": "Fighting against Hard Brexit...there will be no reduction in immigration as a result...",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Many people in Bolton South East have told me of their deep dissatisfaction with the Tory Government...with lack of funding for the NHS, education and housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "My main focus for this election is the protection of the NHS...",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Please return to Elliott Bermudez-Galton at 69 Grosvenor Street, Kearsley, Bolton BL4 8DP",
+      "phone": "",
+      "email": "",
+      "website": "Libdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Frank Harasiwka for genuine change in BOLTON SOUTH EAST"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Maria Eagle",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7th May",
+    "messages": [
+      {
+        "title": "IMPORTANT MESSAGE FROM MARIA EAGLE",
+        "content": "This is the most important election in a generation. The Tories are planning extremes if re-elected. Only Labour will abolish the bedroom tax, increase the minimum wage & ban exploitative zero hours contracts. Nobody here votes Libdem anymore UKIP will kill off the NHS. The Greens can't be taken seriously. The only way to stop the Tories winning on May 7th is to VOTE LABOUR!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Abolishing the bedroom tax",
+        "policyDescription": "Labour will abolish the bedroom tax."
+      },
+      {
+        "policyTitle": "Increasing the minimum wage",
+        "policyDescription": "Labour plans to increase the minimum wage."
+      },
+      {
+        "policyTitle": "Banning exploitative zero hours contracts",
+        "policyDescription": "Labour intends to ban exploitative zero hours contracts."
+      }
+    ],
+    "mentions": {
+      "candidate": "Maria Eagle",
+      "otherPartyLeaderCandidate": "Libdem, UKIP, The Greens",
+      "partyLeader": "",
+      "tacticalSituation": "The only way to stop the Tories winning on May 7th is to VOTE LABOUR!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Labour will abolish the bedroom tax, increase the minimum wage & ban exploitative zero hours contracts.",
+      "health": "UKIP will kill off the NHS.",
+      "immigration": "",
+      "socialWelfare": "Labour will abolish the bedroom tax.",
+      "housing": [
+        {
+          "content": "Labour will abolish the bedroom tax.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Unit House, Speke Boulevard, L24 9HZ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Maria Eagle with campaign message and election date."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

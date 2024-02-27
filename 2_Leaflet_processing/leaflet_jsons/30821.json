@@ -1,0 +1,63 @@
+{
+  "leaflet": {
+	"candidateName": "Vernon Coaker",
+	"constituency": "Gedling",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 8 June",
+	"messages": [
+  	{
+    	"title": "Why I am Backing Vernon",
+    	"content": "Content of endorsement or statement supporting Vernon."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Our children deserve the best.",
+    	"policyDescription": "Content of the candidate's stance on actions for children."
+  	},
+  	{
+    	"policyTitle": "Young people need a voice.",
+    	"policyDescription": "Content of the candidate's stance on representation for young people."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Content where Vernon Coaker mentions himself or is mentioned."
+	},
+	"issues": {
+	},
+	"personalStatement": "Content of Vernon Coaker's personal statement from the leaflet.",
+	"politicalExperience": [
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "vernon@labour.org.uk",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "facebook.com/vernon4gedling",
+    	"twitter": "twitter.com/Vernon_Coaker",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Person endorsing Vernon",
+    	"endorsement": "This is where an endorsement quote would go."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Individual testimonies or quotes supporting Vernon Coaker."
+	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Photos of Vernon Coaker with various groups of people."
+    	}
+  	]
+	},
+	"additionalNotes": "Any additional notes or observations from the leaflet."
+  }
+}

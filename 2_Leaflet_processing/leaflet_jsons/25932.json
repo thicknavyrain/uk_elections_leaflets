@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Flick Drummond",
+    "constituency": "Portsmouth South",
+    "politicalParty": "",
+    "electionDate": "Thursday",
+    "messages": [
+      {
+        "title": "We're backing Flick!",
+        "content": "Local people say they want Flick Drummond to be their voice in Parliament."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Flick Drummond",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Employment is at a record high. Growth rises to 2.8% leading to faster rise in living standards.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Seven-day NHS will be offered to millions.",
+      "immigration": "",
+      "socialWelfare": "Pensioners to keep winter fuel payments. Tax cuts for workers and savers. Benefits cap leads to more people working.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "flickdrummond.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Jennie Brent",
+        "endorsement": "Flick is working hard for families in Portsmouth. She always makes time for people and responds to our concerns. I know that if she's elected she will stand up for all of us in Parliament."
+      },
+      {
+        "endorser": "Sir Robin Knox-Johnston",
+        "endorsement": "I have been very encouraged by Flick. She will be a champion for the Navy and for commercial activities in Portsmouth. Flick has my full backing as Conservative candidate for Portsmouth South."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Flick Drummond with constituents"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

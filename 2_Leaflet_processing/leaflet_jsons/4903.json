@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Diane Abbott",
+    "constituency": "Hackney North and Stoke Newington",
+    "politicalParty": "Labour Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Choose Labour. Only we will protect the services that all of us rely on.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "A new secondary school for the Kingsmead site and the new BSix Sixth Form College."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Fought to keep the A&E open."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Has opposed housing sell-offs, stands for decent affordable homes and supported building of new homes."
+      },
+      {
+        "policyTitle": "Local Transport",
+        "policyDescription": "Keep the 73 bus route bendy and fought to keep the North London line open."
+      },
+      {
+        "policyTitle": "Local Economy",
+        "policyDescription": "Supports local business."
+      }
+    ],
+    "mentions": {
+      "candidate": "Diane Abbott",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "A new secondary school for the Kingsmead site and the new BSix Sixth Form College.",
+      "environment": "",
+      "governance": "",
+      "health": "Fought to keep the A&E open.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Has opposed housing sell-offs, stands for decent affordable homes and supported building of new homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "Fighting for you since 1987",
+        "achievements": "A new secondary school for the Kingsmead site, fought to keep the North London line open, fought to keep the A&E open."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Diane Abbott with local people campaigning for better bus services."
+        },
+        {
+          "caption": "Diane Abbott supporting the refurbishment of the CLR James Library."
+        },
+        {
+          "caption": "Diane Abbott outside the new BSix Sixth Form College."
+        },
+        {
+          "caption": "Diane Abbott at the new Haggerston station."
+        },
+        {
+          "caption": "Diane Abbott campaigning against the third runway at Heathrow."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

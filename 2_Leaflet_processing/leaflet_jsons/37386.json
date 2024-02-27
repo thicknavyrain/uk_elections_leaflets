@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+	"candidateName": "Leila Kiersch",
+	"constituency": "Canolbarth a Gorllewin Cymru",
+	"politicalParty": "Plaid Cymru",
+	"electionDate": "Ar 5ed o Fai",
+	"messages": [
+  		{
+    		"title": "Y BLAID WERDD",
+    		"content": "er mwyn chwyldro lleol"
+  		}
+	],
+	"keyPolicies": [
+  		{
+    		"policyTitle": "Newid Hinsawdd",
+    		"policyDescription": "Mae dyfodol carbon isel yn bosib. Dyfodol lle caiff swyddi eu creu yn hytrach na’u torri."
+  		}
+	],
+	"mentions": {
+  		"candidate": "",
+  		"otherPartyLeaderCandidate": "",
+  		"partyLeader": "",
+  		"tacticalSituation": ""
+	},
+	"issues": {
+  		"brexitEurope": "",
+  		"economy": "",
+  		"education": "",
+  		"environment": "Cael chwyldro gwyrdd helpu i leihau’r newid yn yr hinsawdd, gofalu am fywyd gwyllt a rhoi siâr deg i bawb",
+  		"governance": "",
+  		"health": "",
+  		"immigration": "",
+  		"socialWelfare": "",
+  		"housing": [
+    		{
+      			"content": "",
+      			"yimbyNimby": ""
+    		}
+  		]
+	},
+	"personalStatement": "Pleidleisiwch dros",
+	"politicalExperience": [
+  		{
+    		"role": "",
+    		"duration": "",
+    		"achievements": ""
+  		}
+	],
+	"contactInformation": {
+  		"address": "",
+  		"phone": "",
+  		"email": "",
+  		"website": "",
+  		"socialMedia": {
+    		"facebook": "",
+    		"twitter": "",
+    		"instagram": "",
+    		"linkedin": ""
+  		}
+	},
+	"endorsements": [
+  		{
+    		"endorser": "",
+    		"endorsement": ""
+  		}
+	],
+	"quotes": [
+  		{
+    		"text": "",
+    		"source": "",
+    		"date": ""
+  		}
+	],
+	"campaignMaterial": {
+  		"images": [
+    		{
+      			"caption": ""
+    		}
+  		]
+	},
+	"additionalNotes": ""
+  }
+}

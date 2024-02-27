@@ -1,0 +1,118 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Horwood MP",
+    "constituency": "Cheltenham",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "More NHS cuts on the way warns MP Martin Horwood",
+        "content": "Martin Horwood MP campaigning in 2006 against the closure of the St Paul’s maternity hospital. Are more of our vital health services threatened, asks Martin?"
+      },
+      {
+        "title": "Countryside victory closer say campaigners",
+        "content": ""
+      },
+      {
+        "title": "Lower taxes for local families says Martin Horwood MP",
+        "content": ""
+      },
+      {
+        "title": "Bus services under threat from Conservative Council",
+        "content": ""
+      },
+      {
+        "title": "Top Tory Councillor Joins Lib Dems",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Campaign against NHS cuts, support for local health services."
+      },
+      {
+        "policyTitle": "Troops Campaign",
+        "policyDescription": "Fairer deal for troops, a campaign for better equipment and help for injured troops and veterans."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Taking action on climate change for a fair, green future for Britain."
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin Horwood",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "A fair, green future for Britain",
+      "governance": "",
+      "health": "Martin Horwood MP campaigning against NHS cuts.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Martin Horwood MP rallying with residents against potential NHS cuts."
+        },
+        {
+          "caption": "Lib Dem Leader Nick Clegg is campaigning with Martin Horwood."
+        },
+        {
+          "caption": "Martin Horwood MP supporting health charities."
+        },
+        {
+          "caption": "Martin Horwood MP fighting for town floods action."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

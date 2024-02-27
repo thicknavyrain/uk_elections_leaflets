@@ -1,0 +1,88 @@
+Parse the provided image of pages of a campaign leaflet into the following JSON format: 
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "",
+    	"policyDescription": ""
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+For the keyPolicies section: Each policyTitle should be the headline of a policy area mentioned in the leaflet. The policyDescription should contain a brief summary of the candidate's stance or proposal for that policy area. 
+For the mentions section: The candidate field should contain any specific mention of the candidate. The otherPartyLeaderCandidate field should include any references to competing candidates or party leaders, excluding their own party leader. The partyLeader field should include any references to their own party leader. The tacticalSituation field should note any mention of the constituency's strategic voting considerations or historical voting patterns that suggest tactical voting. 
+For the issues section: The brexitEurope, economy, education, environment, governance, health, immigration and socialWelfare fields should capture any comments on the leaflet regarding those respective topics. For the housing field inside issues, include the content under “content” and also flag the sentiment in the yimbyNimby field as either broadly aligning with YIMBY or NIMBY sentiment (or N/A if it doesn’t really pertain to either). Remember, each field should only contain relevant text extracted from the leaflet. Text may appear in multiple locations where relevant (keyPolicies AND issues). If a leaflet does not mention an issue or a person, the corresponding field in the JSON template should remain empty. 
+If you are unable to complete this request, simply return an empty JSON response. Do not provide any leading or trailing text or any explanation, just the contents of the JSON (formatted in a code block).

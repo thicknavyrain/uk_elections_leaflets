@@ -1,0 +1,69 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "North East",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 8 June",
+	"messages": [
+  	{
+    	"title": "THE TORIES HAVE WRECKED THE NORTH EAST BEFORE...",
+    	"content": "...AND THEY'LL DO IT AGAIN! YOU CANNOT TRUST THE TORIES"
+  	},
+  	{
+  		"title": "THE TORIES ALWAYS TRASH THE NORTH EAST",
+  		"content": "People are poorer, Hospital services closing, Waiting lists are longer, Crime going up, Teachers losing their jobs, Pensions are at risk"
+  	},
+  	{
+    	"title": "USE YOUR VOTE FOR LABOUR",
+    	"content": "TO STAND UP FOR THE NORTH EAST"
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "THE TORIES",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "People are poorer",
+  	"education": "Teachers losing their jobs",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Hospital services closing",
+  	"immigration": "",
+  	"socialWelfare": "Pensions are at risk",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "FOR THE MANY NOT THE FEW #VoteLabour"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

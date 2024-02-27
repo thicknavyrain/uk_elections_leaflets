@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stephen",
+    "constituency": "Bristol",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A REAL record of ACTION...",
+        "content": "Stephen was a key player in securing a new secondary school for Bristol. The Redland Green School, originally opposed by Labour, has proved to be a success since opening its doors in 2007."
+      },
+      {
+        "title": "On schools",
+        "content": "Local Lib Dems are working hard to ensure that new places must be left by the previous administration. A new primary school will be opening in Bishopston in September - it had been shelved by Labour. The Lib Dems want an extra £210 million a year for Bristol schools to cut class sizes and raise standards."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "On transport",
+        "policyDescription": "Stephen backed the Lib Dem Council putting in place £1 million investment for a more frequent service on the Severn Beach rail line. He is now campaigning for a high-speed rail link to London and better cycling facilities."
+      },
+      {
+        "policyTitle": "On crime",
+        "policyDescription": "Stephen has been demanding to know why Gordon Brown is undermining Bristol's Police."
+      },
+      {
+        "policyTitle": "On the environment",
+        "policyDescription": "Bristol under the Lib Dems is one of the greenest cities in Europe - The Guardian. The city now has demanding climate change targets in place, backed by a range of innovative policies."
+      },
+      {
+        "policyTitle": "On communities",
+        "policyDescription": "Stephen has worked hard with Bristol's diverse communities to ensure that all voices are heard and respected. He has also been a strong advocate for community facilities, like the new distribution in Bishopston and Lawrence Hill."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stephen",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The Lib Dems want an extra £210 million a year for Bristol schools to cut class sizes and raise standards.",
+      "environment": "Bristol under the Lib Dems is one of the greenest cities in Europe - The Guardian. The city now has demanding climate change targets in place, backed by a range of innovative policies.",
+      "governance": "Lib Dem leader Nick Clegg: '11 years of failure with four governments, and time for a real change.'",
+      "health": "",
+      "immigration": "For letting Gurkha soldiers settle in the UK.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "A new primary school will be opening in Bishopston in September - it had been shelved by Labour.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Key player in securing a new secondary school for Bristol",
+        "duration": "",
+        "achievements": "The Redland Green School, opposed by Labour, has been a success since opening in 2007."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Lib Dem Council",
+        "endorsement": "Support in implementing £1 million investment for a more frequent service on the Severn Beach rail line."
+      },
+      {
+        "endorser": "Council Leader Barbara Janke",
+        "endorsement": "Support in the approach that is cleaning up politics with the Lib Dems in Bristol."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Gordon Brown talks about fairness, but the truth is that Britain has become less fair under Labour.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stephen with supporters and constituents in various campaign and community settings."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contains various statements against the Labour party's actions and policies, emphasizing a contrast to the Lib Dem's proposals."
+  }
+}
+```

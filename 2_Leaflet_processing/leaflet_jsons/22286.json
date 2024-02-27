@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Helen Hayes",
+    "constituency": "Dulwich and West Norwood",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "",
+        "content": "The next election is a straight choice between a Labour government fighting for hardworking families and the NHS, or five more years of the Conservatives putting the most privileged first. Make your vote count."
+      },
+      {
+        "title": "Personal Promise",
+        "content": "\"I promise to fight every day for Dulwich and West Norwood, putting local residents and businesses first.\""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Helen Hayes",
+      "otherPartyLeaderCandidate": "Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Labour government fighting for...the NHS",
+      "immigration": "",
+      "socialWelfare": "Labour government fighting for hardworking families",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "\"I promise to fight every day for Dulwich and West Norwood, putting local residents and businesses first.\"",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "256 Rosendale Road, London, SE24 9DL",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Helen Hayes Labour Parliamentary Candidate"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by Andy Simmons on behalf of Helen Hayes both at 256 Rosendale Road, London, SE24 9DL. Printed by Anton Group Limited, Anton House, Christy Way, Laindon, Essex SS15 6TR."
+  }
+}
+```

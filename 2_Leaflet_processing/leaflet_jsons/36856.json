@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alistair Fernie",
+    "constituency": "Oxford",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "REASONS TO VOTE FOR ALISTAIR",
+        "content": "Stop Brexit, Tackle the Climate Crisis, Mend our broken politics."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Brexit",
+        "policyDescription": "I will vote to Stop Brexit as soon as possible, while representing the concerns of all in Oxford"
+      },
+      {
+        "policyTitle": "Tackle the Climate Crisis",
+        "policyDescription": "I will work to ensure insulation of all low-income homes in Oxford by 2025"
+      },
+      {
+        "policyTitle": "Mend our broken politics",
+        "policyDescription": "I’m not a career politician... I will put Oxford East’s constituents above my party and my career"
+      }
+    ],
+    "mentions": {
+      "candidate": "Alistair Fernie",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The Conservatives haven't won since 1983."
+    },
+    "issues": {
+      "brexitEurope": "I will vote to Stop Brexit as soon as possible, while representing the concerns of all in Oxford",
+      "economy": "Vote Lib Dem for a fairer economy and a better Britain.",
+      "education": "",
+      "environment": "I will work to ensure insulation of all low-income homes in Oxford by 2025",
+      "governance": "I’m not a career politician... I will put Oxford East’s constituents above my party and my career",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "I will work to ensure insulation of all low-income homes in Oxford by 2025",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "VOTE FOR Alistair Fernie and the Liberal Democrats today"
+        }
+      ]
+    },
+    "additionalNotes": "THE LIB DEMS OR LABOUR WILL WIN HERE TODAY..."
+  }
+}
+```

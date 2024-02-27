@@ -1,0 +1,48 @@
+{
+  "leaflet": {
+    "candidateName": "Andrew Lloyd",
+    "constituency": "Barnsley East",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "Barnsley voted for Brexit.",
+        "content": "I will ensure that will of Brexit will work for our local economy."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Ensure that the will of Brexit works for the local economy."
+      },
+      {
+        "policyTitle": "School Funding",
+        "policyDescription": "Fight for fairer funding for our Barnsley schools."
+      },
+      {
+        "policyTitle": "NHS and Social Care",
+        "policyDescription": "Ensure the NHS and social care services continues to serve the people of Barnsley."
+      }
+    ],
+    "mentions": {},
+    "issues": {
+      "brexitEurope": "Ensure that the will of Brexit works for the local economy.",
+      "economy": "Ensure that the will of Brexit works for the local economy.",
+      "education": "Fight for fairer funding for our Barnsley schools.",
+      "health": "Ensure the NHS and social care services continues to serve the people of Barnsley.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andrew Lloyd standing with Theresa"
+        }
+      ]
+    }
+  }
+}

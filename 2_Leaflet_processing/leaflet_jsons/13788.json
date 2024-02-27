@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Harry Mann",
+    "constituency": "Sutton Oakley",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A future fair for all...",
+        "content": "A future fair for all: That's what the Labour Party has always been about. This leaflet sets out ... getting the deficit down through sustainable growth not risking the recovery by cutting too deep too fast. Making sure the rich pay their fair share and protecting frontline services, those that you and your family rely on."
+      },
+      {
+        "title": "A change we simply can't afford...",
+        "content": "Bringing Britain through the recession hasn't been easy. The Tories want to wreck it with cuts that go too far too deep, too quickly. Labour will secure the recovery not threaten it by putting jobs at risk."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Getting the deficit down through sustainable growth, not risking the recovery by cutting too deep too fast, and making sure the rich pay their fair share."
+      },
+      {
+        "policyTitle": "Frontline Services",
+        "policyDescription": "Protecting frontline services, those that you and your family rely on."
+      }
+    ],
+    "mentions": {
+      "candidate": "Harry Mann",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Getting the deficit down through sustainable growth not risking the recovery by cutting too deep too fast.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour will build the new homes the country needs, taking action to help first time buyers and getting a fair deal for tenants and landlords alike.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I am proud of our manifesto which sets out our commitment to secure the economic recovery, up against ... I have been proud to represent you as your local Labour MP ...",
+    "politicalExperience": [
+      {
+        "role": "Local Labour MP",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Putting Local People First"
+        },
+        {
+          "caption": "My pledges to you..."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet discusses the protection of frontline services and sustainable growth to reduce the deficit. It criticizes the opposing party's approach to recovery and cuts. The candidate's emphasis is on proud representation and commitment to economic recovery."
+  }
+}
+```

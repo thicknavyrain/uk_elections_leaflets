@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Diana Johnson",
+    "constituency": "Hull North",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Re-Elect",
+        "content": "\"I have a track record of working hard for Hull North and will always speak up for a fair deal for Hull.\""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Diana Johnson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "\"I have a track record of working hard for Hull North and will always speak up for a fair deal for Hull.\"",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Labour Thursday 7 May"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

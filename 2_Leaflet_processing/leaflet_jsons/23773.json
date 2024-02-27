@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "David Cameron",
+	"constituency": "marginal constituency",
+	"politicalParty": "Conservative Party",
+	"electionDate": "1st May 2015",
+	"messages": [
+  	{
+    	"title": "WE'VE COME A LONG WAY SINCE 2010",
+    	"content": "Five years ago, the Labour Minister in charge of spending taxpayers’ money left us a note saying: 'I’m afraid there is no money'."
+  	},
+  	{
+    	"title": "ED MILIBAND AND THE SNP WILL COST YOU",
+    	"content": "Ed Miliband would lead a weak and chaotic government. And this isn’t just because he and Labour haven’t learnt any lessons on the economy since leaving behind that note five years ago."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Worked to get Britain's national finances back under control and halved the deficit while increasing employment."
+  	}
+	],
+	"mentions": {
+  	"candidate": "David Cameron",
+  	"otherPartyLeaderCandidate": "Ed Miliband, Nicola Sturgeon, Alex Salmond",
+  	"partyLeader": "",
+  	"tacticalSituation": "Living in a 'marginal constituency' implies that the vote is very impactful and strategic voting considerations should be taken into account."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Worked to get Britain's national finances back under control and halved the deficit as a share of the economy. More people are in work than ever before.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "Prime Minister",
+    	"duration": "",
+    	"achievements": "Britain is now one of the fastest-growing major economies."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

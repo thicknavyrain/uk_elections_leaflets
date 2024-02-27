@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Michael O'Carroll",
+    "constituency": "Swansea West Constituency",
+    "politicalParty": "Welsh Liberal Democrats",
+    "electionDate": "Thursday June 8th 2017",
+    "messages": [
+      {
+        "title": "Fighting for real change",
+        "content": "Our Country needs a strong opposition Fighting against Hard Brexit, Standing up for the NHS, Giving our children the best start in life"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting against Hard Brexit",
+        "policyDescription": "The Liberal Democrats are the only party that have always fought for Britain's membership of the European Union, and that is why we are fighting for you to have your say on the final Brexit deal."
+      },
+      {
+        "policyTitle": "Standing up for the NHS",
+        "policyDescription": "We need additional investment in health and care services as a matter of urgency. Mental health should also be a priority. The Liberal Democrats pledge to raise £1bn from tax for health in Wales as well as an extra £300m a year to spend on this vital service."
+      },
+      {
+        "policyTitle": "Giving our children the best start in life",
+        "policyDescription": "Investing in education and training can give our children the best possible start in life. That's why our pupil development grant, targeted at the poorest pupils has already delivered an extra £30m directly to Swansea schools."
+      }
+    ],
+    "mentions": {
+      "candidate": "Michael O'Carroll",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Fighting against Hard Brexit. The Liberal Democrats are the only party that have always fought for Britain's membership of the European Union, and that is why we are fighting for you to have your say on the final Brexit deal.",
+      "economy": "",
+      "education": "Giving our children the best start in life. Investing in education and training can give our children the best possible start in life.",
+      "environment": "",
+      "governance": "",
+      "health": "Standing up for the NHS. We need additional investment in health and care services as a matter of urgency.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "About Michael O'Carroll. Michael O'Carroll is a local businessman who lives in the St Helen's area. He moved to Swansea in 2014 to study Accounting and Finance at Swansea University. Michael sits on the committee of Swansea Bay Business Club, is a serving Army reservist and is fluent in Welsh. He is a Director of an accountancy business in Morfa. He enjoys running and outdoor fitness and has finished eleven half marathons.",
+    "politicalExperience": [
+      {
+        "role": "Committee Member",
+        "duration": "",
+        "achievements": "Sits on the committee of Swansea Bay Business Club"
+      },
+      {
+        "role": "Director",
+        "duration": "",
+        "achievements": "Director of an accountancy business in Morfa"
+      },
+      {
+        "role": "Army Reservist",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "welshlibdems.wales",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Michael O'Carroll with voter"
+        },
+        {
+          "caption": "Michael O'Carroll and team campaigning"
+        }
+      ]
+    },
+    "additionalNotes": "Change the direction of the country on Thursday June 8th 2017"
+  }
+}
+```

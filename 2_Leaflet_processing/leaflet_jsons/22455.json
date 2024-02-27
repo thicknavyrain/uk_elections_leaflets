@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Kirby",
+    "constituency": "Brighton Kemptown",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Competent leadership that will deliver for our country",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Job creation and reducing the deficit are priorities."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Increase the NHS budget and build a strong economy to ensure a bright future for the NHS."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Create more school places, lift the cap on university places and help young people gain skills."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Deliver on house-building and create a property-owning democracy."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Control and reduce immigration."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Kirby",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "A vote for any other party risks letting Labour in through the back door."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Simon has a strong record of delivery on the economy.",
+      "education": "Simon has a strong record of delivery on education.",
+      "environment": "",
+      "governance": "",
+      "health": "Simon has a strong record of delivery on health.",
+      "immigration": "Simon has a strong record of delivery on immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Deliver on house-building and create a property-owning democracy.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Simon Kirby has a strong record of delivery for the people of Brighton Kemptown.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": "Strong record of delivery on economy, education, health, immigration."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.simonkirby.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images showing Simon Kirby engaging with the community and performing various activities."
+        }
+      ]
+    },
+    "additionalNotes": "Your vote will make a difference."
+  }
+}
+```

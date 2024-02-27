@@ -1,0 +1,102 @@
+{
+  "leaflet": {
+	"candidateName": "John Leech",
+	"constituency": "",
+	"politicalParty": "Lib Dem",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Protecting our green spaces",
+    	"content": "Your local Lib Dems have been working hard for years with residents to protect our green spaces. They are part of the campaign to save Ryebank fields, and are against Labour selling off part of Marie Louise Gardens."
+  	},
+  	{
+    	"title": "Metrolink Success",
+    	"content": "The metrolink Didsbury Spur has been welcomed by Lib Dems councillors. The expansion of Metrolink to Chorlton and beyond is great news for south Manchester, and will help tackle the area's congestion and keep more cars at home."
+  	},
+  	{
+    	"title": "Success! - More NHS dental places",
+    	"content": "John Leech MP helped secure funding for a new NHS dentist on Burton Road. Dr Al-Himadi thanked John and local campaigner Rob Mackle for their support."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Protecting our green spaces",
+    	"policyDescription": "Work with residents to protect green spaces and oppose Labour's attempts to sell off parts of public parks."
+  	},
+  	{
+    	"policyTitle": "Public Transportation",
+    	"policyDescription": "Support the expansion of Metrolink services to reduce congestion and environmental impact."
+  	},
+  	{
+    	"policyTitle": "Healthcare",
+    	"policyDescription": "Improve access to NHS services by securing funding for local healthcare facilities like new NHS dentist placements."
+  	}
+	],
+	"mentions": {
+  	"candidate": "John Leech",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "John Leech has a strong record of fighting to improve access to NHS dental care for patients.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Support the expansion of Metrolink services to reduce congestion and environmental impact.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "MP",
+    	"duration": "",
+    	"achievements": "Helped secure funding for a new NHS dentist on Burton Road."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "0161 438 0446",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Dr Al-Himadi",
+    	"endorsement": "Thanked John Leech and local campaigner Rob Mackle for their support in securing funding for a new NHS dentist."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "The expansion of Metrolink to Chorlton and beyond is great news for south Manchester, and will help tackle the area's congestion and keep more cars at home.",
+    	"source": "John Leech MP",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "John Leech MP, councillors Paul Ankers, Bernie Ryan, Norman Lewis, and Chorlton campaigner Victor Chamberlain all turned out to show their continued support for the campaign to Save Chorlton Meadows."
+    	},
+    	{
+      	"caption": "John Leech MP with local campaigners and healthcare professionals celebrating the success in securing a new NHS dental practice."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

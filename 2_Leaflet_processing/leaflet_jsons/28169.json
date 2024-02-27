@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stewart Jackson",
+    "constituency": "Peterborough",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "STEWART JACKSON: 12 YEARS OF CAMPAIGNING FOR OUR AREA",
+        "content": "Stewart has a strong track record of speaking up for local people on local services - battling plans for the Energy Park near Werrington, petitioning Downing Street on the front-line upgrade at Werrington and pushing to improve the A47."
+      },
+      {
+        "title": "PETERBOROUGH'S ECONOMY IS ON THE UP",
+        "content": "Peterborough has one of the fastest rates of jobs growth in the UK, with a 75% increase since 2010 and unemployment now below 1%."
+      },
+      {
+        "title": "THE NHS IS OUR TOP LOCAL PRIORITY",
+        "content": "Stewart has fought to make the Health Secretary to make the case for prioritising investment at Peterborough City Hospital."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Stewart Jackson supports making Brexit a success and is standing with Theresa May to ensure Brexit negotiations are handled with a strong and stable leadership in the national interest."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stewart Jackson",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "The leaflet implies a strategic choice between Stewart Jackson with Theresa May or a coalition of chaos with Jeremy Corbyn."
+    },
+    "issues": {
+      "brexitEurope": "MAKE BREXIT A SUCCESS", 
+      "economy": "Peterborough has one of the fastest rates of jobs growth in the UK, with a 75% increase since 2010 and unemployment now below 1%.",
+      "health": "Stewart has fought to make the Health Secretary to make the case for prioritising investment at Peterborough City Hospital.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Stewart Jackson supports making Brexit a success and is standing with Theresa May to ensure Brexit negotiations are handled with a strong and stable leadership in the national interest.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for Peterborough",
+        "duration": "12 years",
+        "achievements": "Speaking up for local people, battling plans for the Energy Park near Werrington, petitioning Downing Street on the front-line upgrade at Werrington, pushing to improve the A47"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01733 343190",
+      "email": "stewartjackson@peterboroughconservatives.com",
+      "website": "www.peterboroughconservatives.com",
+      "socialMedia": {
+        "facebook": "facebook.com/peterboroughconservatives",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stewart Jackson with Theresa May"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

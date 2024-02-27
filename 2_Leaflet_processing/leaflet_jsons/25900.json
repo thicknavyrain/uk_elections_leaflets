@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "James Brokenshire",
+    "constituency": "Old Bexley & Sidcup",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A personal message from James Brokenshire",
+        "content": "Bexley is my home and I'm proud to have represented this area over the last five years. Since the last General Election we've seen significant improvements. People claiming out of work benefits in Old Bexley & Sidcup have fallen by half, new businesses are opening up, crime is down and our High Street is being transformed..."
+      },
+      {
+        "title": "Investing in Queen Mary's",
+        "content": "Securing the future of Queen Mary's Hospital has been one of my main priorities. After years of uncertainty and hard campaigning, our local hospital can now look ahead with confidence with new NHS management and an exciting £30 million investment programme..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Increase range of services at Queen Mary's Hospital and improve treatment provided locally."
+      },
+      {
+        "policyTitle": "Local Services",
+        "policyDescription": "Improve local rail services, challenge Southeastern Trains and Network Rail to deliver improved punctuality and reliability."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Support local businesses to succeed by boosting the local economy, creating jobs, and ensuring the area continues to thrive."
+      }
+    ],
+    "mentions": {
+      "candidate": "James Brokenshire",
+      "otherPartyLeaderCandidate": "Labour's Scottish alliance, Ed Miliband",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Boosting local businesses.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Improving healthcare with new NHS management and investment in Queen Mary's Hospital.",
+      "immigration": "Secured new laws to cut crime and combat immigration.",
+      "socialWelfare": "Reduced out of work benefits claims by half.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I seek your support to continue this work.",
+    "politicalExperience": [
+      {
+        "role": "Home Office Minister",
+        "duration": "",
+        "achievements": "Oversaw the security plan for the London 2012 Games, led successful negotiations with Jordan to deport radical cleric Abu Qatada."
+      }
+    ],
+    "contactInformation": {
+      "address": "32 Lewis Road SIDCUP DA14 4NA",
+      "phone": "0208 300 3471",
+      "email": "contact@jamesbrokenshire.com",
+      "website": "www.jamesbrokenshire.com",
+      "socialMedia": {
+        "facebook": "www.facebook.com/jpbrokenshire",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "James actively working for Old Bexley & Sidcup."
+        },
+        {
+          "caption": "James campaigning for Queen Mary's Hospital."
+        },
+        {
+          "caption": "Local business endorsement."
+        }
+      ]
+    },
+    "additionalNotes": "Includes comparisons between Conservative leadership and Labour’s plans which are referred to as 'Coalition of Chaos'."
+  }
+}
+```

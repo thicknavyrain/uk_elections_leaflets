@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "It's time for real change",
+        "content": "Labour has a simple plan to transform our country so that it works for the many, not just a privileged few."
+      },
+      {
+        "title": "THE LIB DEMS CAN'T WIN HERE",
+        "content": "That's why next time you must vote Labour. [...]"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Real change means:",
+        "policyDescription": "Labour stands for a fairer Britain. We will kick-start a Green Industrial Revolution to tackle the climate crisis. We will rebuild our public services by taxing the richest in our society and ensure the NHS is protected from any future trade deals. We will give youth the services and security they need to grow up safe and successful."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Lib Dems",
+      "partyLeader": "",
+      "tacticalSituation": "THE LIB DEMS CAN'T WIN HERE"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We will kick-start a Green Industrial Revolution to tackle the climate crisis.",
+      "education": "",
+      "environment": "We will kick-start a Green Industrial Revolution to tackle the climate crisis.",
+      "governance": "",
+      "health": "We will rebuild our public services by taxing the richest in our society and ensure the NHS is protected from any future trade deals.",
+      "immigration": "",
+      "socialWelfare": "We will give youth the services and security they need to grow up safe and successful.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "THE FUTURE OF OUR COUNTRY IS AT STAKE."
+        },
+        {
+          "caption": "It's time for real change. Labour has a simple plan to transform our country so that it works for the many, not just a privileged few."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

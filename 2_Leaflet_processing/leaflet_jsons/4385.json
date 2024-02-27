@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sharon Taylor",
+    "constituency": "Stevenage",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Sharon Taylor, 4 Popple Way, Stevenage, Herts, SG1 3TG",
+      "phone": "01438 222 299",
+      "email": "sharontaylor4stevenage.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "sharontaylor4stevenage.com/facebook",
+        "twitter": "sharonsstevenage",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Labour"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

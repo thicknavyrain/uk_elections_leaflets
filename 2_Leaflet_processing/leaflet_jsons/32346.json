@@ -1,0 +1,53 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Amess",
+    "constituency": "Southend West",
+    "politicalParty": "Conservative",
+    "electionDate": "12th December 2019",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Re-Elect DAVID AMESS as your Conservative Member of Parliament for SOUTHEND WEST GENERAL ELECTION 12th December 2019"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

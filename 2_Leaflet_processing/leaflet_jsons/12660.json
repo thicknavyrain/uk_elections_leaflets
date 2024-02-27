@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "ANN MYATT",
+	"constituency": "HEMSWORTH",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "60 SECOND Q&A",
+    	"content": "Responds to key issues for Hemsworth including jobs, public health services, local road services, and quality of local services."
+  	},
+  	{
+    	"title": "A PERSONAL MESSAGE FROM DAVID CAMERON",
+    	"content": "Discusses the need for change in Britain and outlines the Conservative Party's plans for the NHS, education, economy, and governance."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Proposes measures to create prosperity through jobs, education, and businesses to improve the economy."
+  	},
+  	{
+    	"policyTitle": "Health",
+    	"policyDescription": "Commits to protecting public health services and promoting healthy living."
+  	},
+  	{
+    	"policyTitle": "Local Services",
+    	"policyDescription": "Plans to improve quality of essential local services, focus on road repairs, and care for the elderly, disabled and their carers."
+  	}
+	],
+	"mentions": {
+  	"candidate": "ANN MYATT",
+  	"otherPartyLeaderCandidate": "Gordon Brown",
+  	"partyLeader": "David Cameron",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "We need to mend our broken society and trust in our political system.",
+  	"education": "We will protect spending on schools and sort out schools.",
+  	"environment": "",
+  	"governance": "Take action to cut the cost of politics and bring transparency to government.",
+  	"health": "We will protect spending on the NHS and improve it for everyone.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "13 Attlee Crescent, Sandal, WF2 6RF",
+  	"phone": "07550 0645 981",
+  	"email": "annmyatt@googlemail.com",
+  	"website": "www.hemsworthconservatives.com",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "David Cameron",
+    	"endorsement": "Advocates voting for Conservative candidate Ann Myatt, emphasizing the party's plans for the UK."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "This can be the year for change- and the Conservatives have the plans to make that a reality.",
+    	"source": "David Cameron",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Ann Myatt with constituents and campaigning on local issues such as traffic congestion and hospital services."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

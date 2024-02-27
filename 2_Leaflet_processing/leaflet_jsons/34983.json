@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Julian Carter",
+    "constituency": "Nottingham North",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "YOUR FULL BREXIT",
+        "content": "Without the Brexit Party there can be no real Brexit."
+      },
+      {
+        "title": "TACTICAL VOTING",
+        "content": "There are around 130 seats that the Conservatives haven't won in at least 50 years. Only the Brexit Party can beat Corbyn's Labour. Leavers, don't waste your vote."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "TURBOCHARGE THE ECONOMY",
+        "policyDescription": "Cutting the cost of living, making the UK the best place to do business and planning to turbocharge the economy."
+      },
+      {
+        "policyTitle": "FUNDING FRONTLINE SERVICES",
+        "policyDescription": "Increasing funding for police, the NHS, coastal border security, and schools."
+      },
+      {
+        "policyTitle": "INVESTING IN THE ENVIRONMENT",
+        "policyDescription": "Planting millions of trees to capture CO2, and recycling waste in the UK to make it a greener, cleaner place."
+      }
+    ],
+    "mentions": {
+      "candidate": "Julian Carter",
+      "otherPartyLeaderCandidate": "Corbyn's Labour",
+      "partyLeader": "",
+      "tacticalSituation": "Strategic voting considerations are discussed, including in seats that Conservatives haven't won in 50 years and the strategy for Leavers to not waste their vote by voting for the Brexit Party."
+    },
+    "issues": {
+      "brexitEurope": "Without the Brexit Party there can be no real Brexit.",
+      "economy": "Turbocharge the economy by cutting the cost of living and making the UK the best place to do business.",
+      "education": "Increasing funding for schools.",
+      "environment": "Planting millions of trees to capture CO2 and recycling waste in the UK.",
+      "governance": "",
+      "health": "Increasing funding for the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "No explicit mention of housing policy.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "83 Victoria Street, London SW1H 0HW",
+      "phone": "0800 414 8525",
+      "email": "",
+      "website": "www.thebrexitparty.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Without the Brexit Party there can be no real Brexit.",
+        "source": "Campaign Leaflet",
+        "date": "During the campaign for the December 12th election"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Julian Carter standing confidently in front of a British flag."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet promotes strategic voting for The Brexit Party to accomplish Brexit, highlighting the inability of the Conservative Party to win certain seats and challenging Corbyn's Labour Party."
+  }
+}
+```

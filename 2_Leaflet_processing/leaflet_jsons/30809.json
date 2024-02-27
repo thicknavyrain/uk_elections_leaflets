@@ -1,0 +1,95 @@
+{
+  "leaflet": {
+    "candidateName": "Theresa May",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "8TH JUNE",
+    "messages": [
+      {
+        "title": "YOUR REFERENDUM VOTE UNDER THREAT",
+        "content": "Jeremy Corbyn's Labour, the Liberal Democrats, the SNP and other parties will join together in an unholy alliance to disrupt Brexit."
+      },
+      {
+        "title": "VOTE FOR THERESA MAY ON 8TH JUNE TO SEE BREXIT THROUGH",
+        "content": "Theresa May's leadership will deliver the best deal for Britain as we leave the EU."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Ensure Brexit goes ahead, prevent opposition parties from disrupting Brexit."
+      }
+    ],
+    "mentions": {
+      "candidate": "Theresa May's",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "Jeremy Corbyn's Labour, the Liberal Democrats, the SNP and other parties will join together in an unholy alliance to disrupt Brexit."
+    },
+    "issues": {
+      "brexitEurope": "Ensure Brexit goes ahead, SNP MPs attempt to block Brexit bill.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "Sky-high immigration would continue for years under Jeremy Corbyn.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Looming threat of a Corbyn premiership.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "Labour's Brexit chaos.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "A Labour landslide would be a disaster for Britain.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "YOUR REFERENDUM VOTE UNDER THREAT"
+        },
+        {
+          "caption": "SKY-HIGH immigration would continue for years under Jeremy Corbyn."
+        },
+        {
+          "caption": "Labour plots BREXIT SABOTAGE."
+        },
+        {
+          "caption": "SNP MPs attempt to block Brexit bill."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

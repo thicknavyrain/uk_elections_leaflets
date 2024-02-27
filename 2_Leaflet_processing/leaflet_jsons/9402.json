@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Michele Jones",
+    "constituency": "",
+    "politicalParty": "Lib Dems",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Four steps to a fairer society",
+        "content": "People across Britain who are fed up with old fashioned politics are turning to the LibDems for real change. It's clear the Tories won't change a thing. Their top tax priority is to cut taxes for the rich"
+      },
+      {
+        "title": "MICHELE",
+        "content": "Michele is a 42 year old mother of two, she has worked her way up in life. Not your typical politician like so many others standing. Saw problems in her community - got elected to do something about it. Will make a difference to your lives, put people before politics. Wants to be your first woman MP."
+      },
+      {
+        "title": "Change that works for you",
+        "content": "'If elected I will fight hard to make sure our community has a clear and distinctive voice in Westminster' - Michele"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer taxes that put money back in your pocket",
+        "policyDescription": "Cutting taxes on the first £10,000 you earn will pay no tax on that amount."
+      },
+      {
+        "policyTitle": "A fair chance for every child: get class sizes down and invest in schools",
+        "policyDescription": "The party aims to reduce class sizes and invest more in education."
+      },
+      {
+        "policyTitle": "A fair future: create jobs by making Britain greener",
+        "policyDescription": "Invest in public transport, renewable energy and energy efficient affordable homes."
+      },
+      {
+        "policyTitle": "A fair deal change politicians! Make politicians accountable and give YOU the right to sack corrupt MPs.",
+        "policyDescription": "The Lib Dems are advocating for political reform to increase the accountability of MPs and providing the public with the means to remove corrupt officials."
+      }
+    ],
+    "mentions": {
+      "candidate": "Michele",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Invest in public transport, renewable energy and energy efficient affordable homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Michele is a 42 year old mother of two, she has worked her way up in life. Not your typical politician like so many others standing. Saw problems in her community - got elected to do something about it. Will make a difference to your lives, put people before politics. Wants to be your first woman MP.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "298 ABERGELE ROAD, OLD COLWYN LL29 9LN",
+      "phone": "",
+      "email": "",
+      "website": "www.welshlibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Michele at the Women Making A Difference Conference in Cardiff earlier this year."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

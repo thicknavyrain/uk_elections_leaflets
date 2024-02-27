@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tam Smith",
+    "constituency": "Linlithgow & East Falkirk",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Tam Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Alex Salmond",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "mail@tamsmithnp.info",
+      "website": "www.tamsmithnp.info",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Resident Survey"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contains a survey for residents to fill out, highlighting their preferences on Westminster and Holyrood issues, the political parties and leaders they identify with, and their views on Scottish independence and the performance of Alex Salmond as First Minister."
+  }
+}
+```

@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rob O'Hara",
+    "constituency": "Barrow and Furness",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Rob O'Hara",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Your Green Party Candidate Rob O'Hara for Barrow and Furness"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

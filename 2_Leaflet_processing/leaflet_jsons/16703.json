@@ -1,0 +1,84 @@
+{
+  "leaflet": {
+    "candidateName": "John Cryer",
+    "constituency": "Leyton and Wanstead",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Why we are backing John Cryer",
+        "content": "John is a hardworking, straightforward guy who gets the job done. He regularly attends our community events and is always willing to stand up and speak out for Leyton and Wanstead..."
+      },
+      {
+        "title": "Just 5 of the things Labour will do...",
+        "content": "A Labour government will build a strong economic foundation with a fairer tax system. A Labour government will create jobs for young people..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic Foundation and Tax",
+        "policyDescription": "A Labour government will build a strong economic foundation with a fairer tax system."
+      },
+      {
+        "policyTitle": "Jobs for Young People",
+        "policyDescription": "A Labour government will create jobs for young people."
+      },
+      {
+        "policyTitle": "Class Sizes for 5, 6, and 7 Year-Olds",
+        "policyDescription": "A Labour government will cap class sizes for 5, 6, and 7 year-olds."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "A Labour government will provide 50,000 new homes for first-time buyers under 25."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "A Labour government will freeze gas and electricity bills until 2017."
+      }
+    ],
+    "mentions": {
+      "candidate": "John is...always willing to stand up and speak out for Leyton and Wanstead."
+    },
+    "issues": {
+      "economy": "A Labour government will build a strong economic foundation with a fairer tax",
+      "education": "A Labour government will cap class sizes for 5, 6, and 7 year-olds.",
+      "housing": [
+        {
+          "content": "A Labour government will provide 50,000 new homes for first-time buyers under 25.",
+          "yimbyNimby": "YIMBY"
+        }
+      ],
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "environment": "A Labour government will freeze gas and electricity bills until 2017."
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {},
+    "endorsements": [
+      {
+        "endorser": "Brian Madican",
+        "endorsement": "I'll be voting Labour in May, to ensure that we have five more years of an MP who cares about Leyton and Wanstead."
+      },
+      {
+        "endorser": "Jo Harbour",
+        "endorsement": "That's why I'll be supporting John and voting Labour."
+      },
+      {
+        "endorser": "Sabrina Prathan",
+        "endorsement": "I'll be voting Labour in May to make sure that John is re-elected as our MP to help kick out the Tories."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John in the fight against the Tories"
+        }
+      ]
+    },
+    "additionalNotes": "Putting Local People First"
+  }
+}

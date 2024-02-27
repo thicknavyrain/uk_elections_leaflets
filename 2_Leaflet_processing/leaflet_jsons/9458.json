@@ -1,0 +1,66 @@
+{
+  "leaflet": {
+    "candidateName": "John Adams",
+    "constituency": "Dartford",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday May 6th",
+    "messages": [
+      {
+        "title": "Safeguarding Dartford’s future",
+        "content": "'Our new hospital, the new schools and the Sure Start centres are all down to Labour and we really value them. Labour's actions to tackle the recession have also helped everyone and things are picking-up now. Tory spending cuts would ruin all that progress and my family just can't afford that risk.' - Garry Sturley, Local Resident"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "John Adams",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour's actions to tackle the recession have helped everyone and things are picking-up now.",
+      "education": "New schools",
+      "environment": "",
+      "governance": "",
+      "health": "New hospital",
+      "immigration": "",
+      "socialWelfare": "Sure Start centres",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Garry Sturley",
+        "endorsement": "'Our new hospital, the new schools and the Sure Start centres are all down to Labour and we really value them. Labour's actions to tackle the recession have also helped everyone and things are picking-up now. Tory spending cuts would ruin all that progress and my family just can't afford that risk.'"
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Adams engaging with local residents."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet promotes positive actions taken by the Labour party, such as the building of a new hospital and schools, and the support for Sure Start centres. It also contains a warning against Tory spending cuts."
+  }
+}

@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "THEY LIED!",
+        "content": "Labour, Tories and Lib Dems all promised the British people a say on the EU... now they've changed their minds and refuse us this right."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Referendum on Britain's Membership of the European Union",
+        "policyDescription": "UKIP demands a referendum on Britain's membership of the European Union and highlights issues like EU membership costs, control over borders and immigration, and laws made by the EU."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Gordon Brown and David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "UKIP demands a referendum on Britain's membership of the European Union.",
+      "economy": "EU membership costing the UK £40 million a day.",
+      "education": "",
+      "environment": "",
+      "governance": "Laws made by the EU that govern our lives.",
+      "health": "",
+      "immigration": "EU control of our borders and immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Freepost RLSU-HZBG-UBBG, UK Independence Party, Unit 1 King Charles Business Park, Old Newton Rd, Heathfield, Newton Abbot, Devon TQ12 6UT",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "www.ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "UKIP referendum petition form and campaign message regarding EU membership."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes a petition form for a referendum on Britain's membership of the European Union."
+  }
+}
+```

@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Adam Twine",
+    "constituency": "Wantage",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A 'Living Wage'",
+        "content": "Green MPs will fight against the increasing gap between rich and poor and demand a 'Living Wage' for the low paid."
+      },
+      {
+        "title": "A million new jobs",
+        "content": "Greener industries will provide more employment. Green Party councillors have already pioneered a FREE house insulation scheme for every single home in Kirklees creating much needed jobs."
+      },
+      {
+        "title": "Protect our NHS",
+        "content": "Green MPs will oppose NHS cuts, closures and privatisation. They will fight to make local NHS services easy to access and they will protect the jobs of public sector workers."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A 'Living Wage'",
+        "policyDescription": "Green MPs will fight against the increasing gap between rich and poor and demand a 'Living Wage' for the low paid."
+      },
+      {
+        "policyTitle": "A million new jobs",
+        "policyDescription": "Greener industries will provide more employment. Green Party councillors have already pioneered a FREE house insulation scheme for every single home in Kirklees creating much needed jobs."
+      },
+      {
+        "policyTitle": "Protect our NHS",
+        "policyDescription": "Green MPs will oppose NHS cuts, closures and privatisation. They will fight to make local NHS services easy to access and they will protect the jobs of public sector workers."
+      },
+      {
+        "policyTitle": "Robin Hood Tax",
+        "policyDescription": "Introducing a Robin Hood Tax on all speculative financial transactions to better fund social services."
+      },
+      {
+        "policyTitle": "Trident",
+        "policyDescription": "Save billions of pounds by halting the Trident replacement program and decommissioning existing nuclear weapon arsenal."
+      }
+    ],
+    "mentions": {
+      "candidate": "Adam Twine",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Introducing a Robin Hood Tax on all speculative financial transactions to better fund social services.",
+      "education": "",
+      "environment": "Investing in jobs, including the provision of free insulation to all houses, in order to boost the economy and reduce CO2 emissions.",
+      "governance": "",
+      "health": "Green MPs will oppose NHS cuts, closures and privatisation.",
+      "immigration": "",
+      "socialWelfare": "Introducing a Robin Hood Tax on all speculative financial transactions to better fund social services.",
+      "housing": [
+        {
+          "content": "Green Party councillors have already pioneered a FREE house insulation scheme for every single home in Kirklees creating much needed jobs.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Adam Twine has lived and worked as an organic farmer for over 25 years near Faringdon. He co-founded and set up Oxfordshire's largest renewable energy generating power station and is actively involved in both local and national peace and justice initiatives.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0844 544 9277",
+      "email": "adamtwine.wantagegreen@gmail.com",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Adam Twine - Green Party leaflet images"
+        }
+      ]
+    },
+    "additionalNotes": "Adam Twine's campaigns include: producing a Robin Hood Tax on all speculative financial transactions, investing in jobs with free house insulation to reduce CO2 emissions, and saving billions by halting Trident."
+  }
+}
+```

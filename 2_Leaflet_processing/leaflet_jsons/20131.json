@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Pat Black",
+    "constituency": "Edinburgh West",
+    "politicalParty": "Scottish Green Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Vote Green in 2015",
+        "content": "The Scottish Green Party stands for an economy for the people and a society for all, and part of a radical alternative to old tired politics of Westminster."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "EQUALITY NOT POVERTY",
+        "policyDescription": "We'll raise the minimum wage to £10 an hour by 2020"
+      },
+      {
+        "policyTitle": "PUBLIC SERVICES IN PUBLIC HANDS",
+        "policyDescription": "We'll run the railways as a public service and protect other services like the NHS from privatisation"
+      },
+      {
+        "policyTitle": "POWER TO COMMUNITIES",
+        "policyDescription": "We'll press for more powers for Scotland and for local communities."
+      }
+    ],
+    "mentions": {
+      "candidate": "Pat Black",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Encourage investment in affordable housing while protecting green spaces for generations to come.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Pat Black lives in west Edinburgh and is passionate about community and democracy, citizenship and social justice. Over the course of a thirty-five year career in Social Care, she has founded a number of radical, locally-focused programs to improve the life experiences of people from marginalised groups.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": "Founder of locally-focused social care programs"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "pat.black@scottishgreens.org.uk",
+      "website": "edinburghgreens.org.uk | scottishgreens.org.uk",
+      "socialMedia": {
+        "facebook": "/westedinburghgreens",
+        "twitter": "@patkinnearblack",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Green in 2015 leaflet featuring Pat Black for Edinburgh West."
+        }
+      ]
+    },
+    "additionalNotes": "If elected Pat will stand up against welfare cuts and work to repeal bedroom tax and end to benefit sanctions."
+  }
+}
+```

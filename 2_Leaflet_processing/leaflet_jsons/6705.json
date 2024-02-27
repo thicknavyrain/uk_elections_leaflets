@@ -1,0 +1,108 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Emily Benn",
+	"constituency": "East Worthing and Shoreham",
+	"politicalParty": "Labour",
+	"electionDate": "2010",
+	"messages": [
+  	{
+    	"title": "I want to hear from you",
+    	"content": "Emily Benn encourages constituents to contact her with various options provided such as phone, email, and visiting the office."
+  	},
+  	{
+    	"title": "Secure it don't risk it!",
+    	"content": "The leaflet suggests that voting for Emily Benn is the secure choice for the future."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Nurturing Britain's Future",
+    	"policyDescription": "By 2014, an apprenticeship, training or study place is promised for every young person up to the age of 18."
+  	},
+  	{
+    	"policyTitle": "Protecting the NHS",
+    	"policyDescription": "Reinforce the investment and reforms that have delivered dramatic improvements for patients over the past decade."
+  	},
+  	{
+    	"policyTitle": "Ease Pressure on Families in Poverty",
+    	"policyDescription": "Focus on helping struggling and workless families with affordable housing for all who are on low incomes."
+  	},
+  	{
+    	"policyTitle": "Safer Communities",
+    	"policyDescription": "Continue to take tough measures to combat Crime and Anti-Social Behaviour."
+  	},
+  	{
+    	"policyTitle": "Energy Security",
+    	"policyDescription": "In an uncertain world, reduce dependency on foreign supplies, achieve power from renewable, cleaner and greener energy resources."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Emily Benn",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Throughout the economic crisis, Labour has provided help to the British people, ensuring they could keep their homes and jobs.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "A strong NHS is highlighted with Labour's investments delivering hundreds of new hospitals since Labour came to power.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Focus on helping struggling and workless families with affordable housing for all who are on low incomes.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "I will not let you down!",
+	"politicalExperience": [
+  	{
+    	"role": "Candidate",
+    	"duration": "Current campaign for 2010 elections",
+    	"achievements": "The leaflet lists Labour's achievements including help during the economic crisis and investments in NHS and community safety."
+  	}
+	],
+	"contactInformation": {
+  	"address": "EWAS Labour, 27 Brunswick Road, Shoreham-By-Sea, West Sussex, BN43 5WA",
+  	"phone": "07926 649475, 01273 272063",
+  	"email": "emily.benn@ewaslabour.org.uk",
+  	"website": "www.ewaslabour.org.uk",
+  	"socialMedia": {
+    	"facebook": "/Emily.Benn",
+    	"twitter": "@Emily_Benn",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Hazel Rennie",
+    	"endorsement": "There's so much left to do to make the world a fairer place. It's your turn now!"
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "I will not let you down!",
+    	"source": "Emily Benn",
+    	"date": "2010 Election Campaign"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Emily Benn in front of Shoreham’s historic church."
+    	},
+    	{
+      	"caption": "Labour's achievements in supporting Britain through the downturn and a better NHS."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet includes a personal appeal to the voter highlighting Emily Benn's commitment to not letting them down."
+  }
+}
+```

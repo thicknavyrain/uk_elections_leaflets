@@ -1,0 +1,57 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Richard Benyon",
+	"constituency": "Newbury",
+	"politicalParty": "Conservatives",
+	"electionDate": "Thursday 8th June",
+	"messages": [
+  	{
+    	"title": "YOUR CHOICE AT THIS ELECTION:",
+    	"content": "Strong, stable leadership in the national interest or a coalition of chaos with Jeremy Corbyn. Think Jeremy Corbyn as Prime Minister is never going to happen? DON'T BE SO SURE."
+  	},
+  	{
+    	"title": "THE RISK IS JUST TOO BIG TO TAKE:",
+    	"content": "Higher Debt, Higher Taxes, Economic Chaos"
+  	}
+	],
+	"keyPolicies": [
+	],
+	"mentions": {
+  	"candidate": "Richard Benyon",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "Theresa May",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+	],
+	"quotes": [
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "RICHARD BENYON Newbury STANDING WITH THERESA MAY"
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet juxtaposes strong, stable leadership with the prospect of a coalition with Jeremy Corbyn, implying a negative outcome. The use of contrasts and appeals to stability suggest a strategic campaign approach highlighting both leadership and risks of change."
+  }
+}
+```

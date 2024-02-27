@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Johnno Lee",
+    "constituency": "Bolton South East",
+    "politicalParty": "",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "FORMER SOLDIER AND LAD FROM FARNWORTH SELECTED AS CANDIDATE",
+        "content": "My first priority is to help Boris Johnson get a workable majority so we can get Brexit done, so we can concentrate on our NHS - getting better mental health services and fairer funding for our schools."
+      },
+      {
+        "title": "REGENERATING OUR TOWN ITS SERVICES AND HELPING THOSE WHO NEED IT MOST",
+        "content": "I'm fighting for better infrastructure for our front line services as well as for more police on our streets and better support for our Servicemen and veterans. With 40 year of Labour in Bolton it's time for change."
+      },
+      {
+        "title": "DEFENDING OUR PRECIOUS GREENBELT",
+        "content": "We must protect our precious Greenbelt and Public Spaces from inappropriate development - including the historic Hulton Park Estate and our other great Greenspaces."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Help Boris Johnson get a workable majority to get Brexit done."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Concentrate on getting better mental health services and fairer funding for schools."
+      },
+      {
+        "policyTitle": "Infrastructure",
+        "policyDescription": "Fighting for better infrastructure for front line services, more police on the streets and better support for Servicemen and veterans."
+      },
+      {
+        "policyTitle": "Greenbelt Protection",
+        "policyDescription": "Protect our precious Greenbelt and Public Spaces from inappropriate development."
+      }
+    ],
+    "mentions": {
+      "candidate": "Johnno Lee",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Help Boris Johnson get a workable majority to get Brexit done.",
+      "economy": "",
+      "education": "Fairer funding for our schools.",
+      "environment": "Protect our precious Greenbelt and Public Spaces from inappropriate development.",
+      "governance": "With 40 years of Labour in Bolton it's time for change.",
+      "health": "Better mental health services and fairer funding for our schools.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We must protect our precious Greenbelt and Public Spaces from inappropriate development - including the historic Hulton Park Estate and our other great Greenspaces.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Soldier",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Johnno Lee in Farnworth"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

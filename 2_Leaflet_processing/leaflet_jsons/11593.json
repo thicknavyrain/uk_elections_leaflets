@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "James Alexander",
+    "constituency": "York Outer",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Popular local MP is backing James Alexander",
+        "content": "John Grogan MP 'I’ve known James Alexander for 8 years now and he is a man above all who delivers on what he says. He’s strong energetic very capable and he would be an excellent first class MP.'"
+      },
+      {
+        "title": "Only Labour can beat the Tories",
+        "content": "A vote for the Lib Dems or any other party will let the Tories win."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "James Alexander",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "John Grogan MP",
+      "tacticalSituation": "A vote for the Lib Dems or any other party will let the Tories win."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "59 Holgate Road York YO24 4AA",
+      "phone": "",
+      "email": "",
+      "website": "www.labourcanwinyorkouter.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "John Grogan MP",
+        "endorsement": "John Grogan MP 'I’ve known James Alexander for 8 years now and he is a man above all who delivers on what he says. He’s strong energetic very capable and he would be an excellent first class MP.'"
+      },
+      {
+        "endorser": "Tony Benn",
+        "endorsement": "James is a guy I trust. I think he is someone you can rely on. He says what he means and means what he says."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "'James is a guy I trust. I think he is someone you can rely on. He says what he means and means what he says.'",
+        "source": "Tony Benn",
+        "date": "06/02/08"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Grogan MP showing support for James Alexander"
+        },
+        {
+          "caption": "James Alexander and Tony Benn"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

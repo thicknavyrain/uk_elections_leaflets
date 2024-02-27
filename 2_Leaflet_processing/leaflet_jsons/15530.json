@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A RECOVERING ECONOMY",
+        "content": "DON'T LET LABOUR WRECK IT."
+      },
+      {
+        "title": "SECURING BRITAIN'S FUTURE",
+        "content": ""
+      },
+      {
+        "title": "COALITION OF CHAOS",
+        "content": "Don't let the Tories risk it with UKIP. And your vote for Labour or the Lib Dems could let the SNP in by the back door."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Focused on conveying the risk of economic wrecking if Labour is voted for."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "A vote for Labour or the Lib Dems could let the SNP in by the back door."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Don't let Labour wreck it.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A wrecking ball labeled 'LABOUR' swinging into a recovering economy."
+        },
+        {
+          "caption": "David Cameron with members of his team."
+        },
+        {
+          "caption": "Illustration of potential political figures in a 'coalition of chaos'."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

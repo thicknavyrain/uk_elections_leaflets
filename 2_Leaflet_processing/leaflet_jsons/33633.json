@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Aaron Bell",
+    "constituency": "Newcastle-under-Lyme",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "Only a majority government can get on with the country’s priorities",
+        "content": "At the end of this election, we’ll either get a Conservative majority – or a hung parliament. SNP to back Labour government only with Scottish independence vote."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Regenerate the town centre",
+        "policyDescription": "Work with local businesses and the council to regenerate the town centre using the Government's £25m investment."
+      },
+      {
+        "policyTitle": "Support local jobs",
+        "policyDescription": "As co-owner of a startup business, help bring high-skilled, better-paid jobs to the borough."
+      },
+      {
+        "policyTitle": "Improve public safety",
+        "policyDescription": "Bring state-of-the-art CCTV coverage to the town centre and work with the Police to crack down on anti-social behaviour and rural crime."
+      },
+      {
+        "policyTitle": "Ensure hospital funding",
+        "policyDescription": "Ensure our hospital gets a share of the extra £33.9 billion for the NHS."
+      },
+      {
+        "policyTitle": "Reduce congestion and emissions",
+        "policyDescription": "Reduce congestion and emissions with better public transport and better roads, including a remodelled junction J15 of the M6 motorway."
+      },
+      {
+        "policyTitle": "Deliver Brexit",
+        "policyDescription": "Vote in Parliament to deliver Brexit without further delay."
+      }
+    ],
+    "mentions": {
+      "candidate": "Aaron Bell",
+      "otherPartyLeaderCandidate": "SNP",
+      "partyLeader": "",
+      "tacticalSituation": "A vote for Labour means another hung parliament, propped up by parties like the Scottish Nationalists and there's mention of SNP backing Labour only with a Scottish independence vote."
+    },
+    "issues": {
+      "brexitEurope": "Voted to Leave the EU along with 62% of Newcastle residents. It's time to get Brexit done: will use my vote in Parliament to deliver Brexit without further delay.",
+      "economy": "",
+      "education": "",
+      "environment": "Reduce congestion and emissions with better public transport and better roads.",
+      "governance": "",
+      "health": "Ensure our hospital gets a share of the extra £33.9 billion for the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Work with local businesses and the council to regenerate the town centre using the Government's £25m investment.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Better hospitals. Safer streets. Improved schools. Let’s get on with our priorities.",
+        "source": "Conservatives",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Aaron Bell for Newcastle-under-Lyme"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

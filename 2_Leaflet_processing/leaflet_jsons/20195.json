@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Tynedale",
+    "politicalParty": "Green Party",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "It's time to vote for real change",
+        "content": "Imagine a political system that works, Imagine a fair economy, Imagine a just society, Imagine a sustainable planet. That's the world we want to create and we believe we have the means to do it."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Political System",
+        "policyDescription": "Advocating for a political system that works"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Aiming for a fair economy"
+      },
+      {
+        "policyTitle": "Society",
+        "policyDescription": "Striving for a just society"
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Working towards a sustainable planet"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Imagine a fair economy",
+      "education": "",
+      "environment": "Imagine a sustainable planet",
+      "governance": "Imagine a political system that works",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "NE49 0HS",
+      "phone": "",
+      "email": "",
+      "website": "greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "Tynedale Green Party",
+        "twitter": "@TynedaleGreens",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "It's time to vote for real change"
+        }
+      ]
+    },
+    "additionalNotes": "Vote Green on 7th May for the common good"
+  }
+}
+```

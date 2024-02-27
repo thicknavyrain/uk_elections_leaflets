@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jane Berney",
+    "constituency": "Saffron Walden",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "The cost-of-living crisis",
+        "content": "Jane Berney says: 'I know that people in this constituency work hard, but the cost of living is a challenge. Labour will raise the Minimum Wage to £8 an hour by 2020 - equivalent to a £3,000 pay rise for a full time worker on the Minimum Wage. Labour will cut taxes for 24 million working people; through a lower starting rate of tax. People here will be better off with Labour.'"
+      },
+      {
+        "title": "The NHS - a safe future",
+        "content": "Our NHS should always be there for you and your family when you need it most. Labour will secure the future of our National Health Service with 20,000 more nurses and 8,000 extra GPs. The Tories have put private sector before patients and left A&E departments facing the worst crisis since records began. Their plans would reduce public spending to levels not seen since the 1930s, before there was an NHS. The NHS as we know it cannot survive five more years of the Tories."
+      },
+      {
+        "title": "Hope for young people",
+        "content": "Under the Tories, almost 75,000 of our young people are out of work. Labour will make sure our young people get the opportunity to develop the skills they need. Labour will expand apprenticeships to as many as 80,000 a year for Essex people will start an apprenticeship before they turn 25. Labour will guarantee a job or training to every young person unemployed for a year with proper qualifications."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Public transport is a vital factor in our constituency, both in rural and urban areas. People need reliable bus services tailored to their daily needs."
+      },
+      {
+        "policyTitle": "Children and families",
+        "policyDescription": "All primary school children will be guaranteed access to childcare before and after school between 8am and the General Election. Working parents with 3-4 year olds will get help too. Labour will increase the free childcare available to working parents from 15 hours a week to 25 hours a week."
+      },
+      {
+        "policyTitle": "Tackling the housing crisis",
+        "policyDescription": "People across Essex are struggling with housing costs because David Cameron isn't getting enough houses built. Labour will tackle the housing crisis and get Britain building again. Labour will get 200,000 homes built a year by 2020, creating up to 230,000 construction jobs, and will get a fair deal for private sector tenants with a national register of private landlords and an end to rip-off fees and charges."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jane Berney",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will secure the future of our National Health Service with 20,000 more nurses and 8,000 extra GPs.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour will get 200,000 homes built a year by 2020, creating up to 230,000 construction jobs.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "SWCLP, 7 Mount Pleasant Road, Saffron Walden CB11 3EA",
+      "phone": "07941 104052",
+      "email": "labour4sw@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "Labour: Saffron Walden",
+        "twitter": "@SWLabour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A photo of Jane Berney holding a 'Vote Labour' placard."
+        },
+        {
+          "caption": "Jane Berney with a family."
+        },
+        {
+          "caption": "Jane Berney shaking hands with a gentleman."
+        }
+      ]
+    },
+    "additionalNotes": "My pledges to you include: fighting against backdoor privatization of the NHS, wanting the best for children's education, seeking a joined-up system for health and social care, needing housing which meets the needs of local communities, and striving for responsive transport which is fit for both rural and urban areas."
+  }
+}
+```

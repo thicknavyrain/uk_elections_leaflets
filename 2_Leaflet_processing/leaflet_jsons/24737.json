@@ -1,0 +1,56 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Stone",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Don't forget!",
+        "content": "Polling day is Thursday 7 May. Vote Labour on Thursday. On Thursday, remember to vote Labour for a better future for Stone"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Don't forget! Polling day is Thursday 7 May. Vote Labour on Thursday. On Thursday, remember to vote Labour for a better future for Stone"
+        }
+      ]
+    },
+    "additionalNotes": "Polls are open 7am to 10pm"
+  }
+}

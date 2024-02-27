@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Peter Cuthbertson",
+	"constituency": "Darlington",
+	"politicalParty": "Conservative",
+	"electionDate": "May's elections",
+	"messages": [
+  	{
+    	"title": "Plans by the Labour Party",
+    	"content": "You will be aware of plans by the Labour Party to build a council estate on Bellburn Lane field if they win in May's elections."
+  	},
+  	{
+    	"title": "Local Green Space",
+    	"content": "I have fully taken on board the degree of concern you feel about these proposals for replacing your local green space with a council estate."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Preserving Local Green Space",
+    	"policyDescription": "Peter Cuthbertson is committed to opposing the proposals to replace the Bellburn Lane field with a council estate, stressing the importance of the field for socialising, walking dogs, playing football, and children's play."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Peter Cuthbertson",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "This is the last chance to elect a new set of representatives who will protect Bellburn Lane field."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "The field is widely used for socializing, walking dogs, playing football and children's play. It is the only area of its kind for some distance, worth preserving.",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Proposal to build a council estate on Bellburn Lane field.",
+      	"yimbyNimby": "NIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "I am writing to say I am 100% on your side. Like Richard Grundy, Rachel Mills and Chris Wells (the local Conservative council candidates), I am completely opposed to these proposals.",
+	"politicalExperience": [
+  	{
+    	"role": "Conservative council candidate",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "5 Coniscliffe Road, Darlington, DL3 7EE",
+  	"phone": "07518 056544",
+  	"email": "peter@petercuthbertson.com",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Richard Grundy, Rachel Mills and Chris Wells",
+    	"endorsement": "Showing united opposition to Labour's plans alongside other Conservative council candidates."
+  	}
+	],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Flyer discussing the opposition to Labour's plan to build on Bellburn Lane field."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

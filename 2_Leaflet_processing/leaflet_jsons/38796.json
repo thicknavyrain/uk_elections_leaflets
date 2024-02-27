@@ -1,0 +1,103 @@
+{
+  "leaflet": {
+    "candidateName": "Ruth Edwards",
+    "constituency": "Rushcliffe",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "Election Communication",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "£33.9 billion extra for the NHS."
+      },
+      {
+        "policyTitle": "Police",
+        "policyDescription": "20,000 extra police officers."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Get Brexit done with our new deal."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ruth Edwards",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Jo Swinson, Nicola Sturgeon",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": "It’s a hung parliament – or a Conservative majority. Your local vote will decide it. A Lib Dem-Conservative coalition is not an option."
+    },
+    "issues": {
+      "brexitEurope": "Get Brexit done with our new deal.",
+      "economy": "£3.6 billion to help towns invest and attract new businesses",
+      "education": "More funding for every pupil in every school.",
+      "environment": "Ending our contribution to global warming by 2050",
+      "governance": "",
+      "health": "£33.9 billion extra for the NHS, 40 new hospitals across the country",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "33923009 08547",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Jo Swinson says no to second Tory alliance.",
+        "source": "THE HERALD",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ruth Edwards with Boris Johnson."
+        },
+        {
+          "caption": "Ruth Edwards campaigning."
+        },
+        {
+          "caption": "Promotional material for the NHS."
+        },
+        {
+          "caption": "Statistics about investment in towns and schools."
+        },
+        {
+          "caption": "Ruth Edwards with police officers."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

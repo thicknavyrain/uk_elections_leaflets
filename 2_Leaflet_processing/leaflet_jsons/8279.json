@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Steven Binney",
+    "constituency": "Edinburgh",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "5 MORE YEARS OF LABOUR OR CHANGE WITH THE CONSERVATIVES",
+        "content": "In just a few weeks we will have the most important election for a generation. Our economy is burdened by huge debts and millions are out of work. Our society is broken by crime and irresponsible behaviour. Our political system is in a mess. We can't go on like this."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "A Conservative government will take bold action on all fronts. We'll cut Labour's waste and debt to get our economy moving. We'll support families and back people who do the right thing to encourage responsibility in our society and we'll make sure pensioners are supported as well."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "A Conservative government will enact big changes in our political system. We’ve led the way on cleaning up MPs’ expenses and we will finish the job by scraping the perks and cutting the cost of Parliament. Most importantly, we'll take power away from the political elite to give you more control over your life."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Calls for a joined up transport policy to address issues with the transport system in west Edinburgh."
+      },
+      {
+        "policyTitle": "Housing and Planning",
+        "policyDescription": "Disagreement with the planning system, where 400 homes are being built in Kirkliston where they are unwanted and no local infrastructure is being provided. Commitment to finding the right solutions for communities."
+      }
+    ],
+    "mentions": {
+      "candidate": "Steven Binney",
+      "otherPartyLeaderCandidate": "The LibDems",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A Conservative government will take bold action on all fronts. We'll cut Labour's waste and debt to get our economy moving.",
+      "education": "",
+      "environment": "",
+      "governance": "We’ve led the way on cleaning up MPs’ expenses and we will finish the job by scraping the perks and cutting the cost of Parliament.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "We'll support families and back people who do the right thing to encourage responsibility in our society and we'll make sure pensioners are supported as well.",
+      "housing": [
+        {
+          "content": "The planning system is a shambles. 400 homes are being built in Kirkliston where they are unwanted and no local infrastructure is being provided.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Steven Binney with another individual discerning documents by an ACCESS sign."
+        },
+        {
+          "caption": "Steven Binney conversing with a woman in a parking lot."
+        },
+        {
+          "caption": "Traffic on the road indicating transport issues in west Edinburgh."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet discusses Steven Binney's efforts in local matters such as opposing the closure of Drum brae school and supporting both Bethany Christian Trust and The Rock Trust in Edinburgh, making a real difference in fighting against homelessness."
+  }
+}
+```

@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gareth Snell",
+    "constituency": "Stoke-on-Trent Central",
+    "politicalParty": "Labour and Co-operative",
+    "electionDate": "Thursday 12 December",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Gareth Snell",
+      "otherPartyLeaderCandidate": "Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": "ONLY GARETH SNELL CAN STOP THE CONSERVATIVES IN STOKE-ON-TRENT CENTRAL"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "ONLY GARETH SNELL CAN STOP THE CONSERVATIVES IN STOKE-ON-TRENT CENTRAL"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

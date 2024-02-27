@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "North East",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "THE TORIES ALWAYS TRASH THE NORTH EAST",
+        "content": "People are poorer\nHospital services closing\nWaiting lists are longer\nCrime going up\nTeachers losing their jobs\nPensions are at risk"
+      },
+      {
+        "title": "THE TORIES HAVE WRECKED THE NORTH EAST BEFORE",
+        "content": "AND THEY'LL DO IT AGAIN! YOU CANNOT TRUST THE TORIES"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public Services",
+        "policyDescription": "Protection of schools, hospitals, and police services from risks posed by Tory policies."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "People are poorer",
+      "education": "Teachers losing their jobs",
+      "environment": "",
+      "governance": "",
+      "health": "Hospital services closing\nWaiting lists are longer",
+      "immigration": "",
+      "socialWelfare": "Pensions are at risk",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Return address: The Labour Party, c/o Potts Print (UK), Atlas House, Nelson Park, Cramlington, Northumberland, NE23 1WG\nPromoted by: Ray Sexton on behalf of Labour North East, both at Labour Central, Kings Manor, Newcastle upon Tyne. E&OE. Printed by Sterling Press (UK), Atlas House, Venture Park, Kettering, Northamptonshire NN15 6XU.",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A picture of a former Tory leader with a text overlay: 'THE TORIES HAVE WRECKED THE NORTH EAST BEFORE... AND THEY'LL DO IT AGAIN! YOU CANNOT TRUST THE TORIES'"
+        }
+      ]
+    },
+    "additionalNotes": "#VoteLabour"
+  }
+}
+```

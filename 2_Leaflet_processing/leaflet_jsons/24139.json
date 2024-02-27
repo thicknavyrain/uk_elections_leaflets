@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Emily Darlington",
+	"constituency": "Milton Keynes North",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+	  {
+		"title": "The Big CHOICE",
+		"content": "Politics as usual or a new start for Milton Keynes North"
+	  }
+	],
+	"keyPolicies": [
+	  {
+		"policyTitle": "Healthcare",
+		"policyDescription": "People waiting too long to get a doctor's appointment; NHS running a good will and professionalism of staff."
+	  }
+	],
+	"mentions": {
+	  "candidate": "Emily Darlington is campaigning in your area - GP in Newton Leys and North Bucks",
+	  "otherPartyLeaderCandidate": "",
+	  "partyLeader": "",
+	  "tacticalSituation": "A new start for Milton Keynes"
+	},
+	"issues": {
+	  "brexitEurope": "",
+	  "economy": "",
+	  "education": "",
+	  "environment": "",
+	  "governance": "",
+	  "health": "People waiting too long to get a doctor's appointment; NHS running a good will and professionalism of staff.",
+	  "immigration": "",
+	  "socialWelfare": "",
+	  "housing": [
+		{
+		  "content": "",
+		  "yimbyNimby": "N/A"
+		}
+	  ]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+	  {
+		"role": "",
+		"duration": "",
+		"achievements": ""
+	  }
+	],
+	"contactInformation": {
+	  "address": "",
+	  "phone": "",
+	  "email": "emily4mk@hotmail.co.uk",
+	  "website": "",
+	  "socialMedia": {
+		"facebook": "",
+		"twitter": "",
+		"instagram": "",
+		"linkedin": ""
+	  }
+	},
+	"endorsements": [
+	  {
+		"endorser": "",
+		"endorsement": ""
+	  }
+	],
+	"quotes": [
+	  {
+		"text": "",
+		"source": "",
+		"date": ""
+	  }
+	],
+	"campaignMaterial": {
+	  "images": [
+		{
+		  "caption": "Emily Darlington with residents"
+		}
+	  ]
+	},
+	"additionalNotes": "The text on the leaflet is not fully visible and thus some fields have been left empty as the information required could not be extracted from the available content."
+  }
+}
+```

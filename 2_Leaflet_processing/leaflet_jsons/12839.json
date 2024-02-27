@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jim Fitzpatrick",
+    "constituency": "Poplar and Limehouse",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Affordable Housing",
+        "policyDescription": "Secure the construction of a minimum of 2,500 affordable homes in the next 5 years."
+      },
+      {
+        "policyTitle": "Crime and Anti-social Behaviour",
+        "policyDescription": "Fight crime and anti-social behaviour by ensuring Neighborhood Police Team patrols at needed times and places."
+      },
+      {
+        "policyTitle": "Health Centres",
+        "policyDescription": "Ensure all health centres are completely rebuilt or refurbished, securing investment and replacement of the Gill Street health centre and constructing new ones at St. Andrew’s in Bromley and St. Clement’s in Mile End."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Have enough places at our schools by finding resources to invest in George Green’s School and ensuring enough places are available at primary schools."
+      },
+      {
+        "policyTitle": "London Minimum Wage",
+        "policyDescription": "Work to have Poplar and Limehouse residents earn a London Minimum Wage of £7.60 an hour due to higher living costs in London."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jim Fitzpatrick",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Secure the construction of a minimum of 2,500 affordable homes in the next 5 years.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I promise that I will use the power invested in the office of MP, and my skills, knowledge and experience gained as your Member of Parliament for the past 13 years, to make Poplar and Limehouse a better place for everyone living here in our community.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign leaflet page for Jim Fitzpatrick, Labour candidate for Poplar and Limehouse."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

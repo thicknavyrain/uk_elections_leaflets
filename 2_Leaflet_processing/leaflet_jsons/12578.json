@@ -1,0 +1,53 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Reed",
+    "constituency": "Wansbeck Constituency",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Simon Reed",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "7 Garcia Drive, Ashington, NE63 9HF",
+      "phone": "01670 810119",
+      "email": "sensiblesimon@aim.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Simon Reed - local choice, local champion"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

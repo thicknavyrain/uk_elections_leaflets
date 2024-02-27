@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "VOTE TO END THIS MESS",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "ONLY THE LIB DEMS CAN BEAT LABOUR HERE"
+    },
+    "issues": {
+      "brexitEurope": "Labour is proposing to negotiate a new deal with the European Union. 'Labour is not a Remain party' - Len McCluskey, November 2019",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Jeremy Corbyn refused NINE TIMES to say whether he thought Britain should leave the EU or remain.",
+        "source": "The Telegraph, November 2019",
+        "date": "November 2019"
+      },
+      {
+        "text": "Labour is proposing to negotiate a new deal with the European Union.",
+        "source": "The Times, November 2019",
+        "date": "November 2019"
+      },
+      {
+        "text": "Labour is not a Remain party",
+        "source": "Len McCluskey, November 2019",
+        "date": "November 2019"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Jeremy Corbyn with the headline 'VOTE TO END THIS MESS'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

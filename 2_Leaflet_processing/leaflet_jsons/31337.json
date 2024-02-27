@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Angela Smith",
+    "constituency": "Altrincham and Sale West",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Only I can beat the Conservatives here",
+        "content": "Angela Smith says 'The election here in Altrincham and Sale West is between me and the Conservative candidate. Just look at the result here last time.'"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Brexit",
+        "policyDescription": "Stop Brexit from damaging jobs and opportunity in Trafford."
+      },
+      {
+        "policyTitle": "Fighting for more money for schools",
+        "policyDescription": "Fighting for more money for all of our local schools."
+      },
+      {
+        "policyTitle": "Constituent accessibility",
+        "policyDescription": "Having an office available for constituents to visit their MP."
+      }
+    ],
+    "mentions": {
+      "candidate": "Angela Smith",
+      "otherPartyLeaderCandidate": "The Conservative MP",
+      "partyLeader": "",
+      "tacticalSituation": "The election here in Altrincham and Sale West is between me [Angela Smith] and the Conservative candidate."
+    },
+    "issues": {
+      "brexitEurope": "Stop Brexit from damaging jobs and opportunity in Trafford.",
+      "economy": "",
+      "education": "Fighting for more money for all of our local schools.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "\"I hope people make their vote count this time and back an MP Trafford can be proud of.\"",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.traffordlibdems.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet image with Angela Smith's three-step plan for Altrincham and Sale West, her statement regarding the competition with the Conservative candidate, and the results from a previous election."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes previous election results indicating a tactical voting situation: 'Lib Dem 31%' and 'Con & Brexit 32%' with 'Lab 12%'."
+  }
+}
+```

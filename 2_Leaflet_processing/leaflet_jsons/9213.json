@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Steve Terry",
+    "constituency": "Hertford and Stortford",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "Putting local people first",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "For hard working families",
+        "policyDescription": "Keep the tax credit system."
+      },
+      {
+        "policyTitle": "For young people",
+        "policyDescription": "Support one-to-one tuition for every child that needs it."
+      },
+      {
+        "policyTitle": "For the next generation",
+        "policyDescription": "Expand upon the four Sure Start Centres in Hertford and Stortford."
+      },
+      {
+        "policyTitle": "For pensioners",
+        "policyDescription": "Support Labour's planned National Care Service."
+      },
+      {
+        "policyTitle": "For safer communities",
+        "policyDescription": "Continue to invest in high profile policing."
+      }
+    ],
+    "mentions": {
+      "candidate": "Steve Terry",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Labour has invested record sums in your NHS. The new Hertford County hospital continues to expand its services and now includes a GP out-of-hours service and an urgent care centre.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "As a first time house buyer, I need low interest rates and job security. The Tories would put the economy at risk.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Hertford & Stortford Labour Party, PO Box 6984, Bishop's Stortford, Hertfordshire, CM23 3NZ.",
+      "phone": "01279 508557",
+      "email": "steveterry4mp@hotmail.co.uk",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Kester Jones, Local Resident",
+        "endorsement": "As a first time house buyer, I need low interest rates and job security. The Tories would put the economy at risk."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Steve Terry with constituents"
+        },
+        {
+          "caption": "Labour working with locals on road safety in Canons Close."
+        },
+        {
+          "caption": "Labour's commitment to Hertford Regional College and providing first-class facilities."
+        }
+      ]
+    },
+    "additionalNotes": "Don't let the Tories ruin your NHS. Labour, working with local residents, won investment to improve road safety in Canons Close. Labour are working hard to protect local businesses and services. Don't let the Tories put it at risk. Labour's money has rebuilt Hertford Regional College and provided first-class facilities."
+  }
+}
+```

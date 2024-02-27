@@ -1,0 +1,65 @@
+{
+  "leaflet": {
+    "candidateName": "Sam Corcoran",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Speculative Housing Developments",
+        "policyDescription": "Stop speculative housing developments"
+      },
+      {
+        "policyTitle": "Save Our Schools",
+        "policyDescription": "Save our schools"
+      }
+    ],
+    "mentions": {
+      "candidate": "Sam Corcoran",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Stop speculative housing developments",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Don't forget! Polling day is Thursday 8 June"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

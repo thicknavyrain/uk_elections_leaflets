@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Malcolm Bruce",
+    "constituency": "Gordon",
+    "politicalParty": "Scottish Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The best choice for Gordon",
+        "content": "Campaigning to keep the Number 5 bus link between Dufford, Danestone and Aberdeen Royal Infirmary and the city centre. Fighting for the Post Office service Gordon deserves."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Fairer taxes that put money back in your pocket; Nick Clegg's tax plan means you will pay no tax on the first £10,000 you earn – cutting most tax bills by £700."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "A fair chance for every child; The Lib Dems would give more cash for schools to recruit more teachers, smaller class sizes and one-to-one tuition."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "A fair future: creating jobs by making the UK greener; A Lib Dem government would invest in public transport, renewable energy and energy-efficient homes."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "A fair deal for you from the politicians; We would make politicians accountable and give you the right to sack corrupt MPs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Malcolm Bruce",
+      "otherPartyLeaderCandidate": "Nick Clegg",
+      "partyLeader": "",
+      "tacticalSituation": "With the Conservatives and Labour out of the race, the choice here is between Malcolm Bruce and the SNP candidate."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Launching the campaign for a new health centre for Ellon.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Having raised a young family here, I know just how important good schools, health care and transport links are. Ensuring that these get the investment that they need is crucial to securing local jobs.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "John Russell, 7 Mathers Place, Newburgh, Ellon, AB41 6DT",
+      "phone": "",
+      "email": "",
+      "website": "www.malcolmbruce.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Independent/PoliticsHome largest representative UK poll, Autumn 2009",
+        "endorsement": "Liberal Democrat MPs were more highly regarded by their constituents than Conservative or Labour were by theirs."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Liberal Democrat MPs were more highly regarded by their constituents than Conservative or Labour were by theirs.",
+        "source": "Independent/PoliticsHome largest representative UK poll, Autumn 2009",
+        "date": "Autumn 2009"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Malcolm Bruce with constituents and supporting local services."
+        },
+        {
+          "caption": "Malcolm Bruce official campaign portrait."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

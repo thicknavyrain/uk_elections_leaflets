@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Clive Martin",
+    "constituency": "Taunton Deane",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "Vote for what you believe in",
+        "content": "Imagine a political system that helps everyone, protecting everyone's needs. Imagine a planet protected from the threat of climate change now and for the generations to come. That's the future we want to create - and believe we have the means to do it."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "#publicNHS",
+        "policyDescription": "Fight for a publicly funded, publicly provided health service free at the point of use."
+      },
+      {
+        "policyTitle": "#faireconomy",
+        "policyDescription": "End austerity and restore the public sector, creating over one million good jobs that pay at least a living wage, and pay for this with a new Wealth Tax on the top 1%, Robin Hood tax on the banks, and closing loopholes. Increase the minimum wage to a living wage of £10 an hour by 2020."
+      },
+      {
+        "policyTitle": "#decenthomes",
+        "policyDescription": "Build 500,000 social rented homes by 2020 and bring empty homes back into use to ensure everyone has an affordable place to live. Cap rent and introduce longer tenancies to provide greater protections for renters."
+      },
+      {
+        "policyTitle": "#safeclimate",
+        "policyDescription": "Take serious action on climate change by working with other countries to ensure global temperatures do not rise beyond 2 degrees. Phase out fossil-fuel based energy generation and invest in a public programme of renewable generation, insulation of new and old buildings."
+      },
+      {
+        "policyTitle": "#freeeducation",
+        "policyDescription": "Scrap university tuition fees. Promote a comprehensive system of local schools offering mixed ability teaching staffed by qualified teachers. Bring Academies and Free Schools into the Local Authority system."
+      },
+      {
+        "policyTitle": "#bettertransport",
+        "policyDescription": "Return the railways to public hands to stop profits being put before passengers. Introduce an immediate cut in fares of 10% to give passengers a much-needed break. Promote walking and cycling to help reduce pollution and improve people’s health."
+      }
+    ],
+    "mentions": {
+      "candidate": "Clive Martin",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Restore the public sector, creating over one million good jobs. Pay for this with new taxes and closing loopholes.",
+      "education": "Scrap university tuition fees. Promote comprehensive local schools.",
+      "environment": "Take action on climate change to ensure global temperatures do not rise beyond 2 degrees. Phase out fossil-fuel based energy.",
+      "governance": "",
+      "health": "Fight for a publicly funded and provided NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Build 500,000 social rented homes by 2020 and bring empty homes back into use.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Clive Martin is standing for the Green Party in Taunton Deane in the General Election.",
+    "politicalExperience": [
+      {
+        "role": "Green Party Parish Councillor",
+        "duration": "10 years",
+        "achievements": "Led the opposition to the covering a cycle path from Bishops Lydeard to Taunton. Supported local co-operatives and community energy schemes. Campaigned against austerity and badger cull. Opposed the privatisation of the health service."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07511 061 016",
+      "email": "clive.martin@greenparty.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "TauntonDeaneGreenParty",
+        "twitter": "@TGreenParty",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Vote Green and you can help us build a society that works for the Common Good.",
+        "source": "Natalie Bennett, Green Party Leader",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Clive Martin standing next to a house with solar panels."
+        }
+      ]
+    },
+    "additionalNotes": "The Green Party opposes austerity, privatisation of public assets and services, and supports renewable energy and social justice."
+  }
+}
+```

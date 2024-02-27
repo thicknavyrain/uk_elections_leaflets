@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ann Duncan",
+    "constituency": "Oxford East",
+    "politicalParty": "Green Party",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "GREENS MOST POPULAR HERE",
+        "content": "Here, it’s a race between Labour and the Green Party's Ann Duncan: the Lib Dems have turned their back on areas like ours, and the Tories haven’t had a chance here for decades. Vote Green in 2015. Since September, Green Party membership has almost trebled across the UK. More and more people are turning away from the parties of the establishment and demanding change, and Oxford East is one of our best chances in the UK."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Challenge inequality and stand up to the wealthiest 1%",
+        "policyDescription": "Taxing millionaires and multinational corporations."
+      },
+      {
+        "policyTitle": "Protect the NHS",
+        "policyDescription": "Bringing it fully back into public hands and taxing the wealthy to give the funding it needs."
+      },
+      {
+        "policyTitle": "Provide our care workers, youth centres, libraries and other key services with the funding they need",
+        "policyDescription": "Investment in care workers, youth centers, libraries, and other key services."
+      },
+      {
+        "policyTitle": "Take action on the housing crisis",
+        "policyDescription": "Including the funding of new council housing."
+      },
+      {
+        "policyTitle": "Challenge those who scapegoat immigrants",
+        "policyDescription": "Defend friends and neighbours of migrants and migrants themselves, celebrating Oxford’s history as an international, welcoming city."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ann Duncan",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "It’s a race between Labour and the Green Party's Ann Duncan: the Lib Dems have turned their back on areas like ours, and the Tories haven’t had a chance here for decades."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protect the NHS by bringing it fully back into public hands and taxing the wealthy to give it the funding it needs.",
+      "immigration": "Challenge those who scapegoat immigrants - defend friends and neighbours of migrants, and the migrants themselves.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Take action on the housing crisis: we’re fighting for more homes, including the funding of new council housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "07751 088 829",
+      "email": "ann@greenoxfordshire.com",
+      "website": "www.greenoxfordshire.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Ann Duncan, Green Party Candidate for Oxford East."
+        }
+      ]
+    },
+    "additionalNotes": "Greens most popular here, Oxfordshire Green Party called today to have a chat about the general election on Thursday 7 May. A vote for Ann Duncan, who is standing to be your Green MP here in Oxford East, is a vote to: (1) Challenge inequality and stand up to the wealthiest 1% by taxing millionaires and multinational corporations. (2) Protect the NHS by bringing it fully back into public hands and taxing the wealthy to give the funding it needs. (3) Provide our care workers, youth centers, libraries and other key services with the funding they need. (4) Take action on the housing crisis: we’re fighting for more homes, including the funding of new council housing. (5) Challenge those who scapegoat immigrants - defend friends and neighbours of migrants, and the migrants themselves."
+  }
+}
+```

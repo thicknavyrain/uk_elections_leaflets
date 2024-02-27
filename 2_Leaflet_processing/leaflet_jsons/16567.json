@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Norman",
+    "constituency": "Southend Central",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Police Cuts Hit Victoria",
+        "content": "Being in the centre of Southend, parts our ward do suffer from significant problems of crime and anti-social behaviour. Conservative's savage police cuts; which means less community support, fewer PCSOs, fewer Special Constables and fewer local bobbies on the beat."
+      },
+      {
+        "title": "Poets Estate - Road Safety",
+        "content": "Ward Councillor David Norman has presented a petition to the Council containing over 200 signatures calling for road safety measures to be introduced on the \"Poets\" estate. Concerns about motorists using the estate as a rat run and the risk to children as cars often drive through the estate at high speed."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Community Safety",
+        "policyDescription": "Addressing issues of crime and anti-social behaviour in the ward due to Conservative police cuts."
+      },
+      {
+        "policyTitle": "Road Safety on Poets Estate",
+        "policyDescription": "Pressing for the introduction of road safety measures on the Poets estate in consultation with local residents, due to concerns of the area being used as a shortcut by motorists and the associated risks, particularly to children."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Norman",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Residents of the area, between Sutton Road and Bournemouth Park Road, have been increasingly concerned by motorists using the estate as a rat run.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Ward Councillor",
+        "duration": "",
+        "achievements": "Presented a petition with over 200 signatures for road safety measures on the Poets estate."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "http://www.police.uk/essex/85/neighborhood-policing/e-voice/ws-and-events/",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Norman standing on Browning Avenue."
+        }
+      ]
+    },
+    "additionalNotes": "Local Community Meeting for Southend Central; a police-led meeting open to all members of the community."
+  }
+}
+```

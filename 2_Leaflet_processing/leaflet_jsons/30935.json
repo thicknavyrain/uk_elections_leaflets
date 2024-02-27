@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jeff Smith",
+    "constituency": "Manchester South",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "TODAY IS POLLING DAY",
+        "content": "Polls are open from 7 AM until 10 PM. Vote Jeff Smith for Manchester South."
+      },
+      {
+        "title": "5 Things to Remember",
+        "content": "Polling station location, need to vote, staff at the polling station, if not received or lost your poll card, contact Local Returning Officer."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Your Local Voice in Parliament",
+        "policyDescription": "Jeff Smith standing up for Manchester South."
+      },
+      {
+        "policyTitle": "Stop Cuts to Local Services",
+        "policyDescription": "Jeff Smith aims to stop cuts to local services."
+      },
+      {
+        "policyTitle": "Rescue our Schools",
+        "policyDescription": "Jeff Smith is committed to rescuing our schools with better funding."
+      },
+      {
+        "policyTitle": "A Fair Police Deal",
+        "policyDescription": "Jeff Smith is campaigning for a fair police deal for Manchester streets."
+      },
+      {
+        "policyTitle": "Fight for NHS",
+        "policyDescription": "Jeff Smith seeks to fight more for the NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jeff Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Rescue our schools funding.",
+      "environment": "",
+      "governance": "",
+      "health": "Fight for more NHS funding.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jeff Smith with a caption 'Vote Jeff Smith Labour Today'"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet focuses on reminding constituents to vote and highlights key policy areas such as stopping cuts to local services, rescuing schools, securing a fair deal for police, and fighting for the NHS."
+  }
+}
+```

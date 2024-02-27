@@ -1,0 +1,110 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Vince Cable",
+    "constituency": "Twickenham",
+    "politicalParty": "Lib Dems",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "All about Vince",
+        "content": "MP for Twickenham for 18 years. Helped 10,000 local people and a strong supporter of local voluntary groups/charities. Five years as Secretary of State for Business, Innovation and Skills - delivering a huge increase in apprenticeships; supported science and technology; launched the Green Investment Bank and a Business Bank."
+      },
+      {
+        "title": "Local people say: \"Bring Back Vince\"",
+        "content": "Everyone knows the outcome of this election at a national level is nearly certain to be a Conservative landslide. There's no question of Lib Dems in any coalitions. But a healthy democracy needs a healthy opposition. If you re-elect me as your MP, I will introduce a calm, rational and moderate, voice into the debate on our country's future. Most voters do not want to see a one-party state. They want to see constructive and sensible opposition. I have the passion, determination and commitment to be your voice in Parliament. I very much hope you will give me the opportunity to represent our local community again."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "The Conservative 'triple lock' guarantee on pensions is abandoned, pensioners are in danger of becoming poorer. Basic pensions are very low, so I believe that this guarantee should continue to help guarantee the incomes of older people who may rely on it."
+      },
+      {
+        "policyTitle": "Our NHS",
+        "policyDescription": "I have and will support local hospitals: West Middlesex, Kingston and Teddington. An extra penny on income tax, an average of £3 a week, will ease the immediate NHS crisis."
+      },
+      {
+        "policyTitle": "Local schools",
+        "policyDescription": "Young families are being hit by the severe cuts to school budgets by the Conservative government on our excellent schools. Teachers and assistants are being made redundant. I opposed these cuts when I was in Government, and I will make fighting them a priority if returned as your MP."
+      },
+      {
+        "policyTitle": "No Coalitions - say Lib Dems",
+        "policyDescription": "Can give a categorical assurance that after this election the Liberal Democrats will not join a coalition with Labour or anyone else. The tactical position is different from 2010. With the Conservatives heading for a landslide, we need a strong, responsible and experienced representative in Parliament."
+      }
+    ],
+    "mentions": {
+      "candidate": "Vince Cable",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Can give a categorical assurance that after this election the Liberal Democrats will not join a coalition with Labour or anyone else. Understand tactical voting and need for a strong, responsible and experienced representative in Parliament due to Conservative landslide."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Five years as Secretary of State for Business, Innovation and Skills - delivering a huge increase in apprenticeships; supported science and technology; launched the Green Investment Bank and a Business Bank.",
+      "education": "Young families are being hit by the severe cuts to school budgets by the Conservative government on our excellent schools.",
+      "environment": "",
+      "governance": "Can give a categorical assurance that after this election the Liberal Democrats will not join a coalition with Labour or anyone else.",
+      "health": "I have and will support local hospitals: West Middlesex, Kingston and Teddington.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "MP for Twickenham for 18 years. Helped 10,000 local people and a strong supporter of local voluntary groups/charities.",
+    "politicalExperience": [
+      {
+        "role": "MP for Twickenham",
+        "duration": "18 years",
+        "achievements": "Helped 10,000 local people and a strong supporter of local voluntary groups/charities. Five years as Secretary of State for Business, Innovation and Skills - delivering a huge increase in apprenticeships; supported science and technology; launched the Green Investment Bank and a Business Bank."
+      },
+      {
+        "role": "Secretary of State for Business, Innovation and Skills",
+        "duration": "Five years",
+        "achievements": "A huge increase in apprenticeships; supported science and technology; launched the Green Investment Bank and a Business Bank."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.twlibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "vincecable",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Samantha Bond Actor, Twickenham",
+        "endorsement": "I'm backing Vince, He is a huge person for us and I believe for our nation"
+      },
+      {
+        "endorser": "Dorothy, Whitton",
+        "endorsement": "I'm a life long Labour supporter and I am voting for Vince. He's the only one who bothers. I never knew an MP who took up cases like he did."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Sir Vince's local popularity is a considerable advantage for the Lib Dems",
+        "source": "Financial Times, 21 April 2017",
+        "date": "2017-04-21"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vince Cable's campaign leaflet images"
+        }
+      ]
+    },
+    "additionalNotes": "Tactical voting considerations are evident in the statement about assuring no coalitions and aiming for a strong and experienced representative in Parliament due to a Conservative landslide."
+  }
+}
+```

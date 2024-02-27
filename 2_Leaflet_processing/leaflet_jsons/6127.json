@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lisa Northover",
+    "constituency": "Bournemouth East",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Lisa Northover",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.lisanorthover.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "VOTE VOTE FOR LISA NORTHOVER Liberal Democrat Prospective MP Bournemouth East"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet image does not provide detailed policies, statements, endorsements, or other specific text to be parsed into the respective fields."
+  }
+}
+```

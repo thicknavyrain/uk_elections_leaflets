@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "GREG MARSHALL",
+    "constituency": "BROXTOWE",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "YOUR LOCAL CANDIDATE",
+        "content": "FOR A BETTER BROXTOWE"
+      },
+      {
+        "title": "Broxtowe's local choice",
+        "content": "For years Broxtowe has desperately needed a local candidate committed to our communities. As we face a defining election I want to be the one to defend our NHS, tackle the climate crisis, improve our schools and bring our country together."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Defend our NHS"
+      },
+      {
+        "policyTitle": "Climate Crisis",
+        "policyDescription": "Tackle the climate crisis"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Improve our schools"
+      }
+    ],
+    "mentions": {
+      "candidate": "GREG MARSHALL",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Improve our schools",
+      "environment": "Tackle the climate crisis",
+      "governance": "",
+      "health": "Defend our NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "For years Broxtowe has desperately needed a local candidate committed to our communities. As we face a defining election I want to be the one to defend our NHS, tackle the climate crisis, improve our schools and bring our country together.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "106 Chilwell Rd, Beeston, Nottingham, NG9 1ES",
+      "phone": "07856 812006",
+      "email": "greg4broxtowe@gmail.com",
+      "website": "www.broxtowelabour.com",
+      "socialMedia": {
+        "facebook": "@greg4broxtowe",
+        "twitter": "@greg4broxtowe",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Greg Marshall with supporters holding signs 'FOR THE MANY NOT THE FEW'"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by David Jenkins on behalf of Greg Marshall at 106 Chilwell Rd, Beeston, NG9 1ES. Printed by G.P. Strategies, 78 Chilwell Rd, Beeston, NG9 1FQ"
+  }
+}
+```

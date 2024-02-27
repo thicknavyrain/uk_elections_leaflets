@@ -1,0 +1,69 @@
+{
+  "leaflet": {
+	"candidateName": "Kirsty",
+	"constituency": "Hampstead and Kilburn",
+	"politicalParty": "Liberal Democrat",
+	"electionDate": "8 June",
+	"messages": [],
+	"keyPolicies": [
+    	{
+      	"policyTitle": "Education",
+      	"policyDescription": "Reduce the pressure on the tight school places."
+    	},
+    	{
+      	"policyTitle": "Health",
+      	"policyDescription": "Campaign to save our local NHS services."
+    	},
+    	{
+      	"policyTitle": "Housing",
+      	"policyDescription": "Campaign for Council Homes & affordable housing and to hold the developers to account on Building on or around council estates."
+    	},
+    	{
+      	"policyTitle": "EU Citizens",
+      	"policyDescription": "Guarantee the rights of EU citizens."
+    	}
+	],
+	"mentions": {
+  		"candidate": "",
+  		"otherPartyLeaderCandidate": "",
+  		"partyLeader": "",
+  		"tacticalSituation": ""
+	},
+	"issues": {
+  		"brexitEurope": "",
+  		"economy": "",
+  		"education": "Reduce the pressure on the tight school places.",
+  		"environment": "",
+  		"governance": "",
+  		"health": "Campaign to save our local NHS services.",
+  		"immigration": "",
+  		"socialWelfare": "",
+  		"housing": [
+    		{
+      		"content": "Campaign for Council Homes & affordable housing and to hold the developers to account on Building on or around council estates.",
+      		"yimbyNimby": "N/A"
+    		}
+  		]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  		"address": "",
+  		"phone": "",
+  		"email": "kirsty4h&k@gmail.com",
+  		"website": "",
+  		"socialMedia": {
+    		"facebook": "",
+    		"twitter": "",
+    		"instagram": "",
+    		"linkedin": ""
+  		}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  		"images": []
+	},
+	"additionalNotes": ""
+  }
+}

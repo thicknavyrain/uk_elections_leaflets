@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "Romsey & Southampton North",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Labour Can Win",
+    	"content": "Labour won in Canterbury & Kensington. We can win in Romsey!"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Renationalise the NHS",
+    	"policyDescription": ""
+  	},
+  	{
+    	"policyTitle": "Railways",
+    	"policyDescription": "Bring railways up to scratch"
+  	},
+  	{
+    	"policyTitle": "Corporate Tax-Evasion",
+    	"policyDescription": "Stop Corporate tax-evasion"
+  	},
+  	{
+    	"policyTitle": "Education & Childcare",
+    	"policyDescription": "Free education and childcare"
+  	},
+  	{
+    	"policyTitle": "Free School Meals",
+    	"policyDescription": ""
+  	},
+  	{
+    	"policyTitle": "Student Loans",
+    	"policyDescription": "End student loans"
+  	},
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "New homes, Fair rents"
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "Labour won in Canterbury & Kensington. We can win in Romsey!"
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"New homes, Fair rents",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "labour.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Group of people with Labour banners suggesting that Labour can win in Romsey & Southampton North"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Julian Sturdy",
+	"constituency": "York Outer",
+	"politicalParty": "Conservatives",
+	"electionDate": "Thursday 12 December",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Invest in our transport network",
+    	"policyDescription": "Campaign to widen the A64 & improve rail links."
+  	},
+	{
+		"policyTitle": "Secure our share of NHS funding",
+		"policyDescription": "Push for further investment for specialized services."
+	},
+	{
+		"policyTitle": "More resources for local schools",
+		"policyDescription": "Build upon 6.49% per-pupil funding increase in York Outer."
+	},
+	{
+		"policyTitle": "Support local jobs",
+		"policyDescription": "Build upon the 13% average growth in wages for York in 2019."
+	},
+	{
+		"policyTitle": "Protect our environment",
+		"policyDescription": "Safeguard against inappropriate development."
+	},
+	{
+		"policyTitle": "Deliver Brexit",
+		"policyDescription": "Pass the PM's new deal and honour the result of the 2016 referendum."
+	}
+	],
+	"mentions": {
+  	"candidate": "Julian Sturdy",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Pass the PM's new deal and honour the result of the 2016 referendum.",
+  	"economy": "Build upon the 13% average growth in wages for York in 2019.",
+  	"education": "More resources for local schools - Build upon 6.49% per-pupil funding increase in York Outer.",
+  	"environment": "Protect our environment - Safeguard against inappropriate development.",
+  	"governance": "",
+  	"health": "Secure our share of NHS funding - Push for further investment for specialized services.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "01904 784 847",
+  	"email": "julian.sturdy@parliament.uk",
+  	"website": "juliansturdy.co.uk",
+  	"socialMedia": {
+    	"facebook": "@JulianSturdy",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "We called to see you today"
+    	},
+		{
+			"caption": "A strong local voice for York Outer"
+		},
+		{
+			"caption": "Let's get Brexit done and get on with our priorities."
+		}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alex Norris",
+    "constituency": "Nottingham North",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "Alex Norris - The Local Choice",
+        "content": "We need a strong, local voice in Parliament. It's important that we build on Graham Allen's achievements of the past 30 years, such as early intervention, and that we continue to push for more jobs in our area."
+      },
+      {
+        "title": "What would Labour do in Government?",
+        "content": "Labour has a fully-costed manifesto of policies that will make Britain a better place. These are paid for by cancelling unnecessary tax cuts for the best off and a tax rise on those earning more than £80,000 a year."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A £10 an hour minimum wage",
+        "policyDescription": "Labour plans to introduce a minimum wage of £10 per hour."
+      },
+      {
+        "policyTitle": "National investment bank",
+        "policyDescription": "Creation of a national investment bank is proposed."
+      },
+      {
+        "policyTitle": "Guaranteed Triple Lock for pensioners",
+        "policyDescription": "Labour intends to guarantee a Triple Lock for pensioners."
+      },
+      {
+        "policyTitle": "Investment in NHS and social care",
+        "policyDescription": "Plans to invest more in the NHS and social care are part of Labour's policies."
+      },
+      {
+        "policyTitle": "A million new homes over 5 years",
+        "policyDescription": "Promising to build a million new homes over a span of 5 years."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alex Norris has a strong track record in our community. I have led the successful Save Basford Hall campaign.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Nottingham North is better off with a Labour Government."
+    },
+    "issues": {
+      "brexitEurope": "We're leaving. Now we need to get the best deal for our community and country.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Work for proper NHS funding - The Tories have starved our health and social care sector of vital funds.",
+      "immigration": "",
+      "socialWelfare": "Guaranteed Triple Lock for pensioners as part of Labour's policies.",
+      "housing": [
+        {
+          "content": "A million new homes over 5 years aligning with Labour's policies.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Only Labour will guarantee a future for all, which makes the big decisions required to negotiate Brexit as easy as possible and gives our children and grandchildren a better future.",
+    "politicalExperience": [
+      {
+        "role": "Senior Member of Labour's City Council's Executive",
+        "duration": "",
+        "achievements": "A cleaner, busier city center; the best public transport outside of London and a thriving cultural life."
+      },
+      {
+        "role": "Basford Hall campaign",
+        "duration": "",
+        "achievements": "Led the successful Save Basford Hall campaign"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07392 591697",
+      "email": "alexandernorris34@googlemail.com",
+      "website": "www.nottinghamlabour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour Local Nottingham North 2017 Election Edition leaflet images showing Alex Norris with supporters, the key policies, and election information."
+        }
+      ]
+    },
+    "additionalNotes": "My pledges to you include fighting the Government's unfair school cuts, prioritising tackling unemployment, and focusing on Early Intervention."
+  }
+}
+```

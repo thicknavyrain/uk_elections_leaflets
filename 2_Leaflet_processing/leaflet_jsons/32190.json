@@ -1,0 +1,121 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Deidre Brock",
+    "constituency": "Edinburgh North and Leith",
+    "politicalParty": "SNP",
+    "electionDate": "DEC 12",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Nuclear incidents and munitions dumps",
+        "policyDescription": "The candidate has urged the MOD to disclose safety reports and criticised the dumping of radioactive waste destroyed in open-air explosions."
+      },
+      {
+        "policyTitle": "Women’s pensions",
+        "policyDescription": "The candidate pledges to continue to argue for women’s pensions and for fair treatment with dignity, support and harmony."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "The candidate stands against Brexit, considering it to be harmful to economic and social standards, and commits to fighting against it to avoid the damage it could cause."
+      },      
+      {
+        "policyTitle": "Airbnb",
+        "policyDescription": "Working to tackle housing shortage caused by short-term lets, particularly Airbnb, and impacts on communities."
+      },      
+      {
+        "policyTitle": "Supporting the creative industries",
+        "policyDescription": "Commitment to supporting the growth of Edinburgh's cultural and creative industries."
+      }
+    ],
+    "mentions": {
+      "candidate": "Deidre Brock",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Brexit would be hugely damaging; candidate is committed to fighting against it.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "The candidate pledges to continue to argue for fair treatment of women’s pensions with dignity, support and harmony.",
+      "housing": [
+        {
+          "content":"Working to tackle housing shortage caused by short-term lets, particularly Airbnb, and impacts on communities.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I’ve helped thousands of people who needed the help of an MP and supported local groups in finding resources and funds.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "since 2015",
+        "achievements": "Has worked on various issues such as MOD safety reports and supported local groups. Addresses weekly, holds advice surgeries, and liaises with constituents on Fridays."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "deidre.brock.mp@parliament.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "deidrebrocksnp",
+        "twitter": "deidrebrock",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Karen Bates, Wardie Bay Beachwatch",
+        "endorsement": "Praises the candidate's persistence on environmental issues."
+      },
+      {
+        "endorser": "Ali May, South Leith Parish Church",
+        "endorsement": "Commends the candidate's hard work and fearlessness."
+      },
+      {
+        "endorser": "Ben Macpherson MSP",
+        "endorsement": "Highlights the candidate's team work and problem-solving skills, especially on local community and environmental issues."
+      },
+      {
+        "endorser": "Tricia Smith, QFI Founder Director Sikh Sanjog",
+        "endorsement": "Values the candidate's readiness to help and recognizing important community and constituency work."
+      },
+      {
+        "endorser": "Sara Sheridan, Writer",
+        "endorsement": "Supports the candidate for her dedication and her understanding of how difficult times are for constituents."
+      },
+      {
+        "endorser": "Simon Barrow, Writer, author and social policy specialist",
+        "endorsement": "Knows the candidate is passionate about community and social justice, works tirelessly for these causes."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Deidre Brock SNP"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet discusses various policies, endorsements, and the work of the candidate along with a call to action for the upcoming election."
+  }
+}
+```

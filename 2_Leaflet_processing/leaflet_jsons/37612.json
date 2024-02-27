@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alex Cole-Hamilton",
+    "constituency": "Edinburgh Central",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Schools",
+        "policyDescription": "Wants more money for schools."
+      },
+      {
+        "policyTitle": "Local Services",
+        "policyDescription": "Defending parks and green spaces, fighting Labour's Post Office Closures."
+      },
+      {
+        "policyTitle": "Community Initiatives",
+        "policyDescription": "Supporting 'Keep Stockbridge Local' movement, started an awareness drive for a recycling collection pilot."
+      },
+      {
+        "policyTitle": "Local Development",
+        "policyDescription": "Against inappropriate housing development on greenbelt land."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alex Cole-Hamilton",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "",
+      "tacticalSituation": "The Lib Dems are the clear challengers to Labour here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Opposing Labour's record on the economy, criticizing Labour for the economic downturn and growing national debt.",
+      "education": "Wants more money for schools.",
+      "environment": "Defending parks and green spaces, started an awareness drive for a recycling collection pilot.",
+      "governance": "Fighting Labour's Post Office Closures.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Against inappropriate housing development on greenbelt land.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.alexcolehamilton.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Everyone has been betrayed by Labour.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A record of campaigning. All year round."
+        },
+        {
+          "caption": "Working hard for Edinburgh Central."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet criticizes Labour for economic management and national debt, emphasizes community and local issues."
+  }
+}
+```

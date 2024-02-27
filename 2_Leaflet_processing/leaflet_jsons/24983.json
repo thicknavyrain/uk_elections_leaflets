@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Heidi Alexander",
+    "constituency": "Lewisham East",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "A strong voice for Lewisham East",
+        "content": "The General Election on May 7 will have huge consequences for our part of London. It's in areas like Lewisham East that the General Election and the future of our country will be decided."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Heidi Alexander",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The General Election is really important. We must develop a strong economy which benefits everyone - not just those at the top.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "She will protect our local NHS and stand up for those on modest incomes.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "When I was first elected to Parliament five years ago, I promised to be a hard-working and honest MP. I have taken time to listen to their concerns and try to help them. I have always been accessible and approachable and if I am re-elected to represent you, I will continue to be so.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament",
+        "duration": "five years",
+        "achievements": "Hard-working and honest MP."
+      }
+    ],
+    "contactInformation": {
+      "address": "The Talent Factory, 4-14 Barmeston Road, Catford SE6 3BH",
+      "phone": "020 8461 0286",
+      "email": "heidi@heidi.org.uk",
+      "website": "www.heidi.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cover image of the leaflet showing how to apply to vote by post and an image of Heidi Alexander."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

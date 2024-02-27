@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alex Rowley",
+    "constituency": "Cowdenbeath Constituency",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 06 May",
+    "messages": [
+      {
+        "title": "A local voice standing up for Fife",
+        "content": "Alex Rowley was born and brought up in Fife, educated at St Columba's High School and the University of Edinburgh and has been a member of the Scottish Parliament since 2014. A committed socialist, Alex has been outspoken on addressing the issues of inequality and poverty that exist in our communities and has worked alongside many local groups to make local communities better places to live, work, and bring up your family."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Alex Rowley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "\"We have to focus on uniting behind a National Recovery Plan.\"",
+    "politicalExperience": [
+      {
+        "role": "Member of the Scottish Parliament",
+        "duration": "since 2014",
+        "achievements": "Addressing the issues of inequality and poverty, working alongside local groups to improve communities"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Alex Rowley standing in front of greenery, smiling, with text reading 'A local voice standing up for Fife'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Only one Party will:",
+    	"content": "Stop another divisive independence referendum, Oppose the Conservatives’ damaging hard Brexit, Invest in Scottish education and mental health"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Stop another divisive independence referendum",
+    	"policyDescription": "The leaflet states a commitment to stopping another independence referendum."
+  	},
+  	{
+    	"policyTitle": "Oppose the Conservatives’ damaging hard Brexit",
+    	"policyDescription": "The leaflet promises to oppose the hard Brexit position of the Conservatives."
+  	},
+  	{
+    	"policyTitle": "Invest in Scottish education and mental health",
+    	"policyDescription": "The pledge includes investment in Scottish education and enhancing mental health services."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Oppose the Conservatives’ damaging hard Brexit",
+  	"economy": "",
+  	"education": "Invest in Scottish education",
+  	"environment": "",
+  	"governance": "Stop another divisive independence referendum",
+  	"health": "Invest in mental health",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "It's in your hands"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

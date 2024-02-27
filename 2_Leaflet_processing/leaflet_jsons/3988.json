@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kay Barnard",
+    "constituency": "",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Have we lost our Sense of Community?",
+        "content": "Post offices, shops, banks and local services are where people would meet but now they're closing or gone."
+      },
+      {
+        "title": "Why doesn't my neighbourhood feel safe?",
+        "content": "Blaming people that are struggling does not solve anything. Instead, all of us should work to create a caring community where people want to live and feel proud to do so."
+      },
+      {
+        "title": "Join the local team to make real Change",
+        "content": "Only Kay and the Lib Dems can deliver the new start our area needs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Liberal Democrats will create affordable homes for local people to own and live in. We're clear we must also pay compensation for any loss of light to existing homes."
+      },
+      {
+        "policyTitle": "Community Services",
+        "policyDescription": "Plans are in place to re-open shops and post offices, and to clean our streets."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kay Barnard",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Liberal Democrats will create affordable homes for local people to own and live in. We're clear we must also pay compensation for any loss of light to existing homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The idea of the Lib Dems is to throw out the old and bring in the good ideas",
+        "source": "Guardian",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Kay Barnard, Lib Dem Candidate"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet focuses on community and safety but does not specify a constituency or election date. It contains quotes from a newspaper but no specific dates or issues other than housing and community services."
+  }
+}
+```

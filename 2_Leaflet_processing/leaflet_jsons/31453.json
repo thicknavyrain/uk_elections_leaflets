@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Clean-Break Brexit",
+        "policyDescription": "A clean-break Brexit means: 1) The UK's a sovereign, democratic nation-state 2) We control our own laws and borders 3) We're free to make trade deals with the world 4) We command our own national security 5) We save at least £39bn in EU payments"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Tory PM Boris Johnson",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Clean-Break Brexit means: The UK's a sovereign, democratic nation-state, We control our own laws and borders, We're free to make trade deals with the world, We command our own national security, We save at least £39bn in EU payments",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0800 414 8525",
+      "email": "",
+      "website": "www.thebrexitparty.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "WE ARE READY FOR A CLEAN-BREAK BREXIT"
+        }
+      ]
+    },
+    "additionalNotes": "Tory PM Boris Johnson recycling Theresa May's Withdrawal Agreement won't do. Even without the Irish backstop, it's the worst deal in history."
+  }
+}
+```

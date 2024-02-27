@@ -1,0 +1,55 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stuart Andrew",
+    "constituency": "Pudsey, Horsforth and Aireborough",
+    "politicalParty": "Conservative",
+    "electionDate": "8 June 2017",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Stuart Andrew",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Theresa May will negotiate the terms of our exit from the EU.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {},
+    "endorsements": [
+      {
+        "endorser": "Michelle Phillips",
+        "endorsement": "Stuart secured £173m for transport projects in Leeds - which will be essential for the success of our city. Stuart really cares about our community, and has worked hard for it for many years."
+      },
+      {
+        "endorser": "Gordon McFarlane",
+        "endorsement": "Stuart Andrew has been a very strong voice supporting residents to oppose Labour's plans to build on our greenbelt. He's certainly got my vote."
+      },
+      {
+        "endorser": "Vajinder Singh",
+        "endorsement": "As a young person at the start of my career, I know that a strong economy is essential for jobs and prosperity. I also know that only a strong Conservative government can provide this."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stuart Andrew with Theresa May"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

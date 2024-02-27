@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+    "candidateName": "Thomas [Surname]",
+    "constituency": "Southampton Test",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "BACK ME WITH YOUR LOCAL VOTE AND I WILL:",
+        "content": "Provide strong and stable leadership for our country, Get the best Brexit deal possible to deliver economic security for our future, Always stand up for you and your family"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Get the best Brexit deal possible to deliver economic security for our future"
+      },
+      {
+        "policyTitle": "Leadership",
+        "policyDescription": "Provide strong and stable leadership for our country"
+      }
+    ],
+    "mentions": {
+      "candidate": "Thomas [Surname]",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "Don't risk our future at this crucial moment in history with a vote for any other party in Southampton Test."
+    },
+    "issues": {
+      "brexitEurope": "Get the best Brexit deal possible to deliver economic security for our future",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Provide strong and stable leadership for our country",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "CCHQ, 4 Matthew Parker Street, London, SW1H 9HQ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Theresa May",
+        "endorsement": "Back Theresa May to secure a Brexit deal that delivers for you and your family."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Theresa May providing a message in support of the candidate."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

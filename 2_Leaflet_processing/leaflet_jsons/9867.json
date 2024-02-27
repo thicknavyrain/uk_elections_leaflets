@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nicky Morgan",
+    "constituency": "Loughborough",
+    "politicalParty": "Conservative",
+    "electionDate": "May 6th",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Pensioners' Winter Fuel Allowances",
+        "policyDescription": "The Conservatives will continue pensioners' Winter Fuel Allowances."
+      },
+      {
+        "policyTitle": "TV licenses and Bus Passes",
+        "policyDescription": "The Conservatives will safeguard free TV licenses and Bus Passes."
+      },
+      {
+        "policyTitle": "Protect NHS",
+        "policyDescription": "If the Conservatives get elected then the NHS will be protected against cuts."
+      },
+      {
+        "policyTitle": "Cancer Treatment",
+        "policyDescription": "David Cameron has made it absolutely clear that he WILL maintain Labour's guarantee to see a cancer specialist within two weeks if your GP suspects you have cancer."
+      },
+      {
+        "policyTitle": "Child Tax Credit",
+        "policyDescription": "The Conservatives will extend Child Tax Credit, except for high earners."
+      },
+      {
+        "policyTitle": "Nursery Provision",
+        "policyDescription": "Wherever you see or hear Labour talking about Conservative policies you can be pretty sure that they will not cut or freeze the nursery provision from 12.5 to 15 hours a week, for 3 and 4 year olds."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nicky Morgan",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "Gordon Brown is clearly trying to woo the LibDems to form a coalition with Labour. The only real risk in this election is him going through with it. The only way to stop him is to give the seat for a better majority to the Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "If the Conservatives get elected then the NHS will be protected against cuts.",
+      "immigration": "",
+      "socialWelfare": "The Conservatives will continue pensioners' Winter Fuel Allowances, free TV licenses and Bus Passes.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign leaflet for Nicky Morgan, Conservative Parliamentary Candidate for Loughborough."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet criticizes the Labour Party for distributing scare tactics about Conservative policies."
+  }
+}
+```

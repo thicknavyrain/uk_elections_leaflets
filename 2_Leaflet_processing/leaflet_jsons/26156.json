@@ -1,0 +1,65 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Improvement",
+        "policyDescription": "20,000 more nurses, 8,000 more GPs, guaranteeing a GP appointment within 48 hours, and cancer tests and results within a week."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Labour's new approach to immigration."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Building an NHS with time to care; 20,000 more nurses; 8,000 more GPs; A GP appointment within 48 hours; Cancer tests and results within a week.",
+      "immigration": "Labour's new approach to immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Building an NHS with time to care"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

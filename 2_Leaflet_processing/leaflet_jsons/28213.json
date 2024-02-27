@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Huw Merriman",
+    "constituency": "Bexhill and Battle Constituency",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "THERESA MAY STRONG, STABLE LEADERSHIP IN THE NATIONAL INTEREST",
+        "content": "Theresa May's leadership emphasized as strong and stable in the national interest."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "MAKING BREXIT A SUCCESS IS CENTRAL TO OUR NATIONAL INTEREST",
+        "policyDescription": "The leaflet emphasizes delivering Brexit with a focus on the national interest, includes plans outlined by Theresa May for a smooth Brexit and building a stronger economy that rewards people who work hard."
+      },
+      {
+        "policyTitle": "DELIVERING OPPORTUNITY TO ALL",
+        "policyDescription": "The candidate promises to bring better transport links and new homes, improve infrastructure and create new businesses, jobs, and economic growth."
+      }
+    ],
+    "mentions": {
+      "candidate": "Huw Merriman",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "The leaflet presents a tactical situation by comparing the leadership of Theresa May versus that of Jeremy Corbyn, suggesting the risk of economic chaos under Corbyn."
+    },
+    "issues": {
+      "brexitEurope": "Huw Merriman supports Theresa May's plan to deliver Brexit and a new Britain outside the EU.",
+      "economy": "Emphasis on a strong economy rewarding hard work, with specific reference to delivering better transport links, new homes, and business opportunities.",
+      "education": "Plans for a new college in Bexhill and to deliver a better A21, suggesting improvements in education infrastructure.",
+      "environment": "",
+      "governance": "",
+      "health": "Building a stronger NHS is mentioned as part of building a stronger economy.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Promises to build new homes and improve infrastructure.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament",
+        "duration": "",
+        "achievements": "Defending interests in Parliament, delivering better transport links, new homes, infrastructure and jobs."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01424 219117",
+      "email": "",
+      "website": "www.huwmerriman.org.uk",
+      "socialMedia": {
+        "facebook": "fb.com/HuwMerrimanBexhillBattle",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images of Huw Merriman with Theresa May, interacting with the community and emphasizing collaboration with the Prime Minister."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contrasts the Conservative leadership with that of Labour's Jeremy Corbyn, indicating the importance of voting for stability and against the perceived risk of 'economic chaos'."
+  }
+}
+```

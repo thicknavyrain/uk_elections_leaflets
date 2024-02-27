@@ -1,0 +1,115 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "UKIP says YES to",
+        "content": "An NHS free at the point of delivery; No tax on the minimum wage; Housing priority for local people; Affordable energy."
+      },
+      {
+        "title": "UKIP says NO to",
+        "content": "Unlimited immigration; £55m a day membership fees to the EU; £12 billion a year in foreign aid; The 'bedroom tax' and the 'mansion tax'."
+      },
+      {
+        "title": "The Truth About UKIP",
+        "content": "Keep the NHS free at point of delivery; An Australian-style, points based, fairer immigration system; No tax on the minimum wage, no 'bedroom' tax, no inheritance tax."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Pledge an extra £3 billion to the NHS to keep it free at the point of delivery."
+      },
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Promises no tax on the minimum wage and to not implement the 'bedroom tax' or 'mansion tax'."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Aims to build more social and low-cost housing on existing sites not green fields and help young first-time buyers."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Invest in affordable energy from shale gas and nuclear, not over-subsidised wind and solar farms."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Advocacy for an Australian-style, points based, fairer immigration system."
+      },
+      {
+        "policyTitle": "EU Membership",
+        "policyDescription": "Opposes the UK spending £55m a day on EU membership fees."
+      },
+      {
+        "policyTitle": "Foreign Aid",
+        "policyDescription": "Proposes cutting foreign aid from £12 billion a year, focusing on water and fighting diseases, not subsidising regimes like those in India and China."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Favors leaving the EU to save £55m a day membership fees, as the EU is seen as the past, not the future.",
+      "economy": "Intends to oppose the 'bedroom tax' and the 'mansion tax', and suggests the benefit to taxpayers through reduced foreign aid spending and EU membership fees.",
+      "education": "",
+      "environment": "Supports investment in shale gas and nuclear energy.",
+      "governance": "Suggests the old parties are lying about UKIP, indicating a call for change in governance.",
+      "health": "Will invest an extra £3 billion in the NHS to keep it free.",
+      "immigration": "Promotes an Australian-style, points based, fairer immigration system to reduce pressure on health, housing, and fewer jobs for children.",
+      "socialWelfare": "Against 'bedroom tax' which affects social welfare.",
+      "housing": [
+        {
+          "content": "Aims to build more social and low-cost housing on existing sites not green fields and help young first-time buyers get on the housing ladder.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0333 800 6 800",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "'The old parties are lying about UKIP and its policies. They are running scared and don't want you to know the truth. Well, here it is...'",
+        "source": "UKIP Leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of UKIP's campaign leaflet featuring key messages and policies, and a picture of the party leader."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

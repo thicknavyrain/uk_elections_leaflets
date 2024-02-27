@@ -1,0 +1,100 @@
+```json
+{
+	"leaflet": {
+		"candidateName": "Paul Farrelly",
+		"constituency": "Newcastle-under-Lyme",
+		"politicalParty": "Labour",
+		"electionDate": "Thursday 8 June",
+		"messages": [
+			{
+				"title": "Why I am backing Paul for Newcastle",
+				"content": "'Paul is a good, thoroughly decent local MP, with lots of cross-party respect in Newcastle. He's got a real record of fighting for our NHS, our schools and all our people, young and old, whatever their politics. After all he's done, he's the strong, stable voice our area surely deserves our support.' - Dr Allison Gardner, Clayton"
+			},
+			{
+				"title": "'An MP from Newcastle, for Newcastle'",
+				"content": "Paul with nurses at Bradwell, campaigning to save our local hospital - for the second time!"
+			}
+		],
+		"keyPolicies": [
+			{
+				"policyTitle": "The sky's the limit: the rising price of a Conservative education",
+				"policyDescription": "Criticizes the increase in university fees and maintenance grants being scrapped by the Tories, plans to resist further rises in costs and opposes the trebling of fees."
+			},
+			{
+				"policyTitle": "Newcastle’s MP: Standing up for the rights of working families",
+				"policyDescription": "Mention of past achievements including equal treatment for temporary and agency workers and tackling job insecurity through the Working Hours Directive."
+			},
+			{
+				"policyTitle": "Dismantling Cameron’s ‘legacy’: pensions are next in line",
+				"policyDescription": "Accuses the Tories of abandoning promises to the elderly regarding pensions and pledges, and warns against Theresa May continuing that trend."
+			}
+		],
+		"mentions": {
+			"candidate": "Paul Farrelly",
+			"otherPartyLeaderCandidate": "David Cameron, Theresa May",
+			"partyLeader": "",
+			"tacticalSituation": ""
+		},
+		"issues": {
+			"brexitEurope": "",
+			"economy": "",
+			"education": "University fees have more than trebled to £9,250.",
+			"environment": "",
+			"governance": "Warns about the under-cutting of wages.",
+			"health": "Fighting for our NHS.",
+			"immigration": "",
+			"socialWelfare": "Stands up for pensions.",
+			"housing": [
+				{
+					"content":"",
+					"yimbyNimby": "N/A"
+				}
+			]
+		},
+		"personalStatement": "I'm 55, married with three children and about standing again. I'm concerned for our younger generation may with a much bigger mountain to climb.",
+		"politicalExperience": [
+			{
+				"role": "MP for Newcastle",
+				"duration": "16 years",
+				"achievements": "Fighting for NHS, schools, and working rights. Passed treatment for temporary and agency workers. Tackled job insecurity."
+			}
+		],
+		"contactInformation": {
+			"address": "Waterloo Buildings, 79-81 Dunkirk, Newcastle, ST5 2SW",
+			"phone": "01782 715033",
+			"email": "farrellyp@tbiinternet.com",
+			"website": "",
+			"socialMedia": {
+				"facebook": "facebook.com/PaulFarrellyNewcastle",
+				"twitter": "",
+				"instagram": "",
+				"linkedin": ""
+			}
+		},
+		"endorsements": [
+			{
+				"endorser": "Dr Allison Gardner",
+				"endorsement": "Strong, stable voice for the area."
+			}
+		],
+		"quotes": [
+			{
+				"text": "'Paul is a good, thoroughly decent local MP, with lots of cross-party respect in Newcastle.'",
+				"source": "Dr Allison Gardner",
+				"date": ""
+			}
+		],
+		"campaignMaterial": {
+			"images": [
+				{
+					"caption": "'An MP from Newcastle, for Newcastle'"
+				},
+				{
+					"caption": "Paul with nurses at Bradwell, campaigning to save our local hospital."
+				}
+			]
+		},
+		"additionalNotes": ""
+	}
+}
+```

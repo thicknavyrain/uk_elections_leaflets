@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tim Farron",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "PEOPLE ARE SWITCHING TO BACK THE LIBERAL DEMOCRATS",
+        "content": "The choice in this election is clear."
+      },
+      {
+        "title": "WHO CAN CHANGE THE FUTURE OF BRITAIN?",
+        "content": "Only the Lib Dems will deliver change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Will fight to keep Britain in the single market and ensure people have the final say over the Brexit deal."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tim Farron",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Tim Farron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Will fight to keep Britain in the single market and ensure people have the final say over the Brexit deal.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Leader of the Liberal Democrats",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "RSTK-HSSH-EJGE Lib Dems, London, SW1P 3AE",
+      "phone": "",
+      "email": "",
+      "website": "LibDems.org.uk/join",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Millions of people have been betrayed by Jeremy Corbyn's support for a divisive hard Brexit.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "Lib Dems hope to gain dozens of seats with Brexit campaigning.",
+        "source": "The Guardian 26th May 2017",
+        "date": "26th May 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes a change in direction for the country and portrays the Liberal Democrats as the real opposition to the Conservatives and Jeremy Corbyn's Labour Party."
+  }
+}
+```

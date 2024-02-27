@@ -1,0 +1,150 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Robert Brown",
+    "constituency": "Rutherglen",
+    "politicalParty": "Scottish Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A penny for education",
+        "content": "Half a billion pounds EXTRA to be the best again. We empower teachers to get the basic tools they need."
+      },
+      {
+        "title": "Supporting the NHS",
+        "content": "Our health plan will recruit extra GPs to tackle the shortfall of 700 forecast by 2020. We'll get serious about mental health."
+      },
+      {
+        "title": "Guaranteeing your civil liberties",
+        "content": "Liberal Democrats stand up for civil liberties against industrial-scale snooping and search and arrest powers without proper justification."
+      },
+      {
+        "title": "Empower nurses, doctors, teachers and social workers",
+        "content": "We will reverse the centralisation of power in Edinburgh under the SNP and let people have more control over their own lives."
+      },
+      {
+        "title": "Protect the environment",
+        "content": "To tackle climate change we will focus on a warm home plan to cut fuel bills, create a 'black out, clean up' for litter pollution, and more."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Extra money for every classroom to raise attainment, free childcare from the age of two, build our colleges back up, stop council cuts to education."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Recruit extra GPs to tackle the shortfall of 700 forecast by 2020, get serious about mental health, having a wait year to wait for urgent treatment."
+      },
+      {
+        "policyTitle": "Civil Liberties",
+        "policyDescription": "Stand up against industrial-scale snooping and search and arrest powers without proper justification."
+      },
+      {
+        "policyTitle": "Empowerment",
+        "policyDescription": "Reverse centralisation of power in Edinburgh under the SNP, empower public sector workers to get on with their jobs rather than chase top-down targets."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Warm home plan to cut fuel bills, 'black out, clean up' campaign for litter pollution, and more."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Investment in colleges, extra support for education to raise attainment and free childcare from the age of two.",
+      "environment": "Tackle climate change with a warm home plan, create a 'black out, clean up' campaign for litter pollution, and more.",
+      "governance": "Reverse centralisation of power and empower public sector workers.",
+      "health": "Recruit extra GPs and focus on mental health treatment times.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "glasgowlibdems.org.uk",
+      "socialMedia": {
+        "facebook": "Robert4LibDems",
+        "twitter": "Robert4LibDems",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Sunday Times",
+        "endorsement": "The Lib Dems have punched above their weight at Holyrood."
+      },
+      {
+        "endorser": "Brian Taylor - BBC Scotland",
+        "endorsement": "Mr Rennie's remarks caught the mood in the desire to make Scotland's interests count."
+      },
+      {
+        "endorser": "The Scotsman",
+        "endorsement": "Rennie: One of the best performers at Holyrood."
+      },
+      {
+        "endorser": "The Herald",
+        "endorsement": "The Lib Dems have challenged the limits of civility over what Scottish politics should entail."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The Lib Dems have punched above their weight at Holyrood.",
+        "source": "Sunday Times",
+        "date": ""
+      },
+      {
+        "text": "Mr Rennie's remarks caught the mood in the desire to make Scotland's interests count.",
+        "source": "Brian Taylor - BBC Scotland",
+        "date": ""
+      },
+      {
+        "text": "Rennie: One of the best performers at Holyrood.",
+        "source": "The Scotsman",
+        "date": ""
+      },
+      {
+        "text": "The Lib Dems have challenged the limits of civility over what Scottish politics should entail.",
+        "source": "The Herald",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Robert Brown with supporters."
+        },
+        {
+          "caption": "Robert Brown near a body of water in a city setting."
+        },
+        {
+          "caption": "Robert Brown speaking to a woman."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

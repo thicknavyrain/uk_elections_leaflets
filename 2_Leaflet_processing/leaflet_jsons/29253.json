@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jonathan Elmer",
+    "constituency": "City of Durham",
+    "politicalParty": "Green Party",
+    "electionDate": "June 8",
+    "messages": [
+      {
+        "title": "",
+        "content": "This is an opportunity to have your say on some of the most important issues in a lifetime, both nationally and locally."
+      },
+      {
+        "title": "This election isn't about the next 5 years, it's about the next 50 years",
+        "content": "Every Green vote at this election is a vote for: A reversal of NHS privatisation, begun under Labour and worsened under the Conservatives. An education system that works for every child—and scrapping University tuition fees. Action on climate change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "A reversal of NHS privatisation, begun under Labour and worsened under the Conservatives."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "An education system that works for every child—and scrapping University tuition fees."
+      },
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Action on climate change."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jonathan Elmer",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Only Jonathan has the background, knowledge and skills needed to challenge the Labour Council's misguided plans for the City."
+    },
+    "issues": {
+      "brexitEurope": "A voice against hard Brexit",
+      "economy": "",
+      "education": "An education system that works for every child—and scrapping University tuition fees.",
+      "environment": "Action on climate change.",
+      "governance": "Only Jonathan has the background, knowledge and skills needed to challenge the Labour Council's misguided plans for the City.",
+      "health": "A reversal of NHS privatisation, begun under Labour and worsened under the Conservatives.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Only Jonathan has detailed and robust alternatives to the Labour Council's misguided plans for the City, which others have expressed their opposition to the Council's plans, only Jonathan has developed detailed and robust alternatives.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Jonathan has spent many years campaigning for the City focusing on local air pollution, inappropriate housing provision, transport planning and ensuring Durham University creates benefits for the City.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Printed by Solo Press, 9 Stock Road, Southend-on-Sea, SS2 5QF. Promoted by Thom Robinson on behalf of Jonathan Elmer at Unit 228, Langley Moor CO Durham DH7 8JF",
+      "phone": "",
+      "email": "",
+      "website": "www.durhamgreens.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "greensgretms",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jonathan Elmer, Green Party candidate for City of Durham"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rebecca Fraser",
+    "constituency": "Midlothian",
+    "politicalParty": "Scottish Conservative and Unionist",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "URGENT INFORMATION BEFORE YOU VOTE",
+        "content": "It’s either The Scottish Conservatives or the SNP here in Midlothian."
+      },
+      {
+        "title": "A MESSAGE FROM REBECCA FRASER",
+        "content": "The general election on 12th December will be an opportunity for local people in Midlothian to elect a Member of Parliament who is guaranteed to stand up to Nicola Sturgeon and her drive to take Scotland out of our United Kingdom."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Scottish Independence Referendum",
+        "policyDescription": "Nicola Sturgeon wants to hold another independence referendum next year – your vote can stop her."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rebecca Fraser",
+      "otherPartyLeaderCandidate": "Nicola Sturgeon",
+      "partyLeader": "",
+      "tacticalSituation": "A vote for anyone but the Scottish Conservatives – or not voting at all – risks helping Nicola Sturgeon."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I know that at the last general election many people here in Midlothian who had never voted Scottish Conservative before lent us their vote. All the indications are that the result this time is going to be very close, so even if you don't always vote Scottish Conservative, lend me your vote on this occasion to beat the SNP.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "15 Park Road, Eskbank, Dalkeith EH22 3DF",
+      "phone": "07467 218163",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A MESSAGE FROM REBECCA FRASER"
+        },
+        {
+          "caption": "URGENT INFORMATION BEFORE YOU VOTE"
+        },
+        {
+          "caption": "WE SAID NO. WE MEANT IT."
+        }
+      ]
+    },
+    "additionalNotes": "P.S. A vote for anyone but Rebecca Fraser – or not voting at all – risks helping Nicola Sturgeon."
+  }
+}
+```

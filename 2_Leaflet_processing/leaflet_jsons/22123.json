@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Coughlin",
+    "constituency": "Lewisham Deptford",
+    "politicalParty": "Green Party",
+    "electionDate": "7 May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "A living wage for all",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Publicly owned NHS, schools, energy & railways",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Fair rent controls",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Community power over planning decisions",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Wealth tax on top 1%",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Stop Trident renewal - saving £100 billion",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Cut air pollution to improve health",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Segregated cycle lanes",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "John Coughlin",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0300 1120 122",
+      "email": "",
+      "website": "lewisham.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "lewgreenparty",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote John Coughlin for Lewisham Deptford on 7 May"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

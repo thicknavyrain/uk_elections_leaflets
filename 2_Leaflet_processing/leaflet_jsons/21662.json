@@ -1,0 +1,123 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mike Crockart",
+    "constituency": "Edinburgh West",
+    "politicalParty": "Lib Dem",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "The Lib Dem plan to improve the Scottish NHS",
+        "content": "£800 million of extra funding for the NHS in Scotland each year by 2020. Guarantee equal care for mental health treatment. Balancing the books by 2018 so we can continue to properly fund the NHS."
+      },
+      {
+        "title": "Only Mike can stop the SNP",
+        "content": "Latest polling shows it's neck and neck between Mike Crockart and the SNP candidate. Only Lib Dem Mike Crockart can stop the SNP on 7th May."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Increase NHS spending by £1 billion a year across the UK, reaching local services and mental health treatment. Budgeting to secure more funding for the Scottish NHS to improve care and facilities."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Lib Dems have delivered the biggest pension rise ever. They have cut tax for Scottish workers by £800, with further commitment to an extra £400 tax cut, amounting to a £1,200 tax cut. Commitment to balancing the nation's books by 2018."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "There are now 17,000 more jobs in Scotland thanks to the Lib Dems."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mike Crockart",
+      "otherPartyLeaderCandidate": "SNP",
+      "partyLeader": "",
+      "tacticalSituation": "The leaflet suggests that the battle is between Lib Dems and SNP in the constituency and encourages tactical voting to prevent SNP's victory."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Lib Dems have delivered the biggest pension rise ever. They have cut tax for Scottish workers by £800.",
+      "education": "",
+      "environment": "",
+      "governance": "Lib Dems aim to balance the nation's books by 2018.",
+      "health": "Lib Dems pledge to fund NHS in full as public service faces a £8 billion shortfall.",
+      "immigration": "",
+      "socialWelfare": "Delivered the biggest pension rise ever.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Only Lib Dem Mike Crockart can stop the SNP on 7th May",
+        "source": "Campaign Leaflet",
+        "date": "7th May [year not specified]"
+      },
+      {
+        "text": "Liberal Democrats pledge to fund NHS in full as public service faces a £8 billion shortfall.",
+        "source": "The Independent",
+        "date": ""
+      },
+      {
+        "text": "Once a Labour target seat, but no more, the party's tactical minder suggested last month that the party's Lib Dems than the Tories, so Conservative supporters will also need to vote Lib Dem if they want to stop the SNP",
+        "source": "The Guardian, analysis of Edinburgh West",
+        "date": ""
+      },
+      {
+        "text": "...the Lib Dems need Tory and Labour 'No' voters to act tactically in their favour to hold off the SNP.",
+        "source": "The Guardian",
+        "date": ""
+      },
+      {
+        "text": "Edinburgh South and Edinburgh West were named as constituencies [conservative] party has apparently given up on",
+        "source": "Edinburgh Evening News",
+        "date": ""
+      },
+      {
+        "text": "Vote Lib Dem in Edinburgh West to stop the SNP",
+        "source": "The Telegraph",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lib Dems delivered the biggest pension raise ever."
+        },
+        {
+          "caption": "Lib Dems have cut tax for Scottish workers by £800."
+        },
+        {
+          "caption": "There are now 17,000 more jobs in Scotland than in 2010 thanks to the Lib Dems."
+        },
+        {
+          "caption": "Lib Dems will increase NHS spending by £1 billion a year across the UK."
+        },
+        {
+          "caption": "Local health service and mental health treatment will be the Scottish Lib Dems' top priorities."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes that only voting for Lib Dem Mike Crockart can prevent the SNP from winning in Edinburgh West, indicating a close contest and the need for tactical voting among supporters of other parties."
+  }
+}
+```

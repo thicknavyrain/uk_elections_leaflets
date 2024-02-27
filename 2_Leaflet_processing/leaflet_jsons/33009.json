@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Fleur Anderson",
+    "constituency": "Putney, Roehampton and Southfields",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "A FRESH START FOR PUTNEY, ROEHAMPTON AND SOUTHFIELDS",
+        "content": "Vote Fleur Anderson Labour candidate for Putney"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Proudly Remain",
+        "policyDescription": "Supporting 100% remain, securing a People's Vote, and make sure the Brexit chaos is stopped."
+      },
+      {
+        "policyTitle": "Standing up for our NHS",
+        "policyDescription": "Oppose privatisation and a US-style trade deal from Trump. Labour will recruit 5000 new doctors, train 24,000 nurses and provide free personal social care."
+      },
+      {
+        "policyTitle": "Fixing the Housing Crisis",
+        "policyDescription": "Stand up to developers and demand the affordable housing we need. More social and climate-friendly, banning new diesel car sales."
+      }
+    ],
+    "mentions": {
+      "candidate": "Fleur Anderson",
+      "otherPartyLeaderCandidate": "Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": "Locally the contest is between Labour and the Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "Proudly Remain - 100% remain, Brexit is a disaster for our country and I will make sure the Brexit chaos is stopped.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Standing up for our NHS - Our NHS is under threat from Tory privatisation and a sell-out trade deal with Donald Trump. Labour will recruit 5000 new doctors, train 24,000 nurses, and provide free personal social care.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Fixing the Housing Crisis - Stand up to developers and demand the affordable housing we need. More social and climate-friendly, banning new diesel car sales.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "We need a fresh start. I'm supporting Fleur because she's 100% Remain and supports a People's Vote. She'll stand up for us on issues like Heathrow, clean air and local schools. – Rada Lewis",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "020 8788 8961",
+      "email": "",
+      "website": "www.FleurAnderson.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@CllrFleur",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Fleur Anderson"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

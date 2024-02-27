@@ -1,0 +1,66 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Pete",
+    "constituency": "Lewisham",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Only Pete will stand up for you",
+        "content": "Only Pete will stand up for you as our next MP..."
+      },
+      {
+        "title": "The Tories are too weak to win in Lewisham",
+        "content": "Your next MP will be either Lib Dem or Labour. The Conservatives can't win here"
+      },
+      {
+        "title": "Only the Lib Dems can beat Labour here",
+        "content": "The Lib Dems have more councillors in Lewisham East than Labour and the Tories put together!"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Your next MP will be either Lib Dem or Labour.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The Conservatives can't win here"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Only Pete will stand up for you as our next MP."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

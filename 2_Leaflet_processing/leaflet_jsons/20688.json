@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jamie Ross McKenzie",
+    "constituency": "West Ham",
+    "politicalParty": "UK Independence Party (UKIP)",
+    "electionDate": "May 2015",
+    "messages": [
+      {
+        "title": "Dear West Ham Voter,",
+        "content": "I'd like to introduce myself, My name is Jamie Ross McKenzie and I'm your prospective parliamentary candidate for UKIP in the constituency of West Ham. I grew up in Custom House and have lived in Newham all my life. I stood previously in the local elections in 2014. My professional background is in architecture and interior design. This May will be an especially important General Election and I will be working hard to gain your support."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS, employment, mass immigration, education, housing",
+        "policyDescription": "The leaflet criticizes other political parties for their handling of these issues and suggests discontent with their approach, implying UKIP's stance is in opposition to these views, seeking to address concerns related to the NHS, employment, immigration, education, and housing."
+      }
+    ],
+    "mentions": {
+      "candidate": "I, Jamie Ross McKenzie,",
+      "otherPartyLeaderCandidate": "Labour Party, Tories",
+      "partyLeader": "",
+      "tacticalSituation": "The election will be contested against a background of wide-spread disaffection with the older political parties."
+    },
+    "issues": {
+      "brexitEurope": "Labour enthusiasm for EU control has wasted our resources and abolished our liberties.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "Labour’s policy of uncontrolled mass immigration has put unnecessary pressure on housing, jobs and public services.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour’s policy of uncontrolled mass immigration has put unnecessary pressure on housing, jobs and public services.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I grew up in Custom House and have lived in Newham all my life.",
+    "politicalExperience": [
+      {
+        "role": "Local election candidate",
+        "duration": "2014",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "info@jamie4westham.org",
+      "website": "www.jamie4westham.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Jamie Ross McKenzie with a UKIP pin"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

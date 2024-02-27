@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "David Drew",
+	"constituency": "Stroud Constituency",
+	"politicalParty": "Labour & Co-operative",
+	"electionDate": "7 May",
+	"messages": [
+  	{
+    	"title": "Local. Trusted. Hardworking.",
+    	"content": "We're at a fork in the road. The result of the election will change things, locally and nationally, for good or ill."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Healthcare",
+    	"policyDescription": "Opposes Tory sell-off of NHS, cut council funding for young and old, badgers for no reason."
+  	},
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Supports rebuilding fractured public services, NHS, education, and the economy. Advocates for jobs and growth."
+  	},
+  	{
+    	"policyTitle": "Bedroom Tax",
+    	"policyDescription": "Pledges to repeal the Bedroom Tax and being fairness into the welfare system."
+  	},
+  	{
+    	"policyTitle": "Environment",
+    	"policyDescription": "Acknowledges climate change varied; aims to tackle fuel poverty."
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Intends to fight against millions in education cuts and protect school budgets."
+  	},
+  	{
+    	"policyTitle": "Social Welfare",
+    	"policyDescription": "Promises to prevent growth of millions in food poverty and to protect the least well-off."
+  	}
+	],
+	"mentions": {
+  	"candidate": "David Drew",
+  	"otherPartyLeaderCandidate": "Tories",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Supports rebuilding fractured public services, NHS, education, and the economy. Advocates for jobs and growth.",
+  	"education": "Intends to fight against millions in education cuts and protect school budgets.",
+  	"environment": "Acknowledges climate change varied; aims to tackle fuel poverty.",
+  	"governance": "",
+  	"health": "Opposes Tory sell-off of NHS, cut council funding for young and old, badgers for no reason.",
+  	"immigration": "",
+  	"socialWelfare": "Promises to prevent growth of millions in food poverty and to protect the least well-off.",
+  	"housing": [
+    	{
+      	"content":"Pledges to repeal the Bedroom Tax and being fairness into the welfare system.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "\"I believe in social justice. A responsibility to create a fairer society. Decent jobs for those who can work; support for those who can't. An NHS, schools and public services that are valued. Protection of our environment for those who come after us.\"",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "\"I believe in social justice. A responsibility to create a fairer society.\"",
+    	"source": "David Drew",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "David Drew pictured in front of a landscape."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

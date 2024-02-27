@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "JERRY HAGUE",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12th December",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "4 Minstrel Close, Hucknall, NG15 7NZ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "VOTE JERRY HAGUE Labour"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by Alice Grice on behalf of Jerry Hague both at 4 Minstrel Close, Hucknall, NG15 7NZ. Printed by Ultimate Print and Design Limited, Black Horse Barn, Cossington Road, Kneesall, Notts NG22 0AB"
+  }
+}
+```

@@ -1,0 +1,70 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Residents feedback gets car park improvements around the Village.",
+        "content": "Some residents in Horsell have expressed a desire for improvements in car parking. The local council has added the village to the work schedule."
+      },
+      {
+        "title": "Residents Make a Difference with Brewery Road Speeding Campaign",
+        "content": "The local committee has highlighted concerns with speeding on Brewery Road. As a result, the council has agreed to undertake a road survey, and a petition has been delivered to the County Council."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Improvements in car parking.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Local residents group including children gathered on a village street."
+        },
+        {
+          "caption": "Two individuals standing with a campaign banner."
+        }
+      ]
+    },
+    "additionalNotes": "The specific details about the candidate, such as their name, the constituency they represent, the election date, and personal statements, are not legible from the image. Also, policies with titles and descriptions, mentions of figures, political experience, contact information, endorsements, quotes, and detailed issue discussions are not discernible from the provided content."
+  }
+}
+```

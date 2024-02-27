@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr Adam Thompson",
+    "constituency": "Amber Valley",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "It’s time for change in Amber Valley.",
+        "content": "We need an MP that will fight for local people."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Labour for the NHS",
+        "policyDescription": "End years of conservative neglect, deliver real change, invest more in nurses and doctors, and provide the care people need."
+      },
+      {
+        "policyTitle": "My pledges to you",
+        "policyDescription": "Increase NHS funding, real living wage of £10 an hour, increase in income tax for 95% of people, free school meals, reduced class sizes, bus passes for under 25s, secure a credible Brexit deal."
+      },
+      {
+        "policyTitle": "Labour for education",
+        "policyDescription": "Investment in vocational education to prepare students for high quality jobs, investment in both teachers and facilities to offer a first-class education."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr Adam Thompson",
+      "otherPartyLeaderCandidate": "Boris Johnson's Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Secure a credible Brexit deal in 3 months and put it to the people for the final say",
+      "economy": "Real living wage of £10 an hour, increase in income tax for 95% of people",
+      "education": "Free school meals for all primary school children, reduced class sizes for all primary school children",
+      "environment": "",
+      "governance": "",
+      "health": "Labour for the NHS. End years of conservative neglect, deliver real change, invest more in nurses and doctors, and provide the care people need",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "adam@adamthompsonlabour.uk",
+      "website": "adamthompsonlabour.uk",
+      "socialMedia": {
+        "facebook": "adamthompsonlabour",
+        "twitter": "adamthompson11",
+        "instagram": "adamthompson11",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "This election is a once-in-a-generation chance to transform our country and take on the vested interests holding people back.",
+        "source": "Labour Party Message",
+        "date": ""
+      },
+      {
+        "text": "Labour will deliver the real change Britain needs, so that no one is held back and no community left behind.",
+        "source": "Labour Party Message",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dr Adam Thompson with supporters holding Labour placards"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

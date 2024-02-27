@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Rt Hon Theresa May",
+	"constituency": "Rutland and Melton",
+	"politicalParty": "Conservative",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "MAKING BREXIT A SUCCESS IS CENTRAL TO OUR NATIONAL INTEREST",
+    	"content": "As a nation, we face the most important period in our lifetime. Making Brexit a success is central to our national interest – and it is critical to your own security and prosperity."
+  	},
+  	{
+    	"title": "THIS IS A UNIQUE AND CRUCIAL ELECTION FOR OUR COUNTRY",
+    	"content": "By going to Brussels with a strong negotiating hand I can ensure we guarantee our economic security."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Brexit",
+    	"policyDescription": "Ensuring the success of Brexit to protect national interest, security, and economic prosperity."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Theresa May",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "Theresa May",
+  	"tacticalSituation": "A coalition of chaos with Jeremy Corbyn or strong and stable leadership with Theresa May."
+	},
+	"issues": {
+  	"brexitEurope": "Making Brexit a success is crucial for Britain's national interest. Without the right deal, security and economic prosperity are at risk.",
+  	"economy": "A strong negotiating hand in Brussels is necessary to guarantee our economic security.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "Prime Minister",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Theresa May and Alan Duncan a strong and stable leadership for Rutland and Melton, and for Britain."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet positions Theresa May against Jeremy Corbyn, highlighting the importance of strong leadership post-Brexit. Campaign material directly contrasts Theresa May's proposed stable leadership with the portrayed 'coalition of chaos' under Jeremy Corbyn."
+  }
+}
+```

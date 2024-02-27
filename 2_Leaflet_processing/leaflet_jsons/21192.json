@@ -1,0 +1,59 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+	  {
+		"title": "",
+		"content": ""
+	  }
+	],
+	"keyPolicies": [],
+	"mentions": {
+	  "candidate": "",
+	  "otherPartyLeaderCandidate": "Voting Conservative in Scotland could put these men in number 10",
+	  "partyLeader": "",
+	  "tacticalSituation": ""
+	},
+	"issues": {
+	  "brexitEurope": "",
+	  "economy": "",
+	  "education": "",
+	  "environment": "",
+	  "governance": "",
+	  "health": "",
+	  "immigration": "",
+	  "socialWelfare": "",
+	  "housing": []
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+	  "address": "",
+	  "phone": "",
+	  "email": "",
+	  "website": "",
+	  "socialMedia": {
+		"facebook": "",
+		"twitter": "",
+		"instagram": "",
+		"linkedin": ""
+	  }
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+	  "images": [
+		{
+		  "caption": "THINKING OF VOTING CONSERVATIVE IN MAY? Open here to see what could happen if you do..."
+		},
+		{
+		  "caption": "Voting Conservative in Scotland could put these men in number 10"
+		}
+	  ]
+	},
+	"additionalNotes": ""
+  }
+}

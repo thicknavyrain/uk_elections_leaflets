@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Keith Angus",
+    "constituency": "Hackney North and Stoke Newington",
+    "politicalParty": "Lib Dems",
+    "electionDate": "May 6",
+    "messages": [
+      {
+        "title": "It's Going Down To The Wire",
+        "content": "The 2010 General Election is the closest in years in Hackney North and Stoke Newington. It is going to go right down to the finals."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "fair taxes",
+        "policyDescription": "The first £10,000 you earn tax-free; a tax cut of £700 for most people. 3.6 million low earners and pensioners freed from income tax completely. Paid for in full by closing loopholes that unfairly help the wealthy and polluters."
+      },
+      {
+        "policyTitle": "a fair future",
+        "policyDescription": "Creating jobs by making Britain greener. Break up the banks and get them lending again to real businesses. Honesty about the tough choices needed to cut the deficit. Green growth and jobs that last by investing in our infrastructure."
+      },
+      {
+        "policyTitle": "a fair chance",
+        "policyDescription": "Ensure children get the individual attention they need by cutting class sizes. Made possible by investing £2.5 billion in schools targeted to help struggling pupils that need it most. Give schools the freedom to make the right choices for their pupils."
+      },
+      {
+        "policyTitle": "a fair deal",
+        "policyDescription": "Put trust back into politics by giving you the right to sack corrupt MPs. Restore and protect hard-won British civil liberties with a Freedom Bill. Overhaul Westminster completely: fair votes, an elected House of Lords, all politicians to pay full UK taxes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Keith Angus",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "The 2010 General Election is the closest in years in Hackney North and Stoke Newington. It is going to go right down to the finals."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Break up the banks and get them lending again to real businesses.",
+      "education": "Ensure children get the individual attention they need by cutting class sizes.",
+      "environment": "Creating jobs by making Britain greener.",
+      "governance": "Put trust back into politics by giving you the right to sack corrupt MPs. Restore and protect hard-won British civil liberties with a Freedom Bill. Overhaul Westminster completely: fair votes, an elected House of Lords, all politicians to pay full UK taxes.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Candidate for Hackney North and Stoke Newington",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "We have a real opportunity for something really different here. Hackney deserves the sort of radical, dynamic change the Liberal Democrats have been working so hard for in recent weeks in the most visible fight here in Hackney we've seen to date.",
+        "source": "Keith Angus, Liberal Democrat Parliamentary Candidate",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Keith Angus with Nick Clegg"
+        },
+        {
+          "caption": "Lib Dem and Labour poll percentage bars with party logos"
+        }
+      ]
+    },
+    "additionalNotes": "Source: Harris Research 29/04/10"
+  }
+}
+```

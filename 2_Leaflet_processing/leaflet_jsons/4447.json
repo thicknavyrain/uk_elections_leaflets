@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Four steps to a fairer Britain",
+        "content": "Fighting for their future. New Lib Dem plans will give every child a real chance."
+      },
+      {
+        "title": "Fighting for their future",
+        "content": "New Lib Dem plans will give every child a real chance."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer taxes",
+        "policyDescription": "The Lib Dems plan to cut taxes for ordinary families across Britain."
+      },
+      {
+        "policyTitle": "A fresh start for our kids",
+        "policyDescription": "Plans include smaller class sizes under primary school with more one-to-one tuition, cut class sizes to 15, give schools extra resources to teach discipline and get students back on track."
+      },
+      {
+        "policyTitle": "A fair future: create jobs by making Britain greener",
+        "policyDescription": "Invest in public transport, renewable energy and energy efficient homes."
+      },
+      {
+        "policyTitle": "A fair deal for you from the politicians",
+        "policyDescription": "Make politicians accountable and give you the right to sack corrupt MPs."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Lib Dems have announced new plans to cut millions of the tax bills of ordinary families across Britain.",
+      "education": "New Lib Dem plans will give every child a real chance.",
+      "environment": "Invest in public transport, renewable energy and energy efficient homes.",
+      "governance": "Make politicians accountable and give you the right to sack corrupt MPs.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg with children, representing Lib Dem's focus on education and the future of younger generations."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

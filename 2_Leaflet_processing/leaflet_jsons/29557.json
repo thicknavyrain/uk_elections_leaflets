@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rob Pocock",
+    "constituency": "Sutton Coldfield",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "Sutton's top community leader!",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Rob Pocock",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "My pledge is to be honest, trustworthy, hardworking and independent-minded. Happy to be out and about, campaigning on the streets all year round. Not afraid to get my hands dirty, fighting for you and for the whole of Sutton Coldfield!",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Rob's Campaign Centre, FREEPOST RTJL-HYXK-LTKL, Hawthorn Rd, Wylde Green, Sutton Coldfield, B72 1ES",
+      "phone": "07767 326704",
+      "email": "rob@sutton-labour.org.uk",
+      "website": "www.labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@RobPocock1",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Rob Pocock"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

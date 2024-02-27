@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Phil Randle",
+    "constituency": "South West Wiltshire",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "Vote for what you believe in",
+        "content": "Imagine a political system that puts the public first. Imagine an economy that gives everyone their fair share. Imagine a society capable of supporting everyone's needs. Imagine protecting the planet from the threat of climate change now and for the generations to come."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public NHS",
+        "policyDescription": "Fight for a publicly funded, publicly provided health service free at the point of use."
+      },
+      {
+        "policyTitle": "Fair Economy",
+        "policyDescription": "End austerity and restore the public sector, creating over one million good jobs that pay at least a living wage."
+      },
+      {
+        "policyTitle": "Decent Homes",
+        "policyDescription": "Abolish the cruel and unfair bedroom tax. Build 500,000 social rented homes by 2020 and bring empty homes back into use to ensure everyone has access to an affordable, secure, and warm home."
+      },
+      {
+        "policyTitle": "Safe Climate",
+        "policyDescription": "Take serious action on climate change by working with other countries to ensure global temperatures do not rise beyond 2 degrees."
+      },
+      {
+        "policyTitle": "Free Education",
+        "policyDescription": "Scrap university tuition fees. Promote a comprehensive system of local schools offering mixed ability teaching staffed by qualified teachers."
+      },
+      {
+        "policyTitle": "Better Transport",
+        "policyDescription": "Return the railways to public hands to stop passengers being ripped off. Introduce an immediate cut in fares of 10% to give passengers a much-needed financial break."
+      }
+    ],
+    "mentions": {
+      "candidate": "Phil Randle has been selected to represent the South West Wiltshire constituency for the Green Party in the General Election of May 2015. Phil has lived and worked for the past 30 years in this area and is passionate about the exceptional beauty of our towns and villages and the strong community spirit we all enjoy.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett, Green Party Leader",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Build a fair economy that ensures everyone gets their fair share.",
+      "education": "Scrap university tuition fees. Promote a comprehensive system of local schools offering mixed ability teaching staffed by qualified teachers.",
+      "environment": "Fight for a publicly funded, publicly provided health service free at the point of use.",
+      "governance": "",
+      "health": "End the creeping privatisation of the NHS and repeal the Health and Social Care Act.",
+      "immigration": "",
+      "socialWelfare": "Pay for all this with a new Wealth Tax on the top 1%, by a Robin Hood Tax on the banks and by closing the loopholes that let millionaires avoid paying their fair share.",
+      "housing": [
+        {
+          "content": "Abolish the cruel and unfair bedroom tax. Build 500,000 social rented homes by 2020 and bring empty homes back into use.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Phil Randle is your Green Party candidate.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "The Green Party, Development House, 56-64 Leonard Street, London, EC2A 4LT",
+      "phone": "01759 996646",
+      "email": "email@swwiltshire.greenparty.org.uk",
+      "website": "southwilts.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/TheGreenParty",
+        "twitter": "@TheGreenParty",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "The Green Party membership is soaring and more and more people are recognising that the politics of the future doesn't have to look like the politics of the past.",
+        "source": "Natalie Bennett, Green Party Leader",
+        "date": ""
+      },
+      {
+        "text": "Green Party members and activists have been at its core is vital to our party. We're committed to combating climate change, to protecting the natural environment and to the social justice at the heart of what we do.",
+        "source": "Phil Randle, Green Party candidate",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Caroline Lucas with Natalie Bennett; various campaign images."
+        }
+      ]
+    },
+    "additionalNotes": "This publication has not been paid for by big businesses or corporate interests, but has been supported and funded by ordinary people."
+  }
+}
+```

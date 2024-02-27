@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rashid Nix",
+    "constituency": "Dulwich and West Norwood",
+    "politicalParty": "Green Party",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "RASHID SAYS...",
+        "content": "As your MP, I will stand up for what matters."
+      },
+      {
+        "title": "THIS ELECTION ISN'T ABOUT THE NEXT 5 YEARS. IT'S ABOUT THE NEXT 50 YEARS.",
+        "content": "Every Green vote on 8th June will help make that vision a reality."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "To shape an economy for everyone while preserving a safe environment."
+      },
+      {
+        "policyTitle": "Housing and Public Services",
+        "policyDescription": "To build affordable homes and provide properly funded public services."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "To put power back in your hands through a citizens' democracy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rashid Nix",
+      "otherPartyLeaderCandidate": "The Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "The Green Party is offering real opposition to this Government's extreme Brexit.",
+      "economy": "To shape an economy for everyone while preserving a safe environment.",
+      "education": "",
+      "environment": "To shape an economy for everyone while preserving a safe environment.",
+      "governance": "To put power back in your hands through a citizens' democracy.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "To build affordable homes and provide properly funded public services.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm a father of three, a mentor to many, an educational consultant and film maker. I was introduced to politics when my Brixton estate was demolished in a regeneration program. Cuts to services, library closures and a squeeze on local business is fuelling inequality. An unequal society is an unstable society. A lack of opportunities for young people is linked to increasing gang crime. We also have some of the worst air pollution in Europe. We deserve better than this.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "n/a",
+      "phone": "n/a",
+      "email": "rashid.nix@greenparty.org.uk",
+      "website": "n/a",
+      "socialMedia": {
+        "facebook": "facebook.com/RashidNix",
+        "twitter": "twitter.com/RashidNix",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Rashid Nix, Your Green Party Candidate for Dulwich and West Norwood"
+        }
+      ]
+    },
+    "additionalNotes": "This publication has not been paid for by big business or corporate interests. It has been supported and funded by ordinary people."
+  }
+}
+```

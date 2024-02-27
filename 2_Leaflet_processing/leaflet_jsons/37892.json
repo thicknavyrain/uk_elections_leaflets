@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ruth Jones",
+    "constituency": "Newport West",
+    "politicalParty": "Welsh Labour",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "People before privilege",
+        "content": "Ruth Jones is standing up for Newport West."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting for jobs",
+        "policyDescription": "Ruth is fighting for jobs that pay a proper wag and are secure."
+      },
+      {
+        "policyTitle": "Health and the NHS",
+        "policyDescription": "She will stand up for the NHS and local services, and ensure that the Covid-19 recovery does not leave Newport West behind."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Ruth believes that children in Newport West deserve the best start in life."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Mark Drakeford",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Ruth is fighting for jobs that pay a proper wag and are secure.",
+      "education": "Ruth believes that children in Newport West deserve the best start in life.",
+      "environment": "",
+      "governance": "",
+      "health": "She will stand up for the NHS and local services, and ensure that the Covid-19 recovery does not leave Newport West behind.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Ruth Jones for Newport West. Now more than ever, Newport West needs an experienced representative who can deliver for our communities.",
+    "politicalExperience": [
+      {
+        "role": "MP since April 2019",
+        "duration": "",
+        "achievements": "Ruth has been speaking up for Newport West in Parliament since April 2019."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.welshlabour.wales",
+      "socialMedia": {
+        "facebook": "/WelshLabour",
+        "twitter": "@WelshLabour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Mark Drakeford",
+        "endorsement": "Ruth Jones is a champion for Newport West."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Now more than ever, Newport West needs an experienced representative who can deliver for our communities.",
+        "source": "Ruth Jones",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ruth with Mark Drakeford, First Minister"
+        },
+        {
+          "caption": "Ruth working in the local area"
+        }
+      ]
+    },
+    "additionalNotes": "This leaflet mentions 'Together for Newport. Wages. NHS. Education. The Welsh difference.'"
+  }
+}
+```

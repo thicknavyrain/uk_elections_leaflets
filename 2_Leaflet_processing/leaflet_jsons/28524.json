@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Cathy Reynolds",
+    "constituency": "Eddisbury",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "A fresh start for Eddisbury",
+        "content": "Parliament is out of touch with the people. Many communities are not benefiting from economic growth. Change is needed and it needs people like me in Parliament, committed to equality of opportunity and a fairer system, to make it happen."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Cathy Reynolds",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Many communities are not benefiting from economic growth.",
+      "education": "",
+      "environment": "",
+      "governance": "Parliament is out of touch with the people.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "committed to equality of opportunity and a fairer system",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "17 Radcliffe Road, Winsford, Cheshire, CW7 1RF",
+      "phone": "01606 590 995",
+      "email": "cathyreynolds.labour@gmail.com",
+      "website": "www.labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@eddisburylabour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cathy Reynolds standing by a body of water."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

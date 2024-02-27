@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tom Tugendhat",
+    "constituency": "Tonbridge, Edenbridge and Malling",
+    "politicalParty": "Conservative Party",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A personal message from Tom Tugendhat",
+        "content": "Politics for me is about people. It is about serving the community so that our families can grow up in a welcoming, supportive and prosperous society. It is about driving our best so that each of us can achieve our goals. It is about taking responsibility for ourselves. Politics is not a profession, it's a vocation. I've seen the Army, I want a constructive, caring and effective community in Parliament."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A strong economy",
+        "policyDescription": "Supports new businesses and reducing unemployment, backing business and improving high streets."
+      },
+      {
+        "policyTitle": "Education - Great schools",
+        "policyDescription": "Every child should have a chance, working to make every school a good school."
+      },
+      {
+        "policyTitle": "Fast, reliable connections",
+        "policyDescription": "Improving transport and communications, working for better mobile and broadband coverage."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tom Tugendhat",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A strong economy underpins our security, healthcare and education.",
+      "education": "Great schools give every child a chance.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Supports building on the towns' heritage while looking at the future, presumably referring to development.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm a former British Army officer who has run small businesses and is running for Parliament to serve our country and speak up for our community. He's not a professional politician.",
+    "politicalExperience": [
+      {
+        "role": "School governor and army veteran",
+        "duration": "",
+        "achievements": "Fighting for better telecommunications infrastructure; committed to supporting businesses and education."
+      }
+    ],
+    "contactInformation": {
+      "address": "Conservative Party, 5/5a Swan Street, West Malling, Kent, ME19 6JU",
+      "phone": "01732 441944",
+      "email": "",
+      "website": "www.tomtugendhat.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/TomTugendhat",
+        "twitter": "@TomTugendhat",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Discussing the problems facing local traders on our High Street."
+        },
+        {
+          "caption": "Tonbridge station helps our economy by connecting us."
+        },
+        {
+          "caption": "Brookline Coaches have powered growth links to the City."
+        }
+      ]
+    },
+    "additionalNotes": "Tom has a military background and emphasizes his non-professional politician stance, focusing on the community and serving non-political goals such as better schools, a strong economy, and reliable infrastructure."
+  }
+}
+```

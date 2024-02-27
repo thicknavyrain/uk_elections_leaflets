@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stuart Bell",
+    "constituency": "Middlesbrough",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Local businesses must be supported",
+        "content": "Labour has encouraged new business into the Boro, such as First Source, with the prospect of five hundred jobs to be created over two years. Labour is providing around £10M for apprenticeships and support for people to start businesses and up to £20M additional investment in the Wilton International site - strengthening the competitiveness and employment prospects. A further £30M will equip Teesside to move beyond traditional heavy industry to realise its potential to be part of our low carbon manufacturing base."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "New National Care Service",
+        "policyDescription": "Free personal care at home for those with the highest needs."
+      },
+      {
+        "policyTitle": "Training for young people",
+        "policyDescription": "An education or training place for young people up to 18, and a job or training place for 18-24 year olds out of work for 6 months."
+      },
+      {
+        "policyTitle": "Tough action on anti-social behaviour",
+        "policyDescription": "Family intervention projects for families that drive anti-social behaviour."
+      },
+      {
+        "policyTitle": "One week cancer diagnosis",
+        "policyDescription": "Diagnosis within one week if your GP suspects you have cancer."
+      },
+      {
+        "policyTitle": "Deficit halved in four years",
+        "policyDescription": "The deficit will be halved in four years by going for growth and cutting lower-priority expenditure."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stuart Bell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "A further £30M will equip Teesside to move beyond traditional heavy industry to realise its potential to be part of our low carbon manufacturing base.",
+      "governance": "",
+      "health": "One week cancer diagnosis: Diagnosis within one week if your GP suspects you have cancer.",
+      "immigration": "",
+      "socialWelfare": "New National Care Service: Free personal care at home for those with the highest needs.",
+      "housing": [
+        {
+          "content": "Labour has encouraged new business into the Boro, such as First Source, with the prospect of five hundred jobs to be created over two years.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Local businesses must be supported"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

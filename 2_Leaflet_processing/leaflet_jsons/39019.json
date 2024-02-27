@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Isherwood, Sam Rowlands, Barbara Hughes, Gareth Davies",
+    "constituency": "North Wales",
+    "politicalParty": "Welsh Conservative",
+    "electionDate": "6 May",
+    "messages": [
+      {
+        "title": "our recovery plan",
+        "content": "for North Wales..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "IMPROVING ACCESS TO LOCAL HEALTH SERVICES",
+        "policyDescription": "We will cut waiting lists so nobody needs to wait over a year for treatment, and recruit 1,200 more doctors and 2,400 extra nurses by 2026."
+      },
+      {
+        "policyTitle": "DELIVERING A FIRST-CLASS EDUCATION SYSTEM",
+        "policyDescription": "We will increase funding for education in Wales for the next five years so Welsh children get the same opportunities as those elsewhere in the UK."
+      },
+      {
+        "policyTitle": "INVESTING IN ROADS AND TRANSPORT LINKS",
+        "policyDescription": "We will invest in upgrades to the A55 and improve local transport links, so it's easier to do business, to go to work or see family and friends."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Welsh Conservative on 6 May."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

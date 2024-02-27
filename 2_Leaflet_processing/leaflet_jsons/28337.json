@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dan Lodge",
+    "constituency": "Brecon and Radnorshire",
+    "politicalParty": "Welsh Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "No More Cuts",
+        "policyDescription": "Stop the Tories in their tracks: No More Cuts."
+      },
+      {
+        "policyTitle": "Funding in Wales",
+        "policyDescription": "They've slashed Wales' funding by £1.2 Billion."
+      },
+      {
+        "policyTitle": "Local Jobs",
+        "policyDescription": "Local jobs with proper pay."
+      },
+      {
+        "policyTitle": "Living Wage",
+        "policyDescription": "Labour will bring in a Living Wage of £10 per hour."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Make Brexit work for Brecon and Radnorshire."
+      },
+      {
+        "policyTitle": "Jobs, Tourism, and Agriculture",
+        "policyDescription": "We need to promote jobs, tourism and agriculture here."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dan Lodge",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "tactical voting is dangerous, Lib Dems backed the Tories in 2010"
+    },
+    "issues": {
+      "brexitEurope": "Make Brexit work for Brecon and Radnorshire.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "45 Pontwilym, Brecon, LD3 9BS",
+      "phone": "07562 144 363",
+      "email": "danlodgeBR@gmail.com",
+      "website": "vote.labour.org.uk/dan-lodge",
+      "socialMedia": {
+        "facebook": "DanLodgeLabour",
+        "twitter": "@danlodge",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dan Lodge with supporters holding red balloons."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

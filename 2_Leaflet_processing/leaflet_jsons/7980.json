@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "6th May 2010",
+    "messages": [
+      {
+        "title": "Dear Elector",
+        "content": "We're just a few weeks away from a general election. This should be a time of national excitement, but the truth is that a lot of people are completely fed up with politics. They think things will stay the same whoever gets in. If you feel that way I don't blame you. But I'm writing to tell you things can change - together we can change Britain and make life better."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Transparent Government",
+        "policyDescription": "Bringing in transparent government, smashing open the secrecy and shining a light on how your money gets spent."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "To create jobs and grow the economy by supporting people to start their own businesses and get the youth into employment."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Radically reforming the welfare system and involving voluntary groups and charities to help personalise aid."
+      },
+      {
+        "policyTitle": "Social Welfare",
+        "policyDescription": "Helping people through welfare reform to get a job, starting businesses, and supporting first time job seekers."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Making it happen by scrapping Stamp Duty for most first-time buyers."
+      },
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Protecting you from unfair tax hikes. Labour are planning a tax on jobs that will hit millions in the pocket - so we'll cut Labour waste to stop it."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andrew",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "To get the economy moving, support for people to start their own businesses and helping youth into their first jobs.",
+      "education": "",
+      "environment": "",
+      "governance": "Transparent government, smashing open the secrecy and shining a light on how money is spent.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Radically reforming the welfare system, involving voluntary groups and charities to help personalise aid.",
+      "housing": [
+        {
+          "content": "Making it happen by scrapping Stamp Duty for most first-time buyers.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "The choice at this election is clear... Don't miss your chance to vote for that change.",
+        "source": "David Cameron",
+        "date": "12th April 2010"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron, Leader of the Conservative Party"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

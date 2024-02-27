@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "UKIP",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Say NO to the EU",
+    	"policyDescription": "A pledge to oppose the European Union (EU)."
+  	},
+  	{
+    	"policyTitle": "Control our borders",
+    	"policyDescription": "A commitment to implement stricter border control measures."
+  	},
+  	{
+    	"policyTitle": "Extra £3 billion for the NHS",
+    	"policyDescription": "A promise to allocate an additional £3 billion in funding to the National Health Service (NHS)."
+  	},
+  	{
+    	"policyTitle": "Cut foreign aid spending",
+    	"policyDescription": "A proposal to reduce the spending on foreign aid."
+  	},
+  	{
+    	"policyTitle": "No tax on the minimum wage",
+    	"policyDescription": "A policy to ensure that earnings from the minimum wage are not subject to taxation."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Say NO to the EU",
+  	"economy": "No tax on the minimum wage",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Extra £3 billion for the NHS",
+  	"immigration": "Control our borders",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "ukip.org",
+  	"socialMedia": {}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "UKIP's Pledge to Britain."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

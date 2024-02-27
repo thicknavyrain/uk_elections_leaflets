@@ -1,0 +1,95 @@
+{
+	"leaflet": {
+		"candidateName": "Chris Williamson",
+		"constituency": "Derby North",
+		"politicalParty": "Labour",
+		"electionDate": "Thursday 8 June",
+		"messages": [
+			{
+				"title": "Winning Back the Future for Derby North",
+				"content": "Labour pledges investment in the NHS services at the point of need and to end the failed privatisation of our National Health Service"
+			},
+			{
+				"title": "A million more homes to be built",
+				"content": "Labour wants to end the failed privatisation of our National Health Service."
+			}
+		],
+		"keyPolicies": [
+			{
+				"policyTitle": "EDUCATION",
+				"policyDescription": "Labour promises to scrap tuition fees and reintroduce maintenance allowances."
+			},
+			{
+				"policyTitle": "SEGREGATION",
+				"policyDescription": "Labour aims to tackle the Tory housing crisis that is segregating our communities, by building homes for the many, not investment opportunities for the few."
+			},
+			{
+				"policyTitle": "NHS",
+				"policyDescription": "Labour pledges investment in the NHS services at the point of need and to end the failed privatisation of our National Health Service."
+			}
+		],
+		"mentions": {
+			"candidate": "Chris Williamson",
+			"otherPartyLeaderCandidate": "",
+			"partyLeader": "",
+			"tacticalSituation": ""
+		},
+		"issues": {
+			"brexitEurope": "",
+			"economy": "",
+			"education": "Labour promises to scrap tuition fees and reintroduce maintenance allowances.",
+			"environment": "",
+			"governance": "",
+			"health": "Labour pledges investment in the NHS services at the point of need and to end the failed privatisation of our National Health Service.",
+			"immigration": "",
+			"socialWelfare": "",
+			"housing": [
+				{
+					"content": "Labour aims to tackle the Tory housing crisis that is segregating our communities, by building homes for the many, not investment opportunities for the few.",
+					"yimbyNimby": "YIMBY"
+				}
+			]
+		},
+		"personalStatement": "",
+		"politicalExperience": [
+			{
+				"role": "",
+				"duration": "",
+				"achievements": ""
+			}
+		],
+		"contactInformation": {
+			"address": "",
+			"phone": "",
+			"email": "",
+			"website": "",
+			"socialMedia": {
+				"facebook": "",
+				"twitter": "",
+				"instagram": "",
+				"linkedin": ""
+			}
+		},
+		"endorsements": [
+			{
+				"endorser": "Jeremy Corbyn",
+				"endorsement": "Chris will be a strong voice for Derby North, standing up against Tory cuts and standing up for Labour’s plan to transform Britain."
+			}
+		],
+		"quotes": [
+			{
+				"text": "",
+				"source": "",
+				"date": ""
+			}
+		],
+		"campaignMaterial": {
+			"images": [
+				{
+					"caption": "Chris Williamson with Labour Leader Jeremy Corbyn"
+				}
+			]
+		},
+		"additionalNotes": ""
+	}
+}

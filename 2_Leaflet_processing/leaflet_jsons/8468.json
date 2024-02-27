@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Barker",
+    "constituency": "Hall Green Constituency",
+    "politicalParty": "Conservatives",
+    "electionDate": "2010",
+    "messages": [
+      {
+        "title": "Change",
+        "content": "Vote Blue... Go Green"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Environmental Responsibility",
+        "policyDescription": "Encourage responsibility on waste. Work to include financial incentives for recycling, cut carbon emissions and offer every household a 'Green Deal' towards home insulation to save up to £650."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jo Barker",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am a member of the Conservative Party Human Rights Commission campaigning for a human rights based foreign policy with Tony Baldry MP - the Chairman.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jo Barker with David Cameron"
+        },
+        {
+          "caption": "Jo Barker meets local environmentalists"
+        },
+        {
+          "caption": "Jo Barker engaging with constituents"
+        }
+      ]
+    },
+    "additionalNotes": "Not a penny of taxpayers' money was spent on producing this leaflet."
+  }
+}
+```

@@ -1,0 +1,117 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Theresa May",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "IN ONLY A HANDFUL OF DAYS:",
+        "content": "A vote for anyone other than Theresa May and her team will risk our economic future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "The best Brexit deal and economic security for Britain."
+      },
+      {
+        "policyTitle": "Leadership",
+        "policyDescription": "Strong and stable leadership"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Back those who want to work hard, by helping businesses create more and better-paid jobs - with new rights and protections for workers."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Help more people have a home of their own by building more affordable houses."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Tackle the cost of living by capping rip-off energy tariffs and keeping taxes low."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Make sure every child gets the best start in life by increasing school funding every year, and provide real technical education for young people."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Increase the NHS's budget every year to ensure every family has the care they need, and we can pay for and provide care for the elderly."
+      },
+      {
+        "policyTitle": "Online Security",
+        "policyDescription": "Provide security for children online and ensure our personal data is protected in the digital age."
+      },
+      {
+        "policyTitle": "National Security",
+        "policyDescription": "Protect our national security and defenses by fighting terrorism and taking effective action against extremists."
+      }
+    ],
+    "mentions": {
+      "candidate": "Theresa May",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "The best Brexit deal and economic security for Britain.",
+      "economy": "Back those who want to work hard, by helping businesses create more and better-paid jobs - with new rights and protections for workers.",
+      "education": "Make sure every child gets the best start in life by increasing school funding every year, and provide real technical education for young people.",
+      "environment": "",
+      "governance": "A vote for anyone other than Theresa May and her team will risk our economic future.",
+      "health": "Increase the NHS's budget every year to ensure every family has the care they need, and we can pay for and provide care for the elderly.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Help more people have a home of their own by building more affordable houses.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Theresa May's Plan for a Stronger Britain"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

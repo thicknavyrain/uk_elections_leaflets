@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Witney",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday",
+    "messages": [
+      {
+        "title": "VOTE TO SECURE BRITAIN’S FUTURE ON THURSDAY",
+        "content": "I am proud to represent you as MP for Witney - supporting our rural economy, protecting our schools and hospitals, improving transport, helping flood victims and fighting your corner in Parliament. This general election, I am not just standing to be your MP but also your Prime Minister for a second term."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Long-term economic plan",
+        "policyDescription": "Building a stronger, healthier economy so that everyone can enjoy a decent job, more money at the end of the month, good schools for our children, the security of owning your own home and dignity in retirement."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "",
+      "tacticalSituation": "The choice in this election couldn’t be clearer: stick with a competent, strong Conservative team led by me, your voice in Parliament, and a long-term plan that is working. Or put it all at risk with Ed Miliband as PM and the chaos of more spending, more borrowing and higher taxes."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Our long-term economic plan is building a stronger, healthier economy so that everyone can enjoy a decent job, with more money at the end of the month.",
+      "education": "Good schools for our children.",
+      "environment": "",
+      "governance": "",
+      "health": "Protecting our schools and hospitals.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The security of owning your own home.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am proud to represent you as MP for Witney.",
+    "politicalExperience": [
+      {
+        "role": "MP for Witney",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "Prime Minister",
+        "duration": "seeking a second term",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote to secure Britain’s future on Thursday"
+        }
+      ]
+    },
+    "additionalNotes": "Now more than ever we need strong and competent leadership, not chaos and instability."
+  }
+}
+```

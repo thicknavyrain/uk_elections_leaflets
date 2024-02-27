@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr Mark Lloyd Davies",
+    "constituency": "Bristol South",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "60 SECOND Q&A with Dr MARK LLOYD DAVIES",
+        "content": "Various answers given by the candidate on topics such as change, support for the local economy, the NHS, taxes, crime, and the Green Belt."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Cut corporation and business taxes, abolish taxes on the first ten jobs created by new businesses, promote green jobs, and repeal job-killing welfare and work controls."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Promote healthcare by removing layers of bureaucracy and making clinical need and patient safety the top priorities."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "Free up the police from bureaucracy so they can cut serious crime, and put more police on streets instead of behind desks."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Scrap Labour's unelected regional planning system, which forces house construction, and let local communities and their elected councils make decisions."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr Mark Lloyd Davies",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Cut corporation and business taxes, abolish taxes on the first ten jobs created by new businesses, promote green jobs, and repeal job-killing welfare and work controls.",
+      "education": "",
+      "environment": "Scrap Labour's unelected regional planning system, which forces house construction, and let local communities and their elected councils make decisions.",
+      "governance": "",
+      "health": "Promote healthcare by removing layers of bureaucracy and making clinical need and patient safety the top priorities.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Scrap Labour's unelected regional planning system, which forces house construction, and let local communities and their elected councils make decisions.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "5 Westfield Park, Bristol, BS6 6LT",
+      "phone": "0117 9736812",
+      "email": "mark@marklloyddavies.com",
+      "website": "www.marklloyddavies.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photos of Mark Lloyd Davies and endorsements for his campaign against waste, for protecting the Green Belt, and improving healthcare."
+        }
+      ]
+    },
+    "additionalNotes": "Mark has a PhD in Climate Change and believes in community action."
+  }
+}
+```

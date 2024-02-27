@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "PETER JONES",
+    "constituency": "CHESHAM AND AMERSHAM",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "JUNE 8th",
+    "messages": [
+      {
+        "title": "OUR COUNTRY NEEDS A STRONG OPPOSITION",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting against Hard Brexit",
+        "policyDescription": "Liberal Democrats are the only party that has always fought for Britain’s membership of the European Union, and they are fighting for you to have your say on the final Brexit deal."
+      },
+      {
+        "policyTitle": "Standing up for the NHS",
+        "policyDescription": "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give the NHS the funds it needs."
+      },
+      {
+        "policyTitle": "Protecting the Green Belt",
+        "policyDescription": "Peter Jones will press ministers to tell the truth. Will they protect the Green Belt? Or will the Government force local councils to build thousands of houses on green fields?"
+      }
+    ],
+    "mentions": {
+      "candidate": "PETER JONES",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Fighting against Hard Brexit",
+      "economy": "",
+      "education": "Opposing school cuts",
+      "environment": "Protecting the Green Belt",
+      "governance": "",
+      "health": "Standing up for the NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Protecting the Green Belt - Will the Government force local councils to build thousands of houses on green fields?",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "libdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "PETER JONES LIBERAL DEMOCRATS THE STRONG VOICE FOR US"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

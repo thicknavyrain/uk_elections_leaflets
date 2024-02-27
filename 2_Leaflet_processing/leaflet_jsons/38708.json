@@ -1,0 +1,72 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Caroline Jackson",
+    "constituency": "Lancaster and Fleetwood",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "YOUR GREEN PARTY CANDIDATE",
+        "content": "YES TO EUROPE. NO TO CLIMATE CHAOS"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Caroline Jackson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "YES TO EUROPE",
+      "economy": "protecting our livelihoods and our environment from economic uncertainty",
+      "education": "",
+      "environment": "NO TO CLIMATE CHAOS",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have lived in Lancashire for thirty years and have worked as a teacher. I believe in the power of Lancashire communities where people look after each other and stand up for what they believe in. Over the past ten years I have been in the centre of local issues, working hard as a charity volunteer, an environmental campaigner and an elected city councillor. As your Green MP I will fight for a future that's fair and just, protecting our livelihoods and our environment from economic uncertainty and climate change.",
+    "politicalExperience": [
+      {
+        "role": "charity volunteer, environmental campaigner, elected city councillor",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "112A Dovedale Road, Lancaster",
+      "phone": "",
+      "email": "",
+      "website": "WWW.GREENPARTY.ORG.UK",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Caroline Jackson with another member of the Green Party"
+        },
+        {
+          "caption": "Caroline Jackson"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

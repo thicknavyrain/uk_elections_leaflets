@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Labour will invest in our town centres",
+        "content": "Britain's high streets are suffering but the Tory government has no real plan to help."
+      },
+      {
+        "title": "Rebuilding Britain",
+        "content": "Our communities, hundreds of thousands of jobs, and our economy depend on successful high streets."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investment in Town Centres",
+        "policyDescription": "Create regional development banks to invest in communities and local businesses, improve bus services and introduce free bus travel for under 25s, put more police on the beat to keep streets safe, ban cash machine charges and stop bank and post office closures, introduce fairer business rates so high streets, independent shops, markets and pubs don't suffer."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk/rebuildingbritain",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour will invest in our town centres"
+        },
+        {
+          "caption": "Rebuilding Britain for the many not the few."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

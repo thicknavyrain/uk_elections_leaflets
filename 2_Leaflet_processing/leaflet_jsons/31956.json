@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Cllr Paul Zukowskyj",
+    "constituency": "Welwyn Hatfield",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "What does Brexit really mean?",
+        "content": "Brexit means walking away from agreements that have brought 70 years of peace and co-operation across our continent, the longest period of peace since the Roman empire."
+      },
+      {
+        "title": "The best deal on the table",
+        "content": "The best deal on the table is the deal we already have. If you want to limit the damage to our economy, our society and our global reputation, say No to Brexit, through revoking article 50, by supporting the Liberal Democrats."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Opposition to Brexit, advocating for staying in the EU and revoking Article 50 to maintain current agreements and limit damage to economy, society, and global reputation."
+      }
+    ],
+    "mentions": {
+      "candidate": "Paul Zukowskyj",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "P.P.S. We're the only serious challengers in Welwyn Hatfield to the Brexiteers - as shown by the results of elections this year."
+    },
+    "issues": {
+      "brexitEurope": "Brexit means walking away from agreements that have brought 70 years of peace and co-operation across our continent. ... We're the only serious challengers in Welwyn Hatfield to the Brexiteers - as shown by the results of elections this year.",
+      "economy": "Brexit means higher prices. Since we voted to leave the EU, the pound has dropped against the euro and the US dollar.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01707 256262",
+      "email": "Paul@welhatlibdems.org.uk",
+      "website": "welhatlibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Paul Zukowskyj's portrait and election results charts"
+        }
+      ]
+    },
+    "additionalNotes": "P.S. We'd really like to hear your views, check out our survey at welhat/survey"
+  }
+}
+```

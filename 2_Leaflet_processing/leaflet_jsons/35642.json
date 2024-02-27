@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Julian Sturdy",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "ANOTHER HUNG PARLIAMENT. OR A MAJORITY CONSERVATIVE GOVERNMENT.",
+        "content": "Your vote will decide. Just NINE more seats to secure a majority government."
+      },
+      {
+        "title": "VOTE THIS THURSDAY FOR:",
+        "content": "A strong economy with more jobs and lower taxes. Billions extra for our NHS, schools, and police. Action to protect our environment and York's green belt."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "A strong economy with more jobs and lower taxes."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Billions extra for our NHS."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Billions extra for...schools."
+      },
+      {
+        "policyTitle": "Law enforcement",
+        "policyDescription": "Billions extra for...police."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Action to protect our environment and York's green belt."
+      }
+    ],
+    "mentions": {
+      "candidate": "Julian Sturdy",
+      "otherPartyLeaderCandidate": "Jo Swinson, Jeremy Corbyn, Nicola Sturgeon",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": "A hung Parliament would mean Jeremy Corbyn as Prime Minister – propped up by the SNP."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A strong economy with more jobs and lower taxes.",
+      "education": "Billions extra for...schools.",
+      "environment": "Action to protect our environment and York's green belt.",
+      "governance": "",
+      "health": "Billions extra for our NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Action to protect York's green belt.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": "An effective local MP with a proven record of delivery."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01904 788 355",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Graphic showing 'Just NINE more seats to secure a majority government' with parliamentary seats count."
+        }
+      ]
+    },
+    "additionalNotes": "Polling Stations are open from 7am to 10pm. AND BY THE WAY... sections giving information about Postal Vote, not needing ID to vote, and offer for help."
+  }
+}
+```

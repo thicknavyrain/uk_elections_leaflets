@@ -1,0 +1,114 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Edwards",
+    "constituency": "Beaconsfield",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "We must keep our hospitals",
+        "content": "Local NHS Trusts are trying to cut costs by closing community hospitals - the Lib Dems stopped them. If elected, I will continue to protect community hospitals."
+      },
+      {
+        "title": "Dignity in old age",
+        "content": "I work to ensure that older members of our community can live independently where possible."
+      },
+      {
+        "title": "Good education for all",
+        "content": "Nothing is more important than ensuring our children have the best start in life. I believe in smaller class sizes and ensuring every child is able to fulfil their potential."
+      },
+      {
+        "title": "Anti-social behaviour",
+        "content": "Crime and anti-social behaviour are issues that concern so many of us. I will work with local police to make sure we get the resources to tackle this problem."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Protect community hospitals from closure and ensure older community members can live independently."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Advocate for smaller class sizes and support every child in fulfilling their potential."
+      },
+      {
+        "policyTitle": "Community Safety",
+        "policyDescription": "Collaborate with local police to secure necessary resources to combat crime and anti-social behaviour."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Edwards",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Beaconsfield has always been a safe Tory seat but this year there is everything to play for."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Ensuring our children have the best start in life.",
+      "environment": "",
+      "governance": "",
+      "health": "Protect community hospitals from closure.",
+      "immigration": "",
+      "socialWelfare": "Ensure that older members of our community can live independently.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "My goal... is to serve you - the voter. I will work hard to listen to your views, respond to your concerns, and stand up for you and our community.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01753 678 693 / 07968 286 591",
+      "email": "",
+      "website": "http://www.beaconsfieldlibdems.com/",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@JohnEdwards",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John with local community members."
+        },
+        {
+          "caption": "John supports dignity in old age."
+        },
+        {
+          "caption": "John advocating for good education."
+        },
+        {
+          "caption": "John is committed to tackling anti-social behaviour."
+        }
+      ]
+    },
+    "additionalNotes": "John Edwards is an experienced NHS campaigner against privatisation cuts. With a pragmatic approach to Brexit, he believes in local solutions to national problems."
+  }
+}
+```

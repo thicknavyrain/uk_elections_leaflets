@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sally Prentice",
+    "constituency": "North Herefordshire",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May 2015",
+    "messages": [
+      {
+        "title": "An Effective Voice for North Herefordshire",
+        "content": "The outcome of the General Election will be vital for jobs and businesses in Herefordshire."
+      },
+      {
+        "title": "Britain faces a choice. The future of our NHS is at stake.",
+        "content": "Five more years of the Conservatives will mean a worsening health service crisis with waiting lists rising. The Tories and Lib Dems wasted £3 billion of our money on a reorganisation which has left the NHS at breaking point; in the last twelve months over a million people have waited more than four hours in A&E. The next Labour Government will invest in more doctors, nurses and midwives and will improve mental health services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Labour will invest in young people.",
+        "policyDescription": "Too much time under the Tories and Lib Dems. 750,000 young people are unemployed and many more are in low paid, insecure jobs. Labour's technical degrees will provide a ladder to well paid jobs for young people."
+      },
+      {
+        "policyTitle": "Labour will support hard working people.",
+        "policyDescription": "Labour will raise the minimum wage to £8 per hour by 2020 to make sure that hard work is matched by fair pay. We will also stop exploitative zero hours contracts. Under the Tories people are £1600 a year worse off. Labour's commitment to build more affordable housing will help young people get on the housing ladder. Working parents with 3 and 4 year-olds will benefit from 25 hours free childcare."
+      }
+    ],
+    "mentions": {
+      "candidate": "I hope you will vote Labour to protect jobs and support businesses.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The outcome of the General Election will be vital for jobs and businesses in Herefordshire.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Five more years of the Conservatives will mean a worsening health service crisis with waiting lists rising.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour's commitment to build more affordable housing will help young people get on the housing ladder.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I am a former senior manager with Age UK. I grew up in a rural community so I know the issues that people face: poor transport, low pay, lack of public services. The result of the General Election matters. The Tories and UKIP want to leave the EU. This would be a disaster for firms that rely on skilled rural labour and to tourism. I hope you will vote Labour to protect jobs and support businesses.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "North Herefordshire Labour Party 14 Kenilin Court Leominster HR6 8PZ",
+      "phone": "07970 982417",
+      "email": "[email protected]",
+      "website": "www.herefordshirelabour.com",
+      "socialMedia": {
+        "facebook": "www.facebook.com/herefordshirelabour",
+        "twitter": "@SallyPrentice",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "I will be voting for our Labour candidate Sally Prentice as I would not be here today without the NHS. When I had a heart attack the NHS response and care were first rate. But the NHS we know now will not be around in the future if the Tories win.",
+        "source": "Pam Smith, NHS patient, Aymestrey",
+        "date": ""
+      },
+      {
+        "text": "I have pleasure in recommending Sally as a first-rate candidate to represent Herefordshire. As an environmental Councillor, Sally is enthusiastic, hardworking and knowledgeable. She is seriously worried about A&E at Hereford hospital, as it could close. She is working to save it.",
+        "source": "John Thomas, Retired teacher and former County and Town Councillor",
+        "date": ""
+      },
+      {
+        "text": "I support Sally because Labour is the only party that is serious about protecting our environment.",
+        "source": "Philippa Roberts, Business woman, environmental campaigner and mum, Kimbolton",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Pam Smith with Sally Prentice"
+        },
+        {
+          "caption": "John Thomas with Sally Prentice"
+        },
+        {
+          "caption": "Philippa Roberts with Sally Prentice"
+        },
+        {
+          "caption": "Sally Prentice"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

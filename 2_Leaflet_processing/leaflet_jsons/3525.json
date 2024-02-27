@@ -1,0 +1,102 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Maggie Daniell",
+    "constituency": "Frome",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Fair taxes for all",
+        "content": "The Lib Dems want to cut the tax bills of middle families. Vince Cable, the Lib Dem Shadow Chancellor, has announced plans that will save most families over £700 each year."
+      },
+      {
+        "title": "Is Mendip Council the worst?",
+        "content": "This is a question many local people have been asking themselves after Mendip District Council received the lowest possible mark in an audit of council services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Cut the tax bills of middle families, saving most families over £700 each year. Close loopholes exploited by the wealthy, by closing tax havens, introducing a 'mansion tax' on properties worth over £2 million."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Support for the NHS, with David Heath referencing a new hospital built after years of local campaigning."
+      },
+      {
+        "policyTitle": "Local Government",
+        "policyDescription": "Criticism of Mendip District Council's performance, having received the lowest possible mark in an audit of council services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Maggie Daniell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Plan to cut the tax bills.",
+      "education": "",
+      "environment": "",
+      "governance": "Criticism of Mendip District Council.",
+      "health": "Support for the NHS mentioned with regard to Frome's £15m hospital.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Introduction of a 'mansion tax' on properties worth over £2 million.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.libdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The move would see the average middle earner take home an extra £700",
+        "source": "Daily Mirror",
+        "date": ""
+      },
+      {
+        "text": "Mendip District Council received the lowest mark possible in the Audit Commission's review of local services.",
+        "source": "BBC news website 9/12/9",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Maggie Daniell with another individual campaigning for cleaner streets."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

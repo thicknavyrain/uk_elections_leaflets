@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Karmel Stannard",
+    "constituency": "Saffron Walden Constituency",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "GOVERNMENT SHOULD CARE!",
+        "content": "Profits for the wealthy have been put ahead of caring for the electorate by government for too long. They force ordinary people to suffer Austerity Cuts and squeeze small local businesses, while allowing Corporations and the Super Rich to avoid paying up to £120 BILLION in tax."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer Taxation",
+        "policyDescription": "Stopping super rich and corporation tax dodging."
+      },
+      {
+        "policyTitle": "Affordable Housing",
+        "policyDescription": "Social housing for local people."
+      },
+      {
+        "policyTitle": "Investment in Education",
+        "policyDescription": "Scrapping tuition fees for our young people's future."
+      },
+      {
+        "policyTitle": "Renationalising Public Transport",
+        "policyDescription": "Making it reliable and low cost."
+      },
+      {
+        "policyTitle": "Healthcare for All",
+        "policyDescription": "Essential free NHS care for all, and free social care for the elderly."
+      },
+      {
+        "policyTitle": "Support Local Economy",
+        "policyDescription": "Support and investment in small local businesses and farmers."
+      },
+      {
+        "policyTitle": "Protecting the Environment",
+        "policyDescription": "Saving our green belt. Using brown field sites for new housing."
+      }
+    ],
+    "mentions": {
+      "candidate": "Karmel Stannard",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "We will scrap tuition fees.",
+      "environment": "Saving our green belt. Using brown field sites for new housing.",
+      "governance": "Profits for the wealthy have been put ahead of caring for the electorate by government for too long.",
+      "health": "Essential free NHS care for all, and free social care for the elderly.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Social housing for local people.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "9 Rock Road, Southend-on-sea, Essex SS2 5QF.",
+      "phone": "",
+      "email": "Green4SW@outlook.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@Green4SW",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Election Communication for Green Party - Saffron Walden Constituency."
+        }
+      ]
+    },
+    "additionalNotes": "Figure given by the PCS (the HMRC tax workers union)."
+  }
+}
+```

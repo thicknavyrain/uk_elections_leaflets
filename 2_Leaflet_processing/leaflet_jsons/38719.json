@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Cat Smith",
+    "constituency": "Lancaster and Fleetwood",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12th",
+    "messages": [
+      {
+        "title": "",
+        "content": "Over the last four years, it has been a huge privilege to serve as your local Member of Parliament. With your backing, I hope to be able to continue fighting for you and those dearest to you."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public Services",
+        "policyDescription": "Labour will give our NHS the investment it requires, bring more doctors, GPs and nurses to give patients the care they desperately need."
+      },
+      {
+        "policyTitle": "Police",
+        "policyDescription": "If re-elected I’ll keep fighting for more bobbies on the beat to tackle crime and anti-social behaviour and keep local people safe."
+      },
+      {
+        "policyTitle": "Protecting Public Assets",
+        "policyDescription": "Labour will protect the Triple Lock on pensions to ensure pensioners see their incomes keep up with wages and will reverse the Tory plan to charge most pensioners over £150 for a TV license."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Labour will sort Brexit within three months by negotiating a deal that ensures trade continuity and protects rights, followed by a public vote offering a choice between such a deal and remain."
+      },
+      {
+        "policyTitle": "National Services",
+        "policyDescription": "Labour's bold vision for Britain is taking back control. Taking back control of our mail, rail, energy and water. Making sure they're run in the interests of the people and not a few super-rich investors at the top."
+      }
+    ],
+    "mentions": {
+      "candidate": "Cat Smith",
+      "otherPartyLeaderCandidate": "the Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Labour will sort Brexit. With three months of coming to power a Labour government will agree a Brexit that keeps the trade-related parts of our EU relationship",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Taking back control of our mail, rail, energy, and water.",
+      "health": "Labour will give our NHS the investment it requires.",
+      "immigration": "",
+      "socialWelfare": "Labour will protect the Triple Lock on pensions to ensure pensioners see their incomes keep up with wages.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I live locally, I’m raising my family here, and I'm proud to have delivered for local people.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament",
+        "duration": "Last four years",
+        "achievements": "Delivered for local people, ensured a thriving city centre, the right mix of high quality housing that is affordable for local people, and public services that meet the needs of our city's population."
+      }
+    ],
+    "contactInformation": {
+      "address": "Scotforth Labour Hall, 47 Scotforth Road, Lancaster, LA1 4SA",
+      "phone": "01524 566 570",
+      "email": "cat@catsmith.co.uk",
+      "website": "www.catsmith.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cat Smith, Labour candidate for Lancaster and Fleetwood, standing next to campaign branding."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Kirsty Blackman",
+	"constituency": "",
+	"politicalParty": "SNP",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "A Strong Voice for Scotland",
+    	"content": "Standing against Tory cuts"
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Kirsty Blackman",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "28 Laurelwood Avenue, Aberdeen, AB25 3SL",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Re-elect Kirsty Blackman as your local MP"
+    	}
+  	]
+	},
+	"additionalNotes": "Promoted by John West on behalf of Kirsty Blackman, both at 28 Laurelwood Avenue, Aberdeen, AB25 3SL. Printed by McKenzie Print, Unit 12, Wellheads Crescent, Dyce, AB21 7GA."
+  }
+}
+```

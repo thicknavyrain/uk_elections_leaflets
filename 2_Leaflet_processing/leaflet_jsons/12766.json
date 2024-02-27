@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alan Campbell",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 6 May",
+    "messages": [
+      {
+        "title": "DON'T RISK STAYING AT HOME AND NOT VOTING",
+        "content": "Vote for Labour's Alan Campbell on Thursday 6 May"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Alan Campbell is number 3 on the ballot paper",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Alan Campbell is number 3 on the ballot paper"
+        }
+      ]
+    },
+    "additionalNotes": "IT'S YOUR FUTURE. VOTE FOR IT."
+  }
+}
+```

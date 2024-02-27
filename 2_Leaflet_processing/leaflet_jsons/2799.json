@@ -1,0 +1,106 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sandra Gidley",
+    "constituency": "Romsey and Southampton North",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Real Change for Britain",
+        "content": "Nick Clegg's Liberal Democrats are fighting for real change for Britain. Labour have let us down and the Conservatives will not deliver the real change Britain needs."
+      },
+      {
+        "title": "Local and National Issues",
+        "content": "What would you like to change about our local area?"
+      },
+      {
+        "title": "Sandra Gidley’s Residents’ Survey",
+        "content": "Taking opinions on local issues such as health services, crime, and transport."
+      },
+      {
+        "title": "About You",
+        "content": "Engaging residents to update records and receive news of Sandra Gidley's work via email."
+      },
+      {
+        "title": "Fighting Crime",
+        "content": "I'm fighting to put more police on the beat, protect local health services and cut taxes for ordinary local people."
+      },
+      {
+        "title": "It's Sandra Gidley or the Conservatives here",
+        "content": "Voting Labour will mean a Conservatie MP for Romsey and Southampton North."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health Services",
+        "policyDescription": "Protect and improve local health services."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "More police on the streets to make areas safe."
+      },
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Cut taxes for ordinary local people."
+      },
+      {
+        "policyTitle": "Transport and Travel",
+        "policyDescription": "Address problems with local travel and transport services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sandra Gidley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "It's Sandra Gidley or the Conservatives here; Voting Labour will mean a Conservative MP for Romsey and Southampton North."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protect and improve local health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have worked hard for our area for 10 years. I want to know your priorities so I can continue standing up for you on issues that matter.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "10 years",
+        "achievements": "Worked hard for the area"
+      }
+    ],
+    "contactInformation": {
+      "address": "Sandra Gidley’s Residents' Survey, FREEPOST, 3A Victoria Place, Love Lane, Romsey, SO51 8DE",
+      "phone": "",
+      "email": "",
+      "website": "www.libdems.org.uk/act",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg quoted for supporting real change in Britain."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet includes a survey asking residents for opinions on local issues and the performance of local services."
+  }
+}
+```

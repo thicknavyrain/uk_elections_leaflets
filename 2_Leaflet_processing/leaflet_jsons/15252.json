@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ian Kealey",
+    "constituency": "North Somerset",
+    "politicalParty": "UK Independence Party (UKIP)",
+    "electionDate": "March 2015",
+    "messages": [
+      {
+        "title": "",
+        "content": "UKIP won here last year, we are set to win again this year! Voting in this election the same way as last time will give us a UKIP MP"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Ian Kealey says...",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Graph showing 'Winning in North Somerset' with different party bars"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet promotes the notion that a vote for UKIP, as in the previous year, could lead to a UKIP MP being elected in North Somerset, suggesting a tactical voting message without explicitly stating historical voting patterns."
+  }
+}
+```

@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Patrick Grady",
+	"constituency": "Glasgow North",
+	"politicalParty": "SNP",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "West End planning: too much of a good thing?",
+    	"content": "There's a lot going on in Woodlands, Hillhead and the West End at the moment: plans to redevelop the much-loved Otago Lane; new flats proposed for the old petrol station site on Great Western Road; and threats to the Botanic Gardens Garage in Vinicombe Street. The SNP team in Glasgow North believe local people should have their say on these proposals."
+  	}
+	],
+	"keyPolicies": [
+	  {
+    	"policyTitle": "Housing and Development",
+    	"policyDescription": "Believe that local people should have input on redevelopment projects in Woodlands, Hillhead, and the West End, specifically mentioning Otago Lane, the old petrol station site on Great Western Road, and the Botanic Gardens Garage in Vinicombe Street."
+	  },
+	  {
+    	"policyTitle": "Taxation",
+    	"policyDescription": "The SNP has given local councils the ability to freeze council tax for the third year running."
+	  },
+	  {
+    	"policyTitle": "Law and Order",
+    	"policyDescription": "The SNP government has put over 1000 extra police on the streets in Scotland and has also received endorsement from Glasgow SNP MSP Sandra White highlighting the SNP's effort to curb crime and anti-social behaviour."
+	  }
+	],
+	"mentions": {
+  	"candidate": "Patrick Grady is standing for the SNP in Glasgow North. He works as a researcher in the Scottish Parliament.",
+  	"otherPartyLeaderCandidate": "The Labour-led city council and their community interests ahead of the profits of developers and big companies.",
+  	"partyLeader": "",
+  	"tacticalSituation": "The SNP won the June 2009 Euro elections in Glasgow North, showing we've got what it takes to win at Westminster. Local people in Glasgow North are voting SNP - We've Got What It Takes to Win!"
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "The SNP gave councils the power to freeze council taxes to help families through economic crisis.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Plans to redevelop Otago Lane, build new flats on Great Western Road, threats to Botanic Gardens Garage.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "Researcher",
+    	"duration": "",
+    	"achievements": "Works as a researcher in the Scottish Parliament."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "patrick@patrickgrady.org",
+  	"website": "www.patrickgrady.org",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Sandra White, Glasgow SNP MSP",
+    	"endorsement": "Supports the SNP government's effort to curb crime and anti-social behaviour."
+  	}
+	],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Patrick Grady, SNP Candidate for Glasgow North"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Craig Williams",
+    "constituency": "Cardiff North",
+    "politicalParty": "Welsh Conservatives",
+    "electionDate": "7th May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Growing the economy",
+        "policyDescription": "So we can afford the public services we all need."
+      },
+      {
+        "policyTitle": "Securing investment in Cardiff's railway lines and championing faster broadband across the city",
+        "policyDescription": "Investment in Cardiff’s infrastructure for improved transportation and connectivity."
+      },
+      {
+        "policyTitle": "Fairer pensions, more jobs, and more security for families across Cardiff",
+        "policyDescription": "Enhance financial stability and job security for families in Cardiff."
+      }
+    ],
+    "mentions": {
+      "candidate": "Craig Williams",
+      "otherPartyLeaderCandidate": "Ed Miliband, Vince Cable, Alex Salmond",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Job total hits record high while wages surge. Tax cuts for workers and savers. A better future for you, your family and Wales. Britain can't afford it, and you'll have to pay for it with Labour",
+      "education": "",
+      "environment": "",
+      "governance": "Labour risks £170bn extra debt. More debt. Labour's Scottish alliance",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Benefits cap 'leads more into work'",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "craig-williams.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Craig Williams with constituents."
+        }
+      ]
+    },
+    "additionalNotes": "Election Communication"
+  }
+}
+```

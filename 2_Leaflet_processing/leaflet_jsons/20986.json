@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Eddie Powell",
+    "constituency": "Maidstone & Weald",
+    "politicalParty": "UKIP",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "The Truth About UKIP",
+        "content": "As opposed to pretence by the LIBDEMS. 'The old parties are lying about UKIP and its policies. They are running scared and don’t want you to know the truth. Well, here it is...'"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Keep the NHS free at point of delivery"
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "An Australian-style, points-based, fairer immigration system"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "No to tax on the minimum wage"
+      },
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "No 'bedroom' tax, no inheritance tax"
+      },
+      {
+        "policyTitle": "Development",
+        "policyDescription": "Only party truly against over-development"
+      }
+    ],
+    "mentions": {
+      "candidate": "Eddie Powell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nigel Farage MEP",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "No to tax on the minimum wage",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Keep the NHS free at point of delivery",
+      "immigration": "An Australian-style, points-based, fairer immigration system",
+      "socialWelfare": "No 'bedroom' tax",
+      "housing": [
+        {
+          "content": "Only party truly against over-development",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "'The old parties are lying about UKIP and its policies. They are running scared and don’t want you to know the truth. Well, here it is...' - Eddie Powell",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "11 Mill Street, Maidstone, ME15 6YD",
+      "phone": "07841 502740",
+      "email": "eddie.powell@ukipmaidstone.co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Eddie Powell - Your Maidstone & Weald Parliamentary Candidate"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

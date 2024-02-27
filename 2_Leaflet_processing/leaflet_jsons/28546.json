@@ -1,0 +1,96 @@
+```json
+{
+	"leaflet": {
+		"candidateName": "Elizabeth Riches",
+		"constituency": "North East Fife",
+		"politicalParty": "Liberal Democrat",
+		"electionDate": "",
+		"messages": [
+			{
+				"title": "THE ELECTION CHOICE: LIB DEMS V SNP",
+				"content": "Huge surge of support for Lib Dem Elizabeth Riches"
+			},
+			{
+				"title": "CHANGE BRITAIN'S FUTURE",
+				"content": "Elizabeth Riches edges ahead in the race to be our next MP"
+			}
+		],
+		"keyPolicies": [
+			{
+				"policyTitle": "Education",
+				"policyDescription": "Boost investment in education and improve the provision of mental health treatment."
+			},
+			{
+				"policyTitle": "Community",
+				"policyDescription": "Stand up for our world class University as well as our fishing, farming, and tourism industries."
+			},
+			{
+				"policyTitle": "Brexit",
+				"policyDescription": "Protect from the negative effects of Brexit."
+			}
+		],
+		"mentions": {
+			"candidate": "Elizabeth Riches",
+			"otherPartyLeaderCandidate": "",
+			"partyLeader": "Willie Rennie",
+			"tacticalSituation": ""
+		},
+		"issues": {
+			"brexitEurope": "Protect from the negative effects of Brexit.",
+			"economy": "",
+			"education": "Boost investment in education",
+			"environment": "",
+			"governance": "",
+			"health": "Improve the provision of mental health treatment.",
+			"immigration": "",
+			"socialWelfare": "",
+			"housing": [
+				{
+					"content": "",
+					"yimbyNimby": "N/A"
+				}
+			]
+		},
+		"personalStatement": "I am so proud that so many people are joining the campaign every day.",
+		"politicalExperience": [
+			{
+				"role": "MSP for North East Fife",
+				"duration": "Last year",
+				"achievements": "Elected as MSP last year."
+			},
+			{
+				"role": "Councillor",
+				"duration": "",
+				"achievements": "Elected at the council elections on May 4."
+			}
+		],
+		"contactInformation": {
+			"address": "",
+			"phone": "",
+			"email": "",
+			"website": "",
+			"socialMedia": {
+				"facebook": "",
+				"twitter": "",
+				"instagram": "",
+				"linkedin": ""
+			}
+		},
+		"endorsements": [
+			{
+				"endorser": "Willie Rennie",
+				"endorsement": "Willie Rennie, North East Fife’s MSP and Leader of the Scottish Liberal Democrats and Tim Farron are backing the experienced Elizabeth Riches to be our next MP."
+			}
+		],
+		"quotes": [],
+		"campaignMaterial": {
+			"images": [
+				{
+					"caption": "Elizabeth Riches with Willie Rennie and Supporters"
+				}
+			]
+		},
+		"additionalNotes": "This election is an opportunity to change the direction of our country. The Liberal Democrats have a positive vision for Scotland and the United Kingdom."
+	}
+}
+```

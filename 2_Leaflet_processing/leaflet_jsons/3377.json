@@ -1,0 +1,102 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rosie Sharpley",
+    "constituency": "Woking",
+    "politicalParty": "Lib Dems",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Delivering real change for Woking residents",
+        "content": "Through thick and thin, local people know they can rely on Rosie Sharpley to stand up for local people."
+      },
+      {
+        "title": "Rosie is fighting for real change in Britain.",
+        "content": "Top priorities include creating new jobs, tackling crime and making sure every child gets a good education."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Creating new jobs"
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Tackling crime"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Making sure every child gets a good education"
+      }
+    ],
+    "mentions": {
+      "candidate": "Rosie Sharpley",
+      "otherPartyLeaderCandidate": "Top Tory Dan Hannan",
+      "partyLeader": "",
+      "tacticalSituation": "Only the Lib Dems can beat the Conservatives here!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Creating new jobs",
+      "education": "Making sure every child gets a good education",
+      "environment": "",
+      "governance": "Tackling crime",
+      "health": "The NHS should be safe either - top Tories want to break up the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Rosie has a track record of helping local people over the last 21 years. She's been a local councillor helping people with their day to day problems. She’s also worked on the front line as a nurse in the NHS helping local people.",
+    "politicalExperience": [
+      {
+        "role": "Local councillor",
+        "duration": "21 years",
+        "achievements": "Helping people with their day to day problems."
+      },
+      {
+        "role": "Nurse in the NHS",
+        "duration": "",
+        "achievements": "Helping local people."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.WokingLibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Key Tory MPs backed call to dismantle NHS",
+        "source": "The Guardian",
+        "date": ""
+      },
+      {
+        "text": "We've lived through this mistake for 60 years now",
+        "source": "Top Tory Dan Hannan on the NHS",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Rosie Sharpley wants to see more practical measures to tackle crime and anti-social behaviour."
+        }
+      ]
+    },
+    "additionalNotes": "Rosie always puts people first above politics. She is the best choice to be our next MP."
+  }
+}
+```

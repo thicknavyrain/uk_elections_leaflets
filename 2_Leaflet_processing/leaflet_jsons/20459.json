@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anna Widdup",
+    "constituency": "Epping Forest",
+    "politicalParty": "Green Party",
+    "electionDate": "7th May 2015",
+    "messages": [
+      {
+        "title": "If elected Anna will:",
+        "content": "protect our NHS, fight austerity measures that hit the vulnerable, campaign for a fairer tax system, more money pay more, work for better housing people can afford, fight to stop tax avoidance, campaign to bring back the railways to create lower fares, work to pay a fairer wage, fight for full time jobs that pay a decent wage, work to ban zero hour contracts, campaign for investment in clean energy, thus creating jobs, work to tackle climate change to protect our planet for the future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Protect our NHS."
+      },
+      {
+        "policyTitle": "Austerity",
+        "policyDescription": "Fight austerity measures that hit the vulnerable."
+      },
+      {
+        "policyTitle": "Tax System",
+        "policyDescription": "Campaign for a fairer tax system where individuals and companies with more money pay more."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Work for better housing that people can afford."
+      },
+      {
+        "policyTitle": "Tax Avoidance",
+        "policyDescription": "Fight to stop tax avoidance."
+      },
+      {
+        "policyTitle": "Railways",
+        "policyDescription": "Campaign to bring back the railways to create lower fares."
+      },
+      {
+        "policyTitle": "Employment and Wages",
+        "policyDescription": "Work to pay a fairer wage and fight for full time jobs that pay a decent wage."
+      },
+      {
+        "policyTitle": "Zero Hour Contracts",
+        "policyDescription": "Work to ban zero hour contracts."
+      },
+      {
+        "policyTitle": "Clean Energy",
+        "policyDescription": "Campaign for investment in clean energy, thus creating jobs."
+      },
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Work to tackle climate change to protect our planet for the future."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anna Widdup",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "On the 'Vote for Policies' website survey Green Party policies are the most popular in Epping Forest; the Conservatives' are not."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Green Party puts local businesses before multinationals; we know that support for decent paid jobs creates more income than supporting the wealthy few, we know that the profit motive shouldn't be in the NHS.",
+      "education": "",
+      "environment": "Work to tackle climate change to protect our planet for the future.",
+      "governance": "",
+      "health": "Protect our NHS.",
+      "immigration": "",
+      "socialWelfare": "Fight austerity measures that hit the vulnerable.",
+      "housing": [
+        {
+          "content": "Work for better housing that people can afford.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Anna has lived in Epping for 12 years, and also has lived in Debden and Waltham Abbey. She works locally as a teacher, believes in fairness and equality, and feels passionately that everyone should have a fair chance in life. This includes proper funding for local services for all ages, including children, young people and the elderly.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "97 Rous Road, Buckhurst Hill, IG9 6BU",
+      "phone": "020 8504 5325",
+      "email": "eppingforest@greenparty.org.uk",
+      "website": "eppingforest.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@efgreens",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Anna Widdup at Epping Station."
+        },
+        {
+          "caption": "Vote Steven Neville and Anna Widdup on 7th May 2015."
+        }
+      ]
+    },
+    "additionalNotes": "The pie chart shows the results of the 'Vote for Policies' website survey where Green Party policies are the most popular in Epping Forest with 29.4%, followed by Labour with 21.7%, Liberal Democrats with 17.5%, UKIP with 15.8%, and Conservatives with 15.6%."
+  }
+}
+```

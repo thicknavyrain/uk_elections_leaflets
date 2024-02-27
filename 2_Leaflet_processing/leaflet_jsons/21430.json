@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Cammy Day",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "In just a few weeks, local families face a choice. It's a choice between a Labour government that fights for hardworking families, or five more years of the Tories.\n\nOur NHS is in crisis and families are £1,600 a year worse off under the Tories. They have extreme plans for spending cuts to our NHS and our schools.\n\nLabour's plan for Scotland will deliver a better future for families and protect their NHS with minimum wage, ban exploitative zero-hours contracts, freeze soaring energy prices, deliver a Mansion Tax and a Bankers Bonus Tax.\n\nBut if the Tories are the largest party, they would form another coalition with the Lib Dems and Cameron would stay in Downing Street.\n\nOnly a vote for Labour can stop the Tories becoming the largest party and forming the next government. Only Labour can deliver the change we need."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Protection",
+        "policyDescription": "Labour plans to protect the NHS from spending cuts."
+      },
+      {
+        "policyTitle": "Family Support",
+        "policyDescription": "Labour's plan for Scotland aims to deliver a better future for families."
+      },
+      {
+        "policyTitle": "Minimum Wage Increase",
+        "policyDescription": "Labour intends to increase the minimum wage."
+      },
+      {
+        "policyTitle": "Ban on Zero-Hours Contracts",
+        "policyDescription": "Labour will ban exploitative zero-hours contracts."
+      },
+      {
+        "policyTitle": "Energy Price Freeze",
+        "policyDescription": "Labour will freeze soaring energy prices."
+      },
+      {
+        "policyTitle": "Tax on Mansions and Bankers",
+        "policyDescription": "Labour will introduce a Mansion Tax and a Bankers Bonus Tax."
+      }
+    ],
+    "mentions": {
+      "candidate": "Cammy Day",
+      "otherPartyLeaderCandidate": "Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "Only a vote for Labour can stop the Tories becoming the largest party and forming the next government."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour's plan will protect hardworking families from spending cuts to our NHS and schools by the Tories who have left families £1,600 a year worse off.",
+      "education": "The Tories have extreme plans for spending cuts to our schools.",
+      "environment": "",
+      "governance": "",
+      "health": "Our NHS is in crisis...Labour's plan for Scotland will protect their NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour will introduce a Mansion Tax and a Bankers Bonus Tax to support the NHS and public services.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Sarah Boyack",
+        "endorsement": "Sarah believes housing should be at the heart of local communities and with Cammy she can continue her work across Edinburgh's housing association and development trust."
+      },
+      {
+        "endorser": "Jas Singh",
+        "endorsement": "Jas knows Cammy will work to get rid of the bedroom tax."
+      },
+      {
+        "endorser": "Terry Airlie",
+        "endorsement": "Terry knows Cammy wants to protect the rights of ordinary workers."
+      },
+      {
+        "endorser": "Jackie Brown",
+        "endorsement": "Jackie believes Cammy stands up for our older people and the wider community."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cammy Day with supporters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

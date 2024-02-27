@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Hove",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Your local vote on Thursday will decide who is Prime Minister on Friday, leading our Brexit negotiations when they start just 11 days after your vote – Theresa May or Jeremy Corbyn."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "Just 11 days after you vote on Thursday, the EU wants to start Brexit negotiations with Britain."
+    },
+    "issues": {
+      "brexitEurope": "Our Prime Minister needs the strongest possible hand in any negotiations.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Reveal what national outcome your local vote will deliver...",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "EU wants Brexit negotiations to start 11 days after you vote."
+        }
+      ]
+    },
+    "additionalNotes": "A loss of just 6 seats will cost Theresa May her majority and create a hung parliament - and that will deliver chaos. It means Jeremy Corbyn as Prime Minister propped up by the Lib Dems and SNP, and it would mean Jeremy Corbyn negotiating Brexit just 11 days after you vote."
+  }
+}
+```

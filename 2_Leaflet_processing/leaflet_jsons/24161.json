@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Richard Holden",
+    "constituency": "Preston",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Competent leadership or Coalition of Chaos",
+        "content": "Job total hits record high while wages surge. Benefits cap 'leads more into work'. Tax cuts for workers and savers. You're getting £10 of tank with the Tories."
+      },
+      {
+        "title": "Stop Labour's latest Tax Grab",
+        "content": "Labour's new homes tax would hit 400,000+ small businesses."
+      },
+      {
+        "title": "A Personal message from Richard Holden",
+        "content": "I will be a strong voice for Preston and deliver a vision for Preston's future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Tax cuts for workers and savers. The deficit down, income tax cut, more jobs, new businesses."
+      },
+      {
+        "policyTitle": "Social Welfare",
+        "policyDescription": "Benefits cap 'leads more into work'."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "We'll hold Labour to ransom over Scotland - Salmond."
+      },
+      {
+        "policyTitle": "Brexit / Europe",
+        "policyDescription": "I will also deliver an In/Out EU Referendum."
+      }
+    ],
+    "mentions": {
+      "candidate": "Richard Holden",
+      "otherPartyLeaderCandidate": "Labour plan to borrow risks £170bn extra debt. Miliband will bankrupt Britain.",
+      "partyLeader": "",
+      "tacticalSituation": "Labour is plotting Scottish alliance."
+    },
+    "issues": {
+      "brexitEurope": "I will also deliver an In/Out EU Referendum.",
+      "economy": "Tax cuts for workers and savers. The deficit down, income tax cut, more jobs, new businesses.",
+      "education": "",
+      "environment": "",
+      "governance": "We'll hold Labour to ransom over Scotland - Salmond.",
+      "health": "Efficient and cost-effective delivery of better local schools, NHS as well as cleaner and safer streets WITHOUT Labour's big tax hikes.",
+      "immigration": "",
+      "socialWelfare": "Benefits cap 'leads more into work'.",
+      "housing": [
+        {
+          "content": "Labour's new homes tax would hit 400,000+ small businesses.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I have been fortunate to meet many of you on the doorstep... and I believe that together we can deliver a brighter future for our city.",
+    "politicalExperience": [
+      {
+        "role": "Prospective Parliamentary Candidate for Preston",
+        "duration": "",
+        "achievements": "Championing the city as a hub for jobs and business, continue welfare reform so those who can work are ALWAYS better off in work."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.prestonconservatives.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Competent leadership or Coalition of Chaos"
+        },
+        {
+          "caption": "Stop Labour's latest Tax Grab"
+        },
+        {
+          "caption": "Richard Holden, Preston's future"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

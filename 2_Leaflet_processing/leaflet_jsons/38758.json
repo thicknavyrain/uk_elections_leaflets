@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Cheryl Pidgeon",
+    "constituency": "Rushcliffe",
+    "politicalParty": "Labour",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "SAVING OUR SCHOOLS",
+        "content": "Tory and Lib Dem austerity has caused school spending to be slashed and mentioned the total shortfall of £3.8m."
+      },
+      {
+        "title": "SAVING OUR NHS",
+        "content": "Criticizes Tory health cuts and privatization, talks about staff vacancies in NHS England, the QMC bed occupancy rates, and cancelled operations. The goal is to end NHS privatization."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Reverse school spending cuts and give schools the funding they need."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "End NHS privatization and create conditions for preventative illness and healthier lives."
+      }
+    ],
+    "mentions": {
+      "candidate": "Cheryl Pidgeon",
+      "otherPartyLeaderCandidate": "Ruth Edwards Conservative",
+      "partyLeader": "N/A",
+      "tacticalSituation": "N/A"
+    },
+    "issues": {
+      "brexitEurope": "Support a second referendum with remain on the ballot and campaign to remain as I did in 2016.",
+      "economy": "No tax increases for those earning up to £80,000.",
+      "education": "Reverse school spending cuts, invest in apprenticeships.",
+      "environment": "Ban fracking, make the UK carbon neutral by 2030, launch free ride bicycles.",
+      "governance": "N/A",
+      "health": "End NHS privatization. Free hospital parking. Fully fund mental health support.",
+      "immigration": "N/A",
+      "socialWelfare": "Reinstate Education Maintenance Allowance. Introduce free primary school meals. Invest in training for nurses and GPs.",
+      "housing": [
+        {
+          "content": "Build 100,000 council homes per year. Build 1 million affordable homes over 5 years. Protect private renters. End rough sleeping.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "To be a good MP you need to be in touch with and reflect the views of your constituents. To ensure that I am Rushcliffe's voice in Parliament and not parliament's voice in Rushcliffe, I will: [list of commitments]",
+    "politicalExperience": [
+      {
+        "role": "N/A",
+        "duration": "N/A",
+        "achievements": "N/A"
+      }
+    ],
+    "contactInformation": {
+      "address": "N/A",
+      "phone": "N/A",
+      "email": "N/A",
+      "website": "labour.org.uk/manifesto",
+      "socialMedia": {
+        "facebook": "N/A",
+        "twitter": "N/A",
+        "instagram": "N/A",
+        "linkedin": "N/A"
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "N/A",
+        "endorsement": "N/A"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We have fully costed our manifesto, if you are earning up to £80,000 a year you will not face any tax increases.",
+        "source": "Labour's Pledges",
+        "date": "N/A"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of an elderly gentleman in a hospital bed, highlighting concerns about the NHS."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

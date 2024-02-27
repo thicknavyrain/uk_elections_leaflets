@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rosa Bolger",
+    "constituency": "West Oxfordshire",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Labour is the smart vote in West Oxfordshire",
+        "content": "Compare the difference between Labour and Liberal Democrats on key issues in this constituency."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Government Formation",
+        "policyDescription": "Labour is capable of forming a government without a coalition."
+      },
+      {
+        "policyTitle": "Ending Austerity",
+        "policyDescription": "Labour commits to end crippling austerity."
+      },
+      {
+        "policyTitle": "Brexit Stance",
+        "policyDescription": "Labour supports a people's vote, not revoke, on Brexit."
+      },
+      {
+        "policyTitle": "Climate Emergency",
+        "policyDescription": "Labour is actively tackling the climate emergency."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Labour vows to bring the NHS back to life."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Labour has a commitment to improve schools and reduce class size."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rosa Bolger has a fantastic local track record.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "2nd to Conservatives in 2015 & 2017."
+    },
+    "issues": {
+      "brexitEurope": "Labour supports a people's vote, not revoke, on Brexit.",
+      "economy": "Labour commits to end crippling austerity.",
+      "education": "Labour has a commitment to improve schools and reduce class size.",
+      "environment": "Labour is actively tackling the climate emergency.",
+      "governance": "Labour is capable of forming a government without a coalition.",
+      "health": "Labour vows to bring the NHS back to life.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Comparison chart showing Labour positions compared with Liberal Democrats on various issues in West Oxfordshire."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

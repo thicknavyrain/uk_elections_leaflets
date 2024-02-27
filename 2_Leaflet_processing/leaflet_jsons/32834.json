@@ -1,0 +1,59 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "North Norfolk",
+    "politicalParty": "",
+    "electionDate": "November 2019",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "New Brexit deal agreed",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "VOTERS IN NORTH NORFOLK WILL DECIDE THIS ELECTION"
+        },
+        {
+          "caption": "PM on HOSPITALS, POLICE AND SCHOOLS"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

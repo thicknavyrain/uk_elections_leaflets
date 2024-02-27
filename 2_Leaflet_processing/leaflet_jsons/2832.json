@@ -1,0 +1,123 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin",
+    "constituency": "Cheltenham",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Better rail services",
+        "content": "After years of lobbying by Martin, we have won a significant improvement in local rail services. The redoubling of the Swindon to Kemble line will mean more direct trains to London and a cut in carbon dioxide emissions. The campaign was backed by MPs and business of all parties along with local businesses."
+      },
+      {
+        "title": "Battle to save the countryside",
+        "content": "The battle by Martin and others to save treasured countryside from development is nearing victory. Legal challenges delayed the regional plans that threatened to put 35,000 new houses across the region - between around 3,000 houses across Cheltenham."
+      },
+      {
+        "title": "Local NHS funding threat",
+        "content": "After the recession, the hangover. Billions has been spent preventing the economy from collapsing but now we have to balance the books again. This will mean cuts in public spending and our local NHS has now been told to expect no increases for years to come. But despite staff pay promises and the rising cost of treatment, no increase could mean real cuts."
+      },
+      {
+        "title": "Action on flooding - at last!",
+        "content": "The Government has finally announced in the recent Queen's Speech that it will be publishing a Floods Bill to sort out some of the failings exposed by the floods here in 2007."
+      },
+      {
+        "title": "Recession still biting locally",
+        "content": "Martin has continued to talk up Cheltenham's prospects and back local businesses wherever he can."
+      },
+      {
+        "title": "Expenses scandal - end in sight",
+        "content": "Martin was one of the first to speak out against the MPs' expenses system back in 2007, long before the current scandal broke. He voted against keeping MPs' expenses secret and has now been told by independent auditor Sir Thomas Legg that he has no moneys to repay and no questions to answer about his own expenses."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Better rail services",
+        "policyDescription": "Support for improvement in local rail services including the redoubling of the Swindon to Kemble line to reduce travel times to London and cut carbon dioxide emissions."
+      },
+      {
+        "policyTitle": "Protecting the countryside",
+        "policyDescription": "Efforts to protect local countryside from excessive development, particularly opposing the plan for 35,000 new houses that could affect Cheltenham."
+      },
+      {
+        "policyTitle": "Safeguarding local NHS funding",
+        "policyDescription": "Opposing cuts to local NHS funding stating that there are promises made to local doctors and nurses to defend free local health services."
+      },
+      {
+        "policyTitle": "Action on flooding",
+        "policyDescription": "Advocating for action on flooding prevention and welcoming the announcement of a Floods Bill to address past failures."
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin has promised local doctors and nurses he will fight to defend a free, local NHS and called for cuts to fall on multi-billion plans for nuclear missiles and regional bureaucracies, not front line local health services like A&E or maternity.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Martin has continued to talk up Cheltenham's prospects and back local businesses wherever he can.",
+      "education": "",
+      "environment": "The Government has finally announced in the recent Queen's Speech that it will be publishing a Floods Bill to sort out some of the failings exposed by the floods here in 2007.",
+      "governance": "Martin was one of the first to speak out against the MPs' expenses system back in 2007, long before the current scandal broke.",
+      "health": "After the recession, the hangover. Billions has been spent preventing the economy from collapsing but now we have to balance the books again. This will mean cuts in public spending and our local NHS has now been told to expect no increases for years to come. But despite staff pay promises and the rising cost of treatment, no increase could mean real cuts.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The battle by Martin and others to save treasured countryside from development is nearing victory. Legal challenges delayed the regional plans that threatened to put 35,000 new houses across the region - between around 3,000 houses across Cheltenham.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Martin with local NHS workers and ambulance service"
+        },
+        {
+          "caption": "Martin with supporters campaigning to save local green fields"
+        },
+        {
+          "caption": "Martin visiting businesses to discuss local economic prospects"
+        }
+      ]
+    },
+    "additionalNotes": "Some details such as party affiliations and exact election dates are not available in the leaflet provided."
+  }
+}
+```

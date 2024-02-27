@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Liberal Democrats",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Independence Referendum",
+        "policyDescription": "Stop another divisive independence referendum."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Oppose the Conservative's damaging hard Brexit."
+      },
+      {
+        "policyTitle": "Education & Mental Health",
+        "policyDescription": "Invest in education and mental health."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Alex Salmond",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Oppose the Conservative's damaging hard Brexit.",
+      "economy": "",
+      "education": "Invest in education and mental health.",
+      "environment": "",
+      "governance": "Stop another divisive independence referendum.",
+      "health": "Invest in education and mental health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet images emphasizing opposition to SNP's independence referendum and Conservative's hard Brexit."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet focuses on the Scottish Liberal Democrats' key messages to stop the independence referendum and oppose a hard Brexit by the Conservatives. The messages are intended to appeal to the voters who are against these issues as managed by SNP and Conservative parties."
+  }
+}
+```

@@ -1,0 +1,86 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+	  	{
+    		"policyTitle": "Action for the countryside",
+    		"policyDescription": "Gary the shepherd, backed by local activists, including Jane Smith, has consistently spoken out against the scourge of illegal fly tipping and the overflowing, uncollected bins blighting our lanes and lay-bys."
+  		}
+	],
+	"mentions": {
+  		"candidate": "",
+  		"otherPartyLeaderCandidate": "",
+  		"partyLeader": "",
+  		"tacticalSituation": ""
+	},
+	"issues": {
+  		"brexitEurope": "",
+  		"economy": "",
+  		"education": "",
+  		"environment": "Action for the countryside - Gary the shepherd, backed by local activists, including Jane Smith, has consistently spoken out against the scourge of illegal fly tipping and the overflowing, uncollected bins blighting our lanes and lay-bys.",
+  		"governance": "",
+  		"health": "",
+  		"immigration": "",
+  		"socialWelfare": "",
+  		"housing": [
+    		{
+      			"content": "",
+      			"yimbyNimby": "N/A"
+    		}
+  		]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  		{
+    		"role": "",
+    		"duration": "",
+    		"achievements": ""
+  		}
+	],
+	"contactInformation": {
+  		"address": "Old Newman Farm, The Street, Rylingtom, DY7 5BJ",
+  		"phone": "0777701234567",
+  		"email": "gary@garysmith.moi.uk",
+  		"website": "www.votegarysmith.moi.uk",
+  		"socialMedia": {
+    		"facebook": "",
+    		"twitter": "",
+    		"instagram": "",
+    		"linkedin": ""
+  		}
+	},
+	"endorsements": [
+  		{
+    		"endorser": "",
+    		"endorsement": ""
+  		}
+	],
+	"quotes": [
+  		{
+    		"text": "",
+    		"source": "",
+    		"date": ""
+  		}
+	],
+	"campaignMaterial": {
+  		"images": [
+    		{
+      			"caption": "Gary with local supporters, including Val from Cam Street, Churchill."
+    		},
+    		{
+      			"caption": "Gary the Shepherd, who's campaigning on local issues that matter to you."
+    		}
+  		]
+	},
+	"additionalNotes": ""
+  }
+}

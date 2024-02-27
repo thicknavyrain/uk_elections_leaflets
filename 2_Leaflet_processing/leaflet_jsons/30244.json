@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "NICK BROWN",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Today is Election Day",
+    "messages": [
+      {
+        "title": "Don't forget to vote!",
+        "content": "Today is Election Day so make sure you use your vote for NICK BROWN vote NICK BROWN vote LABOUR"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "NICK BROWN",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ballot box with Labour logo"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

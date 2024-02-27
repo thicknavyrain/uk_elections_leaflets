@@ -1,0 +1,119 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tom Watson",
+    "constituency": "West Bromwich",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Why we're backing Tom Watson",
+        "content": "Endorsements from Ivan Walker, Keith Allcock, Harbans and Kamaljit Ubhi expressing their support for Tom Watson"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Development of West Bromwich",
+        "policyDescription": "Campaign for redeveloping West Bromwich town centre with new shops, restaurants, and a cinema."
+      },
+      {
+        "policyTitle": "Swimming pool and Leisure centre for West Bromwich and Wednesbury",
+        "policyDescription": "A new swimming pool for West Bromwich and a replacement leisure centre for Wednesbury."
+      },
+      {
+        "policyTitle": "NHS Defense and Improvement",
+        "policyDescription": "Fought against the Tories' damaging NHS changes and campaigned to abolish parking charges."
+      },
+      {
+        "policyTitle": "Media Ethics Inquiry",
+        "policyDescription": "Took on the newspaper barons over phone hacking and corruption, securing a public inquiry into media ethics."
+      },
+      {
+        "policyTitle": "Child Protection",
+        "policyDescription": "Campaign to get more child abusers arrested and for a national inquiry into historic cases of abuse."
+      },
+      {
+        "policyTitle": "Save the NHS",
+        "policyDescription": "Labour will focus on improving mental health services, recruiting elderly care staff, and ensure emergency treatment is available."
+      },
+      {
+        "policyTitle": "Education and Jobs",
+        "policyDescription": "Support apprenticeships and continuous education, securing funding for Sandwell College."
+      },
+      {
+        "policyTitle": "Fair Wages",
+        "policyDescription": "Campaign for a minimum wage of £10 an hour, lower starting rate of tax, and to ban zero-hour contracts."
+      },
+      {
+        "policyTitle": "Immigration Control",
+        "policyDescription": "Make immigration work fairly for all, stop underpayment practices by employment agencies, and boost border force and enforcement officers."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tom Watson",
+      "otherPartyLeaderCandidate": "Nick Clegg, David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Cut taxes for 24 million working people, a lower starting rate of tax.",
+      "education": "Support apprenticeships and further education.",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will focus on improving mental health services, especially for children. Early treatment will make people well again more quickly and save money.",
+      "immigration": "Immigration is important for Britain but it must be made to work fairly for all of us.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Promoted by Simon Hackett on behalf of Tom Watson both at Terry Duffy House, Thomas Street, West Bromwich, B70 6NT",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Ivan Walker",
+        "endorsement": "Tom Watson saved our Meals on Wheels service from closure."
+      },
+      {
+        "endorser": "Keith Allcock",
+        "endorsement": "I used to be a Liberal Democrat councillor but I'm backing Tom Watson now."
+      },
+      {
+        "endorser": "Harbans and Kamaljit Ubhi",
+        "endorsement": "Tom Watson has worked hard to promote tolerance and understanding between all communities in Sandwell."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photos of endorsers Ivan Walker, Keith Allcock, Harbans and Kamaljit Ubhi."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

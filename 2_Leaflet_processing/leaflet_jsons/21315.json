@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Hannah Thompson",
+	"constituency": "Sheffield",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": "From what I've seen in the papers and online, there’s only one party that I can trust to fight for our NHS and put equality at the heart of everything our government does."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS Support",
+    	"policyDescription": "The Liberal Democrats have committed to giving the NHS the £8 billion it needs, ensuring the economic recovery stays on track."
+  	},
+  	{
+    	"policyTitle": "Economic Recovery",
+    	"policyDescription": "Unlike the Tories, the Liberal Democrats understand the importance of maintaining economic recovery and oppose the £50 billion in cuts proposed by other parties."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Hannah Thompson",
+  	"otherPartyLeaderCandidate": "David Cameron, Osborne",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "The Liberal Democrats aim to maintain economic recovery with a clear plan, opposing further cuts.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "The Liberal Democrats have stood up against extreme Conservative government plans.",
+  	"health": "The NHS support with a commitment of £8 billion has been a highlighted issue.",
+  	"immigration": "",
+  	"socialWelfare": "The Liberal Democrats want to put fairness and equality at the heart of the government, steering away from Conservative cuts.",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "I want to support a party that will put equality at the heart of everything it does.",
+	"politicalExperience": [
+  	{
+    	"role": "Online Rights Activist",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [
+  	{
+    	"text": "I'd govern like a true Tory if it wasn't for the Lib Dems. The thought of Cameron and Osborne cutting and cutting for another 5 years sends a shiver down my spine.",
+    	"source": "Hannah Thompson",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Hannah Thompson, 22 year old Online Rights Activist"
+    	}
+  	]
+	},
+	"additionalNotes": "Hannah Thompson has expressed her critical perspective towards the Conservative party's governing and saving strategies. Despite not agreeing with all of the Liberal Democrats' past compromises, she believes things would have been worse without them. She also mentions the failures of Labour in reference to the Iraq war."
+  }
+}
+```

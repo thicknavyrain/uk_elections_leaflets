@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tom Tugendhat",
+    "constituency": "Tonbridge and Malling",
+    "politicalParty": "",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "A record of service...",
+        "content": "From the very start of our campaign, Tom has really helped our family, and especially Henry, who he introduced from his very Parliament chair...he's honestly looked after any concern we've put to him and the support he's given us."
+      },
+      {
+        "title": "A promise of more.",
+        "content": "It's been an honour to represent Tonbridge, Edenbridge and Malling as your MP since 2015. I'm asking for your support on Thursday 12 December to deliver Brexit, and continue to work on the key local issues..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare and Education",
+        "policyDescription": "More investment for our medical facilities and better schools."
+      },
+      {
+        "policyTitle": "Community Investments",
+        "policyDescription": "Buses are things I've delivered for our towns and villages."
+      },
+      {
+        "policyTitle": "Connectivity",
+        "policyDescription": "Faster broadband."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tom Tugendhat",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "deliver Brexit",
+      "economy": "",
+      "education": "better schools",
+      "environment": "",
+      "governance": "",
+      "health": "More investment for our medical facilities",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "It's been an honour to represent Tonbridge, Edenbridge and Malling as your MP since 2015...",
+    "politicalExperience": [
+      {
+        "role": "MP for Tonbridge, Edenbridge and Malling",
+        "duration": "since 2015",
+        "achievements": "Delivered better schools, medical facilities and investments for towns and villages."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01732 441563",
+      "email": "tom@tomtugendhat.org.uk",
+      "website": "www.tomtugendhat.org",
+      "socialMedia": {
+        "facebook": "/TomTugendhat",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "The advice that Tom has provided throughout our campaign has been exceptional. He has kindly taken our concerns to the very top of government and has consistently listened and supported our objectives, enabling us to amplify our voice throughout the community.",
+        "source": "Oonagh McCullough, Ryarsh Protection Group",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tom Tugendhat's portrait"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

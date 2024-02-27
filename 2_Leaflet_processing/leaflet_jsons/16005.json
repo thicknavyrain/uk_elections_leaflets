@@ -1,0 +1,53 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Helen Grant",
+	"constituency": "Maidstone and the Weald",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Helen Grant",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": []
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "Helen Grant Campaign HQ, Maidstone East Station Forecourt, Station Road, Maidstone, Kent, ME14 1QN",
+  	"phone": "01622 831627",
+  	"email": "helen@helengrant.org",
+  	"website": "www.helengrant.org",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Your local Conservative team called to see you today"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

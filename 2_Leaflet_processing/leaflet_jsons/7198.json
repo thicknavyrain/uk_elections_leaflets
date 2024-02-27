@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Colin Eldridge",
+    "constituency": "Liverpool",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "We need a hardworking local Lib Dem MP",
+        "content": "Colin Eldridge is fighting to keep our local health services safe from government cuts."
+      },
+      {
+        "title": "It's so close!",
+        "content": "Colin led the campaign to save Alder Hey's Acute Burns Unit. The Conservative are far behind and cannot win in Liverpool. A vote for them could mean 5 more years of Labour."
+      },
+      {
+        "title": "Labour Civil War",
+        "content": "London Labour's candidate didn't even know who Bill Shankly was."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "More Police on our streets",
+        "policyDescription": "Colin Eldridge has a record of campaigning for more police on our streets."
+      },
+      {
+        "policyTitle": "Action on Dangerous Dogs",
+        "policyDescription": "Colin Eldridge changed the dangerous dogs law to ensure that the people of Liverpool could feel safe in the city."
+      }
+    ],
+    "mentions": {
+      "candidate": "Colin Eldridge",
+      "otherPartyLeaderCandidate": "London Labour's candidate, Luciana Berger",
+      "partyLeader": "Nick Clegg and Vince Cable campaigning to get Britain a fairer deal",
+      "tacticalSituation": "Only local Lib Dem, Colin Eldridge or London Labour's candidate can win here in Liverpool."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Smaller class sizes; more cash for schools and abolish university tuition fees.",
+      "environment": "",
+      "governance": "Make politicians accountable and give the regions fairer funding.",
+      "health": "Colin is demanding the Government take action on the Royal and Alder Hey Hospitals now.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local councillor",
+        "duration": "Seven years",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "509 Smithdown Road, Liverpool, L15 5AE",
+      "phone": "",
+      "email": "",
+      "website": "www.colineldridge.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Colin Eldridge - The local choice"
+        },
+        {
+          "caption": "Colin Eldridge, Nick Clegg and Vince Cable campaigning to get Britain a fairer deal."
+        },
+        {
+          "caption": "Colin Eldridge with a young supporter"
+        },
+        {
+          "caption": "Colin Eldridge's campaign message"
+        },
+        {
+          "caption": "The tactical voting situation in Liverpool."
+        }
+      ]
+    },
+    "additionalNotes": "The election is described as being very close, with a choice between local Lib Dem Colin Eldridge and the London Labour candidate."
+  }
+}
+```

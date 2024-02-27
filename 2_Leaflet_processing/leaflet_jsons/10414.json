@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jonathan Djanogly",
+    "constituency": "Huntingdon",
+    "politicalParty": "Conservative",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "JONATHAN'S FACTFILE",
+        "content": "Jonathan Djanogly is married to Rebecca and has 2 sons. Jonathan is the Shadow Solicitor General and Minister for Business on the Conservative Frontbench team. Jonathan regularly visits local schools and encourages young people to engage with their local communities. Jonathan supports Huntingdonshire’s voluntary, charitable and sporting associations which are so important for our community."
+      },
+      {
+        "title": "A PERSONAL MESSAGE FROM DAVID CAMERON",
+        "content": "With less than a week Britain votes in the most important national election for a generation. The choice could not be more clear. [...] I hope you will take the chance to vote for change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Environment",
+        "policyDescription": "Jonathan cares for the local environment, with successful campaigns to stop local wind farms and to save Perry Woods and Godmanchester."
+      },
+      {
+        "policyTitle": "Local Hospital",
+        "policyDescription": "Jonathan is dedicated to improving the local hospital, having successfully lobbied for the Hinchingbrooke Hospital and the PCT to meet these goals."
+      },
+      {
+        "policyTitle": "Local Economy",
+        "policyDescription": "Jonathan actively supports the local economy. He has worked locally and nationally for necessary improvements."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jonathan Djanogly",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "The Conservatives must win here to stop another 5 years of Gordon Brown."
+    },
+    "issues": {
+      "brexitEurope": "Live with a good deal in Europe, signing up to have our notes refound?",
+      "economy": "The strategy to mend our broken economy will mean taking difficult decisions. We need to do this to protect our public services.",
+      "education": "",
+      "environment": "The local environment matters to Jonathan.",
+      "governance": "",
+      "health": "Jonathan is dedicated to improving Hinchingbrooke Hospital.",
+      "immigration": "Are our borders more secure and immigration controlled?",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have been proud to represent the Huntingdon Constituency in Westminster since 2001. I am committed to Huntingdonshire and have been campaigning for high technology jobs hospital, the new A14 and fair funding for our schools.",
+    "politicalExperience": [
+      {
+        "role": "Shadow Solicitor General and Minister for Business",
+        "duration": "",
+        "achievements": "Worked locally and nationally for necessary improvements."
+      }
+    ],
+    "contactInformation": {
+      "address": "HCCA, Norris House, St. Neots Road, Huntingdon, PE29 6ER.",
+      "phone": "0800 043 4349",
+      "email": "jonathan@djanogly.com",
+      "website": "www.jonathandjanogly.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jonathan cares for the local environment, with successful campaigns to stop local wind farms and to save Perry Woods and Godmanchester."
+        },
+        {
+          "caption": "Jonathan is dedicated to improving the local hospital, having successfully lobbied for the Hinchingbrooke Hospital and the PCT to meet these goals."
+        },
+        {
+          "caption": "Jonathan actively supports the local economy. He has worked locally and nationally for necessary improvements."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

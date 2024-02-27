@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Lammy",
+    "constituency": "Harringay Ward",
+    "politicalParty": "Labour",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "Victory in Betting Shop Campaign",
+        "content": "David Lammy and the Harringay Labour team have secured a commitment from the national Labour Party to legislation giving councils and local residents the power to stop the proliferation of betting shops in their areas."
+      },
+      {
+        "title": "Labour government introduce stricter HMO rules",
+        "content": "Housing minister John Healey has introduced stricter rules for houses in multiple occupation (HMOs)."
+      },
+      {
+        "title": "A Greener Green Lanes",
+        "content": "Your Harringay Labour Action Team have secured funds for better green spaces in our local area."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Betting Shops",
+        "policyDescription": "Introduce legislation to give councils and local residents the power to limit the number of betting shops."
+      },
+      {
+        "policyTitle": "Houses in Multiple Occupation (HMOs)",
+        "policyDescription": "Introduce stricter rules for houses in multiple occupation to ensure better standards and tackle irresponsible landlords."
+      },
+      {
+        "policyTitle": "Green Spaces",
+        "policyDescription": "Invest in local green spaces, including securing funds to improve Parkland Walk and Ducketts Common."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Lammy",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Secured £175,000 from Transport for London to improve Parkland Walk. £100,000 secured to improve Ducketts Common.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Stricter rules for houses in multiple occupation (HMOs) introduced by Housing minister John Healey.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Haringey Labour, Freepost, 28 Middle Lane, N8 8PL",
+      "phone": "0208 340 7362",
+      "email": "harringay@harringaylabour.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Lammy and Harringay Labour team with 'Haringey Labour says no more betting shops' sign."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

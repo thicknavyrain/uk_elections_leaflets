@@ -1,0 +1,32 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "Carlisle Road",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Vote for Change Today in Carlisle Road"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

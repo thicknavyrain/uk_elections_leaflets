@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alan Campbell",
+    "constituency": "Tynemouth",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Lives in Tynemouth, Works for Tynemouth",
+        "content": "With the General Election just weeks away I am asking for your support. I live in Tynemouth Constituency and my family were born and raised here. Tynemouth is the home I love and I've sought to cherish elsewhere. When I was elected I promised to be a hardworking local MP. I've always put my constituents first and in the last year alone I dealt with more than 3400 individual cases."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Act fairly and responsibly on the big economic questions of growth and deficit reduction."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Supports patients and professionals to deliver a better NHS with more time to care."
+      },
+      {
+        "policyTitle": "Social Welfare",
+        "policyDescription": "Focus on the issues that matter most - proper pay and pensions, more affordable homes and excellence in schools."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Remain a strong voice for Tynemouth in Westminster, highlighting the challenges in seaside and coastal towns."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alan Campbell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Act fairly and responsibly on the big economic questions of growth and deficit reduction.",
+      "education": "Focus on the issues that matter most - proper pay and pensions, more affordable homes and excellence in schools.",
+      "environment": "",
+      "governance": "Remain a strong voice for Tynemouth in Westminster, highlighting the challenges in seaside and coastal towns.",
+      "health": "Supports patients and professionals to deliver a better NHS with more time to care.",
+      "immigration": "",
+      "socialWelfare": "Focus on the issues that matter most - proper pay and pensions, more affordable homes and excellence in schools.",
+      "housing": [
+        {
+          "content": "Focus on the issues that matter most - proper pay and pensions, more affordable homes and excellence in schools.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "99 Howard Street, North Shields, Tyne and Wear NE30 1NA",
+      "phone": "0793352030",
+      "email": "AC4MP2015@gmail.com",
+      "website": "www.re-electalancampbell.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@alancampbellmp",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Alan Campbell, Labour Parliamentary Candidate."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

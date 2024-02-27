@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Holborn and St. Pancras",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Corbyn's Labour",
+      "partyLeader": "",
+      "tacticalSituation": "There are around 130 seats that the Conservatives haven't won in at least 50 years. Only the Brexit Party can beat Corbyn's Labour."
+    },
+    "issues": {
+      "brexitEurope": "Without the Brexit Party there can be no real Brexit",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "83 Victoria Street, London SW1H 0HW",
+      "phone": "0800 414 8525",
+      "email": "",
+      "website": "www.thebrexitparty.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "CHANGE POLITICS FOR GOOD"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

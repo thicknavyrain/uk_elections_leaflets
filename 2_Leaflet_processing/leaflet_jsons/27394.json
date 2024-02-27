@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rosie Duffield",
+    "constituency": "Canterbury and Whitstable",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "National Education Service",
+        "policyDescription": "Labour will create a National Education Service to make sure everyone in Canterbury and Whitstable can benefit from world-class education"
+      },
+      {
+        "policyTitle": "Wage Rise",
+        "policyDescription": "Labour will make sure every worker earns a real living wage of £10 an hour and we will invest in skills for Canterbury and Whitstable"
+      }
+    ],
+    "mentions": {
+      "candidate": "Rosie Duffield",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Labour will fight to stop the disastrous and chaotic No Deal Brexit.",
+      "economy": "Labour will make sure every worker earns a real living wage of £10 an hour and we will invest in skills for Canterbury and Whitstable.",
+      "education": "Labour will create a National Education Service to make sure everyone in Canterbury and Whitstable can benefit from world-class education.",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will fight for the NHS services at Kent & Canterbury Hospital and other local services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour will build the homes we need and make radical reforms of the rental sector to protect tenants.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "12 Beaumont St, Whitstable CT5 1QP",
+      "phone": "07825 61516",
+      "email": "rosie.duffield.mp@canterburylabour.org.uk",
+      "website": "www.canterburylabour.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/rosie4MP",
+        "twitter": "twitter.com/rosie4MP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Rosie Duffield, the Labour candidate for Canterbury and Whitstable"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet provides a contact avenue through door knocking with the statement 'We called to see you today'."
+  }
+}
+```

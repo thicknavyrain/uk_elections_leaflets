@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Buckingham",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Referendum on the European Union",
+        "policyDescription": "Demand that the next Government of Great Britain give the British people an opportunity to vote in a referendum concerning our membership of the European Union."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Gordon Brown, David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Demand that the next Government of Great Britain give the British people an opportunity to vote in a referendum concerning our membership of the European Union.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Unit 6, Cornwall Place, Buckingham MK18 1SB",
+      "phone": "",
+      "email": "",
+      "website": "www.ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Referendum petition form for the UK Independence Party demanding a vote on British membership in the European Union."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Charles Walker",
+    "constituency": "Broxbourne",
+    "politicalParty": "Conservative",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A Conservative vision for the Borough",
+        "content": "Broxbourne is a great Borough with a lot of hard working people, good local areas of beautiful parks, has quality schools and is a place people can be proud of."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local schools support",
+        "policyDescription": "Charles Walker emphasizes the importance of good education in building the fabric of society."
+      },
+      {
+        "policyTitle": "Support for local businesses",
+        "policyDescription": "The leaflet highlights the support for local businesses to boost the local economy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Charles Walker",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Support for local businesses and economy growth.",
+      "education": "Local schools given much needed support.",
+      "environment": "A green and pleasant place to live.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Hoddesdon Town Centre Investment Pays Off, as the development of a local supermarket is seen as a rejuvenation for the area providing employment opportunities and attracting more shoppers.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Charles Walker has been a fantastic public servant for the Borough, regularly seen at community events and being well-known to the residents and businesses.",
+    "politicalExperience": [
+      {
+        "role": "MP for Broxbourne",
+        "duration": "",
+        "achievements": "Present at local events, active in making planning issues heard and decision to offer continued guidance after election."
+      }
+    ],
+    "contactInformation": {
+      "address": "Broxbourne Conservative Association - 97 High Street, Hoddesdon, Herts, EN11 8TN",
+      "phone": "",
+      "email": "",
+      "website": "www.broxbourneconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Charles Walker has been a fantastic public servant for the Borough, regularly seen at community events and being well-known to the residents and businesses.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Charles Walker interacting with the public and participating in local events."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet promotes various local successes, like the saving of Pindar Road recycling centre and the improvement plans for Rye Park, to advocate for the Conservative party's effectiveness in local governance."
+  }
+}
+```

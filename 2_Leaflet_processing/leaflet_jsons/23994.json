@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy McDonald",
+    "constituency": "Middlesbrough",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Andy McDonald",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "\"I have been so proud to represent my home town since 2012 and I am delighted to be Labour's candidate for the General Election on May 7th.\"",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Re-Elect Andy McDonald - Labour candidate for Middlesbrough"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

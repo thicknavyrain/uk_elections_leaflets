@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Wyn Williams",
+    "constituency": "Montgomeryshire",
+    "politicalParty": "Lib Dems",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "It's a straight choice here...",
+        "content": "Either Wyn Williams will be our next AM...or the Tories will hit Wales with huge cuts."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "The Lib Dems will cut out waste to put real services first. The Welsh Lib Dems have pledged to increase schools funding."
+      },
+      {
+        "policyTitle": "Infrastructure",
+        "policyDescription": "The Welsh Lib Dems are committed to delivering on Newtown's much-needed bypass."
+      }
+    ],
+    "mentions": {
+      "candidate": "Wyn Williams will be a strong voice for our area.",
+      "otherPartyLeaderCandidate": "The Tories have pledged to cut millions here in Wales.",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Tories have pledged to cut millions here in Wales.",
+      "education": "Only the Lib Dems will cut out waste to put real services first. The Welsh Lib Dems have pledged to increase schools funding.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"The Welsh Lib Dems are committed to delivering on Newtown's much-needed bypass.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Local campaigner Wyn Williams will be a strong voice for our area."
+        },
+        {
+          "caption": "Wyn Williams and the Lib Dems will increase schools funding and send Newtown’s bypass."
+        },
+        {
+          "caption": "Tory cuts to road building could send Newtown’s bypass axed."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Theresa May",
+	"constituency": "",
+	"politicalParty": "Conservatives",
+	"electionDate": "Thursday 8th June",
+	"messages": [
+  	{
+    	"title": "THE RISK IS JUST TOO BIG TO TAKE:",
+    	"content": "HIGHER DEBT, HIGHER TAXES, ECONOMIC CHAOS"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Brexit",
+    	"policyDescription": "Get the best Brexit deal possible to deliver economic security and our future"
+  	},
+  	{
+    	"policyTitle": "Leadership",
+    	"policyDescription": "Provide strong and stable leadership for our country"
+  	},
+  	{
+    	"policyTitle": "Economic Security",
+    	"policyDescription": "Always stand up for you and your family"
+  	}
+	],
+	"mentions": {
+  	"candidate": "Theresa May",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "Theresa May",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Get the best Brexit deal possible.",
+  	"economy": "Deliver economic security for our future.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "Provide strong and stable leadership.",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "Prime Minister",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "4 Matthew Parker Street, London, SW1H 9HQ",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Theresa May speaking to an audience."
+    	}
+  	]
+	},
+	"additionalNotes": "References to political events such as 'President Trump' and 'UK votes Brexit' as shock wins to argue against Jeremy Corbyn's electability."
+  }
+}
+```

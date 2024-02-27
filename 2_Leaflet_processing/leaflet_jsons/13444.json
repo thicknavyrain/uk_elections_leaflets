@@ -1,0 +1,61 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Wilson",
+    "constituency": "North East Leeds",
+    "politicalParty": "Conservative",
+    "electionDate": "May 2015",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Simon Wilson, your local parliamentary candidate",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "office@northeastleedsconservatives.org.uk",
+      "phone": "0113 204 5993",
+      "email": "",
+      "website": "www.simonwilson.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Simon Wilson, your local parliamentary candidate"
+        },
+        {
+          "caption": "Farzana Arif, your local council candidate"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

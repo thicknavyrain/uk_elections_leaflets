@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "George Eustice",
+    "constituency": "Camborne, Redruth & Hayle",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A strong local voice for Camborne, Redruth & Hayle",
+        "content": "George is local and committed. His family have lived in the area for 400 years."
+      },
+      {
+        "title": "Your vote will deliver...",
+        "content": "Competent leadership, Job total hits record high while wages grow, Benefits cap leads to more into work, Tax cuts for workers and savers, The deficit down, More jobs, more business, Income tax cut, A better future for you, your family and our country"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "George has delivered. Unemployment has almost halved and our towns have seen regeneration."
+      },
+      {
+        "policyTitle": "Water Bill",
+        "policyDescription": "George is a campaigner. He delivers cut to water bills and reversed the 'Pasty Tax'."
+      }
+    ],
+    "mentions": {
+      "candidate": "George Eustice",
+      "otherPartyLeaderCandidate": "Labour plan of chaos, Vince Cable: Lib Dems cutting less than us suggest £70bn black hole, Lib Dems allied with SNP",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "George has helped to halve unemployment and regenerate towns.",
+      "education": "",
+      "environment": "",
+      "governance": "He has helped deliver competent leadership.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Benefits cap has led to more people getting into work.",
+      "housing": [
+        {
+          "content": "Job total hits record high while wages grow. More jobs, more business.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "A personal message from George Eustice, Since being elected...",
+    "politicalExperience": [
+      {
+        "role": "Farming and fisheries minister",
+        "duration": "Since 2013",
+        "achievements": "Appointed as farming and fisheries minister in DEFRA."
+      }
+    ],
+    "contactInformation": {
+      "address": "10 George Street, Hayle, TR27 4PS",
+      "phone": "01209 713355",
+      "email": "george@georgeeustice.org.uk",
+      "website": "www.georgeeustice.org.uk",
+      "socialMedia": {
+        "facebook": "GeorgeEusticeMP",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images depicting George Eustice in various activities such as working with constituents, engaging in outdoor activities, and at work-related events."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes comparisons between the Conservative candidate's policies and the perceived negative outcomes of the alternative Labour plan."
+  }
+}
+```

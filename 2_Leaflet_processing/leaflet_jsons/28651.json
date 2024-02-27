@@ -1,0 +1,59 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gordon Henderson",
+    "constituency": "Sittingbourne and Sheppey",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Gordon Henderson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Gordon Henderson sitting with Theresa May."
+        },
+        {
+          "caption": "Gordon Henderson standing next to a military vehicle."
+        },
+        {
+          "caption": "Gordon Henderson in an office with a booklet."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

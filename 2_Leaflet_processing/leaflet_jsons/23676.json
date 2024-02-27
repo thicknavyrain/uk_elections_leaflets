@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Daniel Zeichner",
+	"constituency": "Cambridge",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Daniel Zeichner",
+  	"otherPartyLeaderCandidate": "Nick Clegg",
+  	"partyLeader": "",
+  	"tacticalSituation": "In a marginal seat like Cambridge every vote for Labour counts. Staying at home, voting for a Lib Dem MP or flirting with the Greens or UKIP is a very big risk."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "To lift the cap on private patients in NHS hospitals",
+  	"immigration": "",
+  	"socialWelfare": "For the Bedroom Tax",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "No ifs, no buts, I will never prop up a Tory Government.",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Daniel Zeichner"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Bob Griffin",
+    "constituency": "Merthyr Tydfil & Rhymney",
+    "politicalParty": "Welsh Liberal Democrats",
+    "electionDate": "May 7th 2015",
+    "messages": [
+      {
+        "title": "Creating Opportunity For Everyone",
+        "content": "Welsh Liberal Democrats will go on cutting your taxes, expand free childcare, increase jobs and apprenticeships, improve mental health services and raise pensions. We'll cut less than the Conservatives and borrow less than Labour."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Go on cutting your taxes."
+      },
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "Expand free childcare."
+      },
+      {
+        "policyTitle": "Employment and Apprenticeships",
+        "policyDescription": "Increase jobs and apprenticeships."
+      },
+      {
+        "policyTitle": "Mental Health",
+        "policyDescription": "Improve mental health services."
+      },
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "Raise pensions."
+      }
+    ],
+    "mentions": {
+      "candidate": "Bob Griffin",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Kirsty Williams",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Expand free childcare, increase jobs and apprenticeship opportunities for pupils in the poorest areas.",
+      "environment": "",
+      "governance": "",
+      "health": "Lib Dems will reform mental health services in Wales.",
+      "immigration": "",
+      "socialWelfare": "Extend free childcare, raise pensions.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "2 Mitchell Cress., Penydarran, Merthyr Tydfil, CF47 9JB",
+      "phone": "07789 587112",
+      "email": "bob@bobgriffin.co.uk",
+      "website": "www.welshlibdems.wales",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@SWEValleys",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Kirsty Williams",
+        "endorsement": "Britain needs a Liberal voice in Government, one that'll speak out when Labour or the Conservatives go too far. It isn't a matter of belief; we're the only ones that are able to do that."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Bob Griffin"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

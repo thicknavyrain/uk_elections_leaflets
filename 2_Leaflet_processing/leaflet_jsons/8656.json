@@ -1,0 +1,62 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Daniel Thomas",
+    "constituency": "",
+    "politicalParty": "Welsh Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "VOTE FOR CHANGE",
+        "content": "The only candidate to promise not to claim extra pay for renting a second London 'home' - saving you, the taxpayer, a fortune!"
+      },
+      {
+        "title": "Standing up for the great ignored in Islwyn",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Daniel Thomas",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Daniel Thomas pictured in a suit"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

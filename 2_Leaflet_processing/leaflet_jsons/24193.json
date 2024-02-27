@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kris Wragg",
+    "constituency": "Bassetlaw",
+    "politicalParty": "Green Party",
+    "electionDate": "7 May 2015",
+    "messages": [
+      {
+        "title": "KRIS SAYS...",
+        "content": "I am a 29-year-old software engineer and allotment holder who lives in Worksop with my loving partner Donna. We Greens are about much more than just saving our planet for future generations. Our policies are about improving equality and social justice."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A PUBLIC NHS",
+        "policyDescription": "Fight for a publicly funded NHS free at the point of use and end the creeping privatisation of its services. Make mental health a much higher priority with resources to match this status."
+      },
+      {
+        "policyTitle": "A FAIR ECONOMY",
+        "policyDescription": "End austerity and restore the public sector to create over one million good jobs. This will be paid for with a wealth tax on the top 1%, a Robin Hood tax on the banks and the closure of tax loopholes. A minimum wage of £10 an hour by 2020."
+      },
+      {
+        "policyTitle": "DECENT HOMES",
+        "policyDescription": "Abolish the unfair Bedroom Tax. Build 500,000 new social rented homes to bring empty homes back into use. Introduce rent caps and longer tenancies for renters."
+      },
+      {
+        "policyTitle": "A SAFE CLIMATE",
+        "policyDescription": "Take serious action to ensure global temperatures do not rise further. Phase out fossil fuel based energy generation and nuclear power. Invest in renewable energy, flood defences and building insulation."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kris Wragg",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "End austerity and restore the public sector to create over one million good jobs.",
+      "education": "",
+      "environment": "Take serious action to ensure global temperatures do not rise further.",
+      "governance": "",
+      "health": "Fight for a publicly funded NHS free at the point of use and end the creeping privatisation of its services.",
+      "immigration": "",
+      "socialWelfare": "Make mental health a much higher priority with resources to match this status.",
+      "housing": [
+        {
+          "content": "Abolish the unfair Bedroom Tax. Build 500,000 new social rented homes to bring empty homes back into use.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "We Greens are about much more than just saving our planet for future generations. Our policies are about improving equality and social justice.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01909 489233",
+      "email": "bassetlawgreenparty@gmail.com",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/BassetlawGreens",
+        "twitter": "@BassetlawGreens",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "On 7 May you can vote for a decent future. You won’t be alone, I assure you.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Kris Wragg holding a tool in an allotment."
+        }
+      ]
+    },
+    "additionalNotes": "Election Communication - Bassetlaw - 7 May 2015. SAY NO TO POLITICS AS USUAL - PROTECT THE NHS - BAN FRACKING - FREE EDUCATION RAILWAYS IN PUBLIC HANDS - £10 AN HOUR MINIMUM WAGE - NO TO BEDROOM TAX."
+  }
+}
+```

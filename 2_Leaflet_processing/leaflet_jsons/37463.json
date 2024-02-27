@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "James Dornan",
+    "constituency": "Glasgow Cathcart",
+    "politicalParty": "SNP",
+    "electionDate": "On 5th May",
+    "messages": [
+      {
+        "title": "A message from James:",
+        "content": "For the last four years the SNP has worked hard to make Scotland fairer and better. We have made real progress and built firm foundations for the future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Crime Reduction",
+        "policyDescription": "Crime is at a 32-year low thanks to over 1000 extra police officers. Hospital waiting times are shorter than ever with more frontline staff working in NHS."
+      },
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "Our four-year council tax freeze saved the average Glasgow household over £300."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Primary school classes are the smallest on record and nursery education has expanded."
+      },
+      {
+        "policyTitle": "Veterans",
+        "policyDescription": "Funding for free personal care has improved and free bus travel extended to injured veterans."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "New council houses are being built for the first time in a generation."
+      }
+    ],
+    "mentions": {
+      "candidate": "James Dornan",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Primary school classes are the smallest on record and nursery education has expanded.",
+      "environment": "",
+      "governance": "",
+      "health": "Hospital waiting times are shorter than ever with more frontline staff working in our NHS—including 1,000 extra cleaners.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "New council houses are being built for the first time in a generation.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have also been working hard since I was elected as councillor for Langside, locally and in the Council Chamber, to promote the interests of my constituents and the communities they live in. As leader of the SNP council group, I work on behalf of all Glaswegians to hold to account a Labour-run Council that takes the city and its people for granted.",
+    "politicalExperience": [
+      {
+        "role": "Councillor for Langside",
+        "duration": "",
+        "achievements": "Working hard locally and in the Council Chamber, promoting the interests of constituents and communities. Leader of the SNP council group, holding to account a Labour-run Council."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Cathcart resident Heather McArthur",
+        "endorsement": "James Dornan is committed to improving services for the local community, and works hard to positively improve the lives of those he represents. He worked tirelessly to resist the Labour closure of schools and nurseries across the city, lending support to those who needed their voices heard. He is willing to engage with local communities and is very aware of the need for politicians to develop strong working relationships with the people they represent."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "James visits the THREE new primary schools built in the Cathcart constituency by the SNP Scottish Government - Merrylee, St Fillan's and Miller Primary in Castlemilk."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

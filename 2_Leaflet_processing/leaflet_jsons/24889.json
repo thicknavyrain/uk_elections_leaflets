@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Johnny Mercer",
+    "constituency": "Plymouth",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Johnny",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.johnnyforplymouth.com",
+      "socialMedia": {
+        "facebook": "/johnnyforplymouth",
+        "twitter": "/JohnnyMercerUK",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Stuart P",
+        "endorsement": "Johnny, I do like the way you engage with people in a mature genuine and at the same time very warm way... you deserve to win."
+      },
+      {
+        "endorser": "Melanie H",
+        "endorsement": "We need him in government."
+      },
+      {
+        "endorser": "Rick M",
+        "endorsement": "He gets my vote... he is a Veteran... the only one that has got off his real world... for he knocks on his man different he has served his country and stands head and shoulders above the rest and for that reason he gets my vote."
+      },
+      {
+        "endorser": "Mike F",
+        "endorsement": "Keep up the good work. First time Tory voter won over Because you are getting out there. Britain needs active MP's."
+      },
+      {
+        "endorser": "Joshua R",
+        "endorsement": "You are an inspiration."
+      },
+      {
+        "endorser": "Steve R",
+        "endorsement": "It's fantastic to have local people who are willing to take an interest in young people specifically... Keep up the great work! Joshua"
+      },
+      {
+        "endorser": "Jarno",
+        "endorsement": "About time someone else has a go at changing Plymouth for the better. Needs someone new and upcoming with a bit of ambition. Got my vote."
+      },
+      {
+        "endorser": "Richard C",
+        "endorsement": "With your policies and the brilliant support of your family, you deserve to win."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

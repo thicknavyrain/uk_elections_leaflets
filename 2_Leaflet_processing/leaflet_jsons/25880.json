@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ibby Mehmet",
+    "constituency": "Old Bexley & Sidcup",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7th May",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ibbymehmet.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ibby Mehmet, New voice and new energy for Old Bexley & Sidcup"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "George Eustice",
+    "constituency": "Camborne, Redruth and Hayle",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Working hard for people",
+        "content": "The coming months represent a fresh start for our politics and that is why in this election we need to choose a strong Prime Minister in Theresa May. Nothing should stand in the way of the democratic decision voters took last year."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "George Eustice has championed economic development in Cornwall."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "As a Minister at the Department for Environment, Food and Rural Affairs, George Eustice has responsibility for fisheries and flooding. Improved their policies and successfully campaigned to protect disaster areas and investment of £50 million for new investments."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Seeing change take shape. Works continue at the Tresker Kerrow centre in Redruth, with a hotel opened in 2018. The next stage proposes an art and innovation development at the heart of the community at North Quay, now starting to move energy output in a positive direction."
+      },
+      {
+        "policyTitle": "Transportation",
+        "policyDescription": "Discussions with various landowners about the regeneration of South Crofty mine and hope new plans show progress in the coming months."
+      }
+    ],
+    "mentions": {
+      "candidate": "George Eustice",
+      "otherPartyLeaderCandidate": "Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Nothing should stand in the way of the democratic decision voters took last year.",
+      "economy": "George Eustice has championed economic development in Cornwall.",
+      "education": "",
+      "environment": "As a Minister at the Department for Environment, Food and Rural Affairs, George Eustice has responsibility for fisheries and flooding.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Works continue at the Tresker Kerrow centre in Redruth, which see a hotel open in 2018. The next stage proposes an art and innovation development at the heart of the community at North Quay, now starting to move energy output in a positive direction.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Minister at the Department for Environment, Food and Rural Affairs",
+        "duration": "Since 2013",
+        "achievements": "Responsibility for fisheries and flooding. Improved their policies and successfully campaigned to protect disaster areas."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "George Eustice with various groups and individuals"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

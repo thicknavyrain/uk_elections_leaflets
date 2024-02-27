@@ -1,0 +1,81 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Grayling",
+    "constituency": "Epsom and Ewell",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "MAKING BREXIT A SUCCESS IS CENTRAL TO OUR NATIONAL INTEREST",
+        "content": "As a nation, we face the most important period in our lifetime. Making Brexit a success is central to our national interest – and it is central to your own security and prosperity. While there is enormous opportunity for Britain as we leave the European Union, if we don't get Brexit right the consequences for our prosperity will be great and long term, your economic security and opportunity put at risk, and the opportunities you seek for your family will simply not happen. But with your help we can get it right."
+      },
+      {
+        "title": "THIS IS A UNIQUE AND CRUCIAL ELECTION FOR OUR COUNTRY",
+        "content": "By going to Brussels with a strong negotiating hand I can ensure we guarantee our economic security. I believe that with dedication and hard work, we can make a success of Brexit and bring our country together - building a stronger economy that creates secure and well-paid jobs, where every child gets a good school place and working people can buy a home of their own."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Ensuring a successful Brexit is vital for national interest, security, and prosperity. Chris Grayling supports a strong negotiating stance in Brussels to secure economic security and opportunities for Britain."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Grayling",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Chris Grayling emphasizes making Brexit a success for the security and prosperity of the nation.",
+      "economy": "Chris Grayling supports building a stronger economy with secure and well-paid jobs.",
+      "education": "Ensuring every child gets a good school place.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Working people can buy a home of their own.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "A COALITION OF CHAOS WITH JEREMY CORBYN",
+        "source": "Mirror, 20th April 2017",
+        "date": "2017-04-20"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Rt Hon Theresa May Prime Minister"
+        },
+        {
+          "caption": "A COALITION OF CHAOS WITH JEREMY CORBYN"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr Philippa Whitford",
+    "constituency": "Central Ayrshire",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Scotland has the right to choose!",
+        "content": "This General Election is one of the most important in Scotland's history with the choice of Brexit Britain or an Independent Country!"
+      },
+      {
+        "title": "Re-elect Dr Philippa Whitford",
+        "content": "A strong voice for Central Ayrshire"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Opposition to Hard Brexit or No-Deal Brexit. Emphasizes protecting Scottish manufacturers, local industry, farmers, and fishermen."
+      },
+      {
+        "policyTitle": "Scottish Parliament",
+        "policyDescription": "Defending the Scottish Parliament and opposing the transfer of powers from Devolved policies to Westminster."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr Philippa Whitford",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "R. Sturgeon",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Strong opposition to the Hard Brexits. Highlighting the need for Scotland to choose its future.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Criticism of Conservative MPs transferring powers from the Scottish Parliament to Westminster.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "It has been a privilege to represent the people of Central Ayrshire at Westminster for the last 4½ years.",
+    "politicalExperience": [
+      {
+        "role": "Personal Champion",
+        "duration": "4½ years",
+        "achievements": "Helping individuals struggling with UK Government agencies."
+      },
+      {
+        "role": "Constituency Champion",
+        "duration": "4½ years",
+        "achievements": "Securing the Ayrshire Growth Deal, supporting local communities, promoting active travel and making communities Dementia friendly."
+      },
+      {
+        "role": "SNP Shadow Health Spokesperson",
+        "duration": "4½ years",
+        "achievements": "Challenging health threats from Tory Brexit and Austerity - loss of EU staff, medicine shortages, rising child and pensioner poverty."
+      }
+    ],
+    "contactInformation": {
+      "address": "Both at The Hub, 123 Main Street, Irvine KA12 8AQ.",
+      "phone": "",
+      "email": "info@drphilippasnp",
+      "website": "whitford.scot",
+      "socialMedia": {
+        "facebook": "PhilippaWhitfordSNP",
+        "twitter": "@Dr_PhilippaW",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Dr. Philippa Whitford and SNP logo"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

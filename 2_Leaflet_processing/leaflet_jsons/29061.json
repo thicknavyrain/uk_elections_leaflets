@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chloe Smith",
+    "constituency": "Norwich North",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "MAKING BREXIT A SUCCESS IS CENTRAL TO OUR NATIONAL INTEREST",
+        "content": "As a nation, we face the most important period in our lifetimes. Making Brexit a success is central to our national wellbeing and it is crucial to your own standard of living."
+      },
+      {
+        "title": "CHLOE SMITH STANDING WITH THERESA MAY",
+        "content": "Chloe's pledge to you is that she will speak up in the best interest of Norwich North at all times. Chloe continues to speak up for the best for Norwich and will strive to represent all and not make divisions."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investment in Norwich",
+        "policyDescription": "Chloe fights for better, secure funding of local services—securing £14.4 million to brand new trains for the Norwich to London line. Chloe will not rest until the Norwich Northern Distributor Road is finished."
+      },
+      {
+        "policyTitle": "Local Jobs",
+        "policyDescription": "Chloe looks for opportunities for investment in skills, which is crucial to help maintain a strong economy so that those seeking new employment can find jobs that suit the people who need them the most."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chloe Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Making Brexit a success is central to our national wellbeing and it is crucial to your own standard of living",
+      "economy": "By going to Brussels with a strong negotiating hand, I can get a stronger Britain out of EU. Chloe fights for better, secure funding of local services.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Chloe will not rest until the Norwich Northern Distributor Road is finished.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Chloe's pledge to you is that she will speak up in the best interest of Norwich North at all times. Chloe continues to speak up for the best for Norwich and will strive to represent all and not make divisions.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "NR3 3 CATTON GROVE ROAD",
+      "phone": "01603 414774",
+      "email": "chloe@chloesmith.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "fb.com/chloesmithmpnorwichnorth",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Theresa May",
+        "endorsement": "Theresa May's support is implied in the context of the pamphlet."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "By going to Brussels with a strong negotiating hand, I can get a stronger Britain out of EU.",
+        "source": "Rt. Hon Theresa May Prime Minister",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Chloe Smith with Theresa May"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

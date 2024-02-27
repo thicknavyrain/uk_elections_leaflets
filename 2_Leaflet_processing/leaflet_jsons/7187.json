@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "George Osborne",
+    "constituency": "",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Dear Elector, There are only six weeks to go until the general election. I am writing to you because if the Conservatives win that election, David Cameron has asked me to be Chancellor of the Exchequer..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Explains the need to get rid of wasteful government spending, ensuring tax revenues are spent wisely, and making cuts to bring the deficit down while protecting jobs and livelihoods."
+      }
+    ],
+    "mentions": {
+      "candidate": "George Osborne",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "It will be my job to get Britain's economy moving - and I want you to know how I plan to do it. As you know, our economy is still in trouble. People worry about their jobs, their finances and their taxes. Most people feel many small businesses cannot get the support they need from the banks, even though we bailed some out. We can't go on like this...",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Shadow Chancellor of the Exchequer",
+        "duration": "",
+        "achievements": "If the Conservatives win the election, David Cameron has asked me to be Chancellor of the Exchequer."
+      }
+    ],
+    "contactInformation": {
+      "address": "Conservative Party, 30 Millbank, London SW1P 4DP",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet pages with content from George Osborne's campaign."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

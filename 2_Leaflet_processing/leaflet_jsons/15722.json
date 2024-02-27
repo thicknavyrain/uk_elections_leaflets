@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Paul Miller",
+    "constituency": "Pembrokeshire",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7th May",
+    "messages": [
+      {
+        "title": "Time to clean up Pembrokeshire’s broken politics",
+        "content": "Stephen Crabb, a Conservative MP, claimed his 'main home' was a room in another MP’s flat, after buying a new house for his family at taxpayers' expense."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "The best healthcare for your family, with care close to home."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "A job that pays, beating the drum for Pembrokeshire, being an innovator in bringing jobs and industry back here."
+      },
+      {
+        "policyTitle": "Good Governance",
+        "policyDescription": "Returning trust to Pembrokeshire's politics. Pembrokeshire will benefit from honesty, commitment and a living wage."
+      },
+      {
+        "policyTitle": "Children's Education",
+        "policyDescription": "The best start for our children with the plan to provide an alternative for improving our schools."
+      },
+      {
+        "policyTitle": "Town Centres",
+        "policyDescription": "Re-energising our town centres in line with the recent decline and loss of jobs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Paul Miller",
+      "otherPartyLeaderCandidate": "Stephen Crabb",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Returning trust to Pembrokeshire's politics.",
+      "health": "The best healthcare for your family.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "",
+        "achievements": "Fighting as a councillor to continue to stand up against the corrupt and cosy politics in our county."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.paulmillerpembrokeshire.org",
+      "socialMedia": {
+        "facebook": "Paul.Miller268",
+        "twitter": "PaulMillerPembs",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Paul Miller in a casual stance outdoors."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet addresses grievances and accusations against other politicians representing Pembrokeshire."
+  }
+}
+```

@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Eileen Baxendale",
+    "constituency": "Cathcart",
+    "politicalParty": "Scottish Liberal Democrats",
+    "electionDate": "May 5th",
+    "messages": [
+      {
+        "title": "Getting Glasgow working",
+        "content": "Liberal Democrats will provide the skills our economy needs and support local businesses by bringing together colleges and businesses, with the resources to step in where the greedy banks have failed."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "We want to raise standards in schools by letting teachers spend more time in the classroom teaching your children, not filling out government paperwork."
+      },
+      {
+        "policyTitle": "Services",
+        "policyDescription": "Protect the services you rely on by listening to frontline staff, cutting waste, and giving local people a real say."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Tackle climate change and create green jobs. Cut your heating bills with new help to pay for insulation and energy saving in your home."
+      },
+      {
+        "policyTitle": "Jobs",
+        "policyDescription": "Create 100,000 new jobs by investment in green technologies, home insulation, and public transport."
+      },
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "Scrapping the unfair council tax, starting with making sure less well-off pensioners pay nothing."
+      },
+      {
+        "policyTitle": "Children",
+        "policyDescription": "Give every child a fair chance in life with special help for disadvantaged children so they don't get left behind."
+      }
+    ],
+    "mentions": {
+      "candidate": "If elected Eileen would work to: Scrap Council Tax for less well off pensioners. Ensure there are no tuition fees or graduate contributions for Scottish students in Scotland. Keep Police and Fire services local. Protect vital public services. Fight to save greenspace from developers such as Co Ape.",
+      "otherPartyLeaderCandidate": "Betrayed by Labour, Failed by the SNP",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "We want to raise standards in schools by letting teachers spend more time in the classroom teaching your children.",
+      "environment": "Tackle climate change and create green jobs. Cut your heating bills with new help to pay for insulation and energy saving in your home.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Fight to save greenspace from developers such as Co Ape.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Eileen Baxendale, hard working...Experienced, and fighting for Cathcart",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Eileen Baxendale interacting with the public and supporting local services"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet accuses Labour of betrayal and claims SNP failed, suggesting a competitive political climate in Glasgow."
+  }
+}
+```

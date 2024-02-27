@@ -1,0 +1,122 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Cryer",
+    "constituency": "Leyton and Wanstead",
+    "politicalParty": "Labour",
+    "electionDate": "8 June",
+    "messages": [
+      {
+        "title": "The cosy coalition between Tories and Liberals",
+        "content": "The flyer criticizes the coalition government between the Tories and the Lib Dems, specifically mentioning the Bedroom Tax, NHS underfunding, tuition fee increase, and the alliance with the Education Maintenance Allowance, all of which are attributed to decisions made by the collaboration of Lib-Dems with Tories."
+      },
+      {
+        "title": "Tory housing chaos",
+        "content": "It addresses the issue of rising and unaffordable housing costs in London, accusing Tories of making the situation worse and diminishing the number of affordable properties. The flyer also mentions John Cryer's efforts to tackle housing issues as a large part of his casework."
+      },
+      {
+        "title": "John Cryer backs the Os",
+        "content": "John Cryer supports the football club Leyton Orient in its difficult times, highlighting the plight of the club and recognizing its historic value to the local community."
+      },
+      {
+        "title": "Only Labour can protect our NHS",
+        "content": "The leaflet asserts that under Tory administration, the NHS is facing a year-round crisis, with various services within hospitals being 'at or beyond safe capacity' and A&E departments being 'inadequate'. John Cryer affirms his commitment to fighting for the NHS."
+      },
+      {
+        "title": "Tories devastate our local schools' budgets",
+        "content": "The leaflet claims that Tory policies have led to significant funding cuts for schools in the Leyton and Wanstead area, with the implication that this impacts educational outcomes and the quality of schooling."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "John Cryer aims to address the housing crisis by working with Labour councils to push for more affordable housing and tackle unaffordable rising costs."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "John Cryer emphasizes the need to protect the NHS from the effects of Tory policies and maintain essential health services."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Addressing the cuts to local schools' budgets and seeking to reverse the negative impact of Tory financial policies on education."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Cryer",
+      "otherPartyLeaderCandidate": "Tories, Lib Dems",
+      "partyLeader": "incoming Labour Leader of Waltham Forest Council, Cllr Clare Coghill",
+      "tacticalSituation": "Claims that votes for Lib Dems in the area would effectively support the Tories."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The flyer discusses the negative impact of Tory policies on local school budgets.",
+      "environment": "",
+      "governance": "The flyer criticizes the governance of the coalition of Tories and Lib Dems and implies Labour governance as an alternative.",
+      "health": "Addresses the year-round crisis faced by NHS due to current policies and mentions issues such as A&E departments being 'inadequate'.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Discusses the issue of rising and unaffordable housing costs in London, diminishing number of affordable properties, and John Cryer's commitment to addressing housing issues.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Tory housing chaos is a huge part of my casework.",
+        "source": "John Cryer",
+        "date": ""
+      },
+      {
+        "text": "I have defended the hospital and primary care services and their staff. Successfully managing to save Leyton Green Clinic once, and to retain the foot health service at Wanstead Hospital, the only service remaining at the site after the closure of the greatly missed Heronwood and Galleon, Chase Community and Oakwood.",
+        "source": "John Cryer",
+        "date": ""
+      },
+      {
+        "text": "I will always fight for our NHS.",
+        "source": "John Cryer",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Cryer with incoming Labour Leader of Waltham Forest Council, Cllr Clare Coghill"
+        },
+        {
+          "caption": "John Cryer at the rally to support Leyton Orient"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

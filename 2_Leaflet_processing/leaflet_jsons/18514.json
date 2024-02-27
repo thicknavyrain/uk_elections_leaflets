@@ -1,0 +1,123 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Helen Grant",
+    "constituency": "Maidstone and The Weald",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A STRONG ECONOMY",
+        "content": "Securing our economy, supporting businesses to create more jobs and apprenticeships."
+      },
+      {
+        "title": "SUPPORTING OUR NHS",
+        "content": "Improving the NHS and protecting local hospital services."
+      },
+      {
+        "title": "KEEPING OUR PROMISES",
+        "content": "A proven track record of delivering on promises."
+      },
+      {
+        "title": "A PROVEN TRACK RECORD",
+        "content": "Delivering effective campaigns, protecting and improving local services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Boosting local businesses to create more jobs and apprenticeships."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Increasing funding for our National Health Service, working to integrate health and social care."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Improving our schools through better funding and support."
+      },
+      {
+        "policyTitle": "Elderly Care",
+        "policyDescription": "Caring for the needs of the elderly, securing a sustainable long-term plan for social care."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Ensuring the right numbers and location of new homes, protecting the environment and ensuring sufficient support for public services."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Keeping our area green, opposing unsuitable developments, and supporting renewable energy projects."
+      }
+    ],
+    "mentions": {
+      "candidate": "Helen Grant has proven that she is on our side.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "Maidstone and The Weald - one of the 23 seats that can deliver a majority Conservative government with David Cameron as PM.\nJust 23 more seats needed"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A strong leadership in the national interest... Protecting our economic recovery... Deliver a majority Conservative government... Securing our economy...",
+      "education": "Improving our schools...",
+      "environment": "Numbers, location and nature of any new housing development must be appropriate... Supporting our communities in every way...",
+      "governance": "",
+      "health": "Improving the NHS and protecting our local hospital services...",
+      "immigration": "",
+      "socialWelfare": "Delivering on important local issues... Protecting vulnerable people...",
+      "housing": [
+        {
+          "content": "Numbers, location and nature of any new housing development must be appropriate... protecting the landscape...",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "It's been an absolute privilege to serve the people...",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Picture of Helen Grant with supportive constituents."
+        },
+        {
+          "caption": "Graphical representation of 23 more seats needed."
+        },
+        {
+          "caption": "Picture of David Cameron."
+        }
+      ]
+    },
+    "additionalNotes": "Helen has consistently demonstrated her love for our town and countryside."
+  }
+}
+```

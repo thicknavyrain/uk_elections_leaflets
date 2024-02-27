@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tony Cox",
+    "constituency": "Newcastle",
+    "politicalParty": "Conservative",
+    "electionDate": "Spring 2015",
+    "messages": [
+      {
+        "title": "THE CHOICE",
+        "content": "Got a problem or concern? Contact Tony Cox, your local Conservative Team. On your side all year round - not just at election time."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "No real terms cut in per pupil funding in schools."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Ensure the NHS stays in public hands and meets the needs of the people of Newcastle."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tony Cox",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "No real terms cut in per pupil funding in schools.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Ensure the NHS stays in public hands and meets the needs of the people of Newcastle.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor in the City Centre",
+        "duration": "",
+        "achievements": "Worked on an apprenticeship scheme for more than 200 young people."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.tonycoxfornewcastle.com",
+      "socialMedia": {
+        "facebook": "fb.com/TonyCoxforNewcastle",
+        "twitter": "@tonycoxnewcastle",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tony Cox YES YOUR CURRENT MP NO"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

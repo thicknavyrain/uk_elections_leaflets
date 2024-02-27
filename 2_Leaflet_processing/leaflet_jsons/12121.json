@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ben Bradshaw",
+    "constituency": "Exeter",
+    "politicalParty": "Labour",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "Dear Resident,",
+        "content": "I wanted to say thank you for the warm reception I have received from many of you while out and about in Exeter during this election campaign."
+      },
+      {
+        "title": "Exeter's success",
+        "content": "I am proud of the success of our city; Exeter has weathered the global financial storm well and we are well placed to thrive in the recovery now underway."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Ben Bradshaw",
+      "otherPartyLeaderCandidate": "the Conservatives.",
+      "partyLeader": "",
+      "tacticalSituation": "The choice in Exeter on 6th May is between Labour and the Conservatives. It's neck and neck so your vote will count."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Exeter has weathered the global financial storm well and we are well placed to thrive in the recovery now underway.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "It is a great honour to work for you and Exeter, meeting people and trying to help with their problems.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "26B Clifton Hill, Exeter EX1 2DJ",
+      "phone": "275004",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ben Bradshaw, Labour Candidate for Exeter."
+        }
+      ]
+    },
+    "additionalNotes": "P.S. If you need a lift to the polling station, please call 275004."
+  }
+}
+```

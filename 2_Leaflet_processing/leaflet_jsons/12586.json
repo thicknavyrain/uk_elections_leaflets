@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Leech",
+    "constituency": "Manchester",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Only John Leech can beat Labour here",
+        "content": "A vote for Labour is a vote for more of this. An era defined by scandal and sleaze."
+      },
+      {
+        "title": "Thatcher's Back?",
+        "content": "'Tougher & deeper cuts than Thatcher' under Labour."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Services Cuts Petition",
+        "policyDescription": "Campaign to stop Labour's frontline services cuts across south Manchester."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Leech",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Tories 100-1 outsiders in south Manchester."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Threat to local schools and NHS services under Labour's secret spending cuts.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "FREEPOST, NAT 10365, Didsbury, Manchester, M20 7BZ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Leech Delivering for south Manchester"
+        },
+        {
+          "caption": "Secret Labour plans to cut our frontline services such schools across south Manchester."
+        },
+        {
+          "caption": "Beware of Labour's election promise"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

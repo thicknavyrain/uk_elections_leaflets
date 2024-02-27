@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Reed",
+    "constituency": "Loughborough",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "In these difficult economic times",
+        "content": "we need a strong voice to stand up for Loughborough to protect our vital services"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Andy Reed",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "In these difficult economic times, we need a strong voice to stand up for Loughborough to protect our vital services",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Andy Reed MP - Working Hard for Loughborough",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Andy Reed MP, FREEPOST, (MID16867), Loughborough, LE11 0BR",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andy Reed MP - Working Hard for Loughborough"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contains a survey asking the recipient's opinion on government investment in Health & Education and their party support preferences."
+  }
+}
+```

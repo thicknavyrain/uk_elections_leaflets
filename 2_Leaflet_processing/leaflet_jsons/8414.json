@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Clarke",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Remember the Post Office closures?",
+        "content": "Until 18 months ago I was the sub postmistress of the Balham High Road post office. In 2008 the Post Office Ltd decided to close us along with seven other local post offices."
+      },
+      {
+        "title": "We need an MP who will put our community first",
+        "content": "I have left the Labour Party and will not be voting for Sadiq Khan. Instead I will cast my vote for the Conservative Party’s candidate, Mark Clarke. He has stood up for us long after the issue left the headlines."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Mark Clarke",
+      "otherPartyLeaderCandidate": "Sadiq Khan",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Sub postmistress",
+        "duration": "Until 18 months ago",
+        "achievements": "I was the sub postmistress of the Balham High Road post office."
+      }
+    ],
+    "contactInformation": {
+      "address": "258 Balham High Road post office",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Mrs Mazumdar",
+        "endorsement": "I have left the Labour Party and will not be voting for Sadiq Khan. Instead I will cast my vote for the Conservative Party’s candidate, Mark Clarke."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "CLOSED BY LABOUR - Balham High Road Post Office"
+        }
+      ]
+    },
+    "additionalNotes": "P.S. If you come to my new shop, CeX Entertainment Electronics, 51 Mitcham Road, Sw17 9PB, I'll be happy to talk further."
+  }
+}
+```

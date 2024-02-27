@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "YOUR CHILD BENEFIT IS ON THE BALLOT PAPER TOMORROW.",
+        "content": "The Tories' cuts to Child Benefit will cost 4 million families over £1,000 a year."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protect Child Benefit",
+        "policyDescription": "Labour has a plan to protect Child Benefit and prevent the proposed cuts by the Conservatives."
+      },
+      {
+        "policyTitle": "Raise Tax Credits",
+        "policyDescription": "Increase Tax Credits in line with inflation every year."
+      },
+      {
+        "policyTitle": "Increase the Minimum Wage",
+        "policyDescription": "Raise the Minimum Wage to £8 an hour."
+      },
+      {
+        "policyTitle": "Guarantee 25 hours free childcare",
+        "policyDescription": "Ensure that working families receive 25 hours of free childcare per week."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "The Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Raise the Minimum Wage to £8 an hour.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Protect Child Benefit and raise Tax Credits in line with inflation every year.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contrasts the Tory plan with Labour's proposed policies and highlights the financial impact of the Conservatives' cuts to Child Benefit."
+  }
+}
+```

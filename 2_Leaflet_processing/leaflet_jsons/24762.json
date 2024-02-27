@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lynne Featherstone",
+    "constituency": "Hornsey and Wood Green",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Local Achievements",
+        "content": "Saving the Whittington A&E back in 2009, securing step-free access at Alexandra Palace station, winning fairer funding for Haringey schools."
+      },
+      {
+        "title": "Commitment",
+        "content": "Want to continue working for the constituency, highlighting the importance of every vote in a potentially close election."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "The Liberal Democrats have made a fully-costed £8 billion pledge for NHS funding."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Creating over a million more jobs and over 2 million new apprenticeships for young people."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Targeted billions of pounds to schools in disadvantaged areas, leading to an extra £20 million per year for Haringey schools."
+      },
+      {
+        "policyTitle": "Fiscal Responsibility",
+        "policyDescription": "Plan to balance the books fairly by 2017/18, and invest once we're back in surplus."
+      }
+    ],
+    "mentions": {
+      "candidate": "Lynne Featherstone",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Highlighting that the election is going to be close and every vote will count."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Creating over a million more jobs and over 2 million new apprenticeships for young people in Haringey.",
+      "education": "Schools in Haringey receive an extra £20 million per year, helping teachers and pupils.",
+      "environment": "",
+      "governance": "",
+      "health": "The Liberal Democrats have made a fully-costed £8 billion pledge for NHS funding.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Wants to continue serving residents of Hornsey and Wood Green and praises previous achievements.",
+    "politicalExperience": [
+      {
+        "role": "MP for Hornsey and Wood Green",
+        "duration": "Not specified",
+        "achievements": "Saved Whittington A&E, secured step-free access at Alexandra Palace station, won fairer funding for schools, helped every resident who came forward, rapid response times."
+      }
+    ],
+    "contactInformation": {
+      "address": "62 High Street, Hornsey, London, N8 7NX",
+      "phone": "020 8347 8214",
+      "email": "Lynne@lynnefeatherstone.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Our NHS is precious, yet NHS bosses say it needs £8 billion funding to survive.",
+        "source": "Campaign Leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign leaflet content"
+        }
+      ]
+    },
+    "additionalNotes": "P.S. Please do vote for me on May 7th - there is still more work to do to help Haringey and to make our country fairer."
+  }
+}
+```

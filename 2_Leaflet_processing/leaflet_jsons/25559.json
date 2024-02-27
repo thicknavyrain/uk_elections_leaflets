@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr. Lisa Cameron",
+    "constituency": "East Kilbride, Strathaven and Lesmahagow",
+    "politicalParty": "SNP",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "Stronger for Scotland",
+        "content": "Lisa has worked in Scotland's NHS for more than 20 years, is passionate about maintaining a publicly funded health service."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Lisa promises to fight to maintain publicly funded and well invested NHS, free at point of need, to prevent privatisation."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Lisa aims to ensure economic policy is used to demand job investment, provide good, secure jobs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr. Lisa Cameron",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "A tactical vote in East Kilbride would support the SNP to help fight against bigger cuts to Scotland's budget which other larger parties may inflict."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Lisa wants to demand job investment and secure good, steady jobs.",
+      "education": "",
+      "environment": "",
+      "governance": "Lisa will help to ensure Scotland's voice is heard in Westminster.",
+      "health": "Lisa has experience working in the NHS and aims to protect it from privatisation.",
+      "immigration": "",
+      "socialWelfare": "Lisa is committed to defending the vulnerable and supports fair welfare policies.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Lisa is an individual who cares deeply about her community and has dedicated her life to help others. Her experience in the NHS has given her insight into the challenges faced by her constituents.",
+    "politicalExperience": [
+      {
+        "role": "NHS Psychologist",
+        "duration": "More than 20 years",
+        "achievements": "Passionate about maintaining a publicly funded health service."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07552 279 140",
+      "email": "lisacameronmp@gmail.com",
+      "website": "www.lisacameronsnp.org.uk",
+      "socialMedia": {
+        "facebook": "LisaCameronSNP",
+        "twitter": "@LisaCameronSNP",
+        "instagram": "LisaCameronSNP",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Linda Fabiani MSP",
+        "endorsement": "I live in this constituency and am proud to represent East Kilbride in the Scottish Parliament. We need a strong SNP to stand up for East Kilbride, Strathaven and Lesmahagow. We need Dr. Lisa Cameron to be our strong voice at Westminster."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dr. Lisa Cameron with constituents"
+        },
+        {
+          "caption": "Campaign event image"
+        },
+        {
+          "caption": "Dr. Lisa Cameron in professional and candid moments"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet focuses on Dr. Lisa Cameron's NHS background, commitment to public services, and the importance of tactical voting to support SNP policies and protect Scotland from larger party cuts."
+  }
+}
+```

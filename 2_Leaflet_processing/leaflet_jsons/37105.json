@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mike Pringle",
+    "constituency": "Edinburgh South",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 5th",
+    "messages": [
+      {
+        "title": "The facts Labour want you to forget",
+        "content": "In Edinburgh Labour overspent by £18 million and left the city with no reserves. Labour more than DOUBLED the national debt BEFORE the banking crisis. Labour left the UK paying £120 million a day in debt interest."
+      },
+      {
+        "title": "4th place Conservatives can't win here!",
+        "content": "The actual result 2007 Scottish Parliament Election, Edinburgh South: LAB 11938, SNP 6117, Con 9549."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Education",
+        "policyDescription": "Opposes proposed fees for education."
+      },
+      {
+        "policyTitle": "Local Business",
+        "policyDescription": "Supports local businesses, shown meeting with local business owners."
+      },
+      {
+        "policyTitle": "Fairer Taxes",
+        "policyDescription": "Income tax allowance has now increased to £7475 post-free."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mike Pringle",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "4th place Conservatives can't win here!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour overspent by £18 million. Labour left the UK paying £120 million a day in debt interest.",
+      "education": "Opposes proposed fees for education.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": "Mike Pringle's 8 year record of action."
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Clifton Terrace, Edinburgh, EH12 5DR",
+      "phone": "0131 662 1513",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mike Pringle with local residents and business owners."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

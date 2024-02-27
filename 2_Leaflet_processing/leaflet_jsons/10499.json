@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Jeremy Lefroy",
+	"constituency": "Stafford Constituency",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "NHS A TOP PRIORITY",
+    	"content": "Putting confidence in our hospital needs to be restored. The priories here are keeping patients safe, far quicker and easier re-access for patients, and driving up standards of hospital health care."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Tackling Unemployment",
+    	"policyDescription": "Jobs to tackle unemployment on the rise with success stories like Siemens investing in Stafford."
+  	},
+  	{
+    	"policyTitle": "Supporting Voluntary Groups",
+    	"policyDescription": "Meeting with voluntary & charitable groups to discuss their work and issues."
+  	},
+  	{
+    	"policyTitle": "Taking Agriculture Seriously",
+    	"policyDescription": "Ensuring agriculture plays a key role in Staffordshire's economy and that needs are met from local supply for both farm and fork."
+  	},
+  	{
+    	"policyTitle": "Fairer School Funding",
+    	"policyDescription": "Visiting local schools and advocating for fairer funding; ensuring schools have the necessary resources to deliver outstanding education."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Jeremy Lefroy",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Understanding Stafford’s areas for economic growth and job creation.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "NHS A TOP PRIORITY",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "MP of Stafford",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "Unit 15, Pearl House, Anson Court, Staffordshire Technology Park, Beaconside, Stafford, ST18 0GB",
+  	"phone": "01785 252 477",
+  	"email": "staffordconservatives@gmail.com",
+  	"website": "www.jeremylefroy.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "twitter.com/JeremyLefroyMP",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+	],
+	"quotes": [
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "NHS as a priority and calls for restoring trust in hospital"
+    	},
+    	{
+      	"caption": "Ensuring local agriculture supports Stafford's economy."
+    	},
+    	{
+      	"caption": "Promoting fairer school funding in the constituency."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

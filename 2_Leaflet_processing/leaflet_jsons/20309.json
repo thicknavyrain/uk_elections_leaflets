@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stuart Macdonald",
+    "constituency": "West Oxon",
+    "politicalParty": "Green Party",
+    "electionDate": "7th May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Safeguarding public services",
+        "policyDescription": "An end to austerity"
+      },
+      {
+        "policyTitle": "True environmental protection",
+        "policyDescription": "Valuing migrants"
+      },
+      {
+        "policyTitle": "Living wage for all citizens",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Fairer, progressive taxes",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Practical flood prevention",
+        "policyDescription": "Investment in renewable energy"
+      }
+    ],
+    "mentions": {
+      "candidate": "Stuart Macdonald",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Living wage for all citizens, Fairer, progressive taxes, Investment in renewable energy",
+      "education": "",
+      "environment": "True environmental protection, Practical flood prevention",
+      "governance": "What makes us different?",
+      "health": "Safeguarding public services",
+      "immigration": "Valuing migrants",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "12 Langdale Gate, Witney, OX28 6EY",
+      "phone": "",
+      "email": "",
+      "website": "westoxongreens.org.uk",
+      "socialMedia": {
+        "facebook": "WestOxfordshireGreenParty",
+        "twitter": "westoxongreens",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "In 2010, in Witney, David Cameron promised the greenest government ever. In 2015, in Witney, the Greens will take him to task."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

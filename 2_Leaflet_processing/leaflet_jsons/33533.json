@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Will Forster",
+    "constituency": "Woking",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday 12th December",
+    "messages": [
+      {
+        "title": "The Lib Dem plan for 20,000 more teachers",
+        "content": ""
+      },
+      {
+        "title": "For the first class local MP our area deserves, local people say...",
+        "content": "IT'S GOT TO BE WILL FOR Woking"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Brexit",
+        "policyDescription": "Will Forster vows to fight to stop Brexit and is passionate about staying in the EU, highlighting the impact on NHS, schools, and funding if Brexit happens."
+      }
+    ],
+    "mentions": {
+      "candidate": "Will Forster",
+      "otherPartyLeaderCandidate": "Boris Johnson, Conservative Party; Farage & Brexit Party back Woking Tories",
+      "partyLeader": "",
+      "tacticalSituation": "The election in Woking is a two-horse race between the Liberal Democrats and the Conservatives. Winning strategic voters from Labour, Green and Conservative."
+    },
+    "issues": {
+      "brexitEurope": "Vows to stop Brexit, emphasizing the negative effects it's already had on Britain's economy and reputation.",
+      "economy": "",
+      "education": "20,000 more teachers plan indicates a concern for education; stopping Brexit will protect schools from funding cuts.",
+      "environment": "",
+      "governance": "",
+      "health": "Stopping Brexit to protect the NHS from the implications of Brexit.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor, Mayor and local person to represent Woking",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "WokingLibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "People's Vote",
+        "endorsement": "Recommends voting for the Liberal Democrats candidate in Woking."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Farage & Brexit Party back Woking Tories",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Will Forster with supporters holding 'Stop Brexit' signs."
+        },
+        {
+          "caption": "Graph showing voting percentages with Lib Dem at 36%, Brexit Party at 28%, and others."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet emphasizes Will Forster as the viable candidate to represent the Remain majority of Woking and stop Brexit. It suggests voting Lib Dem is the strategic choice to prevent a Conservative victory."
+  }
+}
+```

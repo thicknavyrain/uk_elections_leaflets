@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Helen Whately",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "AN IMPORTANT MESSAGE FROM HELEN WHATELY ABOUT YOUR POSTAL VOTE",
+        "content": "This election will decide who leads Britain: David Cameron or Ed Miliband. The choice is between continued economic recovery or Labour’s taxes and wasteful spending. As your MP the NHS will be my top priority. I want consistently excellent healthcare and I’ll use my career experience to help – but the NHS also depends on a strong economy. I’ll campaign to get the balance right on development. We need homes for the next generation, but we mustn’t destroy rural Kent in the process."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Leadership",
+        "policyDescription": "The election is a decision on whether David Cameron or Ed Miliband leads Britain."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Promotes continued economic recovery over Labour’s taxes and wasteful spending."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "The NHS will be a top priority, aiming for consistently excellent healthcare."
+      },
+      {
+        "policyTitle": "Development",
+        "policyDescription": "Campaigns to balance development needs with the preservation of rural Kent."
+      }
+    ],
+    "mentions": {
+      "candidate": "Helen Whately",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Promotes continued economic recovery over Labour’s taxes and wasteful spending.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The NHS will be a top priority, aiming for consistently excellent healthcare.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We need homes for the next generation, but we mustn’t destroy rural Kent in the process.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "This election is a clear choice between five more years of competent Conservative leadership or a return to the economic chaos of a Labour government led by Ed Miliband.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Helen Whately"
+        }
+      ]
+    },
+    "additionalNotes": "Your postal vote will make a difference, please don’t waste it."
+  }
+}
+```

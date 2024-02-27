@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Richard King",
+	"constituency": "Finchley & Golders Green",
+	"politicalParty": "UK Independence Party",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+		"policyTitle": "Leaving the EU",
+		"policyDescription": "UKIP will leave the EU which is the only way to control our borders."
+  	},
+	{
+		"policyTitle": "Protecting UK Jobs and Wages",
+		"policyDescription": "Protect UK jobs, wages, housing, the NHS, our green spaces & put locals first."
+  	},
+	{
+		"policyTitle": "Restoring British Sovereignty",
+		"policyDescription": "Restore British sovereignty, law & security."
+  	},
+	{
+		"policyTitle": "Prosperity Through Trade",
+		"policyDescription": "Prosperity for all via global trade."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Richard King",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "UKIP will leave the EU which is the only way to control our borders.",
+  	"economy": "Prosperity for all via global trade.",
+  	"education": "",
+  	"environment": "Protect our green spaces",
+  	"governance": "Restore British sovereignty, law & security.",
+  	"health": "Protect the NHS",
+  	"immigration": "Control our borders",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Protect housing",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "54 Friary Road, London, N12 9PB",
+  	"phone": "07507 759 075",
+  	"email": "richard.king@ukiplocal.org",
+  	"website": "www.UkipBarnet.org",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Campaign leaflet for Richard King, UK Independence Party candidate for Finchley & Golders Green."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

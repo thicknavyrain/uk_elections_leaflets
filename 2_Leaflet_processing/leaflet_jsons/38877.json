@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Shailesh Vara",
+    "constituency": "North West Cambridgeshire",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12th December 2019",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "GET BREXIT DONE",
+        "policyDescription": "Deals with Brexit for the future of the country, secured a good deal that takes UK out of the EU, in charge of money, laws and borders, and a deal that allows to negotiate own trade agreements with the rest of the world."
+      },
+      {
+        "policyTitle": "BACKING BUSINESS",
+        "policyDescription": "Cutting corporation tax from 28% to 19%, encourage more businesses to invest and grow in the UK, plan to cut rates for shops, pubs and cafes, while also making tech giants pay fair taxes."
+      },
+      {
+        "policyTitle": "BIGGEST NHS CASH BOOST IN ITS HISTORY",
+        "policyDescription": "The NHS is receiving £33.9 billion, over 17,000 more doctors and over 16,000 more nurses, 5 new medical schools, and ensuring NHS staff numbers will rise by at least 6.5% by 2020-21."
+      },
+      {
+        "policyTitle": "A BETTER EDUCATION",
+        "policyDescription": "Increasing school funding by £14 billion, guaranteeing minimum £5,000 per secondary school pupil and £4,000 per primary school pupil by 2021-22, and ensuring teachers will see the biggest pay rise in a generation."
+      }
+    ],
+    "mentions": {
+      "candidate": "Shailesh Vara",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Deal with Brexit for the future of the country, take UK out of the EU",
+      "economy": "Cutting corporation tax, making tech giants pay fair taxes",
+      "education": "Increasing school funding by £14 billion",
+      "environment": "",
+      "governance": "",
+      "health": "The NHS is receiving £33.9 billion, more doctors and nurses, new medical schools",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Shailesh Vara with Boris Johnson"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet focuses on four key policy areas: getting Brexit done, backing business, NHS funding, and education."
+  }
+}
+```

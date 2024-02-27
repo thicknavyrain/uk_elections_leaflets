@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dave BRINSON",
+    "constituency": "Eastbourne",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A Passion for Eastbourne",
+        "content": "Dave has lived in Eastbourne for 27 years, and attended local schools and college. He works as a teacher at an Eastbourne secondary school, and is local secretary of the NUT. As a real local candidate, Dave is passionate about education, jobs and services in OUR town."
+      },
+      {
+        "title": "Defending our NHS",
+        "content": "Dave is proud of the record investment in the NHS under Labour, and the bringing down of waiting lists. He diagnoses desperation to new rights for patients, such as the one-week cancer diagnosis guarantee. Dave was proud to support the cross-party campaign to save maternity services at the DGH."
+      },
+      {
+        "title": "A Society Fair for All",
+        "content": "Dave believes that a decent society values its older people. He is proud that the Labour government has introduced the free bus pass, the free TV licence and the Pension Credit. He also welcomes the commitment to develop free personal care at home for our older people when the Labour government is re-elected."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Defending our NHS",
+        "policyDescription": "Dave is committed to maintaining NHS investment levels, reducing waiting lists, and ensuring new patient rights, including a one-week cancer diagnosis guarantee."
+      },
+      {
+        "policyTitle": "A Society Fair for All",
+        "policyDescription": "Dave supports measures favorable to older people, including the continuance of free bus passes, TV licenses, and the Pension Credit along with the development of free personal care at home."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dave BRINSON",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "As a teacher and local secretary of the NUT, Dave emphasizes his passion for improving education in Eastbourne.",
+      "environment": "",
+      "governance": "",
+      "health": "Dave is focused on defending and improving the NHS, with a proud record of investment and initiatives to reduce waiting times and introduce new rights for patients.",
+      "immigration": "",
+      "socialWelfare": "Dave highlights the Labour government's success in supporting older individuals with benefits like the free bus pass, TV licence, and Pension Credit.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Dave has lived in Eastbourne for 27 years, has attended local schools and college, and works as a teacher. He demonstrates a strong commitment to improving the local community in education, healthcare and support for the elderly.",
+    "politicalExperience": [
+      {
+        "role": "Local secretary of the NUT",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "DAVE BRINSON IS A GENUINELY LOCAL CANDIDATE FOR EASTBOURNE"
+        },
+        {
+          "caption": "DAVE IS PASSIONATE ABOUT DEFENDING AND IMPROVING OUR NHS"
+        },
+        {
+          "caption": "DAVE WILL DEFEND THE FREE BUS PASS FOR OUR PENSIONERS"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

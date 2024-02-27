@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anne Marie Morris",
+    "constituency": "Newton Abbot",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "The Conservatives are committed to increasing spending on the NHS every year. Proposals to stop NHS money being wasted on targets and bureaucracy, ensure that new cancer drugs are available in Britain, and a new scheme to help older people insure against the costs of residential care so they do not have to sell their homes."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Conservative ideas to boost education and opportunity include ensuring more teaching by ability to stretch the strongest and nurture the weakest, smaller and more varied schools to meet parents' demands, and improving school discipline and behavior by shifting the balance of power in classrooms back to the teacher."
+      },
+      {
+        "policyTitle": "Protecting the Environment",
+        "policyDescription": "Conservatives seek input on environmental issues that are important such as recycling and reducing waste, using more renewable sources of energy, climate change, and protecting the countryside and greenbelt."
+      },
+      {
+        "policyTitle": "Fighting Crime",
+        "policyDescription": "Conservative plans to help cut crime include scrapping unnecessary police paperwork to let officers spend more time on the beat, scrapping the early release scheme for prisoners and introducing honest sentencing, with offenders receiving minimum and maximum sentences, and reforming the prison system to focus on rehabilitation to cut reoffending."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anne Marie Morris",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "A vote for anyone else is a vote for 5 more years of Gordon Brown and Labour. To change the government in Westminster, the Conservatives have to win here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Conservatives propose ensuring more teaching by ability to stretch the strongest and nurture the weakest, smaller and more varied schools to meet parents' demands, and improving school discipline and behavior by shifting the balance of power in classrooms back to the teacher.",
+      "environment": "Seeking opinions on key environmental issues to determine what is most important.",
+      "governance": "",
+      "health": "Committed to increasing NHS spending annually with proposals targeting efficiency and new cancer drug availability.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "A new scheme to help older people insure against the costs of residential care so they do not have to sell their homes.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Anne Marie Morris interacting with the community and supporting local services."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes a 'Residents' Survey' for feedback on health, education, protecting the environment, and community issues."
+  }
+}
+```

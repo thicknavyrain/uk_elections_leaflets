@@ -1,0 +1,103 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mandy Rossi",
+    "constituency": "Ashford",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "VOTE FOR WHAT YOU BELIEVE IN",
+        "content": "Vote Green and you can help build a society that works for the common good."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "#DECENTHOMES",
+        "policyDescription": "Abolish the cruel and unfair bedroom tax, ensure social housing providers reflect the cost of living in their rent structures."
+      },
+      {
+        "policyTitle": "#SAFECLIMATE",
+        "policyDescription": "Ban shale gas extraction because of its harmful impacts on local communities and the environment, and invest in renewables."
+      },
+      {
+        "policyTitle": "#FREEEDUCATION",
+        "policyDescription": "Scrap university tuition fees, provide a comprehensive programme of bursaries, and reintroduce EMA for 16 and 17 year olds."
+      },
+      {
+        "policyTitle": "#BETTERTRANSPORT",
+        "policyDescription": "Return the railways to public hands to stop passengers from being ripped off, and invest in a public transport system to improve people’s health."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mandy Rossi",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Scrap university tuition fees, provide a comprehensive system of bursaries, reintroduce EMA. Bring Academies and Free Schools into the Local Education Authority system.",
+      "environment": "Ban shale gas extraction, invest in renewables. Aim for zero carbon by 2030.",
+      "governance": "",
+      "health": "Ensure a publicly funded, publicly provided health service. Stop privatisation of the NHS.",
+      "immigration": "",
+      "socialWelfare": "Abolish the cruel and unfair bedroom tax. Ensure social housing providers reflect the cost of living in their rent structures.",
+      "housing": [
+        {
+          "content": "Abolish the cruel and unfair bedroom tax. Ensure social housing providers reflect the cost of living in their rent structures.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "With your support on May 7th, I will be able to serve you as a passionate and committed Green MP for Ashford.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Caroline Lucas",
+        "endorsement": "MP for Brighton Pavilion"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mandy Rossi with supporters"
+        },
+        {
+          "caption": "Mandy Rossi featured on campaign flyer with text 'VOTE FOR WHAT YOU BELIEVE IN'"
+        },
+        {
+          "caption": "Caroline Lucas and Natalie Bennett Endorsement"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

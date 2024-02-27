@@ -1,0 +1,60 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Angus Robertson",
+    "constituency": "Edinburgh Central",
+    "politicalParty": "SNP",
+    "electionDate": "6th May 2021",
+    "messages": [
+      {
+        "title": "Standing up for Edinburgh Central",
+        "content": "I am running in the election for the SNP to provide a strong voice for Edinburgh Central and support their priorities."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Working to ensure a strong recovery and provide the resources for a fairer, stronger and greener future."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Supports the right of people in Scotland to decide our future democratically."
+      }
+    ],
+    "mentions": {
+      "candidate": "Angus Robertson",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "Nicola Sturgeon",
+      "tacticalSituation": "Edinburgh Central is a two horse race between the SNP and the Tories, where a tiny pivot could secure a majority SNP government."
+    },
+    "issues": {
+      "governance": "Supports the right of people in Scotland to decide our future democratically.",
+      "health": "The SNP-led Scottish Government has been working hard to deal with the coronavirus pandemic."
+    },
+    "personalStatement": "Having grown up here I understand the issues which matter to the diverse communities across our capital. You need a local MSP who will be available to constituents, work with local organisations and businesses and will promote the future interests of the whole city.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.angusrobertson.org",
+      "socialMedia": {
+        "facebook": "/angusrobertson",
+        "twitter": "@angusrobertson",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Edinburgh Central SNP Candidate Angus Robertson standing next to SNP logo."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes the strategic importance of Edinburgh Central and the need for a tiny pivot of votes. It also includes a personal message from Angus Robertson and reiterates the importance of voting for SNP to maintain progress and ensure a strong government under Nicola Sturgeon."
+  }
+}
+```

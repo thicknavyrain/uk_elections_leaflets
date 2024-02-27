@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Shabana Mahmood",
+    "constituency": "Ladywood",
+    "politicalParty": "Labour Party",
+    "electionDate": "GENERAL ELECTION SPECIAL",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Shabana Mahmood",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Shabana Mahmood was born here and will always put Ladywood first."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

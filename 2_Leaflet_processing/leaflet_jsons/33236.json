@@ -1,0 +1,88 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "YOUR VOTE CAN BE THE DIFFERENCE AT THIS ELECTION",
+        "content": "Without your vote, we'll get ANOTHER hung parliament. And that means years of more confusion. Secure the majority government our country needs so we can get Brexit done and focus on the NHS, police and schools."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Get Brexit done and focus on the NHS, police and schools."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "At the end of this election, we'll either get a Conservative majority or a hung parliament."
+    },
+    "issues": {
+      "brexitEurope": "Labour spent the last three years blocking Brexit. Now they want a second referendum.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Without your vote, we'll get ANOTHER hung parliament. And that means years of more confusion.",
+      "health": "Get Brexit done and focus on the NHS, police and schools.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Corbyn would be propped up by parties like the Scottish Nationalists. And they're demanding ANOTHER referendum to break up Britain.",
+        "source": "The Times",
+        "date": ""
+      },
+      {
+        "text": "Labour spent the last three years blocking Brexit. Now they want a second referendum.",
+        "source": "ITV News",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "He wants to block your Brexit vote. Are you going to take that risk?"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet campaigns against Jeremy Corbyn becoming Prime Minister, warning of the risk of a hung parliament and the potential for Scottish Nationalists to prop up a Labour government demanding a second referendum on Scottish independence."
+  }
+}

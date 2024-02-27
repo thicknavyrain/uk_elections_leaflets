@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David McLetchie and Gavin Brown",
+    "constituency": "Lothians Regional List",
+    "politicalParty": "Scottish Conservatives",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Law and Order",
+        "policyDescription": "1000 more police officers"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Extra funding for affordable housing"
+      },
+      {
+        "policyTitle": "Business",
+        "policyDescription": "The reduction or abolition of business rates for 72,000 small businesses across Scotland"
+      },
+      {
+        "policyTitle": "Local Economy",
+        "policyDescription": "A £60 million Town Centre Regeneration Fund which has financed improvements in Portobello, Dalkeith, Linlithgow and Broxburn"
+      },
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "A four year Council Tax freeze"
+      }
+    ],
+    "mentions": {
+      "candidate": "David McLetchie and Gavin Brown",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A £60 million Town Centre Regeneration Fund has financed improvements in Portobello, Dalkeith, Linlithgow and Broxburn.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Extra funding for affordable housing",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David McLetchie and Gavin Brown are the top-ranked Conservative candidates on the Lothians Regional List."
+        }
+      ]
+    },
+    "additionalNotes": "Conservative achievements delivered through the votes of Conservative MSPs in the Scottish Parliament."
+  }
+}
+```

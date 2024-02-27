@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lucy Powell",
+    "constituency": "Manchester Withington",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 6 May",
+    "messages": [
+      {
+        "title": "Remember...",
+        "content": "Vote to secure the recovery with Labour, or risk jobs, living standards and public services with the Tories. A vote for the Lib Dems or any other party here will help David Cameron into power. Voting Labour in South Manchester is the only sure way to stop the Tories getting in through the back door."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Lucy Powell",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "Only a handful of votes will decide this seat, and only a handful of seats will decide the outcome of the General Election between a Labour or Conservative government. Make sure your votes count!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "I'll vote for reform of Parliament.",
+      "health": "I'll fight for our local services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'll stand up for South Manchester",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0161 881 8610",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Don't forget to post your postal votes back for Labour"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

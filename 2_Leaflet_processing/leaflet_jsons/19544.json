@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Michael Beckett",
+	"constituency": "Scarborough and Whitby",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Election Communication",
+    	"content": "3 great reasons to vote for Michael Beckett"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Employment",
+    	"policyDescription": "Greater investment in jobs for Scarborough, Whitby and Esk Valley"
+  	},
+	  {
+    	"policyTitle": "Education",
+    	"policyDescription": "Protect funding for all phases, from cradle to college."
+  	},
+	  {
+    	"policyTitle": "Local Democracy",
+    	"policyDescription": "Empower local people to take local decision."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Michael Beckett",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "Protect funding for all phases, from cradle to college.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "Printed by Coastal Colour Print, 13 York Place, YO11 2NP.",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Michael Beckett speaking at an event"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "M. Afzal",
+    "constituency": "Manchester Gorton",
+    "politicalParty": "Conservative",
+    "electionDate": "7 May 2015",
+    "messages": [
+      {
+        "title": "Dear Resident",
+        "content": "The Prime Minister will be either David Cameron or Ed Miliband with no third way. The choice lies between competence with the Conservatives and M. Afzal or chaos under Labour with higher taxes, more borrowing and more debt. The last five years have seen a massive Government boost for Manchester with extending Metrolink, major investment in higher education buildings, a regional hub promoting Manchester as a global hub. I believe the Conservative Party is best placed to create jobs and improve living standards by building on an economic plan that is working and that has produced the highest employment rate in history."
+      },
+      {
+        "title": "Vote Conservative",
+        "content": "To continue on the road of economic recovery vote Conservative on May 7th."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Record economic growth",
+        "policyDescription": "Claims that more people are in work than ever before and a stronger NHS."
+      },
+      {
+        "policyTitle": "Creating the Northern Powerhouse",
+        "policyDescription": "Plans to create a Northern Powerhouse to reinvest in Manchester is great news for the city. Billions promised by the Chancellor, George Osborne, will secure billions of pounds of investment in transport, science and industry."
+      },
+      {
+        "policyTitle": "Creating jobs and getting people off welfare",
+        "policyDescription": "Backing small businesses that estimate 110,000 more jobs are forecasted to be created in Manchester over the next decade. The number of people across Manchester claiming Job Seekers Allowance fell by more than 40% last year with the jobs created through the economic recovery."
+      },
+      {
+        "policyTitle": "Securing the future of our National Health Service",
+        "policyDescription": "Invested £12.7 billion since 2010 with an extra £2 billion per year to come. Conservative plans to devolve care budget to local area as the only sensible option and promises action for local residents as they are taken at a very high level."
+      }
+    ],
+    "mentions": {
+      "candidate": "M. Afzal",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Record economic growth, more people in work than ever before",
+      "education": "A massive Government boost...major investment in higher education buildings",
+      "environment": "",
+      "governance": "Competence with the Conservatives and M. Afzal or chaos under Labour with higher taxes, more borrowing and more debt.",
+      "health": "Securing the future of our National Health Service with investments and plans for devolving care budget.",
+      "immigration": "",
+      "socialWelfare": "Getting people off welfare, with jobs created and Job Seekers Allowance claims reduced by more than 40%.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I believe the Conservative Party is best placed to create jobs and improve living standards by building on an economic plan that is working and that has produced the highest employment rate in history.",
+    "politicalExperience": [
+      {
+        "role": "Conservative Parliamentary Candidate for Manchester Gorton",
+        "duration": "",
+        "achievements": "Worked hard for Manchester residents"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.manchesterconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Official: The fastest growing major economy in 2014",
+        "source": "Graph comparing UK's annual growth with other countries",
+        "date": "2014"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photos of M. Afzal with various individuals, including David Cameron."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

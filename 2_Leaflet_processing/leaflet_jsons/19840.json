@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Owais Rajput",
+    "constituency": "Bradford East",
+    "politicalParty": "UKIP",
+    "electionDate": "May 7th 2015",
+    "messages": [
+      {
+        "title": "Improving lives for local people",
+        "content": "UKIP oppose the Bedroom tax and its unethical approach to housing situations. Many residents have been displaced by this tax with no proper reason. It is wrong to expect people to leave their family home on the basis of one spare room in their house."
+      },
+      {
+        "title": "Education",
+        "content": "Every young person in the UK should have the opportunity to receive a good education. UKIP would scrap tuition fees for students studying for degrees in Science, Technology, Engineering, Mathematics or Medicine."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Oppose the Bedroom tax and its effects on housing situations."
+      },
+      {
+        "policyTitle": "Economic Vision",
+        "policyDescription": "An independent Britain with an independent people, able to achieve their dreams and ambitions."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Scrap tuition fees for degrees in STEM subjects and Medicine, and introduce an option for students to take an apprenticeship qualification rather than four non-core GCSEs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Owais Rajput",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "UKIP would scrap tuition fees for degrees in Science, Technology, Engineering, Mathematics or Medicine. Introduce apprenticeship qualification option.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Oppose the Bedroom tax. Increasing the tax threshold to £13,500 will automatically take all workers on the minimum wage out of tax completely.",
+      "housing": [
+        {
+          "content": "Oppose the Bedroom tax which has displaced many residents.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have lived in Bradford for 23 years after previously living and working in South Africa. I studied at Bradford University. I am also a successful businessman in the textile industry. I am currently working on my Ph.D., focusing on disengaged and disenfranchised communities.",
+    "politicalExperience": [
+      {
+        "role": "Parliamentary Candidate for Bradford East",
+        "duration": "2015 Election Period",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07588 486 483",
+      "email": "owais@ukip-bradford.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Owais Rajput, UKIP candidate for Bradford East."
+        }
+      ]
+    },
+    "additionalNotes": "Owais Rajput expresses the intention to work for the community's welfare and emphasizes a local approach rather than relying on policies from Westminster. He highlights the importance of supporting families and those on minimum wage and is against the Bedroom tax, which affects housing."
+  }
+}
+```

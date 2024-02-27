@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Spencer Pitfield",
+    "constituency": "Penistone and Stocksbridge",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A Personal Message from David Cameron",
+        "content": "Why we need change in Britain today."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Cut the debt and get the economy moving."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Create 400,000 new apprenticeships, training places and work pairings."
+      },
+      {
+        "policyTitle": "Family Budget",
+        "policyDescription": "We'll help your family budget by working with local councils to freeze council tax for two years."
+      },
+      {
+        "policyTitle": "Pensions and Welfare",
+        "policyDescription": "Raise the basic state pension and protect winter fuel payments."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Committed to the NHS, we'll increase spending and improve it for everyone."
+      }
+    ],
+    "mentions": {
+      "candidate": "Spencer Pitfield",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Cut the debt and get the economy moving.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Committed to the NHS, we'll increase spending and improve it for everyone.",
+      "immigration": "",
+      "socialWelfare": "We'll help your family budget by working with local councils to freeze council tax for two years. Raise the basic state pension and protect winter fuel payments.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local Magistrate",
+        "duration": "",
+        "achievements": "Supports his local community by sitting as a local Magistrate."
+      }
+    ],
+    "contactInformation": {
+      "address": "926 Ecclesall Road, Sheffield, S11 8TR",
+      "phone": "0114 272 9155",
+      "email": "spencer@penistoneconservatives.co.uk",
+      "website": "www.spencerpitfield.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Spencer teaching music"
+        },
+        {
+          "caption": "Spencer at community events"
+        },
+        {
+          "caption": "David Cameron with supporters"
+        }
+      ]
+    },
+    "additionalNotes": "Spencer is passionate about improving education for children and has performed for notable figures. He cares about music in Sheffield and is dedicated to supporting charities and fighting crime and anti-social behaviour in the community."
+  }
+}
+```

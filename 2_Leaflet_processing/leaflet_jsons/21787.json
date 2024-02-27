@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "TEN CHANGES LABOUR WILL MAKE...",
+        "content": "Scottish families can’t afford five more years of Tory austerity. We need to stop the Tories being the largest party. ONLY LABOUR CAN DELIVER THE CHANGE WE NEED."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Nurses and NHS Funding",
+        "policyDescription": "1,000 more nurses for our NHS, funded by a mansion tax"
+      },
+      {
+        "policyTitle": "Scottish Parliament Powers",
+        "policyDescription": "More powers for the Scottish Parliament including the final say on benefits"
+      },
+      {
+        "policyTitle": "Employment and Training",
+        "policyDescription": "Guarantee a job and training for all young people"
+      },
+      {
+        "policyTitle": "Support for 18 and 19-Year-Olds",
+        "policyDescription": "£1,600 for 18 and 19-year-olds who don’t have an apprenticeship and don’t go to college or university, to invest in themselves or start a business"
+      },
+      {
+        "policyTitle": "Minimum Wage Increase",
+        "policyDescription": "Raise the minimum wage to at least £8 an hour"
+      },
+      {
+        "policyTitle": "Education Funding",
+        "policyDescription": "Guarantee the Barnett Formula to deliver billions of pounds more for our schools, hospitals and pensions. Increase the bursaries for the poorest students by £1,000. No tuition fees for Scottish students"
+      },
+      {
+        "policyTitle": "Labour Rights",
+        "policyDescription": "Ban exploitative zero-hours contracts"
+      },
+      {
+        "policyTitle": "Food Banks and Poverty",
+        "policyDescription": "End the need for food-banks with £175m to tackle the causes of poverty"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Increase the bursaries for the poorest students by £1,000. No tuition fees for Scottish students",
+      "environment": "",
+      "governance": "More powers for the Scottish Parliament including the final say on benefits",
+      "health": "1,000 more nurses for our NHS, funded by a mansion tax",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "scottishlabour.org.uk/plan",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "We're backing Labour's plan for Scotland"
+        }
+      ]
+    },
+    "additionalNotes": "When working families do well Scotland does well"
+  }
+}
+```

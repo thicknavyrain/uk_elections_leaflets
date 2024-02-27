@@ -1,0 +1,62 @@
+{
+  "leaflet": {
+	"candidateName": "Lucy Powell",
+	"constituency": "South Manchester",
+	"politicalParty": "Labour",
+	"electionDate": "6th May",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Lucy Powell",
+  	"otherPartyLeaderCandidate": "David Cameron",
+  	"partyLeader": "",
+  	"tacticalSituation": "A vote for the Lib Dems in South Manchester will mean one less seat for Labour. More and more people are backing Labour’s Lucy Powell to stop David Cameron becoming Prime Minister."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Latest Predicted Number of Seats graph showing Labour at 265, Tories at 275, Lib Dems at 79, and Others at 31."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Berni Millam",
+    "constituency": "Brighton Pavilion",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "Dear Voter",
+        "content": "The General Election has now been called. It will be on Thursday 6th May and I am writing to you to ask you to vote for me as your MP. But before I introduce myself, let me tell you about something that I have learned about you. I have learnt that NO one political party owns the people of Brighton Pavilion. I have learnt that the voters of this constituency are independently minded people who seriously think about their politics before they vote."
+      },
+      {
+        "title": "It's time for a change...",
+        "content": "The trust and integrity... Politics has rightfully taken a bashing in the last year or so. The usual party types have had their chance and have made a real mess of things. They seem to have lost any sense of reality. That is why despite not being a professional politician, unlike the other party candidates, I have decided to have a go myself."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health and NHS",
+        "policyDescription": "As a trained nurse, I have a great love and affection for the institution of our NHS. As your MP I will be a strong voice seeking to defend the NHS from those who would seek to undermine it."
+      },
+      {
+        "policyTitle": "Education and Schools",
+        "policyDescription": "Local mums have already spoken to me about their concerns about their education provision. The education of our children will be a priority for me."
+      },
+      {
+        "policyTitle": "Berni's Election Pledge",
+        "policyDescription": "We need to finally resolve the city's schools crisis - giving our children the very best start - if the Council won't - the Government must. I will oppose the massive Government wastage of the Trident and ID Card schemes. I will do everything I can to fight climate change and take the difficult decisions to tackle it. I want to see fairer taxes and the burden on ordinary families to lift make sure the richest pay their fair share."
+      }
+    ],
+    "mentions": {
+      "candidate": "Berni Millam",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "I have learnt that the voters of this constituency are independently minded people who seriously think about their politics before they vote."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Local mums have already spoken to me about their concerns about their education provision.",
+      "environment": "I will do everything I can to fight climate change and take the difficult decisions to tackle it.",
+      "governance": "The trust and integrity... Politics has rightfully taken a bashing in the last year or so.",
+      "health": "As a trained nurse, I have a great love and affection for the institution of our NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "As a trained nurse, I have a great love and affection for the institution of our NHS. As your MP I will be a strong voice seeking to defend the NHS from those who would seek to undermine it.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "2 The Drive",
+      "phone": "",
+      "email": "",
+      "website": "www.voteberni.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Berni Millam ...a strong voice for Pavilion residents"
+        }
+      ]
+    },
+    "additionalNotes": "We're funded solely by small local donations - the only main local political party which is."
+  }
+}
+```

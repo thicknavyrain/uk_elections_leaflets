@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jill Payne",
+    "constituency": "Eastleigh",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "Tories: strong against the weak, weak against the strong",
+        "content": "NHS accident & emergency services brought to the brink by Tory policy"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Labour will stand up for the NHS. We will reverse its privatisation."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Labour will scrap Tories' Brexit plan putting economy first in negotiations."
+      },
+      {
+        "policyTitle": "Industry",
+        "policyDescription": "We need an industrial plan. The Tories threw money at the banks; Labour will invest through a National Investment Bank."
+      },
+      {
+        "policyTitle": "Homes",
+        "policyDescription": "Secure homes guarantee. We will build a million new homes in five years, with at least half a million council homes."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "A national education service, open to all to get access to lifelong learning, preschool, universities, and adult skills training."
+      }
+    ],
+    "mentions": {
+      "candidate": "I am proud to stand for Labour in Eastleigh on a platform which is for the many, not the few.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Labour will scrap Tories' Brexit plan putting economy first.",
+      "economy": "We need an industrial plan where Labour will invest through a National Investment Bank.",
+      "education": "A national education service, open to all to get access to lifelong learning, preschool, universities, and adult skills training.",
+      "environment": "Anyone visiting the local waste recycling centre will have noticed a reduction in queues since charges were introduced.",
+      "governance": "",
+      "health": "Labour will stand up for the NHS. We will reverse its privatisation.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Secure homes guarantee. We will build a million new homes in five years, with at least half a million council homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I am proud to stand for Labour in Eastleigh on a platform which is for the many, not the few.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Eastleigh Labour Party, 69 Leigh Rd, Eastleigh SO50 9DF",
+      "phone": "023 8061 3357",
+      "email": "jill4eastleigh@yahoo.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "facebook.com/jill4eastleigh",
+        "twitter": "@jill4eastleigh",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Terry Crow",
+        "endorsement": "Jill is passionate about supporting people - close to home as a union rep, further afield those not so lucky as us, escaping war and oppression. Jill would be a great working class representative in a constituency that lacks a working class voice. And will fight for a future for the younger generation, with policies they care about, not profit. Labour."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Foodbanks, homelessness, falling incomes, tuition fees, public services at the brink - who believes the Tories have delivered?",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jill Payne working at her desk."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

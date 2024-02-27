@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Sir Edward Leigh",
+	"constituency": "Gainsborough",
+	"politicalParty": "Conservatives",
+	"electionDate": "Thursday, 7th May 2015",
+	"messages": [
+  	{
+    	"title": "Please vote for your Conservative team",
+    	"content": "Dear Jonathan,\nWe understand that you have registered to vote by post in the elections on Thursday, 7th May 2015, so giving you the chance to elect our next Member of Parliament and our three local District Councillors. Your vote is very important and we appreciate you taking the time to read this letter."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Council Tax",
+    	"policyDescription": "We will keep council tax low and where possible Conservatives will freeze it"
+  	},
+	  {
+    	"policyTitle": "Green Space",
+    	"policyDescription": "We intend to keep green waste while bins paid for through the council tax"
+  	},
+	  {
+    	"policyTitle": "Councillors' Initiative Fund",
+    	"policyDescription": "We support keeping, for the next two years, at least, the Councillors' Initiative Fund"
+  	}
+	],
+	"mentions": {
+  	"candidate": "Sir Edward has been the Gainsborough constituency's Member of Parliament for thirty-two years",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "Member of Parliament for Gainsborough",
+    	"duration": "thirty-two years",
+    	"achievements": "Sir Edward lives in the constituency with his wife, Mary, and they have raised their children locally."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.gainsboroughconservatives.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Step-by-step guide to completing your postal vote"
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet includes instructions on how to use one's postal vote."
+  }
+}
+```

@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Hughes",
+    "constituency": "Bermondsey & Old Southwark",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday 7th May",
+    "messages": [
+      {
+        "title": "Your choice on Thursday: Ed Miliband's Labour",
+        "content": "Created over 6,000 apprenticeships and fighting for more jobs. Saved Guy's and our NHS - including better mental health care. Fighting for affordable homes, to be advertised and sold locally first."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Jobs",
+        "policyDescription": "Created over 6,000 apprenticeships and fighting for more jobs."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Saved Guy's and our NHS - including fighting for better mental health care."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Fighting for affordable homes, to be advertised and sold locally first."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Hughes",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "",
+      "tacticalSituation": "The election in our area is between Simon Hughes and Ed Miliband's Labour candidate."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Ruined the economy, borrowed too much and left “no money”",
+      "education": "",
+      "environment": "",
+      "governance": "Conservatives out of the race: Simon Hughes and Ed Miliband's Labour party.",
+      "health": "Saved Guy's and our NHS - including better mental health care.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Nothing to show because of Labour. Labour should “apologise” for its poor record of building social housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Simon Hughes is fighting. People here know that. That's why they are giving him just two more days to decide to keep on fighting for Simon. Because in Bermondsey, the record of the other guy, [Ed Miliband's candidate], is no record at all.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "32 years",
+        "achievements": "Created over 6,000 apprenticeships, saved Guy's and our NHS, fought for affordable homes."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Dr Zigmund, Bermondsey GP",
+        "endorsement": "Simon won the fight to save Guy's Hospital and save one of the Student Care Team Labour closed. Centre after we all asked. DON'T. Ed Miliband's Labour get former to keep fighting to Simon needs help saving our NHS."
+      },
+      {
+        "endorser": "Rita & Tony, Walworth",
+        "endorsement": "We need to keep Simon fighting for homes, jobs, the environment and get as far away as possible from Labour."
+      },
+      {
+        "endorser": "Michelle, Rotherhithe",
+        "endorsement": "The election is between Simon Hughes, who we always fought for us all, and Ed Miliband’s Labour candidate. A vote for anyone other party risks a Labour MP."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The election in our area is between Simon Hughes and Ed Miliband's Labour candidate.",
+        "source": "Conservatives out of the race: Simon Hughes and Ed Miliband's Labour candidate.",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Simon Hughes MUST WIN!"
+        },
+        {
+          "caption": "ELECTION BATTLE: Labour are refusing to deal with the deficit and will have to borrow £70 billion more. BUT... The Tories want to make £50 billion of extra cuts hitting the vulnerable."
+        }
+      ]
+    },
+    "additionalNotes": "The choice here is between our champion Simon Hughes or Ed Miliband's Labour candidate. Of all the election battles in London, none is so bitterly contested as Bermondsey & Old Southwark."
+  }
+}
+```

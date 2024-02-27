@@ -1,0 +1,111 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Angela Eagle MP",
+    "constituency": "Wallasey & Moreton",
+    "politicalParty": "Labour",
+    "electionDate": "May",
+    "messages": [
+      {
+        "title": "EMERGENCY",
+        "content": "TORY NHS CRISIS IN LOCAL HOSPITALS"
+      },
+      {
+        "title": "JOIN ANGELA'S CAMPAIGN TO SAVE OUR HOSPITAL SERVICES",
+        "content": "All over Wirral, local people are backing Angela Eagle MP's campaign to protect local NHS services."
+      },
+      {
+        "title": "ANGELA FIGHTS TO SAVE OUR NHS",
+        "content": "Angela has always stood up for our NHS. Before becoming an MP, Angela worked for the health service and the NHS staff council, where she helped to negotiate the NHS Staff Agenda for Change terms and conditions."
+      },
+      {
+        "title": "HOW MUCH MORE CAN YOU TAKE?",
+        "content": "The cost-of-living crisis is hitting families hard."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Fight to save NHS including guaranteeing GP appointment within 48 hours."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Labour will make work pay, provide 25 hours free childcare for three to four-year-olds, and guarantee a job for young unemployed."
+      },
+      {
+        "policyTitle": "Bedroom Tax",
+        "policyDescription": "Labour will axe Cameron's Bedroom Tax that has affected thousands of people in Wirral and has worsened our already acute housing shortage."
+      }
+    ],
+    "mentions": {
+      "candidate": "Angela Eagle MP",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Household bills are going up but real wages are going down.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Angela Eagle MP has always stood up for our NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour will axe Cameron's Bedroom Tax that has affected thousands of people in Wirral and has worsened our already acute housing shortage.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "6 Manor Road, Wallasey, CH45 4JB",
+      "phone": "0151 637 1979",
+      "email": "angela.eagle.mp@parliament.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@angelaeagle",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Angela Eagle MP and local nurses."
+        },
+        {
+          "caption": "Angela Eagle MP with Frank Field MP and Labour Councillors campaign against the Bedroom Tax."
+        },
+        {
+          "caption": "Angela Eagle MP and service men take the campaign to Downing Street."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

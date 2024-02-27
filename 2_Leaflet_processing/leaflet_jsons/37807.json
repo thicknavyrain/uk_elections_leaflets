@@ -1,0 +1,64 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jane Pratt",
+    "constituency": "Caerphilly",
+    "politicalParty": "Welsh Conservatives",
+    "electionDate": "5 May 2016",
+    "messages": [
+      {
+        "title": "YOUR SEAT AND YOUR VOTE MATTERS",
+        "content": "So if Labour lose one seat they lose power. Last year, Conservatives gained seats and the Liberal Democrats, Plaid Cymru and other parties from across Wales can also count. This proves you don't have to vote Labour or stand up for Wales."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "ACCESS TO LIFE SAVING CANCER DRUGS",
+        "policyDescription": "Introduction of a Cancer Treatment Fund to give cancer patients a better chance with access to drugs worth £100 million."
+      },
+      {
+        "policyTitle": "A PLAN FOR THE LOCAL ECONOMY",
+        "policyDescription": "A dedicated fund of £100 million for Patient's Fund."
+      },
+      {
+        "policyTitle": "IMPROVING LOCAL TRANSPORT",
+        "policyDescription": "Investment in local transport improvements."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jane Pratt",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Labour",
+      "partyLeader": "David Cameron and the Welsh Conservatives",
+      "tacticalSituation": "Conservatives gained seats and the Liberal Democrats, Plaid Cymru and other parties from across Wales can also count. If Labour lose one seat they lose power."
+    },
+    "issues": {
+      "economy": "A dedicated fund of £100 million for Patient's Fund.",
+      "health": "Introduction of a Cancer Treatment Fund to give cancer patients a better chance with access to drugs worth £100 million."
+    },
+    "personalStatement": "Labour hold power in the Welsh Assembly by just one seat. The General Election showed that because of the voting system this time, every green vote could count. We can achieve real change and give you a voice for Caerphilly at an assembly with political diversity.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jane Pratt standing in front of a castle."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet mentions the importance of voting to bring about change in Wales and references both the Welsh and UK Conservative leadership as well as the Labour leadership."
+  }
+}
+```

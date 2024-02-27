@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sandy Walkington",
+    "constituency": "St Albans",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A record of action in St Albans",
+        "content": "When the going got tough for commuters, Sandy waited for Susie in brimming Government minister Norman Kramer to St Albans to see for herself what commuters have put to put with."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Balancing the books by 2018",
+        "policyDescription": "Aims to balance the budget and eliminate the structural deficit by 2018."
+      },
+      {
+        "policyTitle": "£400 tax cut for local workers",
+        "policyDescription": "Proposes a tax cut for local workers to the tune of £400."
+      },
+      {
+        "policyTitle": "Support for local pupils",
+        "policyDescription": "Promises more support for the local pupils in education."
+      },
+      {
+        "policyTitle": "St Albans Hospital under threat again?",
+        "policyDescription": "Highlights the ongoing review threat to St Albans Hospital and promises to safeguard it."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sandy Walkington",
+      "otherPartyLeaderCandidate": "Pickles, Norman Kramer",
+      "partyLeader": "",
+      "tacticalSituation": "It's so close in St Albans! A choice between the Lib Dems and Conservatives here. Greens or Labour put the Tories back in."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "St Albans Hospital under threat?",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Sandy Walkington started his own working life as an apprentice at a building firm. The Government is providing 1,860 new apprenticeships in St Albans since April 2010.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Katie Barron, local journalist",
+        "endorsement": "As a mum with a young child I care about our quality of life. Sandy is part of the Green Alliance and a consistent champion."
+      },
+      {
+        "endorser": "Chris White, councillor",
+        "endorsement": "I'm backing Sandy because as a local councillor - what counts the quality of life. Certainly not the party politics."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sandy Walkington is featured in various actions and interactions with the public."
+        }
+      ]
+    },
+    "additionalNotes": "There are also District Council elections too!"
+  }
+}
+```

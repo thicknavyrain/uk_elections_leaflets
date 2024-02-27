@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "Sheffield Hallam",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "It's Lib Dem or Conservative in Hallam",
+        "content": "Only the Lib Dems can beat the Conservatives here. In Sheffield Hallam it is between Nick Clegg Lib Dems working and a Conservative candidate. It's a simple choice here, Labour and the other parties cannot win. Many lifelong Labour voters are choosing to support Nick Clegg at the next election."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "It's a simple choice here, Labour and the other parties cannot win. Many lifelong Labour voters are choosing to support Nick Clegg at the next election."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "FREEPOST NEA1190, Sheffield, S11 7ZZ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Change that works for Sheffield Hallam"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

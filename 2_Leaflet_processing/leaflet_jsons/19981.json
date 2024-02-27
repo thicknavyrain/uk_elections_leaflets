@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gordon Brown",
+    "constituency": "Kirkcaldy, Fife",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "7 May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "National Health Service",
+        "policyDescription": "A commitment to deliver £1 billion of extra investment in the NHS in Scotland, funded by a UK-wide mansion tax, a levy on the tobacco firms, and tackling tax avoidance, with promises of 1,000 more nurses and 500 extra GPs for the NHS in Scotland."
+      }
+    ],
+    "mentions": {
+      "candidate": "Gordon Brown",
+      "otherPartyLeaderCandidate": "SNP",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Gordon Brown references Labour's historic role as Scotland's party of industry and social justice, including educational opportunity and the building of the first food banks.",
+      "environment": "",
+      "governance": "",
+      "health": "The NHS in Scotland is under threat, with more than 120,000 people waiting more than four hours in A&E departments, and the Scottish Government's 12-Week Treatment Guarantee having been breached more than 1,000 times.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Funding the NHS with help from a mansion tax.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Gordon Brown - Kirkcaldy, Fife"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet stresses the risk of the Tories getting back into government and that only a vote for Labour can stop them and protect the NHS for future generations."
+  }
+}
+```

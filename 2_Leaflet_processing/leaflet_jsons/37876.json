@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Griffiths AM",
+    "constituency": "Newport East",
+    "politicalParty": "Labour",
+    "electionDate": "May 5th",
+    "messages": [
+      {
+        "title": "Campaigning East and the Assembly",
+        "content": "I am standing for re-election as your Labour Assembly Member on May 5th."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Improving local health services, building a new Specialist and Critical Care Centre."
+      },
+      {
+        "policyTitle": "Jobs",
+        "policyDescription": "Prioritizing local jobs and fair pay."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Delivering more affordable homes."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Continuing to improve education and training."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Griffiths AM",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Continuing to improve education and training.",
+      "environment": "",
+      "governance": "",
+      "health": "Improving local health services, building a new Specialist and Critical Care Centre.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Delivering more affordable homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "As a Barrister and former law lecturer I entered politics to fight for social justice, equality and community empowerment.",
+    "politicalExperience": [
+      {
+        "role": "Assembly Member for Newport East",
+        "duration": "",
+        "achievements": "A range of important local and national campaigns."
+      }
+    ],
+    "contactInformation": {
+      "address": "The Office of John Griffiths AM, Clarence House, Clarence Place, Newport NP19 7AA\n",
+      "phone": "01633 222 302",
+      "email": "john.griffiths@assembly.wales",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@GriffithsJECymru",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Pictures from various campaign activities and constituents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

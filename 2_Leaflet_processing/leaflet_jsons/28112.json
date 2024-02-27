@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Robin Bennett",
+    "constituency": "Henley",
+    "politicalParty": "Green Party",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "STAND UP FOR WHAT MATTERS",
+        "content": "This election isn’t about the next 5 years. It’s about the next 50 years."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "For a safe NHS and affordable, effective medicines."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "To tackle the economy for the common good."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "To guarantee education, apprenticeships, and a home that’s safe to live in."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "To protect our environment and provide affordable public services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Robin Bennett, your Green Party candidate",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "To guarantee education, apprenticeships, and a home that’s safe to live in.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I live locally, work as a musician and run a festival. My wife and children have all been schooled locally (and often play on the same hockey teams as your relatives and friends!).",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Robin Bennett standing with a Vote Green Party sign."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

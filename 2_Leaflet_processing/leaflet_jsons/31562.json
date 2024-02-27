@@ -1,0 +1,65 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Jo Swinson",
+	"constituency": "",
+	"politicalParty": "Liberal Democrat",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "THE PAST / THE FUTURE",
+    	"content": "'Both Tories and Labour have failed the country' - The Guardian, May 2019. 'British politics is falling apart – the Tories are to blame, but Labour is also a shambles' - The Irish Times, January 2019."
+  	}
+	],
+	"keyPolicies": [
+	],
+	"mentions": {
+  	"candidate": "Jo Swinson",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "Jo Swinson is the Prime Minister we deserve",
+	"politicalExperience": [
+	],
+	"contactInformation": {
+	},
+	"endorsements": [
+	],
+	"quotes": [
+  	{
+    	"text": "'Both Tories and Labour have failed the country'",
+    	"source": "The Guardian, May 2019"
+  	},
+  	{
+    	"text": "'British politics is falling apart – the Tories are to blame, but Labour is also a shambles'",
+    	"source": "The Irish Times, January 2019"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Jo Swinson is the Prime Minister we deserve."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet positions Jo Swinson and the Liberal Democrats as the future and a break from the past, which is represented by the Tories and Labour."
+  }
+}
+```

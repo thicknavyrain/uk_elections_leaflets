@@ -1,0 +1,103 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Bob Seely",
+    "constituency": "Isle of Wight",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "Delivering for the Island",
+        "content": "Getting Brexit Done THE LOCAL CHOICE FOR MP."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "LOCAL RESIDENT AND PUBLIC SERVANT",
+        "policyDescription": "Bob was in the British Army - receiving a Military MBE - prior to becoming the Island's MP. He served in Afghanistan and Iraq, returning to the Island between tours. Bob was twice elected as an Isle of Wight councillor. He lives near Brighstone."
+      },
+      {
+        "policyTitle": "CHAMPIONING THE ISLE OF WIGHT IN WESTMINSTER",
+        "policyDescription": "Bob is a passionate advocate for our Island, and he gets results. Working with others, he has secured £48m for the NHS and £26m for Island Line. Sandown School and Venture Quays have been saved. Bob will continue to deliver for the Island."
+      },
+      {
+        "policyTitle": "PROTECTING OUR ISLAND & HOUSING FOR ISLANDERS",
+        "policyDescription": "As an Islander, Bob has campaigned to improve the Island Plan. He is working with the Council to protect green fields, reduce housing targets & push for greater local families. He will fight for greater environmental protections for the Island."
+      }
+    ],
+    "mentions": {
+      "candidate": "Bob Seely",
+      "otherPartyLeaderCandidate": "John Curtice, Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "Only a majority government can get on with the country's priorities."
+    },
+    "issues": {
+      "brexitEurope": "Getting Brexit Done",
+      "economy": "",
+      "education": "",
+      "environment": "Bob has campaigned to improve the Island Plan. He is working with the Council to protect green fields, reduce housing targets & push for greater local families. He will fight for greater environmental protections for the Island.",
+      "governance": "",
+      "health": "Bob has secured £48m for the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Bob has campaigned to improve the Island Plan. He is working with the Council to protect green fields, reduce housing targets & push for greater local families.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "British Army",
+        "duration": "",
+        "achievements": "Received a Military MBE."
+      },
+      {
+        "role": "Isle of Wight Councillor",
+        "duration": "Twice elected",
+        "achievements": "Elected as an Isle of Wight councillor."
+      },
+      {
+        "role": "MP for the Isle of Wight",
+        "duration": "",
+        "achievements": "Secured £48m for the NHS and £26m for Island Line, saved Sandown School and Venture Quays."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Better hospitals. Safer streets. Improved schools. LET'S GET ON WITH OUR PRIORITIES.",
+        "source": "Election Communication",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Bob Seely"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

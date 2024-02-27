@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "",
+    "politicalParty": "Conservative Party",
+    "electionDate": "6 May",
+    "messages": [
+      {
+        "title": "Change politics",
+        "content": "By allowing people to kick out their MP before an election, cutting waste in pay, and letting people see clearly how the government spends their money."
+      },
+      {
+        "title": "The necessity of a strong government",
+        "content": "Britain needs a strong government with the energy, leadership and values to put the country back on its feet and get the economy moving."
+      },
+      {
+        "title": "The challenge of a hung parliament",
+        "content": "The uncertainty and indecision of a hung parliament, with the danger of 5 more years of Gordon Brown as Prime Minister, versus a decisive Conservative victory."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Benefit and Welfare Reform",
+        "policyDescription": "Tackle benefit fraud, reform the welfare system to enable those who can work to work."
+      },
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "Increase funding for the NHS every year and ensure the best new cancer drugs are widely available."
+      },
+      {
+        "policyTitle": "Immigration Policy",
+        "policyDescription": "Impose an annual limit on the number of non-EU economic migrants, and setting up a proper Border Police force."
+      },
+      {
+        "policyTitle": "Pension Restoration",
+        "policyDescription": "Restore the basic State pension and re-link to earnings."
+      },
+      {
+        "policyTitle": "Parliamentary Reform",
+        "policyDescription": "Change politics by cutting the number of MPs by 10 percent, cutting Ministers' pay, letting people kick out their MP, and being transparent with government spending."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": "The uncertainty and indecision of a hung parliament, with the danger of 5 more years of Gordon Brown as Prime Minister, versus a decisive Conservative victory."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Change politics by cutting the number of MPs by 10 percent, cutting Ministers' pay, letting people kick out their MP, and being transparent with government spending.",
+      "health": "Increase funding for the NHS every year and ensure the best new cancer drugs are widely available.",
+      "immigration": "Impose an annual limit on the number of non-EU economic migrants, and setting up a proper Border Police force.",
+      "socialWelfare": "Tackle benefit fraud, reform the welfare system to enable those who can work to work.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am so determined to change politics - by allowing people to kick out their MP before an election, cutting waste in pay, and letting people see clearly how the government spends their money.",
+    "politicalExperience": [
+      {
+        "role": "Leader of the Conservative Party",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "30 Millbank, London SW1P 4DP",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet emphasizes the necessity of a strong government and the risks of a hung parliament. Promotes specific policy changes in benefits, NHS, immigration, pension, and political transparency."
+  }
+}
+```

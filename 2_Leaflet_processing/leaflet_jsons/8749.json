@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "A 'Living Wage' for all",
+        "policyDescription": "Green MPs will demand a 'Living Wage' to ensure low paid workers earn enough to provide for themselves and their families. They will fight for a fair financial deal, including community banks, credit unions, and realistic loans to small businesses."
+      },
+      {
+        "policyTitle": "A million new jobs",
+        "policyDescription": "Green MPs will press for a free insulation scheme for every home as part of a green package to cut fuel bills and create a million new jobs."
+      },
+      {
+        "policyTitle": "Protect our NHS",
+        "policyDescription": "Green MPs will fight to make sure local services are easy to access and truly local. They will oppose cuts, closures, and privatisation within the NHS and protect jobs of public sector workers."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Caroline Lucas",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "We think it's unfair that hospitals and health centres are treated like businesses rather than vital public services. We want to make sure no more public money is wasted on badly implemented privatisation schemes.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Bringing Britain's housing up to 'green' standards would create much-needed jobs for builders, plumbers, electricians, and engineers.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0844 544 9277",
+      "email": "",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "MEP Awards 2008: Green Party leader and MEP Caroline Lucas receives the prestigious Parliament magazine award as MEP of the Year 2008 for her work on trade."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

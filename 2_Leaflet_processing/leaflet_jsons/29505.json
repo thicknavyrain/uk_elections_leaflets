@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr Katherine Dunne",
+    "constituency": "Twickenham",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "Standing up for the issues you care about",
+        "content": "As MP for Twickenham I will stand up for the issues local people care about: good quality schools; affordable homes; a clean environment and protection from the Tories' reckless Brexit."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investing for a better Britain",
+        "policyDescription": "We will build a high skilled, high tech, low carbon economy. We will raise the living wage to £10 an hour and unlock £500 billion of investment through a National Investment Bank."
+      },
+      {
+        "policyTitle": "Secure home guarantee",
+        "policyDescription": "We will build over a million new homes in five years, with at least half a million council homes, through our public investment strategy, and give new rights to private renters."
+      },
+      {
+        "policyTitle": "Security at work",
+        "policyDescription": "We will end exploitative zero-hours contracts and end undercutting through exploitation of migrant labour. We will defend employment rights during the Brexit negotiations."
+      },
+      {
+        "policyTitle": "A secure NHS and social care",
+        "policyDescription": "We will end NHS privatisation, integrate health and social care and ensure parity for mental health services."
+      },
+      {
+        "policyTitle": "Education for all",
+        "policyDescription": "We will provide universally childcare and will guarantee quality apprenticeships and adult skills training. We will work towards progressive restoration of free education for all."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr Katherine Dunne",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Voters in Twickenham need a better choice than the Tories and their former coalition partners the Lib Dems. Labour offers a real alternative."
+    },
+    "issues": {
+      "brexitEurope": "protection from the Tories' reckless Brexit.",
+      "economy": "Investing for a better Britain: We will build a high skilled, high tech, low carbon economy.",
+      "education": "A Labour government will invest in our infrastructure, creating jobs and raising wages. It will invest in our children and protect school funding.",
+      "environment": "A clean environment",
+      "governance": "",
+      "health": "A secure NHS and social care",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Housing costs are rising due to lack of supply. A Labour government will deliver growth by investing in homes and infrastructure.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "As MP for Twickenham I will stand up for the issues local people care about: good quality schools; affordable homes; a clean environment and protection from the Tories' reckless Brexit.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dr Katherine Dunne with a group of supporters and Labour party members, including an individual who is speaking to the crowd."
+        }
+      ]
+    },
+    "additionalNotes": "We will build a better, fairer Britain"
+  }
+}
+```

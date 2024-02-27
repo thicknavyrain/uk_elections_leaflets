@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Caroline, Lady Pearson of Rannoch",
+    "constituency": "Kensington",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "My local issues are",
+        "content": "Protect markets and small shops. Subject parking fines to democratic control."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Say NO to mass immigration"
+      },
+      {
+        "policyTitle": "Referendums",
+        "policyDescription": "Say YES to referendums on all major issues"
+      },
+      {
+        "policyTitle": "EU Spending",
+        "policyDescription": "Say NO to wasting £45 million a day in Brussels"
+      }
+    ],
+    "mentions": {
+      "candidate": "Caroline, Lady Pearson of Rannoch",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Say NO to wasting £45 million a day in Brussels",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Subject parking fines to democratic control.",
+      "health": "",
+      "immigration": "Say NO to mass immigration",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Protect markets and small shops.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have lived in Kensington most of my life, having been brought up in Hampshire, where my father was High Sheriff and Chairman of the County Council. During the years he resigned his membership of the Conservative Party over the Maastricht Treaty.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Caroline, Lady Pearson of Rannoch Kensington - Campaign Leaflet"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

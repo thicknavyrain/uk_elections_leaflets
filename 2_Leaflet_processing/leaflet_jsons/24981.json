@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tim Andrews",
+    "constituency": "St Ives",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Green Party",
+        "content": "This election is more than a choice between better or worse versions of the Coalition Government."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Tim Andrews",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "I want to see a government that ends austerity and acts for the common good. There has never been a more important time to vote Green.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "GreenNews cover featuring a gathering at a harbor with lots of people and boats, representing the St Ives Constituency Green Party."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

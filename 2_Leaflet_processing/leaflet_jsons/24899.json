@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anna Soubry",
+    "constituency": "Broxtowe",
+    "politicalParty": "Conservatives",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "Your vote is important",
+        "content": "It's been an honour and privilege to be your MP and in general we've got much to be proud of but there is no room for complacency..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Our economy in Broxtowe is growing: Manufacturing is growing, we have record numbers of people claiming unemployment is below national and regional averages, we have taken lower paid workers out of tax, university technology park is going from strength to strength"
+      }
+    ],
+    "mentions": {
+      "candidate": "Anna Soubry",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Broxtowe is a marginal - a straight fight between Anna and Labour"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Our economy is growing in Broxtowe...",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour's Notts County Council won't address noisy antisocial behaviour in some terraces, we will.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I say to conservative and undecided voters...",
+    "politicalExperience": [
+      {
+        "role": "MP for Broxtowe",
+        "duration": "",
+        "achievements": "I have secured £1m to knock down the eyesore that is the old Beeston Square and helped to secure £600,000 to set up our new enterprise zone in Boots which will create up to 10,000 jobs."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0115 9436507",
+      "email": "anna@soubry.org.uk",
+      "website": "www.annasoubry.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Anna Soubry with supporters"
+        }
+      ]
+    },
+    "additionalNotes": "A vote for any other Party will let Labour win."
+  }
+}
+```

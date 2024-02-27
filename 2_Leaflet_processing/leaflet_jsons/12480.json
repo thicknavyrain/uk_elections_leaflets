@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Linda Jack",
+    "constituency": "Mid Bedfordshire",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Fairer taxes for a Fairer Society",
+        "content": "Lib Dems believe in cutting taxes for those who pay the highest proportion of their income in tax, namely those on middle and low incomes. Linda fully supports the Lib Dem promise to remove anyone earning under £10,000 a year from paying tax at all."
+      },
+      {
+        "title": "The Lib Dem Difference",
+        "content": "Only the Liberal Democrats will protect front line NHS services and restore pride and fairness for our armed forces. And we've a costed plan to do it. That's the Lib Dem difference."
+      },
+      {
+        "title": "OUR NHS: At risk with the Conservatives",
+        "content": "Tory Health spokesman accepted £21,000 donation from private health firm boss."
+      },
+      {
+        "title": "What else aren't the Conservatives telling you?",
+        "content": "\"We've lived through this mistake for 60 years now...... The reality is it [the NHS] hasn't worked - it has made people iller...\" - Senior Conservative MP Dan Hannan, Summer 2009\n\"Key Tory MPs backed call to dismantle NHS\""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Commitment to reducing the tax burden on those earning under £10,000 by removing them from paying tax altogether."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Pledging to protect front line NHS services while highlighting concerns about the Conservative party's approach to health services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Linda Jack",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "Elections in Mid Beds are a straight fight between the Liberal Democrats and Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "OUR NHS: At risk with the Conservatives - emphasizes protecting the NHS from privatization and criticizing Conservative party's stance.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "\"We've lived through this mistake for 60 years now...... The reality is it [the NHS] hasn't worked - it has made people iller...\"",
+        "source": "Senior Conservative MP Dan Hannan, Summer 2009"
+      },
+      {
+        "text": "Key Tory MPs backed call to dismantle NHS",
+        "source": "The Guardian, Summer 2009"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign photo of Linda Jack with another individual."
+        },
+        {
+          "caption": "Graph showing election results in Mid Bedfordshire in 2005."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

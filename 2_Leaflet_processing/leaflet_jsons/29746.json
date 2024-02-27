@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Tony Hill",
+	"constituency": "Maidenhead",
+	"politicalParty": "Lib Dem",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "This is your LAST CHANCE to stop Theresa May's heartless 'dementia tax'",
+    	"content": "But YOU can stop Theresa May from doing this - see over"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Stopping Theresa May's cruel 'dementia tax'",
+    	"policyDescription": "Tony Hill and the Liberal Democrats are leading the fight against Theresa May's manifesto which targets elderly people in need of care."
+  	},
+	{
+		"policyTitle": "Saving our great schools from becoming failing second rate Secondary Moderns",
+		"policyDescription": "Tony Hill is determined to restore funding to our schools and stop Conservative plans to turn them into second-rate Secondary Moderns."
+	}
+	],
+	"mentions": {
+  	"candidate": "Tony Hill",
+  	"otherPartyLeaderCandidate": "Theresa May",
+  	"partyLeader": "",
+  	"tacticalSituation": "Only Tony Hill and the Lib Dems can stop the 'dementia tax' in Maidenhead"
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "Tony Hill, a former Head teacher of one of our great schools, is determined to restore funding to our schools.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Investing an extra £6 billion each year in our NHS",
+  	"immigration": "",
+  	"socialWelfare": "The Lib Dems will stop Theresa May's cruel plans to tax people for growing old. Capping care costs at a sensible level",
+  	"housing": [
+    	{
+      	"content":"Tony Hill and the Liberal Democrats are leading the fight against Theresa May's manifesto which targets elderly people in need of care.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Tony Hill said: 'Theresa May's Dementia Tax is a betrayal of those who have worked hard all their lives and end up needing help to live.'",
+	"politicalExperience": [
+  	{
+    	"role": "Head teacher",
+    	"duration": "",
+    	"achievements": "As a former Head teacher, Tony Hill is determined to restore funding to our schools."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.MaidenheadLibDems.co.uk/help",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Tony Hill and the Liberal Democrats fighting 'dementia tax'"
+    	}
+  	]
+	},
+	"additionalNotes": "Volunteer to help Tony Hill and sign a petition against the 'dementia tax' at www.MaidenheadLibDems.co.uk/DementiaTax."
+  }
+}
+```

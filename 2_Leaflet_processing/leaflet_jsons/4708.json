@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Fred Mackintosh",
+    "constituency": "Edinburgh South",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "This is Edinburgh South",
+        "content": "Question: How many Conservative voters do you think there are in Gilmerton, the Inch, Moredu, Gracemount, Marchmont and Polwarth?\nAnswer: So few that as recently as the 2007 Scottish Parliament election the Tories came fourth - behind the SNP - in the Edinburgh South Scottish Parliament Constituency."
+      },
+      {
+        "title": "The result last time shows that only local Lib Dem Fred Mackintosh or Labour can win here",
+        "content": "The actual result from the last general election. This election will be fought on exactly the same boundaries."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Fred Mackintosh",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The result last time shows that only local Lib Dem Fred Mackintosh or Labour can win here"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.edinburghsouthlibdems.org/thefacts",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Map of Edinburgh South constituency"
+        }
+      ]
+    },
+    "additionalNotes": "Published and promoted by Simon Clark on behalf of Fred Mackintosh (Scottish Liberal Democrat) and Edinburgh South Liberal Democrats all at 4 Grange Road, Edinburgh EH9 1UH. Printed by ESLD Printing Society, 4 Grange Road, Edinburgh EH9 1UH."
+  }
+}
+```

@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Peter Pinkney",
+    "constituency": "Redcar",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "VOTE FOR WHAT YOU BELIEVE IN",
+        "content": "IMAGINE A POLITICAL SYSTEM THAT PUTS THE PUBLIC FIRST. IMAGINE AN ECONOMY THAT GIVES EVERYONE THEIR FAIR SHARE. IMAGINE A SOCIETY CAPABLE OF SUPPORTING EVERYONE'S NEEDS. IMAGINE A PLANET PROTECTED FROM THE THREAT OF CLIMATE CHANGE NOW AND FOR THE GENERATIONS TO COME. THAT'S THE FUTURE WE WANT TO CREATE AND WE BELIEVE WE HAVE THE MEANS TO DO IT. GREEN PARTY MEMBERSHIP IS SOARING AS MORE AND MORE PEOPLE ARE RECOGNISING THAT THE POLITICS OF THE FUTURE DOESN'T HAVE TO LOOK LIKE THE POLITICS OF THE PAST. VOTE GREEN AND YOU CAN HELP US BUILD A SOCIETY THAT WORKS FOR THE COMMON GOOD."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "More Equal Society",
+        "policyDescription": "Fight for a more equal society based on socialism, giving hope to the young, poor, unemployed and homeless. Plans to increase the minimum wage, benefits, pensions, spend on NHS, bring railways, gas, water, electricity back into public ownership, and stop zero hours contracts."
+      },
+      {
+        "policyTitle": "Environmental Protection",
+        "policyDescription": "Protect the earth and its resources, tax the richer more heavily, and abolish Trident. Belief in devolving power to regions and having more say in the future."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "IMAGINE AN ECONOMY THAT GIVES EVERYONE THEIR FAIR SHARE.",
+      "education": "",
+      "environment": "IMAGINE A PLANET PROTECTED FROM THE THREAT OF CLIMATE CHANGE NOW AND FOR THE GENERATIONS TO COME.",
+      "governance": "Power should be devolved to the regions, and communities have more say and involvement in their future.",
+      "health": "NEED TO BUILD SOCIAL HOUSING, TO INVEST IN THE NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "NEED TO BUILD SOCIAL HOUSING",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "'I BELIEVE IN THE FIGHT FOR A MORE EQUAL SOCIETY. A SOCIETY BASED ON SOCIALISM. TO ACHIEVE THIS WE NEED TO GIVE HOPE TO THE YOUNG, THE POOR, THE UNEMPLOYED AND THE HOMELESS. WE NEED TO BUILD SOCIAL HOUSING, TO INVEST IN THE NHS, TO INCREASE MINIMUM WAGE, INCREASE PENSIONS, SPEND MORE ON SCHOOLS, BRING RAILWAYS, GAS, WATER, ELECTRICITY BACK INTO PUBLIC OWNERSHIP, AND PUT A STOP TO THE OBSCENITY THAT IS ZERO HOURS CONTRACTS.'",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "peter.pinkney@greenparty.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "THE OLD SYSTEM HAS FAILED AGAIN AND AGAIN. WE NEED TO START AFRESH, THE GREEN PARTY IS THAT FRESH START",
+        "source": "Peter Pinkney",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Green Party for the common good"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet also contrasts Green Party positions with those of the Labour Party, indicating a departure from Labour's stance on the left."
+  }
+}
+```

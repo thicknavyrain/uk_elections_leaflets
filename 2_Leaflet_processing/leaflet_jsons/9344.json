@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Professor David Kerr",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Cancer specialist on the backs - Professor David Kerr explains why he backs Conservative plans for the NHS",
+        "content": "Don't let Labour scare you"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Spending",
+        "policyDescription": "The Conservatives will increase NHS spending."
+      },
+      {
+        "policyTitle": "Cancer Drugs",
+        "policyDescription": "The Conservatives will not stop cancer patients getting the drugs they need."
+      }
+    ],
+    "mentions": {
+      "candidate": "Professor David Kerr",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The leaflet assures that the Conservatives will not cut NHS spending and will not stop cancer specialists from getting the drugs they need, despite what Labour might claim.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Professor David Kerr holding a clipboard"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

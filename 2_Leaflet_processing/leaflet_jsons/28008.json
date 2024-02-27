@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jane Hunt",
+    "constituency": "Nottingham South",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "YOUR CHOICE AT THIS ELECTION:",
+        "content": "Strong, stable leadership in the national interest OR A coalition of chaos with Jeremy Corbyn"
+      },
+      {
+        "title": "THERESA MAY'S PLAN FOR A STRONGER BRITAIN",
+        "content": "Secure the best deal from Brexit to control our laws, borders and money. New markets around the world for our goods and services. More and better-paid jobs with new rights and protections for workers. The chance to own your own home with more affordable housing. Tackling the cost of living and keeping taxes low. Increased schools funding every year and real technical education for young people. Extra funding for the NHS and proper care for the elderly. Security for our children online and personal data protected."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Secure the best deal from Brexit to control our laws, borders and money. Ensure we can trade worldwide."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Strong economy that rewards people who work hard and creates secure well-paid jobs."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "The chance to own your own home with more affordable housing."
+      },
+      {
+        "policyTitle": "Cost of Living",
+        "policyDescription": "Tackling the cost of living and keeping taxes low."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Increased schools funding every year and real technical education for young people."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Extra funding for the NHS and proper care for the elderly."
+      },
+      {
+        "policyTitle": "Online Security",
+        "policyDescription": "Security for our children online and personal data protected."
+      }
+    ],
+    "mentions": {
+      "candidate": "With your help - and your vote for my local candidate, Jane Hunt - together we can get Brexit right and secure our economic future.",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "It's nonsense for the local Labour Party to say that a vote for the Labour candidate in Nottingham South is a vote for a shambolic coalition government led by Jeremy Corbyn."
+    },
+    "issues": {
+      "brexitEurope": "Secure the best deal from Brexit to control our laws, borders and money.",
+      "economy": "My plan will build a stronger economy that rewards people who work hard and creates secure well-paid jobs.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Extra funding for the NHS and proper care for the elderly.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The chance to own your own home with more affordable housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Printed by Polestar, on behalf of Jane Hunt, both of Unit 6, Kingfisher Court, Newburn Riverside, Newcastle, NE15 8NZ.",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jane Hunt with Theresa May"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

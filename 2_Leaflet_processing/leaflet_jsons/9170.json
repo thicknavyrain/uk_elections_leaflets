@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Knight",
+    "constituency": "Filton and Bradley Stoke",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Straight talking",
+        "content": "John Knight cares passionately about democracy. He believes that freedom of speech, creativity, and enterprise should flourish. He asserts that the UK was taken into the EU by deception and is controlled by unelected bureaucrats."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Under Labour mass immigration has added 3.5 million people to the population."
+      },
+      {
+        "policyTitle": "Local Democracy",
+        "policyDescription": "Bring back democracy to the local authorities so they have the last say in local development & decisions."
+      },
+      {
+        "policyTitle": "Referendums",
+        "policyDescription": "Say YES to referendums on all major issues."
+      },
+      {
+        "policyTitle": "EU Expenditure",
+        "policyDescription": "Say NO to wasting £45 million a day in Brussels."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Knight",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "We were taken into the EU by deception, the government of which is controlled by unelected bureaucrats.",
+      "economy": "Say NO to wasting £45 million a day in Brussels.",
+      "education": "",
+      "environment": "",
+      "governance": "Bring back democracy to the local authorities so they have the last say in local development & decisions.",
+      "health": "",
+      "immigration": "Under Labour mass immigration has added 3.5 million people to the population.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "This same government is now overseeing the building of 26,000 new homes on green spaces on the outskirts of Bristol.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "John Knight cares passionately about democracy and is system that allows freedom of speech, creativity, and enterprise to flourish.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Election communication from the UK Independence Party featuring John Knight"
+        }
+      ]
+    },
+    "additionalNotes": "Please place this leaflet in your window."
+  }
+}
+```

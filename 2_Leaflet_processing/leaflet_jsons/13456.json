@@ -1,0 +1,141 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dominic Tristram",
+    "constituency": "Bath",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A GREEN FUTURE",
+        "content": "Fracking is controversial and poses fundamental risks. The Green Party opposes it to avoid destructive climate change."
+      },
+      {
+        "title": "GREEN NEW DEAL TO BRING END TO AUSTERITY",
+        "content": "The richest 1% of the UK population are as rich as the poorest 55% combined."
+      },
+      {
+        "title": "GREENS SAY NO TO TUITION FEES",
+        "content": "The Green Party promises to abolish tuition fees and restore the Education Maintenance Allowance, to give everyone the chance of higher and further education on the basis of ability, not the ability to pay."
+      },
+      {
+        "title": "PRIVATE PROFIT IS KILLING THE NHS",
+        "content": "Labour and the Conservatives are letting our NHS deteriorate. Green Party MPs will fight for it by rolling back privatisation."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fracking",
+        "policyDescription": "The Green Party is strictly against fracking due to its negative environmental impacts and risks to local water sources."
+      },
+      {
+        "policyTitle": "Austerity",
+        "policyDescription": "The Green Party aims to end austerity by advocating for wealth redistribution and economic policies favoring equity and social welfare."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Green Party advocates for free education, including abolishing tuition fees and bringing back educational maintenance allowances."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "The Greens would oppose private profit in the NHS, looking to reverse privatisation trends and preserve public ownership and investment."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dominic Tristram",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The Green Party identifies education as a key area, vowing to abolish tuition fees and support further and higher education.",
+      "environment": "Fracking is opposed by the Green Party due to its environmental risks, aiming to avoid destructive climate change.",
+      "governance": "",
+      "health": "To preserve public healthcare, the Green Party promises to combat the privatisation of the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Dominic Tristram argues for change based on extensive local surveys, believing in the possibility of a Green Party victory.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "contactus@greenparty.bathnes.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I'm ashamed to say as a father and grandfather, I have not done enough to secure a safe and stable future for my children and grandchildren.",
+        "source": "John Lucas",
+        "date": ""
+      },
+      {
+        "text": "The Greens are the only party that truly stand up for our NHS.",
+        "source": "Lin Patterson",
+        "date": ""
+      },
+      {
+        "text": "It's getting harder to distinguish between Labour and the Tories. I am glad the Greens give me a real alternative.",
+        "source": "Dick Daniel",
+        "date": ""
+      },
+      {
+        "text": "The Green Party has firm beliefs in equality and social justice.",
+        "source": "Sarah, Student",
+        "date": ""
+      },
+      {
+        "text": "I am worried by the way the coalition is cutting services, which are vital and are mainly paid for by the less well-off, to reduce the deficit.",
+        "source": "Luke, Housing Manager",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Infographic illustrating the uneven distribution of wealth."
+        },
+        {
+          "caption": "Illustration opposing fracking."
+        },
+        {
+          "caption": "Graphic showing support against tuition fees."
+        },
+        {
+          "caption": "Dominic Tristram, Green Party parliamentary candidate for Bath."
+        },
+        {
+          "caption": "Diagram indicating potential survey support for the Green Party."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet highlights a focus on environmental concerns, social welfare, and efforts to combat austerity and privatization. The campaign aims to increase support in the Bath constituency by showcasing the Green Party's policies and emphasizing key issues such as preserving the NHS, opposing fracking, and abolishing tuition fees."
+  }
+}
+```

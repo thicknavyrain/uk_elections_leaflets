@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Maria Miller",
+    "constituency": "Basingstoke",
+    "politicalParty": "Conservative",
+    "electionDate": "8 June 2017",
+    "messages": [
+      {
+        "title": "",
+        "content": "Maria is known and respected for getting things done, both nationally and locally."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting Our Environment",
+        "policyDescription": "With local Councillors I campaigned for more effective monitoring of water quality in the River Loddon. The equipment and improved processes have now been put in place."
+      },
+      {
+        "policyTitle": "Investing For New Jobs",
+        "policyDescription": "Basingstoke has record levels of employment and I am determined to see even more good jobs created here - including apprenticeships."
+      },
+      {
+        "policyTitle": "A Voice For Basingstoke",
+        "policyDescription": "Some politicians refuse to accept the decision to leave the EU and want to play political games with the future of our country, I believe we must look to the future and get the best possible deal for Britain. I will be a strong voice for Basingstoke."
+      },
+      {
+        "policyTitle": "More Affordable Homes",
+        "policyDescription": "Hundreds of families in Basingstoke already have a new home of their own thanks to the Conservatives' help to buy and shared ownership schemes and the Borough Council's commitment to more affordable homes."
+      },
+      {
+        "policyTitle": "Safeguarding the NHS",
+        "policyDescription": "The new surgery at Rooksdown is just one example of my commitment to the NHS. I support the plans for a new Critical Treatment Hospital and the Cancer Treatment Centre to ensure our growing community has the healthcare it requires."
+      }
+    ],
+    "mentions": {
+      "candidate": "Maria Miller",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "A Voice for Basingstoke: ...accept the decision to leave the EU and want to play political games with the future of our country...",
+      "economy": "Investing For New Jobs: ...record levels of employment...determined to see even more good jobs created here - including apprenticeships.",
+      "education": "",
+      "environment": "Protecting Our Environment: ...campaigned for more effective monitoring of water quality in the River Loddon...",
+      "governance": "",
+      "health": "Safeguarding the NHS: The new surgery at Rooksdown is just one example of my commitment to the NHS...",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Hundreds of families in Basingstoke already have a new home of their own thanks to the Conservatives' help to buy and shared ownership schemes and the Borough Council's commitment to more affordable homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP for Basingstoke",
+        "duration": "12 years",
+        "achievements": "Before becoming an MP worked as a company director. As Chief of Women's and Equalities Committee, Maria has earned huge respect for her work on Basingstoke for people with learning disabilities."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07979 145250",
+      "email": "maria4basingstoke@gmail.com",
+      "website": "maria4basingstoke.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Borough Councillor Terri Reid",
+        "endorsement": "Maria is known and respected for getting things done, both nationally and locally."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Maria Miller with Theresa May"
+        }
+      ]
+    },
+    "additionalNotes": "This leaflet promotes the work Maria Miller has done in various aspects such as environment, jobs, and NHS for the locality as well as her stance on national issues like Brexit."
+  }
+}
+```

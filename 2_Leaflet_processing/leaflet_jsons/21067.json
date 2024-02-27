@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alan Mak",
+    "constituency": "Havant",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Securing Havant's Future: My Local Priorities",
+        "content": "Strong local economy with more jobs, higher wages and growing inward investment. Successful local schools, colleges and apprenticeships that give everyone the chance to succeed. Vibrant communities, strong families and a healthy environment we can all enjoy."
+      },
+      {
+        "title": "A personal message for you",
+        "content": "I live in Havant & I want the best for our area: a strong local economy, successful schools, and a healthy environment. Notably, I support an EU Referendum, lower immigration & English Votes for English Laws. Please use your postal vote to back me as your local MP."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Economy",
+        "policyDescription": "A strong local economy with more jobs, higher wages and growing inward investment."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Successful local schools, colleges and apprenticeships that give everyone the chance to succeed."
+      },
+      {
+        "policyTitle": "Communities and Environment",
+        "policyDescription": "Vibrant communities, strong families and a healthy environment we can all enjoy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alan Mak",
+      "otherPartyLeaderCandidate": "Ed Miliband, David Cameron, Vince Cable, Nigel Farage, Ed Balls, Nick Clegg, Alex Salmond",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "Voting for UKIP will hand keys of No. 10 to Miliband, poll finds"
+    },
+    "issues": {
+      "brexitEurope": "Support an EU Referendum, lower immigration & English Votes for English Laws.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "Lower immigration",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Alan Mak is a local, lives near St. Faith's church in central Havant, where he runs his own small business.",
+    "politicalExperience": [
+      {
+        "role": "Business leader, children’s food campaigner and a patriotic Royal British Legion volunteer",
+        "duration": "",
+        "achievements": "Founded the Legion’s Young Supporters’ Network, President of Magic Breakfast, a school breakfast club charity, led campaigns against child hunger."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "023 9247 5066",
+      "email": "alan@alanmak.org.uk",
+      "website": "www.AlanMak.org.uk",
+      "socialMedia": {
+        "facebook": "AlanMakHavant",
+        "twitter": "AlanMakMP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Willetts",
+        "endorsement": "Retiring and backing Alan Mak as our next local MP"
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Local businesses back Alan Mak"
+        },
+        {
+          "caption": "Alan will protect our local green spaces, harbours and coastlines"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

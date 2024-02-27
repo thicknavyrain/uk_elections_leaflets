@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Molly Scott Cato",
+    "constituency": "Bristol West",
+    "politicalParty": "Green Party",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Why Politics Needs The Green Party",
+        "content": "The Green Party believes in bold political change. Molly Scott Cato, a Professor of Economics, joined the Green Party because it's honest about financial and environmental crises, and prioritizes public wellbeing over profit. The Greens aim to reshape democracy so it serves the common good, with policies reflecting scientific truth and social justice."
+      },
+      {
+        "title": "AN ECONOMY THAT WORKS FOR ALL",
+        "content": "We will end austerity, restore public services, and create jobs that protect the environment. By supporting small start-ups and making big businesses pay their fair share, we intend to build a resilient economy while reducing carbon emissions and promoting renewable energy sources."
+      },
+      {
+        "title": "A CLEAN, SAFE ENVIRONMENT FOR FUTURE GENERATIONS",
+        "content": "The Greens will ensure a cleaner, safer environment by opposing fracking, closing down fossil fuel-based power, and investing in renewable energy. They promote efficiency improvements in homes to reduce carbon emissions and ensure that polluters pay for the damage they do to the environment."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "End austerity, restore public services, create jobs that are environmentally responsible."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "End NHS Privatisation, introduce Robin Hood Tax."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Ban fracking, restore a publicly owned rail system, and take other measures to protect the environment."
+      }
+    ],
+    "mentions": {
+      "candidate": "Molly Scott Cato",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The leaflet mentions the strategic situation in Bristol West, showing the Greens' strong position in previous local elections and implies tactical voting could be advantageous for the Greens."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Creating an economy that works for all, ending austerity, supporting small startups, making big businesses pay fair taxes.",
+      "education": "",
+      "environment": "Creating a clean, safe environment for future generations by banning fracking, closing fossil fuel power, and investing in renewable energy.",
+      "governance": "",
+      "health": "Protecting the National Health Service (NHS) from privatisation and introducing Robin Hood Tax to help fund healthcare.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Efficiency improvements in homes to reduce carbon emissions.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Member of the European Parliament",
+        "duration": "",
+        "achievements": "Representing South West in Brussels, focusing on finance, agriculture, and culture."
+      }
+    ],
+    "contactInformation": {
+      "address": "14 West Mall, Clifton, Bristol BS8 4BH",
+      "phone": "0117 944 1507",
+      "email": "office@bristolgreenparty.org.uk",
+      "website": "www.bristolgreenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@bristolgreen",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Molly Scott Cato with supporters"
+        },
+        {
+          "caption": "Molly Scott Cato portrait"
+        },
+        {
+          "caption": "Graph showing Greens can win in Bristol West"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

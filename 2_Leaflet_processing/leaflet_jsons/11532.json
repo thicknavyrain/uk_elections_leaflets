@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Denise Aspinall",
+    "constituency": "Ellesmere Port & Neston",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "fair taxes",
+        "policyDescription": "put money back in your pocket"
+      },
+      {
+        "policyTitle": "a fair deal",
+        "policyDescription": "by cleaning up politics"
+      },
+      {
+        "policyTitle": "a fair chance for every child",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "a fair future",
+        "policyDescription": "creating jobs by making Britain greener"
+      }
+    ],
+    "mentions": {
+      "candidate": "Denise Aspinall",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Make Denise Aspinall the first Liberal Democrat MP for Ellesmere Port & Neston"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

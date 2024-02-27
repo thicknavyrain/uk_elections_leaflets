@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gordon Brown",
+    "constituency": "",
+    "politicalParty": "The Labour Party",
+    "electionDate": "Thursday 6 May",
+    "messages": [
+      {
+        "title": "Fair rules and fair chances",
+        "content": "As we invest in the future I want to see rising levels of skills, and not rising levels of immigration. A society based on fair rules and fair chances. That is why we have pledged to control immigration with a tough but fair Australian-style points-based system."
+      },
+      {
+        "title": "Your choice",
+        "content": "I know that in the weeks ahead you face a big choice that will affect you, your family and our country’s future. I know I won’t be able to talk to everyone but I want to talk to as many people as I can."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Control immigration with a tough but fair Australian-style points-based system."
+      }
+    ],
+    "mentions": {
+      "candidate": "Gordon Brown",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Gordon Brown",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "rebuild our economy",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "Control immigration with a tough but fair Australian-style points-based system.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I love this country and am honoured to be your Prime Minister. I know I am tough and demanding and I make no apologies for that, because you deserve nothing less as we rebuild our economy, strengthen our society and change our politics.",
+    "politicalExperience": [
+      {
+        "role": "Prime Minister",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "gordonbrown.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "P.S. Each one of our pledges is substantial, deliverable and carefully costed, speaking to the values of Britain's mainstream majority – ordinary families, like the one in which I grew up – that want to get on, not simply get by."
+  }
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Michael Ellis",
+    "constituency": "Northampton North",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "FIXING OUR ROADS IS MICHAEL'S PRIORITY",
+        "content": "Since he was elected as a Member of Parliament in 2010, Michael Ellis has been campaigning strenuously on the issue of potholes. In 2015 he announced the falling into disrepair of the A45/Wellingborough Road in Northampton North to National Pothole Fund."
+      },
+      {
+        "title": "AN IMPORTANT MESSAGE FROM THERESA MAY TO YOU",
+        "content": "Getting on with the job of securing the best possible deal from Brexit for families across Britain because the stakes are too high to get it wrong."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "The leaflet highlights that the deficit has been cut by almost two-thirds under the Conservative government."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "The leaflet states that 3 million new apprenticeships have been created, implying a focus on vocational education and job training."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "The leaflet mentions Michael Ellis's role as Deputy Leader of the Commons and his work with Theresa May, indicating an emphasis on strong, stable leadership."
+      }
+    ],
+    "mentions": {
+      "candidate": "Michael Ellis",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "The leaflet focuses on securing a good Brexit deal and Michael Ellis standing with Theresa May to achieve this.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Deputy Leader of the Commons",
+        "duration": "Since 2016",
+        "achievements": "His role has included important parliamentary work on legislation and he has chaired the Committee of the Whole House during the passage of important bills."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01604 210707",
+      "email": "Ellis4NorthamptonNorth@gmail.com",
+      "website": "www.michaelellis.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "Michael_Ellis1",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Michael Ellis standing with Theresa May"
+        }
+      ]
+    },
+    "additionalNotes": "This leaflet has not been paid for by public money. It has been funded and promoted by the local Conservative Party."
+  }
+}
+```

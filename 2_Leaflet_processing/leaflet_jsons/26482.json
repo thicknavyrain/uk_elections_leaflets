@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Amber",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "SECURING JOBS FOR HARD WORKING PEOPLE",
+        "content": "More jobs, better transport, top schools are part of Amber's vision"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Securing jobs",
+        "policyDescription": "A commitment to more jobs by supporting local businesses and the creation of a 'centre of excellence' hospital."
+      },
+      {
+        "policyTitle": "Better transport",
+        "policyDescription": "Improvements in transport with plans for a high speed rail."
+      },
+      {
+        "policyTitle": "Top schools",
+        "policyDescription": "Investing in education to provide top schools."
+      }
+    ],
+    "mentions": {
+      "candidate": "Amber's name appears prominently as the candidate being promoted.",
+      "otherPartyLeaderCandidate": "References to Alex Salmond suggest competition or strategic opposition.",
+      "partyLeader": "",
+      "tacticalSituation": "Mentions of tactical voting considerations with phrases such as 'Don’t let your vote here leave Alex Salmond pulling the strings.'"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Commitment to providing top schools.",
+      "environment": "",
+      "governance": "",
+      "health": "Plans for the creation of a 'centre of excellence' hospital.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Amber in the constituency with supporters."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet content references broad Conservative Party commitments, suggesting that this campaign material is from a period close to a General Election."
+  }
+}
+```

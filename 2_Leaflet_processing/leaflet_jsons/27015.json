@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Hughes",
+    "constituency": "Bermondsey and Old Southwark",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "BRING BACK SIMON",
+        "content": "Simon served as our MP for 32 years. He worked tirelessly for local people and fought for liberal values."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Simon will fight for genuinely affordable housing."
+      },
+      {
+        "policyTitle": "Local Jobs and Services",
+        "policyDescription": "He will fight for local jobs and services."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "He will fight for people to have the final say on the final Brexit deal negotiated by the Government."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Hughes",
+      "otherPartyLeaderCandidate": "Labour MP",
+      "partyLeader": "",
+      "tacticalSituation": "Two years ago, many people in Bermondsey and Old Southwark were saddened to see a Labour MP elected."
+    },
+    "issues": {
+      "brexitEurope": "He will fight for people to have the final say on the final Brexit deal negotiated by the Government.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "He led the campaign to save Guy's Hospital.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Simon will fight for genuinely affordable housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Simon served as our MP for 32 years. He worked tirelessly for local people and fought for liberal values.",
+    "politicalExperience": [
+      {
+        "role": "MP for Bermondsey and Old Southwark",
+        "duration": "32 years",
+        "achievements": "Led the campaign to save Guy's Hospital. Won the fight for Bermondsey and Southwark stations on the Jubilee Line. Helped thousands of individual residents, housing associations, and businesses with their battles."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "(020) 7237 8444",
+      "email": "simon@simonhughes.org.uk",
+      "website": "www.SimonHughes.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@SimonHughes",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Simon Hughes with supporters"
+        }
+      ]
+    },
+    "additionalNotes": "This leaflet is promoted and printed by Robert Hayward on behalf of Simon Hughes both at 210 Southwark Park Road, SE16 3RW."
+  }
+}
+```

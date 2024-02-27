@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rosie Cooper",
+    "constituency": "Ormskirk, Lancashire",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Rosie Cooper",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Labour Campaign HQ, Freepost RRYS-LYRX-GZLK, 127 Burscough Street, Ormskirk, Lancashire, L39 2EP",
+      "phone": "01695 570094",
+      "email": "rosie@rosiecooper.net",
+      "website": "www.rosiecooper.net",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "I want to hear from you"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet is requesting constituents to get in touch with Rosie Cooper for various forms of support and participation in the local campaign."
+  }
+}
+```

@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "XANDRA ARUNDEL",
+    "constituency": "Newark",
+    "politicalParty": "UKIP",
+    "electionDate": "June 8th",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Controls on immigration, stopping uncontrolled immigration, and taking Britain out of the European Union to regain control of the country’s borders."
+      }
+    ],
+    "mentions": {
+      "candidate": "Xandra Arundel",
+      "otherPartyLeaderCandidate": "Theresa",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Taking Britain out of the European Union to regain control of the country’s borders.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "Controls on immigration, stopping uncontrolled immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Dear Voters, ...",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "xarundel97@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A campaign image showing various percentages highlighting immigration"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet content focused largely on immigration and criticism of Theresa May."
+  }
+}
+```

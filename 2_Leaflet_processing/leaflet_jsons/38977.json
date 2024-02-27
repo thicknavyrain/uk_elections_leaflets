@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Derek Thomas",
+    "constituency": "St Ives",
+    "politicalParty": "Conservative",
+    "electionDate": "November 2019",
+    "messages": [
+      {
+        "title": "LAST TIME, THE CONSERVATIVES WERE JUST NINE SEATS SHORT OF A MAJORITY.",
+        "content": "A handful of seats will decide this election. The choices made can set a clear path forward, avoiding gridlock."
+      },
+      {
+        "title": "BREXIT DEAL AGREED AND READY TO GO",
+        "content": "Prime Minister Boris Johnson has secured a new Brexit deal with the EU. This deal protects jobs and trade, ends uncertainty for our economy, and ensures the UK can leave with a new parliament."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "The new Brexit deal protects jobs and trade, ends uncertainty for our economy and is ready to go from day one of a new parliament."
+      },
+      {
+        "policyTitle": "Improved Transport",
+        "policyDescription": "Commitment to improved transport, noting past successes and future provisions including funding for an improved A30, reduced fares for buses, extending the railcard system, and exploring electric tram systems."
+      },
+      {
+        "policyTitle": "High-Quality Education",
+        "policyDescription": "Support for high-quality education with specifics on funding including £14 billion for education, leveling up per pupil funding, and ensuring minimum funding."
+      },
+      {
+        "policyTitle": "Health and Social Care",
+        "policyDescription": "Plans for a new hospital for Cornwall, improving accessibility to GPs, and action against parking fees at Penzance's hospital."
+      }
+    ],
+    "mentions": {
+      "candidate": "Derek Thomas",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": "A handful of seats will decide the election, with a clear indication that supporting the Conservative candidate can prevent a coalition government or minority government situation."
+    },
+    "issues": {
+      "brexitEurope": "Secured a new Brexit deal with the EU that is ready to go from day one of a new parliament.",
+      "economy": "",
+      "education": "An investment in education with significant funding improvements.",
+      "environment": "",
+      "governance": "",
+      "health": "A plan including a new hospital for Cornwall, better access to GPs, and addressing parking fees at the local hospital.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Policies for social housing were not mentioned in the leaflet content provided.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Every vote for Jeremy Corbyn makes another hung parliament more likely. - CORBYN - FIVE LONG YEARS OF GRIDLOCK",
+        "source": "Campaign leaflet",
+        "date": "November 2019"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "BREXIT DEAL AGREED AND READY TO GO"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

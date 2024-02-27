@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Greg Williams",
+    "constituency": "Aberdeen Donside",
+    "politicalParty": "Scottish Labour Party",
+    "electionDate": "Thursday 5 May",
+    "messages": [
+      {
+        "title": "#BOTHVOTESLABOUR",
+        "content": "To stop cuts to education, to tackle the housing crisis, to protect your local services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Stop cuts to education."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Tackle the housing crisis."
+      },
+      {
+        "policyTitle": "Local Services",
+        "policyDescription": "Protect local services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Greg Williams",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Kezia Dugdale",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Stop cuts to education.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Tackle the housing crisis.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "2a Darnock Park, Aberdeen, AB15",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "\"Faced with the choice between using the powers of the Scottish Parliament or cuts to our children's future - we choose to use the powers and stop the cuts.\"",
+        "source": "Kezia Dugdale, Leader of the Scottish Labour Party",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Greg Williams, Scottish Labour candidate for Aberdeen Donside"
+        },
+        {
+          "caption": "Kezia Dugdale, Leader of the Scottish Labour Party with a quote on choosing to use powers to stop cuts"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet also promotes the use of both votes for Labour on the same day, suggesting a strategic approach to voting."
+  }
+}
+```

@@ -1,0 +1,82 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "More police, less crime",
+        "policyDescription": "Since 1997, crime has fallen by almost 40 percent. There are now over 14,000 more police officers alongside nearly 16,000 Police Community Support Officers."
+      },
+      {
+        "policyTitle": "Every school rebuilt or refurbished",
+        "policyDescription": "Labour is committed to providing a world-class education for every child. The rebuilding of Cressex School is just one example of Labour investing in our future."
+      },
+      {
+        "policyTitle": "A helping hand in hard times",
+        "policyDescription": "Labour has increased Child Benefit and Pension Credit to help families and older people through the recession whilst every 16 and 17 year old will have a place in school, college, training or an apprenticeship this September."
+      },
+      {
+        "policyTitle": "Giving children the best start",
+        "policyDescription": "There are 7 Sure Start Children's Centres in Wycombe today thanks to Labour investment, giving our children the best chance of a good future. We need to make sure new centres are built as planned."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Labour is committed to providing a world-class education for every child. The rebuilding of Cressex School is just one example of Labour investing in our future.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Labour has increased Child Benefit and Pension Credit to help families and older people through the recession whilst every 16 and 17 year old will have a place in school, college, training or an apprenticeship this September.",
+      "housing": [
+        {
+          "content": "There are 7 Sure Start Children's Centres in Wycombe today thanks to Labour investment, giving our children the best chance of a good future. We need to make sure new centres are built as planned.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "More police, less crime"
+        },
+        {
+          "caption": "Every school rebuilt or refurbished"
+        },
+        {
+          "caption": "A helping hand in hard times"
+        },
+        {
+          "caption": "Giving children the best start"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

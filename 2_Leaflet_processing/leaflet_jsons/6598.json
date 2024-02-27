@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tessa Munt",
+    "constituency": "",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Tessa for real change",
+        "content": "Local campaigner Tessa Munt has earned her reputation as passionate, energetic and tenacious in representing local people."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Tessa and the Lib Dems want every child to have the best possible start in life, so we'll invest in education that's enriching, diverse and open to all in Somerset."
+      },
+      {
+        "policyTitle": "Local services",
+        "policyDescription": "Campaigning for local services."
+      },
+      {
+        "policyTitle": "Voluntary sector",
+        "policyDescription": "Supporting our voluntary sector."
+      },
+      {
+        "policyTitle": "Roads",
+        "policyDescription": "Working to improve our roads."
+      }
+    ],
+    "mentions": {
+      "candidate": "Local campaigner Tessa Munt has earned her reputation as passionate, energetic and tenacious in representing local people.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "It’s so close here. If just 1,521 people switch to Tessa, we could have a REAL change here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Tessa and the Lib Dems want every child to have the best possible start in life, so we'll invest in education that's enriching, diverse and open to all in Somerset.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": "Tessa’s 17 years knocking on doors, speaking to nearly 48,000 local people and leading key campaigns – like saving Street’s Post Office and achieving Outstanding 'Beautiful Burham' and Strode College improvements."
+      }
+    ],
+    "contactInformation": {
+      "address": "FREEPOST BS8452\nSomerset BA4 4BR",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "I contacted the MP... and had to badger his office... I wrote to Tessa... she came, had a look, took some pictures, argued with the council on my behalf and bingo the fence was repaired.",
+        "source": "Paul, Walton",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tessa with local children"
+        },
+        {
+          "caption": "Working to improve our roads"
+        },
+        {
+          "caption": "Campaigning for local services"
+        },
+        {
+          "caption": "Supporting our voluntary sector"
+        }
+      ]
+    },
+    "additionalNotes": "Residents switch to Tessa."
+  }
+}
+```

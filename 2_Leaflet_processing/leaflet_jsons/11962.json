@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Stokes",
+    "constituency": "Bournemouth East",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "We need a change",
+        "content": "The opposition parties are calling for a change and here in Bournemouth East I couldn’t agree more. Both Tories and Lib Dems have a record of failure in our local Government. Nationally the Tories want deep cuts now, that will send us back into the recession that their banker friends got us into in the first place."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Governance",
+        "policyDescription": "Opposes the record of Tories and Lib Dems in local governance, citing failures and deep cuts that may lead to recession."
+      },
+      {
+        "policyTitle": "Public Services",
+        "policyDescription": "Promises to bring more Police Community Support Officers in Bournemouth, maintain free bus passes and the winter fuel allowance for over 60’s, and increase the Sure Start programme for under 5’s."
+      },
+      {
+        "policyTitle": "Affordable Housing",
+        "policyDescription": "Will continue to live in Bournemouth and only stay overnight at budget hotels in London if necessary. Implies efficient use of resources for housing and living expenses."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Stokes",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Mentions past failures by both Tories and Lib Dems in local governance and a desire to avoid Tory-led deep cuts.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Pledges to maintain free bus passes and winter fuel allowance, and to increase Sure Start programme.",
+      "housing": [
+        {
+          "content": "Will continue to live in Bournemouth and only stay overnight at budget hotels in London if necessary.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "80 Bradpole Road Bournemouth BH8 9NZ",
+      "phone": "07973 527789",
+      "email": "davestokes.labour@gmail.com",
+      "website": "bournemouthlabour.org",
+      "socialMedia": {
+        "facebook": "Dave Stokes-labour party",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A local candidate for Bournemouth East who will campaign for a better future for all"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet printed by Apollo Press UK Ltd. TU as Communication House, 85 Southbourne Grove, Bournemouth BH6 3QX. Promoted by Ken Tuck (Agent) on behalf of David Stokes, both at 80 Bradpole Road, Bournemouth, BH8 9NZ."
+  }
+}
+```

@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Herbert",
+    "constituency": "Arundel & South Downs",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "LABOUR’S TAX ON JOBS WILL KILL THE RECOVERY",
+        "content": "The re-election of Gordon Brown's government will bring us a new recession."
+      },
+      {
+        "title": "PROTECT OUR SUSSEX COUNTRYSIDE",
+        "content": "Nick has confirmed that a Conservative Government will scrap the target for over 74,000 additional houses in West Sussex which would damage the countryside."
+      },
+      {
+        "title": "BACKING THE NHS",
+        "content": "NHS is our number one priority. Conservatives want to improve it for everyone."
+      },
+      {
+        "title": "WORKING FOR RURAL COMMUNITIES",
+        "content": "When he was elected five years ago, Nick pledged to be a strong voice for local towns and villages..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Cut Labour's waste to stop the tax on jobs and support economic recovery."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Scrapping the target for over 74,000 additional houses in West Sussex to protect the countryside."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Making the NHS a priority and working to improve it for everyone."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Herbert",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The re-election of Gordon Brown's government will bring us a new recession.",
+      "education": "",
+      "environment": "A Conservative Government will scrap the target for over 74,000 additional houses in West Sussex which would damage the countryside.",
+      "governance": "",
+      "health": "The NHS is our number one priority. Conservatives want to improve it for everyone.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "A Conservative Government will scrap the target for over 74,000 additional houses in West Sussex which would damage the countryside.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I have always tried to represent the common-sense of rural and small town England...",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for Arundel & South Downs",
+        "duration": "Five years",
+        "achievements": "Answered more than 7,500 individual emails and taken up hundreds of cases on behalf of local people."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Herbert with David Cameron announcing plans for change."
+        },
+        {
+          "caption": "Nick joining forces with local communities against a new town at Adversane."
+        },
+        {
+          "caption": "Nick Herbert"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

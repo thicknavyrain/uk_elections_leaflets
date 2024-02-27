@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Coleman",
+    "constituency": "Forest of Dean",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Change that works for you",
+        "content": "Chris Coleman is the Liberal Democrat candidate to become the next Member of Parliament for the Forest of Dean."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "The Liberal Democrats will take action to protect frontline NHS services. At risk with the Conservatives' plans for NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Coleman is backed by Nick Clegg and Vince Cable.",
+      "otherPartyLeaderCandidate": "Tory Health spokesman, David Cameron, Senior Conservative MEP Dan Hannan",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Lib Dems are the only party with a plan to balance the country's books after the recession.",
+      "education": "",
+      "environment": "",
+      "governance": "Politics needs to change in this country. Parliament does not work for people. The expenses scandal shows that too many MPs don’t care.",
+      "health": "OUR NHS: At risk with the Conservatives.",
+      "immigration": "",
+      "socialWelfare": "The Liberal Democrats will make more police on patrol, restore the pensions’ earnings link and deliver fair pay for the armed forces.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Chris says: \"If I am elected as your next MP, I will work hard to get the best deal for all area. I will be open and honest about my pay and any expenses claims I make are open to scrutiny by you.\"",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "",
+        "achievements": "He has been and brought up in Gloucestershire and works locally as a solicitor. He has years of experience in voluntary youth leadership and previously had been a local Councillor."
+      }
+    ],
+    "contactInformation": {
+      "address": "Bracelands, Christchurch, Coleford, GL16 7NN",
+      "phone": "",
+      "email": "",
+      "website": "www.chriscoleman.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Nick Clegg and Vince Cable",
+        "endorsement": "are backing Chris Coleman"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We need change - change that works for our area",
+        "source": "Chris Coleman",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg and the Liberal Democrats are winning support across Britain."
+        },
+        {
+          "caption": "Help the Lib Dems win"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

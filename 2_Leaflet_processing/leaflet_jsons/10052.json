@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Borrow",
+    "constituency": "South Ribble",
+    "politicalParty": "Labour",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "Choose to protect our fragile economy",
+        "content": "Our economy is beginning to grow again, but it needs continued support."
+      },
+      {
+        "title": "Vote for the many, not the few",
+        "content": "I'm proud of the action we've taken so far and I'm proud of our plans for the future."
+      },
+      {
+        "title": "Choose to protect public services",
+        "content": "Labour will continue to protect frontline services. In the NHS we'll create a legal right to tests for cancer within two weeks maximum."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic recovery",
+        "policyDescription": "Support the fragile growing economy and oppose Tory plans for deep cuts."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Create a legal right to tests for cancer within two weeks and guarantee for cancer referrals."
+      },
+      {
+        "policyTitle": "Redistribution",
+        "policyDescription": "Oppose Tory inheritance tax giveaways to the wealthiest."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Borrow",
+      "otherPartyLeaderCandidate": "the Tories",
+      "partyLeader": "",
+      "tacticalSituation": "It is a close two horse race between Labour and the Tories."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The General Election will be a clear choice between a Labour Government committed to a fair future for all, or a Tory change that puts the economic recovery at risk.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Our plans for the future will continue to support families by... giving their children the best possible start in life.",
+      "immigration": "",
+      "socialWelfare": "Support families by making work pay and giving their children the best possible start in life.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Dear Ms Lilly Johnson, On May 6th you have an important decision to make. The General Election will be a clear choice...",
+    "politicalExperience": [
+      {
+        "role": "Your Labour Candidate for South Ribble",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "3 Hill View, Longton, Preston PR4 4ZN",
+      "phone": "01772 434141",
+      "email": "vote@davidborrowblog.co.uk",
+      "website": "www.davidborrowblog.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Borrow with constituents"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

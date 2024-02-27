@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "ALAN JOHNSON",
+    "constituency": "BOLTON SOUTH EAST",
+    "politicalParty": "Green Party",
+    "electionDate": "MAY 7",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "ALAN JOHNSON",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.bolton.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "ALAN JOHNSON, Green Party candidate for Bolton South East"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

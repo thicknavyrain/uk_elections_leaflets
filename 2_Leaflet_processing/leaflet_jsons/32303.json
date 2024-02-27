@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "After nearly a decade of cuts, it's time for real change.",
+        "content": "Labour will rebuild and transform Britain, so that no one is held back and no community is left behind."
+      },
+      {
+        "title": "THE FUTURE IS OURS TO MAKE",
+        "content": "It's time for real change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Invest in our NHS to provide more doctors and nurses and cut waiting times."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Invest in our schools and provide free lifelong learning for everyone."
+      },
+      {
+        "policyTitle": "Green Industrial Revolution",
+        "policyDescription": "Kick start a Green Industrial Revolution to tackle the Climate Emergency and create high skilled, high wage jobs."
+      },
+      {
+        "policyTitle": "Public Ownership",
+        "policyDescription": "Bring rail, water and energy into public ownership to give you a better deal."
+      },
+      {
+        "policyTitle": "Workers' Rights",
+        "policyDescription": "Introduce a real living wage, ban zero hours contracts and strengthen workers' rights."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Give you the final say on Brexit."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Give you the final say on Brexit.",
+      "economy": "Kick start a Green Industrial Revolution to tackle the Climate Emergency and create high skilled, high wage jobs. Introduce a real living wage, ban zero hours contracts and strengthen workers' rights.",
+      "education": "Invest in our schools and provide free lifelong learning for everyone.",
+      "environment": "Kick start a Green Industrial Revolution to tackle the Climate Emergency.",
+      "governance": "",
+      "health": "Invest in our NHS to provide more doctors and nurses and cut waiting times.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "The Labour Party, c/o Poets Print UK, Atlas House, Nelson Park, Cramlington, Northumberland, NE23 1WG",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour's Plan for real change."
+        }
+      ]
+    },
+    "additionalNotes": "FOR THE MANY NOT THE FEW"
+  }
+}
+```

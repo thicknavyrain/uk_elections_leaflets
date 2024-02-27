@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Winning across Britain",
+        "content": "In recent years the Lib Dems have gone from success to success across Britain."
+      },
+      {
+        "title": "BRITAN BEWARE: Labour's latest con trick",
+        "content": "Labour bosses are resorting to desperate scare tactics to try and stop the election to the Lib Dems at long seats."
+      },
+      {
+        "title": "Real change needed after thirteen years of Labour",
+        "content": "Only the Tories offer little change. They will just stand up for the billionaires and carry on with Labour’s mistakes."
+      },
+      {
+        "title": "Standing up for our armed forces",
+        "content": "Thirteen years of a Labour Government has failed Britain's Armed Forces."
+      },
+      {
+        "title": "Are you thinking of voting Conservative?",
+        "content": "In many parts of Britain, voting Conservative could let Gordon Brown back into Downing Street for FIVE more years."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Defence",
+        "policyDescription": "The Labour Government and many Labour MPs even fought against full military honours for our heroes returning from battle."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": "Only a vote for the Liberal Democrats will beat Labour in these areas."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Only Nick Clegg's Liberal Democrats are offering real change. They will clean up politics, make a fair deal in our schools, more investment in our fairer taxes and a clean environment.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Cowley Street, London, SW1P 3NB",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg celebrates another Lib Dem win"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

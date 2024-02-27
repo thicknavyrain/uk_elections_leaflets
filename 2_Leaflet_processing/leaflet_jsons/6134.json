@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gareth Epps",
+    "constituency": "Reading East",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A clear choice...",
+        "content": "Hard working Lib Dem Gareth Epps. Yet another Tory MP."
+      },
+      {
+        "title": "Labour and the Greens are out of the race in Reading East.",
+        "content": "A two horse race!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Gareth is committed to tackling climate change. He has forced Reading Council to be better on the environment. Gareth will be a 'Green MP' for Reading East."
+      },
+      {
+        "policyTitle": "Local Services",
+        "policyDescription": "Gareth will be a fresh start for Reading East. He is campaigning to protect vital local services."
+      },
+      {
+        "policyTitle": "Tax Cuts",
+        "policyDescription": "Gareth is campaigning to get tax cuts for ordinary local families in Reading to help us through the recession."
+      }
+    ],
+    "mentions": {
+      "candidate": "Gareth Epps",
+      "otherPartyLeaderCandidate": "Conservatives, Tory, Labour MP, Margie Mims, Labour, Green Party",
+      "partyLeader": "",
+      "tacticalSituation": "Local people switching to back Gareth and the Lib Dems, in the knowledge Labour can't win and make sure Reading East gets the fresh start it deserves."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Gareth is campaigning to get tax cuts for ordinary local families in Reading to help us through the recession.",
+      "education": "",
+      "environment": "Gareth is committed to tackling climate change. He has forced Reading Council to be better on the environment.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Gareth will be a fresh start for Reading East. He is campaigning to protect vital local services. Local people switching to back Gareth and the Lib Dems.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Gareth has a proven record of action. He has worked hard as a local councillor and can be trusted to always stand up for local people.",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "",
+        "achievements": "He has worked hard as a local councillor and can be trusted to always stand up for local people."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A clear choice... Hard working Lib Dem Gareth Epps OR Yet another Tory MP."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

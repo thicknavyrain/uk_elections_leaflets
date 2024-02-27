@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Simon Hughes",
+	"constituency": "Rotherhithe",
+	"politicalParty": "Liberal Democrat",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Action on mental health",
+    	"content": "Give mental health the same priority as physical health. Residents in Rotherhithe are pleased that Simon Hughes is the sought mental health in parliament. New building on the campus of the great Guy's Hospital."
+  	},
+  	{
+    	"title": "New bridge & pier",
+    	"content": "Simon Hughes is fighting for new transport links to bring more jobs."
+  	},
+  	{
+    	"title": "Simon Hughes brings better broadband",
+    	"content": "Simon Hughes has been fighting for faster speeds for local homes and businesses."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Mental Health",
+    	"policyDescription": "Advocate for giving mental health the same priority as physical health."
+  	},
+  	{
+    	"policyTitle": "Transport",
+    	"policyDescription": "Campaigning for new transport links including a new bridge and cycling bridge to help create local jobs and reduce air pollution."
+  	},
+  	{
+    	"policyTitle": "Broadband",
+    	"policyDescription": "Fights for the introduction of faster broadband speeds in Rotherhithe."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Simon Hughes",
+  	"otherPartyLeaderCandidate": "Ed Miliband",
+  	"partyLeader": "",
+  	"tacticalSituation": "Labour can't win here, only Simon Hughes and the Liberal Democrats keeping out the Conservative."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "Fighting for new transport links to reduce air pollution and improve transport links.",
+  	"governance": "",
+  	"health": "Campaigning for mental health to receive the same priority as physical health.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Failed to deliver affordable and decent quality for everyday.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "FREEPOST 7670, Simon Hughes MP, 4 Market Place, London, SE16 3UQ",
+  	"phone": "020 7232 2557",
+  	"email": "",
+  	"website": "www.simonhughes.org.uk",
+  	"socialMedia": {
+    	"facebook": "/simonhughesmp",
+    	"twitter": "@SimonHughes",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Neil Shash, Consultant Surgeon, Guy’s Hospital",
+    	"endorsement": "Simon Hughes fought for our local NHS."
+  	},
+  	{
+    	"endorser": "Lorraine, Chair of Time and Talents",
+    	"endorsement": "Simon has supported us for over 30 years."
+  	}
+	],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Simon Hughes has always fought for our local NHS."
+    	},
+    	{
+      	"caption": "Simon Hughes fighting for new transport links."
+    	},
+    	{
+      	"caption": "Simon Hughes has been fighting for faster broadband speeds."
+    	}
+  	]
+	},
+	"additionalNotes": "Over 30 years of fighting for Rotherhithe. Given an £800 tax cut to local apprentices and created 6,000+ work and school places in Southwark. Battled Ed Miliband's Labour council for affordable homes in every major development."
+  }
+}
+```

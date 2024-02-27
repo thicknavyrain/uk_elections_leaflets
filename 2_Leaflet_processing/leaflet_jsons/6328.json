@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Pugh",
+    "constituency": "Southport",
+    "politicalParty": "Lib Dems",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Lib Dems will cut your tax bill",
+        "content": "Fairer taxes bid to make millionaires pay more and you pay less."
+      },
+      {
+        "title": "A BETTER WAY",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Action on United Utilities",
+        "policyDescription": "John Pugh intervenes on water bills and investment."
+      },
+      {
+        "policyTitle": "Benefit Housing Benefit Victory",
+        "policyDescription": "Protecting vulnerable people from the bedroom tax."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Pugh gets great results for local people.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Vince Cable meets the LibDemy victors.",
+      "tacticalSituation": "It's a close fight between John Pugh and the Conservative here."
+    },
+    "issues": {
+      "brexitEurope": "John, after working with Vince Cable on national issues, shares their view that Brexit will hit public services hard, whereas Britain could use the £50 billion for doctors and public services instead.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "An MP who really fights for our NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Benefit Housing Benefit Victory. Protecting vulnerable people from the bedroom tax.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Delighted - John Pugh is a great constituency MP and a good friend to Birkdale.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament",
+        "duration": "",
+        "achievements": "John Pugh gets great results for local people."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "http://www.johnpugh.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Pugh with Vince Cable."
+        }
+      ]
+    },
+    "additionalNotes": "Growing backing cup for Pugh. Wells Fargo Community Bank fights the corner for Southport."
+  }
+}
+```

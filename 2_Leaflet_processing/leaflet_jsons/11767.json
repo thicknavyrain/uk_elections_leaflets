@@ -1,0 +1,115 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Andrew Aalders-Dunthorne",
+	"constituency": "Central Suffolk and North Ipswich",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Four steps to a fairer Britain",
+    	"content": "1. Fairer taxes that put money back in your pocket. 2. A fair chance for every child. 3. A fair future: create jobs by making Britain greener. 4. A fair deal for you from the politicians."
+  	},
+	{
+		"title": "The Lib Dem difference",
+		"content": "The Liberal Democrats will take action to protect frontline NHS services. We will put more police on patrol, restore the pensions' earnings link and deliver fair pay for the armed forces. We can make this pledge because we have identified real savings to pay for it."
+	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Tax",
+    	"policyDescription": "Fairer taxes that put money back in your pocket – Pay no tax on the first £10,000 you earn – cutting most tax bills by £700."
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "A fair chance for every child – Smaller class sizes, cash for schools and abolish university tuition fees."
+  	},
+  	{
+    	"policyTitle": "Environment and Energy",
+    	"policyDescription": "A fair future: create jobs by making Britain greener – Invest in public transport, renewable energy and energy efficient homes."
+  	},
+  	{
+    	"policyTitle": "Governance",
+    	"policyDescription": "A fair deal for you from the politicians – Make politicians accountable and give you the right to sack corrupt MPs."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Andrew Aalders-Dunthorne",
+  	"otherPartyLeaderCandidate": "David Cameron",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "Smaller class sizes, cash for schools and abolish university tuition fees.",
+  	"environment": "Invest in public transport, renewable energy and energy efficient homes.",
+  	"governance": "Make politicians accountable and give you the right to sack corrupt MPs.",
+  	"health": "The Liberal Democrats will take action to protect frontline NHS services.",
+  	"immigration": "",
+  	"socialWelfare": "We will restore the pensions' earnings link and deliver fair pay for the armed forces.",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "I will put local people first. I will be there to help, listen to your concerns and stand up for what matters to you. I will make sure your voice is heard and I am strong and honest about all expenses incurred in representing you.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.csnilibdems.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+	{
+		"text": "We’ve lived through this mistake for 60 years now......The reality is it [the NHS] hasn’t worked - it has made people iller...",
+		"source": "Senior Conservative MEP Dan Hannan, Summer 2009"
+	},
+	{
+		"text": "Tory Health spokesman accepted £21,000 donation from private health firm boss",
+		"source": "Daily Mail, Jan 2010"
+	},
+	{
+		"text": "David Cameron meets NHS privatisation campaigners",
+		"source": "Daily Telegraph, Dec 2009"
+	},
+	{
+		"text": "Key Tory MPs backed call to dismantle NHS",
+		"source": "The Guardian, Summer 2009"
+	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Andrew Aalders-Dunthorne with party leader."
+    	},
+    	{
+      	"caption": "Quotes criticising the Conservative party's approach to the NHS."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet criticizes the Conservative party's approach to the NHS, using quotes from various news sources."
+  }
+}
+```

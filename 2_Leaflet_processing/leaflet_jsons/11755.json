@@ -1,0 +1,66 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Motherwell and Wishaw",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "People here in the Motherwell and Wishaw area know what the Tories did last time and that they haven't changed. Only a vote for Labour can stop the Tories getting in by the back door."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour will ensure we secure the economic recovery and build a future fair for all.",
+      "education": "",
+      "environment": "Labour's taking green jobs seriously so we can make a difference to climate change.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "They will scrap the Child Trust Fund and reduce the Child Tax Credits and they voted against record increases in Child Benefit that helps so many families in our area.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.scottishlabour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "I don't want the Tories back because... I remember how Thatcher ignored pensioners. That's why they brought in the Winter Fuel Allowance, Pension Credit and Free Bus Travel. - Jackie Chinskie, Overtown"
+        },
+        {
+          "caption": "I don't want the Tories back because... They refused to support plans to get young people back into work. Labour's taking green jobs seriously so we can make a difference to climate change. - Veronica Mallon, Bellshill"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

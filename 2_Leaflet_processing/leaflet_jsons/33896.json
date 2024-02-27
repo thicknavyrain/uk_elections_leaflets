@@ -1,0 +1,65 @@
+{
+  "leaflet": {
+    "candidateName": "Gordon Henderson",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12th December 2019.",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Vote to deliver Brexit"
+      },
+      {
+        "policyTitle": "Public Services",
+        "policyDescription": "More money for public services"
+      }
+    ],
+    "mentions": {
+      "candidate": "Gordon Henderson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Vote to deliver Brexit",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Gordon Henderson, candidate for the Conservatives, with a reminder of the polling day and calls to vote for delivering Brexit and more money for public services."
+        }
+      ]
+    },
+    "additionalNotes": "This leaflet doesn't provide detailed information on the constituency or specific contact details."
+  }
+}

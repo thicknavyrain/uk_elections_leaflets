@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gerald Kaufman",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "I want to hear from you",
+        "content": "Options for constituents to contact Gerald Kaufman or indicate support."
+      },
+      {
+        "title": "The NHS, starved by the Conservatives, Labour's top priority",
+        "content": "Labour's commitment to prioritize the NHS."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Continued work on the NHS founded by Labour and opposed by the Conservatives."
+      },
+      {
+        "policyTitle": "Jobs",
+        "policyDescription": "Fight for jobs for local people."
+      },
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "Look after our pensioners."
+      }
+    ],
+    "mentions": {
+      "candidate": "I will work on the NHS founded by Labour and opposed by the Conservatives. Fight for jobs for local people. Look after our pensioners.",
+      "otherPartyLeaderCandidate": "The NHS, starved by the Conservatives.",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The NHS, starved by the Conservatives, Labour's top priority. I will continue working on the NHS founded by Labour and opposed by the Conservatives.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Freepost, RRZE XCRK HBBK Sunlight House Quay Street, Manchester M3 3JZ",
+      "phone": "0870 013 0065",
+      "email": "gerry.kaufman@manchester.gov.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Re-Elect Gerald Kaufman Vote Labour"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet contains a form for constituents to indicate contact preferences and support."
+  }
+}
+```

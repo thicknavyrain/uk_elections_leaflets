@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Denzil Coulson",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Help the Lib Dems Win!",
+        "content": ""
+      },
+      {
+        "title": "The Lib Dem... for Britain",
+        "content": "Third column Lib Dem action on jobs... Cutting crime 10% a year with more police."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fair taxes that put money back in your pocket",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "A fair start for all our children",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "A fair future creating jobs by making Britain greener",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "A fair deal for you from politicians",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Denzil Coulson",
+      "otherPartyLeaderCandidate": "David Cameron meets NHS campaigners",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "OUR NHS AT risk with the Conservative.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I feel let down by MY MP Backed all of the dismantling NHS",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Denzil Coulson with supporters."
+        },
+        {
+          "caption": "Denzil Coulson out campaigning."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

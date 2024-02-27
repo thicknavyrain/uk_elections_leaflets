@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Slaughter, Vivienne Lukey, James Mills, Jill Rathbone",
+    "constituency": "Hammersmith & Fulham",
+    "politicalParty": "Labour",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "A better way for Hammersmith & Fulham",
+        "content": "Labour believes the people of Hammersmith and Fulham deserve decent, secure homes, a good education, public services that respond to local need and protection of our environment."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Stop the housing demolition programme and stop residents being forced to move out of the Borough. We will tackle the housing crisis and give priority to homes for residents to rent and buy."
+      },
+      {
+        "policyTitle": "Local Facilities",
+        "policyDescription": "We will cut waste rather than vital services and will protect libraries, schools and nurseries, community centres and the voluntary sector from cuts."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Cut the Conservatives' Town Hall waste, stop the £35 million new luxury town hall offices. We will cut waste and spend savings at the centre of why the Council manages its budget."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Making Hammersmith & Fulham a greener and cleaner environment. We will improve the look and feel of the Borough and will cut carbon emissions."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andy Slaughter, Vivienne Lukey, James Mills, Jill Rathbone",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Cut waste rather than vital services.",
+      "education": "Will protect libraries, schools and nurseries.",
+      "environment": "Making Hammersmith & Fulham a greener and cleaner environment.",
+      "governance": "Cut the Conservatives' Town Hall waste.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "We will fully deliver improvements to all neighbourhoods, provide neighbourhood budgets.",
+      "housing": [
+        {
+          "content": "Stop the housing demolition programme and assist residents to stay in the Borough.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Parliamentary Candidate",
+        "duration": "",
+        "achievements": "Andy Slaughter: Stopped health service closures and the privatisation of our schools."
+      }
+    ],
+    "contactInformation": {
+      "address": "28 Greyhound Road, London W6 8NX",
+      "phone": "020 7381 2048",
+      "email": "info@lbhf.gov.uk",
+      "website": "www.andy4mp.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign imagery for Labour."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet features symbols indicating support for citizenship, learning and skills, crime and safety, health, and housing."
+  }
+}
+```

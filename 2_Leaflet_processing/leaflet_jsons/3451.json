@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Howard Farmer",
+    "constituency": "Canterbury",
+    "politicalParty": "UKIP",
+    "electionDate": "17th February 2010",
+    "messages": [
+      {
+        "title": "You Are Invited To A Public Meeting",
+        "content": "Public Meeting at Bridge Village Hall, High Street Bridge, on Wednesday 17th February 2010 at 7pm."
+      },
+      {
+        "title": "Leave Our Villages Alone!",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Howard Farmer",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Leave Our Villages Alone!",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Free post Plus RRCL-LRBZ-GXJJ 115a Mortimer Herne Bay, CT6 5EX",
+      "phone": "01227 265043 or 01227 372821",
+      "email": "ukiphowardfarmer@hotmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "You Are Invited To A Public Meeting"
+        }
+      ]
+    },
+    "additionalNotes": "Asking for support in terms of displaying a board, delivering leaflets, donations, or becoming a member."
+  }
+}
+```

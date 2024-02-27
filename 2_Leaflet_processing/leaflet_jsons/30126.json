@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anita Lower, Nick Cott, Wendy Taylor",
+    "constituency": "Newcastle North, Newcastle Central, Newcastle East",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June 2017",
+    "messages": [
+      {
+        "title": "Lib Dems fight Hard Brexit",
+        "content": "Conservative plans for Hard Brexit would be disastrous for local jobs and the economy. The Liberal Democrats are opposing Government plans to pull Britain out of the Single Market, vowing to make sure workers don't pay the price of Hard Brexit."
+      },
+      {
+        "title": "Retail worries",
+        "content": "The recent fall in retail sales is a sign the 'post-Brexit honeymoon' for the UK economy is coming to an end – food and petrol prices are rising due to the massive fall in the value of the pound since the referendum, inflation is up and growth is down. Wages are not keeping up with price increases and economists believe we all be poorer this year."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit and the Single Market",
+        "policyDescription": "The Liberal Democrats are committed to opposing hard Brexit, intending to keep Britain within the Single Market to protect jobs and the economy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anita Lower, Nick Cott, Wendy Taylor believe the view of Hard Brexit would be disastrous and are committed to fighting against it alongside the Liberal Democrats.",
+      "otherPartyLeaderCandidate": "The Conservative Government is being criticised for their approach to Brexit and their plans for Hard Brexit.",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "The Liberal Democrats' stance is against Hard Brexit and they are committed to keeping Britain in the Single Market.",
+      "economy": "The Liberal Democrats express concern over rising food and petrol prices, the devaluation of the pound, inflation, and the overall impact on the UK economy following the Brexit referendum.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0800 086 8398",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Even people who voted Leave did not vote for the extreme version of Brexit being pursued by the Conservative Government.",
+        "source": "Dr Nick Cott, candidate for Newcastle Central",
+        "date": ""
+      },
+      {
+        "text": "The Conservatives seem to want to rip up everything we share with Europe rather than what is best for the country.",
+        "source": "Anita Lower, Liberal Democrat candidate for Newcastle North",
+        "date": ""
+      },
+      {
+        "text": "We campaigned to keep Britain in the EU and passionately believe our future would be best served by staying in.",
+        "source": "Dr Wendy Taylor, Liberal Democrat candidate for Newcastle East",
+        "date": ""
+      },
+      {
+        "text": "The Conservative Government seems to want to rip up everything we share with Europe rather than do what has been learned through the Labour Party is a divided shambles and is not capable of providing a coherent opposition to the government.",
+        "source": "Anita Lower",
+        "date": ""
+      },
+      {
+        "text": "Only the Liberal Democrats are united in campaigning to protect local jobs, our economy will be better off in the Single Market. That's exactly what we will keep fighting for.",
+        "source": "Liberal Democrat Information",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lib Dems fight Hard Brexit - Keep Britain in the Single Market to protect jobs"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

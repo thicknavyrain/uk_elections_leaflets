@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "UKIP",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS Funding",
+    	"policyDescription": "UKIP will ensure the NHS is free at the point of delivery and time of need for all UK residents by investing an extra £3 billion."
+  	},
+  	{
+    	"policyTitle": "PFI in NHS",
+    	"policyDescription": "Will stop further use of PFI in the NHS and encourage local authorities to buy out their PFI contracts early."
+  	},
+  	{
+    	"policyTitle": "Health Insurance for Visitors and Migrants",
+    	"policyDescription": "Will ensure that visitors and migrants have approved private health insurance as a condition of entry to the UK, saving the NHS £2bn a year."
+  	},
+  	{
+  	    "policyTitle": "GP Surgery Hours",
+    	"policyDescription": "Will ensure that GPs' surgeries are open at least one evening per week, where there is demand for it."
+  	},
+  	{
+  	    "policyTitle": "Qualifications of Foreign Health Professionals",
+    	"policyDescription": "Will ensure foreign health professionals coming to work in the NHS are properly qualified and can speak English."
+  	},
+  	{
+    	"policyTitle": "Reporting Low Standards of Care",
+    	"policyDescription": "There will be a duty on all health service staff to report low standards of care."
+  	},
+  	{
+    	"policyTitle": "State Enrolled Nurse",
+    	"policyDescription": "Will re-introduce the State Enrolled Nurse."
+  	},
+  	{
+    	"policyTitle": "Licence to Manage",
+    	"policyDescription": "Will introduce the 'licence to manage' as a statutory requirement to prevent incompetent, negligent or bullying managers being conveniently moved sideways."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "UKIP will ensure the NHS is free at the point of delivery for all UK residents by investing an extra £3 billion. We will stop further use of PFI in the NHS and encourage local authorities to buy out their PFI contracts early. We will ensure that visitors and migrants have approved private health insurance as a condition of entry to the UK, saving the NHS £2bn a year. We will ensure that GPs' surgeries are open at least one evening per week, where there is demand for it. We will ensure foreign health professionals coming to work in the NHS are properly qualified and can speak English. There will be a duty on all health service staff to report low standards of care. We will re-introduce the State Enrolled Nurse. We will introduce the 'licence to manage' as a statutory requirement to prevent incompetent, negligent or bullying managers being conveniently moved sideways.",
+  	"immigration": "We will ensure that visitors and migrants have approved private health insurance as a condition of entry to the UK.",
+  	"socialWelfare": "",
+  	"housing": []
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "STANDING UP FOR THE NHS"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

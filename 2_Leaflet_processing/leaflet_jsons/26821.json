@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "BEN LAKE",
+    "constituency": "Ceredigion",
+    "politicalParty": "Plaid Cymru",
+    "electionDate": "8 June 2017",
+    "messages": [
+      {
+        "title": "Pleidleisiwch / Vote BEN LAKE",
+        "content": "Support the only party that will defend Wales. Vote Plaid Cymru on June 8."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Defending our Economy",
+        "policyDescription": "Oppose cuts to our universities and work for a new economic plan centred on our strengths."
+      },
+      {
+        "policyTitle": "Defending our Health Service",
+        "policyDescription": "Oppose the privatisation of NHS services, support more medical training and health research in Wales."
+      },
+      {
+        "policyTitle": "Defending our Communities",
+        "policyDescription": "Demand protection for our rural schools and public services, oppose more centralisation."
+      },
+      {
+        "policyTitle": "Defending our Environment",
+        "policyDescription": "Campaign for a 'green jobs strategy' and for more powers to defend our natural environment."
+      },
+      {
+        "policyTitle": "Defending Young People",
+        "policyDescription": "Fight for a better deal for our young people and support for new Welsh medium education and childcare facilities."
+      }
+    ],
+    "mentions": {
+      "candidate": "BEN LAKE",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Oppose cuts to our universities and work for a new economic plan centred on our strengths.",
+      "education": "Fight for a better deal for our young people and support for new Welsh medium education and childcare facilities.",
+      "environment": "Campaign for a 'green jobs strategy' and for more powers to defend our natural environment.",
+      "governance": "",
+      "health": "Oppose the privatisation of NHS services, support more medical training and health research in Wales.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Demand protection for our rural schools and public services, oppose more centralisation.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07970 611492",
+      "email": "post@plaid.ceredigion.co.uk",
+      "website": "www.plaid.cymru",
+      "socialMedia": {
+        "facebook": "/BenLakeCeredigion",
+        "twitter": "@BenMLake",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "BEN LAKE with constituents"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet is bilingual, presenting messages in both Welsh and English, reflecting the constituency's linguistic diversity."
+  }
+}
+```

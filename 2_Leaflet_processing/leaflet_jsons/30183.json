@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Neil Coyle",
+	"constituency": "Bermondsey & Old Southwark",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 8 June",
+	"messages": [
+  	{
+    	"title": "Re-Elect",
+    	"content": "Neil Coyle - Labour candidate for Bermondsey & Old Southwark. Keeping his promises."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Brexit",
+    	"policyDescription": "I will always stand by our community. I will continue to oppose Brexit under any circumstances."
+  	},
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "I'll keep fighting for genuinely affordable homes. Housing is my number one priority and always will be."
+  	},
+  	{
+    	"policyTitle": "Health and Care Services",
+    	"policyDescription": "I'll stand up for health and care services. I will continue to champion free health and care services for all."
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "I'll keep opposing Tory cuts to education. I'll stay focused on giving Southwark kids the best education and opportunities."
+  	},
+  	{
+    	"policyTitle": "Policing and Defence",
+    	"policyDescription": "I'll continue to stay strong on policing and defence. Your family's safety is important to me. I will always put you and your family first."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Neil Coyle",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "I will continue to oppose Brexit under any circumstances.",
+  	"economy": "",
+  	"education": "I'll keep opposing Tory cuts to education. I'll stay focused on giving Southwark kids the best education and opportunities.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "I'll stand up for health and care services. I will continue to champion free health and care services for all.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "I'll keep fighting for genuinely affordable homes. Housing is my number one priority and always will be.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{}
+	],
+	"contactInformation": {
+  	"address": "FREPOST RSEJ-TGSJ-KBEG 264 Rosendale Road, London SE24 9DL",
+  	"phone": "07535 613 445",
+  	"email": "info@neilcoyle.org.uk",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "facebook.com/NeilCoyleMP",
+    	"twitter": "coyleneil",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{}
+	],
+	"quotes": [
+  	{}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Neil Coyle in a shirt, smiling."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

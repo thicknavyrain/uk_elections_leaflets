@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sarah Boyack",
+    "constituency": "Edinburgh Central",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 5 May",
+    "messages": [
+      {
+        "title": "Sarah Boyack",
+        "content": "I know people are worried about jobs, the economy and our future. The Tory cuts are so fast and deep they risk jobs and public services right here in Edinburgh."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Living wage of £7.15 per hour",
+        "policyDescription": "Starting in the public sector and then rolled out across Scotland, by cracking down on public sector bonuses."
+      },
+      {
+        "policyTitle": "More apprenticeships",
+        "policyDescription": "With guaranteed places for young Scots so they can learn a trade."
+      },
+      {
+        "policyTitle": "Freeze council tax for two years",
+        "policyDescription": "Will help with household bills and the rising cost of living."
+      },
+      {
+        "policyTitle": "Two week cancer guarantee",
+        "policyDescription": "If your GP suspects cancer, you'll see a specialist and get results within two weeks."
+      },
+      {
+        "policyTitle": "Climate change targets",
+        "policyDescription": "Ambitious targets, that are actually met year on year."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sarah Boyack",
+      "otherPartyLeaderCandidate": "SNP",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Tory cuts are so fast and deep they risk jobs and public services right here in Edinburgh.",
+      "education": "The SNP have cut 3000 teachers.",
+      "environment": "Climate change targets that are ambitious and actually met year on year.",
+      "governance": "",
+      "health": "Two week cancer guarantee to see a specialist and get results.",
+      "immigration": "",
+      "socialWelfare": "Living wage of £7.15 per hour, more apprenticeships, freeze council tax for two years.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am asking for your support so Labour can work hard for you once again.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Rona Brown",
+        "endorsement": "Everyone knows about her great campaigning work that helped save the Gorgie Memorial Hall."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Sarah is a great campaigner",
+        "source": "Rona Brown, Local Resident",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sarah Boyack with supporters"
+        },
+        {
+          "caption": "Sarah Boyack campaigning"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,106 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Fred Mackintosh",
+    "constituency": "Edinburgh South",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "FRED MACKINTOSH IS SET TO WIN!",
+        "content": "It's a two horse race between the Liberal Democrats and Labour in Edinburgh South. With the help of third placed Conservatives out of the race, many of their supporters are set to back Fred."
+      },
+      {
+        "title": "It's Fred or Labour here",
+        "content": "On May 6th, either we will have Fred Mackintosh as a hardworking new Lib Dem MP or we will have another Labour MP who will let us down like the last one."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Post Office Closures",
+        "policyDescription": "Fred Mackintosh has backed plans for a real PostBank in Edinburgh South's post offices."
+      },
+      {
+        "policyTitle": "Clean Up Westminster",
+        "policyDescription": "Proposed plans to clean up Parliament, Labour and Conservative divisions, proposals for the Liberal Democrats to help clean up Westminster once and for all."
+      },
+      {
+        "policyTitle": "Fair Taxes",
+        "policyDescription": "Only the Liberal Democrats are offering fairer taxes for Britain in this election. The Lib Dems plan means that no one will pay tax on the first £10,000 they earn."
+      }
+    ],
+    "mentions": {
+      "candidate": "Fred Mackintosh",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Vince Cable",
+      "tacticalSituation": "In many parts of Britain, it's a two horse race between the Liberal Democrats or a Labour Party that has failed us for too long."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Fairer tax policy.",
+      "education": "",
+      "environment": "",
+      "governance": "Clean up Westminster scandal.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Plans for a real PostBank in Edinburgh South's post offices.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Fred Mackintosh said, 'Almost everyone I meet agrees that it's time for a change to Labour. They have let us down for too long.'",
+    "politicalExperience": [
+      {
+        "role": "Local campaigner",
+        "duration": "",
+        "achievements": "Backed plans for a real PostBank in Edinburgh South's post offices."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Fred Mackintosh has a much better chance of taking Edinburgh South from Labour than the Tories do.",
+        "source": "Total Politics Magazine",
+        "date": ""
+      },
+      {
+        "text": "The Lib Dems will change this. The bankers will pay money back into the pocket of ordinary families.",
+        "source": "Vince Cable",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Fred Mackintosh is set to win!"
+        },
+        {
+          "caption": "It's Fred or Labour here."
+        },
+        {
+          "caption": "An MP who will deliver for all of South Edinburgh."
+        },
+        {
+          "caption": "Vince Cable: Britain needs fairer taxes."
+        }
+      ]
+    },
+    "additionalNotes": "With just 405 votes between the Lib Dems and Labour, every vote can make a difference. People across Scotland are angry at sleaze and scandal at Westminster."
+  }
+}
+```

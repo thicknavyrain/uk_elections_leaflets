@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Maggie Throup",
+    "constituency": "Solihull",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Change",
+        "content": "Time for Change in Solihull"
+      },
+      {
+        "title": "Labour's tax on jobs will kill the recovery",
+        "content": "The re-election of Gordon Brown's government - with more debt, more taxes - will bring us a new recession."
+      },
+      {
+        "title": "Maggie in the community",
+        "content": "Maggie Throup discusses local issues with David Cameron"
+      },
+      {
+        "title": "Backing the NHS",
+        "content": "The NHS is our one priority. We back it and we want to improve it for everyone."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Cutting waste, preventing tax rises that hinder job creation, and taking action on national debt to reduce the deficit and keep mortgage payments lower than under Labour."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Maggie is committed to the NHS, leading campaigns to save local maternity services as well as protecting other frontline hospital services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Maggie Throup",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The re-election of Gordon Brown's government - with more debt, waste and taxes - will bring us a new recession.",
+      "education": "",
+      "environment": "Maggie supports efforts to recycle more and cut waste, to reduce red tape and help create really green jobs.",
+      "governance": "",
+      "health": "The NHS is our one priority. We back it and we want to improve it for everyone.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Cutting waste to keep mortgage payments lower than under Labour.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Maggie Throup discussing issues with local citizens."
+        },
+        {
+          "caption": "Maggie Throup supporting community initiatives."
+        },
+        {
+          "caption": "Maggie Throup with David Cameron."
+        },
+        {
+          "caption": "Maggie Throup's commitment to protecting local NHS services."
+        }
+      ]
+    },
+    "additionalNotes": "SOLIHULL MATTERS TO MAGGIE"
+  }
+}
+```

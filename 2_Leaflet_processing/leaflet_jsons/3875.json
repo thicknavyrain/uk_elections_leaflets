@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Pension and Benefits",
+        "policyDescription": "Re-link the state pension to earnings and protect winter fuel payments and free bus passes."
+      },
+      {
+        "policyTitle": "Inheritance Tax",
+        "policyDescription": "Take the vast majority of family homes out of Inheritance Tax."
+      },
+      {
+        "policyTitle": "Budget and Debt",
+        "policyDescription": "Budget within 50 days to take action on the debt and help keep mortgage rates lower for longer."
+      },
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "Freeze Council Tax for two years."
+      },
+      {
+        "policyTitle": "Tax on Jobs",
+        "policyDescription": "Abolish taxes on the first 10 jobs created by new firms."
+      },
+      {
+        "policyTitle": "Parliamentary Expenses",
+        "policyDescription": "5% pay cut for Ministers; 10% cut in the number of MPs."
+      },
+      {
+        "policyTitle": "Stamp Duty",
+        "policyDescription": "No Stamp Duty for first-time buyers up to £250k."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0845 833 4020",
+      "email": "",
+      "website": "www.conservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": []
+    },
+    "additionalNotes": "If you would like to make a donation to help the Conservatives fight the strongest possible campaign, please call 0845 833 4020 or go to www.conservatives.com"
+  }
+}
+```

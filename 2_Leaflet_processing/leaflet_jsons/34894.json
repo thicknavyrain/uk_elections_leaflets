@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Janet Mary Band",
+    "constituency": "Maldon constituency",
+    "politicalParty": "Green Party",
+    "electionDate": "12 December",
+    "messages": [
+      {
+        "title": "A Green New Deal",
+        "content": "Our practical plan for tackling the climate emergency."
+      },
+      {
+        "title": "Brexit",
+        "content": "The EU has been a significant driver of peace since its formation. I would support a People's Vote on a deal with the EU, which maintains environmental standards, workers' rights, strict animal welfare measures, protection for the NHS, and The Good Friday Peace Agreement."
+      },
+      {
+        "title": "Janet says",
+        "content": "I'm acutely aware of the seriousness of the climate emergency and the detrimental effects of our current economic system. I believe we should be custodians of the planet, not plunderers of nature. I hope I can count on the support of local residents in the forthcoming general election. Vote for a better tomorrow X"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Climate Emergency",
+        "policyDescription": "We are at the beginning of a mass extinction, with our planet ailing, yet our politicians continue to ignore the catastrophic climate change in favour of economic growth. I support the Global Green New Deal and greater investment in renewable energy, environmentally friendly transportation and the cultivation of woodland and green spaces. These problems need to be addressed as a matter of urgency."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Truly affordable and social housing is high on my list of priorities as well as a focus on use of existing properties via empty homes. I support transparency in new developments and allocation of accommodation, especially to the disadvantaged."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Environmentally conscious means of transport is the future. I would support reduced use of electric buses in the area to increase toxic emissions and encourage investment in charging infrastructure."
+      }
+    ],
+    "mentions": {
+      "candidate": "Janet Mary Band",
+      "otherPartyLeaderCandidate": "Caroline Lucas",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "The EU has been a significant driver of peace since its formation. I would support a People's Vote on a deal with the EU.",
+      "economy": "",
+      "education": "",
+      "environment": "We are at the beginning of a mass extinction, with our planet ailing, yet our politicians continue to ignore the catastrophic climate change in favour of economic growth.",
+      "governance": "",
+      "health": "The Good Friday Peace Agreement.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Truly affordable and social housing is high on my list of priorities as well as a focus on use of existing properties via empty homes.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm acutely aware of the seriousness of the climate emergency and the detrimental effects of our current economic system.",
+    "politicalExperience": [
+      {
+        "role": "Professor of international economic development law, Maldon District councillor",
+        "duration": "",
+        "achievements": "Advised the Government on trade and industry."
+      }
+    ],
+    "contactInformation": {
+      "address": "163 Honeysuckle Way, Witham, Essex",
+      "phone": "",
+      "email": "gpmaldonposters@mail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://m.facebook.com/MaldonDistrictGreenParty/",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaigning images of Janet Mary Band and Green Party leaflets."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

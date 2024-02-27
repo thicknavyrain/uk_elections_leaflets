@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tim Farron",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "It doesn't have to be like this.",
+        "content": "I don't accept that Britain is doomed to the most extreme version of Brexit backed by Theresa May. I won't let the Conservatives take our NHS towards more cuts and privatisation. Not without a fight."
+      },
+      {
+        "title": "There's so much at stake in this election and it's in your hands.",
+        "content": "I'm talking about your job. I'm talking about the future of our NHS and schools here in Manchester, Withington. I'm talking about our right to live, work and travel across Europe."
+      },
+      {
+        "title": "It's your choice, it's your future – help change it by voting Liberal Democrat on 8th June.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Fight to stop Theresa May's extreme Brexit wrecking our country's future."
+      },
+      {
+        "policyTitle": "NHS and schools",
+        "policyDescription": "Protect NHS and schools from more cuts and privatisation."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tim Farron",
+      "otherPartyLeaderCandidate": "Theresa May, Jeremy Corbyn",
+      "partyLeader": "Tim Farron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Fight to stop Theresa May's extreme Brexit wrecking our country's future.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protect NHS from more cuts and privatisation.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "This election is about voting for what you believe in.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tim Farron - Leader of the Liberal Democrats"
+        }
+      ]
+    },
+    "additionalNotes": "PS – Join the millions like you and use your postal vote to stop Theresa May's extreme Brexit wrecking our country's future. Vote for the Liberal Democrats."
+  }
+}
+```

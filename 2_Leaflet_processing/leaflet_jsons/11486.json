@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Angie Bray",
+	"constituency": "Ealing Central and Acton",
+	"politicalParty": "Conservative",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "IT'S TIME FOR CHANGE",
+    	"content": "WE CAN'T GO ON LIKE THIS. The damage Gordon Brown's Labour government has done to our economy and society is too great for us to continue on the same path."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Cut the deficit, reduce national debt, and restore economic growth."
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "End illiteracy and improve standards."
+  	},
+  	{
+    	"policyTitle": "Health",
+    	"policyDescription": "Uphold the NHS and reduce MRSA."
+  	},
+  	{
+    	"policyTitle": "Social Welfare",
+    	"policyDescription": "Support families and fight poverty."
+  	},
+  	{
+    	"policyTitle": "Immigration",
+    	"policyDescription": "Control immigration with a cap on numbers."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Angie Bray",
+  	"otherPartyLeaderCandidate": "Gordon Brown",
+  	"partyLeader": "David Cameron",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Cut the deficit and debt, pave the way for economic growth.",
+  	"education": "End illiteracy, give schools the freedom to improve standards.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Increase spending every year, no 'frontline cuts'.",
+  	"immigration": "Place a cap on the numbers allowed to settle.",
+  	"socialWelfare": "Support families and fight poverty.",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Angie is a hard worker...",
+    	"source": "Resident's endorsement",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Angie Bray with David Cameron."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

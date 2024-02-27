@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Richard Baker",
+	"constituency": "Aberdeen North",
+	"politicalParty": "Scottish Labour",
+	"electionDate": "Thursday 7 May",
+	"messages": [
+  	{
+    	"title": "Frank Doran Backs Richard Baker",
+    	"content": "Frank shares his best wishes to Richard for a successful campaign."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Fairer and stronger economy",
+    	"policyDescription": "Richard pledges to deliver a powerhouse Scottish parliament."
+  	},
+    {
+    	"policyTitle": "Investment in NHS",
+    	"policyDescription": "Commitment to NHS funding and integration of health and social care."
+  	},
+    {
+    	"policyTitle": "Revitalising local services",
+    	"policyDescription": "Focus on revitalising local high street and small businesses."
+  	},
+    {
+    	"policyTitle": "Affordable homes",
+    	"policyDescription": "Plans to ensure young people in the area can afford homes."
+  	},
+    {
+    	"policyTitle": "Energy",
+    	"policyDescription": "Commitment to local jobs in renewable and traditional energy sectors."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Richard Baker",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Richard pledges to deliver a powerhouse Scottish parliament.",
+  	"education": "",
+  	"environment": "Commitment to local jobs in renewable and traditional energy sectors.",
+  	"governance": "",
+  	"health": "Commitment to NHS funding and integration of health and social care.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Plans to ensure young people in the area can afford homes.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "Aberdeen Labour Party, 78 Rosemount Place, Aberdeen, AB25 2XN",
+  	"phone": "01224 625 622",
+  	"email": "votebaker2015@gmail.com",
+  	"website": "www.votebaker2015.com",
+  	"socialMedia": {
+    	"facebook": "/AberdeenLabourParty",
+    	"twitter": "@votebaker2015",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Frank Doran",
+    	"endorsement": "Shares his best wishes to Richard for a successful campaign."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Richard campaigning for better local services and facilities."
+    	},
+    	{
+      	"caption": "Richard with supporters Frank Doran and Jenny Laing."
+    	},
+    	{
+      	"caption": "Richard's campaign engagement with young voters."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

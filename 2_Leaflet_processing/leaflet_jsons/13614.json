@@ -1,0 +1,108 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Daisy Cooper",
+    "constituency": "Suffolk Coastal",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "My pledge to you",
+        "content": "I was born and raised here on the Suffolk coast."
+      },
+      {
+        "title": "Getting the economy right",
+        "content": "You only need to look down Hamilton Road in Felixstowe or Woodbridge Road..."
+      },
+      {
+        "title": "Cleaning up politics",
+        "content": "Politicians should serve at a national level for no longer than two terms..."
+      },
+      {
+        "title": "Four steps to a fairer Britain",
+        "content": "Fairer taxes to put money back in your pocket for you to keep the first £10,000 you earn..."
+      },
+      {
+        "title": "A better education - for all our futures",
+        "content": "Thanks to Labour and Tory government cuts, local schools..."
+      },
+      {
+        "title": "Health matters",
+        "content": "Suffolk's health service seems to lurch from one crisis to another..."
+      },
+      {
+        "title": "Not costing the earth",
+        "content": "Nothing matters more than looking after our planet for future generations..."
+      },
+      {
+        "title": "Fairness for older people",
+        "content": "People should not have to sell their homes to pay for care..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer taxes",
+        "policyDescription": "Introduce Tax Cuts for Millions, ensuring no income tax on first £10,000"
+      },
+      {
+        "policyTitle": "Clean start for schools",
+        "policyDescription": "Invest extra £2.5bn in schools, paid for from savings by cutting trident"
+      },
+      {
+        "policyTitle": "Green jobs and transport",
+        "policyDescription": "Create jobs by making Britain greener; invest in public transport, renewable energy and energy efficient homes"
+      },
+      {
+        "policyTitle": "Politics for people",
+        "policyDescription": "Give NHS staff a say in decisions and local people more power over the police and local services"
+      }
+    ],
+    "mentions": {
+      "candidate": "Daisy Cooper",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Getting the economy right section discusses economic issues and local impacts.",
+      "education": "A better education - for all our futures section covers education policy and school funding.",
+      "environment": "Not costing the earth section talks about environmental concerns and green technology.",
+      "governance": "Cleaning up politics section discusses term limits for politicians.",
+      "health": "Health matters section addresses the state of health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Fairness for older people section addresses the issue of selling homes to pay for care.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "My pledge to you section includes Daisy Cooper's personal statement and background.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "FREEPOST NAS 1434, Woodbridge IP12 4AB",
+      "phone": "",
+      "email": "",
+      "website": "www.daisycooper.co.uk",
+      "socialMedia": {
+        "facebook": "DaisyCooper4MP",
+        "twitter": "@Daisy4Suffolk",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Daisy Cooper campaigning and interacting with constituents."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet uses personal engagement and local knowledge to appeal to constituents."
+  }
+}
+```

@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "STRONG LEADERSHIP. A CLEAR ECONOMIC PLAN.",
+        "content": "A BRIGHTER, MORE SECURE FUTURE FOR YOU AND YOUR FAMILY."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Income Tax",
+        "policyDescription": "Cut income tax"
+      },
+      {
+        "policyTitle": "Deficit",
+        "policyDescription": "Get the deficit down"
+      },
+      {
+        "policyTitle": "Jobs",
+        "policyDescription": "Help businesses create 2m more jobs"
+      },
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "Deliver 30 hours free childcare for working parents of 3- and 4-year olds"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build 200,000 Starter Homes and extend the Right to Buy"
+      },
+      {
+        "policyTitle": "Benefits",
+        "policyDescription": "Lower the benefit cap and reward work"
+      },
+      {
+        "policyTitle": "State Pension",
+        "policyDescription": "Increase the State Pension"
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Protect and improve the NHS"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "",
+      "tacticalSituation": "propped up by the SNP"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "To keep the economy strong",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protect and improve the NHS",
+      "immigration": "",
+      "socialWelfare": "Lower the benefit cap and reward work",
+      "housing": [
+        {
+          "content": "Build 200,000 Starter Homes and extend the Right to Buy",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "The next Conservative Government will: [1. Cut income tax 2. Get the deficit down 3. Help businesses create 2m more jobs 4. Deliver 30 hours free childcare for working parents of 3- and 4-year olds 5. Build 200,000 Starter Homes and extend the Right to Buy 6. Lower the benefit cap and reward work 7. Increase the State Pension 8. Protect and improve the NHS]"
+        }
+      ]
+    },
+    "additionalNotes": "Don't let Ed Miliband, propped up by the SNP, put all this at risk. Vote Conservative today."
+  }
+}
+```

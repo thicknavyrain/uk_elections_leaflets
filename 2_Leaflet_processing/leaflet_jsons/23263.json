@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jennifer Denadel",
+    "constituency": "Westminster North",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "VOTE FOR WHAT YOU BELIEVE IN",
+        "content": "Imagine a political system that puts the public first. Imagine an economy that gives everyone their fair share. Imagine a society capable of supporting everyone's needs. Imagine a system that protects our planet. That’s the future the Green Party is working towards, and we have the policies to do it. Policies to tackle the climate emergency, end inequality and ensure we all have decent lives."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "#PublicNHS",
+        "policyDescription": "We will fight for a publicly funded, publicly provided health service free at the point of use."
+      },
+      {
+        "policyTitle": "#FairEconomy",
+        "policyDescription": "End crippling household debt by introducing a wealth tax on the top 1%, a Robin Hood tax and a minimum wage of £10 per hour."
+      },
+      {
+        "policyTitle": "#DecentHomes",
+        "policyDescription": "We will build 500,000 social rented homes by 2020 and bring empty homes back into use."
+      },
+      {
+        "policyTitle": "#SafeClimate",
+        "policyDescription": "Take serious action on climate change by replacing our high-carbon economy with a green economy."
+      },
+      {
+        "policyTitle": "#FreeEducation",
+        "policyDescription": "Scrap tuition fees. Funding higher education through general taxation and restoring the Education Maintenance Allowance."
+      },
+      {
+        "policyTitle": "#BetterTransport",
+        "policyDescription": "Return the railways to public hands to stop profits being put before passengers."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jennifer Denadel",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "End crippling household debt by introducing a wealth tax on the top 1%, a Robin Hood tax and a minimum wage of £10 per hour.",
+      "education": "Scrap tuition fees. Funding higher education through general taxation and restoring the Education Maintenance Allowance.",
+      "environment": "Take serious action on climate change by replacing our high-carbon economy with a green economy.",
+      "governance": "",
+      "health": "We will fight for a publicly funded, publicly provided health service free at the point of use.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We will build 500,000 social rented homes by 2020 and bring empty homes back into use.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Caroline Lucas",
+        "endorsement": "MP of the year 2014"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

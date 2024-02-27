@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Iain McGill",
+    "constituency": "Edinburgh North and Leith",
+    "politicalParty": "Scottish Conservative and Unionist",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A strong voice for Edinburgh North and Leith",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Ensuring Britain stands even taller in the world",
+        "policyDescription": "Aiming for a stronger country and a prouder nation."
+      },
+      {
+        "policyTitle": "Making sure people who work hard and do the right thing can get on in life",
+        "policyDescription": "Promises access to quality services and a decent quality of life."
+      },
+      {
+        "policyTitle": "Ensuring hardworking families have the reward of a meaningful living",
+        "policyDescription": "Aims to ensure taxes are low and debts are being paid off."
+      }
+    ],
+    "mentions": {
+      "candidate": "Iain McGill",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Aims to ensure taxes are low and debts are being paid off.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.edinburghconservatives.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Iain McGill with various individuals in campaign-related activities."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

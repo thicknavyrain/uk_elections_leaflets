@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Martin Docherty",
+	"constituency": "West Dunbartonshire",
+	"politicalParty": "SNP",
+	"electionDate": "May 7th",
+	"messages": [
+  	{
+    	"title": "Candidate’s Personal Message",
+    	"content": "West Dunbartonshire badly needs an MP who will NOT vote with the Tories, Labour on... Trident renewal and on cutting Scotland’s budget. If elected on May 7th I will work tirelessly..."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "",
+    	"policyDescription": ""
+  	}
+	],
+	"mentions": {
+  	"candidate": "Martin Docherty",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "boost growth and jobs",
+  	"education": "free education at all levels",
+  	"environment": "",
+  	"governance": "We will never put the Tories into power.",
+  	"health": "continued to protect the NHS in Scotland and to provide free prescriptions",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Having worked across this community for many years, I am well aware of the daily challenges faced by many...",
+	"politicalExperience": [
+  	{
+    	"role": "Scotland’s youngest councillor to the then Clydebank District Council at the age of 21.",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "martindochertysnp@gmail.com",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "facebook.com/DochertySNPWestDun",
+    	"twitter": "@MartinJDocherty",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "A portrait of Martin Docherty."
+    	}
+  	]
+	},
+	"additionalNotes": "Martin was raised in Clydebank and joined the SNP in 1991. In 1992 he was elected as Scotland’s youngest councillor to the then Clydebank District Council at the age of 21."
+  }
+}
+```

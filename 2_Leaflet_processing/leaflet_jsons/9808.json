@@ -1,0 +1,106 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Jones",
+    "constituency": "Dagenham",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "For You...",
+        "content": "We will: Protect weekly rubbish collections while encouraging families to recycle more of their waste. Respect our elders through continuing to improve social care for older and disabled residents, and provide activities and support for our senior citizens. Inspire young people, improve our schools and the environment so that our young can learn new skills and be equipped for work. Create more relevant activities for our young people to teach them new skills and encourage respect for their neighbours."
+      },
+      {
+        "title": "For Your Area...",
+        "content": "We will: Demand improvement to our town centres by continuing street cleaning, improve to CCTV to  Dagenham to supporting our local shops and businesses and helping bring new jobs to Barking and Dagenham. Improve our pavements and roads. Promote the Thames Gateway so we get the housing this community needs. Review and change - traffic lights, speed cameras, road humps, to improve traffic flow. Create a safer environment for all through well-maintained streets."
+      },
+      {
+        "title": "For Your Money...",
+        "content": "We will: Improve transparency at the Town Hall by demanding all councilor expenses are published online, explaining decisions and listening to residents. Improve customer service at the Council, making sure that we deal with your issues more quickly. Deliver real value for money by protecting key services and improve performance standards. Deliver stable and low council tax by taking tough decisions to put people of this borough first."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Rubbish Collection & Recycling",
+        "policyDescription": "Protect weekly rubbish collections while encouraging families to recycle more of their waste."
+      },
+      {
+        "policyTitle": "Social Care for Elderly",
+        "policyDescription": "Improve social care for older and disabled residents, and provide activities and support for senior citizens."
+      },
+      {
+        "policyTitle": "Youth Empowerment & Education",
+        "policyDescription": "Inspire young people, improve our schools and the environment so that the young can learn new skills and be equipped for work."
+      },
+      {
+        "policyTitle": "Town Centre Improvement",
+        "policyDescription": "Demand improvement to our town centres by continuing street cleaning, installing more CCTV and supporting local businesses."
+      },
+      {
+        "policyTitle": "Traffic Management",
+        "policyDescription": "Review and change traffic lights, speed cameras, and road humps to improve traffic flow."
+      },
+      {
+        "policyTitle": "Council Transparency & Service",
+        "policyDescription": "Improve transparency at the Town Hall and customer service, ensuring quick resolutions to resident issues."
+      },
+      {
+        "policyTitle": "Financial Responsibility",
+        "policyDescription": "Provide real value for money by protecting key services and stable, low council tax with tough decisions for the community."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Jones",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "2008: Labour led NHS London want to shut King George's Hospital A&E. Simon's stance stops the plans.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Promote the Thames Gateway so we get the housing this community needs.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Activist and Campaigner",
+        "duration": "",
+        "achievements": "Fighting to improve council housing, working to improve standards and schools, campaigning to keep our area clean and safe."
+      }
+    ],
+    "contactInformation": {
+      "address": "Dagenham and Rainham Conservatives, 12 Salisbury Road, Dagenham RM10 8TT",
+      "phone": "0208 593 2066",
+      "email": "office@dagenhamandrainham.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Simon Jones with local residents and staff."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

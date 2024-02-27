@@ -1,0 +1,65 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Helen Grant",
+	"constituency": "Maidstone",
+	"politicalParty": "Conservatives",
+	"electionDate": "7 May",
+	"messages": [
+  	{
+    	"title": "Local People Back Helen Grant – And Condemn Lib Dem Dirty Tricks Campaign",
+    	"content": "People across the Maidstone constituency are more determined than ever to re-elect local champion Helen Grant on 7 May after seeing the increasingly desperate and negative Lib Dem campaign against her."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Helen Grant has been our Member of Parliament since 2010 – during which time she's helped thousands of local people.",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Our MP Helen Grant responded immediately to our approaches regarding development in Cripple Street and Postley Road. She is totally supportive and stands with us",
+      	"yimbyNimby": "NIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {},
+	"endorsements": [
+  	{
+    	"endorser": "Jeremy and Usha Kerwan of Scotney Gardens",
+    	"endorsement": "Helen's hard work and dedication you devote to our Maidstone constituency is really valued by us"
+  	},
+	{
+    	"endorser": "Katie Babicz of Benenden",
+    	"endorsement": "Helen responded immediately to our request for help in fundraising for the new school. She is a fantastic local MP who gives her all for the community."
+  	},
+	{
+    	"endorser": "Peter Newman of North Loose",
+    	"endorsement": "Helen Grant responded immediately to our approaches regarding development in Cripple Street and Postley Road. She is totally supportive and stands with us."
+  	}
+	],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Peter Newman of North Loose."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

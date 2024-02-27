@@ -1,0 +1,106 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "WHY WE NEED CHANGE IN BRITAIN TODAY",
+        "content": "We can't go on like this. A Conservative Government will act now to rebuild our broken economy, to mend our broken society and to fix our broken politics."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "OUR NATIONAL DEBT IS THE BIGGEST THREAT TO OUR RECOVERY",
+        "policyDescription": "A Conservative government will work to protect the public's spending while tackling the country's debt."
+      },
+      {
+        "policyTitle": "THE NHS IS OUR NUMBER ONE PRIORITY",
+        "policyDescription": "Improve the NHS by controlling over the bureaucracy and red tape, thereby improving the treatment and halting things that prevent nurses and doctors from doing their jobs."
+      },
+      {
+        "policyTitle": "WE WANT TO MAKE BRITAIN MORE FAMILY-FRIENDLY",
+        "policyDescription": "Supporting families by recognizing the role of parents in the tax system, improving schools by employing more health visitors to help families cope."
+      },
+      {
+        "policyTitle": "OUR POLITICAL SYSTEM IS BROKEN",
+        "policyDescription": "Aim to fix the political system by cutting down the costs of politics, reducing the perks and subsidies of Westminster as well as the number of MPs, and giving power and influence back to the people."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A Conservative Government will act now to rebuild our broken economy, to mend our broken society and to fix our broken politics.",
+      "education": "Improving schools by employing more health visitors to help families cope.",
+      "environment": "",
+      "governance": "A Conservative Government will act now to rebuild our broken economy, to mend our broken society and to fix our broken politics.",
+      "health": "Improve the NHS by controlling over the bureaucracy and red tape, thereby improving the treatment and halting things that prevent nurses and doctors from doing their jobs.",
+      "immigration": "",
+      "socialWelfare": "Supporting families by recognizing the role of parents in the tax system, improving schools by employing more health visitors to help families cope.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "OUR NATIONAL DEBT IS THE BIGGEST THREAT TO OUR RECOVERY"
+        },
+        {
+          "caption": "THE NHS IS OUR NUMBER ONE PRIORITY"
+        },
+        {
+          "caption": "WE WANT TO MAKE BRITAIN MORE FAMILY-FRIENDLY"
+        },
+        {
+          "caption": "OUR POLITICAL SYSTEM IS BROKEN"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

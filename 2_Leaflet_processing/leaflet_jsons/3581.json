@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Leech",
+    "constituency": "South Manchester",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Lib Dem Pupil Premium means more cash for local schools. An extra £2.5 billion for schools, focusing on disadvantaged children without taking on extra debt or cutting spending elsewhere."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Leech",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "",
+      "tacticalSituation": "Only the Lib Dems can beat Labour here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The Lib Dems have pledged an extra £2.5 Billion for schools. The 'Pupil Premium' will target extra help to children from poorer families.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": "Fighting against shocking police underfunding."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour's unfair Police Funding Formula has denied Manchester of £82 million.",
+        "source": "John Leech",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lib Dem Pupil Premium means more cash for local schools."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

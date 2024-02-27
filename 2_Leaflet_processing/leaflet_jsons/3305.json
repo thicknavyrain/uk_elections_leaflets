@@ -1,0 +1,70 @@
+```json
+{
+	"leaflet": {
+		"candidateName": "Nick de Bois",
+		"constituency": "Enfield North",
+		"politicalParty": "Conservatives",
+		"electionDate": "Spring 2010",
+		"messages": [{
+			"title": "It’s time we had some real honesty about Chase Farm",
+			"content": "Prospective MP for Enfield North Nick de Bois has made it clear what the Conservatives would do about Chase Farm Hospital if they win the general election. They will impose a moratorium on all cuts to Chase Farm."
+		}],
+		"keyPolicies": [{
+			"policyTitle": "Chase Farm Hospital",
+			"policyDescription": "Impose a moratorium on all cuts to Chase Farm Hospital and oppose its downgrading."
+		}, {
+			"policyTitle": "Council Tax",
+			"policyDescription": "Conservatives freeze council tax in Enfield for 2010. The movemnent towards low tax area with good services."
+		}],
+		"mentions": {
+			"candidate": "Nick de Bois",
+			"otherPartyLeaderCandidate": "Labour",
+			"partyLeader": "David Cameron, Boris Johnson",
+			"tacticalSituation": "Labour has elected to downgrade Chase Farm by 2013, replacing the hospital’s full-fledged Accident & Emergency unit with an 'urgent care centre'. Blythe House additions will no longer go to Chase Farm, and maternity services will also be cut. If Labour win the election, the downgrading of Chase Farm will go ahead."
+		},
+		"issues": {
+			"brexitEurope": "",
+			"economy": "",
+			"education": "",
+			"environment": "",
+			"governance": "Conservative-run Enfield council has frozen council tax for 2010. Being judged by the Audit Commission as having the 3rd-cleanest streets in London. Investing £10 million a year in roads and pavements and £24 million in street lighting, this year without piling on debt on you. Lowering the amount you pay your council by an average of 6% a year.",
+			"health": "Labour has decided to downgrade Chase Farm Hospital. Conservatives will impose a moratorium on all cuts to Chase Farm.",
+			"immigration": "",
+			"socialWelfare": "",
+			"housing": [{
+				"content": "",
+				"yimbyNimby": "N/A"
+			}]
+		},
+		"personalStatement": "",
+		"politicalExperience": [],
+		"contactInformation": {
+			"address": "",
+			"phone": "020 8363 0659",
+			"email": "office@enfieldnorth.org",
+			"website": "",
+			"socialMedia": {
+				"facebook": "",
+				"twitter": "",
+				"instagram": "",
+				"linkedin": ""
+			}
+		},
+		"endorsements": [{
+			"endorser": "David Cameron, Boris Johnson",
+			"endorsement": "Nick has led the Hands Off Our Hospital campaign since 2004, enlisting the support of Enfield Southgate MP David Burrowes, Conservative leader David Cameron and London Mayor Boris Johnson."
+		}],
+		"quotes": [],
+		"campaignMaterial": {
+			"images": [{
+					"caption": "Prospective MP for Enfield North Nick de Bois campaigning to stop the cuts to Chase Farm Hospital."
+				},
+				{
+					"caption": "Chase Farm Hospital Site"
+				}
+			]
+		},
+		"additionalNotes": "There will be elections to Enfield council on 6 May. Cllr. Don Delman, Cllr. Jon Kaye and Cllr. Anne-Marie Pearce are your three candidates in Highlands."
+	}
+}
+```

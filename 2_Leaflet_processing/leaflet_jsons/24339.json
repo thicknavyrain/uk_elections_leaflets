@@ -1,0 +1,125 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Marion Fellows",
+    "constituency": "Motherwell & Wishaw",
+    "politicalParty": "SNP",
+    "electionDate": "Spring 2015",
+    "messages": [
+      {
+        "title": "A LOCAL CHAMPION",
+        "content": "Marion Fellows says she'll take things forward and stand up for local people."
+      },
+      {
+        "title": "AN INDEPENDENT WOMAN",
+        "content": "Campaigning Marion: Listening to local concerns."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "End to austerity politics",
+        "policyDescription": "Deliver for Motherwell & Wishaw by ending austerity politics."
+      },
+      {
+        "policyTitle": "Protect local NHS services",
+        "policyDescription": "Protect local NHS services as a priority."
+      },
+      {
+        "policyTitle": "Revitalise our town centres",
+        "policyDescription": "Focusing on revitalising town centers."
+      },
+      {
+        "policyTitle": "No Trident on the Clyde",
+        "policyDescription": "Opposing Trident on the Clyde."
+      },
+      {
+        "policyTitle": "No more unfair sanctions on benefit claimants",
+        "policyDescription": "End unfair sanctions on benefit claimants."
+      }
+    ],
+    "mentions": {
+      "candidate": "Marion Fellows",
+      "otherPartyLeaderCandidate": "John McTernan",
+      "partyLeader": "Nicola Sturgeon",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The leaflet highlights protecting local NHS services as a priority.",
+      "immigration": "",
+      "socialWelfare": "Ending unfair sanctions on benefit claimants is included in the leaflet.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Westminster austerity has failed - we need an alternative that promises growth and fairness.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.snp.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "FollowTheSNP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Nicola Sturgeon",
+        "endorsement": "Nicola backs Marion!"
+      },
+      {
+        "endorser": "Kashif Arshad",
+        "endorsement": "From Labour to SNP."
+      },
+      {
+        "endorser": "Rose Maven",
+        "endorsement": "Labour left me."
+      },
+      {
+        "endorser": "Paul Jordan",
+        "endorsement": "Frank's Forgotten."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour is committed to £20 billion of cuts if elected. The NHS needs the savings that privatisation creates.",
+        "source": "John McTernan, Former Labour Leader of Scottish Labour",
+        "date": "Spring 2015"
+      },
+      {
+        "text": "Marion will be a strong voice for this area.",
+        "source": "Local Voter",
+        "date": "Spring 2015"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Marion engaging with local residents."
+        },
+        {
+          "caption": "Vote for a Local Champion."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes comments on the rise of the SNP and endorsements from former Labour voters."
+  }
+}
+```

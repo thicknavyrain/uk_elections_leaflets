@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Joanna Cherry QC",
+    "constituency": "Edinburgh South West",
+    "politicalParty": "SNP",
+    "electionDate": "7 May",
+    "messages": [
+      {
+        "title": "Introducing Joanna Cherry QC",
+        "content": "Your SNP candidate for Edinburgh South West"
+      },
+      {
+        "title": "Stronger for Scotland",
+        "content": "Joanna's key Westminster campaign commitments"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "More powers for Scotland",
+        "policyDescription": "Joanna will fight to have more powers for Scotland."
+      },
+      {
+        "policyTitle": "End austerity",
+        "policyDescription": "She promises to work on ending austerity."
+      },
+      {
+        "policyTitle": "Promote equality and fairness",
+        "policyDescription": "She aims to promote equality and fairness in public services."
+      },
+      {
+        "policyTitle": "Invest £100 billion",
+        "policyDescription": "Her goal is to invest £100 billion in public services."
+      },
+      {
+        "policyTitle": "Renewal on Trident",
+        "policyDescription": "She supports the moratorium on Trident renewal."
+      }
+    ],
+    "mentions": {
+      "candidate": "Joanna Cherry QC",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Invest £100 billion in public services.",
+      "education": "",
+      "environment": "",
+      "governance": "More powers for Scotland. A stronger voice for Edinburgh West in Westminster.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "End austerity. Promote equality and fairness in public services.",
+      "housing": []
+    },
+    "personalStatement": "'I've been representing people and making a difference in Edinburgh for over 20 years.'",
+    "politicalExperience": [
+      {
+        "role": "Scottish Government legal adviser",
+        "duration": "Began around 2009",
+        "achievements": "Joanna has been standing up for their rights in practice as an advocate."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Introducing Joanna Cherry QC, your SNP candidate for Edinburgh South West."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

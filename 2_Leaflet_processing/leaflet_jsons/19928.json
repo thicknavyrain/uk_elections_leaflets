@@ -1,0 +1,73 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jack Tinley",
+    "constituency": "South Hackney and Shoreditch",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A Strong Voice for Hackney",
+        "content": "Jack Tinley is hard working, and will stand up for South Hackney and Shoreditch."
+      },
+      {
+        "title": "Coalition of Chaos",
+        "content": "Voting for any other party than the Conservatives will lead to a coalition propped up by the Liberal Democrats and their friends in the minor parties."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Jack Tinley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Voting for any other party than the Conservatives will lead to a coalition propped up by the Liberal Democrats and their friends in the minor parties."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Jack will continue the Conservatives' work on fixing the economy.",
+      "education": "Jack Tinley will fight to ensure children have the best start in life.",
+      "environment": "",
+      "governance": "",
+      "health": "He will work to make Health and Social Care even better in the constituency.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Jack Tinley will work to improve housing standards.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Campaigner",
+        "duration": "",
+        "achievements": "Jack has a track record as a town hall campaigner and has fought for residents on many of their concerns."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.jacktinley.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jack Tinley standing in front of a residential area."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet argues that Jack Tinley is a hard working local campaigner who will fight for South Hackney and Shoreditch at a national level."
+  }
+}
+```

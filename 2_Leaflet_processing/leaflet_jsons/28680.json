@@ -1,0 +1,111 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Kealey MBE",
+    "constituency": "Bosworth",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "A track record of delivery",
+        "content": "Chris doesn’t just talk about making things better – he gets things done ... Bosworth needs an MP who will deliver for you and your family."
+      },
+      {
+        "title": "No nonsense - the man for the job",
+        "content": "Forget the politics - it’s a job interview. The main priority for Bosworth’s next MP must be the day to day job ... You can see he’s a safe pair of hands."
+      },
+      {
+        "title": "A fresh start ... Chris Kealey MBE",
+        "content": "Chris is standing to be the strong voice ... He will fight for the investment needed to protect local services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investment in the NHS",
+        "policyDescription": "Chris will oppose further cuts to local healthcare budgets."
+      },
+      {
+        "policyTitle": "Building affordable homes",
+        "policyDescription": "Chris will support the building of local homes for local families."
+      },
+      {
+        "policyTitle": "High-quality school places",
+        "policyDescription": "Chris will fight against school cuts and for high-quality school places for every child."
+      },
+      {
+        "policyTitle": "Backing Small Businesses",
+        "policyDescription": "Chris will back the high street and ensure government offers more support to local businesses."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Kealey MBE",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Bosworth can only be won by Labour or the Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "Chris will fight for the best Brexit deal which prioritises jobs and the economy.",
+      "economy": "Chris will back the high street and ensure government offers more support to local businesses.",
+      "education": "Chris will fight against school cuts for high-quality school places.",
+      "environment": "",
+      "governance": "Chris doesn’t just talk about making things better – he gets things done.",
+      "health": "Chris will oppose further cuts to local healthcare budgets.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Chris will support the building of local homes for local families.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I'm standing to be the strong voice Bosworth needs in Parliament.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Bosworth Labour, Promoted by ... Leicester Road, Hinckley, LE10 1AW on behalf of Chris Kealey MBE",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "twitter.com/Kealey4Bosworth",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Picture of Chris Kealey with different groups supporting his campaign."
+        },
+        {
+          "caption": "Picture of Chris Kealey talking to residents and business owners."
+        },
+        {
+          "caption": "Picture of Chris Kealey with a young child."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet uses red as the primary colour indicating its affiliation with the Labour Party."
+  }
+}
+```

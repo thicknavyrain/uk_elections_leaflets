@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Greg Marshall",
+    "constituency": "Broxtowe",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "From Broxtowe, For Broxtowe",
+        "content": "Let's build a country where we invest our wealth to give everyone the best chance. Building the homes Broxtowe needs to rent and buy, keeping our communities safe with more police officers, giving our children's schools the funding they deserve and restoring the NHS to its place as the envy of the world. For the many, not the few. Join us."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Building the homes Broxtowe needs to rent and buy."
+      },
+      {
+        "policyTitle": "Community Safety",
+        "policyDescription": "Keeping our communities safe with more police officers."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Giving our children's schools the funding they deserve."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Restoring the NHS to its place as the envy of the world."
+      }
+    ],
+    "mentions": {
+      "candidate": "Greg Marshall",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Building the homes Broxtowe needs to rent and buy.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "27 Redland Drive, Chilwell, Nottingham, NG9 5JZ",
+      "phone": "07856 812006",
+      "email": "",
+      "website": "www.broxtowelabour.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Let's build a country where we invest our wealth to give everyone the best chance. Building the homes Broxtowe needs to rent and buy, keeping our communities safe with more police officers, giving our children's schools the funding they deserve and restoring the NHS to its place as the envy of the world. For the many, not the few. Join us.",
+        "source": "Greg Marshall",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Greg Marshall and your local Labour Team called today"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

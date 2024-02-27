@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stewart",
+    "constituency": "Hastings and Rye",
+    "politicalParty": "Conservative",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "This election is close.",
+        "content": "Your vote will secure future progress or bring it to a screeching halt. Let's not waste the last five years of hard work and let Labour and the SNP take us back to square one."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "We've already cut income tax for 26 million people – now we'll raise the 40p tax threshold so no-one earning less than £50,000 pays it."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "We have halved the deficit as a share of our economy – now we'll keep running a surplus so that we start paying down our debts."
+      },
+      {
+        "policyTitle": "Savings",
+        "policyDescription": "We've guaranteed that ISAs can be passed on to a spouse tax-free – now we'll take family homes out of Inheritance Tax by raising the effective threshold to £1 million."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "We've protected spending on the NHS – now we'll spend at least an extra £8 billion to fund and support the NHS's own action plan."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Ed Miliband, Alex Salmond, SNP",
+      "partyLeader": "",
+      "tacticalSituation": "If the Conservatives are able to hold seats like Hastings and Rye, they only need to win just 23 more for a majority government – and keep Ed Miliband and the SNP out of Downing Street."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We've halved the deficit as a share of our economy – now we'll keep running a surplus so that we start paying down our debts.",
+      "education": "",
+      "environment": "",
+      "governance": "If you want a strong, stable and competent Conservative government – working to a clear economic plan.",
+      "health": "We've protected spending on the NHS – now we'll spend at least an extra £8 billion to fund and support the NHS's own action plan.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We've guaranteed that ISAs can be passed on to a spouse tax-free – now we'll take family homes out of Inheritance Tax by raising the effective threshold to £1 million.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "St. Helens Crescent HASTINGS TN34 2EN",
+      "phone": "",
+      "email": "",
+      "website": "conservatives.com/yourmanifesto",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Don't risk it – for competence instead of chaos, vote Conservative.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A woman making a phone call"
+        },
+        {
+          "caption": "A man working at a desk"
+        },
+        {
+          "caption": "Graph showing the number of seats needed for a majority in Parliament"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

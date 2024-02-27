@@ -1,0 +1,103 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jackie Porter",
+    "constituency": "Winchester",
+    "politicalParty": "Lib Dem",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "Three great reasons to back the Lib Dem team",
+        "content": "Jackie Porter has lived here for 35 years and represented local people as a councillor since 1991. She is a former teacher who runs two local charities."
+      },
+      {
+        "title": "All forecasts predict a hung parliament after May 7",
+        "content": "We need Lib Dem MPs to hold the balance of power. If there are not enough Lib Dem MPs, a government led by either the SNP or UKIP could have our schools and the NHS."
+      },
+      {
+        "title": "It's so close here!",
+        "content": "How you voted last year: Lib Dem 39%, Con 37%, Lab 11%, Ukip 9%, Green 1%. The elections this year are between the hard-working local Lib Dems and the right-wing Conservatives. Voting for any other party might mean a Conservative MP and a Conservative Councillor."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Government",
+        "policyDescription": "Local Lib Dems will reform our council to make it more open and transparent. We'll improve recycling and support affordable homes."
+      },
+      {
+        "policyTitle": "Economy and Services",
+        "policyDescription": "The Lib Dems will balance the books by 2018 AND protect services - £8 billion for the NHS and education spending protected."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jackie Porter",
+      "otherPartyLeaderCandidate": "SNP, UKIP",
+      "partyLeader": "",
+      "tacticalSituation": "Voting for any other party might mean a Conservative MP and a Conservative Councillor."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Lib Dems will balance the books by 2018 AND protect services - £8 billion for the NHS and education spending protected.",
+      "education": "Education spending protected.",
+      "environment": "We'll improve recycling and support affordable homes.",
+      "governance": "Local Lib Dems will reform our council to make it more open and transparent.",
+      "health": "£8 billion for the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We'll support affordable homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Jackie Porter has lived here for 35 years and represented local people as a councillor since 1991. She is a former teacher who runs two local charities.",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "Since 1991",
+        "achievements": "Represented local people as a councillor, runs two local charities."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Martin Tod",
+        "endorsement": "On Thursday I’ll be voting for Jackie Porter. She’s the best hope we’ve got to beat the Tories – and keep Ukip out of Winchester. The last thing we need is another five years of Tory rule and more savage cuts to services we all rely on."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "All forecasts predict a hung parliament after May 7",
+        "source": "Financial Times",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jackie Porter has lived here for 35 years and represented local people as a councillor since 1991. She is a former teacher who runs two local charities."
+        },
+        {
+          "caption": "The Lib Dems will reform our council to make it more open and transparent. We'll improve recycling and support affordable homes."
+        },
+        {
+          "caption": "The Lib Dems will balance the books by 2018 AND protect services - £8 billion for the NHS and education spending protected."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

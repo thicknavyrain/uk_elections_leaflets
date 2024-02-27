@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Christian Vassie",
+    "constituency": "York Central",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Change that works for you",
+        "content": "Christian Vassie, Liberal Democrat Candidate, lives and works in York. His children attend state schools."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fair taxes that put money back in your pocket",
+        "policyDescription": "You will pay no tax on the first £10,000 you earn - cutting most tax bills by £700."
+      },
+      {
+        "policyTitle": "A fair chance for every child",
+        "policyDescription": "Smaller class sizes, more money into schools, and abolish university tuition fees."
+      },
+      {
+        "policyTitle": "A fair future: create jobs by making Britain greener",
+        "policyDescription": "Invest in public transport, renewable energy and energy efficient homes."
+      },
+      {
+        "policyTitle": "A fair deal for you from the politicians",
+        "policyDescription": "Make politicians accountable and give you the right to sack corrupt MPs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Christian Vassie",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Vince Cable MP",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Christian Vassie, Liberal Democrat Candidate, lives and works in York. His children attend state schools.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.vassie.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Vince Cable MP",
+        "endorsement": "I am delighted to endorse Christian Vassie as the Liberal Democrat candidate for York Central, a role I once played myself. Christian has energy and passion and has shown, on the city council, a real ability to get things done."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Christian Vassie pictured with endorsement quote from Vince Cable MP."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

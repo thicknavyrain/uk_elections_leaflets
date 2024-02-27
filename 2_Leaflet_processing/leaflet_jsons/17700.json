@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "KEVIN SMITH",
+    "constituency": "Hove",
+    "politicalParty": "UK INDEPENDENCE PARTY",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Standing Up for Real Change",
+        "content": "I'm not your usual career politician but a self-made, former local businessman and family man. My roots in our great city go back 50 years. My Anglo Indian heritage gives me a positive view of immigration, whilst recognising the need to address the strains on local services by restoring sensible border controls. I see our Green led council championing expensive ideological issues but failing with basic services. My opposition to the EU is not ideological, but because I believe it just does not work for the UK."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "A positive view of immigration with a focus on restoring sensible border controls to address the strains on local services."
+      },
+      {
+        "policyTitle": "Local Services",
+        "policyDescription": "Addressing the failure of the Green led council in providing basic services by taking a stance against championing ideological issues over practical local governance."
+      },
+      {
+        "policyTitle": "EU Opposition",
+        "policyDescription": "Opposition to the EU based on a belief that it does not work for the UK, not from an ideological standpoint."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kevin Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Opposition to the EU based on a belief that it does not work for the UK.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Addressing the failure of the Green led council in providing basic services.",
+      "health": "",
+      "immigration": "A positive view of immigration with a focus on restoring sensible border controls.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "I'm not your usual career politician but a self-made, former local businessman and family man.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01626 831 290",
+      "email": "",
+      "website": "www.ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "KEVIN SMITH in Hove Standing Up for Real Change"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

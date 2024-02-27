@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ian Jackson",
+    "constituency": "",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Change that works for you",
+        "content": "Every vote for the Lib Dems is a vote to defend our area, invest in the priorities that matter to you, and fight for fairness at every level."
+      },
+      {
+        "title": "Ian Jackson says",
+        "content": "Your Lib Dem vote will count in [redacted]. It's a straight fight here between the Lib Dems and the Conservatives."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Cutting waste, like the expensive ID card scheme, to fund the increase in pensions and public services."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "An alternative policy of £2,000 per pupil 'pupil premium' will go to the schools to support the most disadvantaged children. We also offer a 'catch-up' programme with 1-to-1 or small group tuition."
+      },
+      {
+        "policyTitle": "Green Economy",
+        "policyDescription": "Our green energy policies will tackle climate change, create up to a million jobs and make Britain less reliant on oil & gas from abroad."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "We will pay for cancer drugs the NHS is unable to provide by ending plans for a costly new computer system. And slashing bureaucracy will save resources."
+      },
+      {
+        "policyTitle": "Police",
+        "policyDescription": "We will put more police on the beat, paid for by scrapping ID cards and having fewer but better national databases."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ian Jackson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "It's a straight fight here between the Lib Dems and the Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Cutting waste, like the expensive ID card scheme, to fund the increase in pensions and public services.",
+      "education": "An alternative policy of £2,000 per pupil 'pupil premium' will go to the schools to support the most disadvantaged children.",
+      "environment": "Our green energy policies will tackle climate change, create up to a million jobs and make Britain less reliant on oil & gas from abroad.",
+      "governance": "",
+      "health": "We will pay for cancer drugs the NHS is unable to provide by ending plans for a costly new computer system. And slashing bureaucracy will save resources.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Every vote for the Lib Dems is a vote to defend our area, invest in the priorities that matter to you, and fight for fairness at every level.",
+        "source": "Campaign Leaflet",
+        "date": ""
+      },
+      {
+        "text": "Your Lib Dem vote will count in [redacted]. It's a straight fight here between the Lib Dems and the Conservatives.",
+        "source": "Campaign Leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ian Jackson with a supporter"
+        },
+        {
+          "caption": "Ian Jackson portrait"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

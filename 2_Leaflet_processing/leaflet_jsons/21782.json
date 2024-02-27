@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alan Brown",
+    "constituency": "Kilmarnock and Loudoun",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Labour has held this seat for 80 years. It is time for a change!",
+        "content": "For too long Scotland’s voice is drowned out or lost to London Labour Whips. Voting SNP at council and at the Scottish Parliament has brought new ambition for Kilmarnock and Loudoun. Voting SNP for Westminster can bring about change and allow Scotland’s voice to be heard."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Alan Brown",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "",
+      "tacticalSituation": "Labour has held this seat for 80 years."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Hello. I am the SNP MP candidate for Kilmarnock and Loudoun. It is a real honour to stand to represent the constituency I have lived in my entire life.",
+    "politicalExperience": [
+      {
+        "role": "Irvine Valley at council level",
+        "duration": "",
+        "achievements": "I believe the skills I have gained mean that I am more than capable of representing the area at Westminster."
+      },
+      {
+        "role": "civil engineer",
+        "duration": "over 20 years",
+        "achievements": "I have worked for over 20 years in both the public and private sector, giving me good insight into business and public sector workings."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Alan Brown, Your SNP Candidate for Kilmarnock and Loudoun"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dafydd Trystan Davies",
+    "constituency": "Cwm",
+    "politicalParty": "PLAID CYMRU",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Transportation",
+        "policyDescription": "Wants to see improved public transport options: fast trains and good jobs."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Wants to see better healthcare facilities that are convenient to access."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Aims to provide green spaces to buy or rent."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dafydd Trystan Davies",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Mention of creating good jobs in Cwm.",
+      "education": "",
+      "environment": "Wants everyone to have greenery around their homes.",
+      "governance": "",
+      "health": "Wants to improve healthcare facilities.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Aims to provide green spaces to buy or rent.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "We want a better Cwm.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

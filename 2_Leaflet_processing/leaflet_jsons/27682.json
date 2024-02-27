@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Bateman",
+    "constituency": "AYLESBURY",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "A local voice",
+        "content": "I’m a retired Primary School Headteacher, whose family all live within the town. I have as much of a vested interest in how it develops and the opportunities it provides to all of us, young and old, as anyone else living here."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS, Social Care and Education",
+        "policyDescription": "Vote to properly fund the NHS, Social Care and Education and for investment in our economy, transport and energy."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Vote to share funds allocated to grammar and free schools to education for all children as a first step to fay fair funding."
+      },
+      {
+        "policyTitle": "State Pension",
+        "policyDescription": "Vote to guarantee the triple lock on the state pension."
+      },
+      {
+        "policyTitle": "Minimum Wage and Worker's Rights",
+        "policyDescription": "Vote to introduce rent controls, to increase the minimum wage to £10, to abolish zero-hour contracts and to introduce universal free school meals."
+      },
+      {
+        "policyTitle": "Taxes and Benefits",
+        "policyDescription": "Vote to abolish the bedroom tax and tuition fees and against income tax increases for those earning below £80,000 a year."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Bateman",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Vote to share funds allocated to grammar and free schools to education for all children as a first step to fay fair funding.",
+      "environment": "",
+      "governance": "",
+      "health": "Vote to properly fund the NHS, Social Care and Education and for investment in our economy, transport and energy.",
+      "immigration": "",
+      "socialWelfare": "Vote to introduce rent controls, to increase the minimum wage to £10, to abolish zero-hour contracts and to introduce universal free school meals.",
+      "housing": [
+        {
+          "content": "I am not a career politician and I firmly believe in the benefits of living as a Constituency MP fully focused on our most significant local issues such as: a lack of affordable and social housing; a badly clogged up and painful to use road system; an overcrowded and too local Health Centres; a railway line that is crying out for new investment, while the HS2 line will pass through and have no benefit whatsoever locally; and a town centre that is in desperate need of pedestrianisation.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Having been born in and lived in Aylesbury for the whole of my life, I know the town and the Constituency of Aylesbury very well indeed.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mark Bateman with a background of a green park area."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Elizabeth Riches",
+	"constituency": "North East Fife",
+	"politicalParty": "Scottish Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "The only way to stop the SNP in North East Fife",
+    	"content": "Elizabeth will continue to be a hard working local champion."
+  	},
+  	{
+    	"title": "Elizabeth Riches",
+    	"content": "Elizabeth will fight against another divisive independence referendum. Elizabeth will oppose the hard damaging Brexit."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Opposition to independence referendum",
+    	"policyDescription": "Elizabeth will fight against another divisive independence referendum."
+  	},
+  	{
+    	"policyTitle": "Brexit Stance",
+    	"policyDescription": "Elizabeth will oppose the hard damaging Brexit."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Elizabeth Riches",
+  	"otherPartyLeaderCandidate": "SNP",
+  	"partyLeader": "",
+  	"tacticalSituation": "The only way to stop the SNP in North East Fife"
+	},
+	"issues": {
+  	"brexitEurope": "Elizabeth will oppose the hard damaging Brexit.",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Elizabeth will continue to be a hard working local champion.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Elizabeth Riches with supporters"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

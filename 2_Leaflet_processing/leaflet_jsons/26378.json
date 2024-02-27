@@ -1,0 +1,97 @@
+{
+  "leaflet": {
+	"candidateName": "Fiona Mactaggart",
+	"constituency": "Slough",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 7 May",
+	"messages": [
+  	{
+    	"title": "Why we are backing Fiona",
+    	"content": "Endorsements from Dr Henna Khan, Tony and Lynne Smeaton, and Philip Johns highlighting their personal reasons for supporting Fiona."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Healthcare",
+    	"policyDescription": "Guarantee GP appointment within 48 hours and expanded services at Wexham Park Hospital and improved social care."
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Plans to support young people, delivering fair funding for sixth forms, ensuring every student is studying for qualifications which help them get good jobs or training for the long-term jobless."
+  	},
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "Plans to build new, affordable homes, create longer tenancies and tackle rogue landlords with fair rents and new rights."
+  	},
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Cutting business rates for local retailers and small businesses as well as offering them loans."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Fiona Mactaggart",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Cutting business rates for local retailers and small businesses as well as offering them loans.",
+  	"education": "Delivering fair funding for sixth forms, ensuring every student is studying for qualifications which help them get good jobs or training for the long-term jobless.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Guarantee GP appointment within 48 hours and expanded services at Wexham Park Hospital and improved social care.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Plans to build new, affordable homes, create longer tenancies and tackle rogue landlords with fair rents and new rights.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Dr Henna Khan",
+    	"endorsement": "Supporting Fiona for being a diligent and caring doctor, and advocating better health and housing."
+  	},
+  	{
+    	"endorser": "Tony and Lynne Smeaton",
+    	"endorsement": "Backing Fiona for working hard to protect families and their homes."
+  	},
+  	{
+    	"endorser": "Philip Johns",
+    	"endorsement": "Supporting Fiona for helping people find work and tackle the problems they face."
+  	}
+	],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Fiona Mactaggart interacting with constituents."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

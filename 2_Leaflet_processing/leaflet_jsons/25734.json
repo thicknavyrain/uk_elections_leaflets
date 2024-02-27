@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Chuka Umunna",
+	"constituency": "Streatham",
+	"politicalParty": "Labour",
+	"electionDate": "7 May",
+	"messages": [
+  	{
+    	"title": "VOTE LABOUR VOTE CHUKA",
+    	"content": "Re-elect Chuka Umunna as your hard-working local MP!"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "MP delivered Labour's 'Shadow Housing Minister' plan to tackle the housing crisis, including new homes commitments, getting rent levels under control, and introducing a national register for landlords."
+  	},
+  	{
+    	"policyTitle": "Health",
+    	"policyDescription": "Labour created the NHS and Labour will save it by recruiting 20,000 more nurses, 8,000 more GPs, and guaranteeing cancer tests and treatment starts within a week."
+  	},
+  	{
+    	"policyTitle": "Childcare",
+    	"policyDescription": "Extending the free childcare provision to working parents of 3&4 year olds for 25 hours per week."
+  	},
+  	{
+    	"policyTitle": "Jobs",
+    	"policyDescription": "Introducing a jobs guarantee for the long-term unemployed and reduce insecurity at work."
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Labour will cut tuition fees to £6,000 a year."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Chuka Umunna has worked to help more than 7,000 constituents."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "Supporting local schools and young people by, for example, opposing tuition fee increases and supporting measures like the EMA for lower and middle-income students.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Chuka championed healthcare issues such as opposing the privatisation of our NHS services.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Chuka delivered Labour's housing manifesto...",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "Member of Parliament",
+    	"duration": "Since 2010",
+    	"achievements": "Delivering Labour's 'Shadow Housing Minister' plan to tackle the housing crisis and championing healthcare issues."
+  	}
+	],
+	"contactInformation": {
+  	"address": "Streatham Labour Party, 3a Mount Ephraim Road, SW16 1NQ",
+  	"phone": "0203 235 1979",
+  	"email": "chuka@labour.org.uk",
+  	"website": "www.chuka.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "chukaumunna",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Dr. Neil Littmoden",
+    	"endorsement": "Age shouldn't be a barrier to 'having your say'."
+  	}
+	],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Chuka Umunna with supporters."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jem Bailey",
+    "constituency": "Wycombe",
+    "politicalParty": "Green Party",
+    "electionDate": "7 May 2015",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protect the NHS",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Ban Fracking",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Free Education",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Railways in Public Hands",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "£10 an Hour Minimum Wage",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "No to Bedroom Tax",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Your Green Party Candidate Jem Bailey for Wycombe"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet seems to emphasize a slogan that may suggest the campaign's general message, 'Say no to politics as usual.'"
+  }
+}
+```

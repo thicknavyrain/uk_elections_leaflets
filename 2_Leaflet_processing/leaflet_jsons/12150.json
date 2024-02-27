@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 6 May",
+    "messages": [
+      {
+        "title": "Vote Labour",
+        "content": "On 6 May there is a big choice to make. It’s Labour or Tory. And the Tories stand for the privileged few. They can’t be trusted with our future, hospitals and our schools."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Experience and judgement",
+        "policyDescription": "Labour’s team led Britain from recession to recovery."
+      },
+      {
+        "policyTitle": "Securing the recovery",
+        "policyDescription": "Labour will continue to support the recovery and secure the economy and create a training or job guarantee for all 18-24 year-olds out of work for six months."
+      },
+      {
+        "policyTitle": "Protecting public services",
+        "policyDescription": "Labour will protect the free child care tax credits and public services you rely on like schools, hospitals and policing."
+      },
+      {
+        "policyTitle": "Helping families",
+        "policyDescription": "With Labour, tax credits will be increased not cut."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "It’s Labour or Tory."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour will continue to support the recovery and secure the economy and create a training or job guarantee for all 18-24 year-olds out of work for six months.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Labour will protect the free child care tax credits and public services you rely on like schools, hospitals and policing.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "vote.labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Ross Kemp",
+        "endorsement": "On 6 May there is a big choice to make. It’s Labour or Tory. And the Tories stand for the privileged few. They can’t be trusted with our future, hospitals and our schools."
+      },
+      {
+        "endorser": "JK Rowling",
+        "endorsement": "David Cameron tells us that the Conservatives have changed, that they are no longer the 'nasty party', that he wants the UK to be 'one of the most family-friendly nations in Europe', but I, for one, am not buying it."
+      },
+      {
+        "endorser": "Patrick Stewart OBE",
+        "endorsement": "We all agree on one thing. It’s vital that Labour wins this election. Because if we make a mess of the economy now, we are in deep trouble."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Endorsements from various public figures"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet features endorsements from Ross Kemp, JK Rowling, Patrick Stewart OBE, Sir Alex Ferguson, Jo Brand, Tony Robinson, John Middleton, Eddie Izzard, and Liz Dawn."
+  }
+}
+```

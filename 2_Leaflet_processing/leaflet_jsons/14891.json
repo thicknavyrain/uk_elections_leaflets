@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Polly Billington",
+    "constituency": "Thurrock",
+    "politicalParty": "Labour",
+    "electionDate": "6 May",
+    "messages": [
+      {
+        "title": "The Local Voice",
+        "content": "LABOUR SAVES TILBURY FERRY"
+      },
+      {
+        "title": "Labour says",
+        "content": "It's time to be proud of Thurrock"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tilbury Ferry",
+        "policyDescription": "Campaign to protect the community-run service ensuring it has a future."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Guarantee of cancer test results within a week."
+      },
+      {
+        "policyTitle": "High Tech Economy",
+        "policyDescription": "Support businesses and industry to create more skilled jobs and modernise with infrastructure including High-Speed Rail, a Green Investment Bank and broadband access for all."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Control immigration with an Australian style points-based system to concentrate on education, apprenticeships and jobs for young people, and a crack down on anti-social behaviour."
+      },
+      {
+        "policyTitle": "Family Living Standards",
+        "policyDescription": "Raise family living standards, keeping mortgages rates as low as possible; increasing tax credits for families with young children; providing new help for first-time buyers; and restoring the link between the state pension and earnings from 2012."
+      }
+    ],
+    "mentions": {
+      "candidate": "Polly Billington believes in Thurrock",
+      "otherPartyLeaderCandidate": "Thurrock's Tories wanted to sink Tilbury's ancient ferry",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Build a high tech economy.",
+      "education": "Concentrating on education, apprenticeships and jobs for young people.",
+      "environment": "",
+      "governance": "",
+      "health": "NHS, with a new guarantee of cancer test results within a week.",
+      "immigration": "Control immigration with an Australian style points-based system.",
+      "socialWelfare": "Raise family living standards.",
+      "housing": [
+        {
+          "content": "Increasing tax credits for families with young children; providing new help for first-time buyers.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Polly Billington believes in Thurrock",
+    "politicalExperience": [
+      {
+        "role": "Director of the Labour Yes Campaign",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "twitter.com/pollybillington",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Polly Billington with supporters."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

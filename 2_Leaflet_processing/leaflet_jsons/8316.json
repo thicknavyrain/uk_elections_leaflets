@@ -1,0 +1,65 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Proposals to address the deficit include cutting taxes and regulations to help businesses prosper and create more jobs, getting more people off welfare and into work through incentives, cutting waste and back office spending, and scrapping programs like ID cards and regional government that people do not want. Emphasizes the importance of making it worthwhile to save and to work."
+      },
+      {
+        "policyTitle": "Floods",
+        "policyDescription": "The candidate has actively worked on flood issues in different areas of the constituency such as the Emm and Loddon, pushing for more ditch and river maintenance. Plans to continue seeking agreement to push ahead with flood relief schemes and work with the Environment Agency for better flood risk management. They advocate for Conservative national policy, which implies a reluctance to develop on flood plains as a means of preventing floods."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The leaflet emphasizes the need to control the deficit to prevent a scenario similar to Greece and Ireland, where higher business loan rates and more drastic spending cuts could occur.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The candidate underscores the importance of the Conservative national policy, which appears to be against developing on flood plains, suggesting a measure to manage flooding.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Group photo with constituents"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

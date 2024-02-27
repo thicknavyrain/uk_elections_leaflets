@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Barry Holliday",
+    "constituency": "Nottingham South",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "THE LIB DEMS ARE WINNING",
+        "content": "European Election results here in the East Midlands show the Lib Dems can win and are the Remain party that can win in Nottingham."
+      },
+      {
+        "title": "STOP BREXIT",
+        "content": "Build a brighter future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "The Liberal Democrats will build an economy that works for everyone."
+      },
+      {
+        "policyTitle": "Climate change",
+        "policyDescription": "The Liberal Democrats will put Britain at the forefront of combating carbon neutral at the earliest possible date."
+      }
+    ],
+    "mentions": {
+      "candidate": "Barry Holliday",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "European Election results here in the East Midlands show the Lib Dems can win and are the Remain party that can win in Nottingham."
+    },
+    "issues": {
+      "brexitEurope": "STOP BREXIT",
+      "economy": "The Liberal Democrats will build an economy that works for everyone.",
+      "education": "",
+      "environment": "Climate change and air pollution threaten our future. Working with the EU enables us to work together to protect our planet.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "10 Archway Wharton Court, Nottingham NG8 1NA",
+      "phone": "",
+      "email": "barry.holliday@nottinghamlibdems.org.uk",
+      "website": "www.barryholliday.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@hollidb",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Barry Holliday, Liberal Democrats candidate for Nottingham South, with campaign slogans and party branding."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet photo shows results of the East Midland European Election results, 2019 to highlight the tactical message."
+  }
+}
+```

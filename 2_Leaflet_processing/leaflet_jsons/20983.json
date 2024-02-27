@@ -1,0 +1,84 @@
+{
+  "leaflet": {
+    "candidateName": "Ann Duncan",
+    "constituency": "Oxford East",
+    "politicalParty": "Green Party",
+    "electionDate": "May 2015",
+    "messages": [
+      {
+        "title": "Why are so many people switching to the Green Party?",
+        "content": "Greens stand up to the wealthiest 1%, protect vital public services, and will protect the NHS."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic Equality",
+        "policyDescription": "Green Party is willing to stand up to the wealthiest 1% by taxing millionaires like David Cameron."
+      },
+      {
+        "policyTitle": "Protecting Public Services",
+        "policyDescription": "Promising to keep every other public service – punishing the vulnerable for the crimes of the banks is not the Green Party's way."
+      },
+      {
+        "policyTitle": "NHS Protection",
+        "policyDescription": "Greens will protect the NHS from being broken up and sold off by the other parties."
+      },
+      {
+        "policyTitle": "Affordable Housing",
+        "policyDescription": "Greens are fighting for more homes by challenging Oxford City's Conservative controlled council's poor record on social housing."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ann Duncan",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "Oxford East is one of our best chances in the UK."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "Greens are standing with migrants against UKIP's scapegoating.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Greens are fighting for more homes by challenging Oxford City's Conservative controlled council's poor record on social housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Greens fight for what matters, and when we get together we can make a real difference.",
+    "politicalExperience": [
+      {
+        "role": "Green Party MP Hopeful",
+        "duration": "General Election May 2015",
+        "achievements": "N/A"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.greenoxfordshire.com",
+      "socialMedia": {
+        "facebook": "facebook.com/oxfordgreenparty",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Portrait of Ann Duncan"
+        }
+      ]
+    },
+    "additionalNotes": "Due to recent changes to voter registration, millions of people are no longer on the electoral register - especially students."
+  }
+}

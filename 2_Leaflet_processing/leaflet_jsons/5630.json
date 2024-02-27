@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mike Shone",
+    "constituency": "Stafford",
+    "politicalParty": "Green Party",
+    "electionDate": "6th May 2010",
+    "messages": [
+      {
+        "title": "Why is the Green Party Different?",
+        "content": "We face economic, social and environmental crises. Only the Green Party has bold, innovative ideas for a sustainable economy and a fair society; is the only party with people and their environment at the core of its policies."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health and the NHS",
+        "policyDescription": "Place hospitals under local control, improve maternity services, restore access to free NHS dentistry, emphasise prevention of ill-health through healthier eating, exercise and a lower-stress society."
+      },
+      {
+        "policyTitle": "Our Older People's Pledge",
+        "policyDescription": "A basic pension of £170 per week, the right to work beyond the basic retirement age, free home insulation, free personal and nursing care for the elderly and infirm."
+      },
+      {
+        "policyTitle": "Create Jobs not Unemployment",
+        "policyDescription": "Support transition to a one planet, fair economy with hundreds of thousands of jobs in manufacturing, design, building and engineering in sectors such as renewable energy."
+      },
+      {
+        "policyTitle": "For Our Young People",
+        "policyDescription": "Free, nutritious school meals for all children, creation of 2000 Young People’s Centres nationally, free off-peak travel for under 18s in full time education, spend £1bn a year enhancing Sure Start centres."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mike Shone",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Public Services threatened by the ‘Big Three Parties’"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We need a sustainable economy.",
+      "education": "Creation of 2000 Young People’s Centres nationally, spend £1bn a year enhancing Sure Start centres.",
+      "environment": "Only the Green Party has people and their environment at the core of its policies.",
+      "governance": "",
+      "health": "Place hospitals under local control, improve maternity services, restore access to free NHS dentistry.",
+      "immigration": "",
+      "socialWelfare": "A basic pension of £170 per week, free home insulation, free personal and nursing care for the elderly and infirm.",
+      "housing": [
+        {
+          "content": "Free home insulation",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Anyone who has met Mike Shone knows he has an endless interest in people, and a passion for what he believes in most – equality and fairness.",
+    "politicalExperience": [
+      {
+        "role": "Borough Councillor",
+        "duration": "",
+        "achievements": "Responsible for launching the borough's kerbside recycling scheme."
+      },
+      {
+        "role": "Mayor of Stafford",
+        "duration": "2006-07",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01785 212245",
+      "email": "mikeforstafford@staffordandstonegreenparty.org",
+      "website": "www.onlygreen.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mike Shone - 'Fighting for Stafford'"
+        }
+      ]
+    },
+    "additionalNotes": "Mike has lived in Stafford for 40 years. He has a daughter and three grandchildren and will be marrying his partner, Mikala at Keele University this Autumn."
+  }
+}
+```

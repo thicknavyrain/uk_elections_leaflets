@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr Philippa Whitford",
+    "constituency": "Central Ayrshire",
+    "politicalParty": "SNP",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "Scotland's Future in Scotland's Hands",
+        "content": "The upcoming General Election is probably the most important we have faced in our lifetimes. Scotland is coming to a fork in the road and we must have the Right to Choose our own future - as part of Brexit Britain or as a modern European country. To protect our NHS and our Parliament - Vote SNP to put Scotland’s Future in Scotland’s Hands!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit - Protection of EU staff",
+        "policyDescription": "Opposes Brexit due to loss of EU staff, medicine shortages and lowered public safety standards."
+      },
+      {
+        "policyTitle": "The Power Grab",
+        "policyDescription": "Against the UK Government taking control over Public Procurement rules across the UK which could turn healthcare services into a 'market' like the NHS in England."
+      },
+      {
+        "policyTitle": "A Tory/Trump Trade Deal",
+        "policyDescription": "Opposes potential trade deal with Trump that could double UK drug costs and reduce funding for other treatment."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr Philippa Whitford",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The vast majority of people in Scotland support devolution."
+    },
+    "issues": {
+      "brexitEurope": "Scotland is coming to a fork in the road and must have the Right to Choose our own future—as part of Brexit Britain or as a modern European country.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Scottish Parliament is under threat post-Brexit.",
+      "health": "Our NHS is also under threat from several sides: Brexit - due to loss of EU staff, medicine shortages and lowered public safety standards. The Power Grab - UK Government is taking control over Public Procurement rules. A Tory/Trump Trade Deal - could more than double UK drug costs.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "To protect our NHS and our Parliament - Vote SNP to put Scotland’s Future in Scotland’s Hands!",
+    "politicalExperience": [
+      {
+        "role": "SNP Candidate for Central Ayrshire",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Central Ayrshire SNP Campaign Hub: 183 High Street, Irvine KA12 8AD",
+      "phone": "",
+      "email": "info@drphilippa.scot",
+      "website": "www.whitford.scot",
+      "socialMedia": {
+        "facebook": "PhilippaWhitfordSNP",
+        "twitter": "@Dr_PhilippaW",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Re-elect Dr Philippa Whitford SNP Candidate for Central Ayrshire"
+        }
+      ]
+    },
+    "additionalNotes": "As Election Day is on 12th December, the weather could be atrocious, so if you don't already have a Postal Vote, please use the enclosed form to apply. You can pass the form on to a friend or relative so we can ensure a healthy turnout for this election and avoid a Conservative win in Central Ayrshire. If you are unable to vote at a polling station due to accident or illness on the day, you can arrange an emergency Proxy Vote up until 5pm."
+  }
+}
+```

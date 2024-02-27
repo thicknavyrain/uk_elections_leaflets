@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Vince Cable MP",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Let’s get Britain on the road to recovery",
+    	"content": "Our economy is in a fragile state. One wrong move could send Britain tumbling back into recession. Now more than ever our country needs the right policies to get the economy moving again. At the election, it's up to you to decide who will offer the best deal for you and your family."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economic Recovery",
+    	"policyDescription": "Implementing the right policies to move the economy forward, avoid recession, and provide better deals for families."
+  	},
+	{
+    	"policyTitle": "Banking Reforms",
+    	"policyDescription": "Take immediate action to get banks lending to small businesses and ensuring people's savings are never put at risk again."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Vince Cable",
+  	"otherPartyLeaderCandidate": "David Cameron, George Osborne",
+  	"partyLeader": "Nick Clegg",
+  	"tacticalSituation": "Labour are out of the running and in many parts of Britain the real choice is between the Liberal Democrats and the Conservatives."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Our economy is in a fragile state. One wrong move could send Britain tumbling back into recession.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "After thirteen years of Labour, it's time for real change.",
+	"politicalExperience": [
+  	{
+    	"role": "Shadow Chancellor of the Exchequer for the Liberal Democrats",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "4 Cowley Street, London, SW1P 3NB",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.libdems.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Labour can't win in many areas of Britain. For real change, fairer taxes and a strong economy, make sure you back the Liberal Democrats on election day.",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Vince Cable MP"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

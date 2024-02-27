@@ -1,0 +1,53 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lizzi Collinge",
+    "constituency": "Morecambe and Lunesdale",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Lizzi Collinge",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A FRESH VOICE FOR MORECAMBE AND LUNESDALE"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,102 @@
+{
+  "leaflet": {
+    "candidateName": "Simon Hughes",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "Bring Back Simon",
+        "content": "Local residents have been coming up to Simon Hughes in the past few weeks, urging him to run for MP again."
+      },
+      {
+        "title": "Simon Hughes has always fought Brexit",
+        "content": "Only the Liberal Democrats are united in their fight against Brexit."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "A vote for the Liberal Democrats is a vote against hard Brexit."
+      },
+      {
+        "policyTitle": "Health Service",
+        "policyDescription": "Simon led the campaign to save Guy's Hospital when it was under threat and fought for local health services."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Simon made sure Bermondsey and Southwark stations were built on the Jubilee Line. Now he's fighting for Old Kent Road and Bricklayer's Arms on the Bakerloo Line."
+      },
+      {
+        "policyTitle": "Local Support",
+        "policyDescription": "Simon helped literally tens of thousands of residents with individual problems during his 32 years as MP."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Hughes",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "Only he can beat Jeremy Corbyn’s Labour."
+    },
+    "issues": {
+      "brexitEurope": "Only the Liberal Democrats are united in their fight against Brexit. Fighting for the rights of EU citizens. Demanding that the people have the final say on the final deal.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Simon led the campaign to save Guy's Hospital when it was under threat and fought for local health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Simon Hughes says he's very touched by the reaction he's been getting from local people.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "32 years",
+        "achievements": "Fought for local area, led campaign to save Guy's Hospital, ensured the building of Bermondsey and Southwark stations on the Jubilee Line."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "(020) 7237 8444",
+      "email": "simon@simonhughes.org.uk",
+      "website": "www.simonhughes.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/bermondseysimon",
+        "twitter": "@SimonHughes",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Times",
+        "endorsement": "Only the Lib Dems can stop a hard Brexit."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Only the Lib Dems can stop a hard Brexit.",
+        "source": "The Times",
+        "date": "4th April"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Simon Hughes with residents and supporters"
+        },
+        {
+          "caption": "Simon Hughes's quote on Brexit and his track record"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

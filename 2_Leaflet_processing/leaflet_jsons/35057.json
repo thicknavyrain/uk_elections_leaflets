@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Paul",
+    "constituency": "Withington East and Ladybarn Area",
+    "politicalParty": "Labour and Co-operative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Support Collapses",
+        "content": "We did not vote for a Conservative government round here. But we do vote one. Approval of this Tory government, propped up eagerly by the Lib Dems, has gone through the floor, collapsing to minus 4% in just three months. When Labour took over from Thatcher and Major there was plus 63% approval at this stage."
+      },
+      {
+        "title": "Labour Condemn Irresponsible Landlords",
+        "content": "Meanwhile in our area on Talbot Road, accidentally maintained, overcrowded, and almost to no regard for health and safety. Many tenants and some landlords in the city want to see action from the Council on this but until now have seen nothing."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Chris Paul says, 'This area welcomes good landlords and tenants: but this needs more houses and landlords good school blight. Families should be helped to form or leave family homes.'"
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Paul",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Lucy Powell",
+      "tacticalSituation": "Vote Lib Dem get Tory... A vote for the Lib Dems is a vote for a Tory government, as shown by Lib Dem support for Conservative budget cuts."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Shocking Conservative/Lib Dem Budget hits ordinary people. VAT increased to 20%+ hits the poorest most. National Workers for 2 years pay freeze. Child Benefit frozen for 3 years. And don't forget they've already cut the Child Trust Fund. School free swimming for children and cut back on tech school meals.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Chris Paul says, 'This area welcomes good landlords and tenants: but this needs more houses and landlords good school blight. Families should be helped to form or leave family homes.'",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Manchester M15 4QN",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet design with policy statements and contact information."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet displays a graph reflecting ConDem approval, highlighted with a decline from 13% in July to minus 4%. A picture of a rundown house on Talbot Road indicates poor landlord maintenance."
+  }
+}
+```

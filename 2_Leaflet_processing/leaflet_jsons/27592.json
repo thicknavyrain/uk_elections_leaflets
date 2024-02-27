@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Vix Lowthion",
+    "constituency": "The Island",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "TIME FOR A FRESH START",
+        "content": "FIGHTING FOR THE ISLAND IN WESTMINSTER"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Vix Lowthion",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "TIME FOR A FRESH START - Vix Lowthion, Green Party"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

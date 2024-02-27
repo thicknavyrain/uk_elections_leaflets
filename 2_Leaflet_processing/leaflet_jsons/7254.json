@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Paul Kenny",
+    "constituency": "Boston & Skegness",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Putting local people first",
+        "content": "This election is important to the people of Boston & Skegness. Don't let other parties put our economic recovery at risk."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "This election is important to the people of Boston & Skegness. Don't let other parties put our economic recovery at risk.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "This election is important to the people of Boston & Skegness.",
+        "source": "Paul Kenny, YOUR LABOUR CANDIDATE FOR Boston & Skegness",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Paul Kenny - Labour Candidate for Boston & Skegness"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

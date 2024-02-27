@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "The Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "More gloom with Labour and the Conservatives",
+        "content": "Already tried, failed."
+      },
+      {
+        "title": "It's a two horse race!",
+        "content": "The Lib Dems are delivering in government but can only win here if people switch from Conservative and Labour. Remember every Lib Dem MP keeps Labour out."
+      },
+      {
+        "title": "Who will deliver the change we need on tax?",
+        "content": "Fairer taxes that will help our country recover from the recession."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "The Lib Dems are proposing removing the income tax paid on the first £10,000 earnings, which would result in saving £700 for most workers and £100 for pensioners."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "The Lib Dems are delivering in government but can only win here if people switch from Conservative and Labour."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Fairer taxes that will help our country recover from the recession.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Nick Clegg",
+        "endorsement": "The very rich will pay their fair share"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The very rich will pay their fair share",
+        "source": "Nick Clegg",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "It's a two horse race!"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

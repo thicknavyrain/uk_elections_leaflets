@@ -1,0 +1,106 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dominic Tristram",
+    "constituency": "Bath",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "YOUR GREEN PARTY CANDIDATE",
+        "content": "Dominic Tristram"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public NHS",
+        "policyDescription": "Fight for a publicly funded, publicly provided health service free at the point of use."
+      },
+      {
+        "policyTitle": "Safe climate",
+        "policyDescription": "Take serious action on climate change by working with other countries to ensure global temperatures do not rise beyond 2 degrees."
+      },
+      {
+        "policyTitle": "Fair Economy",
+        "policyDescription": "End austerity and restore the public sector, creating over one million good jobs that pay at least a living wage."
+      },
+      {
+        "policyTitle": "Decent Homes",
+        "policyDescription": "Abolish the cruel and unfair bedroom tax. Build 500,000 social rented homes by 2020 and bring empty homes back into use to relieve housing crisis."
+      },
+      {
+        "policyTitle": "Free Education",
+        "policyDescription": "Scrap university tuition fees. Promote a comprehensive system of local schools offering mixed ability teaching staffed by qualified teachers."
+      },
+      {
+        "policyTitle": "Better Transport",
+        "policyDescription": "Return the railways to public hands to stop profits being put before passengers. Introduce an immediate cut in fares of 10% to give commuters a much-needed financial break."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dominic Tristram",
+      "otherPartyLeaderCandidate": "Natalie Bennett, Caroline Lucas",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "End austerity and restore the public sector, creating over one million good jobs that pay at least a living wage. Pay for this with a new, 1% 'Robin Hood Tax' on the banks and close loopholes.",
+      "education": "Scrap university tuition fees. Promote a comprehensive system of local schools offering mixed ability teaching staffed by qualified teachers. Bring Academies and Free Schools into the Local Authority system.",
+      "environment": "Take serious action on climate change by working with other countries to ensure global temperatures do not rise beyond 2 degrees. Phase out fossil fuel-based energy generation and nuclear power. Invest in a public programme of renewable generation, flood defences and building insulation.",
+      "governance": "",
+      "health": "Fight for a publicly funded, publicly provided health service free at the point of use. Stop and reverse the creeping privatisation of the NHS and repeal the Health and Social Care Act 2012.",
+      "immigration": "",
+      "socialWelfare": "Abolish the cruel and unfair bedroom tax.",
+      "housing": [
+        {
+          "content": "Abolish the cruel and unfair bedroom tax. Build 500,000 social rented homes by 2020 and bring empty homes back into use to relieve housing crisis. Cap rent and introduce land taxes to discourage landowners from keeping properties empty to provide greater protection for renters.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I have lived in Bath for 15 years. I have worked in the technology sector alongside a wide variety of organisations such as the NHS, Home Office, Cabinet Office, Highways and Environment Agencies and the police. This has provided me with first-hand experience of the challenges these vital public bodies face, something rarely found in so many of today’s career politicians.",
+    "politicalExperience": [
+      {
+        "role": "Public Governor of the RUH in Bath",
+        "duration": "2012",
+        "achievements": "Appalled at what the Conservatives and Liberal Democrats are doing to our NHS spending billions privatising it and handing huge chunks of it to their donors for a profit, not healthcare. I am fighting for a publicly provided, publicly invested service, free for use at the point of service."
+      }
+    ],
+    "contactInformation": {
+      "address": "The Green Party, Development House, 56-64 Leonard Street, London, EC2A 4LT",
+      "phone": "07874 680 632",
+      "email": "dominic.tristram@greenparty.org.uk",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "BathNESGreens",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Natalie Bennett, Green Party Leader",
+        "endorsement": "Vote Green and you can help us build a society that works for the Common Good."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dominic Tristram with supporters"
+        },
+        {
+          "caption": "Dominic Tristram portrait"
+        },
+        {
+          "caption": "Campaign endorsements with Caroline Lucas and Natalie Bennett"
+        }
+      ]
+    },
+    "additionalNotes": "This publication has not been paid for by taxpayer or corporate interests, but has been supported and funded by people who care deeply about issues, democratic fairness, and social justice."
+  }
+}
+
+```

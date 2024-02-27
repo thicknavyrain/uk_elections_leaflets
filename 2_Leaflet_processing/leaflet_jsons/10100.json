@@ -1,0 +1,81 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Maggie Throup",
+    "constituency": "Solihull and Shirley",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "CAMPAIGN TO SAVE SOLIHULL HOSPITAL",
+        "content": "Maggie is leading the campaign to save our hospital services under the threat of closure, co-ordinating thousands of residents for her petition, leading large, peaceful protests and lobbying the NHS Trust."
+      },
+      {
+        "title": "A NEW DAY IN BRITAIN WITH A CAMERON GOVERNMENT",
+        "content": "The Conservatives are the only party with the ideas, the vision and the leadership to deliver the change Britain needs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare - Solihull Hospital",
+        "policyDescription": "To fight to protect our local services, whether it’s our NHS services, local post offices or our area’s schools."
+      }
+    ],
+    "mentions": {
+      "candidate": "Maggie Throup",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "To fight to protect our local services, whether it’s our NHS services, local post offices or our area’s schools.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Even before Maggie Throup was selected as our Parliamentary Candidate in July 2005, she was working hard for our community.",
+    "politicalExperience": [
+      {
+        "role": "Candidate",
+        "duration": "Since July 2005",
+        "achievements": "Maggie has shown she never gives up, and gets results in her local campaigns. Her eight-year battle to stop the Maternity Service Station was successful, as was the fight to stop a second runway at Birmingham Airport."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "Maggie's personal URL on her website details incurred as your Member of Parliament.",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Maggie Throup with campaign supporters."
+        },
+        {
+          "caption": "Maggie Throup with David Cameron."
+        }
+      ]
+    },
+    "additionalNotes": "Maggie continues to lead the campaign to save our hospital services under the threat of closure, co-ordinating thousands of residents for her petition, leading large peaceful protests and lobbying the NHS Trust."
+  }
+}
+```

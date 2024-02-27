@@ -1,0 +1,68 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Watts",
+    "constituency": "Newark",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "November 2019",
+    "messages": [
+      {
+        "title": "The choice in Newark will be between Remain or Leave",
+        "content": "It's clear that the next General Election is the 'Brexit Election'."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "The Liberal Democrats are fighting to stop Brexit. If elected, they intend to revoke Article 50 and stop Brexit."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Watts is the Liberal Democrat Parliamentary candidate for Newark",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn's Labour Party",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "The Liberal Democrats have led the fight locally and Nationally against Brexit. Aiming to stop Brexit as it would be catastrophic for Britain and people are realising how important EU membership is to our country and our future.",
+      "economy": "",
+      "education": "",
+      "environment": "Tackling climate changes even more urgent than stopping Brexit.",
+      "governance": "",
+      "health": "Brexit will be disastrous for the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.newarklibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Watts, Parliamentary candidate for Newark, along with Jo Swinson and other supporters."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet suggests that shutting down Parliament was undemocratic and that going through a shoddy deal without a properly functioning Parliament is alarming. The Liberal Democrats have been active for over three years in fighting for opposition to Brexit."
+  }
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Gallagher",
+    "constituency": "South Ribble",
+    "politicalParty": "UKIP",
+    "electionDate": "7 MAY 2015",
+    "messages": [
+      {
+        "title": "SOUTH RIBBLE",
+        "content": "I will listen and respond to the people of South Ribble. I will will protect and preserve the Green Belt. I will address road surface and traffic problems, encourage more effective policing, monitor prisons, negotiate a fairer deal for pensioners, oppose the bedroom tax, and work on youth unemployment."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "IMMIGRATION",
+        "policyDescription": "Supports an Australian Points-based system to ensure unrestricted immigration does not put a strain on health, education, housing and transport services. Advocates for limited, controlled immigration and strengthening of borders."
+      },
+      {
+        "policyTitle": "NATIONAL HEALTH SERVICE",
+        "policyDescription": "Promises free NHS at point of delivery, with an additional £3 Billion in funding and no more privatisation. Doctors will speak good English and all migrants will require medical insurance before entry to the UK. Commitment to introduce free NHS hospital car parking."
+      },
+      {
+        "policyTitle": "THE ECONOMY",
+        "policyDescription": "Plans to leave the EU, saving approximately £8 billion per year in contributions. Proposes to increase the tax-free personal allowance for full-time minimum wage earners and abolishing the inheritance tax. States migrants will only be eligible for benefits after paying tax and National Insurance for 5 years."
+      },
+      {
+        "policyTitle": "EDUCATION AND SKILLS",
+        "policyDescription": "Proposes an option for students to take an Apprenticeship Qualification instead of 4 non-core GCSEs. Also aims to achieve resource flexibility for schools including selection tests and technology."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Gallagher",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Plans to leave the EU.",
+      "economy": "Saving £8 billion in EU contributions, increasing tax-free personal allowance for minimum wage earners, and abolishing inheritance tax.",
+      "education": "An Apprenticeship Qualification as an alternative to 4 non-core GCSEs, and resource flexibility for schools.",
+      "environment": "Protect and preserve the Green Belt.",
+      "governance": "",
+      "health": "Additional £3 Billion in funding for the NHS, no more privatisation, and free hospital car parking.",
+      "immigration": "Australian Points-based system for controlled immigration, and medical insurance required for migrants before entry to the UK.",
+      "socialWelfare": "Oppose the bedroom tax.",
+      "housing": [
+        {
+          "content": "No distinct housing policy mentioned beyond the importance of controlled immigration in relation to housing services.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Personal background and professional experience including a Doctorate in German, Masters Degrees in Modern Languages and Law, Fellowship of the Chartered Insurance Institute, and experience in Financial Services.",
+    "politicalExperience": [
+      {
+        "role": "Chairman of a Parish Council, Governor at a primary school, involvement with the Community Safety Partnership tackling crime, fire, and probation and health issues.",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "UKIP South Ribble UKIP P.O. Box 2034, Liverpool, L69 2DG.",
+      "phone": "01772 837 077",
+      "email": "david.gallagher.ukip@gmail.com",
+      "website": "www.davidgallaghersouthribbleukip.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Gallagher campaign images"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

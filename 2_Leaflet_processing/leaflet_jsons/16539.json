@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Bradford",
+    "politicalParty": "Green Party",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "BRADFORD GOES GREEN",
+        "content": "On the 7th May, everyone in Bradford District will have the chance to vote for a different kind of politics. Following our surge in national support, Bradford Green Party will, for the first time, be fielding candidates in all five Westminster constituencies and all thirty council wards."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Welfare",
+        "policyDescription": "Make welfare fairer to protect the most vulnerable in society."
+      },
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Make the top 1% and big business pay their fair share of tax."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Stop the privatisation of the NHS and reverse the cuts."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build truly affordable housing for all."
+      },
+      {
+        "policyTitle": "Environment and Energy",
+        "policyDescription": "Tackle climate change and invest in renewable energy."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Our current economic system is too unequal and exploitative. Our reckless consumerism is environmentally damaging and unsustainable.",
+      "education": "",
+      "environment": "Tackle climate change and invest in renewable energy.",
+      "governance": "",
+      "health": "Stop the privatisation of the NHS and reverse the cuts.",
+      "immigration": "",
+      "socialWelfare": "Make welfare fairer to protect the most vulnerable in society.",
+      "housing": [
+        {
+          "content":"Build truly affordable housing for all.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "bradford.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A special bulletin for the General and Local Elections in May 2015."
+        }
+      ]
+    },
+    "additionalNotes": "The Green Party believes the politics of the future doesn’t have to look like the politics of the past."
+  }
+}
+```

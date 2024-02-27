@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Lyon",
+    "constituency": "Winchester",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "Dear Voter,",
+        "content": "These are important times. Stakes are high and the opportunities great as we leave the EU. For 40 years the main parties have been weak on Europe. UKIP are not. Meantime we have other serious issues to tackle."
+      },
+      {
+        "title": "Britain Together",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Europe",
+        "policyDescription": "UKIP are not weak on Europe."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Addressing issues with the NHS, poorly managed and underfunded."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Tackling uncontrolled immigration."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Fixing a broken housing system."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Dealing with low industrial output, a shortage of apprenticeships, tax burden on SMEs and pressure on public services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin Lyon",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "UKIP are not weak on Europe.",
+      "economy": "Addressing low industrial output, a shortage of apprenticeships, tax burden on SMEs and pressure on public services.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The NHS, poorly managed and underfunded.",
+      "immigration": "Tackling uncontrolled immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Fixing a broken housing system.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "As a parent, ex-county councillor and professional business person I will represent you well.",
+    "politicalExperience": [
+      {
+        "role": "Ex-county councillor",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07876 210815",
+      "email": "",
+      "website": "www.ukipwinchester.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A photo of Martin Lyon."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

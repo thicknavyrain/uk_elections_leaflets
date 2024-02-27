@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "MARIA CAULFIELD",
+    "constituency": "Caerphilly",
+    "politicalParty": "Welsh Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "I'm Maria Caulfield and I am standing as the Conservative Parliamentary Candidate at this year's general election."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Redevelopment of the town centre",
+        "policyDescription": "Getting the redevelopment of the town centre back on track."
+      },
+      {
+        "policyTitle": "Tourism",
+        "policyDescription": "Promoting tourism in Caerphilly."
+      },
+      {
+        "policyTitle": "Local police station",
+        "policyDescription": "Campaigning against the closure of Caerphilly police station."
+      },
+      {
+        "policyTitle": "Farming communities",
+        "policyDescription": "Helping our farming communities."
+      },
+      {
+        "policyTitle": "Housing in Bedwas",
+        "policyDescription": "Supporting residents in Bedwas who are worried about the proposed housing development on contaminated land."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "As a cancer research nurse, I am looking after patients undergoing new treatments for breast cancer. It was my experience of working in the NHS that encouraged me to join the Conservatives when I became increasingly frustrated with staff shortages, long waits for treatment and the closure of local hospitals.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Supporting residents in Bedwas who are worried about the proposed housing development on contaminated land.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I'm living in Gelligaer and currently work as a cancer research nurse looking after patients undergoing new treatments for breast cancer. It was my experience of working in the NHS that encouraged me to join the Conservatives when I became increasingly frustrated with staff shortages, long waits for treatment and the closure of local hospitals.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.caulfieldforcaerphilly.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Maria Caulfield - Conservative Candidate for Caerphilly"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "James Booth",
+    "constituency": "Macclesfield",
+    "politicalParty": "Green Party",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "YES TO EUROPE. NO TO CLIMATE CHAOS",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "James Booth",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "James Booth standing in front of a fountain"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by Walter Houston on behalf of the Green Party, 35 Brock Street, Macclesfield, SK10 1DL. Printed on FSC sustainable paper by Paragon, 12 Oaks Road, Dagenham, RM9 6BF."
+  }
+}
+```

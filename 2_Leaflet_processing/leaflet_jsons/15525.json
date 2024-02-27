@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "A better plan. A better future.",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Health",
+    	"policyDescription": "20,000 more nurses and 8,000 more GPs. A guaranteed GP appointment within 48 hours."
+  	},
+  	{
+    	"policyTitle": "Jobs",
+    	"policyDescription": "A minimum wage working out at £8 an hour by 2019. A Compulsory Jobs Guarantee, paid for by a bank bonus tax."
+  	},
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "200,000 homes built a year by 2020 guaranteed."
+  	},
+  	{
+    	"policyTitle": "Young People",
+    	"policyDescription": "An apprenticeship for every school leaver who gets the grades."
+  	},
+  	{
+    	"policyTitle": "Childcare",
+    	"policyDescription": "25 hours free childcare for 3 & 4-year-olds."
+  	},
+  	{
+    	"policyTitle": "Lower Energy Bills",
+    	"policyDescription": "Freeze energy bills until 2017 and give the regulator the power to cut bills this winter."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "20,000 more nurses and 8,000 more GPs. A guaranteed GP appointment within 48 hours.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"200,000 homes built a year by 2020 guaranteed.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "A better plan. A better future."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Boost Brum's bobbies",
+        "policyDescription": "Put police back on the street. Provide more Community Support Officers. No to Labour's expensive ID cards."
+      },
+      {
+        "policyTitle": "Beating Gordon Brown's recession",
+        "policyDescription": "Create 1,000 paid work experience places for young people. Invest in Birmingham's businesses. Working to protect key services from Labour's cuts."
+      },
+      {
+        "policyTitle": "Better access to higher Education & training",
+        "policyDescription": "Further increase average exam results. Increase numeracy and literacy skills. Continue to build and renovate schools."
+      },
+      {
+        "policyTitle": "A Clean & Green City",
+        "policyDescription": "Clear all fly tipping and grafitti within 48 hours. Increase recycling rate. Expand kerb side collections. A continuous programme to reduce CO2 emissions."
+      },
+      {
+        "policyTitle": "Provide 1,000 new social homes by 2010",
+        "policyDescription": "500 newly built Council homes. 300 renovated and run down homes renovated and brought back into use."
+      },
+      {
+        "policyTitle": "Cut congestion, better transport for all",
+        "policyDescription": "Provide low cost off peak travel for everyone. Introduce an expressway route across the city. Double previous bus rail links and stations."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Create 1,000 paid work experience places for young people. Invest in Birmingham's businesses. Working to protect key services from Labour's cuts.",
+      "education": "Further increase average exam results. Increase numeracy and literacy skills. Continue to build and renovate schools.",
+      "environment": "Clear all fly tipping and grafitti within 48 hours. Increase recycling rate. Expand kerb side collections. A continuous programme to reduce CO2 emissions.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Provide 1,000 new social homes by 2010, which includes 500 newly built Council homes and 300 renovated and run down homes brought back into use.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image captions not identified from the leaflet."
+        }
+      ]
+    },
+    "additionalNotes": "These are the things for the Council to do before May 2011. Encourages readers to rank the issues in order of importance."
+  }
+}
+```

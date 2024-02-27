@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ian Jenkins",
+    "constituency": "Aldridge-Brownhills Constituency",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The Lib Dem difference",
+        "content": "The Liberal Democrats will take action to protect frontline NHS services. We will put more police on patrol, restore the pensions' earnings link and deliver fair pay for the armed forces."
+      },
+      {
+        "title": "Liberal Democrats are winning for Britain",
+        "content": "Run many of our biggest cities including Liverpool, Sheffield and Bristol. More votes than Labour in the latest elections. Are stronger now than at any time since 1929. Can deliver real change across Britain today."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Take action to protect frontline NHS services."
+      },
+      {
+        "policyTitle": "Police",
+        "policyDescription": "Put more police on patrol."
+      },
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "Restore the pensions' earnings link."
+      },
+      {
+        "policyTitle": "Armed Forces",
+        "policyDescription": "Deliver fair pay for the armed forces."
+      },
+      {
+        "policyTitle": "Tax Plan",
+        "policyDescription": "Nick Clegg’s tax plan means that you will pay no tax on the first £10,000 you earn – cutting most tax bills by £700."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ian Jenkins",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Tory Health spokesman accepted £21,000 donation from private health firm boss.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "First of all, I believe in Social Justice; fairness for all underpins every Liberal Democrat policy. That is why we want to scrap income tax for low earners.",
+    "politicalExperience": [
+     
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+     
+    ],
+    "quotes": [
+      {
+        "text": "We've lived through this mistake for 60 years... reality is it [the NHS] hasn't worked - it has made people iller...",
+        "source": "Senior Conservative MEP Daniel Hannan, Summer 2009",
+        "date": "Summer 2009"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ian Jenkins in front of a railing bridge."
+        },
+        {
+          "caption": "Ian Jenkins with Nick Clegg and Liberal Democrats showing support across Britain."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

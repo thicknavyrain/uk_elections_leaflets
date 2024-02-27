@@ -1,0 +1,47 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "John Cryer",
+	"constituency": "Leyton & Wanstead",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 8 June",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "John Cryer",
+  	"otherPartyLeaderCandidate": "Tories",
+  	"partyLeader": "",
+  	"tacticalSituation": "it's a straight fight between Labour and the Tories."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "John Cryer"
+    	}
+  	]
+	},
+	"additionalNotes": "Don't be tempted by irrelevant fringe parties. Vote Labour to make sure Leyton & Wanstead stays Labour."
+  }
+}
+```

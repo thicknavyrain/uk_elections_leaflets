@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nicola Sturgeon",
+    "constituency": "",
+    "politicalParty": "SNP",
+    "electionDate": "Thursday 5 May",
+    "messages": [
+      {
+        "title": "5 more steps will take her to a better future.",
+        "content": "An SNP government will drive forward our ambition to have a world-class education system, and double free childcare by 2021. We'll increase the NHS budget in each and every year of the next parliament, and build five new flagship centres to reduce waiting times in key elective specialties. We'll deliver 30,000 new apprenticeships each year by 2021, retain the small business bonus, and back enterprise to create jobs and put more into pay packets. We'll build 50,000 affordable homes, help more families own their home with interest-free equity loans, and make private renting fairer. We'll use new Holyrood powers to better support the most vulnerable in society, and protect pensioner benefits like free bus travel and free personal care."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Drive forward ambition for a world-class education system, and double free childcare by 2021."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Increase the NHS budget annually and build five new flagship centres to reduce waiting times in key elective specialties."
+      },
+      {
+        "policyTitle": "Jobs and Economy",
+        "policyDescription": "Deliver 30,000 new apprenticeships each year by 2021, retain the small business bonus, and back enterprise to create jobs and increase pay."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build 50,000 affordable homes, support home ownership with interest-free equity loans, and make private renting fairer."
+      },
+      {
+        "policyTitle": "Social Welfare",
+        "policyDescription": "Use new Holyrood powers to better support the most vulnerable in society, and protect pensioner benefits like free bus travel and personal care."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nicola Sturgeon",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nicola Sturgeon",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Drive forward ambition for a world-class education system, and double free childcare by 2021.",
+      "environment": "",
+      "governance": "",
+      "health": "Increase the NHS budget annually and build five new flagship centres to reduce waiting times in key elective specialties.",
+      "immigration": "",
+      "socialWelfare": "Use new Holyrood powers to better support the most vulnerable in society, and protect pensioner benefits like free bus travel and personal care.",
+      "housing": [
+        {
+          "content": "Build 50,000 affordable homes, support home ownership with interest-free equity loans, and make private renting fairer.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "In government the SNP has delivered real progress. Our manifesto sets out the next steps, our vision and ideas for the next five years. With your support we can keep Scotland moving forward. Together we can make our country a better place to live and work for all the generations to come.",
+    "politicalExperience": [
+      {
+        "role": "First Minister",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.snp.org/manifesto",
+      "socialMedia": {
+        "facebook": "/TheSNP",
+        "twitter": "@theSNP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "5 more steps will take her to a better future."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

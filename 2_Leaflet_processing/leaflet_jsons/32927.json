@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Carolyn Webster",
+    "constituency": "Cardiff West",
+    "politicalParty": "Welsh Conservatives",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "GET BREXIT DONE",
+        "content": "It’s time to get Brexit done so we can focus on our other priorities. For too long the opposition parties have blocked the legislation to exit the EU. Only the Conservatives can deliver Brexit with a majority government."
+      },
+      {
+        "title": "TURBOCHARGE OUR ECONOMY",
+        "content": "To grow our economy and help business, we need to reduce business rates and improve our infrastructure. New developments are being built with no thought to the impact they will have on already busy roads. We need to change this."
+      },
+      {
+        "title": "MORE POLICE",
+        "content": "Crime is too high in Cardiff. We are already seeing more police being recruited, and we need to give them the tools then the power to stop crime like County Lines Drug gangs, which blight our community."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "GET BREXIT DONE",
+        "policyDescription": "Only the Conservatives can deliver Brexit with a majority government."
+      },
+      {
+        "policyTitle": "TURBOCHARGE OUR ECONOMY",
+        "policyDescription": "Plan includes reducing business rates and improving infrastructure, acknowledging the issue of new development's impact on traffic."
+      },
+      {
+        "policyTitle": "MORE POLICE",
+        "policyDescription": "A pledge to tackle crime in Cardiff with more police recruitment and providing them with necessary tools and power."
+      }
+    ],
+    "mentions": {
+      "candidate": "Carolyn Webster",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Only the Conservatives can deliver Brexit with a majority government.",
+      "economy": "To grow our economy and help business, we need to reduce business rates and improve our infrastructure.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "New developments are being built with no thought to the impact they will have on already busy roads.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Carolyn Webster - A strong local voice for Cardiff West"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

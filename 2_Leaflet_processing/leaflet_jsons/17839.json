@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mike Thornton",
+    "constituency": "Eastleigh",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 7th",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stronger Economy",
+        "policyDescription": "Balance budget by 2018, cut taxes for low and middle income workers, create new jobs"
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Bringing back proper checks so we know who’s entering and leaving the UK."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mike Thornton",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Residents know elections here in Eastleigh will be between the Lib Dems and Conservatives. Labour and UKIP finished in poor third and fourth places at the last general election here."
+    },
+    "issues": {
+      "brexitEurope": "Bringing back proper checks so we know who’s entering and leaving the UK.",
+      "economy": "An £800 Income Tax cut for 54,800 ordinary local workers. Halved the deficit and helped businesses create 1-9 million new jobs.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "Bringing back proper checks so we know who’s entering and leaving the UK.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Freepost RTLH-YZCX-BKXE, Eastleigh Liberal Democrats, 109 Leigh Road, Eastleigh SO50 9DR.",
+      "phone": "",
+      "email": "",
+      "website": "www.mikethornton.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mike Thornton engaging with constituents"
+        }
+      ]
+    },
+    "additionalNotes": "The tactical situation implies that voting for Labour or UKIP will just help the Conservative candidate."
+  }
+}
+```

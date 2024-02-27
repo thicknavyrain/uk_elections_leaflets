@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Standing Alongside and Working with You",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Rural Broadband",
+        "policyDescription": "Challenged ministers 88 times on rural broadband"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Introduced a bill to cap management fees on new-build estates"
+      },
+      {
+        "policyTitle": "Agriculture",
+        "policyDescription": "Stood up for hill farmers in Parliament"
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Championed our Geothermal Energy resources"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Championed our Geothermal Energy resources",
+      "governance": "Stopped the closure of Ward 6 and saved Breast Screening at Bishop Hospital",
+      "health": "Started the campaign to save the Zurbaran Paintings at Auckland Castle",
+      "immigration": "",
+      "socialWelfare": "Led Labour's campaign against the Bedroom Tax",
+      "housing": [
+        {
+          "content": "Introduced a bill to cap management fees on new-build estates",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of the candidate with hill farmers."
+        },
+        {
+          "caption": "Image of the candidate with constituents."
+        },
+        {
+          "caption": "Image of the candidate with a geothermal energy resource document."
+        },
+        {
+          "caption": "Image of the candidate starting the campaign to save the Zurbaran Paintings."
+        },
+        {
+          "caption": "Image of the candidate protesting against the closure of Ward 6 at the Bishop Hospital."
+        }
+      ]
+    },
+    "additionalNotes": "Gave help and advice on 44,519 constituent cases."
+  }
+}
+```

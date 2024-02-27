@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Pitts",
+    "constituency": "Colchester",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Straight talking. Vote UKIP",
+        "content": "Say NO to mass immigration\nSay YES to referendums on all major issues\nSay NO to wasting £45 million a day in Brussels\nSEND THE POLITICIANS A MESSAGE..."
+      },
+      {
+        "title": "My local issues are",
+        "content": "Restore honesty and integrity to politics and public life.\nCut the enormous waste in public spending, both locally and nationally."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Say NO to mass immigration"
+      },
+      {
+        "policyTitle": "Democratic Engagement",
+        "policyDescription": "Say YES to referendums on all major issues"
+      },
+      {
+        "policyTitle": "EU Expenditure",
+        "policyDescription": "Say NO to wasting £45 million a day in Brussels"
+      },
+      {
+        "policyTitle": "Honesty in Politics",
+        "policyDescription": "Restore honesty and integrity to politics and public life."
+      },
+      {
+        "policyTitle": "Public Spending",
+        "policyDescription": "Cut the enormous waste in public spending, both locally and nationally."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Pitts supports local opposition to over-development of housing in Colchester, and the need to tackle congestion in the Town.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Say NO to wasting £45 million a day in Brussels",
+      "economy": "Cut the enormous waste in public spending, both locally and nationally.",
+      "education": "",
+      "environment": "",
+      "governance": "Restore honesty and integrity to politics and public life.",
+      "health": "",
+      "immigration": "Say NO to mass immigration",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "John Pitts supports local opposition to over-development of housing in Colchester, and the need to tackle congestion in the Town.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "John was born and raised in Colchester, and is a family man with five children and two grandchildren. John was a parish councillor and a school governor, he is also an active member of his local church. He is a local businessman, principally in transport and property. He is concerned about EU over-regulation that is stifling business.",
+    "politicalExperience": [
+      {
+        "role": "Parish Councillor",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "School Governor",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "UKIP Freepost RSTU-ZJGB-UGGL, UK Independence Party, PO Box 408, Newton Abbot TQ12 9BG",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Pitts for Colchester"
+        }
+      ]
+    },
+    "additionalNotes": "Please detach this coupon and endorse John Pitts by which you can write the Freepost address – no stamp required."
+  }
+}
+```

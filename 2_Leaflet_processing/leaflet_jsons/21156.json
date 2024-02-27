@@ -1,0 +1,103 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "the Highlands",
+    "politicalParty": "Lib Dems",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Lib Dems Delivering for the Highlands",
+        "content": "£800 tax cut up to £1,200, Guaranteed pension rises, Cheaper fuel for our cars"
+      },
+      {
+        "title": "THE CRUCIAL QUESTION: Who can we trust to fight for NHS Highland?",
+        "content": "The SNP? Or The Lib Dems?"
+      },
+      {
+        "title": "Don't let the SNP get away with it...",
+        "content": "Only the Lib Dems can stop the SNP in the Highlands"
+      },
+      {
+        "title": "A record of action for the Highlands",
+        "content": "The Liberal Democrats have a long record of fighting for the Highlands."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax Cuts",
+        "policyDescription": "£800 tax cut for Highland workers in Government."
+      },
+      {
+        "policyTitle": "Pension",
+        "policyDescription": "Guaranteed pension rises delivering the biggest pension increase ever."
+      },
+      {
+        "policyTitle": "Fuel",
+        "policyDescription": "The Lib Dems are saving motorists 20p per litre on fuel and securing a major fuel duty reduction in the most rural areas."
+      },
+      {
+        "policyTitle": "NHS Highlands",
+        "policyDescription": "The Lib Dems propose £800 million extra for our Scottish NHS, more support for hard-pressed staff and prioritizing mental health treatment."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "The SNP",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "£800 tax cut for Highland workers in Government, guaranteed pension rises, cheaper fuel for our cars.",
+      "education": "",
+      "environment": "Cheaper fuel for our cars.",
+      "governance": "Criticism of SNP's centralization.",
+      "health": "NHS Highland funding issues and centralization by the SNP, £800 million extra for Scottish NHS, support for staff, mental health treatment prioritization.",
+      "immigration": "",
+      "socialWelfare": "The biggest pension increase ever.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Highlands Champion",
+        "duration": "",
+        "achievements": "Long record of fighting for the Highlands, investment in rural broadband, discount stores to invest in the region, ferries discounts, saving 307 rural post offices, creating thousands of modern apprenticeships."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Charles Kennedy",
+        "endorsement": "Highlands Champion"
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Luke Pollard",
+    "constituency": "SW Devon",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A future fair for all",
+        "content": "Sometimes clichés are right - I'm standing for election because I want to make a difference. Isn't that what an MP should do?"
+      },
+      {
+        "title": "It's all about the incinerator",
+        "content": "Two years ago the Tories were told about plans for an incinerator near Ivybridge and Lee Mill but they didn't do anything about it until Labour started campaigning."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting the Incinerator",
+        "policyDescription": "Luke has been leading the fight against the incinerator. He demands action from the Tories about the incinerator and led the campaign against it."
+      }
+    ],
+    "mentions": {
+      "candidate": "Luke Pollard",
+      "otherPartyLeaderCandidate": "the Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Sometimes clichés are right - I'm standing for election because I want to make a difference. Isn't that what an MP should do?",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": "Leading the fight against the incinerator in SW Devon."
+      }
+    ],
+    "contactInformation": {
+      "address": "Freepost RRYU-XJYX-GSEC, Plymouth PL2 3AQ",
+      "phone": "01752 424412",
+      "email": "luke@lukepollard.net",
+      "website": "http://www.lukepollard.org",
+      "socialMedia": {
+        "facebook": "/LukePollard",
+        "twitter": "LukePollard",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Helen, Local Resident",
+        "endorsement": "I think most people know that Luke has been leading the fight against the incinerator. We need an MP with a bit of get-up-and-go - we need an MP like Luke."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Luke with local residents campaigning against the incinerator."
+        }
+      ]
+    },
+    "additionalNotes": "My pledges to you: I will be a full time MP, I will prioritize cancer care, I will protect our public services, I will oppose the NHS, denting, school cuts in vital services, I will support a living minimum wage."
+  }
+}
+```

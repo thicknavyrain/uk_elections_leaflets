@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Give cancer patients the drugs they need on the NHS.",
+    	"content": "Conservatives will make sure all cancer patients get the drugs they need, for free on the NHS."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Cancer Drugs Fund",
+    	"policyDescription": "Use NHS savings to create a Cancer Drugs Fund worth £200 million, ensuring cancer patients get new drugs for free on the NHS."
+  	},
+    {
+      "policyTitle": "Overhaul Drug Assessment and Pricing",
+      "policyDescription": "Completely overhaul the way drugs are assessed and priced by negotiating with drug companies, making all effective new drugs free on the NHS."
+    }
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Labour",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Ensure all cancer patients get the drugs they need, for free on the NHS using a new Cancer Drugs Fund and by overhauling how drugs are assessed and priced.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "The Conservative Party, 30 Millbank, London, SW1P 4DP",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Give cancer patients the drugs they need on the NHS."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

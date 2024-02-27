@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nicky Morgan",
+    "constituency": "Loughborough",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "60 SECOND Q&A",
+        "content": "Nicky, you've spent hundreds of hours listening to thousands of voters on the doorsteps. What have you learned?"
+      },
+      {
+        "title": "",
+        "content": "A personal message from David Cameron: Why we need change in Britain today"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Nicky Morgan",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The country needs a change of direction. You know, all that stuff about a broken economy, a broken society, suburban politics - it's not just doorstep talk, it's true - and people I meet on the doorsteps know it's true. And they want it fixed.",
+      "education": "We'll make Britain the most family-friendly country in Europe, keeping tax credits, improve Sure Start and providing 4,200 extra Sure Start health visitors.",
+      "environment": "",
+      "governance": "",
+      "health": "I am personally committed to the NHS, so we'll increase spending and improve it for everyone. We'll get the economy moving by tackling the debt and over two years create 400,000 apprenticeships, training places and work pairings. We'll stop Labour's job tax which will kill the recovery, meaning that seven out of ten working people will be better off than under Labour.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Nicky campaigned with local residents for new town/boroughs to gain control over major housing developments in away from the 'top-down' central government. She pledges to give people a real say in reversing the decision.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Nicky has been working hard on behalf of all residents for the past six years. Nicky has championed hundreds of issues and visited many groups and organisations across the constituency.",
+    "politicalExperience": [
+      {
+        "role": "MP Candidate",
+        "duration": "Since 2005",
+        "achievements": "Nicky stood for election here in 2005 and made Loughborough a key marginal seat."
+      }
+    ],
+    "contactInformation": {
+      "address": "3 Nottingham Road, Loughborough, LE11 1ER.",
+      "phone": "01509 262723",
+      "email": "nicky@nickymorgan.com",
+      "website": "www.nickymorgan.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nicky Morgan with David Cameron."
+        },
+        {
+          "caption": "Nicky Morgan talking to residents."
+        },
+        {
+          "caption": "Photo of David Cameron writing."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet includes a personal message from David Cameron endorsing Nicky Morgan and emphasizing the need for change in Britain."
+  }
+}
+```

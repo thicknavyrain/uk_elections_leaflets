@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Olivia Blake",
+    "constituency": "Sheffield Hallam",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "'I'LL FIGHT FOR OUR NHS'",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Rebuild public services",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Tackle the climate emergency",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "End the Tories' Brexit chaos with a 'final say' referendum",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Olivia Blake wants to hear from you to know about what real change means",
+      "otherPartyLeaderCandidate": "End the Tories' Brexit chaos",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "End the Tories' Brexit chaos with a 'final say' referendum",
+      "economy": "",
+      "education": "",
+      "environment": "Tackle the climate emergency",
+      "governance": "",
+      "health": "'I'LL FIGHT FOR OUR NHS'",
+      "immigration": "",
+      "socialWelfare": "Rebuild our public services",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "I want to be your MP so we can rebuild our public services, tackle the climate emergency, and end the Tories' Brexit chaos with a 'final say' referendum... I will campaign to Remain.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0114 272 4964",
+      "email": "olivia@oliviablake.org.uk",
+      "website": "www.oliviablake.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/oliviablakeuk",
+        "twitter": "oliviablakeuk",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Olivia Blake standing outside, caption reads 'VOTE FOR OLIVIA BLAKE Labour Candidate for Sheffield Hallam'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

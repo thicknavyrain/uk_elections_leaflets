@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Pippa Heylings",
+    "constituency": "",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "It's Pippa or the Brexit Tory here",
+        "content": ""
+      },
+      {
+        "title": "THE CHOICE IS CLEAR",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Pippa Heylings",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "",
+      "tacticalSituation": "More and more Labour voters backing Pippa to win here."
+    },
+    "issues": {
+      "brexitEurope": "Brexit-supporting candidate",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Pippa Heylings with supporters"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet positions Pippa Heylings against a Brexit-supporting Tory candidate, alluding to Boris Johnson. It mentions a tactical voting situation where Labour voters are backing Pippa to win."
+  }
+}
+```

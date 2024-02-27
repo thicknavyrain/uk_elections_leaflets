@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Michael McCann",
+    "constituency": "East Kilbride, Strathaven and Lesmahagow",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "A fairer economy",
+        "policyDescription": "Calls for tax fairness, protection of pension pot, mansion tax to fund NHS, and opposes 'SNP's plan for more austerity'."
+      },
+      {
+        "policyTitle": "Protect our local NHS",
+        "policyDescription": "Intends to use funds from a mansion tax to hire more nurses and general practitioners."
+      },
+      {
+        "policyTitle": "Back the next generation",
+        "policyDescription": "Support for younger people with a proposal to provide a guaranteed apprenticeship for 18 and 19-year-olds and opposes tuition fees for university."
+      }
+    ],
+    "mentions": {
+      "candidate": "Michael McCann",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Calls for tax fairness, pledges to protect pension pot and proposes a mansion tax to fund NHS.",
+      "education": "Opposes tuition fees, supports younger generation with apprenticeships.",
+      "environment": "",
+      "governance": "",
+      "health": "Pledges to hire 1,000 more nurses in Scotland and guarantee a GP appointment within 48 hours.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Using funds from mansion tax to tackle chronic housing issues.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Michael believes that the next generation will achieve more than his family has and that there should be no limit on their ambitions.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "31 Rosnyhill Avenue, East Kilbride, G74 4BJ",
+      "phone": "07946 027916",
+      "email": "vote@michaelmccann.org.uk",
+      "website": "www.michaelmccann.org.uk",
+      "socialMedia": {
+        "facebook": "www.facebook.com/votemichaelmccannmp",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Michael McCann with his family and a dog, expressing family values."
+        },
+        {
+          "caption": "Image of Michael McCann visiting healthcare professionals, emphasizing his support for the NHS."
+        },
+        {
+          "caption": "Image of Michael McCann with younger people, highlighting his focus on the next generation."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Hemming",
+    "constituency": "Yardley",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Nick Clegg’s 10 Reasons to vote Lib Dem",
+        "content": "John Hemming is an excellent MP who works hard for Yardley."
+      },
+      {
+        "title": "Your New 4 - Ward Constituency",
+        "content": "Acocks Green is now part of the new Yardley constituency. Make sure your vote counts."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protect NHS and free doctors",
+        "policyDescription": "Promises more police on patrol, tougher border control, fair taxes, protect NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Hemming has a record of action locally second to none.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Tories out of the running. The Conservatives got just 10% in the last General Election here and could finish fourth. They are not Tory councillors in this constituency. The Conservatives have lost the last 79 elections here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "A promise of more ACTION, Hardworking local Lib Dem campaigner for 25 years.",
+      "health": "Protect NHS and free doctors paid by £700.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "John Hemming is the local choice in this election. He has family roots here, his mum is from Acocks Green, and his dad from Hay Mills in Birmingham.",
+    "politicalExperience": [
+      {
+        "role": "Birmingham Council",
+        "duration": "20 years",
+        "achievements": "Led successful firm to save 2 local fire stations from closure."
+      },
+      {
+        "role": "MP for Yardley",
+        "duration": "since 2005",
+        "achievements": "Has an impressive reputation as your MP since 2005."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.johnhemming.name",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Hemming pictured with constituents and in various campaign settings."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

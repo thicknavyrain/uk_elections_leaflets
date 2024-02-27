@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "North Warwickshire",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "WHY WE NEED CHANGE IN BRITAIN TODAY",
+        "content": "Thirteen years ago Labour were elected promising change. But we're writing to you today to tell you that you don't need to give up hope for a fresh start for this country. The Conservative Party has the energy and ideas to change Britain."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Increase spending and improve the commitment to the health service, including new cancer drugs."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Work to get the economy moving again and within two years create 400,000 new apprenticeships, training places and work pairings."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Work to get the economy moving again and within two years create 400,000 new apprenticeships, training places and work pairings.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Health service is personally committed to by the candidate, promising increased spending and improved services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Will work with local councils to free council tax for two years, raise the basic state pension in line with earnings, and protect winter fuel payments, free bus passes and free TV licenses for older people.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am personally committed to the NHS, so we'll increase spending and improve the commitment to the health service, including new cancer drugs.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The choice at this election is clear: five more years of Gordon Brown's tired government making things worse or change with the Conservatives.",
+        "source": "David Cameron",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron writing at his desk."
+        },
+        {
+          "caption": "David Cameron speaking to an audience."
+        },
+        {
+          "caption": "David Cameron in various interactions with the public."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

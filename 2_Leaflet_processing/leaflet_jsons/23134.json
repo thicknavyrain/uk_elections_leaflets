@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Suzanne Evans",
+    "constituency": "Shrewsbury and Atcham",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "Thursday May 7th",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Control our borders",
+        "policyDescription": "UKIP wants to regain control of the nation's borders and limit immigration."
+      },
+      {
+        "policyTitle": "Safeguard the NHS",
+        "policyDescription": "UKIP believes in a National Health Service free at the point of use."
+      },
+      {
+        "policyTitle": "Political reform",
+        "policyDescription": "UKIP wants to reform the political system to end the out of touch Westminster club."
+      }
+    ],
+    "mentions": {
+      "candidate": "Suzanne Evans",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "KEEP OUR GREEN FIELDS - UKIP opposes the 'house building free-for-all' on green fields and would rather see brownfield sites developed first.",
+      "governance": "",
+      "health": "Safeguard the NHS: UKIP believes in a National Health Service free at the point of use.",
+      "immigration": "Control our borders: UKIP wants to regain control of the nation's borders and limit immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "KEEP OUR GREEN FIELDS - UKIP opposes the 'house building free-for-all' on green fields and would rather see brownfield sites developed first.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "07591 075717",
+      "email": "suzanne.evans@ukip.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Suzanne Evans for Shrewsbury and Atcham"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

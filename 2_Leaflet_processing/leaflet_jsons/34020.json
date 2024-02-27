@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Ben Sims",
+	"constituency": "Leyton and Wanstead",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "THIS ELECTION IS YOUR CHANCE TO",
+    	"content": "STOP BREXIT BUILD A BRIGHTER FUTURE"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Brexit",
+    	"policyDescription": "The Liberal Democrats intend to stop Brexit in an effort to build a brighter future."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Ben Sims",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "Jo Swinson",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "The Liberal Democrats aim to stop Brexit, criticizing the Conservatives for trying to force through a damaging Brexit that risks the economy and the end of the United Kingdom.",
+  	"economy": "They warn that the Conservative's Brexit plan will wreck the economy.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "Liberal Democrats at Office 2, 12a Madhouse Avenue, London, E10 7NP",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives.",
+    	"source": "Campaign Message",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Ben Sims standing before Big Ben."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,124 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Greg Knight",
+    "constituency": "East Yorkshire",
+    "politicalParty": "Conservative Party",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "What They Say",
+        "content": "Quotes from Phil Woolas MP, Eric Pickles MP, and Rt Hon David Cameron MP endorsing Greg Knight."
+      },
+      {
+        "title": "Greg's Pledges",
+        "content": "Pledges include addressing violent crime, immigration reductions, support for David Cameron's plans for a referendum on Europe, NHS campaign, rural broadband initiatives, saving pubs, and supporting the state pension freeze."
+      },
+      {
+        "title": "NHS Labour have let us down says Greg",
+        "content": "Concern about the state of local health services, with a pledge to continue campaigning for the retention and return of local health services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "Aim to address violent crime which is up under Labour. Pledges to implement knife crime prevention measures with more street patrols and make violent crime carry a prison sentence."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Plans to significantly reduce immigration, supporting David Cameron's stance."
+      },
+      {
+        "policyTitle": "Europe",
+        "policyDescription": "Wants a referendum on Europe and an audit of the costs and benefits of UK membership."
+      },
+      {
+        "policyTitle": "Health Service",
+        "policyDescription": "Promises hard work in securing the future of local hospitals in Bridlington and at Driffield. Aims to address labour's failings in NHS."
+      },
+      {
+        "policyTitle": "Rural Broadband",
+        "policyDescription": "Campaign to extend broadband coverage to the rural parts of East Riding."
+      },
+      {
+        "policyTitle": "Local Pubs",
+        "policyDescription": "Aims to support struggling pubs, especially those in rural areas, with a mention of celebrity chef Anthony Worrall Thompson's involvement."
+      },
+      {
+        "policyTitle": "Pension",
+        "policyDescription": "Supports the state pension being increased in line with earnings to reverse pensioners' reliance on means testing. Backs a two-year freeze on Council Tax plans."
+      }
+    ],
+    "mentions": {
+      "candidate": "Greg Knight",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Wants a referendum on Europe and an audit of the costs and benefits of UK membership.",
+      "economy": "Supports a two-year freeze on Council Tax plans. Rural broadband initiatives mentioned as contributing to economic support.",
+      "education": "",
+      "environment": "Campaign to save local pubs which often serve as community hubs.",
+      "governance": "Support for David Cameron’s plans and governance.",
+      "health": "Calls for the retention and improvement of local health services, criticizes Labour's handling of the NHS.",
+      "immigration": "Plans to significantly reduce the levels of immigration.",
+      "socialWelfare": "Support for increasing the state pension in line with earnings.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0845 0900203",
+      "email": "secretary@gregknight.com",
+      "website": "www.gregknight.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Phil Woolas MP",
+        "endorsement": "Greg has impeccable judgement which is of great value, both to the party and to the House of Commons."
+      },
+      {
+        "endorser": "Eric Pickles MP, Chairman of the Conservative Party",
+        "endorsement": "Greg is a magnificent MP and he has impeccable judgement which is of great value, both to the party and to the House of Commons."
+      },
+      {
+        "endorser": "Rt Hon David Cameron MP",
+        "endorsement": "Greg Knight works very hard for you, both in East Yorkshire and at the House of Commons. He is an excellent MP."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I pay a lot of attention to what he says because my experience is that he makes thoughtful and correct amendments.",
+        "source": "Phil Woolas MP, Government Minister",
+        "date": ""
+      },
+      {
+        "text": "Greg Knight works very hard for you, both in East Yorkshire and at the House of Commons. He is an excellent MP.",
+        "source": "Rt Hon David Cameron MP",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photos related to campaign themes; Greg Knight with constituents, a protest for NHS, Greg Knight with Anthony Worrall Thompson, and Greg Knight at a pension event."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

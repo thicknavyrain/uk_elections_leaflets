@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Scotland needs champions.",
+        "content": "This election is about choosing who will be your Scottish MP in the House of Commons. A local champion who will work hard for you, your community and Scotland. Without a strong team of SNP MPs, Scotland's priorities can be ignored. The London parties want to cut spending on vital local services. At the same time they will waste £100 billion on new nuclear weapons. We believe that is the wrong choice. With your help we can make sure local services come first. Scotland needs champions. National champions to protect investment in jobs and public services. And local champions who will work hard to give this community the representation it needs. This time, don’t just vote for a politician, elect a local champion. Vote SNP."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Services and Nuclear Weapons",
+        "policyDescription": "Opposes cuts in local services by London parties and the waste of £100 billion on new nuclear weapons. Aims to ensure local services come first and to protect investment in jobs and public services."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "The London parties want to cut spending on vital local services.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "3 Jackson's Entry, Edinburgh EH8 8PJ",
+      "phone": "0800 633 5432",
+      "email": "myviews@snp.org",
+      "website": "www.snp.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Scotland needs champions."
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by Peter Murrell on behalf of the Scottish National Party, both at Gordon Lamb House, 3 Jackson's Entry, Edinburgh EH8 8PJ. Printed by Allander, 4 Easfield, Teviotdale, Edinburgh EH7 6QD."
+  }
+}
+```

@@ -1,0 +1,78 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Trafford",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Value for Money",
+        "policyDescription": "Describing the efforts to achieve value for money through lowest Council Tax in Greater Manchester and front line services protection."
+      },
+      {
+        "policyTitle": "Fighting Crime",
+        "policyDescription": "Highlighting the reduction in crime and the introduction of special constables to keep the area safe."
+      },
+      {
+        "policyTitle": "A Cleaner, Greener Borough",
+        "policyDescription": "Emphasizing commitment to environmental cleanliness through green bin collections and litter bin provision."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Green bin collections available all year and introduction of more than 200 new litter bins to keep streets tidy.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of a person running with children."
+        },
+        {
+          "caption": "Image of a piggy bank and coins representing financial savings."
+        },
+        {
+          "caption": "Image of special constables in discussion."
+        },
+        {
+          "caption": "Image of recycling bins."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

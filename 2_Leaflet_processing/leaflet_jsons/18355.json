@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "PATRICK O'FLYNN",
+    "constituency": "Cambridge",
+    "politicalParty": "UK INDEPENDENCE PARTY",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Social Housing",
+        "policyDescription": "Higher priority for social housing than newcomers."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Immigration must be controlled to end downward pressure on wages for working people."
+      },
+      {
+        "policyTitle": "Inheritance Tax",
+        "policyDescription": "Campaigning to scrap inheritance tax."
+      }
+    ],
+    "mentions": {
+      "candidate": "Patrick O'Flynn",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "Immigration must be controlled to end downward pressure on wages for working people.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Higher priority for social housing than newcomers.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am Cambridge born and bred and want to make Cambridge work better for all its people, not just a privileged few.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "07582 248106",
+      "email": "cambridge@ukip.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Patrick O'Flynn in Cambridge - Standing Up for Real Change"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

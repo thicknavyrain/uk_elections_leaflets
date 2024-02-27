@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Howard Lillyman",
+    "constituency": "Preseli Pembrokeshire",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Standing Up for Real Change",
+        "content": "Dear Voter, \n\nI am honoured to be selected as your candidate for Westminster. As a long supporter of [...] representative. I take politics into [...] only this part can represent fully Pembrokeshire voter's true feelings and aspirations. [...] All services are fully maintained at Withybush hospital including reinstating the special care baby unit. Our health service is vitally important to us all. We know we need change in Britain and only this party is promising you that change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health Service",
+        "policyDescription": "Pledges to ensure all services are fully maintained at Withybush hospital, including reinstating the special care baby unit."
+      }
+    ],
+    "mentions": {
+      "candidate": "Howard Lillyman",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Pledging full maintenance of all services at Withybush hospital and reinstating the special care baby unit.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "I am honoured to be selected as your candidate for Westminster.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01994419010",
+      "email": "howard.lillyman@btinternet.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Howard Lillyman with contact information and campaign colors."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contains a message to voters emphasizing health services as a key issue with a commitment to maintaining services at Withybush hospital, including the special care baby unit."
+  }
+}
+```

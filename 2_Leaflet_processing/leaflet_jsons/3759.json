@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "",
+    "politicalParty": "The Lib Dems",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Who will deliver the change we need on tax?",
+        "content": "The Lib Dems will reform taxes."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax reform",
+        "policyDescription": "The Lib Dems will reform taxes - lower taxes for low and middle earners paid for by closing loopholes for the richest and a new levy on banks."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "The Conservatives and Labour",
+      "partyLeader": "",
+      "tacticalSituation": "It's a TWO HORSE RACE!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Reform taxes, close loopholes for the richest, new levy on banks.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Fairer taxes that will help our country recover from the recession.",
+        "source": "Nick Clegg",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

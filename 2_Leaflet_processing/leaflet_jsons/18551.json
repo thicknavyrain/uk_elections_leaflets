@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Natalie Bennett",
+    "constituency": "Holborn & St Pancras",
+    "politicalParty": "Green Party",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "YOUR GREEN PARTY CANDIDATE",
+        "content": "Camden is a special place. It's a community with a sense of its own identity, deeply concerned about justice and fairness, full of people who think we need real change in Britain – towards a society that works for the common good, not just for the few."
+      },
+      {
+        "title": "YOUR GREEN PARTY LEADER",
+        "content": "Natalie Bennett is the leader of the Green Party. She's standing up against the damaging immigration rhetoric of UKIP, she's fighting to see every worker gets a living wage and she's determined to keep the profit motive out of the NHS."
+      },
+      {
+        "title": "",
+        "content": "The Green Party offers you a Britain of hope, not fear. On Thursday 7 May, you'll have the opportunity to deliver real change in Britain. Together we can make history by electing London's first Green MP."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Natalie seeks to ensure that the economy works for the common good, and stands against corporate interests that have dominated politics."
+      }
+    ],
+    "mentions": {
+      "candidate": "Natalie Bennett",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": "With Frank Dobson standing down as MP there are only Green and Labour councillors in the constituency."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Natalie stands against big business or corporate interests.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Natalie is determined to keep the profit motive out of the NHS.",
+      "immigration": "She's standing up against the damaging immigration rhetoric of UKIP.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Natalie Bennett offers a Britain of hope, not fear, and the opportunity to deliver real change in Britain.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "07885 235 282",
+      "email": "natalie.bennett@greenparty.org.uk",
+      "website": "www.votenatalie.org.uk",
+      "socialMedia": {
+        "facebook": "NatalieBennettGreen",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Natalie Bennett pictured on the campaign."
+        }
+      ]
+    },
+    "additionalNotes": "This publication has not been paid for by big business or corporate interests, but has been supported and funded by ordinary people."
+  }
+}
+```

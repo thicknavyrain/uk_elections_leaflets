@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Marcus",
+    "constituency": "Hampstead and Kilburn",
+    "politicalParty": "Conservative",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A Strong Voice for You",
+        "content": "Simon Marcus is the Conservative Candidate for Hampstead & Kilburn. He was born and bred in Hampstead and Kilburn and is proud to work hard as your MP."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Simon Marcus promises strong NHS with £2 billion extra and wants the best schools in Hampstead for our children."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Since 2010, the economy allegedly created 1.9 million jobs, and the plan is to help businesses create two million more by 2020."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Since 2010, a million more pupils in good and outstanding schools, with a pledge for 2 million more apprenticeships."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Plans to build 200,000 new homes for first-time buyers under the age of 40, giving the next generation the same chances our parents had."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Marcus",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Plans to continue the growth of the economy with the creation of more jobs, citing the economy as 'the fastest growing leading economy in the world'.",
+      "education": "A million more pupils in good and outstanding schools since 2010, with a pledge for 2 million more apprenticeships.",
+      "environment": "",
+      "governance": "",
+      "health": "Simon Marcus promises strong NHS with £2 billion extra funding.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Pledges to introduce Help to Buy ISA and build 200,000 new homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Simon Marcus stresses that he was born and bred in the area and would be proud to work hard as an MP. He believes in standing up for community values and talks about his experience as a business owner, co-founding a leading education charity, and working in politics.",
+    "politicalExperience": [
+      {
+        "role": "Founder of an education charity, business owner",
+        "duration": "",
+        "achievements": "Fought against raising tuition fees, against racism; helped to defeat the British National Party (BNP) in 2010."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "020 7794 5679",
+      "email": "simon@simonmarcus.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@SimonMarcus4MP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Boris Johnson",
+        "endorsement": "Boris Johnson shows his support stating 'Simon will fight harder for Hampstead & Kilburn than anyone else'."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We can build a better future for our country but securing a better future is also about tough love and taking tough decisions to turn the country around.",
+        "source": "Simon Marcus",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Various images depicting Simon Marcus's involvement in the community and with political figures."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet outlines past political actions, including fighting to keep tuition fees as low as possible, standing up to unprecedented racist attacks, and defeating the BNP in the 2010 election."
+  }
+}
+```

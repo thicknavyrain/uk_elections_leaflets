@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Laura Gordon",
+    "constituency": "Sheffield Hallam",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "DEMAND BETTER FOR SHEFFIELD HALLAM",
+        "content": "Laura is defending our NHS and schools from further Conservative cuts."
+      },
+      {
+        "title": "Laura Gordon - The choice you can trust",
+        "content": "Laura is demanding a People's Vote on Brexit to give you the final say."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Defending NHS and schools from further Conservative cuts."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Demanding a People's Vote on Brexit."
+      }
+    ],
+    "mentions": {
+      "candidate": "Laura Gordon",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The election will be between Labour's candidate and Lib Dem Laura Gordon - which means a clear choice between Lib Dems looking to the future or Labour going backwards. The best way to get an MP you can trust is to vote Lib Dem."
+    },
+    "issues": {
+      "brexitEurope": "Demanding a People's Vote on Brexit to give you the final say.",
+      "economy": "",
+      "education": "Defending NHS and schools from further Conservative cuts.",
+      "environment": "",
+      "governance": "",
+      "health": "Defending NHS and schools from further Conservative cuts.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Laura Gordon is a campaigner determined to get a better deal for Sheffield. She believes strongly that our area deserves a true local voice in Parliament.",
+    "politicalExperience": [
+      {
+        "role": "Campaigner",
+        "duration": "",
+        "achievements": "Working at the front line supporting people in our most dangerous places, supporting peace processes overseas, helping victims of famine, war, and disease, saving lives in the Congo, and leading walks in the Lake District."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.LauraGordon.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "\"Laura Gordon is a campaigner determined to get a better deal for Sheffield. She believes strongly that our area deserves a true local voice in Parliament.\"",
+        "source": "Campaign leaflet text",
+        "date": ""
+      },
+      {
+        "text": "\"Sheffield can't let anyone who isn't 100% focused on our interest represent us. Only Lib Dem Laura Gordon can beat Labour here in Sheffield Hallam.\"",
+        "source": "Campaign leaflet text",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Laura Gordon with constituents."
+        },
+        {
+          "caption": "Graph showing Labour, Lib Dem, and Conservative vote distribution in Sheffield Hallam."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

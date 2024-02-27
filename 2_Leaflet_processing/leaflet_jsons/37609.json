@@ -1,0 +1,56 @@
+{
+  "leaflet": {
+    "candidateName": "James Dornan",
+    "constituency": "Glasgow Cathcart",
+    "politicalParty": "Scottish National Party",
+    "electionDate": "May 5",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "James Dornan",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.snp.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Elect James Dornan, your SNP candidate for Glasgow Cathcart"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

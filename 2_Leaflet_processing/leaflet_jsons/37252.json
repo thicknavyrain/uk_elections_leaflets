@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ming Campbell MP",
+    "constituency": "Mid Scotland and Fife",
+    "politicalParty": "Scottish Liberal Democrats",
+    "electionDate": "Thursday 5th May",
+    "messages": [
+      {
+        "title": "A strong team with solutions for Scotland",
+        "content": "By voting for the Scottish Liberal Democrats on your peach regional ballot paper on May 5th you'll be backing a strong team led by former MP Willie Rennie. The more votes for Willie's team, the more they will be able to stand up for our area together with me."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Restoring excellence in education",
+        "policyDescription": "Scottish Liberal Democrats are offering solutions for Scotland, including restoring excellence in education."
+      },
+      {
+        "policyTitle": "Scotland working again",
+        "policyDescription": "Policies are described towards getting Scotland working again."
+      },
+      {
+        "policyTitle": "Local police force",
+        "policyDescription": "Proposals related to supporting the local police force."
+      },
+      {
+        "policyTitle": "Tackling climate change",
+        "policyDescription": "Plans to tackle climate change."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ming Campbell MP",
+      "otherPartyLeaderCandidate": "Willie Rennie",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Restoring excellence in education.",
+      "environment": "Tackling climate change.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "\"I hope you'll join me and back the team.\"",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.scotlibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "By voting for the Scottish Liberal Democrats on your peach regional ballot paper on May 5th you'll be backing a strong team led by former MP Willie Rennie.",
+        "source": "Ming Campbell MP",
+        "date": "Thursday 5th May"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ming Campbell MP alongside Willie Rennie and Charles Kennedy MP."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

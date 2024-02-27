@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Welsh Liberal Democrats",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "For a different type of MP",
+        "policyDescription": "Liberal Democrat MPs are community champions who always put their local communities first."
+      },
+      {
+        "policyTitle": "Fighting against an extreme Brexit",
+        "policyDescription": "The party opposes the extreme Brexit that UKIP want and is fighting to ensure Wales depends on trade with Europe and access to the Single Market."
+      },
+      {
+        "policyTitle": "More money for Wales' NHS",
+        "policyDescription": "Liberal Democrats propose a 1p rise in income tax to raise £300m every year for Wales to spend on the NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": "Wales has a long history of electing hard-working liberal MPs who put people before party politics."
+    },
+    "issues": {
+      "brexitEurope": "Liberal Democrats will fight to ensure an extreme Brexit will not harm communities and families, advocating continued trade with Europe and access to the Single Market.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Liberal Democrats aim to invest in the NHS, providing clear information on where the money is coming from. They mention the NHS is at a breaking point under the Conservatives.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Extreme Brexit means fewer jobs, rising prices and higher rents and mortgages.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Change Britain's Future by funding our NHS"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,57 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Argent",
+    "constituency": "Hertford and Stortford",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday June 8th 2017",
+    "messages": [
+      {
+        "title": "Fighting against Hard Brexit",
+        "content": "Liberal Democrats are the only party that has always fought for Britain’s membership of the European Union, and that’s why we are fighting for you to have your say on the final Brexit deal."
+      },
+      {
+        "title": "Standing up for the NHS",
+        "content": "Only the Liberal Democrats would give the NHS the funds it needs by raising a penny on income tax to provide an additional £6 billion for health and care services."
+      },
+      {
+        "title": "Opposing school cuts",
+        "content": "Local schools are under threat from a Conservative Party that has stopped listening to local people in Hertford and Stortford. Schools in Hertfordshire are set to lose nearly £76 million from their budgets."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting against Hard Brexit",
+        "policyDescription": "Campaigning for Britain’s membership of the European Union and for the public to have a say on the final Brexit deal."
+      },
+      {
+        "policyTitle": "Standing up for the NHS",
+        "policyDescription": "Raising a penny on income tax to provide an additional £6 billion for health and care services."
+      },
+      {
+        "policyTitle": "Opposing school cuts",
+        "policyDescription": "Challenging the Conservative Party's reduction of local school budgets that could lead to a £76 million loss for Hertfordshire schools."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Argent"
+    },
+    "issues": {
+      "brexitEurope": "Liberal Democrats are the only party that has always fought for Britain’s membership of the European Union, and that’s why we are fighting for you to have your say on the final Brexit deal.",
+      "health": "Only the Liberal Democrats would give the NHS the funds it needs by raising a penny on income tax to provide an additional £6 billion for health and care services.",
+      "education": "Local schools are under threat from a Conservative Party that has stopped listening to local people in Hertford and Stortford. Schools in Hertfordshire are set to lose nearly £76 million from their budgets."
+    },
+    "contactInformation": {
+      "website": "hertfordandstortfordlibdems.org.uk"
+    },
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mark Argent with supporters and holding campaign materials"
+        }
+      ]
+    },
+    "additionalNotes": "OUR COUNTRY NEEDS A STRONG OPPOSITION"
+  }
+}
+```

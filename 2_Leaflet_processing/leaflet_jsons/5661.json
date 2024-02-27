@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Shaw",
+    "constituency": "Camden",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Labour's NHS cuts",
+        "content": "80,000 people rely on the A&E at the Whittington Hospital every year without it just doesn't make sense! It would mean longer journeys and a burden on other A&E services."
+      },
+      {
+        "title": "Labour has let local people down",
+        "content": "Labour raised taxes on the lowest paid. Labour took us into an illegal war in Iraq. Labour have failed us on violent crime. Labour neglected Camden's homes for over 30 years."
+      },
+      {
+        "title": "It's so close in Camden",
+        "content": "With Jo in a close race with Labour candidate, just a few votes could change things."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Jo Shaw is standing shoulder to shoulder with local people to stop these Labour cuts to A&E services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jo Shaw",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "With Jo in a close race with the Labour candidate, just a few votes could change things. Your vote could decide who wins!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour raised taxes on the lowest paid.",
+      "education": "",
+      "environment": "",
+      "governance": "Labour took us into an illegal war in Iraq. Labour have failed us on violent crime.",
+      "health": "Jo Shaw fighting against Labour's NHS cuts. 80,000 people rely on the A&E at the Whittington Hospital every year. It would mean longer journeys and a burden on other A&E services if closed.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour neglected Camden's homes for over 30 years.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.savethewhittington.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Daily Mirror April '08",
+        "endorsement": "Labour governments should not be in the business of taxing the poor more."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jo Shaw: Campaigning for our NHS"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

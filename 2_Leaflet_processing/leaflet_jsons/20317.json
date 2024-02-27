@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Bartos",
+    "constituency": "Glasgow",
+    "politicalParty": "Scottish Green Party",
+    "electionDate": "7th May 2015",
+    "messages": [
+      {
+        "title": "What's Important?",
+        "content": "Equality not Poverty. We'll raise the minimum wage. Public Hands not Private Gain. We'll protect the NHS and other services. Powers for People not for Corporations. We'll press for more powers for local communities."
+      },
+      {
+        "title": "Vote Green in 2015",
+        "content": "So if you believe this election is about more than just voting for the lesser of two evils, if you believe that it's about voting for what you believe in and the kind of society that we want to live in. Then don't hesitate to vote for the Scottish Green Party across Glasgow."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Equality not Poverty",
+        "policyDescription": "Aims to reduce poverty by raising the minimum wage."
+      },
+      {
+        "policyTitle": "Public Hands not Private Gain",
+        "policyDescription": "Emphasizes the protection of the NHS and other public services."
+      },
+      {
+        "policyTitle": "Powers for People not for Corporations",
+        "policyDescription": "Advocates for more powers to be given to local communities."
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin Bartos",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "We'll protect the NHS.",
+      "immigration": "",
+      "socialWelfare": "We'll raise the minimum wage.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Martin has been a councillor for Partick West and has already proved he can deliver for Glasgow.",
+    "politicalExperience": [
+      {
+        "role": "Councillor for Partick West",
+        "duration": "",
+        "achievements": "Has delivered for Glasgow."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "martin.bartos@glasgowgreens.org.uk",
+      "website": "glasgowgreens.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "glasgowgreens",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Martin Bartos"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

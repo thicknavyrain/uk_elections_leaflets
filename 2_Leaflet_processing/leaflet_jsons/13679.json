@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "GEORGE LEE",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "THURSDAY",
+    "messages": [
+      {
+        "title": "3 POSITIVE REASONS TO VOTE FOR CHANGE ON THURSDAY",
+        "content": ""
+      },
+      {
+        "title": "VOTE FOR CHANGE ON THURSDAY",
+        "content": "Your vote will decide whether we get the change we need - or have five more years of Gordon Brown."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Hard-working, Honest Public Service",
+        "policyDescription": "George Lee promises to be a hard-working, honest public servant with integrity and fairness as core values."
+      },
+      {
+        "policyTitle": "Skills and Experience",
+        "policyDescription": "George Lee wants to use his skills and experience to serve the country and improve the lives of all local residents."
+      },
+      {
+        "policyTitle": "National Priorities",
+        "policyDescription": "George Lee aims to help deliver on national priorities such as improving education, reforming welfare, providing world-class healthcare, and making Britain greener."
+      }
+    ],
+    "mentions": {
+      "candidate": "George Lee",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Economy will be addressed from day one.",
+      "education": "Improving education.",
+      "environment": "Making Britain greener.",
+      "governance": "Reform our rotten political system.",
+      "health": "Providing world-class healthcare.",
+      "immigration": "",
+      "socialWelfare": "Reforming welfare.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm not a professional politician. I want to be a hard-working, honest public servant with integrity and fairness as core values.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Cameron",
+        "endorsement": "Britain needs a stable government that from day one will get our economy working, tackle welfare abuse and reform our rotten political system. Only the Conservatives can make that happen. This is our contract with you to change Britain for the better."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Britain needs a stable government that from day one will get our economy working, tackle welfare abuse and reform our rotten political system. Only the Conservatives can make that happen. This is our contract with you to change Britain for the better.",
+        "source": "David Cameron",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "George Lee featured on the left side of the leaflet."
+        },
+        {
+          "caption": "David Cameron featured on the right side of the leaflet."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

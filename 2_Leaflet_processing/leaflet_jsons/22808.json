@@ -1,0 +1,81 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Hughes",
+    "constituency": "Bermondsey and Old Southwark",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "",
+        "content": "I am proud of my record as a Member of Parliament fighting for the NHS for over 30 years."
+      },
+      {
+        "title": "",
+        "content": "I want to continue to fight for our NHS here in Southwark. But this is only possible because my colleagues and I have been able to sort out the economic mess left by the last Labour government."
+      },
+      {
+        "title": "",
+        "content": "We all know that Ed Miliband can't be trusted with the economy and without a stable economy, services like the NHS are put at risk."
+      },
+      {
+        "title": "",
+        "content": "Residents in Bermondsey and Old Southwark know that only the Liberal Democrats or Labour can win here. Your votes for other parties just help Ed Miliband's Labour candidate."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Simon Hughes",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "",
+      "tacticalSituation": "Residents in Bermondsey and Old Southwark know that only the Liberal Democrats or Labour can win here. Your votes for other parties just help Ed Miliband's Labour candidate."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We all know that Ed Miliband can't be trusted with the economy and without a stable economy, services like the NHS are put at risk.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "I am proud of my record as a Member of Parliament fighting for the NHS for over 30 years.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am proud of my record as a Member of Parliament fighting for the NHS for over 30 years.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament",
+        "duration": "over 30 years",
+        "achievements": "I saved Guy's Hospital when the Conservatives tried to close it. The Labour Government then closed the A&E there, but I was able to open the Urgent Care Centre in 2012. I have also successfully campaigned for the Special Cancer Centre at Guy's which will open next year."
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Market Place London SE16 3UQ",
+      "phone": "020 7232 2557",
+      "email": "simon@simonhughes.org.uk",
+      "website": "www.simonhughes.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Keep Simon Hughes fighting for us"
+        }
+      ]
+    },
+    "additionalNotes": "PS. Don't forget, on 7th May the election in our area will be between me and Labour. A vote for the Conservatives will just help Ed Miliband's Labour candidate sneak in."
+  }
+}
+```

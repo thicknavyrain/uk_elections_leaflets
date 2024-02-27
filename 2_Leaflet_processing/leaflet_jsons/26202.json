@@ -1,0 +1,92 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "Thursday",
+	"messages": [
+  	{
+    	"title": "Climate Change and Inequality",
+    	"content": "Lib Dems in Government. The Lib Dems have slashed bills for the poorest pensioners and young unemployed people, are planting a million more trees, and have made rigs pay tax."
+  	},
+  	{
+    	"title": "Stop School Closures",
+    	"content": "Lib Dems protect our schools and hospitals - Tories and Labour don't."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Climate Change and Inequality",
+    	"policyDescription": "The Liberal Democrats have worked to push the government further on environmental sustainability."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Balls, Miliband",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "Lib Dems in Government pushing for environmental sustainability.",
+  	"governance": "",
+  	"health": "Lib Dems protect our schools and hospitals.",
+  	"immigration": "",
+  	"socialWelfare": "Lib Dems have slashed bills for the poorest pensioners and young unemployed people.",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Labour will be tougher than Tories on benefits.",
+    	"source": "The Guardian, October 2013",
+    	"date": "October 2013"
+  	},
+  	{
+    	"text": "Labour is ... not allowing schools to profit.",
+    	"source": "The Guardian, January 2012",
+    	"date": "January 2012"
+  	}		
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Images of people and statements related to Liberal Democrat campaign."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet presents criticisms of the Labour MP and contrasts with Liberal Democrat achievements and policies."
+  }
+}

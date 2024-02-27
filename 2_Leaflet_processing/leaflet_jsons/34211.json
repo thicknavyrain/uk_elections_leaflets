@@ -1,0 +1,121 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A Clean Break Brexit",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Investment in the NHS",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "More Police on our streets",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "No more money to the EU",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Fundamentally change Parliament",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "No tax rises",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Culling the cost of living",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "A Brexit dividend",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Day one readiness",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Controlled immigration",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.thebrexitparty.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

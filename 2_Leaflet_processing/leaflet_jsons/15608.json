@@ -1,0 +1,72 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Nelson Ward",
+    "politicalParty": "",
+    "electionDate": "Thursday 2nd May",
+    "messages": [
+      {
+        "title": "What I stand for.",
+        "content": "In just five years of this self-interested and uncaring Tory government they’ve already imposed three cruel Bedroom Tax, forced the backs of schools out of local democratic control, have broken our NHS into bits and are parceling it out to their backers in private health and have done nothing to prevent the growing outrage of hard workers from falling for the latest peal of oneday."
+      },
+      {
+        "title": "A year-round track record of getting results.",
+        "content": "I try to go the extra mile to get results and make sure that the voice of our whole community is heard. I live and work from my privately rented terraced home in Denbigh Road (more-or-less in the middle of Nelson Ward), we don’t have a car and one of my daughters goes to Avenues Middle School. All of which tends to mean that I too have personal experience of so many of the challenges you tell me concern you from big to ordinary and out and about."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Talking about extending NHS privatisation, allowing schools to be run for profit and cutting the great cup 'til its crystal-clear to the brother they've finally acted at another five years of the Tories."
+      },
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "The leaflet mentions the importance of tackling climate change properly with plans for a multi-billion tax and employment rights bonanza for their corporate backers and senior Tories."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "The message hints at a desire to strengthen Britain with a strong green economy at the heart of Europe.",
+      "economy": "",
+      "education": "",
+      "environment": "The candidate emphasizes the need to tackle climate change properly and ensure that the jobs are sustainable.",
+      "governance": "",
+      "health": "The leaflet discusses protection of the NHS from being broken into bits and privatized.",
+      "immigration": "",
+      "socialWelfare": "Mentions the imposition of three cruel Bedroom Taxes by the Tory government.",
+      "housing": [
+        {
+          "content": "The leaflet does not explicitly discuss housing issues, so this content is not applicable.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "The candidate shares their connection to the community by stating where they live, the lack of a car, and their child's education within the district.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": []
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Jackie Porter",
+	"constituency": "Winchester",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Thank Goodness for the Lib Dems",
+    	"content": "Just look what the last 5 years... Jackie Porter and the Lib Dems will balance the books."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Cutting Spending",
+    	"policyDescription": "The Lib Dems have matched the Conservatives commitment to eliminate the deficit by 2017/18."
+  	},
+    {
+    	"policyTitle": "Education Spending Protected",
+    	"policyDescription": "Jackie Porter's campaigning to save vital services."
+  	},
+    {
+    	"policyTitle": "Local Transport",
+    	"policyDescription": "Targeting money to my local transport - Jackie Porter standing up for local public transport."
+  	},
+    {
+    	"policyTitle": "Housing",
+    	"policyDescription": "Develop the homes we need without damaging the countryside - Jackie Porter's local plan."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Jackie Porter",
+  	"otherPartyLeaderCandidate": "Tory MP",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Will balance the books and target money to local transport.",
+  	"education": "Campaigning to save our maternity and education services.",
+  	"environment": "Develop the homes we need without damaging the countryside.",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Develop the homes we need without damaging the countryside - Jackie Porter's local plan.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

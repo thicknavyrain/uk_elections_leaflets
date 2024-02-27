@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Geoffrey Cox",
+    "constituency": "Mole Valley",
+    "politicalParty": "UKIP",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "ELECTION COMMUNICATION",
+        "content": "Dear Voter, I have lived in Mole Valley for 26 years. I am committed to the environment, socially liberal and greatly concerned with attacks on civil liberties. In the last three years, other political parties have said one thing on Brexit and then done another. Will this time be different? Sovereignty belongs to the people. Parliament should have no power to reduce it or steal it from us. Constitutional changes that have such an effect must be for the electorate to decide. It’s time to bring power back to the people. Geoff"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Ensure Brexit",
+        "policyDescription": "Committed to delivering Brexit."
+      },
+      {
+        "policyTitle": "Reform Politics",
+        "policyDescription": "Repeal all laws that restrict freedom of speech and promote a fairer electoral system."
+      }
+    ],
+    "mentions": {
+      "candidate": "Geoffrey Cox",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Committed to delivering Brexit.",
+      "economy": "",
+      "education": "",
+      "environment": "Committed to the environment.",
+      "governance": "Promote a fairer electoral system.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have lived in Mole Valley for 26 years. I am committed to the environment, socially liberal and greatly concerned with attacks on civil liberties.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Woodbury Cottage, Broad Lane, RH5 5AT. Printed by Printbridge of 16 Castle St, Bodmin PL31 2DU",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of candidate Geoffrey Cox"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gordon G",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Britain needs change.",
+        "content": "You will soon have the chance to make that change happen. We need a new government with the energy, leadership and values to get the country moving, and our economy back on track."
+      },
+      {
+        "title": "IMPROVING THE NHS FOR EVERYONE",
+        "content": "David Cameron has made the NHS our number one priority – and we have plans to improve the NHS for everyone."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Improving the NHS",
+        "policyDescription": "Conservatives will increase spending on the NHS every year. They will cut NHS bureaucracy by a third and end the mandate to the frontline. Their new Cancer Drugs Fund will mean that everyone can have access to the cancer drugs their doctors think will help them."
+      },
+      {
+        "policyTitle": "Scrapping Labour's jobs tax",
+        "policyDescription": "Conservatives will stop the most damaging part of this tax by cutting £6 billion of government waste this year. They will focus on things that matter, like survival rates, rather than box-ticking targets. They will let you choose your GP, hospital and even the consultant responsible for your care."
+      }
+    ],
+    "mentions": {
+      "candidate": "Gordon G",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We need to create jobs to get our economy moving, but Labour’s National Insurance rise will make it more expensive for firms to hire people, and will mean more unemployment for longer.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Conservatives will increase spending on the NHS every year.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "However you may have felt about the Conservatives in the past, take a look at what we're offering today.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Heads of Sainsbury's, Marks & Spencer and Boots, The Workforce, Businessmen like Antony Worral Thompson",
+        "endorsement": "They state that stopping the National Insurance rise will protect jobs and support the recovery."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of David Cameron writing notes at a desk."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet states that Gordon Brown will raise taxes next April, costing over £5,700 jobs, and that anyone earning over £20,000 a year could lose out on at least £250 in expenses. Conservatives claim that 10 working people will be better off than under Labour, and that everyone earning between £7,100 and £45,400 will gain up to £150 a year."
+  }
+}
+```

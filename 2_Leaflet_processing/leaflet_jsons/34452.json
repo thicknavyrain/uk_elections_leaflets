@@ -1,0 +1,103 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Newport West",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "OUR ECONOMY CAN'T AFFORD MORE UNCERTAINTY WITH A HUNG PARLIAMENT.",
+        "content": "Labour can't win a majority. But if you don't vote, Jeremy Corbyn could still become Prime Minister. Propped up by smaller parties like Nicola Sturgeon’s SNP. That means more uncertainty for our economy. With more to come with the Brexit arguments. And another Scottish independence referendum."
+      },
+      {
+        "title": "",
+        "content": "That's not all. Corbyn’s plans for our economy would undo the progress of the last few years. The head of the CBI, a business group, said that Corbyn’s plans would 'crack the foundations of our economy'. With massive taxes on businesses – which will stop investment and cost jobs."
+      },
+      {
+        "title": "",
+        "content": "And with £1.2 trillion of extra spending – which will send our public finances back into chaos. Don’t let Labour take us backward – which will send the majority government this country needs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Addressing uncertainty in the economy and preventing plans that could ‘crack the foundations of our economy’ with massive taxes on businesses that could halt investment and lead to job losses. Also highlighting the risk of £1.2 trillion in extra spending sending public finances into chaos."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": "Labour can't win a majority but could become Prime Minister with help from smaller parties like Nicola Sturgeon’s SNP."
+    },
+    "issues": {
+      "brexitEurope": "Brexit uncertainty, delaying Brexit leads to job losses and holds back economy. Also mentions that Mark Carney views Brexit deal positively for the UK economy.",
+      "economy": "Extra spending leading to public finances chaos, taxes on businesses stopping investment and costing jobs, and the need for a majority government for the country's priorities.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Matthew Parker Street, London, SW1H 9HQ",
+      "phone": "",
+      "email": "",
+      "website": "www.conservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The head of the CBI",
+        "endorsement": "Described potential economic plans from other parties as damaging, implying a preference for Conservative policies."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We simply cannot afford another wasted year of 'political paralysis'",
+        "source": "THE GUARDIAN",
+        "date": ""
+      },
+      {
+        "text": "Brexit uncertainty drives up job losses and holds back economy",
+        "source": "THE GUARDIAN",
+        "date": ""
+      },
+      {
+        "text": "Mark Carney: Brexit deal 'positive' for UK economy",
+        "source": "BBC NEWS",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of an older male with glasses, supposedly representing Jeremy Corbyn."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet emphasizes the economic risks of a Labour government propped up by smaller parties and the necessity of a Conservative majority to secure the future of the UK's economy. Specific references are made to the negative implications of Brexit uncertainty and the potential impact of proposed taxes on businesses."
+  }
+}
+```

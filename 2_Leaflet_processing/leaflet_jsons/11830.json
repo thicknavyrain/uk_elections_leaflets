@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative Party",
+    "electionDate": "6th May 2010",
+    "messages": [
+      {
+        "title": "Change or more of the same",
+        "content": "At the start of this election campaign we were faced with a simple choice: change or more of the same. But things have moved on. One way or another, the result of this election is going to mean change for Britain."
+      },
+      {
+        "title": "A time when we need strong leadership",
+        "content": "That is why I am so determined to change politics - by allowing people to kick out their MP before an election, cutting Ministers' pay, and letting people see clearly how the government spends their money."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Welfare Fraud and Reform",
+        "policyDescription": "Tackle benefit fraud and reform the welfare system so that those who can work do work."
+      },
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "Increase funding for the NHS every year and ensure the best new cancer drugs that are widely available in other countries are available on the NHS."
+      },
+      {
+        "policyTitle": "Immigration Control",
+        "policyDescription": "Cut immigration by imposing an annual limit on the number of non-EU economic migrants, and setting up a proper Border Police Force."
+      },
+      {
+        "policyTitle": "State Pension and Earnings Link",
+        "policyDescription": "Increase the basic state pension and restore the link to earnings."
+      },
+      {
+        "policyTitle": "Cutting the Cost of Politics",
+        "policyDescription": "Cut political pay by cutting the number of MPs by 10 per cent, cutting Ministers' pay, letting people kick out their MP, and letting people see clearly how the government spends their money."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "Discussion of the potential for a hung parliament and the need for decisive action."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "A strong government needed to put the economy back on its feet and make decisive action to start sorting things out.",
+      "health": "Increase funding for the NHS every year and ensure the best new cancer drugs that are widely available in other countries are available on the NHS.",
+      "immigration": "Cut immigration by imposing an annual limit on the number of non-EU economic migrants, and setting up a proper Border Police Force.",
+      "socialWelfare": "Tackle benefit fraud and reform the welfare system so that those who can work do work.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Leader of the Conservative Party, 30 Millbank, London SW1P 4DP",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet from David Cameron, Leader of the Conservative Party"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

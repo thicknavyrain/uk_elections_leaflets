@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Caroline Lucas",
+    "constituency": "Brighton Pavilion",
+    "politicalParty": "Green Party",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "A fresh voice for fairness",
+        "content": "Vote Green for a hung parliament."
+      },
+      {
+        "title": "Greens 10 points ahead of Labour here",
+        "content": "Parliament needs reform, and a Tory or Labour MP will block the changes we urgently need to improve British politics. As an MEP for the past 11 years who has led the way on transparency on expenses, I've got the experience to champion positive changes and have served my constituents tirelessly."
+      },
+      {
+        "title": "Say no to Tory cuts and vote Green when your postal vote arrives.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Parliament needs reform to improve British politics."
+      },
+      {
+        "policyTitle": "Transparency",
+        "policyDescription": "Champion positive changes in transparency on expenses."
+      },
+      {
+        "policyTitle": "Employment and Welfare",
+        "policyDescription": "Work with likeminded MPs for jobs, fair wages."
+      },
+      {
+        "policyTitle": "National Security and Identification",
+        "policyDescription": "Scrap the Trident & ID cards projects."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Protect the NHS."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Tackle climate change."
+      }
+    ],
+    "mentions": {
+      "candidate": "Caroline Lucas",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Greens are well ahead of Labour in the polls here, have won every election here since 2007, and Greens hold more council seats here than any other party."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Tackle climate change.",
+      "governance": "Parliament needs reform to improve British politics.",
+      "health": "Protect the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "As an MEP for the past 11 years who has led the way on transparency on expenses, I've got the experience to champion positive changes and have served my constituents tirelessly.",
+    "politicalExperience": [
+      {
+        "role": "MEP",
+        "duration": "11 years",
+        "achievements": "Led the way on transparency on expenses and championed positive changes."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01273 766 670",
+      "email": "info@brightonandhovegreenparty.org.uk",
+      "website": "www.carolinelucas.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Caroline Lucas standing before the Houses of Parliament."
+        }
+      ]
+    },
+    "additionalNotes": "Greens hold more council seats here than any other party. Since 2005 the election boundaries have changed, adding another Green-held area to this constituency."
+  }
+}
+```

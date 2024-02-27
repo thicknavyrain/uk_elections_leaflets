@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "JOSH MASON",
+    "constituency": "Redcar Constituency",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Spring 2017",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "JOSH MASON",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "PULLING THE PLUG ON NHS SCANDAL",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "COUNCIL TO LEAVE US IN THE DARK",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Teesside's own champion JOSH MASON - A life in pictures"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

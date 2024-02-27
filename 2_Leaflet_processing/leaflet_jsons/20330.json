@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Daisy Cooper",
+    "constituency": "Mid Sussex",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "ACTION in Mid Sussex",
+        "content": "Daisy Cooper is our Community Halls Champion, fighting to save our civic halls from developers."
+      },
+      {
+        "title": "Delivering opportunity for everyone.",
+        "content": "The Lib Dems will end the scandal of mental health being treated as secondary to physical health."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Investment",
+        "policyDescription": "The Lib Dems will guarantee that the NHS budget grows every year, increasing by 2.8 billion by 2020."
+      },
+      {
+        "policyTitle": "Tax Cut",
+        "policyDescription": "The Lib Dems will cut Income Tax for workers by raising the tax-free allowance further, putting an extra £400 a year into pockets to help with the cost of living."
+      },
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "The Lib Dems are delivering decent pensions year after year with their 'triple lock' guarantee."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "The Lib Dems will ensure every child is taught by a qualified teacher and will eradicate the teaching from unqualified teachers in school."
+      }
+    ],
+    "mentions": {
+      "candidate": "Daisy Cooper",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Lib Dems 39%, Con 50%"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Lib Dems have helped our economy and cut an extra £400 a year for up to 24,000 local people.",
+      "education": "£2.44 million extra into our local schools.",
+      "environment": "",
+      "governance": "",
+      "health": "The Lib Dems will guarantee that the NHS budget grows every year, increasing by 2.8 billion by 2020.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Daisy Cooper is fighting to save our civic halls from developers.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Daisy Cooper, 33, has already been an adviser to the Department of International Development (DFID), and now works for Hft - a national disabilities charity.",
+    "politicalExperience": [
+      {
+        "role": "Adviser at the Department for International Development (DFID)",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Portsmouth Wood Close Lindfield, Haywards Heath, RH16 2AN",
+      "phone": "0845-272-3504",
+      "email": "mid.sussexlibdems.org.uk",
+      "website": "www.midsussexlibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Daisy with supporters."
+        },
+        {
+          "caption": "Daisy at work."
+        },
+        {
+          "caption": "Daisy with Vince Cable."
+        }
+      ]
+    },
+    "additionalNotes": "Daisy has proven herself as a leader. As part of her campaign for better, stronger communities, she fights to save civic halls from developers, seeks to ensure NHS funding, works towards fair pensions, and supports cutting taxes for workers."
+  }
+}
+```

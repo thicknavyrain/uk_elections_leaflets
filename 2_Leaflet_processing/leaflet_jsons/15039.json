@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Liverpool",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Liverpool's Voters Reject Outrageous Dirty Tricks Campaign!",
+        "content": ""
+      },
+      {
+        "title": "Labour Victory in By-Election",
+        "content": ""
+      },
+      {
+        "title": "Dismal record of the costly and inefficient Lib Dems!",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Lib Dems",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Dismal record of a costly and inefficient council",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Have we gone parking mad?",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour Victory in By-Election"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

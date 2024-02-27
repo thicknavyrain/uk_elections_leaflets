@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Helen Grant",
+    "constituency": "Maidstone and the Weald",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The most important election in a generation",
+        "content": "The Prime Minister has fired the starting gun for what will be the most important General Election in a generation. It is a great honour to be standing for election in Maidstone and the Weald. I look forward to meeting as many residents as possible in the weeks ahead. If you have any questions or would like to offer to help my campaign, please get in touch. With best wishes, Helen."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Our long-term economic plan is working. We've halved Labour's deficit and created the fastest growing major economy in the world."
+      },
+      {
+        "policyTitle": "Welfare",
+        "policyDescription": "We have capped benefits and reformed welfare, ensuring no-one is better-off not working."
+      },
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Taxes are down and millions of our lowest paid have been removed from tax completely."
+      },
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "We will retain the 'triple lock' safeguarding the value of state pensions."
+      },
+      {
+        "policyTitle": "EU Relationship",
+        "policyDescription": "Only the Conservatives are pledged to renegotiate our relationship with the EU and trust the people to decide in an in/out referendum."
+      }
+    ],
+    "mentions": {
+      "candidate": "Helen Grant",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "The Prime Minister",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Only the Conservatives are pledged to renegotiate our relationship with the EU and trust the people to decide in an in/out referendum.",
+      "economy": "Our long-term economic plan is working. We've halved Labour's deficit and created the fastest growing major economy in the world.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "We have capped benefits and reformed welfare, ensuring no-one is better-off not working.",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01622 831627",
+      "email": "helen@helengrant.org",
+      "website": "www.helengrant.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@HelenGrant2015",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Helen Grant's campaign leaflet."
+        }
+      ]
+    },
+    "additionalNotes": "To show your support and stop you being disturbed, you may wish to display the poster overleaf in your front window or door."
+  }
+}
+```

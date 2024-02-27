@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A record of Delivery. A promise of More.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Doubling renewable energy generation",
+        "policyDescription": "We have doubled the amount of electricity generated from off-shore wind, leading to a greener and more cost efficient environment."
+      },
+      {
+        "policyTitle": "Free childcare for local families",
+        "policyDescription": "We have cut income tax by £400 for a low and middle incomes, easing the squeeze on household budgets."
+      },
+      {
+        "policyTitle": "Mental health waiting time standards",
+        "policyDescription": "We have introduced the first ever mental health waiting time standards, improved access to talking therapies."
+      },
+      {
+        "policyTitle": "Extra money for our schools",
+        "policyDescription": "A record rise in apprenticeships and £5.5 billion extra for schools."
+      },
+      {
+        "policyTitle": "1.9 million new jobs",
+        "policyDescription": "We will finish the job of balancing the budget by 2018, protecting the economic recovery and bringing down Britain's debt."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We will finish the job of balancing the budget by 2018, protecting the economic recovery and bringing down Britain's debt.",
+      "education": "A record rise in apprenticeships and £5.5 billion extra for schools. We will protect spending on nurseries, schools and colleges and ensure every child is taught by a qualified teacher.",
+      "environment": "Doubling renewable energy generation. We will ensure our environment is protected and fight climate change through our five Green Laws.",
+      "governance": "",
+      "health": "We will invest an extra £8 billion a year in the NHS by 2020, and guarantee equal care and waiting times for mental health treatment.",
+      "immigration": "",
+      "socialWelfare": "Free childcare for local families. We have cut income tax by £400 for a low and middle incomes, easing the squeeze on household budgets.",
+      "housing": [
+        {
+          "content": "Building a sustainable economy; protecting our environment",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "LibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A record of Delivery. A promise of More."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

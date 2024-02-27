@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "ANGELA SMITH",
+    "constituency": "ALTRINCHAM & SALE WEST",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Dear Resident",
+        "content": "This is it. People across the country will go to the polls and shape the future of our country in the next few weeks. We've been planning for a snap election, and we're ready to win."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "ANGELA SMITH",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "",
+      "tacticalSituation": "Constituency figures calculated from 2019 European Elections by flavible.co.uk"
+    },
+    "issues": {
+      "brexitEurope": "will continue to lead the fight to protect our future from the disaster of Brexit.",
+      "economy": "",
+      "education": "safeguard our schools",
+      "environment": "",
+      "governance": "",
+      "health": "protect our NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "This is your chance to get a team in Parliament who will build a brighter future. A Liberal Democrat government will protect our NHS, safeguard our schools and tackle the climate emergency.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "Angela@traffordlibdems.co.uk",
+      "website": "www.angelasmith.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "ANGELA SMITH Prospective Liberal Democrat MP for ALTRINCHAM & SALE WEST"
+        }
+      ]
+    },
+    "additionalNotes": "SOURCE FOR FIGURES: https://medium.com/@christianjbennett/p2018-results-mapped-onto-westminster-constituencies-8a2ed141414c"
+  }
+}
+```

@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Hilary Benn",
+    "constituency": "Leeds Central",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A message from Hilary",
+        "content": "We face a big choice about the change we want for Britain. Change with Labour - built on fairness, securing the recovery, protecting schools and the NHS, helping families and investing in jobs for the future. Or change with the Tories who will reduce spending now and damage the recovery, cut tax credits for families, take away the cancer treatment guarantee and give inheritance tax reductions to the richest. How we cast our vote in this election will make a big difference to our future."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Hilary Benn",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Change with Labour - built on fairness, securing the recovery.",
+      "education": "protecting schools",
+      "environment": "",
+      "governance": "",
+      "health": "helping families and investing in jobs for the future.",
+      "immigration": "controlling immigration",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Change with Labour - built on..., protecting schools and the NHS...",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Andy Myers",
+        "endorsement": "I'm supporting Hilary because I've seen what a Tory/Liberal Council has done in Leeds. I know a Labour Government will protect the services we all need and use."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Hilary outside local Trust and social enterprise - Holbeck Foods."
+        },
+        {
+          "caption": "Hilary who is supporting the campaign to bring back directly Royal Park School for community use."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

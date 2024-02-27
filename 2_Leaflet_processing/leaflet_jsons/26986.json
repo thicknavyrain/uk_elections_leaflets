@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "SIMON HUGHES",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "Hard Brexit",
+        "content": "Labour have helped her to pursue Theresa May’s hard Brexit which Liberal Democrats opposed."
+      },
+      {
+        "title": "A vote for the Liberal Democrats",
+        "content": "A vote for the Liberal Democrats is a vote against Theresa May’s hard Brexit."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Opposition to Theresa May's hard Brexit, fighting to give citizens the final deal, rights of EU citizens and single market access."
+      }
+    ],
+    "mentions": {
+      "candidate": "I want to return as your MP – a job I loved and cherished for 32 years – I promise you will not feel ignored.",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn's Labour Party are helping the Tories do it.",
+      "partyLeader": "",
+      "tacticalSituation": "Everyone agrees that the Tories will win this UK general election. Labour have no hope. This election is our chance to send a message."
+    },
+    "issues": {
+      "brexitEurope": "Opposed to Theresa May's hard Brexit. Want to give citizens the final say on the deal and protect rights of EU citizens and the economy.",
+      "economy": "Impact of hard Brexit on the economy.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Impact of Brexit on the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "As a passionate pro-European, I fought hard to remain.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "32 years",
+        "achievements": "Gave voice to communities that were otherwise ignored."
+      }
+    ],
+    "contactInformation": {
+      "address": "210-212 Southwark Park Road, London, SE16 3RW.",
+      "phone": "(020) 7237 8444",
+      "email": "simon@simonhughes.org.uk",
+      "website": "www.simonhughes.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Headshot of Simon Hughes"
+        }
+      ]
+    },
+    "additionalNotes": "Remember, a vote for me and the Liberal Democrats on June 8th is a vote against Theresa May’s hard Brexit which Labour have helped her to pursue."
+  }
+}
+```

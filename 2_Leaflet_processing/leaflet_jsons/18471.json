@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alex Salmond",
+    "constituency": "Gordon",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Investing in transport",
+        "content": "The content of this section talks about the candidate's focus on improvements to local roads and rail services."
+      },
+      {
+        "title": "Investing in our NHS",
+        "content": "Discusses the candidate's commitment to the local health service and the provision of cancer treatment closer to home."
+      },
+      {
+        "title": "Investing in our schools",
+        "content": "Mentions the candidate's efforts to maintain low class sizes, free University education, and the building of new schools."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investing in transport",
+        "policyDescription": "Plans to improve local roads and rail services, and introduce a new rail link."
+      },
+      {
+        "policyTitle": "Investing in our NHS",
+        "policyDescription": "Promises to provide local cancer treatment and better support for health services."
+      },
+      {
+        "policyTitle": "Investing in our schools",
+        "policyDescription": "Focus on maintaining low class sizes, free University education, and new school buildings."
+      },
+      {
+        "policyTitle": "Securing more powers",
+        "policyDescription": "Aim to secure more powers for the Scottish Parliament."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alex Salmond",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Promotes maintained low class sizes, free University education, and building new schools.",
+      "environment": "",
+      "governance": "Advocates for more powers for the Scottish Parliament.",
+      "health": "Highlights commitment to local health service and providing cancer treatment closer to home.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "The leaflet includes a personal statement from the candidate addressing the voters directly, reflecting his dedication to serving the Gordon constituency.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07950 64939",
+      "email": "alexsalmond.snp@org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@alexsalmond",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images of Alex Salmond engaging in various community and political activities."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes handwritten notes that appear to be signatures."
+  }
+}
+```

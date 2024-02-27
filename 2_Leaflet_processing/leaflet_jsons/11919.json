@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rupa Huq",
+    "constituency": "Acton",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "This election is one of the most crucial for years",
+        "content": "It will make a significant difference to the local community. That's why your vote is crucial and support for the Labour Party is essential."
+      },
+      {
+        "title": "You have 3 votes in the local elections",
+        "content": "Use all of your votes for Labour candidates."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Campaign HQ, Ruskin Hall, 16 Church Road, Acton, W3 8PP",
+      "phone": "020 8996 2323",
+      "email": "bassam.ealinglabour@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images of Rupa Huq with local community members and Labour supporters."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

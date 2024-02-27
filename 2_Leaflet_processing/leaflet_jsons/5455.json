@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Bill Grant",
+    "constituency": "Ayr, Carrick and Cumnock",
+    "politicalParty": "Scottish Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "I'm sorry I missed you when I called today. If there are any issues that you would like to raise with me then please get in touch."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "In the Union of the United Kingdom",
+        "policyDescription": "Bill believes in the Union of the United Kingdom."
+      },
+      {
+        "policyTitle": "Lower taxes and less regulation",
+        "policyDescription": "Bill supports lower taxes and less regulation."
+      },
+      {
+        "policyTitle": "In a small state, free from ID cards",
+        "policyDescription": "Bill advocates for a small state, free from ID cards."
+      },
+      {
+        "policyTitle": "Public services that are value for money for taxpayers",
+        "policyDescription": "Bill believes in providing public services that offer value for money for taxpayers."
+      }
+    ],
+    "mentions": {
+      "candidate": "Bill Grant",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Bill supports lower taxes and less regulation, indicating a focus on the economy.",
+      "education": "",
+      "environment": "",
+      "governance": "Bill advocates for a small state, free from ID cards, indicating a stance on governance.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor and community activist",
+        "duration": "",
+        "achievements": "Bill is described as a strong local champion for Ayr, Carrick and Cumnock."
+      }
+    ],
+    "contactInformation": {
+      "address": "1 Wellington Square, Ayr, KA7 1EN",
+      "phone": "01292 263991",
+      "email": "bill.grant@scottishconservatives.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Bill Grant beside an information van."
+        }
+      ]
+    },
+    "additionalNotes": "Campaign material promoted by John Anderson on behalf of Bill Grant, and printed by Treehouse Print."
+  }
+}
+```

@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Maria Eagle",
+	"constituency": "Garston and Halewood",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 7th May",
+	"messages": [
+  	{
+    	"title": "A message from Maria",
+    	"content": "This election is a straight choice between a Labour Government or a Tory Government. The only way to stop the Tories winning on May 7th is to vote Labour. Nobody here votes Lib Dem anymore. UKIP will kill off the NHS. The Greens can't be taken seriously. Staying at home will only help David Cameron back into No.10. Four more years of the Tories will destroy South Liverpool and Halewood. Remember: your vote matters. Use it on Thursday 7th May."
+  	},
+  	{
+    	"title": "We can't take five more years of Cameron & Clegg",
+    	"content": "NHS privatised, waiting times up, A&E in crisis. Bedroom tax driving people from their homes and causing misery for thousands. Hard-working families relying on food banks. Youth unemployment at dangerous levels. Increase in exploitative zero-hours contracts. Families £1600 a year worse off on average. Extreme public spending cuts after the election which will put our NHS & other frontline services at risk. University fees trebled to £9,000 a year despite LibDem promises to abolish them."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Balance the books and cut the deficit",
+    	"policyDescription": "None of our manifesto commitments require additional borrowing."
+  	},
+  	{
+    	"policyTitle": "Freeze energy bills until 2017",
+    	"policyDescription": "Give the regulator the power to cut bills this winter, ban exploitative zero-hours contracts, raise the minimum wage to £8 and provide 25 hours free childcare a week."
+  	},
+  	{
+    	"policyTitle": "20,000 more nurses and 8,000 more GPs",
+    	"policyDescription": "Will join up services from home to hospital, guaranteeing GP appointments within 48 hours and cancer tests within one week."
+  	},
+  	{
+    	"policyTitle": "People who come here won't be able to claim benefits for at least two years",
+    	"policyDescription": "Introduce fair rules making it illegal for employers to undercut wages by exploiting workers."
+  	},
+  	{
+    	"policyTitle": "Tuition fees reduced to £6,000",
+    	"policyDescription": "An apprenticeship for every school leaver who gets the basic grades, and smaller class sizes for 5, 6, & 7 year-olds."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "David Cameron",
+  	"partyLeader": "",
+  	"tacticalSituation": "The 2015 General Election will be a straight choice between a Labour Government or a Tory one. Nobody votes Lib Dem here anymore."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Families £1600 a year worse off on average. Extreme public spending cuts after the election which will put our NHS & other frontline services at risk.",
+  	"education": "Tuition fees trebled to £9,000 a year despite LibDem promises to abolish them. An apprenticeship for every school leaver who gets the basic grades, and smaller class sizes for 5, 6, & 7 year-olds.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "NHS privatised, waiting times up, A&E in crisis. Extreme public spending cuts after the election which will put our NHS & other frontline services at risk. Will join up services from home to hospital, guaranteeing GP appointments within 48 hours and cancer tests within one week.",
+  	"immigration": "People who come here won't be able to claim benefits for at least two years. Introduce fair rules making it illegal for employers to undercut wages by exploiting workers.",
+  	"socialWelfare": "Bedroom tax driving people from their homes and causing misery for thousands. Hard-working families relying on food banks.",
+  	"housing": [
+    	{
+      	"content":"Bedroom tax driving people from their homes and causing misery for thousands.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "Garston & Halewood Labour FREEPOST NW2909A 108 Prescot Road L7 2BR",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.mariaeagle.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Nobody votes Lib Dem here anymore.",
+    	"source": "BBC News",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": "Vote Labour on Thursday 7th May"
+  }
+}
+```

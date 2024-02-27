@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Amess",
+    "constituency": "Southend West",
+    "politicalParty": "Conservative",
+    "electionDate": "6th May 2010",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Ensure the recession is not wasted, tackle Labour's debt crisis without damaging local services."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Increase standards in schools, give parents more control, ensure value for money in education."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Safeguard local health services, ensure frontline services are protected."
+      },
+      {
+        "policyTitle": "Law and Order",
+        "policyDescription": "Increase police visibility, reduce paperwork, and make the police more accountable."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Introduce annual limits on the number of non-EU economic migrants, crack down on abuse of the system."
+      },
+      {
+        "policyTitle": "Defence",
+        "policyDescription": "Ensure armed forces are properly equipped, support for veterans."
+      },
+      {
+        "policyTitle": "Europe",
+        "policyDescription": "Work for a Europe that respects nation's sovereignty, ensure value for money."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Amess",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Ensure the recession is not wasted, tackle Labour's debt crisis without damaging local services.",
+      "education": "Increase standards in schools, give parents more control, ensure value for money in education.",
+      "environment": "",
+      "governance": "",
+      "health": "Safeguard local health services, ensure frontline services are protected.",
+      "immigration": "Introduce annual limits on the number of non-EU economic migrants, crack down on abuse of the system.",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of David Amess"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

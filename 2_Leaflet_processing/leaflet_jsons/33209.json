@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sam Jordan",
+    "constituency": "Eastleigh",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Police Presence",
+        "policyDescription": "Increase police presence and demand an Eastleigh police station"
+      },
+      {
+        "policyTitle": "Infrastructure and Services",
+        "policyDescription": "Improve our vital infrastructure and services (roads, doctors, schools)"
+      },
+      {
+        "policyTitle": "High Streets",
+        "policyDescription": "Rejuvenate and revitalise our high streets"
+      },
+      {
+        "policyTitle": "Housing Developments",
+        "policyDescription": "Support the right kind of housing developments"
+      },
+      {
+        "policyTitle": "Community Voice",
+        "policyDescription": "Give you, the people of Eastleigh, a voice!"
+      }
+    ],
+    "mentions": {
+      "candidate": "I've had enough and I'm pretty sure you have too... I've lived in Eastleigh for 30 years and this is the worst it has been. It’s time for someone local to take over, and drive change and get things done for our community.",
+      "otherPartyLeaderCandidate": "Together, we can ensure that Eastleigh doesn't suffer as the Tories hide the truth behind a Brexit smokescreen.",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Together, we can ensure that Eastleigh doesn't suffer as the Tories hide the truth behind a Brexit smokescreen.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Improve our vital infrastructure and services (roads, doctors, schools)",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Support the right kind of housing developments",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I've had enough and I'm pretty sure you have too... I've lived in Eastleigh for 30 years and this is the worst it has been. It’s time for someone local to take over, and drive change and get things done for our community.",
+    "politicalExperience": [
+      {
+        "role": "Community Club Establishment",
+        "duration": "",
+        "achievements": "Established a community club to help support the people of Eastleigh"
+      }
+    ],
+    "contactInformation": {
+      "address": "Eastleigh Labour Party 69 Leigh Road, Eastleigh SO50 9DF",
+      "phone": "023 8061 3357",
+      "email": "sam@eastleighlabour.co.uk",
+      "website": "eastleighlabour.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sam Jordan - The Labour Party"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by Steve Willoughby on behalf of The Eastleigh Labour Party both at 69 Leigh Road, Eastleigh, SO50 9DF. Printed by Stoclall Lane Colour Press, School Lane, Chandler's Ford, Eastleigh SO53 4DG"
+  }
+}
+```

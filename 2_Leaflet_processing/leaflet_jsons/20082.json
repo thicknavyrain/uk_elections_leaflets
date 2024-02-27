@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Malcolm Jones",
+    "constituency": "Fareham",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Standing up for Real change",
+        "content": "Despite huge opposition to new housing developments our MP's ignore us, the Conservatives have now gone further by bringing in a candidate who specialises in Planning Law. Living and working in London she can put it all behind her when she goes home, leaving us with a gridlocked urban sprawl. Being local I want to defend Fareham, I was born in Eastleigh and have lived and worked locally all my life. I believe that Fareham needs a local, motivated person with a passion for the area. Let's work together for Fareham."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Control our borders",
+        "policyDescription": "UKIP wants a FAIRER Australian-style points-based system to decide who comes to work and settle here."
+      },
+      {
+        "policyTitle": "Invest in the NHS",
+        "policyDescription": "UKIP will pour £3 billion a year EXTRA into the NHS to keep it as a free public service, funded by scrapping our £55 million a day EU membership fee."
+      },
+      {
+        "policyTitle": "Fairer tax system",
+        "policyDescription": "UKIP will SCRAP income tax on the minimum wage, SCRAP the bedroom tax, and SCRAP the tax on your children when you die."
+      },
+      {
+        "policyTitle": "Spend here, not abroad",
+        "policyDescription": "By stopping our EU membership fee and clawing back the £30 million a day spent on foreign aid, UKIP is the ONLY PARTY with money to spend at home."
+      }
+    ],
+    "mentions": {
+      "candidate": "Malcolm Jones",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "UKIP will pour £3 billion a year EXTRA into the NHS.",
+      "immigration": "UKIP wants a FAIRER Australian-style points-based system to decide who comes to work and settle here.",
+      "socialWelfare": "UKIP will SCRAP income tax on the minimum wage, SCRAP the bedroom tax, and SCRAP the tax on your children when you die.",
+      "housing": [
+        {
+          "content": "Despite huge opposition to new housing developments our MP's ignore us.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Being local I want to defend Fareham, I was born in Eastleigh and have lived and worked locally all my life. I believe that Fareham needs a local, motivated person with a passion for the area.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "farehamukip@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Malcolm Jones UK Independence Party leaflet."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

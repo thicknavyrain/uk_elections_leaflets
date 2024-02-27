@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Hughes",
+    "constituency": "Bermondsey and Old Southwark",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "3 things to remember when voting by post",
+        "content": "Simon Hughes has been fighting for us for 32 years. Simon Hughes has fought for Guy's Hospital, Jubilee Line extensions and over 5000 apprenticeships in Southwark."
+      },
+      {
+        "title": "It's a two horse race!",
+        "content": "How Bermondsey and Old Southwark voted at the last General Election."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "You can use your vote to keep Simon fighting for affordable homes, mental health and more jobs with the Bakerloo Line Extension to the new river bridge and pier."
+      },
+      {
+        "policyTitle": "Health services",
+        "policyDescription": "Simon Hughes has fought for Guy's Hospital."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Fought for Jubilee Line extensions."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Fought for over 5000 apprenticeships in Southwark."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Hughes",
+      "otherPartyLeaderCandidate": "Ed Miliband's Labour candidate",
+      "partyLeader": "",
+      "tacticalSituation": "It's a two horse race! Can't win here! Lab 29% [not discernible] Con 17%. Keep Simon Hughes fighting for us."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Simon Hughes has fought for Guy's Hospital.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Simon Hughes has been fighting for affordable homes...",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Representative for Bermondsey and Old Southwark",
+        "duration": "32 years",
+        "achievements": "Fought for Guy's Hospital, Jubilee Line extensions, and over 5000 apprenticeships in Southwark."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Simon Hughes with supporters"
+        },
+        {
+          "caption": "How to vote by post - step by step guide"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

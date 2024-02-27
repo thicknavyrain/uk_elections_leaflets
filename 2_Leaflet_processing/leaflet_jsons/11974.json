@@ -1,0 +1,73 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Andrew Duffield",
+	"constituency": "Hexham",
+	"politicalParty": "Lib Dem",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Same old Tories",
+    	"content": "The Tories are treating our area with contempt. They have just parachuted in a London-based lawyer as their candidate here. Hexham is his fourth choice seat! The map shows choices in Wales and the South where he tried to be MP before moving here 1 year ago! Why should we have an MP who ranks us 4th best? Don't we deserve better?"
+  	},
+  	{
+    	"title": "Local Lib Dem",
+    	"content": "Family man who puts our area first and has lived & worked here most of his life."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Andrew Duffield",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "The map shows choices in Wales and the South where he tried to be MP before moving here 1 year ago"
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Family man who puts our area first and has lived & worked here most of his life.",
+	"politicalExperience": [
+  	{
+    	"role": "Northumberland County Councillor",
+    	"duration": "",
+    	"achievements": "local voice for local people, track record of hard work for local government"
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Andrew Duffield with his family"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

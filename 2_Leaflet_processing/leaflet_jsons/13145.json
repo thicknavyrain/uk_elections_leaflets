@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "Telford",
+    "politicalParty": "Conservative Party",
+    "electionDate": "6 May",
+    "messages": [
+      {
+        "title": "Dear Elector",
+        "content": "At the start of this election campaign we were faced with a simple choice: change, or more of the same. But things have moved on. One way or another, the result of this election is going to mean change for Britain. The question is, what kind of change do we want?"
+      },
+      {
+        "title": "",
+        "content": "I understand why people want change. People are completely fed up with the broken promises, the refusal to answer straight questions, the sight of politicians feathering their own nests, the distance between voters' everyday lives and the people who are supposed to represent them. All parties have been guilty of these things, mine included."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Change Politics",
+        "policyDescription": "Allowing people to kick out their MP before an election, cutting Minister's pay, and letting people see clearly how the government spends their money."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "A strong government with the energy, leadership and values to put the country back on its feet and the economy moving. Not kind of good government, able to take decisive action to sort things out, can only come about with a clear election result."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Increase funding for the NHS every year, and make sure the best new cancer drugs that are widely available without increasing taxes are available on the NHS."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Controlling immigration by imposing an annual limit on the number of non-EU economic migrants, and setting up a proper Border Police Force."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Cutting the number of MPs by 10 per cent, cutting Ministers' pay, letting people work out their taxes, putting people see clearly how the government spends their money."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A strong government with the energy, leadership and values to put the country back on its feet and the economy moving.",
+      "education": "",
+      "environment": "",
+      "governance": "Cutting the number of MPs by 10 per cent, cutting Ministers’ pay, letting people see clearly how the government spends their money.",
+      "health": "We will increase funding for the NHS every year, and make sure the best new cancer drugs that are widely available without increasing taxes are available on the NHS.",
+      "immigration": "Controlling immigration by imposing an annual limit on the number of non-EU economic migrants, and setting up a proper Border Police Force.",
+      "socialWelfare": "We will tackle benefit fraud, and reform the welfare system so that those who can work do work.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "This is my personal pledge to change politics.",
+    "politicalExperience": [
+      {
+        "role": "Leader of the Conservative Party",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "30 Millbank, London SW1P 4DP",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron leaflet front page"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet dated 26th April 2010."
+  }
+}
+```

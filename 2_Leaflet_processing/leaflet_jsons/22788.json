@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Neil Coyle",
+    "constituency": "Bermondsey and Old Southwark",
+    "politicalParty": "Labour",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "It's time for a change round here - let's vote for a better future.",
+        "content": "\"Southwark's priorities are my priorities. I want to see more homes, decent jobs and an NHS that's there for everyone when they need it. Change that will end Cameron and Clegg's coalition. Change that will help rebuild trust. Change that gives you an MP who cares about homes, jobs and the NHS. I will always put people first - as I've shown as a local councillor, in my work running a national charity helping half a million people a year, and in my local role as Deputy Mayor of Southwark. It's time for a better future.\""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Building the homes we need",
+        "policyDescription": "Labour will build 200,000 homes a year by 2020, including thousands of council homes here in Southwark."
+      },
+      {
+        "policyTitle": "More doctors and nurses for our NHS",
+        "policyDescription": "Labour pledges to guarantee a GP appointment within 48 hours."
+      },
+      {
+        "policyTitle": "A pay rise for hard working Britain",
+        "policyDescription": "Labour will raise the minimum wage to £8 an hour by 2020 – equivalent to a £3,000 pay rise for hard-working Britons."
+      }
+    ],
+    "mentions": {
+      "candidate": "Neil Coyle",
+      "otherPartyLeaderCandidate": "Cameron and Clegg",
+      "partyLeader": "",
+      "tacticalSituation": "7th May is a crossroads for Southwark. It's time for change."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A pay rise for hard working Britain: Labour will raise the minimum wage to £8 an hour by 2020 – equivalent to a £3,000 pay rise for hard-working Britons.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "More doctors and nurses for our NHS: Labour pledges to guarantee a GP appointment within 48 hours.",
+      "immigration": "",
+      "socialWelfare": "Labour will extend free childcare for three and four-year-olds from 15 to 25 hours.",
+      "housing": [
+        {
+          "content": "Building the homes we need: Labour will build 200,000 homes a year by 2020, including thousands of council homes here in Southwark.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "\"Southwark's priorities are my priorities. I want to see more homes, decent jobs and an NHS that's there for everyone when they need it.\"",
+    "politicalExperience": [
+      {
+        "role": "Deputy Mayor of Southwark",
+        "duration": "",
+        "achievements": "Helped half a million people a year running a national charity and as a local councillor."
+      }
+    ],
+    "contactInformation": {
+      "address": "46 Tower Bridge Road, London SE1 4TR",
+      "phone": "020 7394 6037",
+      "email": "info@neilcoyle.org.uk",
+      "website": "www.neilcoyle.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/neil4BOS",
+        "twitter": "@coyleneil",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Neil Coyle with constituents and campaign imagery."
+        }
+      ]
+    },
+    "additionalNotes": "Endorsements from local residents and Labour party members."
+  }
+}
+```

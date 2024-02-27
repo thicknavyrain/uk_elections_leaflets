@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Aaron Bell",
+    "constituency": "Newcastle under Lyme",
+    "politicalParty": "Conservative",
+    "electionDate": "December 12",
+    "messages": [
+      {
+        "title": "Newcastle under Lyme Future",
+        "content": "Voters in Newcastle under Lyme will decide this election."
+      },
+      {
+        "title": "UNLEASH BRITAIN'S POTENTIAL",
+        "content": "More policemen, more nurses, more bus services, and gigabit broadband for every home."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "New Brexit deal agreed with EU",
+        "policyDescription": "Protects jobs and trade, ends uncertainty for our economy, ready to go from day one of a new parliament."
+      },
+      {
+        "policyTitle": "40 New Hospitals",
+        "policyDescription": "Building 40 new hospitals, supporting our NHS and providing better care for you and your family."
+      },
+      {
+        "policyTitle": "20,000 More Police",
+        "policyDescription": "Getting criminals off our streets with 20,000 more police."
+      },
+      {
+        "policyTitle": "50 Million More GP Appointments",
+        "policyDescription": "50 million more GP appointments a year, more health professionals in Newcastle under Lyme, shorter waiting times."
+      },
+      {
+        "policyTitle": "£14 Billion Extra for Schools",
+        "policyDescription": "Every school to have more money for every child."
+      },
+      {
+        "policyTitle": "An Immigration System that Works",
+        "policyDescription": "Australian-style points system, control and reduce immigration while attracting the best and brightest."
+      }
+    ],
+    "mentions": {
+      "candidate": "Aaron Bell",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": "Voters in Newcastle under Lyme will decide this election, just a handful of votes will be the difference between a majority government and another hung parliament. "
+    },
+    "issues": {
+      "brexitEurope": "New Brexit deal agreed with EU.",
+      "economy": "Ends uncertainty for our economy, 50 million more GP appointments.",
+      "education": "Every school to have more money for every child.",
+      "environment": "",
+      "governance": "Let's unleash Britain's potential.",
+      "health": "Building 40 new hospitals, more health professionals in Newcastle under Lyme, 50 million more GP appointments.",
+      "immigration": "Australian-style points system.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Aaron Bell's plan for Newcastle under Lyme",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Every vote for Jeremy Corbyn makes another hung parliament more likely. That's because Corbyn can't win a majority, but he could cobble together a coalition, triggering two referendums, no Brexit, higher taxes. Five long years of gridlock.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "BREXIT DEAL AGREED AND READY TO GO"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tam Langley",
+    "constituency": "",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Simon Hughes",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Ruby Peacock",
+        "endorsement": "Tam has already become a positive voice for our area. That’s why more and more people will be voting for her as our MP."
+      },
+      {
+        "endorser": "Duwayne Brooks",
+        "endorsement": "I know that Tam will work hard to cut crime locally, and to sort out our area after years of Labour neglect."
+      },
+      {
+        "endorser": "Ateeq Mughal",
+        "endorsement": "Tam will be a fresh voice for Lewisham, working hard just like Lib Dem MP Simon Hughes does next door in Southwark."
+      },
+      {
+        "endorser": "Max Calò",
+        "endorsement": "Tam Langley is a hard working campaigner locally. She’s exactly the sort of person we need as our local MP."
+      },
+      {
+        "endorser": "Michele McClarren",
+        "endorsement": "Many lifelong Labour voters have told me they are fed up with Labour and will be voting for the Lib Dems this time."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "More and more local people are backing Tam Langley to be our MP."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

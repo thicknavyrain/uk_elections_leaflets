@@ -1,0 +1,59 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "James Bellis",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "Thursday",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+	  "candidate": "James Bellis",
+	  "otherPartyLeaderCandidate": "",
+	  "partyLeader": "",
+	  "tacticalSituation": ""
+	},
+	"issues": {
+	  "brexitEurope": "",
+	  "economy": "",
+	  "education": "",
+	  "environment": "",
+	  "governance": "",
+	  "health": "",
+	  "immigration": "",
+	  "socialWelfare": "",
+	  "housing": []
+	},
+	"personalStatement": "For a strong and effective MP who will be accountable to you, vote James Bellis on Thursday",
+	"politicalExperience": [],
+	"contactInformation": {
+	  "address": "",
+	  "phone": "",
+	  "email": "",
+	  "website": "",
+	  "socialMedia": {
+		"facebook": "",
+		"twitter": "",
+		"instagram": "",
+		"linkedin": ""
+	  }
+	},
+	"endorsements": [],
+	"quotes": [
+	  {
+		"text": "Remember, if you haven't got your postal vote back yet, you can take your completed postal vote pack to any polling station in the constituency before 10pm on [day]",
+		"source": "Note on campaign leaflet",
+		"date": ""
+	  }
+	],
+	"campaignMaterial": {
+	  "images": [
+		{
+		  "caption": "Photograph of James Bellis"
+		}
+	  ]
+	},
+	"additionalNotes": "Polling Stations are open from 7am to 10pm on Thursday"
+  }
+}
+```

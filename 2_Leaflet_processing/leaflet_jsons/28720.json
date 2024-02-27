@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "JONATHAN LORD",
+    "constituency": "Woking",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "YOUR CHOICE AT THIS ELECTION:",
+        "content": "STRONG, STABLE LEADERSHIP IN THE NATIONAL INTEREST or A COALITION OF CHAOS WITH JEREMY CORBYN"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "JEREMY CORBYN",
+      "partyLeader": "THERESA MAY",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "MAKING BREXIT A SUCCESS IS CENTRAL TO OUR NATIONAL INTEREST",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "OUR LOCAL VOICE",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01483 773384",
+      "email": "jonathan@wokingconservatives.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "JONATHAN LORD Working for Woking and our Villages STANDING WITH THERESA MAY"
+        },
+        {
+          "caption": "YOUR CHOICE AT THIS ELECTION: STRONG, STABLE LEADERSHIP IN THE NATIONAL INTEREST or A COALITION OF CHAOS WITH JEREMY CORBYN"
+        },
+        {
+          "caption": "THERESA MAY STRONG, STABLE LEADERSHIP IN THE NATIONAL INTEREST"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet presents Jonathan Lord as aligned with Theresa May and the Conservative Party's message of strong, stable leadership. It contrasts this with the potential for a 'coalition of chaos' under Jeremy Corbyn. Specific policies, endorsements, or detailed stances on issues such as the economy, education, or health are not outlined in the visible sections of the leaflet."
+  }
+}
+```

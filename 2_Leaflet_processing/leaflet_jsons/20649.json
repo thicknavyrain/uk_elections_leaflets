@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Watford",
+    "politicalParty": "Conservative Party",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "",
+        "content": "This election is close. Your vote will secure your progress over the future years or bring it to a screeching halt. Let's not waste the last five years of hard work and let Labour and the SNP take us back to square one."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax Threshold Increase",
+        "policyDescription": "Raise the personal tax threshold so that no-one earning under £50,000 pays it."
+      },
+      {
+        "policyTitle": "Economic Governance",
+        "policyDescription": "Halve the deficit as a share of the economy, keep our surplus secure by running a surplus so we can start paying down our debts."
+      },
+      {
+        "policyTitle": "Inheritance Tax Changes",
+        "policyDescription": "Take family homes out of the Inheritance Tax by raising the effective threshold to £1 million."
+      },
+      {
+        "policyTitle": "NHS Spending Protection",
+        "policyDescription": "Protected spending on the NHS – now we'll spend at least an extra £8 billion to fund and support the NHS's own action plan."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Ed Miliband and the SNP, Alex Salmond, Nicola Sturgeon",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "If the Conservatives are able to hold seats like Watford, they only need to win just 23 more to form a majority government — and keep Ed Miliband and the SNP out of Downing Street."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Halve the deficit as a share of our economy – now we'll keep our surplus secure by running a surplus so that we can start paying down our debts.",
+      "education": "",
+      "environment": "",
+      "governance": "We're promised a strong, stable and competent Conservative government working to a clear economic plan.",
+      "health": "We've protected spending on the NHS – now we'll spend at least an extra £8 billion to fund and support the NHS's own action plan.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Take family homes out of the Inheritance Tax by raising the effective threshold to £1 million.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "conservatives.com/yourmanifesto",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Cameron",
+        "endorsement": "Susan, your vote can be the difference at this election."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "A vote for anyone else risks getting the chaos of Ed Miliband and Labour, propped up by Nicola Sturgeon, Alex Salmond and the SNP for the next five years.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "Don't risk it – for competence instead of chaos, vote Conservative.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron writing, with the message - 'This election is close. Your vote will secure your progress over the future years or bring it to a screeching halt.'"
+        },
+        {
+          "caption": "Susan on a phone with the campaign's economic promise highlighted."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

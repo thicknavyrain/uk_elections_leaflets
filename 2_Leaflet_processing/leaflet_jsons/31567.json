@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Laurence Robertson",
+    "constituency": "Tewkesbury",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Election Comment",
+        "content": "This General Election has been called because the Government has no majority in the House of Commons and therefore cannot pass legislation, including Brexit measures."
+      },
+      {
+        "title": "Let's be clear on Brexit",
+        "content": "I support leaving the EU, hopefully with a deal, but if not, I believe we must still respect the result of the referendum."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Support leaving the EU with a deal if possible, but leave regardless of a deal to respect the referendum result."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Campaign for the retention of A&E at Cheltenham General Hospital. Support increased funding for NHS and health services."
+      },
+      {
+        "policyTitle": "Supporting the Prime Minister",
+        "policyDescription": "Backing Boris Johnson as Prime Minister and supporting his policies and leadership."
+      }
+    ],
+    "mentions": {
+      "candidate": "Laurence Robertson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "I support leaving the EU.",
+      "economy": "Believe in creating a thriving economy, supporting stronger public services.",
+      "education": "Believe strongly in the importance of education for young people.",
+      "environment": "Working to protect the environment, including animals and the countryside.",
+      "governance": "",
+      "health": "Increase NHS funding. Keep A&E at Cheltenham General Hospital open.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have had the privilege of representing the Tewkesbury constituency in Parliament since 1997.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for Tewkesbury",
+        "duration": "Since 1997",
+        "achievements": "Worked on several projects, visited various locations on official visits, and completed different constituency projects."
+      }
+    ],
+    "contactInformation": {
+      "address": "Unit H1a Regent Court, Gloucester Business Park, Gloucester, GL3 4AD",
+      "phone": "07543 199781",
+      "email": "laurence.robertson.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "ltrobertsonwks",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Laurence Robertson working for you all the year round..."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

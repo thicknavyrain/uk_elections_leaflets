@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "Friday 8 May 2015",
+    "messages": [
+      {
+        "title": "THE DAILY CHAOS",
+        "content": ""
+      },
+      {
+        "title": "BRITAIN BACK TO SQUARE ONE",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "SNP puts Miliband in Downing Street",
+      "partyLeader": "",
+      "tacticalSituation": "GLYN, YOUR VOTE CAN STOP THIS"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "THE DAILY CHAOS - SNP puts Miliband in Downing Street"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

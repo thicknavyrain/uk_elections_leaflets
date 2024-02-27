@@ -1,0 +1,95 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "York Outer",
+	"politicalParty": "Conservative",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS Funding",
+    	"policyDescription": "Adding an extra £1 billion for NHS capital spending"
+  	},
+	{
+		"policyTitle": "Education and Skills",
+		"policyDescription": "Investing in further education and apprenticeships"
+	},
+	{
+		"policyTitle": "Local Jobs",
+		"policyDescription": "Protecting local jobs with a thriving high street and Single Market membership"
+	},
+	{
+		"policyTitle": "Local Transport",
+		"policyDescription": "Delivering the York Outer Ring Road upgrade"
+	}
+	],
+	"mentions": {
+  	"candidate": "James Blanchard",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "Conservative Outer Failure. A damning indictment of six years' work."
+	},
+	"issues": {
+  	"brexitEurope": "A damning indictment of six years' work. Proposing Hard Brexit - damaging York's export-dependent economy.",
+  	"economy": "Proposing Hard Brexit - damaging York's export-dependent economy.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anneliese Dodds",
+    "constituency": "Oxford East",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "A Message from Anneliese",
+        "content": "Dear Voter, It has been a pleasure to represent you in Parliament these last two years and to work to defend our community from some of the damaging effects of Austerity."
+      },
+      {
+        "title": "It's time to end the permanent crisis in our NHS",
+        "content": "Ever since the Tories, propped up for five years by the Lib Dems, came to power, squeezed... Waiting lists are now at record levels with 4.5 million waiting for treatment... Anneliese has been a tireless champion for our local NHS."
+      },
+      {
+        "title": "Anneliese is the local choice",
+        "content": "Anneliese understands the issues which families like yours, and mine, face. She has the same commitments we do to our some community faces."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "A public vote on any Brexit Deal without political interference."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Increased funding for the NHS with more nurses and doctors."
+      },
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Real action to tackle the climate crisis and clear up our air at a national and city level."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "A new, real Living Wage plus deals at least £110 an hour, stronger tenants' rights and tackling homelessness."
+      },
+      {
+        "policyTitle": "Oxford's Costs",
+        "policyDescription": "Real funding increases for Oxford's cash-strapped schools, and a cut to tuition fees."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anneliese Dodds",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "",
+      "tacticalSituation": "Neither the Conservative nor the Lib Dem candidates live in Oxford East."
+    },
+    "issues": {
+      "brexitEurope": "A public vote on any Brexit Deal without political interference.",
+      "economy": "A new, real Living Wage plus deals at least £110 an hour, stronger tenants' rights and a crackdown on rogue landlords.",
+      "education": "Real funding increases for Oxford's cash-strapped schools, and a cut to tuition fees.",
+      "environment": "Real action to tackle the climate crisis and to clean up our air at a national and city level.",
+      "governance": "",
+      "health": "Increased funding for the NHS with more nurses and doctors.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour will scrap tuition fees and introduce free lifelong learning.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "As a parent of a young family, I have seen first-hand the damage caused to our community by the Tories' austerity policies...",
+    "politicalExperience": [
+      {
+        "role": "Local MP",
+        "duration": "2 years",
+        "achievements": "Representing you in Parliament and working to defend our community from some of the damaging effects of Austerity."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "anneliesedoddsoxeast@gmail.com",
+      "website": "http://www.anneliesedodds.org.uk/",
+      "socialMedia": {
+        "facebook": "/AnnelieseDodds",
+        "twitter": "@AnnelieseDodds",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Anneliese has been a tireless champion for our local NHS."
+        },
+        {
+          "caption": "Anneliese understands the issues which families like yours, and mine, face."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "Hastings and Rye",
+    "politicalParty": "Conservative Party",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "General Election 2015",
+        "content": "In just a few weeks you and voters right across Britain face an important choice about the future – who will govern this country for the next five years."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "The Conservatives' number one priority in government has been to get Britain's economy back on its feet by ensuring a strong and healthy economy."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Provide an NHS that functions more efficiently and effectively, ensuring it continues with strong economic management."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "Ed Miliband, Alex Salmond",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Conservatives' number one priority in government has been to get Britain's economy back on its feet.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Provide an NHS that functions more efficiently and effectively.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "CONSERVATIVE CAMPAIGN HEADQUARTERS, 4 MATTHEW PARKER STREET, LONDON, SW1H 9HQ",
+      "phone": "",
+      "email": "",
+      "website": "CONSERVATIVES.COM",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of a campaign leaflet from David Cameron, Prime Minister and Leader of the Conservative Party, dated 5th April 2015."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet makes several points about the risks of a Labour and SNP coalition, emphasizing the importance of a strong and healthy economy alongside the benefits of Conservative government."
+  }
+}
+```

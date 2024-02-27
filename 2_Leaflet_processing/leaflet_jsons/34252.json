@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "This election is the chance to transform our country.",
+        "content": "Only Labour can stop Boris Johnson's disastrous Brexit deal. A vote for the Lib Dems or any other party will help Boris Johnson."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Get Brexit sorted by giving you the final say"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Abolish tuition fees and reintroduce grants and allowances for young people from low and middle income backgrounds"
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Kick start a Green Industrial Revolution to tackle the climate emergency and create high-skilled, high-wage jobs"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Fix the housing crisis with a massive increase in social housing and a New Deal for private renters and first time buyers"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Immediately introduce a Real Living Wage of £10 an hour for everyone in work over 16"
+      },
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Reverse Tory tax giveaways to the super rich"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "",
+      "tacticalSituation": "A vote for the Lib Dems or any other party will help Boris Johnson."
+    },
+    "issues": {
+      "brexitEurope": "Get Brexit sorted by giving you the final say",
+      "economy": "Immediately introduce a Real Living Wage of £10 an hour for everyone in work over 16",
+      "education": "Abolish tuition fees and reintroduce grants and allowances for young people from low and middle income backgrounds",
+      "environment": "Kick start a Green Industrial Revolution to tackle the climate emergency and create high-skilled, high-wage jobs",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Fix the housing crisis with a massive increase in social housing and a New Deal for private renters and first time buyers",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Printed by Prontaprint (UK), Nelson Park, Cramlington, Northumberland, NE23 1WG.",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Labour Thursday 12 December"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

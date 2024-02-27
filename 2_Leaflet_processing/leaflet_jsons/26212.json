@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Claire Hiscott",
+    "constituency": "Redland",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A personal message from Claire HISCOTT",
+        "content": "Living in Redland and being an adopted Bristolian for over 17 years I love our city and the vibrancy of our culture and heritage. I have been committed to improving life for residents in my work as a community pharmacist and as a job, a volunteer for many charities and organizations. I believe that if you want to see change you have to get on and do something wherever and whenever you are able."
+      },
+      {
+        "title": "Education is a Priority!",
+        "content": "As a mother, who has brought up my two teenage children in Redland I understand how vital education is. We need to make sure that every child, no matter what their background, has the best start in life."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Competent Leadership",
+        "policyDescription": "Job - vital places secured. Benefits - The extra £10 for 136,000 workers. Tax - and tax cuts to 22 million."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Working to ensure accessible apprenticeships and promote vocational courses. Protect priorities to make more accessible. Over the past 5 years, we have created 2 million new apprenticeships with 23% applying the country-wide in B'Ness & the Professions."
+      }
+    ],
+    "mentions": {
+      "candidate": "A personal message from Claire HISCOTT",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Job - vital places secured. Benefits - The extra £10 for 136,000 workers. Tax - and tax cuts to 22 million.",
+      "education": "As a mother, who has brought up my two teenage children in Redland I understand how vital education is. We need to make sure that every child, no matter what their background, has the best start in life.",
+      "environment": "Our city's population is growing and needs a robust plan to expand. Affordable housing is essential to make more people self-sufficient and ensure security.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Our city's population is growing and needs a robust plan to expand. Affordable housing is essential to make more people self-sufficient and ensure security.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Living in Redland and being an adopted Bristolian for over 17 years I love our city and the vibrancy of our culture and heritage. I have been committed to improving life for residents in my work as a community pharmacist and as a job, a volunteer for many charities and organizations. I believe that if you want to see change you have to get on and do something wherever and whenever you are able.",
+    "politicalExperience": [
+      {
+        "role": "NHS pharmacist",
+        "duration": "25 years",
+        "achievements": "Medicine reviews and continuing success as a school governor."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01173798511",
+      "email": "claire.hiscott@bristolconservatives.com",
+      "website": "clairehiscott.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@ClaireHiscott",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Claire HISCOTT Working for a Better Bristol. Fighting for a Better Britain."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

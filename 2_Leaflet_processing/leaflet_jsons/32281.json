@@ -1,0 +1,102 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "December 12th",
+	"messages": [
+  	{
+    	"title": "Lib Dems lead the fight to stop Brexit",
+    	"content": "The Liberal Democrats want to stop Brexit. We've been fighting it since the day after the referendum. We are the strongest party of Remain, with a clear and simple message: let’s stop Brexit. Jo Swinson said, 'Stopping Brexit means that we can focus on tackling the big issues facing the UK right now. We can build a brighter future where we can all grow our economy, tackle the climate emergency, and address the crises in our NHS and schools.'"
+  	},
+  	{
+    	"title": "Vote to End this Mess",
+    	"content": "ONLY THE LIB DEMS CAN BEAT LABOUR HERE"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Stop Brexit",
+    	"policyDescription": "The Liberal Democrats propose to stop Brexit and focus on other critical issues such as the economy, climate emergency, and public services like NHS and schools."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "Jo Swinson",
+  	"tacticalSituation": "ONLY THE LIB DEMS CAN BEAT LABOUR HERE"
+	},
+	"issues": {
+  	"brexitEurope": "The Liberal Democrats want to stop Brexit. We've been fighting it since the day after the referendum.",
+  	"economy": "Stopping Brexit means that we can all grow our economy.",
+  	"education": "Stopping Brexit means that we can...address the crises in our NHS and schools.",
+  	"environment": "Stopping Brexit means that we can...tackle the climate emergency.",
+  	"governance": "",
+  	"health": "Stopping Brexit means that we can...address the crises in our NHS and schools.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "1-6 Great George Street, London, SW1P 3AE",
+  	"phone": "",
+  	"email": "",
+  	"website": "libdems.org.uk/help",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Jeremy Corbyn refused NINE TIMES to say whether he thought Britain should leave the EU or remain.",
+    	"source": "The Telegraph, November 2019",
+    	"date": "November 2019"
+  	},
+  	{
+    	"text": "Labour is proposing to negotiate a new deal with the European Union.",
+    	"source": "The Times, November",
+    	"date": "November 2019"
+  	},
+  	{
+    	"text": "Labour is not a Remain party",
+    	"source": "Len McCluskey, November 2019",
+    	"date": "November 2019"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Lib Dems lead the fight to stop Brexit"
+    	},
+    	{
+      	"caption": "Vote to End this Mess"
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet states that only the Liberal Democrats can beat Labour in the reader's area, implying a strategic voting consideration."
+  }
+}
+```

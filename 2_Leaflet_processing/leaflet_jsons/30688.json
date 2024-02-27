@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Shaw",
+    "constituency": "Basingstoke",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "What the Liberal Democrats stand for",
+        "content": "Basingstoke is a great place, but I know it could be better. We need a different kind of MP to protect what is great while fixing a lot of stuff that isn't. Lib Dem MPs are beholden to you - not to party bigwigs or donors. Our children need a great education. We need to sort out Brexit. Our NHS is creaking at the seams and is being ripped off by drug companies. Our children can't afford to live here. I will tackle these issues head on and will not make easy promises I can't keep."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "The NHS",
+        "policyDescription": "Liberal Democrats will raise £6 billion a year for investing in the NHS and Social Care."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Liberal Democrats want the UK to remain part of the EU to keep jobs, police, prosperity and security for generations. We want a key remaining benefit of EU membership so when we feel the strain of leaving the EU are known, we want the British people to have the final say on Brexit."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Basingstoke's future depends on a highly skilled next generation. We have to introduce more grammar schools. The top 20% have access to the best education every child matters and we will provide the very standards of education for all."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "We have a responsibility to leave the next generation a world at least not worse than one we inherited. The Lib Dems will be the watchdog in the public opinion, embracing green energy and protecting our public open spaces."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Private rents are too high and social housing stocks diminished. House prices are out of reach for many families starting out in life. The Lib Dems would increase housing supply, using new building technology, so everyone has access to a decent home they can afford."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Shaw",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The UK can’t thrive without a strong economy. We need free trade, which creates jobs, police, prosperity, and keeps our families safe. We want to retain key benefits of EU membership.",
+      "education": "Basingstoke's future depends on a highly skilled next generation. We have to introduce more grammar schools to the top 20% have access to the best education. Every child matters and we will provide the very standards of education for all.",
+      "environment": "We have a responsibility to leave the next generation a world at least not worse than one we inherited. The Lib Dems will be the watchdog in the public opinion, embracing green energy and protecting our public open spaces.",
+      "governance": "",
+      "health": "Last year 10,000 bed days were lost in local hospitals. Patients couldn’t be discharged due to underfunded social care system. The Lib Dems will raise £6 billion a year for investing in the NHS and Social Care.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Private rents are too high and social housing stocks diminished. House prices are out of reach for many families starting out in life. The Lib Dems would increase housing supply, using new building technology, so everyone has access to a decent home they can afford.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Basingstoke is a great place, but I know it could be better. We need a different kind of MP to protect what is great while fixing a lot of stuff that isn't.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Liberal Democrats, 4-5 Clifton Terrace, Finsbury Park, London, N4 3JP",
+      "phone": "020 3327 1200",
+      "email": "info@libdems.org.uk",
+      "website": "http://www.johnshaw.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Shaw and his team"
+        },
+        {
+          "caption": "John Shaw with residents"
+        },
+        {
+          "caption": "John Shaw discussing economy"
+        },
+        {
+          "caption": "John Shaw in an educational setting with children"
+        },
+        {
+          "caption": "John Shaw supporting environmental concerns"
+        },
+        {
+          "caption": "John Shaw on housing issues"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted and published by Deryck ter, on behalf of John Shaw (Liberal Democrats) at 4-5 Clifton Terrace, Finsbury Park, London, N4 3JP. Printed by Solopress, Unit 9, Stock Road, Southend-On-Sea, Essex, SS2 5QF."
+  }
+}
+```

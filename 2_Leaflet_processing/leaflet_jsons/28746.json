@@ -1,0 +1,68 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Maurice Jackson",
+    "constituency": "Ashton-u-Lyne, Droylsden and Failsworth",
+    "politicalParty": "UKIP",
+    "electionDate": "June",
+    "messages": [
+      {
+        "title": "You do not have to choose between the lesser of two evils",
+        "content": "Put the people's voice back into politics and vote UKIP in June!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "With UKIP Brexit will mean:",
+        "policyDescription": "Fully restoring the legal supremacy of the British Parliament, controlling and planning immigration, ensuring that all housing, hospital and school places are provided for all, restoring our full maritime sovereignty, regaining our seat in the World Trade Organisation, and no settlement or ongoing payments to the EU budget."
+      }
+    ],
+    "mentions": {
+      "candidate": "Maurice Jackson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Fully restoring the legal supremacy of the British Parliament, restoring our full maritime sovereignty, regaining our seat in the World Trade Organisation, and no settlement or ongoing payments to the EU budget.",
+      "economy": "Improving local finances and control on unnecessary spending by the Council without reducing our local needs. Capped Council Tax.",
+      "education": "",
+      "environment": "Protecting green spaces.",
+      "governance": "",
+      "health": "Funding for additional health through reduced business rates, greater 'late-payer' support and apprenticeship support.",
+      "immigration": "Controlling and planning immigration to what the UK needs.",
+      "socialWelfare": "Finding efficiencies within social networks.",
+      "housing": [
+        {
+          "content": "Ensuring that all housing, hospital and school places are provided for all.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "A strong local voice for Ashton-u-Lyne, Droylsden and Failsworth",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Published and promoted by Maurice Jackson, 1 Ansdell Drive, Droylsden, Manchester M43 6NG",
+      "phone": "",
+      "email": "hello@ukip-tameside.com",
+      "website": "www.ukip-tameside.co.uk",
+      "socialMedia": {
+        "facebook": "www.facebook.com/UKIPTameside",
+        "twitter": "@UKIP_Tameside",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Maurice Jackson - A strong local voice for Ashton-u-Lyne, Droylsden and Failsworth"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

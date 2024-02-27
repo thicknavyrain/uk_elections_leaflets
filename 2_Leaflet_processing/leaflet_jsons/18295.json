@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Hayes",
+    "constituency": "South Holland and the Deepings",
+    "politicalParty": "Conservative",
+    "electionDate": "7 May 2015",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "John Hayes",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Hayes"
+        }
+      ]
+    },
+    "additionalNotes": "The People’s Voice, the People’s Choice"
+  }
+}
+```

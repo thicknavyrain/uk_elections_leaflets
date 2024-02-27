@@ -1,0 +1,64 @@
+{
+  "leaflet": {
+	"candidateName": "Keith Angus",
+	"constituency": "Hackney",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Affordable Housing",
+    	"policyDescription": "Invest in more affordable housing right here in Hackney."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Keith Angus",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Invest in more affordable housing right here in Hackney.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "House shaped like a heart with the text 'Home is where the heart is. That’s why we’ll invest in more affordable housing right here in Hackney. Show your love for Hackney, Vote Keith Angus.'"
+    	},
+    	{
+      	"caption": "A heart with the text 'Hackney' inside it."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

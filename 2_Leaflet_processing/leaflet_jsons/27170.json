@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tony Miklinski",
+    "constituency": "North East Fife",
+    "politicalParty": "Scottish Conservative and Unionist",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "A MESSAGE FROM RUTH DAVIDSON",
+        "content": "Only one vote on Thursday 8th June can beat the SNP in North East Fife and stop the threat of a second independence referendum – a vote for the Scottish Conservative and Unionist Party."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Tony Miklinski",
+      "otherPartyLeaderCandidate": "Nicola Sturgeon",
+      "partyLeader": "Ruth Davidson",
+      "tacticalSituation": "The leaflet mentions strategic voting consideration with a clear message to vote Scottish Conservative to beat the SNP."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Only one vote on Thursday 8th June can beat the SNP in North East Fife and stop the threat of a second independence referendum – a vote for the Scottish Conservative and Unionist Party.",
+        "source": "Leaflet",
+        "date": "Prior to Thursday 8th June election"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ruth Davidson speaking, Tony Miklinski's profile, and political statements."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

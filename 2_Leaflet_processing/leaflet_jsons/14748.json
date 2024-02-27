@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Barney Crockett",
+    "constituency": "Gordon",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A Strong Local Voice Standing Up For Gordon",
+        "content": "This election is a clear two horse race between Labour and the Tories - voting SNP in Gordon will only help David Cameron slip in to Downing Street through the back door."
+      },
+      {
+        "title": "A View From The Community",
+        "content": "I have seen at first hand how Barney has fought for our area and Labour values. Gordon needs a powerful voice and Barney will provide that. - Brian Rattray, Local Resident"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting For Families In Gordon",
+        "policyDescription": "Families have benefited under Labour. A Conservative Government will threaten all of this."
+      },
+      {
+        "policyTitle": "Protect Public Services",
+        "policyDescription": "Labour has improved Public Services, started pensions, and improved schools. Don't let the Tories destroy this achievement."
+      },
+      {
+        "policyTitle": "Keep Scotland In The UK",
+        "policyDescription": "Gordon needs Labour MPs at Westminster to stand up to the SNP and keep the UK together."
+      },
+      {
+        "policyTitle": "Ensure Highest Standards in Public Life",
+        "policyDescription": "As a former Ombudsman I have always worked to improve standards of official behaviour. I will continue to do so."
+      }
+    ],
+    "mentions": {
+      "candidate": "After the election with Labour we get stability without the risk of a deal with the Tories or the SNP.",
+      "otherPartyLeaderCandidate": "Voting SNP in Gordon will only help David Cameron slip in to Downing Street through the back door.",
+      "partyLeader": "",
+      "tacticalSituation": "This election is a clear two horse race between Labour and the Tories."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Families have benefited under Labour. A Conservative Government will threaten all of this.",
+      "education": "Improved schools under Labour",
+      "environment": "",
+      "governance": "As a former Ombudsman I have always worked to improve standards of official behaviour.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Labour has improved Public Services, started pensions.",
+      "housing": [
+        {
+          "content": "Families have benefited under Labour. A Conservative Government will threaten all of this.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Ombudsman",
+        "duration": "",
+        "achievements": "Worked to improve standards of official behaviour."
+      }
+    ],
+    "contactInformation": {
+      "address": "Woodville, Bankhead Avenue, Bucksburn, Aberdeen, AB21 9ET",
+      "phone": "01224 712976",
+      "email": "barneycrockett@yahoo.co.uk",
+      "website": "www.aberdeenlabourparty.org",
+      "socialMedia": {
+        "facebook": "/BarneyCrockett",
+        "twitter": "@BarneyCrockett",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Brian Rattray, Local Resident",
+        "endorsement": "Barney has fought for our area and Labour values."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Barney Crockett with a family."
+        },
+        {
+          "caption": "Barney Crockett talking to a community member."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

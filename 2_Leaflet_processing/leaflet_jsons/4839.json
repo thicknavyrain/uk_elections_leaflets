@@ -1,0 +1,68 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Cowan",
+    "constituency": "South East Cambridgeshire",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "John is the right person for us..."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "John Cowan",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour will invest in the economic recovery",
+      "education": "",
+      "environment": "",
+      "governance": "In the wake of the expenses scandal, we need new blood in the House of Commons to restore trust in the political system.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Barbara Parr",
+        "endorsement": "John is the right person to represent the people of South East Cambridgeshire. He is an active and energetic campaigner and will make an excellent MP."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

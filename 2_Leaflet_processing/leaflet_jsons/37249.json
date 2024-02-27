@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Iain Gray",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Focus on what really matters",
+        "content": "Patients should see a cancer specialist and get results as quickly as possible - that's the call from Sarah Clark. The 29-year old teacher from Alva is backing Labour's two week cancer waiting time guarantee."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Put teachers back in classrooms - Almost one in five kids leave Scottish primary schools unable to read properly. Labour will put up to 1000 extra teachers in classrooms, so schools can focus on getting the basics right."
+      },
+      {
+        "policyTitle":"Health",
+        "policyDescription": "Cut cancer waiting times, not nurses - Labour's plan includes a two week cancer waiting time guarantee to ensure that if your GP suspects cancer, you will see a specialist and get results within a fortnight."
+      }
+    ],
+    "mentions": {
+      "candidate": "Iain Gray",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Labour plans to increase the number of teachers to ensure children can properly read by the time they leave primary school.",
+      "environment": "",
+      "governance": "",
+      "health": "Labour pledges to guarantee cancer patients will see a specialist and get results within two weeks.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Sarah Clark",
+        "endorsement": "Backing Labour's plans to cut cancer waiting times."
+      },
+      {
+        "endorser": "Alex Ferguson",
+        "endorsement": "Backs Labour."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour's two week cancer waiting time guarantee.",
+        "source": "Sarah Clark",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sarah Clark, a local teacher, is backing Labour's plans to cut cancer waiting times."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

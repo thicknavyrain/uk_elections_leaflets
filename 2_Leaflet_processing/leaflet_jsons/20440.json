@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anna Coke",
+    "constituency": "Mid Norfolk",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Standing Up for Real Change",
+        "content": "This country needs a new political class: people of value, with experience in the real world. We have all had enough of Tory cuts to the armed forces, police and essential services. They have incentivised councils to build massive housing developments without proper infrastructure. They have increased immigration to 624,000 per annum, foreign aid to £12 billion, VAT to 20% and the National Debt to £1.5 trillion. It is time for real change. Please give UKIP the balance of power in Westminster on May 7th."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Reduction of Cuts to Essential Services",
+        "policyDescription": "Anna Coke is opposed to Tory cuts to armed forces, police, and essential services, and calls for a reversal of these reductions."
+      },
+      {
+        "policyTitle": "Housing Infrastructure",
+        "policyDescription": "Criticizes current housing developments for lacking proper infrastructure."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Points to an increase in immigration and seems to suggest this should be addressed."
+      },
+      {
+        "policyTitle": "Foreign Aid",
+        "policyDescription": "Highlights the current foreign aid expenditure as a point of contention."
+      },
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "References the rise in VAT to 20% as a negative policy of the current government."
+      },
+      {
+        "policyTitle": "National Debt",
+        "policyDescription": "Concerned about the rise of the National Debt to £1.5 trillion."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anna Coke",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Mentions Tory cuts, VAT increase to 20%, and rise of National Debt to £1.5 trillion.",
+      "education": "",
+      "environment": "",
+      "governance": "Calls for a new political class and for real change.",
+      "health": "",
+      "immigration": "Points to an increase in immigration to 624,000 per annum.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Criticizes the incentivization of councils to build housing developments without proper infrastructure.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0771 885634",
+      "email": "anna@annacoke.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

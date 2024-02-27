@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anna Key",
+    "constituency": "Westward View",
+    "politicalParty": "Green Party",
+    "electionDate": "Thursday 7th May",
+    "messages": [
+      {
+        "title": "VOTE GREEN PARTY TODAY",
+        "content": "Anna Key is your Green councillor for St. Michael’s ward, working full time for you since 2011."
+      },
+      {
+        "title": "End the Library closures. A new chapter for local residents.",
+        "content": "Green Councillors propose a new community trust to protect our local library."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting local services",
+        "policyDescription": "Anna has campaigned to stop the City Council's closure of libraries and Sure Start centres."
+      },
+      {
+        "policyTitle": "Improving our local area",
+        "policyDescription": "Anna has worked to stop inappropriate new housing developments on Sefton Park Meadows."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anna Key",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Voting instructions advise to vote on the yellow ballot paper."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Anna has worked to stop inappropriate new housing developments on Sefton Park Meadows.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Anna on a doorstep speaking with residents"
+        },
+        {
+          "caption": "Anna with volunteers cleaning a park"
+        },
+        {
+          "caption": "Anna with children at a local school"
+        },
+        {
+          "caption": "Anna holding a poster reading ‘Save our Green Space’"
+        },
+        {
+          "caption": "Anna with an elderly resident"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet appears to be designed to promote Anna Key's re-election campaign, focusing on local issues and her efforts for the community."
+  }
+}
+```

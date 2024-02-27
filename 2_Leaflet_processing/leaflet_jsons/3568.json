@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Afzal Anwar",
+    "constituency": "Pendle",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Nick Clegg wants A&E back at Burnley General Hospital",
+        "content": "Nick Clegg has pledged to reinstate A&E at Burnley General Hospital."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Afzal Anwar",
+      "otherPartyLeaderCandidate": "Gordon Birtwistle",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Unemployment across Pendle is on a rise.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Nick Clegg wants A&E back at Burnley General Hospital.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "I think it is wonderful news that Nick Clegg has endorsed the Liberal Democrats hard working in East Lancashire by signing the petition for A&E to return to Burnley General Hospital and has joined us in our quest to achieve change in Burnley and Pendle.",
+        "source": "Afzal Anwar",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Afzal Anwar with Gordon Birtwistle and Nick Clegg."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

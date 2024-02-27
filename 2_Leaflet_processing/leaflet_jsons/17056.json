@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Daniel Zeichner",
+    "constituency": "Cambridge",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "As your Labour MP I will:",
+        "content": "Save our NHS, with 20000 more nurses and 8000 more GPs. Change the law to stop letting agents charging rip-off fees. Expand free childcare for working parents. Action on zero hours contracts. Freeze energy bills until 2017. Make the UK's energy supply carbon zero by 2030."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Save our NHS, with 20000 more nurses and 8000 more GPs."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Change the law to stop letting agents charging rip-off fees."
+      },
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "Expand free childcare for working parents."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Action on zero hours contracts."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Freeze energy bills until 2017. Make the UK's energy supply carbon zero by 2030."
+      }
+    ],
+    "mentions": {
+      "candidate": "Daniel Zeichner",
+      "otherPartyLeaderCandidate": "Cambridge LibDem MP",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Save our NHS, with 20000 more nurses and 8000 more GPs.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Change the law to stop letting agents charging rip-off fees.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I know you feel betrayed by the Cambridge LibDem MP. The LibDems share the blame for NHS privatisation, a tax break for millionaires & tuition fees. I know what I stand for. I won’t let you down.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.danielzeichner.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Daniel Zeichner with Labour group"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

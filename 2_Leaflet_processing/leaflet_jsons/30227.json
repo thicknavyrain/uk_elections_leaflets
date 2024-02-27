@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "GERALD VERNON-JACKSON",
+    "constituency": "Portsmouth South",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "JUNE 8th",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Putting Portsmouth First",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "In the last 10 parliamentary elections in Portsmouth South, it is 5 wins each to Lib-Dems and Conservatives. Labour have NEVER won here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "It's decision time!"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

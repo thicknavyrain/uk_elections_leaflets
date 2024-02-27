@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lawrence Gwynn",
+    "constituency": "Cardiff North",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Straight talking.",
+        "content": "Vote UKIP."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local issues",
+        "policyDescription": "Stop paying the EU £45 million every day. Tackle antisocial behaviour, with zero tolerance for crime."
+      }
+    ],
+    "mentions": {
+      "candidate": "Lawrence Gwynn",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Stop paying the EU £45 million every day.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "I was born in Cardiff in 1963 and have lived in Llanishen all my life enjoying a happy and loving upbringing. I attended Coed Glas Junior School before moving on to Llanishen High School. I am currently working as a logistics manager for a local firm.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Lawrence Gwynn"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contains a detachable coupon for the recipient to request a poster, receive more information, or offer to deliver leaflets."
+  }
+}
+```

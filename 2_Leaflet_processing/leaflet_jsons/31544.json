@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Owen Thompson",
+    "constituency": "Midlothian",
+    "politicalParty": "SNP",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "WESTMINSTER ISN’T WORKING",
+        "content": "Use your vote on December 12th to send a message to Boris Johnson."
+      },
+      {
+        "title": "BREXMAS!",
+        "content": "Westminster is broken. Now we face a General Election less than two weeks before Christmas."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "INVESTING IN HEALTH",
+        "policyDescription": "£18m in 2009 for NHS Lothian - Midlothian Community Hospital, NHS Lothian's budget in 2019-20 will be £41.1m, compared to 2018-19, the NHS Lothian staff, the overall workforce of NHS Lothian is up 15.7%."
+      },
+      {
+        "policyTitle": "TRANSPORT",
+        "policyDescription": "£353m in 2013 for Borders Railway, Sheriffhall grade separation congestion."
+      },
+      {
+        "policyTitle": "FAIR FUNDING FOR MIDLOTHIAN",
+        "policyDescription": "despite Tory austerity in 2018-19, no detriment revenue funding, in 2019-20, £165.7m in revenue funding."
+      },
+      {
+        "policyTitle": "LAW AND ORDER",
+        "policyDescription": "3,322 police officers as of 31st December 2018, recorded crime has reduced by over 20% since 2006."
+      },
+      {
+        "policyTitle": "FUNDING NEW SCHOOLS",
+        "policyDescription": "£36.6m in 2011 for Lasswade High, £15.6m in 2016 for Paradykes and £7.2m in 2016 for Roslin Primary School, and new replacement for Beeslack High."
+      },
+      {
+        "policyTitle": "HOUSING",
+        "policyDescription": "Since 2007, 6,561 new homes have been built in Midlothian under the SNP."
+      },
+      {
+        "policyTitle": "FAIRER WORK IN MIDLOTHIAN",
+        "policyDescription": "in 2011, 85% of those working in Midlothian earn the Living Wage or above."
+      },
+      {
+        "policyTitle": "HELPING SMALL BUSINESSES AND CREATING JOBS",
+        "policyDescription": "1,356 recipients of the Small Business Bonus Scheme in the Midlothian Council area in 2017-18, since 2008 about 8,952 in Midlothian have received total support of £9.8m."
+      }
+    ],
+    "mentions": {
+      "candidate": "Owen Thompson discusses the problems facing pensioners",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Westminster is broken. It has been a shambles of indecision and incompetence for years. Now we face a General Election less than two weeks before Christmas.",
+      "economy": "",
+      "education": "Funding new schools with financial investments outlined.",
+      "environment": "",
+      "governance": "WESTMINSTER ISN’T WORKING",
+      "health": "Investment in NHS Lothian and hospital staff increase.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Since 2007, 6,561 new homes have been built in Midlothian under the SNP.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.SNP.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@OwenThompsonSNP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Owen Thompson discusses the problems facing pensioners"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

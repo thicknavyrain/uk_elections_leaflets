@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ann Zebedee",
+    "constituency": "Wokingham",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Policies will make the British people and job prospects FIRST."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Policy is fair, ethical and properly controlled, which puts the British people FIRST."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "NHS use to be about British caring for British, this can be done again."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "Law and order must be restored by being tough on crime for a change."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Education needs a shake up. It's about time core values and respect are taught again."
+      },
+      {
+        "policyTitle": "Government",
+        "policyDescription": "Local people should be deciding what happens in their communities."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ann Zebedee",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Our sovereignty, laws and borders to be solely controlled by Britain again.",
+      "economy": "UKIP's policies will make the British people and job prospects FIRST.",
+      "education": "Education needs a shake up. It's about time core values and respect are taught again.",
+      "environment": "",
+      "governance": "Local people should be deciding what happens in their communities.",
+      "health": "NHS use to be about British caring for British, this can be done again.",
+      "immigration": "Immigration policy is fair, ethical and properly controlled, which puts the British people FIRST.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Ann Zebedee - UK Independence Party"
+        }
+      ]
+    },
+    "additionalNotes": "Rid us of EU boars. UKIP, a viable, positive, patriotic alternative to the other parties."
+  }
+}
+```

@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lee Scott",
+    "constituency": "Ilford North",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "This is a year for change nationally.",
+        "content": "We can't go on like this. We need change to get the country back on its feet."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare Services",
+        "policyDescription": "Lee is campaigning to protect services in local hospitals, particularly to retain key services at King George Hospital."
+      }
+    ],
+    "mentions": {
+      "candidate": "Lee Scott",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protecting local hospital services, involvement in projects to improve services for young people with autism and Aspergers Syndrome.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Lee Scott was elected as the Member of Parliament for Ilford North in May 2005. He is described as active and enthusiastic, running regular advice surgeries for local people and attending events held by cultural, charity, and community groups.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for Ilford North",
+        "duration": "Since May 2005",
+        "achievements": "Member of the Transport Select Committee (2005-2007), Health Select Committee, Secretary of the All-Party Child and Youth Crime Group, Chairman of the All-Party Kidney Group 2007, Secretary of the All-Party Tamil Group."
+      }
+    ],
+    "contactInformation": {
+      "address": "Sevenways House, 9 Sevenways Parade, Gants Hill, Ilford, Essex IG2 6XH",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Re-elect Lee Scott Conservative"
+        }
+      ]
+    },
+    "additionalNotes": "Lee does not claim for a second home near Westminster and has not taken any taxpayer funded foreign trips."
+  }
+}
+```

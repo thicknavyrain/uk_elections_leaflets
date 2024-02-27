@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jeremy Corbyn",
+    "constituency": "Islington North",
+    "politicalParty": "Labour",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "",
+        "content": "This coming General Election on May 7th is an opportunity for local residents not just to vote for their Member of Parliament, but also to say something about the kind of society we want to live in. My determination and enthusiasm to speak up for the people of Islington North is as strong as ever, and I enjoy meeting people from all walks of life out in the community as well as in my weekly advice sessions."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education, Housing and Health",
+        "policyDescription": "Promoting fairness and equality in the provision of decent education, affordable and accessible housing, and health issues."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jeremy Corbyn",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Promoting fairness and equality in the provision of decent education.",
+      "environment": "",
+      "governance": "Democracy is a process we must all engage in.",
+      "health": "Promoting fairness and equality in health issues.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Promoting fairness and equality in the provision of affordable and accessible housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "My determination and enthusiasm to speak up for the people of Islington North is as strong as ever.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for Islington North",
+        "duration": "",
+        "achievements": "Assisted with, and remain passionate about the provision of decent education, housing, and health; promoting fairness and equality."
+      }
+    ],
+    "contactInformation": {
+      "address": "151 Hornsey Road, N7 6DU",
+      "phone": "020 3475 3476",
+      "email": "jeremy.corbyn@islingtonnorthlabour.co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@jeremycorbyn",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jeremy Corbyn, working for you."
+        }
+      ]
+    },
+    "additionalNotes": "PS. If you would like to support my campaign, the mini poster on the front of the enclosed booklet or a larger poster can be displayed in your window. Alternatively you'd be welcome to help in other ways, for instance by delivering letters. Please feel free to get in touch with the Labour team – our contact details are above or you can send back the form on the back of the booklet."
+  }
+}
+```

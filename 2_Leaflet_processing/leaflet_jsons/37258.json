@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Steen Parish",
+    "constituency": "West",
+    "politicalParty": "The Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A personal message from Steen Parish",
+        "content": "I will work to help build a more equitable and sustainable Scotland. We must embrace the renewable energy revolution and invest more in our young people's education, well-being and training opportunities..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Supporting Green Jobs in West, Not Coal or Incinerators",
+        "policyDescription": "Plans against the new coal economy and against incineration..."
+      },
+      {
+        "policyTitle": "Manufacturing and Small Business, Not Aid for Multinational Companies",
+        "policyDescription": "Strong local businesses committed to the region, including in manufacturing, not companies that stay only until the grant money runs out..."
+      },
+      {
+        "policyTitle": "Invest in Public Transport and Cycling, Not Airport or Motorway Expansion",
+        "policyDescription": "Restore bus regulation, essential for rural parts of West in particular, and to renationalise ScotiaRail..."
+      },
+      {
+        "policyTitle": "Green Pledges for West",
+        "policyDescription": "Fair taxes to invest in public services, no fees - keep tuition free, cut fuel bills, insulate every home."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We need strong local businesses committed to the region...",
+      "education": "No fees - keep tuition free",
+      "environment": "Supporting Green Jobs in West, Not Coal or Incinerators",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Cut fuel bills, insulate every home",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I've been campaigning against nuclear weapons since the 1980s.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Steen Parish working on campaigning"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Charlotte Arnott",
+    "constituency": "Sheffield Heeley",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "My local issues are",
+        "content": "Keep Sheffield safe - zero tolerance on crime. Reward Sheffield's hard workers - no tax on minimum wage."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Say NO to mass immigration"
+      },
+      {
+        "policyTitle": "Direct Democracy",
+        "policyDescription": "Say YES to referendums on all major issues"
+      },
+      {
+        "policyTitle": "EU Financial Policy",
+        "policyDescription": "Say NO to wasting £45 million a day in Brussels"
+      }
+    ],
+    "mentions": {
+      "candidate": "Charlotte Arnott",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Say NO to wasting £45 million a day in Brussels",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Say YES to referendums on all major issues",
+      "health": "",
+      "immigration": "Say NO to mass immigration",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "I have lived all my life in Rotherham and Sheffield. I genuinely care about the local area, having worked with local charities and clubs. As a candidate who lives in the constituency, I understand the needs of local people because I face the same problems.",
+    "politicalExperience": [
+      {
+        "role": "local teacher and special needs co-ordinator",
+        "duration": "",
+        "achievements": "I understand that you will expect me to work tirelessly on your behalf if you elect me."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Election communication for the UK Independence Party - Charlotte Arnott for Sheffield Heeley"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

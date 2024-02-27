@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jennifer Forbes",
+    "constituency": "Truro and Falmouth",
+    "politicalParty": "Labour",
+    "electionDate": "2017",
+    "messages": [
+      {
+        "title": "People and Planet before Privilege",
+        "content": "I understand how hard it is for ordinary working people. I'm the daughter of an Ambulance Driver, I started my working life in Truro as an apprentice BT engineer. I went to a state school and now my children are attending a state school here in the constituency. I want to improve the lives of ordinary people living in this constituency. Let's fully fund our schools and NHS and free them from privatisation. Let's make sure climate catastrophe is avoided and our children have a future to look forward to."
+      },
+      {
+        "title": "Only Labour Can Keep The Tories Out!",
+        "content": "General Election result"
+      },
+      {
+        "title": "In the next election you can decide how the UK's wealth is distributed:",
+        "content": "Vote Tory or Lib Dem and it will keep heading to offshore tax haven bank accounts. Vote Labour and it will be invested in our infrastructure; jobs, homes, transport, schools, hospitals and clean energy."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Fully fund our schools and release them from privatisation."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Fully fund the NHS and free it from privatisation."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Take actions to avoid climate catastrophe."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Ensure UK's wealth is invested in infrastructure, jobs, homes, transport, schools, hospitals, and clean energy instead of being directed to offshore bank accounts."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jennifer Forbes",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Ensure UK's wealth is invested in infrastructure, jobs, homes, transport, schools, hospitals, and clean energy instead of being directed to offshore bank accounts.",
+      "education": "Fully fund our schools and release them from privatisation.",
+      "environment": "Take actions to avoid climate catastrophe. Invest in clean energy.",
+      "governance": "",
+      "health": "Fully fund the NHS and free it from privatisation.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Invest in homes as part of infrastructure.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I understand how hard it is for ordinary working people. I'm the daughter of an Ambulance Driver, I started my working life in Truro as an apprentice BT engineer.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Woodbine Farm Business Centre, Threemilestone, Truro TR3 6BW.",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "People and Planet before Privilege"
+        },
+        {
+          "caption": "Only Labour Can Keep The Tories Out!"
+        },
+        {
+          "caption": "In the next election you can decide how the UK's wealth is distributed:"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

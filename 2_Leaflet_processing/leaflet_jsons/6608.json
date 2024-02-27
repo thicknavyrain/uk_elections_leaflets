@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Taylor",
+    "constituency": "Coventry South",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Straight talking. Vote UKIP",
+        "content": "UKIP offers a clear rational approach to policy making and a broad range of 'common sense' policies that will restore true democracy, freedom and independence to the UK. We must decide how to run our country, not the EU. Sovereignty must be restored - Vote UKIP!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax and Pensions",
+        "policyDescription": "UKIP plan to introduce a single low rate of tax that allows you to earn £11,500 a year before you start to pay tax or national insurance. We will provide one flat rate non means tested, non taxable citizen's pension for all pensioners aged 65 and over."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Shift in policy to assist with reducing crime and anti social behaviour. Ensuring that new green belt areas are protected against developments. Such planning decisions must only be made by local people working in conjunction with local people."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Taylor",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "We will keep the pound, say NO to the Euro, NO to ID cards, NO to the EU.",
+      "economy": "Introduce a single low rate of tax.",
+      "education": "",
+      "environment": "",
+      "governance": "Restore true democracy, freedom and independence to the UK.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Provide one flat rate non means tested, non taxable citizen's pension for all pensioners aged 65 and over.",
+      "housing": [
+        {
+          "content": "Ensuring new green belt areas are protected against overdevelopment, planning decisions made by local people.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mark Taylor - Candidate for Coventry South"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet also mentions about assisting in reducing crime and anti social behaviour with the help of additional police on the beat with street wardens and Church Street Pastors."
+  }
+}
+```

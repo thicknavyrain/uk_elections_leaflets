@@ -1,0 +1,56 @@
+{
+  "leaflet": {
+    "candidateName": "Liz Kendall",
+    "constituency": "Western",
+    "politicalParty": "Labour",
+    "electionDate": "May 7",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Liz Kendall",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Peter Soulsby",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liz Kendall for MP, Peter Soulsby for Mayor, Susan Barton for Councillor, George Cole for Councillor, Malcolm Unsworth for Councillor"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Varley",
+    "constituency": "Tynemouth",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Election Special",
+        "content": "Nick Varley is Theresa May's candidate for Tynemouth constituency. Theresa May's candidate at the General Election in Tynemouth constituency will be Nick Varley. Together, they will get the best Brexit deal possible from the EU."
+      },
+      {
+        "title": "GIVE BREXIT BOOST TO LOCAL FISHING",
+        "content": "North Shields fishing industry will receive a Brexit boost if Nick Varley is elected as Theresa May's Member of Parliament in Tynemouth."
+      },
+      {
+        "title": "DON'T RISK VOTING FOR CORBYN'S CANDIDATE",
+        "content": "A vote for Jeremy Corbyn's Labour candidate here in Tynemouth will be claimed by Corbyn as a backing for his nonsensical and dangerous ideas... Voting for Jeremy Corbyn's candidate... will deliver a hung Parliament, leaving Brexit and risk our economic security at stake."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Together with Theresa May, get the best Brexit deal possible from the EU."
+      },
+      {
+        "policyTitle": "Local Economy",
+        "policyDescription": "Invest in schools and our NHS locally. Ensure North Shields's fishing industry receives a boost from leaving the EU's Common Fisheries Policy."
+      },
+      {
+        "policyTitle": "National Interest",
+        "policyDescription": "Strong and stable leadership in the national interest."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Varley",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Get the best Brexit deal possible from the EU.",
+      "economy": "Invest locally in schools and our NHS.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "nickvarley.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Theresa May",
+        "endorsement": "Nick Varley is the best choice to represent Tynemouth and achieve the best Brexit deal."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Nick Varley is Theresa May's local candidate for Tynemouth constituency.",
+        "source": "Campaign Leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Varley with Theresa May"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

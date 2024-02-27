@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Felicity Owen",
+    "constituency": "St Austell & Newquay",
+    "politicalParty": "Labour",
+    "electionDate": "Dec 12th",
+    "messages": [
+      {
+        "title": "",
+        "content": "A vote for Felicity is your very best chance of not getting a Conservative MP again"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Felicity Owen",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "A vote for Felicity is your very best chance of not getting a Conservative MP again"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "2017 General Election Result St Austell & Newquay"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

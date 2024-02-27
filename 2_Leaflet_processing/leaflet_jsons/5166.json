@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Leech",
+    "constituency": "South Manchester",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Election race latest",
+        "content": "Only the Lib Dems can beat Labour here. It's between John Leech or Labour in south Manchester."
+      },
+      {
+        "title": "A better deal for our heroes in uniform",
+        "content": "Lib Dems will cut your tax bill."
+      },
+      {
+        "title": "CHEATED out of 500 police officers",
+        "content": "Labour rules lose Manchester £82,000,000 in police funds."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Lib Dems plan to cut tax bills by promising extra police planning to put 3,000 officers onto the streets."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Leech",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "The Lib Dems stress that it's a two-horse race between Lib Dem John Leech and Labour, stating that local Tories have no influence with remarks like 'Can't win here' directed at the Conservative party."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "What's beyond doubt is that Mr Leech has proved a fantastically active MP, winning awards for campaigning on several high-profile local causes.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "johnleech@libdems.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Manchester Evening News",
+        "endorsement": "Mr Leech has proved a fantastically active MP, winning awards for campaigning on several high-profile local causes."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I'm backing John Leech because he led the successful fight to abolish tuition fees.",
+        "source": "Amy Clowes, Student",
+        "date": ""
+      },
+      {
+        "text": "I'm voting for John Leech because he stood up for Burnage when no-one else would.",
+        "source": "Carol Birch, Burnage resident",
+        "date": ""
+      },
+      {
+        "text": "John helped me when I had nowhere else to turn.",
+        "source": "John Millward, local dentist",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Leech with police officer looking at document."
+        },
+        {
+          "caption": "Graph showing election race positions."
+        },
+        {
+          "caption": "John Leech and Nick Clegg's policy promise."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

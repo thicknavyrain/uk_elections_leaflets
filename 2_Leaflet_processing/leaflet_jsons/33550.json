@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Brecon and Radnorshire",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "Thursday 12th December",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "",
+      "tacticalSituation": "Brecon and Radnorshire is 1 of 50 seats across the country that can stop the Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "More cuts to our NHS, schools and police with the Conservatives.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "83% of schools will be worse off next year than they were in 2015.",
+        "source": "National Education Union, October 2019",
+        "date": ""
+      },
+      {
+        "text": "Majority believe lying Boris Johnson will sell off NHS services to US.",
+        "source": "Daily Mirror, 27th October 2019",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "DO NOT LET YOUR VOTE HELP THESE THREE ...vote Liberal Democrat to stop the Conservatives."
+  }
+}
+```

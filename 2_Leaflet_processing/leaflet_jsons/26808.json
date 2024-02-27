@@ -1,0 +1,104 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "8th June",
+	"messages": [
+	  {
+		"title": "You can change the country",
+		"content": "On 8th June you decide the future direction of Britain, Your choice could not be clearer or more important."
+	  },
+	  {
+		"title": "A strong opposition with the Lib Dems.",
+		"content": "The Liberal Democrats are fighting for what's most important for families across Britain - jobs, health services and schools. The Lib Dems are tipped to win dozens of seats against the Conservatives this time at the polls to secure a strong opposition that will change the direction of the country."
+	  },
+	  {
+		"title": "Or...A blank cheque for the Conservatives:",
+		"content": "Widowed parents being hit again by Tory cuts to bereavement benefits. The country heading in the wrong direction."
+	  },
+	  {
+		"title": "Labour are out of the race and too weak to deliver real change...",
+		"content": "\"There is no realistic chance of us winning\" - Labour MP Alan Johnson, 22 April 2017 \"Labour fear election bloodbath as a QUARTER of MPs face losing their seats\" - Mirror, 20 April 2017"
+	  },
+	  {
+		"title": "...Whilst Plaid Cymru can't win in a nationwide election",
+		"content": ""
+	  }
+	],
+	"keyPolicies": [],
+	"mentions": {
+	  "candidate": "",
+	  "otherPartyLeaderCandidate": "",
+	  "partyLeader": "",
+	  "tacticalSituation": ""
+	},
+	"issues": {
+	  "brexitEurope": "",
+	  "economy": "",
+	  "education": "",
+	  "environment": "",
+	  "governance": "",
+	  "health": "",
+	  "immigration": "",
+	  "socialWelfare": "",
+	  "housing": [
+		{
+		  "content":"",
+		  "yimbyNimby": "N/A"
+		}
+	  ]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+	  {
+		"role": "",
+		"duration": "",
+		"achievements": ""
+	  }
+	],
+	"contactInformation": {
+	  "address": "",
+	  "phone": "",
+	  "email": "",
+	  "website": "",
+	  "socialMedia": {
+		"facebook": "",
+		"twitter": "",
+		"instagram": "",
+		"linkedin": ""
+	  }
+	},
+	"endorsements": [],
+	"quotes": [
+	  {
+		"text": "Widowed parents are being hit again by Tory cuts to bereavement benefits.",
+		"source": "The Independent",
+		"date": "12 Mar 2017"
+	  },
+	  {
+		"text": "The country heading in the wrong direction.",
+		"source": "",
+		"date": ""
+	  },
+	  {
+		"text": "\"There is no realistic chance of us winning\"",
+		"source": "Labour MP Alan Johnson",
+		"date": "22 April 2017"
+	  },
+	  {
+		"text": "\"Labour fear election bloodbath as a QUARTER of MPs face losing their seats\"",
+		"source": "Mirror",
+		"date": "20 April 2017"
+	  }
+	],
+	"campaignMaterial": {
+	  "images": [
+		{
+		  "caption": ""
+		}
+	  ]
+	},
+	"additionalNotes": ""
+  }
+}

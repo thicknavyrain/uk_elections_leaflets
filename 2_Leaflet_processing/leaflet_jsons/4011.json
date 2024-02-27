@@ -1,0 +1,65 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Joan Ruddock",
+    "constituency": "Lewisham Deptford",
+    "politicalParty": "Labour",
+    "electionDate": "6 May",
+    "messages": [
+      {
+        "title": "Vote Labour on 6 May",
+        "content": "Vote Labour for Parliament\nVote Labour for Mayor\nVote Labour for 3 Councillors"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Joan Ruddock",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "020 8692 4214",
+      "email": "info@lewishamfairfuture.org.uk",
+      "website": [
+        "www.joanruddock.co.uk", 
+        "www.lewishamlabour.com",
+		"www.lewishamdeptfordforchange.wesee.com"
+      ],
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Joan Ruddock with supporters"
+        },
+        {
+          "caption": "Vote Labour for a future fair for all"
+        }
+      ]
+    },
+    "additionalNotes": "Printed on 100% recycled card."
+  }
+}
+```

@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rosie Sharpley",
+    "constituency": "Knaphill",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "From casework to Council control",
+        "content": "As a local councillor, Rosie Sharpley's work on issues such as housing, anti-social behaviour and planning, is highlighted as having led to concrete changes like the introduction of concessionary rates for High Hedge Complaints and averting the development of green spaces in and around Woking."
+      },
+      {
+        "title": "Conservative denial leaves youth services in poor state",
+        "content": "The leaflet criticizes the Conservatives for blocking a Lib Dem motion to encourage working closely with Surrey on offering support in the youth sector."
+      },
+      {
+        "title": "Lib Dems welcome Conservative u-turn",
+        "content": "The leaflet mentions that the Liberal Democrats have been pushing the Conservative administration in Surrey County Council to abandon their incinerator plans and that the council eventually acknowledged the need for recycling waste."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Youth services",
+        "policyDescription": "Looking to work closely with Surrey on supporting the youth sector."
+      },
+      {
+        "policyTitle": "Environment and Recycling",
+        "policyDescription": "Pushing for environmentally friendly policies, highlighting the u-turn of Conservative incinerator plans."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rosie Sharpley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Woking is 3rd choice for Conservative. Labour cannot win here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Rosie Sharpley is committed to addressing housing issues and has a record of preventing development on green spaces around Woking.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Rosie Sharpley wants to ensure that everyone can afford to heat their home.",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "",
+        "achievements": "Work on housing, anti-social behaviour, and planning."
+      }
+    ],
+    "contactInformation": {
+      "address": "Lib Dem Campaign HQ, 3A Church Path, Woking",
+      "phone": "01483 730808",
+      "email": "rosie@wokinglibdems.org.uk",
+      "website": "www.wokinglibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cllr. Richard Sharp gets agreement on concessionary rates for High Hedge Complaints."
+        },
+        {
+          "caption": "Rosie Sharpley wants to be sure that everyone can afford to heat their home."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes tactical voting, suggesting that Woking is the 3rd choice for Conservatives and that Labour cannot win in the area."
+  }
+}
+```

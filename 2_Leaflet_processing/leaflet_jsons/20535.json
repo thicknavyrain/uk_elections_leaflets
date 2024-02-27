@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Falconer",
+    "constituency": "North Herefordshire",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday 7th May",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Stronger Economy.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Fairer Society.",
+      "housing": [
+        {
+          "content": "Opportunity for Everyone.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "20 East Street, Hereford, HR1 2LU",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "VOTE FALCONER For North Herefordshire"
+        }
+      ]
+    },
+    "additionalNotes": "Printed by Orphans Press Ltd, Enterprise Park, Leominster, Herefordshire. HLD Published & promoted K Tillett on behalf of Jennie Falconer & Herefordshire Liberal Democrats, all at Hereford House, 20 East Street, Hereford, HR1 2LU."
+  }
+}
+```

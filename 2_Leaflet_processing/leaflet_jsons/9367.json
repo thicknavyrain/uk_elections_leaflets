@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The choice at this election",
+        "content": "5 more years of Gordon Brown’s tired government making things worse or David Cameron and the Conservatives with the energy, leadership and values to get the country moving."
+      },
+      {
+        "title": "We can't go on like this. Vote for change and:",
+        "content": ""
+      } 
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Change the economy",
+        "policyDescription": "Back aspiration and opportunity for all. Cut the deficit, keep mortgage rates low and get the economy moving."
+      },
+      {
+        "policyTitle": "Change society",
+        "policyDescription": "Mend our broken society by encouraging responsibility and backing those who do the right thing."
+      },
+      {
+        "policyTitle": "Change politics",
+        "policyDescription": "Give people more power and control. Sort out the mess of MPs’ expenses, cut Parliament, Whitehall and the cost of politics. Make politics more local, more transparent, more accountable."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Make Britain the most family-friendly country in Europe.",
+      "economy": "Cut the deficit, keep mortgage rates low and get the economy moving.",
+      "education": "Reform education, with new schools – and standards and discipline for all.",
+      "environment": "",
+      "governance": "Sort out the mess of MPs’ expenses, cut Parliament, Whitehall and the cost of politics. Make politics more local, more transparent, more accountable.",
+      "health": "Back the NHS, which matters more to families than anything.",
+      "immigration": "",
+      "socialWelfare": "Tackle welfare dependency and the causes of poverty.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "conservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron Photo"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

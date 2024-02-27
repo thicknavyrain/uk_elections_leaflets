@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "David Mellen",
+	"constituency": "Rushcliffe",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 8 June",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "David Mellen",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "On 8 June, people in Rushcliffe can choose between a Labour Government that stands up for the many, or the Tories who only look after a privileged few.",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "427, MEADOW LANE NOTTINGHAM NG2 3GB",
+  	"phone": "07753982554",
+  	"email": "david.mellen@rushcliffe.gmail.com",
+  	"website": "http://www.labour.org.uk",
+  	"socialMedia": {
+    	"facebook": "https://facebook.com/RushcliffeDM",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "David Mellen, a new voice for Rushcliffe."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

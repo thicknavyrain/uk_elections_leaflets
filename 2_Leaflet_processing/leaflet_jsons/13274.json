@@ -1,0 +1,54 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Chris Chapman",
+	"constituency": "Ilford South",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Chris Chapman",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+    	  "content": "",
+    	  "yimbyNimby": "N/A"
+    	}
+	  ]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "9 Sevenways Parade, Gants Hill, Ilford, Essex, IG2 6XH",
+  	"phone": "02085514333",
+  	"email": "ilfordsouthconservatives@gmail.com",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": []
+	},
+	"additionalNotes": ""
+  }
+}
+```

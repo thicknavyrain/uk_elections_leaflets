@@ -1,0 +1,56 @@
+{
+  "leaflet": {
+	"candidateName": "Stephen Morgan",
+	"constituency": "Portsmouth South",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "THIS ELECTION IS A TWO HORSE RACE",
+    	"content": "All the polls are saying this is a straight fight between Labour and the Tories in Portsmouth South. Don't risk staying at home and not voting today or the Tories will win."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Stephen Morgan",
+  	"otherPartyLeaderCandidate": "the Tories",
+  	"partyLeader": "",
+  	"tacticalSituation": "Two horse race"
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": []
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Illustration of two horses racing, symbolizing the 'two horse race' between Labour and the Tories."
+    	}
+  	]
+	},
+	"additionalNotes": "Polls are open 7am to 10pm."
+  }
+}

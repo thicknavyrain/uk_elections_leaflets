@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tam Smith",
+    "constituency": "Linlithgow and East Falkirk constituency",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "SNP Vision for Scottish Agriculture",
+        "content": "Rural Affairs Secretary Richard Lochhead has set out the vision for Scottish agriculture that puts food production at the heart of policy."
+      },
+      {
+        "title": "Fighting the Fuel Tax Fiascos at Westminster",
+        "content": "Every SNP MP sent to the UK Parliament will fight vigorously for a fairer approach to provide a double protection for fuels."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Agriculture",
+        "policyDescription": "Supporting plans including securing direct financial support for farmers, delivering outcomes of food production as the priority, and being environmentally friendly."
+      },
+      {
+        "policyTitle": "Fuel Tax",
+        "policyDescription": "Challenging fuel tax policies at Westminster, advocating for double protection for fuels and arguing against any extra cash raise from VAT on fuel duty."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tam Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Emphasizes environmentally friendly agriculture that recognizes the importance of land-based industries.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Rural Affairs Secretary",
+        "duration": "",
+        "achievements": "Set out the vision for Scottish agriculture that puts food production at the forefront and acknowledges the significance of environmentally responsible practices."
+      }
+    ],
+    "contactInformation": {
+      "address": "14 Beaufort Road, Linlithgow Bridge",
+      "phone": "01506 843047",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Ian Hudghton MEP and Alyn Smith MEP",
+        "endorsement": "Backing Tam Smith to win Linlithgow and East Falkirk constituency."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Richard Lochhead and MSP discussing Agriculture."
+        },
+        {
+          "caption": "Ian Hudghton and Tam Smith showing support."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

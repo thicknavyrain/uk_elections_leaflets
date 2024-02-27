@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Raising the Basic State Pension and Restoring the Link to Earnings",
+        "policyDescription": "The policy aims to ensure that Britain's older people are treated with dignity and respect by raising the basic state pension and restoring the link to earnings."
+      },
+      {
+        "policyTitle": "Ending the Scandal of Elderly People Having to Sell Their Home to Pay for Residential Care",
+        "policyDescription": "Under this policy, approximately 48,000 elderly people won't have to sell their homes for residential care each year."
+      },
+      {
+        "policyTitle": "A Two Year Council Tax Freeze",
+        "policyDescription": "The Conservatives propose a council tax freeze for two years. They will offset a third of the increase in the basic state pension with savings made by cutting wasteful government spending."
+      },
+      {
+        "policyTitle": "More Police on the Beat",
+        "policyDescription": "This policy aims to keep neighborhoods safe with more visible police presence, specifically 'bobbies' on the beat."
+      },
+      {
+        "policyTitle": "Raising the Inheritance Tax Threshold",
+        "policyDescription": "The Conservative Party plans to raise the inheritance tax threshold to one million pounds, aiming to benefit those who have saved during their lives."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Approximately 48,000 elderly people won't have to sell their homes to pay for residential care every year.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.conservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "William Roache MBE",
+        "endorsement": "Supports the Conservative Party and believes their plans represent the best choice for pensioners, emphasizing the need for a government that will stand up for pensioners and ensure they are treated with dignity and respect."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron interacting with pensioners."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

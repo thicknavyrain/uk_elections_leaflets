@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Danny Gallagher",
+    "constituency": "Preston North",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A Fair Deal For Rural Britain",
+        "content": "Candidate Danny Gallagher believes that our rural communities and the real economy have suffered under Conservatives and Labour governments."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer Taxes for You and Your Family",
+        "policyDescription": "No one will pay any income tax on the first £10,000 they earn - saving an average family £700 a year."
+      },
+      {
+        "policyTitle": "A Fair Start for Every Child",
+        "policyDescription": "Smaller class sizes, more cash for schools and scrapping tuition fees."
+      },
+      {
+        "policyTitle": "A Fair and Sustainable Economy",
+        "policyDescription": "Promote manufacturing and green technology, break up the banks and provide real help for local small and medium businesses."
+      },
+      {
+        "policyTitle": "Fair Politics",
+        "policyDescription": "Give you the right to sack your MP, end party donations, clean up and make transparent parliamentary party lists."
+      }
+    ],
+    "mentions": {
+      "candidate": "Danny Gallagher",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Promote manufacturing and green technology, break up the banks and provide real help for local small and medium businesses.",
+      "education": "Smaller class sizes, more cash for schools and scrapping tuition fees.",
+      "environment": "",
+      "governance": "Give you the right to sack your MP, end party donations, clean up and make transparent parliamentary party lists.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Housing is also a important issue where house prices are far beyond average wages for Preston meaning many young people are unable to buy their first homes.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Candidate Danny Gallagher believes that our rural communities and the real economy have suffered under Conservatives and Labour governments.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Clegg wins TV's 1st debate",
+        "source": "Breaking News",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Danny Gallagher with fellow Liberal Democrat supporters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

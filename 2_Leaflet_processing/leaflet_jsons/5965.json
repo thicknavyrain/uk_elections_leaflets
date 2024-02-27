@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Philippa Stroud",
+	"constituency": "Sutton",
+	"politicalParty": "Conservative",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "How a Conservative government would be a change for the better.",
+    	"content": "Philippa Stroud discusses the change a Conservative government would bring, focusing on issues in Sutton and broader policy topics like the NHS and education."
+  	},
+  	{
+    	"title": "Standing up for the law-abiding majority",
+    	"content": "The leaflet suggests a tough stance on crime with the intention of taking back control of town centres and reforming the criminal justice system."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS",
+    	"policyDescription": "Philippa Stroud advocates for solving problems in the NHS by restoring trust in doctors and nurses and ensuring that the NHS always has the funding it needs."
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "A promise to raise standards in schools to help children with special needs and for all children, and to support teachers to enable students to be well-rounded and globally competitive."
+  	},
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Creating a strong economy with a skilled work-force and world-class education system is a key aim, alongside building a stable and competitive economics environment."
+  	},
+  	{
+    	"policyTitle": "Law and Order",
+    	"policyDescription": "Planned actions to toughen up on crime, give the police more power to search for weapons, change the rules so that it's harder for criminals to get off with cautions, and keep repeat offenders off the streets, especially focusing on Friday and Saturday nights."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Philippa Stroud",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "David Cameron",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Creating a strong economy with a skilled work-force and a world-class education system, aiming for global competitiveness.",
+  	"education": "Raise standards in schools, help children with special needs, and support teachers.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Address issues in the NHS by ensuring it always has the funding it needs and restoring trust in doctors and nurses.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "When I chat with people in Sutton the one thing that really hits me is how much people love this country and how sad they are about what is happening to it.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "David Cameron",
+    	"endorsement": "It's time we took back control of our town centres."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "It's time we took back control of our town centres",
+    	"source": "David Cameron",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Philippa Stroud next to an NHS sign promising a better future."
+    	},
+    	{
+      	"caption": "Philippa Stroud outside St Helier Hospital."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

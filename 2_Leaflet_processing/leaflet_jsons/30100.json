@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Colchester",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "Theresa May to make more damaging cuts.",
+        "content": "The Liberal Democrats are standing up to Theresa May's unfair 'Dementia Tax'. They are fighting Tory plans to take the houses of people who need social care."
+      },
+      {
+        "title": "Who can put a STOP to the 'NASTY PARTY'?",
+        "content": "'The Tories' social care plan is a death tax by another name' - The Economist, 18 May 2017"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "The Liberal Democrats introduced free school meals for all 5 to 7 year olds."
+      },
+      {
+        "policyTitle": "Health and Social Care",
+        "policyDescription": "The Lib Dems want to protect and invest in the NHS and social care services which help us all."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "The Liberal Democrats want to put 1p Extra on income tax to raise £6 billion extra for the NHS and social care."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "The Liberal Democrats are standing up to Theresa May's 'Dementia Tax' and fighting Tory plans to take the houses of people who need social care."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": "Labour were 11,000 votes behind here last time. They are out of the race this time and bookies have put their odds at 150/1."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Liberal Democrats want to put 1p Extra on income tax to raise £6 billion extra for the NHS and social care.",
+      "education": "The Liberal Democrats introduced free school meals for all 5 to 7 year olds.",
+      "environment": "",
+      "governance": "The Liberal Democrats are standing up to Theresa May's 'Dementia Tax'.",
+      "health": "The Lib Dems want to protect and invest in the NHS and social care services which help us all.",
+      "immigration": "",
+      "socialWelfare": "The Lib Dems want to protect and invest in the NHS and social care services which help us all.",
+      "housing": [
+        {
+          "content": "The Liberal Democrats are fighting Tory plans to take the houses of people who need social care.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "'The Tories' social care plan is a death tax by another name'",
+        "source": "The Economist",
+        "date": "18 May 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "The Lib Dems want to protect and invest in the NHS and social care services which help us all."
+        },
+        {
+          "caption": "'The Tories' social care plan is a death tax by another name'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

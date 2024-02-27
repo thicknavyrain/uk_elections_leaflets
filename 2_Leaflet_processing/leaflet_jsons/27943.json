@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Williamson",
+    "constituency": "Derby North",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8th June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Defend the NHS and reverse privatisation, integrate NHS with Social Care."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "A National Education Service, like the NHS, with free adult education."
+      },
+      {
+        "policyTitle": "Workers' Rights",
+        "policyDescription": "Ban zero hours contracts, raise minimum wage to £10 an hour, repeal Trade Union Act."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Invest in infrastructure, manufacturing & new industries."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build 1 million homes, at least half council houses."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Fast track a low carbon economy, ban fracking."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Williamson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Supports reformed EU to protect workers, environment & stop race-to-the-bottom tax cuts.",
+      "economy": "Oppose failed austerity causing rising child poverty/homelessness.",
+      "education": "Free school meals for all primary school children.",
+      "environment": "",
+      "governance": "Defend Human Rights Act; introduce proportional representation; abolish House of Lords.",
+      "health": "",
+      "immigration": "Fair immigration system controlled by Parliament, not free market.",
+      "socialWelfare": "End sanctions regime and Work Capability Assessment.",
+      "housing": [
+        {
+          "content": "Tackle our housing crisis by building more council houses.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Chris is honest and principled and since being elected in 2010 has fought tirelessly for Derby North.",
+    "politicalExperience": [
+      {
+        "role": "MP for Derby North",
+        "duration": "Since 2010",
+        "achievements": "Fought tirelessly for Derby North"
+      }
+    ],
+    "contactInformation": {
+      "address": "Vernon Gate, Derby, DE1 1UR",
+      "phone": "01332 345636",
+      "email": "info@derbylabourparty.co.uk",
+      "website": "www.derbylabourparty.co.uk",
+      "socialMedia": {
+        "facebook": "/ChriswMP",
+        "twitter": "@ChriswMP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Chris with local residents and supporters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

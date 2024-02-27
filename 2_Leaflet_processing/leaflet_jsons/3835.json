@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Charlotte Vere",
+    "constituency": "Brighton Pavilion",
+    "politicalParty": "Conservative",
+    "electionDate": "6th May 2010",
+    "messages": [
+      {
+        "title": "VOTE FOR CHANGE IN BRIGHTON PAVILION",
+        "content": "Our country is in desperate shape—social mobility is down, youth unemployment is up, our nation's finances have been trashed, our public sector is inefficient, and even now the recovery is far from certain. Britain is broke, and broken."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Charlotte Vere",
+      "otherPartyLeaderCandidate": "Gordon Brown, George Galloway, Green MP",
+      "partyLeader": "",
+      "tacticalSituation": "In this constituency, Brighton Pavilion, you have a choice of parties, each offering different policies."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Our country is in desperate shape—social mobility is down, youth unemployment is up, our nation's finances have been trashed, our public sector is inefficient, and even now the recovery is far from certain. Britain is broke, and broken.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "66A Boundary Road, Hove BN3 5TD",
+      "phone": "01273 411844",
+      "email": "charlotte@charlottevere.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Election 2010"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

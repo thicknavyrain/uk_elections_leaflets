@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sara Kumar",
+    "constituency": "West Ham",
+    "politicalParty": "",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "HOMES FIT FOR THE FUTURE",
+        "policyDescription": "Too many people in West Ham struggle with high rents and poor housing. I will work to ensure a real mix of affordable, attractive homes that are fit for families."
+      },
+      {
+        "policyTitle": "TRANSPORT THAT MEETS ALL OUR NEEDS",
+        "policyDescription": "Our public transport is being let down by the Labour Mayor and local government. Crossrail has been delayed and services are overcrowded. I will push for better services across buses, Tube and DLR, and to ensure upgrades happen on time and on budget."
+      },
+      {
+        "policyTitle": "SUPPORT FOR SMALL BUSINESSES",
+        "policyDescription": "As an business owner, I know how important small businesses are to our economy - creating jobs and paying taxes to fund our public services. I will fight against unfair regulations and costs that punish local entrepreneurs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sara Kumar",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Too many people in West Ham struggle with high rents and poor housing. I will work to ensure a real mix of affordable, attractive homes that are fit for families.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sara Kumar with residents and local area imagery"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

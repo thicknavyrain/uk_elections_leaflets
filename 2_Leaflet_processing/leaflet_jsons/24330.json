@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Marion Fellows",
+	"constituency": "Motherwell",
+	"politicalParty": "SNP",
+	"electionDate": "May 7th",
+	"messages": [
+  	{
+    	"title": "Election Communication",
+    	"content": "The General Election on May 7th is a real opportunity to make sure that the things that matter to you are firmly on the Westminster agenda."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Scotland’s NHS",
+    	"policyDescription": "Additional investment in Scotland’s NHS – its budget protected and its future secure in public hands."
+  	},
+  	{
+      	"policyTitle": "Economic policy",
+      	"policyDescription": "A more responsible economic policy, one which boosts long-term growth, creates jobs, and delivers for all."
+    },
+    {
+      	"policyTitle": "Childcare and Public Services",
+      	"policyDescription": "More cash childcare and much-need cash for our vital public services, not wasting £100 billion on new nuclear weapons."
+    }
+	],
+	"mentions": {
+  	"candidate": "Marion Fellows",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "A more responsible economic policy, one which boosts long-term growth, creates jobs, and delivers for all.",
+  	"education": "keeping our education system free, increasing the number of apprenticeships and a minimum wage increase for young people",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Additional investment in Scotland’s NHS – its budget protected and its future secure in public hands.",
+  	"immigration": "",
+  	"socialWelfare": "More cash childcare and much-need cash for our vital public services",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "snpmotherwellandwishaw@gmail.com",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "www.facebook.com/MarionFellows",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Marion Fellows SNP"
+    	}
+  	]
+	},
+	"additionalNotes": "The more SNP seats the SNP wins the more influence and power the people of Scotland will have. Vote SNP and make Scotland stronger at Westminster."
+  }
+}
+```

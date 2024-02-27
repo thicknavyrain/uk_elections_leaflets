@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Vera Baird",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "6th May",
+	"messages": [
+  	{
+    	"title": "Mike Findley: \"The Truth About Marske Post Office\"",
+    	"content": "\"Marske Post Office is closing temporarily solely because the current owner hasn’t yet found a buyer for his business. It is nothing to do with the Labour Government,\" says Mike."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Vera Baird",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Marske Post Office is closing temporarily solely because the current owner hasn’t yet found a buyer for his business.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "I will do my best, with Mike Findley and other local councillors, to find a new Sub Postmaster for Marske.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "39 Stockdale Avenue, Redcar, TS10 5EF",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [
+  	{
+    	"text": "\"Marske residents are appalled at Lib Dem leaflet.\"",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Vera Baird with Mike Findley."
+    	}
+  	]
+	},
+	"additionalNotes": "Leaflet addresses controversy over the temporary closure of Marske Post Office and refutes claims made by a Lib Dem leaflet."
+  }
+}
+```

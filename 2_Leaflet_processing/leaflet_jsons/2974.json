@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "John Leech",
+	"constituency": "Manchester, Withington",
+	"politicalParty": "Lib Dem",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Focus on Sport",
+    	"content": "We are rich in sports that will benefit from a new full-size all weather pitch which John is trying to secure for local schools and the wider community."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Asserting that the economy is in freefall with rising debts and crumbling UK economy, the leaflet emphasizes the need for urgent action."
+  	},
+    {
+    	"policyTitle": "Support for troops",
+    	"policyDescription": "Campaigning for troops who feel shockingly let down by the government, including demanding a public inquiry for the troops to get the compensation they deserve."
+  	}
+	],
+	"mentions": {
+  	"candidate": "John is also making great strides in working with our schools – with the aim of becoming the greenest school in Manchester.",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "The economy is in freefall with rising debts and crumbling UK economy.",
+  	"education": "John is trying to secure for local schools a new full-size all weather pitch.",
+  	"environment": "John is making great strides in working with schools for the aim of becoming the greenest school in Manchester.",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "MP of Manchester Withington",
+    	"duration": "2 years",
+    	"achievements": "Has helped more than 10,000 people with their problems and issues."
+  	}
+	],
+	"contactInformation": {
+  	"address": "FREPOST RSBB-XRZT-ZGZY, Lib Dems, Manchester, M20 2ZB",
+  	"phone": "",
+  	"email": "",
+  	"website": "http://www.johnleech.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "http://twitter.com/johnleechmcr",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Photo of John Leech"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

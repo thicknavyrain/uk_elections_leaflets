@@ -1,0 +1,56 @@
+{
+  "leaflet": {
+	"candidateName": "Matthew Evans",
+	"constituency": "Newport West",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Matthew Evans",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "fb.com/MatthewEvansNewportWest",
+  	"socialMedia": {
+    	"facebook": "MatthewEvansNewportWest",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Why we're all voting for Matthew Evans"
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet image is partially obscured and the text is not fully clear, so many fields could not be populated."
+  }
+}

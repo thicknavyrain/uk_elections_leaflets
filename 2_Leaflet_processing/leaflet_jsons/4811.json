@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Richard Scorer",
+    "constituency": "Hazel Grove",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public Services",
+        "policyDescription": "Defend public services, including a promise not to increase VAT, National Insurance or income tax for those earning under £20,000."
+      }
+    ],
+    "mentions": {
+      "candidate": "Richard Scorer",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Our measures are working and will create the jobs of the future. Britain is growing again because of the decisive government measures that Labour implemented. The measures include investing in public services, rejecting public service cuts that would undermine economic recovery.",
+      "education": "",
+      "environment": "Support greener energy and hold a national conference on climate change starting with immediate action, banning free plastic carrier bags and making homes energy efficient.",
+      "governance": "",
+      "health": "Support for the NHS, investing in more hospital beds, more access to GPs and improved mental health services.",
+      "immigration": "",
+      "socialWelfare": "Support pensioners with a decent state pension and winter fuel allowances.", 
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "c/o Stockport Labour Club, 2 Lloyd Street, Stockport, SK4 1QP",
+      "phone": "07970 481124",
+      "email": "richardscorer@hotmail.com",
+      "website": "www.labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Richard Scorer."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Catherine Atkinson",
+    "constituency": "Erewash",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The strongest voice for Erewash?",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Fought bed cuts at Ilkeston Hospital."
+      },
+      {
+        "policyTitle": "Transportation",
+        "policyDescription": "Fights to stop HS2 cutting through Long Eaton and protect our environment."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Successfully campaigned to stop the closure of Hazelwood, Ilkeston's last local authority care home."
+      },
+      {
+        "policyTitle": "Local Services",
+        "policyDescription": "Campaigned against the closure of Long Eaton Police Station. Successfully campaigned to stop the closure of Long Eaton Fire Station."
+      }
+    ],
+    "mentions": {
+      "candidate": "Catherine Atkinson",
+      "otherPartyLeaderCandidate": "Maggie Throup",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Fights to stop HS2 cutting through Long Eaton and protect our environment.",
+      "governance": "Successfully campaigned to stop the closure of Hazelwood, Ilkeston's last local authority care home.",
+      "health": "Fought bed cuts at Ilkeston Hospital.",
+      "immigration": "",
+      "socialWelfare": "Successfully campaigned to stop the closure of Hazelwood, Ilkeston's last local authority care home.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Catherine Atkinson, Labour candidate for Erewash"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

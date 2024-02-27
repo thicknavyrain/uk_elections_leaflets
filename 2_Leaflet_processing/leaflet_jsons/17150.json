@@ -1,0 +1,122 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Zac Goldsmith",
+    "constituency": "Richmond Park",
+    "politicalParty": "Conservative",
+    "electionDate": "7th May 2015",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Opposition to Heathrow Expansion",
+        "policyDescription": "He has led the campaign against Heathrow expansion and for a ban on night flights."
+      },
+      {
+        "policyTitle": "Local Parking and Funds for Kew Gardens",
+        "policyDescription": "He stopped plans to charge for parking in Richmond Park and secured additional funds for Kew Gardens."
+      }, 
+      {
+        "policyTitle": "Parliamentary Reform",
+        "policyDescription": "He led the campaigns for 'Recall' to make MPs more accountable and for a more democratic planning system."
+      },
+      {
+        "policyTitle": "Support for Education, Small Businesses, Housing, and Travel",
+        "policyDescription": "He has prioritised school places, small businesses, housing and safer & affordable travel."
+      },
+      {
+        "policyTitle": "Independent-Minded Campaigner",
+        "policyDescription": "He is an independent-minded and highly effective campaigner who puts his constituents first."
+      }
+    ],
+    "mentions": {
+      "candidate": "Zac Goldsmith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "He has prioritised housing",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Promoted by David Jones, on behalf of Zac Goldsmith, both of 372 Upper Richmond Road West, SW14 7JU. Printed by Direct Colour, Unit 122 Chessington Trade Park, 19PX KT9 1TW",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "In the past 12 months Goldsmith has been notably successful in applying pressure [against cuts to Kew Gardens']",
+        "source": "The Telegraph",
+        "date": ""
+      },
+      {
+        "text": "He sets the standard of what backbenchers, indeed what politicians, should aspire to",
+        "source": "Michael Gove",
+        "date": ""
+      },
+      {
+        "text": "[Zac] is indefatigably independent",
+        "source": "Labour front bench spokesman",
+        "date": ""
+      },
+      {
+        "text": "Zac's passion for the natural world is rooted in local soil",
+        "source": "Richmond Magazine",
+        "date": ""
+      },
+      {
+        "text": "[Zac] has built a reputation for being his own man",
+        "source": "The Richmond Resident",
+        "date": ""
+      },
+      {
+        "text": "[Zac] has repeatedly proved himself a politician of principle",
+        "source": "Evening Standard",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Goldsmith leading campaign against Heathrow expansion and ban on night flights"
+        },
+        {
+          "caption": "Goldsmith stopping charge for parking in Richmond Park and securing funds for Kew Gardens"
+        },
+        {
+          "caption": "Goldsmith in parliament"
+        },
+        {
+          "caption": "Goldsmith prioritising school places, small businesses, housing, and travel"
+        },
+        {
+          "caption": "Goldsmith speaking at an event"
+        }
+      ]
+    },
+    "additionalNotes": "Zac has been voted politician of the year on 5 occasions."
+  }
+}
+```

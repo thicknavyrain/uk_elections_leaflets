@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Local champion Tim Ward",
+    "constituency": "Arbury",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Record of Action:",
+        "content": "Popular local campaigner Tim Ward and his local Lib Dem team have a solid track record of delivering the best outcomes for local residents here in Arbury."
+      },
+      {
+        "title": "Promise of More:",
+        "content": "Improving road safety - Tim and the local Lib Dems are fighting to ensure 20mph limits are properly enforced across Arbury."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Improving road safety",
+        "policyDescription": "Ensuring 20mph limits are properly enforced across Arbury."
+      },
+      {
+        "policyTitle": "Natural environment protection",
+        "policyDescription": "Saved the 100 year old trees in Alexandra Gardens."
+      },
+      {
+        "policyTitle": "Investment in local housing",
+        "policyDescription": "Fought to invest an extra £12m in local housing."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tim Ward",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Julian Huppert",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Secured a £1bn City Deal, which will provide vital investment.",
+      "education": "",
+      "environment": "Protected the natural environment by saving old trees in Alexandra Gardens.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Invested an extra £12m in local housing to keep pace with rising demand.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local campaigner",
+        "duration": "",
+        "achievements": "Saved old trees, secured a £1bn City Deal, fought for £12m investment in local housing."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tim Ward and the local Lib Dem team campaigning for road safety, holding signs for 20mph speed limits."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

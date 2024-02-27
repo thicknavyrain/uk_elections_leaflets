@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Hughes",
+    "constituency": "Bermondsey, Borough, Rotherhithe, Walworth and the Elephant",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Simon Hughes is fighting for affordable homes, local jobs and our NHS.",
+        "content": "Simon Hughes has cut taxes for local workers by £800 and created over 6,000 apprenticeships in Southwark since 2010. Simon is now fighting for new jobs in the extension of the Bakerloo Line down the New Kent Road. Simon Hughes has stood up to Ed Miliband’s Labour Council for more affordable homes, to be advertised locally first. Simon Hughes saved Guy's Hospital. He is now fighting for mental health to have the same priority as physical health."
+      },
+      {
+        "title": "Labour record: Ed Miliband wants you to forget",
+        "content": "Labour were in Government for 13 years and nearly bankrupted Britain. The gap between rich and poor grew. Fewer affordable homes. Spiralling debt and a ruined economy."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Affordable Homes",
+        "policyDescription": "Advocate for more affordable homes to be advertised locally first."
+      },
+      {
+        "policyTitle": "Local Jobs",
+        "policyDescription": "Support the creation of new jobs through the extension of the Bakerloo Line."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Fight for mental health to have the same priority as physical health."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Hughes",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "",
+      "tacticalSituation": "It's a two-horse race here, with past results indicating 48% for Simon Hughes (Liberal Democrats) and 29% for Labour, while Conservatives can't win with 17% based on 2010 results."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Simon Hughes has cut taxes for local workers by £800",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Simon Hughes saved Guy's Hospital and is now fighting for mental health to be prioritized equally with physical health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Support for more affordable homes to be advertised locally first.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Former Deputy Leader of the Liberal Democrats",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "Minister of State for Justice and Civil Liberties",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Market Place Bermondsey, SE16 3UQ",
+      "phone": "020 7232 2557",
+      "email": "simon@simonhughes.org.uk",
+      "website": "www.simonhughes.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@SimonHughes",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Simon Hughes with supporters holding campaign signs."
+        },
+        {
+          "caption": "Chart showing 'It's a two-horse race here' with percentage points."
+        },
+        {
+          "caption": "Images of Ed Miliband and mentioning the Labour record."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes the tactical voting situation, positioning Simon Hughes as the key alternative to Labour with a strong past performance in elections compared to other parties."
+  }
+}
+```

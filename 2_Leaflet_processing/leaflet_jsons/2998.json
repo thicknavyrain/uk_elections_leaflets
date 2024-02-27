@@ -1,0 +1,94 @@
+{
+  "leaflet": {
+    "candidateName": "David Howarth MP",
+    "constituency": "North Cambridge",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Britain in longest recession on record",
+        "content": "Only Vince Cable and the Lib Dems have workable plan to end recession, create jobs and tackle climate change."
+      },
+      {
+        "title": "Cambridge tenants face paying other cities' debts",
+        "content": "The Labour government wants Cambridge's council tenants to pay off the debts incurred by other local councils."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Cutting heating bills",
+        "policyDescription": "Better home insulation would mean reduced heating bills and reduced emissions for thousands of Cambridge residents."
+      },
+      {
+        "policyTitle": "Fair deal for tenants",
+        "policyDescription": "Opposing the Labour government's plans to have Cambridge's council tenants pay off the debts incurred by other local councils."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Howarth MP",
+      "otherPartyLeaderCandidate": "Tony Blair",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Votes in Cambridge chart illustrating the Conservatives cannot win in Cambridge."
+    },
+    "issues": {
+      "brexitEurope": "\"Blair should not become President of Europe says Clegg\" section discussing Nick Clegg's opposition to Tony Blair becoming the first European President.",
+      "economy": "Mentions of Vince Cable and the Lib Dems predicting the economic crisis and having answers to get Britain moving again. Also, the policy on cutting heating bills contributing to economy by saving money for residents.",
+      "education": "",
+      "environment": "Proposals for insulating a million homes and public buildings to tackle climate change.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Better home insulation would mean reduced heating bills for thousands of Cambridge residents. Liberal Democrats would create 100,000 new jobs investing for the future in better transport and energy-saving.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": "Fair deal for tenants campaign trying to save Cambridge's council tenants a total of £1,500 per year, compared to Gordon Brown's plans."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Only Vince Cable and the Lib Dems have workable plan to end recession, create jobs and tackle climate change.",
+        "source": "Leaflet header",
+        "date": "Winter 2009"
+      },
+      {
+        "text": "Labour says Cambridge tenants are rich.",
+        "source": "Leaflet subheader",
+        "date": "Winter 2009"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of David Howarth MP"
+        },
+        {
+          "caption": "Votes in Cambridge chart"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

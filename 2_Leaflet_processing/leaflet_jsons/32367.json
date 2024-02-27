@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Will Sweet",
+    "constituency": "Putney",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Our Priorities",
+        "content": "Better hospitals\nSafer streets\nImproved schools\n£33.9 billion for the NHS\n20,000 extra police\nMore funding for every pupil in every school"
+      },
+      {
+        "title": "We can't afford MORE confusion and MORE delay. But that's all the other parties can deliver",
+        "content": "The Lib Dems can't form a Government, Jo Swinson rules out second Tory alliance."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "BETTER TRANSPORT",
+        "policyDescription": "A second entrance, more trains for Putney and a faster East Putney, New footbridges for East Putney Station and solutions for Roehampton congestion, Tackle the Hammersmith Bridge problem."
+      },
+      {
+        "policyTitle": "HOUSING",
+        "policyDescription": "More affordable homes for Putney - helping more first-time buyers, Making Roehampton regeneration work for local people."
+      },
+      {
+        "policyTitle": "CRIME",
+        "policyDescription": "Safer streets and greener neighbourhoods, Protecting residents from both knife crime and car crime, Cold calling control zone to protect seniors."
+      },
+      {
+        "policyTitle": "ENVIRONMENT",
+        "policyDescription": "Protecting the environment and stopping Heathrow expansion, Better cycling routes and a plan to make Putney carbon neutral by 2030."
+      },
+      {
+        "policyTitle": "SCHOOLS",
+        "policyDescription": "More money for schools and Special Needs in Putney, Outstanding schools."
+      },
+      {
+        "policyTitle": "TOWN CENTRES",
+        "policyDescription": "Making Putney High Street more vibrant, Supporting small businesses and shop owners."
+      }
+    ],
+    "mentions": {
+      "candidate": "Will Sweet",
+      "otherPartyLeaderCandidate": "Jo Swinson",
+      "partyLeader": "",
+      "tacticalSituation": "Jo Swinson rules out second Tory alliance."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "More funding for every pupil in every school, More money for schools and Special Needs in Putney, Outstanding schools.",
+      "environment": "Protecting the environment and stopping Heathrow expansion, Better cycling routes and a plan to make Putney carbon neutral by 2030.",
+      "governance": "",
+      "health": "Better hospitals\n£33.9 billion for the NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "More affordable homes for Putney - helping more first-time buyers, Making Roehampton regeneration work for local people.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "The Wandsworth Councillor",
+        "duration": "",
+        "achievements": "with a strong track record"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "An image of Will Sweet's campaign leaflet, highlighting his key policies, priorities, and personal statement as The Wandsworth Councillor with a strong track record."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

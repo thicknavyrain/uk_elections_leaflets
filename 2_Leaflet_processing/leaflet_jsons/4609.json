@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Leigh Jones",
+    "constituency": "Mole Valley",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Dear Elector",
+        "content": "The UK Independence Party is not just the lone voice opposing Britain's membership of the European political union but also has a full range of policies that resonate here in Mole Valley."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "UKIP wants a country which is self-governing and democratic where common sense and freedom of speech prevails."
+      },
+      {
+        "policyTitle": "EU Membership",
+        "policyDescription": "UKIP is against Britain being governed by Brussels, wasting £45 million per day on EU membership, and wants to take back power to make laws in the UK."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "UKIP believes in a non-racist, non-sectarian approach where we are friendly and trade with people from other countries but are not forced to adopt their policies."
+      }
+    ],
+    "mentions": {
+      "candidate": "Leigh Jones",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "If prompted, you might note the leaflet makes a tactical appeal mentioning the ability of a UKIP vote to overtake the Liberal Democrats and Labour party in Mole Valley."
+    },
+    "issues": {
+      "brexitEurope": "UKIP opposes Britain's EU membership and wants to take back power from Brussels to make laws in the UK.",
+      "economy": "",
+      "education": "",
+      "environment": "The leaflet complains about being governed by Brussels and mentions trivial decisions such as what kind of light bulbs are allowed to use.",
+      "governance": "UKIP wants a self-governing, democratic country with common sense and freedom of speech.",
+      "health": "",
+      "immigration": "UKIP addresses the sensitive issue of immigration and advocates for a non-racist, non-sectarian approach.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"The leaflet does not specifically address housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Leigh Jones looks forward to representing local concerns and working hard to get the best deal for Mole Valley.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07895638948",
+      "email": "",
+      "website": "www.ukipleighjones.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leigh Jones for Mole Valley"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

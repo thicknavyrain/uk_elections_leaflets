@@ -1,0 +1,112 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anna Jones",
+    "constituency": "Croydon South",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "STOP BREXIT",
+        "content": "BUILD A BRIGHTER FUTURE"
+      },
+      {
+        "title": "A Deal Is Just The Start",
+        "content": "To end the Brexit agony we must stop Brexit."
+      },
+      {
+        "title": "More about Anna",
+        "content": "Anna is fighting for a brighter future for our area. Brexit is the biggest threat facing us today. If you choose me as your MP, I promise to vote to cancel Brexit completely."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Brexit",
+        "policyDescription": "Stop Brexit and invest the £50 billion Remain Bonus in public services and tackling inequality."
+      },
+      {
+        "policyTitle": "Tackle the climate emergency",
+        "policyDescription": "Generate 80% of our electricity from renewables by 2030 and insulate all low-income homes by 2025."
+      },
+      {
+        "policyTitle": "Give every child the best start in life",
+        "policyDescription": "Recruit 20,000 more teachers as part of an extra £10 billion a year for schools."
+      },
+      {
+        "policyTitle": "Build a fairer economy",
+        "policyDescription": "Provide free childcare from nine months and give every adult £10,000 to spend on skills & training throughout their lives."
+      },
+      {
+        "policyTitle": "Transform our mental health services",
+        "policyDescription": "Treat mental health with the same urgency as physical health."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anna Jones",
+      "otherPartyLeaderCandidate": "Labour and the Conservatives argue over different forms of Brexit",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": "The Liberal Democrats beat Labour and the Conservatives in Croydon South when you last voted, in May's European Elections."
+    },
+    "issues": {
+      "brexitEurope": "Brexit is the biggest threat facing us today. While Labour and the Conservatives argue over different forms of Brexit, the Liberal Democrats believe any form of Brexit will damage our country.",
+      "economy": "",
+      "education": "Give every child the best start in life by recruiting 20,000 more teachers as part of an extra £10 billion a year for schools.",
+      "environment": "Tackle the climate emergency by generating 80% of our electricity from renewables by 2030 and insulating all low-income homes by 2025.",
+      "governance": "",
+      "health": "Transform our mental health services by treating mental health with the same urgency as physical health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Although we need more homes, new developments must be in keeping with the area and we need to build family houses, with gardens and not just flats.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Many of you have contacted me complaining that the Labour Council don't listen to local people on planning matters. Although we need more homes, new developments must be in keeping with the area and we need to build family houses, with gardens and not just flats.",
+    "politicalExperience": [
+      {
+        "role": "HR Director",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "member on Epsom’s Planning Committee for eight years",
+        "duration": "eight years",
+        "achievements": "Anna has a deep knowledge of how planning works and how to make sure over-development is prevented."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "anna.jones@croydonlibdems.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "AnnaJones for Croydon South",
+        "twitter": "@AnnaLibDem",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Anna Jones, Liberal Democrats - STOP BREXIT - BUILD A BRIGHTER FUTURE"
+        },
+        {
+          "caption": "JO SWINSON'S PLAN FOR BRITAIN'S FUTURE:"
+        },
+        {
+          "caption": "Dear neighbour, I'm fighting for a brighter future for our area."
+        },
+        {
+          "caption": "More about Anna - Anna Jones for Croydon South"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

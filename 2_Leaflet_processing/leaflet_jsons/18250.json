@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rashid Nix",
+    "constituency": "Dulwich and West Norwood",
+    "politicalParty": "Green Party",
+    "electionDate": "2015",
+    "messages": [
+      {
+        "title": "GREEN PARTY ACTS ON AIR POLLUTION",
+        "content": "The Green Party has obtained a grant to help local schools monitor local air pollution."
+      },
+      {
+        "title": "HOUSING VICTORY!",
+        "content": "Rashid Nix with Dulwich & West Norwood PPC successfully campaigned against the evictions in Guinness Trust estates."
+      },
+      {
+        "title": "THE GREEN SURGE CONTINUES!",
+        "content": "The Greens' support in Lambeth has increased, and they continue to actively campaign on various local issues."
+      },
+      {
+        "title": "SAVE LOCAL LIBRARIES!",
+        "content": "Lambeth Council announced severe cuts in library services which the Green Party strongly opposes."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Air Quality",
+        "policyDescription": "Monitoring and reducing air pollution, particularly around schools."
+      },
+      {
+        "policyTitle": "Business Support",
+        "policyDescription": "Supporting local businesses by fighting unjust evictions and promoting sustainable development."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Campaigning against evictions and for fair housing practices."
+      },
+      {
+        "policyTitle": "Library Services",
+        "policyDescription": "Opposing cuts to library services and working to maintain community access to public libraries."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rashid Nix",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Jenny Jones, Darren Johnson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Supporting initiatives for cleaner air, opposing pollution, particularly focusing on the impact on local schools.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Campaigning against unjust evictions and for the rights of those living in trust estates.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Rashid is a local community activist.",
+    "politicalExperience": [
+      {
+        "role": "PPC",
+        "duration": "",
+        "achievements": "Active in local campaigns on housing and air pollution, among other community issues."
+      }
+    ],
+    "contactInformation": {
+      "address": "90 Brixton Hill Court, SW2 1QZ",
+      "phone": "",
+      "email": "rashid.nix@greenparty.org.uk",
+      "website": "hernehillgreenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@RashidNix",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Rashid Nix with the banner 'STOP THE EVICTIONS'"
+        },
+        {
+          "caption": "Photo of a building with the title 'SAVE LOCAL LIBRARIES!'"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes thanks to voters for their help in increasing Green Party membership and votes in the Lambeth area."
+  }
+}
+```

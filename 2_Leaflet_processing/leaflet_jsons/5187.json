@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Nick Clegg",
+	"constituency": "Liverpool",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "No wonder Westminster politics is viewed with disgust.",
+    	"content": "It's like the worst days of the Conservatives all over again. And that's a nightmare that few people want to return to."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Political Reform",
+    	"policyDescription": "Stop billionaires buying political parties with big donations. We will give you the power to sack corrupt MPs. We will clean up corruption at Westminster."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Nick Clegg",
+  	"otherPartyLeaderCandidate": "David Cameron, Gordon Brown",
+  	"partyLeader": "Nick Clegg",
+  	"tacticalSituation": "In many parts of Britain the Conservatives are in a poor third place and can't win. Only a vote for the Liberal Democrats can deliver real change."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Their recession has hit people hard across Britain.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "Former Labour Ministers apparently offering to change Government policy for cash.",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "The Lib Dems proposed plans to clean up Parliament, the Tories voted with Labour to keep things as they are.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "The events of the last year have made me very angry.",
+	"politicalExperience": [
+  	{
+    	"role": "Leader of the Liberal Democrats",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "4 Cowley Street, London, SW1P 3NB",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.LibDems.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Nick Clegg interacting with various groups of people."
+    	}
+  	]
+	},
+	"additionalNotes": "PS - Remember, in many parts of Britain, the Conservatives cannot win. The choice is between change with the Lib Dems or no change with Labour."
+  }
+}
+```

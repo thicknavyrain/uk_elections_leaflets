@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stuart Tuckwood",
+    "constituency": "Cambridge",
+    "politicalParty": "Green Party",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "DEMAND ACTION",
+        "content": "Are you trying to weigh up which you dislike least? Lib Dems: Austerity cuts and tuition fees. Labour Party: Brexit and no free movement."
+      },
+      {
+        "title": "THIS IS URGENT",
+        "content": "The NHS won't survive until 2022 with more of the same... We have 4 years left to stop disatrous climate change... The richest must pay fair tax to fund these measures... Send your strongest demand for action - VOTE GREEN"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public NHS",
+        "policyDescription": "Reverse the sell-offs and fully fund our health and care."
+      },
+      {
+        "policyTitle": "Free Movement",
+        "policyDescription": "Freedom to travel, work and study in the EU. 2nd Referendum on our final deal with option to Remain."
+      },
+      {
+        "policyTitle": "Climate Action",
+        "policyDescription": "We have 5 years left to prevent dangerous global warming. We must act seriously now."
+      },
+      {
+        "policyTitle": "Free Education",
+        "policyDescription": "Bring back maintenance grants. Get young people out of debt."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stuart Tuckwood",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Freedom to travel, work and study in the EU. 2nd Referendum on our final deal with option to Remain.",
+      "economy": "The richest must pay fair tax to fund these measures.",
+      "education": "Bring back maintenance grants. Get young people out of debt.",
+      "environment": "We have 5 years left to prevent dangerous global warming. We must act seriously now.",
+      "governance": "",
+      "health": "Reverse the sell-offs and fully fund our health and care.",
+      "immigration": "Free Movement: Freedom to travel, work and study in the EU.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "I'm a nurse working on the NHS front line. I can see that the NHS simply won't exist as you know it in 5 more years - unless it's fully funded.",
+    "politicalExperience": [
+      {
+        "role": "Local Campaigner, NHS Charge Nurse",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07421 789550",
+      "email": "stuart@cambridge.greenparty.org.uk",
+      "website": "bit.ly/SupportCamGreens",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stuart Tuckwood speaking to a group of people."
+        },
+        {
+          "caption": "Portrait of Stuart Tuckwood."
+        }
+      ]
+    },
+    "additionalNotes": "PS: Help us fight for a Public NHS, EU Free Movement and Climate Action."
+  }
+}
+```

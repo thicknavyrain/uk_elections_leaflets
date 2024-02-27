@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "JEREMY CADDICK",
+    "constituency": "CAMBRIDGE",
+    "politicalParty": "Green Party",
+    "electionDate": "12th December 2019",
+    "messages": [
+      {
+        "title": "THE GREEN NEW DEAL",
+        "content": "UNLEASHING A GREEN ECONOMIC AND SOCIAL REVOLUTION"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "ENERGY",
+        "policyDescription": "100% renewable energy by 2030, Carbon tax to tackle carbon imports, Phase out nuclear power and ban fracking"
+      },
+      {
+        "policyTitle": "FORESTRY & FARMING",
+        "policyDescription": "Farming subsidies for transition to sustainable, environmentally-friendly land use, Urban and countryside rewilding"
+      },
+      {
+        "policyTitle": "HOUSING",
+        "policyDescription": "100,000 council houses at Passivhaus standard, Retrofit insulation into existing housing stock, Overhaul planning regulations to establish highest environmental standards"
+      },
+      {
+        "policyTitle": "TRANSPORT",
+        "policyDescription": "Huge expansion of cycle and foot paths, Make public transport affordable, Rationalise, electrify and expand railways, Frequent flyer levy and airport expansions halted"
+      }
+    ],
+    "mentions": {
+      "candidate": "Jeremy Caddick",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Caroline Lucas",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "YES TO EUROPE",
+      "economy": "",
+      "education": "UNLOCKING EDUCATION",
+      "environment": "RESTORING OUR NATURE AND COUNTRYSIDE, Urban and countryside rewilding",
+      "governance": "",
+      "health": "RESTORING THE NHS",
+      "immigration": "",
+      "socialWelfare": "DELIVERING SECURE INCOMES AND SECURE HOMES",
+      "housing": [
+        {
+          "content": "HOUSING: 100,000 council houses at Passivhaus standard, Retrofit insulation into existing housing stock, Overhaul planning regulations to establish highest environmental standards",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Will always listen and act on local concerns, Cares about the whole Cambridge Community, Works hard to protect people and planet",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "9 Stok Rd, Southend-On-Sea, SS1 3PS",
+      "phone": "",
+      "email": "contact@cambridge.greenparty.org.uk",
+      "website": "www.cambridge.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "@CambridgeGreens",
+        "twitter": "@CambridgeGreens",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jeremy Caddick visiting the new eco-mosque on Mill Road, and with Councillor Oscar Gillespie from the Cambridge Unitarian Church"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

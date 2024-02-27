@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Bolton, Lancashire",
+    "politicalParty": "Conservatives",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "",
+        "content": "Like most people, I think Britain needs change."
+      },
+      {
+        "title": "",
+        "content": "We need a new government with the energy, leadership and values to get the country back on its feet and get our economy moving."
+      },
+      {
+        "title": "",
+        "content": "Your vote can help change Britain."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "We will increase the health service pension – and restore the link with earnings, and we will increase funding for the NHS every year."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "We will improve discipline in schools by giving teachers more powers."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "We will work with local councils to freeze Council Tax for two years."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "We will change politics by cutting the number of MPs by 10%, reducing ministerial pay, and by stopping the 'jobs for life' culture in politics."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We will take immediate action to start cutting government waste, saving billions this year alone.",
+      "education": "We will work with local councils to freeze Council Tax for two years. We will improve discipline in schools by giving teachers more powers.",
+      "environment": "",
+      "governance": "We will change politics by cutting the number of MPs by 10%, reducing ministerial pay, and by stopping the 'jobs for life' culture in politics.",
+      "health": "We will increase the health service pension – and restore the link with earnings, and we will increase funding for the NHS every year.",
+      "immigration": "We will cut immigration by putting an annual limit on non-EU economic migrants.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.conservatives.com/manifesto",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Cameron",
+        "endorsement": "I hope you'll use your chance to help change Britain on 6th May."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron speaking at an event."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

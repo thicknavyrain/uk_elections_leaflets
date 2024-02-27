@@ -1,0 +1,53 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ed Punchard",
+    "constituency": "",
+    "politicalParty": "Brexit Party",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Ed Punchard",
+      "otherPartyLeaderCandidate": "Boris",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Vote Leave",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "KEEP BORIS HONEST!"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

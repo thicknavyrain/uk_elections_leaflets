@@ -1,0 +1,110 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ian Boulton",
+    "constituency": "Filton and Bradley Stoke",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Support for families",
+        "content": "Ian is working to help hard working families in Filton and Bradley Stoke."
+      },
+      {
+        "title": "The Tories: a change families can't afford",
+        "content": ""
+      },
+      {
+        "title": "Britain is safer with Labour",
+        "content": "Thanks to Labour we have a stronger economy."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Support for Pensioners",
+        "policyDescription": "Free bus travel under Labour."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Labour will help to pay for fuel bills."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "10,000 more police officers than in 1997. Neighbourhood policing is also rolled out."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ian is working to help hard working families in Filton and Bradley Stoke.",
+      "otherPartyLeaderCandidate": "George Osborne",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Thanks to Labour we have a stronger economy. Labour's plan means no frontline cuts to services.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "A strong voice for our new Constituency",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07913 262033",
+      "email": "cllr.boulton@labourcllr.com",
+      "website": "www.ianboulton.org.uk",
+      "socialMedia": {
+        "facebook": "Facebook.com/IanFBoulton",
+        "twitter": "twitter.com/IanFBoulton",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Crime down by 36% since 1997",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Support for families"
+        },
+        {
+          "caption": "Britain is safer with Labour"
+        },
+        {
+          "caption": "Ian Boulton, putting local people first"
+        },
+        {
+          "caption": "A strong voice for our new Constituency"
+        }
+      ]
+    },
+    "additionalNotes": "Getting on with the job of taking Britain forward and out of the global economic downturn."
+  }
+}
+```

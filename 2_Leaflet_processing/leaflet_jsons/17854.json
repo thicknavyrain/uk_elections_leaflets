@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Dobson",
+    "constituency": "Liverpool Riverside",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Time for Positive Politics",
+        "content": "The Green Party promises a positive politics that deals with policies not just the personalities. At this coming election, the Greens offer a refreshing alternative and a chance of a real change for good."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Restore local communities",
+        "policyDescription": "Restore funding to local councils to protect and improve local services and green spaces"
+      },
+      {
+        "policyTitle": "NHS and public services",
+        "policyDescription": "Reverse Labour/Tory NHS privatisations, providing free social care for the over 65s"
+      },
+      {
+        "policyTitle": "Energy and transport",
+        "policyDescription": "Bring the railways and the energy companies under public control for the public good"
+      },
+      {
+        "policyTitle": "Technology and innovation",
+        "policyDescription": "Invest in renewable energy technology creating a quarter of a million new jobs"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build half a million new homes, scrap the Bedroom Tax, and introduce fair rent caps"
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin Dobson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "An economy that works for all.",
+      "education": "#FREEEDUCATION quality education, no tuition fees",
+      "environment": "#SAFECLIMATE fossil-free, liveable future",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Secure, affordable housing for all.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "The Greens will change politics? - Martin Dobson",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.martin4liverpoolriverside.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@MartinDobsonGP @VoteGreen2015",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Martin Dobson for the common good."
+        }
+      ]
+    },
+    "additionalNotes": "Printed on recycled paper and delivered for free by volunteers."
+  }
+}
+```

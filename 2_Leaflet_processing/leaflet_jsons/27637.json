@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Livsey",
+	  "constituency": "Wallasey and Moreton",
+	  "politicalParty": "Conservative",
+	  "electionDate": "Thursday 8th June",
+	  "messages": [
+  	  {
+    	  "title": "",
+      	"content": ""
+  	  }
+	  ],
+	  "keyPolicies": [
+  	  {
+    	  "policyTitle": "Brexit",
+    	  "policyDescription": "Aims to make a success of Brexit so that Britain will gain control over immigration, be free to establish our own laws, and secure new trade agreements with other countries."
+  	  },
+  	  {
+    	  "policyTitle": "NHS",
+    	  "policyDescription": "Committed to improving the NHS, schools, and public services."
+  	  },
+  	  {
+    	  "policyTitle": "Economy",
+    	  "policyDescription": "Focusing on having a strong and stable economy that will generate the money to pay for public services."
+  	  }
+	  ],
+	  "mentions": {
+  	  "candidate": "Andy Livsey",
+  	  "otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	  "partyLeader": "Theresa May",
+  	  "tacticalSituation": ""
+	  },
+	  "issues": {
+  	  "brexitEurope": "We'll be free to pursue trade with European markets, and secure new trade agreements with other countries.",
+  	  "economy": "Having a strong and stable economy that will generate the money to pay for public services.",
+  	  "education": "",
+  	  "environment": "",
+  	  "governance": "",
+  	  "health": "Improving our NHS.",
+  	  "immigration": "Gain control over immigration.",
+  	  "socialWelfare": "",
+  	  "housing": [
+      	{
+        	"content":"",
+        	"yimbyNimby": ""
+      	}
+  	  ]
+	  },
+	  "personalStatement": "I'm not a career politician. I'm a dad of four who has lived in the real world, worked as a builder and, last year, I helped to run the Vote Leave campaign.",
+	  "politicalExperience": [
+  	  {
+    	  "role": "Vote Leave campaign",
+    	  "duration": "Last year",
+    	  "achievements": "Helped to run the Vote Leave campaign."
+  	  }
+	  ],
+	  "contactInformation": {
+  	  "address": "",
+  	  "phone": "",
+  	  "email": "office@wallaseyconservatives.com",
+  	  "website": "",
+  	  "socialMedia": {
+      	"facebook": "",
+      	"twitter": "",
+      	"instagram": "",
+      	"linkedin": ""
+    	}
+	  },
+	  "endorsements": [
+  	  {
+    	  "endorser": "",
+    	  "endorsement": ""
+  	  }
+	  ],
+	  "quotes": [
+  	  {
+    	  "text": "Polls show the gap has narrowed significantly...but you need to vote to make this happen.",
+    	  "source": "Polling information",
+    	  "date": ""
+  	  }
+	  ],
+	  "campaignMaterial": {
+  	  "images": [
+      	{
+        	"caption": "Andy Livsey pictured with Theresa May."
+      	}
+  	  ]
+	  },
+	  "additionalNotes": "If you need any information about where and when to vote, call the Elections Unit at the Town Hall on 6918046."
+  }
+}
+```

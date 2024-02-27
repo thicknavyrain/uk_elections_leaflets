@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gordon Prentice",
+    "constituency": "Pendle",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "They don't speak for us",
+        "content": "The leaflet suggests that the Conservative Party, represented by David Cameron and George Osborne, are out of touch with the public, particularly criticizing their backgrounds and policy priorities which are described as favoring the wealthy."
+      },
+      {
+        "title": "TAX CHEAT!",
+        "content": "The leaflet accuses the Conservatives of being financed by Lord Ashcroft, who it alleges is a tax dodger. It criticizes their acceptance of funds from him and calls for not selling out Pendle to tainted money."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxation and Public Funding",
+        "policyDescription": "The candidate is critical of the Conservative Party's proposed inheritance tax policies which he suggests favour wealthy individuals, and is opposed to the Conservative Party being funded by individuals who avoid paying UK taxes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Gordon Prentice",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "The leaflet raises governance issues through the criticism of the opposition party’s funding sources and their approach to taxation.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "The leaflet mentions opposition to cuts to Child Tax Credits and the Child Trust Fund scheme.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.gordonprenticemp.com/bbte",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Mirror",
+        "endorsement": "INDEPENDENT-MINDED AND FEARLESS"
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "They don't speak for us"
+        },
+        {
+          "caption": "TAX CHEAT!"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes images and criticisms of the Conservative Party, specifically targeting David Cameron, George Osborne, and Lord Ashcroft. It also alleges that Conservatives are trying to buy the election in Pendle."
+  }
+}
+```

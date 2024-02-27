@@ -1,0 +1,124 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The Lib Dem difference",
+        "content": "The Liberal Democrats will take action to protect frontline NHS services."
+      },
+      {
+        "title": "Four steps to a fairer Britain",
+        "content": "Fair taxes, fair chance for every child, a fair future by creating jobs and making Britain greener, and a fair deal from politicians."
+      },
+      {
+        "title": "Change that works for you",
+        "content": ""
+      },
+      {
+        "title": "...but is this the kind of change we want?",
+        "content": "References to opposing party leaders and their policies, questioning if their changes are what people want."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fair taxes",
+        "policyDescription": "Cutting taxes by £700, specifically aiming to take the poorest workers out of the tax system."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Smaller class sizes, more money into schools, and abolishing university tuition fees."
+      },
+      {
+        "policyTitle": "Jobs and Environment",
+        "policyDescription": "Create jobs by making Britain greener, investing in public transport, renewable energy, and energy-efficient homes."
+      },
+      {
+        "policyTitle": "Political Reform",
+        "policyDescription": "Make politicians accountable and give the right to sack corrupt MPs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "References to David Cameron suggesting negative implications of their policies.",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Pledges to balance the country's books and identify real savings to pay for it.",
+      "education": "Smaller class sizes, more investment in schools, abolishing tuition fees.",
+      "environment": "Create jobs by investing in renewable energy and energy-efficient homes.",
+      "governance": "Political accountability and power to remove corrupt MPs.",
+      "health": "Protect frontline NHS services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "1 Vincent Square, London, SW1P 2PN",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We will put more police on patrol, restore the pensions earnings link, and deliver fair pay for the armed forces.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "The proposal to take the poorest workers out of the tax system is especially overdue.",
+        "source": "Evening Standard, 4 Jan 2010",
+        "date": "2010-01-04"
+      },
+      {
+        "text": "The party is also pledging to raise tax thresholds to £10,000 a year, taking four million people out of Income Tax.",
+        "source": "BBC News, 30 Nov 2009",
+        "date": "2009-11-30"
+      },
+      {
+        "text": "It's time for real change and honesty in politics again.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photos of Nick Clegg with supporters, and Vince Cable, along with quotes and headlines from the campaign."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

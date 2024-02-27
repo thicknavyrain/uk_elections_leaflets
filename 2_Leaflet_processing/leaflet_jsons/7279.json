@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stuart Langhorn",
+    "constituency": "Lancaster",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "Focus Lancaster Market Special",
+        "content": "There have been several months of debate on the indoor market in Lancaster. Why? Because the indoor market is predicted to cost local tax payers up to £0.5 million per year, and costs are rising every year!"
+      },
+      {
+        "title": "Make your voice heard",
+        "content": "Many commentators have noted the similarities between Labour and the Conservatives. Do you want more of the same?"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Lancaster Market",
+        "policyDescription": "Liberal Democrats propose a long-term solution to resolve the Lancaster market issue, promoting an alternate trading scheme to reduce the burden on local tax payers."
+      },
+      {
+        "policyTitle": "Economic Development",
+        "policyDescription": "Stuart Langhorn emphasizes the need for Lancaster to have a mix of independent retailers, which must be supported for the city's economy to flourish."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stuart Langhorn says 'The great thing about Lancaster is that we have a good mix of independent retailers across the city centre which we must help to flourish'.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Lib Dems now main challengers to Labour - How people voted in Lancaster by-election 1st April"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A long term solution has to be found. The Liberal Democrats have lead the council since May 2009 and wanted to sort this out to save local tax payers money.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Stuart Langhorn emphasizes the need for Lancaster to have a mix of independent retailers, which must be supported for the city's economy to flourish.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Leader of Lancaster City Council",
+        "duration": "Last year",
+        "achievements": "Stuart Langhorn was elected Leader of Lancaster City Council in May last year."
+      }
+    ],
+    "contactInformation": {
+      "address": "Liberal Democrat Campaign, 87 King Street, Lancaster, LA1 1RH",
+      "phone": "",
+      "email": "",
+      "website": "www.lancasterlibdems.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of the proposed indoor market building"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

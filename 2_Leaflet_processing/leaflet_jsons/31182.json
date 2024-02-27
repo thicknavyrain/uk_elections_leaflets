@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Jo Swinson",
+	"constituency": "Cambridge",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "The Liberal Democrats are WINNING across the country.",
+    	"content": "\"The Lib Dem fightback is real and it's changing everything.\" - SKY NEWS, August 2019 \"Lib Dems winning and on the up after by-election victory.\" - THE GUARDIAN, August 2019"
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Jo Swinson is the Prime Minister we deserve",
+  	"otherPartyLeaderCandidate": "\"Both Tories and Labour have failed the country\" - The Guardian, May 2019 \"British politics is falling apart – the Tories are to blame, but Labour is also a shambles\" - The Irish Times, January 2019",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "1-10 Great George Street, London, SW1P 3AE",
+  	"phone": "",
+  	"email": "",
+  	"website": "LibDems.org.uk/join",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [
+  	{
+    	"text": "The Lib Dem fightback is real and it's changing everything.",
+    	"source": "SKY NEWS",
+    	"date": "August 2019"
+  	},
+	{
+    	"text": "Lib Dems winning and on the up after by-election victory.",
+    	"source": "THE GUARDIAN",
+    	"date": "August 2019"
+  	},
+	{
+    	"text": "Both Tories and Labour have failed the country",
+    	"source": "The Guardian",
+    	"date": "May 2019"
+  	},
+	{
+    	"text": "British politics is falling apart – the Tories are to blame, but Labour is also a shambles",
+    	"source": "The Irish Times",
+    	"date": "January 2019"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "The future is bright, the future is Jo Swinson."
+    	},
+		{
+      	"caption": "Build a brighter future, vote Liberal Democrat."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

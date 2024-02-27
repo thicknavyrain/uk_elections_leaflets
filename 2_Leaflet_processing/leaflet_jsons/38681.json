@@ -1,0 +1,72 @@
+{
+  "leaflet": {
+	"candidateName": "Sarah Codling",
+	"constituency": "Bristol East",
+	"politicalParty": "",
+	"electionDate": "Thursday 12 December 2019",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "PROTECTING OUR ENVIRONMENT",
+    	"policyDescription": "I will stand up for our environment and fight to improve air quality, working with local residents and businesses. I am passionate about conserving our wildlife and green spaces."
+  	},
+  	{
+    	"policyTitle": "IMPROVING TRANSPORT",
+    	"policyDescription": "I will work to improve transport links for Bristol East, connecting us to the rest of the city and surrounding areas. We need better integrated and sustainable bus and rail networks, as well as safe cycling and walking routes."
+  	},
+  	{
+    	"policyTitle": "RAISING HOUSING STANDARDS",
+    	"policyDescription": "I will campaign for better homes for everyone, ensuring higher standards and greater energy efficiency. I want to see more good quality affordable homes for rent and some support for those looking to buy their own home."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Sarah Codling",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "I will stand up for our environment and fight to improve air quality, working with local residents and businesses. I am passionate about conserving our wildlife and green spaces.",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"I will campaign for better homes for everyone, ensuring higher standards and greater energy efficiency. I want to see more good quality affordable homes for rent and some support for those looking to buy their own home.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Sarah Codling with residents"
+    	},
+    	{
+      	"caption": "Sarah Codling at Fishponds Road"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

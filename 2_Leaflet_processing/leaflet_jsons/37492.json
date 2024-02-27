@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Elin Jones",
+    "constituency": "Ceredigion",
+    "politicalParty": "Plaid Cymru",
+    "electionDate": "05 May",
+    "messages": [
+      {
+        "title": "Dear Friend,",
+        "content": "At the Welsh Election on 05 May, we all have a chance to help change Wales for the better. In these challenging times, we need a strong and ambitious Welsh Government."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health Service Investment",
+        "policyDescription": "Ensured a substantial investment in our health service with £38m for a new extension and improved facilities at Bronglais, and a commitment to fund a new community hospital in Cardigan and a hospital and social care centre in Tregaron."
+      },
+      {
+        "policyTitle": "Investment in Education and Job Creation",
+        "policyDescription": "Plans to invest more by investing in schools, creating new jobs and improving our access to healthcare services even further."
+      }
+    ],
+    "mentions": {
+      "candidate": "Elin Jones",
+      "otherPartyLeaderCandidate": "The Lib Dems, ConDem government",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Plans for investment in Ceredigion are detailed, including protecting services and strengthening the economy.",
+      "education": "Invest in schools.",
+      "environment": "",
+      "governance": "Need a strong and ambitious Welsh Government.",
+      "health": "Substantial investment with £38m for health service expansion and improvement; new community hospital and social care centre planned.",
+      "immigration": "",
+      "socialWelfare": "Lib Dems and ConDem government cutting payments to the neediest in our society.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I want to be re-elected to ensure that plans for investment in Ceredigion are delivered, that public services are protected and improved and that our economy is strengthened.",
+    "politicalExperience": [
+      {
+        "role": "Member of the Welsh Government since 2007",
+        "duration": "",
+        "achievements": "Delivered on a commitment to health service investment and community support."
+      }
+    ],
+    "contactInformation": {
+      "address": "32 Heol y Wig / Pier Street Aberystwyth SY23 2LN",
+      "phone": "01970 617 492",
+      "email": "elin@elinjones.com",
+      "website": "www.ElinJones.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Elin Jones pictured on the campaign leaflet."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

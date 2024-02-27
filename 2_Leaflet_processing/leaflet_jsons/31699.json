@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "James Oates",
+    "constituency": "Gordon",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Support for Lib Dems surges",
+        "content": "Millions switch to back Jo Swinson. People across Britain are backing the Liberal Democrats to deliver a brighter future for our country and keep Scotland in both the EU and the UK."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Brexit. Stop independence. Build a brighter future.",
+        "policyDescription": "Commitment to keeping Scotland in the UK and Europe."
+      },
+      {
+        "policyTitle": "Education - a vital investment for the future",
+        "policyDescription": "Pledging to close the education gap and ensure every child has access to high-quality education."
+      },
+      {
+        "policyTitle": "Protecting our environment, tackling the climate crisis",
+        "policyDescription": "Plans to work with the EU to set high environmental standards and work together to protect the planet and achieve a carbon-neutral economy."
+      },
+      {
+        "policyTitle": "Making our NHS fit for the future",
+        "policyDescription": "Ensuring NHS has resources it needs, reform mental health services, tackle the GP crisis and promote good health and wellbeing."
+      },
+      {
+        "policyTitle": "Fighting for a fair deal for Aberdeen City & Shire",
+        "policyDescription": "Seeking better deals from Scottish and UK Governments for local funding and fair share of funds."
+      }
+    ],
+    "mentions": {
+      "candidate": "James Oates has the experience to be a powerful voice for Gordon.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": "Support for the Liberal Democrats in Aberdeen City & Shire has increased while the Conservatives and Labour are losing votes."
+    },
+    "issues": {
+      "brexitEurope": "Only James Oates and the Liberal Democrats are committed to keeping Scotland in the UK and the UK in the European Union.",
+      "economy": "",
+      "education": "On the SNP’s watch, 150,000 college places have been cut and the budget has been cut, causing an expansion of nursery education at a snail’s pace.",
+      "environment": "Working with the EU enables us to set high environmental standards and work together to protect our planet.",
+      "governance": "Fighting for a fair deal for Aberdeen City & Shire for local funding from the Scottish and UK Governments.",
+      "health": "James Oates and the Liberal Democrats are committed to giving our NHS the resources it needs to transform mental health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Liberal Democrat Leader, Jo Swinson, said: 'We will stop Brexit and turn our attention to building more homes, improving education for our children, properly funding our NHS, and putting in emergency measures to address the climate crisis.'",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "James Oates has the experience to be a powerful voice for Gordon. A leader with experience as a government adviser for the Treasury and investment companies such as J.P. Morgan, Robert Fleming and UBS.",
+    "politicalExperience": [
+      {
+        "role": "Government adviser for the Treasury",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "Leader",
+        "duration": "",
+        "achievements": "Experience working with investment companies such as J.P. Morgan, Robert Fleming and UBS."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "James Oates - a powerful voice for Gordon"
+        },
+        {
+          "caption": "A brighter future for our country"
+        },
+        {
+          "caption": "Support for Lib Dems surges"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

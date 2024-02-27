@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Malcolm Bruce",
+    "constituency": "Gordon",
+    "politicalParty": "Lib Dems",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Change that works for Gordon",
+        "content": "Malcolm Bruce delivers for us. Action on pensions, the economy, and education."
+      },
+      {
+        "title": "It's a two horse race in Gordon",
+        "content": "The odds show that in Gordon, it's a two horse race between Malcolm Bruce and the SNP candidate."
+      },
+      {
+        "title": "Real solutions, not empty promises",
+        "content": "Lay the foundations for a fairer Britain. The SNP has broken promises - failed to change North East funding, fewer teachers in Scotland's schools, and failed to write off student debt."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Action on pensions",
+        "policyDescription": "Fight for decent pensions for older people."
+      },
+      {
+        "policyTitle": "Action on the economy",
+        "policyDescription": "Scotland needs a fair and sustainable economy that creates jobs."
+      },
+      {
+        "policyTitle": "Action on education",
+        "policyDescription": "Believes that Scotland's children must have the best possible start in life."
+      }
+    ],
+    "mentions": {
+      "candidate": "Malcolm Bruce",
+      "otherPartyLeaderCandidate": "SNP candidate",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "The odds show that in Gordon, it's a two horse race between Malcolm Bruce and the SNP candidate."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Scotland needs a fair and sustainable economy that creates jobs.",
+      "education": "Believes that Scotland's children must have the best possible start in life.",
+      "environment": "Malcolm and the Lib Dems want to reduce Britain's carbon footprint and build an economy that harnesses green jobs.",
+      "governance": "Make politicians accountable and give you the right to sack corrupt MPs.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Fight for decent pensions for older people.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I will put local people first. I will be there to help, listen to your concerns and stand up for our community.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "malcolmbruce.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The Lib Dem difference: Lib Dems will take action to protect your income, freeze council tax, and pay for more police on our streets.",
+        "source": "Leaflet content",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images of Malcolm Bruce with locals and party figures."
+        }
+      ]
+    },
+    "additionalNotes": "Malcolm Bruce has a track record of getting things done, and has experience in both the local area and Westminster. Claims that SNP has made broken promises and that the Lib Dems offer real solutions."
+  }
+}
+```

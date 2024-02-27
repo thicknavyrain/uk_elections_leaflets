@@ -1,0 +1,108 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The choice facing Scotland",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Continue to grow our economy and invest in people's priorities."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Restore Scotland as the best place to grow up and get on in life."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Back our healthcare services and ensure they are there for you and your family when you need them."
+      },
+      {
+        "policyTitle": "Communities",
+        "policyDescription": "Invest in the services that matter most to the people of Scotland."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "United ambitions to end our contribution to climate change by 2045 and protect our environment."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Deliver the reforms that are so desperately needed to fix the problems facing Scotland."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Leader of the SNP",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Continue to grow our economy and invest in people's priorities.",
+      "education": "Restore Scotland as the best place to grow up and get on in life.",
+      "environment": "United ambitions to end our contribution to climate change by 2045 and protect our environment.",
+      "governance": "Deliver the reforms that are so desperately needed to fix the problems facing Scotland.",
+      "health": "Back our healthcare services and ensure they are there for you and your family when you need them.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Your vote will decide between them.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "The choice facing Scotland"
+        },
+        {
+          "caption": "TWO FUTURES - 5 years of stability with the Conservatives or 5 years of Chaos with Labour and the SNP"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

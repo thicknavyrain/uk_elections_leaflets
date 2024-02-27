@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rob White",
+    "constituency": "Reading East",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "FAIR IS WORTH FIGHTING FOR",
+        "content": "Rob White is well known to many in Reading East, as a hard-working campaigner with a record of success. He lives in Newtown, works as a gardener and is always active in the community at a range of tasks. Rob's achievements include starting the local community orchard, improving nature reserves, as well as helping maintain local sports facilities like those at Alfred Sutton School."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A Living Wage for all",
+        "policyDescription": "Green MPs will demand a 'Living Wage' to ensure low paid workers earn enough to provide for themselves and their families."
+      },
+      {
+        "policyTitle": "A million new jobs",
+        "policyDescription": "Green MPs will aim to cut fuel bills and create a lot more employment."
+      },
+      {
+        "policyTitle": "Protect our NHS",
+        "policyDescription": "Green MPs will fight to make sure local services are easy to access and are truly local. We will oppose cuts, closures and privatisation within our NHS and protect the jobs of public sector workers."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rob White",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0844 542 9277",
+      "email": "",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Rob volunteers for the community orchard at Alfred Sutton School."
+        }
+      ]
+    },
+    "additionalNotes": "The full text for 'A Living Wage for all' and 'A million new jobs' is not completely visible, thus the policy descriptions may be incomplete."
+  }
+}
+```

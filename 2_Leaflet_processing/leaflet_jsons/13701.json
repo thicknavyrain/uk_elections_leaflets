@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Rowntree",
+    "constituency": "Cities of London & Westminster",
+    "politicalParty": "Labour Party",
+    "electionDate": "6th May 2010",
+    "messages": [
+      {
+        "title": "Working for you in the Cities of London & Westminster",
+        "content": "Vote for what you believe in."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "More Homes for Local People",
+        "policyDescription": "Good housing should be a right, not a privilege. I will push for more affordable, community housing."
+      },
+      {
+        "policyTitle": "Investing in Policing",
+        "policyDescription": "I will work to restore police facilities and community support to help them fight crime."
+      },
+      {
+        "policyTitle": "Protecting Frontline Healthcare",
+        "policyDescription": "I will always fight to maintain frontline jobs and services in the NHS."
+      },
+      {
+        "policyTitle": "Safeguarding Sure Start",
+        "policyDescription": "I will support the Tory plans to close vital Sure Start centres."
+      },
+      {
+        "policyTitle": "Reinstating the 10p Tax Rate",
+        "policyDescription": "I will help starter tax rate, which will help those most in need."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Rowntree",
+      "otherPartyLeaderCandidate": "Tony Blair",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "I will always fight to maintain frontline jobs and services in the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Good housing should be a right, not a privilege. I will push for more affordable, community housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "My background makes me a different kind of candidate, and I'll be a different kind of MP.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "51a Dean Street, London SW1V 2LY",
+      "phone": "",
+      "email": "david@davidrowntree.org",
+      "website": "www.davidrowntree.org",
+      "socialMedia": {
+        "facebook": "facebook.com/rowntree.david",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Tony Blair",
+        "endorsement": "David is a local resident. He's voting for David Rowntree because David is 'my type: real, down-to-earth, understands that for young families these are difficult times'. He respects David's attention to detail and his 'hands-on experience' will make a real difference in the House of Commons. 'There's no doubt in my mind on May 6th, David Rowntree deserves your support.'"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Rowntree with locals"
+        },
+        {
+          "caption": "David Rowntree at various community events"
+        }
+      ]
+    },
+    "additionalNotes": "Vote for what you believe in."
+  }
+}
+```

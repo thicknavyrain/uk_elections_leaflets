@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Shiona Baird",
+    "constituency": "Dundee East",
+    "politicalParty": "Scottish Green Party",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "You can make a difference",
+        "content": "VOTE GREEN"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A Living Wage for All",
+        "policyDescription": "The Green MPs will campaign for a minimum wage of £7 an hour to ensure our workers can live decently."
+      },
+      {
+        "policyTitle": "Protect Public Services",
+        "policyDescription": "Green MPs would block the selloffs or cuts threatened by the other parties."
+      },
+      {
+        "policyTitle": "Create New Green Jobs",
+        "policyDescription": "Green Energy Greens will deliver thousands of new jobs in construction, engineering and other high tech sectors."
+      },
+      {
+        "policyTitle": "Cut Trident and ID Cards",
+        "policyDescription": "The Greens propose to stop both ID cards and the costly 'database state' that goes with them."
+      },
+      {
+        "policyTitle": "Tackling Climate Change",
+        "policyDescription": "A practical response to climate change and energy crisis, creating jobs across the economy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Shiona Baird",
+      "otherPartyLeaderCandidate": "Patrick Harvie MSP, Elaine Smith, Labour candidate",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Creating jobs across the economy, delivering thousands of new jobs in construction, engineering and other high tech sectors.",
+      "education": "",
+      "environment": "A practical response to climate change, creating thousands of new jobs in the green energy sector.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The experience of being an MSP is not easily come by and is invaluable to the fine print of politics, especially when it comes to core areas of housing and planning.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Experience of being an MSP, helping in school community councils, and working on our family farm have given me vital skills.",
+    "politicalExperience": [
+      {
+        "role": "MSP",
+        "duration": "8 years",
+        "achievements": "Experience in housing and planning."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0700 722 307",
+      "email": "",
+      "website": "www.scottishgreens.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Shiona Baird campaigning."
+        }
+      ]
+    },
+    "additionalNotes": "If you require a copy of this publication in an alternative format, please get in touch."
+  }
+}
+```

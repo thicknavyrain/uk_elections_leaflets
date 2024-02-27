@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The Lib Dems don't think so",
+        "content": "The Lib Dems will help first-time buyers through 'Rent to Own'. Young people will be able to buy their own home without a deposit. People caught in 'generation rent' will get a chance of home ownership."
+      },
+      {
+        "title": "IS WANTING TO OWN YOUR HOME AN UNREASONABLE DREAM?",
+        "content": ""
+      },
+      {
+        "title": "Back the Lib Dem plan to help first-time buyers",
+        "content": "The Liberal Democrats will help first-time buyers onto the property ladder through their revolutionary 'Rent to Own' scheme. 'Rent to Own' will see first-time buyers steadily build up a share in their home through monthly payments equivalent to their rent until they own the property outright."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Introduce the 'Rent to Own' scheme to enable first-time buyers to purchase a home through monthly payments equivalent to their rent, without needing a deposit, until they own the property outright."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The Lib Dems will help first-time buyers through 'Rent to Own'. Young people will be able to buy their own home without a deposit. People caught in 'generation rent' will get a chance of home ownership.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+      "phone": "",
+      "email": "",
+      "website": "LibDems.org.uk/rent_to_own",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of individuals dining, representing the lifestyle of potential first-time homeowners."
+        },
+        {
+          "caption": "Text image asking if wanting to own a home is an unreasonable dream."
+        },
+        {
+          "caption": "Image of houses, symbolizing homes that could be owned through the 'Rent to Own' scheme."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet encourages readers to back the housing initiative by signing a petition online."
+  }
+}
+```

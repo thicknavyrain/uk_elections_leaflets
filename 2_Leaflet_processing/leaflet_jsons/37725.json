@@ -1,0 +1,119 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Iain McGill",
+	"constituency": "Edinburgh Northern and Leith",
+	"politicalParty": "Scottish Conservatives",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "A Message from Ruth Davidson",
+    	"content": "In support of Iain McGill"
+  	},
+  	{
+    	"title": "We need a strong opposition to keep the SNP in check",
+    	"content": "The SNP's dominance means they've become complacent. And they've already said they will kick start a new drive for independence. So we need a strong opposition. But in nine years, Labour hasn't laid a glove on the SNP. And I just can't see them doing so now when they are riddled with infighting and crippled by weak leadership. But I can see me doing it. And I'm up for the job."
+  	},
+  	{
+    	"title": "The truth is: only the Scottish Conservatives can provide the strong opposition our country needs",
+    	"content": "With opinion polls and newspaper pundits predicting Labour will come third in this election, I know that many people – perhaps for the first time ever – are looking to me and my team to provide the strong opposition our nation needs."
+  	},
+  	{
+    	"title": "Having taken Scotland for granted for too long, Labour are now in a mess and losing support.",
+    	"content": "I know many traditional supporters were alarmed by Labour's decision to drop opposition to the SNP."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Strong Opposition",
+    	"policyDescription": "Provision of a strong Scottish Conservative opposition to hold the SNP to account and to keep them in check."
+  	},
+  	{
+    	"policyTitle": "Health Service",
+    	"policyDescription": "Improving our health service."
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Creating better schools."
+  	},
+  	{
+    	"policyTitle": "Jobs and Economy",
+    	"policyDescription": "Protecting jobs and stopping job losses on our streets."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Iain McGill",
+  	"otherPartyLeaderCandidate": "Kezia Dugdale",
+  	"partyLeader": "Ruth Davidson",
+  	"tacticalSituation": "The leaflet mentions that SNP is set to win, risking a new drive for independence, and that Labour has dropped opposition and are too weak to hold the SNP to account, suggesting a tactical voting consideration for the Scottish Conservatives as the stronger opposition."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Protecting jobs and stopping job losses on our streets.",
+  	"education": "Creating better schools.",
+  	"environment": "",
+  	"governance": "We need a strong opposition to keep the SNP in check.",
+  	"health": "Improving our health service.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "I can see me doing it. And I'm up for the job.",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [
+  	{
+    	"text": "The SNP are set to win, risking a new drive for independence.",
+    	"source": "Sunday Times",
+    	"date": "03/04/2016"
+  	},
+  	{
+    	"text": "SNP to launch a new drive for Britain to break up",
+    	"source": "Mail on Sunday - Scottish Edition",
+    	"date": "03/04/2016"
+  	},
+  	{
+    	"text": "Dugdale says she could back second independence vote.",
+    	"source": "Herald Scotland",
+    	"date": "01/04/2016"
+  	},
+  	{
+    	"text": "Only Ruth Davidson can provide the strong opposition Scotland needs to hold the SNP to account.",
+    	"source": "Scottish Daily Mail",
+    	"date": "03/02/2016"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Image of Ruth Davidson and Iain McGill"
+    	},
+    	{
+      	"caption": "Image of Kezia Dugdale with the statement 'Dugdale says she could back second independence vote.'"
+    	},
+    	{
+      	"caption": "Image of Ruth Davidson with quotes about the need for a strong opposition."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

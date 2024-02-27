@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Horwood",
+    "constituency": "Cheltenham",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 2010",
+    "messages": [
+      {
+        "title": "",
+        "content": "At last, a General Election that offers a chance for real change. In Cheltenham and now all over the country, Nick Clegg and the Liberal Democrats have put the case for cleaning up politics, fairer taxes, real investment in education and a more stable, greener economy – and people are listening. This time we can do things differently - we can have real change with the Liberal Democrats."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer Taxes",
+        "policyDescription": "A Britain where we have fairer taxes - no income tax on the first £10,000 you earn."
+      },
+      {
+        "policyTitle": "Right to Sack Corrupt MPs",
+        "policyDescription": "A Britain where citizens get a fair stint in life. A Britain where people have the right to sack corrupt MPs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin Horwood",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Labour can’t win anyway. There first in a poor third place."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "more stable, greener economy",
+      "education": "real investment in education",
+      "environment": "a more stable, greener economy",
+      "governance": "cleaning up politics",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Over five years as your MP I have worked hard to get the job done and earn the trust of local people that I will defend local services and local jobs.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for Cheltenham",
+        "duration": "since 2005",
+        "achievements": "Worked hard to get the job done and earn the trust of local people that I will defend local services and local jobs."
+      }
+    ],
+    "contactInformation": {
+      "address": "16 Hewlett Road, Cheltenham, Gloucestershire GL52 6AA",
+      "phone": "01242 224889",
+      "email": "martin@martinhorwood.net",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Martin Horwood, Liberal Democrat Parliamentary candidate for Cheltenham"
+        }
+      ]
+    },
+    "additionalNotes": "Labour are out of the race here. On the local council too, it’s a choice between the positive changes being made by the Liberal Democrats or back to the same old Conservatives. So in the local council election, please give your support to my Lib Dem colleague Paul McColl."
+  }
+}
+```

@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr. Neeraj Patil",
+    "constituency": "Putney",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "Working for you",
+        "content": "Only Labour can beat the Tories in Putney."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Our society post-Brexit",
+        "policyDescription": "A vote for Labour is a vote to avoid a Tory hard Brexit and to protect jobs, rights and communities."
+      },
+      {
+        "policyTitle": "Supporting the NHS and Social Care",
+        "policyDescription": "Labour will give the NHS and social care the money they need."
+      },
+      {
+        "policyTitle": "Affordable Homes",
+        "policyDescription": "Labour will invest in homes to rent and buy, building a million new homes in five years."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr. Neeraj Patil",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Only Labour can beat the Tories in Putney."
+    },
+    "issues": {
+      "brexitEurope": "A vote for Labour is a vote to avoid a Tory hard Brexit and to protect jobs, rights and communities.",
+      "economy": "",
+      "education": "",
+      "environment": "Labour will fight for a new approach, and a government that will fight climate change and protect people.",
+      "governance": "",
+      "health": "Our NHS is at breaking point, Labour will give the NHS and social care the money they need.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour will invest in homes to rent and buy, building a million new homes in five years.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I have worked as a doctor for over 20 years. I trained as a consultant at both St George's Hospital and Guy's and Thomas'. I've seen firsthand the effects that this government is having on our NHS. I'll do my utmost to protect our health service.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Free post, 35 Felsham Road, SW15 1AY",
+      "phone": "020 8788 8961",
+      "email": "contact@putneylabour.org.uk",
+      "website": "www.putneylabour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@neerajpatil",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Our NHS is one of our greatest achievements. Safeguard it with.",
+        "source": "Dr. Neeraj Patil",
+        "date": ""
+      },
+      {
+        "text": "The NHS is one of our greatest achievements. Safeguard it with.",
+        "source": "Dr. Neeraj Patil",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dr. Neeraj Patil standing in front of ambulances."
+        },
+        {
+          "caption": "Dr. Neeraj Patil in medical attire with NHS logo."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

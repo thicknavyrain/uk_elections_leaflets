@@ -1,0 +1,73 @@
+{
+  "leaflet": {
+	"candidateName": "Dr Vince Cable",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Working with businesses to create over a million new jobs and over two million new apprenticeships, halving the budget deficit, coping with an ageing population, providing extra money for schools with high numbers of pupils from disadvantaged backgrounds, and taking many part-time and low paid workers out of paying tax altogether."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Dr Vince Cable",
+  	"otherPartyLeaderCandidate": "Liam Byrne",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "The leaflet mentions that Lib Dems have worked to create over a million new jobs and that the budget deficit has halved.",
+  	"education": "Extra money for schools with high numbers of pupils from disadvantaged backgrounds.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "There is still work to be done to get our country back on track. Only by voting for the Liberal Democrats can you make sure Britain has a strong economy and a fairer society.",
+	"politicalExperience": [
+  	{
+    	"role": "Secretary of State for Business, Innovation and Skills",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "London N10 2ED",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "One million new jobs"
+    	},
+		{
+      	"caption": "Two million new apprenticeships"
+    	},
+		{
+      	"caption": "Deficit halved"
+		}
+  	]
+	},
+	"additionalNotes": "The leaflet includes a message about Liam Byrne's note that there is no money left, criticism of the Conservative economic recovery plan, and a reminder of Labour's last period in power resulting in a deregulated banks and a record deficit."
+  }
+}

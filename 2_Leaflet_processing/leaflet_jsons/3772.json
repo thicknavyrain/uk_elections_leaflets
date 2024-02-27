@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Steve Brine",
+    "constituency": "St Bartholomew",
+    "politicalParty": "Conservative",
+    "electionDate": "Spring 2010",
+    "messages": [
+      {
+        "title": "A TIGHT SQUEEZE ON NORTH WALLS",
+        "content": "Several residents in the area have been concerned about the footpaths on North Walls. Prospective Conservative MP Steve Brine and local campaigner Paul Wing discuss the narrow pavements."
+      },
+      {
+        "title": "CLOSURE OF ANDOVER ROAD BY NETWORK RAIL",
+        "content": "Network Rail had a huge response to their consultation regarding the closure of Andover Road in Winchester as part of Network Rail's Southampton to Waterloo Track Enhancement Project. The road will be closed at the bridge from 12 April through 12 July."
+      },
+      {
+        "title": "CAMERON FOCUS ON LOCAL JOBS",
+        "content": "Prospective MP Steve Brine welcomed David Cameron to local firm New Career Skills. See story on www.stevebrine.com"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Steve Brine",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "ONLY THE CONSERVATIVES CAN BEAT GORDON BROWN"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Several residents in the area have been concerned about the footpaths on North Walls.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01962 791110 / 01962 626903",
+      "email": "steve@stevebrine.com",
+      "website": "www.stevebrine.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Steve Brine with David Cameron focusing on local jobs"
+        },
+        {
+          "caption": "Andover Road bridge repairs are coming this Spring."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,122 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Chipping Barnet",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A future fair for all",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "The economy",
+        "policyDescription": "Labour has saved hundreds of jobs and homes, protected public services during the recession, and claims the Tories would put the deficit before the economy. Labour guarantees young people training or a job."
+      },
+      {
+        "policyTitle": "Local governance",
+        "policyDescription": "Complains about 'easy council' in Barnet, where local Tories want to cut services to the most basic level and raise charges for those who can afford it. Claims the Tories have abandoned plans to remove notables."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Labour opposes Conservative plans to cut rights to see a cancer specialist within two weeks and GP in the evenings and weekends, and the right to get an operation in a short possible time."
+      },
+      {
+        "policyTitle": "Tax and family protection",
+        "policyDescription": "Labour has taxed bankers' bonuses and introduced a 50% tax rate for earnings over £150,000 a year. It criticizes Tory policies that would hit families hard, like cutting child tax credits, Trust funds, Children’s Centres and school budgets."
+      },
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Labour has introduced the first legal targets on carbon emissions and plans more green jobs. In Barnet, they want more recycling, better cycling provision, and a 'green revolution' in public services."
+      },
+	  {
+        "policyTitle": "Crime",
+        "policyDescription": "Labour introduced policing on the ground in Safer Neighbourhood Teams, and while crime rates have fallen, significant crimes still pose a tragedy nationally and locally."
+      },
+	  {
+        "policyTitle": "MP expenses",
+        "policyDescription": "Labour supports tough new Parliamentary Standards Authority and criticizes the current MP for claiming public money for a second home near Westminster."
+      },
+	  {
+        "policyTitle": "Voters' trust",
+        "policyDescription": "Labour believes politicians need to do more than ever to regain the trust of voters and has challenged the current MP to a series of public debates before the election."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Theresa Villiers MP",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour has saved hundreds of jobs and homes, protected public services during the recession, and would put young people training or a job first.",
+      "education": "",
+      "environment": "Labour introduced the first legal targets on carbon emissions, planning for 400,000 green jobs, promoting recycling and cycling, and a 'green revolution' in public services.",
+      "governance": "Labour criticizes the 'easy council' in Barnet and the local Tories for wanting to cut services to the most basic level.",
+      "health": "Labour opposes Tory plans to cut NHS guarantees and aims to maintain the right to see specialists within a short period.",
+      "immigration": "",
+      "socialWelfare": "Labour has taxed bankers' bonuses, introduced a 50% tax rate on high incomes, and criticizes Tory policies that would impact families, citing issues with child tax credits, Trust funds, and school budget cuts.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Fighting Climate Change."
+        },
+        {
+          "caption": "Falling Crime."
+        },
+        {
+          "caption": "The Scandal of MPs' Expenses."
+        },
+        {
+          "caption": "Debating the Issues."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

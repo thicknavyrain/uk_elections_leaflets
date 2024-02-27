@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Michelle Vacciana",
+    "constituency": "Nottingham East",
+    "politicalParty": "Green Party",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "Michelle’s the Local Choice!",
+        "content": "Michelle Vacciana, the Green Party candidate, said: 'I am not a politician, but a member of the public who has stepped forwards during this critical time to represent the communities of Nottingham East where I am also a resident.'"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Climate Emergency",
+        "policyDescription": "Tackling the Climate Emergency, reform our democracy, and give people the final say on any Brexit deal with a referendum in which the Greens will campaign to Remain in the European Union."
+      },
+      {
+        "policyTitle": "Youth Engagement",
+        "policyDescription": "Addressing the closure of most youth centres and minimal green spaces for play and social activity to provide healthy interaction and safe and supervised places to go outside of the school day."
+      }
+    ],
+    "mentions": {
+      "candidate": "Michelle Vacciana",
+      "otherPartyLeaderCandidate": "Labour Party",
+      "partyLeader": "",
+      "tacticalSituation": "Introduce Proportional Representation voting system every vote counts and tactical voting is a thing of the past"
+    },
+    "issues": {
+      "brexitEurope": "Give people the final say on any Brexit deal with a referendum in which the Greens will campaign to Remain in the European Union.",
+      "economy": "£100bn per year investment to radically reshape our economy for net-zero carbon by 2030.",
+      "education": "",
+      "environment": "Tackling the Climate Emergency with a £100bn per year investment to radically reshape our economy for net-zero carbon by 2030.",
+      "governance": "Reform our democracy by introducing Proportional Representation voting system.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Addressing the closure of most youth centres and minimal green spaces for play and social activity.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am not a politician, but a member of the public who has stepped forward during this critical time to represent the communities of Nottingham East where I am also a resident.",
+    "politicalExperience": [
+      {
+        "role": "Local Youth Worker",
+        "duration": "Over 10 years",
+        "achievements": "Worked in schools for over 10 years"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Michelle Vacciana, your local Green candidate for MP."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tommy Sheppard",
+    "constituency": "Edinburgh East",
+    "politicalParty": "SNP",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "Re-elect Tommy Sheppard",
+        "content": "Tommy Sheppard argues for re-election to ensure Brexit does not harm the rights and services of the future of Scotland. A Tory Brexit implies longer NHS wait times and weaker protection for our environment and wants SNP to stop Brexit and put Scotland's future in its own hands."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "SNP will fight for Scotland's right to choose its future and oppose indefinite retention in the UK due to Tory Brexit harming the NHS, worker's rights, and environmental protection."
+      },
+      {
+        "policyTitle": "Climate Emergency",
+        "policyDescription": "Tommy Sheppard aims to tackle climate emergency, with support for the SNP's increased action, fair tax system, and public services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tommy Sheppard",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Tommy Sheppard states that only the SNP can keep Scotland's future in its own hands and ensure that they do not have to accept a Brexit deal they did not vote for."
+    },
+    "issues": {
+      "brexitEurope": "Tommy Sheppard emphasizes that a Tory Brexit will damage Scotland, leading to longer NHS wait times, and weaker environmental protection.",
+      "economy": "The SNP plans to fight poverty and tackle climate change rather than focus on Brexit.",
+      "education": "",
+      "environment": "The SNP is committed to tackling the climate emergency and was supportive of recent climate protests, and Tommy Sheppard personally fought against and won against fracking.",
+      "governance": "Tommy Sheppard discusses the choices at Westminster have left people less empowered and wants decisions for Scotland to be made by the people of Scotland in their own parliament.",
+      "health": "Worries about longer NHS waiting times as a potential issue post-Brexit.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Tommy Sheppard has experience as an effective and powerful local advocate and has previously worked at Westminster for Edinburgh East.",
+    "politicalExperience": [
+      {
+        "role": "Parliamentary Candidate",
+        "duration": "Unknown",
+        "achievements": "Fought against fracking and won. Supports recent climate protests."
+      }
+    ],
+    "contactInformation": {
+      "address": "94B Buccleuch Street, Edinburgh",
+      "phone": "",
+      "email": "tommy.sheppard.mp@parliament.uk",
+      "website": "www.tommysheppardmp.scot",
+      "socialMedia": {
+        "facebook": "/TommySheppardSNP",
+        "twitter": "@TommySheppard",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+    ],
+    "quotes": [
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Tommy Sheppard with his partner Kate and their dog, Corbyn."
+        },
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet also includes personal endorsements from local residents supporting Tommy Sheppard for various reasons including trust, commitment to work hard, and advocacy for education, local and national issues."
+  }
+}
+```

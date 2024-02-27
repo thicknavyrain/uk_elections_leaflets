@@ -1,0 +1,122 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Why I'm voting Green: Thoughts of a first-time voter",
+        "content": "In the last twelve months, opinion polls have continuously put the Green Party at the top of the list of parties for the 18-24 age group. Amy Wright, a first-time voter, shares her reasons for voting Green, highlighting values alignment, family, and the party being a serious contender amongst young voters."
+      },
+      {
+        "title": "Green Surge in the East",
+        "content": "Membership of the Green Party in Britain has started to surge since the confrontation with the EU. The membership in the East has alone grown by over 600%. The growth is particularly notable in constituencies like Broxbourne and Harlow where it has quadrupled, and in areas such as Stevenage and Chelmsford where the party stands a real chance to influence."
+      },
+      {
+        "title": "Greens Offer Positive Vision for a Fairer Future",
+        "content": "The Green Party has a vision for a fairer and more sustainable society, emphasizing the need for better public transport, more affordable housing, a health environment, better public services, and a NHS in public hands."
+      },
+      {
+        "title": "Green Party's Largest Campaign",
+        "content": "The Green Party will run its biggest ever election campaign this coming General Election, with a target to stand in 75% of constituencies around England and looking for candidates in Hertford, South Cambridgeshire, Milton Keynes, and Essex, with an emphasis on North East Hertfordshire."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Better public transport",
+        "policyDescription": "The Green Party wants to institute better public transport."
+      },
+      {
+        "policyTitle": "More affordable housing",
+        "policyDescription": "The party advocates for more affordable housing to improve livelihoods."
+      },
+      {
+        "policyTitle": "A healthier environment",
+        "policyDescription": "Commitment to a healthier environment is a key policy."
+      },
+      {
+        "policyTitle": "A better NHS in public hands",
+        "policyDescription": "They aim to ensure that the NHS is kept in public hands."
+      },
+      {
+        "policyTitle": "Better public services",
+        "policyDescription": "There is a goal to provide better public services under the Green Party's agenda."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Membership of the Green Party in Britain has started to surge since the confrontation with the EU.",
+      "economy": "",
+      "education": "",
+      "environment": "A healthier environment is a key issue addressed.",
+      "governance": "",
+      "health": "A better NHS in public hands is one of the focus areas.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The party advocates for more affordable housing to improve livelihoods.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Eastern Region Green Party, 31 Kensington Place, Norwich, NR1 3JE",
+      "phone": "",
+      "email": "",
+      "website": "www.eastern.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The surge in membership has also been echoed in the polls, with the Greens currently polling at record levels and outpolling both of the Lib Dems.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Voting Intentions of 18-24 year olds"
+        },
+        {
+          "caption": "Surge in Green Party Membership in the East"
+        },
+        {
+          "caption": "Green Party's GreenView Newsletter Cover"
+        },
+        {
+          "caption": "Green Policies Among the Most Popular in Britain"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jim Cunningham & David Welsh",
+    "constituency": "Coventry South",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "A message from David",
+        "content": "I've been working with residents on local issues to improve St. Michael's. I want to continue this as your councillor and ask for your support on Thursday 6th May."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Save the Greenbelt",
+        "policyDescription": "Labour will oppose any attempts to build on Greenbelt land"
+      },
+      {
+        "policyTitle": "Repairing Coventry's Roads",
+        "policyDescription": "Labour will start a programme of repairs to residential roads on a worst first basis"
+      },
+      {
+        "policyTitle": "Tackle Crime and Anti-Social Behaviour",
+        "policyDescription": "Labour will improve the Out-Of-Hours service in Coventry and urge Police and Council to use the new powers they have been given"
+      }
+    ],
+    "mentions": {
+      "candidate": "Jim Cunningham & David Welsh",
+      "otherPartyLeaderCandidate": "The Conservative Council is committed to build on the Greenbelt",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour will reduce the deficit and protect front line services",
+      "education": "",
+      "environment": "Labour will oppose any attempts to build on Greenbelt land",
+      "governance": "Despite the recession crime is falling and where problems remain tough new powers are being put in place to support the community",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Support people in their retirement",
+      "housing": [
+        {
+          "content": "Labour will oppose any attempts to build on Greenbelt land",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Coventry South Labour Party, FREEPOST NAT 23005, Coventry, CV5 6BR",
+      "phone": "0247 625 2132",
+      "email": "cunninghamd4@coventrysouth.co.uk",
+      "website": "www.labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jim Cunningham at Canley Children's Centre"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

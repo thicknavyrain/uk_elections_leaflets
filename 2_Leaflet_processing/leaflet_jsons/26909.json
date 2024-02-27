@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Pat McCarthy",
+    "constituency": "The Wrekin",
+    "politicalParty": "Green Party",
+    "electionDate": "June 8th",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A" 
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Introducing your local Green Party candidates Pat McCarthy in The Wrekin and Luke Shirley in Telford."
+        }
+      ]
+    },
+    "additionalNotes": "Election communication"
+  }
+}
+```

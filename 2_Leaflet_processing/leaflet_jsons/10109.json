@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ian Smith",
+    "constituency": "West Suffolk",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Straight talking. Vote UKIP",
+        "content": "I have lived in West Suffolk with my family for 20 years. I am not a career politician but I am your local candidate and have a vested interest in the area we live in."
+      },
+      {
+        "title": "My local issues are",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Leave the EU",
+        "policyDescription": "Leave the EU and use the resulting £53.8 billion in direct costs to increase pensions and reduce taxes for those in work."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Return all illegal immigrants to their countries of origin."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ian Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Leave the EU and use the resulting £53.8 billion in direct costs to increase pensions and reduce taxes for those in work.",
+      "economy": "Use the resulting £53.8 billion from leaving the EU to increase pensions and reduce taxes for those in work.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "Return all illegal immigrants to their countries of origin.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ian Smith - UKIP Candidate for West Suffolk"
+        }
+      ]
+    },
+    "additionalNotes": "This leaflet emphasizes the importance of voting and mentions that nearly 40% of people who felt unable to vote at the last general election want a real change in British politics, promising independence from the EU."
+  }
+}
+```

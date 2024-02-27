@@ -1,0 +1,62 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Fiona SMITH",
+    "constituency": "Hertsmere",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "",
+        "content": "I am proud to be standing as Labour’s candidate in Hertsmere. I have served my country in the police and the RAF and now my wish is to serve the people of Hertsmere as your MP."
+      },
+      {
+        "title": "The choice this June is clear:",
+        "content": "Between May's mandate for a hard Brexit, or a pragmatic negotiation with our European neighbours.\nBetween cuts that hit you and your family, or a fair deal and a higher minimum wage.\nBetween rising class sizes and cash-strapped schools, or a fully funded education sector.\nBetween a continued crisis in the NHS or a joined up health and care service which gives equal priority to mental health.\nBetween a regressive, ruthless Conservative government, or a progressive Labour government."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Fiona Smith",
+      "otherPartyLeaderCandidate": "May",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Between May's mandate for a hard Brexit, or a pragmatic negotiation with our European neighbours.",
+      "economy": "Between cuts that hit you and your family, or a fair deal and a higher minimum wage.",
+      "education": "Between rising class sizes and cash-strapped schools, or a fully funded education sector.",
+      "environment": "",
+      "governance": "",
+      "health": "Between a continued crisis in the NHS or a joined up health and care service which gives equal priority to mental health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "I am proud to be standing as Labour’s candidate in Hertsmere. I have served my country in the police and the RAF and now my wish is to serve the people of Hertsmere as your MP.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Candidate Fiona Smith on a Labour Party leaflet."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

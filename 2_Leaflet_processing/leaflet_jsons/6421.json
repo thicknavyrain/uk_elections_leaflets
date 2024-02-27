@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Horwood",
+    "constituency": "Cheltenham",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Martin Horwood: our champion for Cheltenham",
+        "content": "Martin Horwood has helped save the St Paul’s maternity unit at Cheltenham hospital from Labour plans to privatise the NHS or to stop any Conservative plans to introduce prescription charges for basic treatments."
+      },
+      {
+        "title": "Labour failure",
+        "content": "Gordon Brown’s Labour party have proved they cannot be trusted - on the Iraq war, tuition fees and doubling taxes for the least well off. Brown’s refusal to take responsibility for his part in causing the credit crunch typifies a lifetime of act first and think later. Labour have finished in third place in Cheltenham at every election for over 100 years. They are out of the race here and more and more Labour supporters are backing Martin Horwood this time."
+      },
+      {
+        "title": "Conservative betrayal",
+        "content": "Conservative MPs, including the Tewkesbury MP failed to vote on crucial changes to the Floods Bill - the changes would have allowed people to get insurance at a reasonable price and helped councils prevent building new houses in flood risk areas. The Conservatives are funded by Lord Ashcroft who is a billionaire based in a central American tax haven. Their candidate in Cheltenham stood in Hastings and Rye at the last two elections, and applied to stand there again."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS and Health",
+        "policyDescription": "Opposes privatization of the NHS and Conservative plans to introduce prescription charges for basic treatments."
+      },
+      {
+        "policyTitle": "Local Policing",
+        "policyDescription": "Opposes Labour plans to scrap local police forces and have one huge South West force."
+      },
+      {
+        "policyTitle": "Flooding",
+        "policyDescription": "Plans to give the Floods Bill teeth and to make sure people can afford insurance against flooding as well as to allow local councils to prevent building on flood risk areas."
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin Horwood helped save the St Paul’s maternity unit at Cheltenham hospital from Labour plans to privatise the NHS.",
+      "otherPartyLeaderCandidate": "Gordon Brown; Conservative MPs, including the Tewkesbury MP failed to vote on crucial changes to the Floods Bill.",
+      "partyLeader": "",
+      "tacticalSituation": "Labour have finished in third place in Cheltenham at every election for over 100 years. They are out of the race here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Gordon Brown’s Labour party... credit crunch typifies a lifetime of act first and think later.",
+      "education": "on the Iraq war, tuition fees...",
+      "environment": "The Conservatives are funded by Lord Ashcroft who is a billionaire based in a central American tax haven.",
+      "governance": "",
+      "health": "Martin Horwood... plans to privatise the NHS or to stop any Conservative plans.",
+      "immigration": "",
+      "socialWelfare": "Doubling taxes for the least well off.",
+      "housing": [
+        {
+          "content": "Conservative MPs... failed to vote on crucial changes to the Floods Bill - the changes would have allowed people to get insurance at a reasonable price and helped councils prevent building new houses in flood risk areas.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I want us to do even more to encourage the risk takers.",
+        "source": "Gordon Brown's speech to City of London bankers, June 2004",
+        "date": "June 2004"
+      },
+      {
+        "text": "You can bet your last penny Ashcroft isn’t spending to elect a Government that would force the rich to pay fairer taxes.",
+        "source": "Daily Mirror, Nov 2009",
+        "date": "Nov 2009"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Martin Horwood successfully campaigned against Labour plans to scrap our local police force and have one huge South West force."
+        },
+        {
+          "caption": "Martin Horwood: our champion for Cheltenham, giving a clean bill of health to his expenses and was told he has \"nothing to pay and no questions to answer.\""
+        }
+      ]
+    },
+    "additionalNotes": "The Lib Dems alone took a party line for openness. - The Observer, May 2009"
+  }
+}
+```

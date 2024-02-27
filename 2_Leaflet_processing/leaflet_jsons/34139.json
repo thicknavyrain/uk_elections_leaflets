@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "DARREN MOORE",
+    "constituency": "EALING SOUTHALL",
+    "politicalParty": "Green Party",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Europe",
+        "policyDescription": "YES to Europe"
+      },
+      {
+        "policyTitle": "Climate",
+        "policyDescription": "NO to Climate Chaos"
+      }
+    ],
+    "mentions": {
+      "candidate": "DARREN MOORE",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "YES to Europe",
+      "economy": "",
+      "education": "",
+      "environment": "NO to Climate Chaos",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Darren Moore standing in a field with trees in the background. The text reads 'YOUR GREEN PARTY CANDIDATE DARREN MOORE EALING SOUTHALL YES TO EUROPE. NO TO CLIMATE CHAOS'"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by Mark Daniel on behalf of the Green Party, 157 Tentelow Lane Southall Middlesex UB2 4LP. Printed on recycled paper by Solopress, 9 Stock Road, Southend-on-Sea, SS2 5QF."
+  }
+}
+```

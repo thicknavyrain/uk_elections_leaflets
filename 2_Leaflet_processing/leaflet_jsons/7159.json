@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "5 MORE YEARS OF GORDON BROWN OR CHANGE WITH THE CONSERVATIVES",
+        "content": "This General Election will be the most important for a generation. Our country has huge debts and problems at our workplace. Broken by crime and irresponsible behaviour. The political system is in a mess. We can’t go on like this."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "BACKING OUR NHS",
+        "policyDescription": "Only Conservatives have fought to protect NHS funding. Only Welsh Conservative ever committed to preserving front line services by increasing spending every year and stopping unnecessary waste such as that spent on management consultants."
+      },
+      {
+        "policyTitle": "WORKING TO RAISE STANDARDS IN SCHOOLS",
+        "policyDescription": "Under Labour, children in Wales fall further behind England in school exams. The Welsh Conservatives want to give back responsibility of our exam system, to the head teachers and bursar directors of interactive work devices, smaller schools where, once again, teachers know the name of every child."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Conservatives will cut Gordon Brown’s waste and debt to get the economy moving. We will avoid Labour’s job tax which will kill the recovery and instead support families, back people who do the right thing and make sure pensioners are supported.",
+      "education": "Under Labour, children in Wales fall further behind England in school exams. The Welsh Conservatives want to give back responsibility of our exam system, to the head teachers and bursar directors of interactive work devices, smaller schools where, once again, teachers know the name of every child.",
+      "environment": "",
+      "governance": "We need big changes in our political system. We’ve led the way on cleaning up MPs’ expenses and we will cut the cost of Parliament. We will give you more control over your life.",
+      "health": "Only Conservatives have fought to protect NHS funding. Only Welsh Conservative ever committed to preserving front line services by increasing spending every year and stopping unnecessary waste such as that spent on management consultants.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+        "address": "",
+        "phone": "",
+        "email": "",
+        "website": "",
+        "socialMedia": {
+          "facebook": "",
+          "twitter": "",
+          "instagram": "",
+          "linkedin": ""
+        }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "So - the choice? Five more years of Gordon Brown’s tired government or the change this country needs with the Conservatives.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "BACKING OUR NHS"
+        },
+        {
+          "caption": "WORKING TO RAISE STANDARDS IN SCHOOLS"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

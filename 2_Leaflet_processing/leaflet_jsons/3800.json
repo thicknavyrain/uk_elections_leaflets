@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "The leaflet mentions that Labour guarantees if your GP suspects you have cancer you have a right to see a specialist within two weeks and the right to be treated within 18 weeks."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Mentions early cancer diagnosis and Labour's two-week specialist appointment guarantee.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Diane Dwelly, breast cancer survivor",
+        "endorsement": "Expresses gratitude towards the healthcare system for early detection and treatment of her pre-cancerous cells, and highlights Labour's role."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I was devastated when a scan showed that I had pre-cancerous cells in one of my breasts - it's the sort of thing you think will never happen to you. It felt like my whole life just stopped.",
+        "source": "Diane Dwelly, breast cancer survivor",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A photo of Diane Dwelly with a quote about her experience with pre-cancerous cells in her breast."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

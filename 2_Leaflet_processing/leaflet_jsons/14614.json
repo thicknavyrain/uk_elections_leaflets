@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tam Langley",
+    "constituency": "Lewisham",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "Tam’s crime cutting plan",
+        "content": "Liberal Democrats reveal plans to cut crime in Lewisham. Tam Langley, who has worked with some of Britain's leading experts on cutting crime, has revealed her plans to cut crime if she is elected to Parliament on 6th May. Her key policies are: 600 extra police on the beat across London, paid for by scrapping Labour's compulsory ID card scheme. These police would make an estimated 3,985 extra arrests each year. Getting Lewisham hospital to share information on the time and places of stabbings with the police – a scheme that has led to a 40% fall in knife crime elsewhere. Making sure that prison cuts reoffending rather than being a training place for criminals."
+      },
+      {
+      	"title": "Labour’s failure on crime",
+      	"content": "The Labour party say they are 'proud' of their record on crime in Lewisham, but local residents are concerned by their failures: One in five criminals caught with a gun or a knife is left off with a caution. Only one crime in 100 ends up with a criminal being punished in court. Nine in ten young men sent to prison end up committing more crimes afterwards."
+      },
+      {
+      	"title": "Tam’s record on cutting crime",
+      	"content": "Tam has been actively involved in cutting crime since she was a teenager. She represented other young people at a national crime prevention conference. Later on, she managed holiday schemes to keep kids out of trouble on some of Britain’s toughest estates. More recently, she worked with some of Britain’s leading experts on the 'Rethinking crime and punishment' project."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Crime Reduction",
+        "policyDescription": "600 extra police on the beat across London; sharing information on stabbings between Lewisham hospital and police; ensuring prisons reduce reoffending."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tam Langley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "It’s crucial that we don’t give in to fear of crime. But people locally are telling me every day that they are worried about the crimes they see on our streets. That’s why we need smart action to cut crime.",
+    "politicalExperience": [
+      {
+        "role": "Crime Prevention Representative",
+        "duration": "",
+        "achievements": "Participated in a national crime prevention conference; managed holiday schemes on tough estates; worked on 'Rethinking crime and punishment' project."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "tam@lewishamlibdems.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "It’s crucial that we don’t give in to fear of crime. But people locally are telling me every day that they are worried about the crimes they see on our streets. That’s why we need smart action to cut crime.",
+        "source": "Tam Langley",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tam Langley is working to cut crime in Lewisham"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

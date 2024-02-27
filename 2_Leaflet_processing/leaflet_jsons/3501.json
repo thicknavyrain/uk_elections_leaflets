@@ -1,0 +1,73 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "More gloom with Labour and the Conservatives",
+        "content": "Already hiked taxes for lowest paid workers and pensioners. Tax cuts just for millionaires with the Conservatives. The Conservatives and Labour are both planning to raise VAT as high as 20 per cent."
+      },
+      {
+        "title": "IT'S A TWO HORSE RACE!",
+        "content": "The Conservatives can't win in many parts of Britain. Only the Liberal Democrats is between a Lib Dem and a Labour MP. Only the Liberal Democrats will deliver real change and fairness."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "Gordon Brown, David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "The Conservatives can't win in many parts of Britain. Only the Liberal Democrats is between a Lib Dem and Labour MP."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Already hiked taxes for lowest paid workers and pensioners. Tax cuts just for millionaires with the Conservatives. The Conservatives and Labour are both planning to raise VAT as high as 20 per cent.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Cowley Street, London, SW1P 3NB",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "More gloom with Labour and the Conservatives"
+        },
+        {
+          "caption": "IT'S A TWO HORSE RACE!"
+        },
+        {
+          "caption": "Who will deliver the change we need on tax?"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

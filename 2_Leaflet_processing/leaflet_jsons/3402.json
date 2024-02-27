@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Nicholson",
+    "constituency": "",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "The Liberal Democrats stand for building a fairer society. The Liberal Democrats have set out four steps to a fairer Britain."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Under our plans, you will pay no tax on the first 10,000 pounds you earn."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Cutting class sizes and abolishing tuition fees."
+      },
+      {
+        "policyTitle": "Jobs and Environment",
+        "policyDescription": "Making Britain greener through investment in public transport, renewable energy and more energy efficient homes."
+      },
+      {
+        "policyTitle": "Politics",
+        "policyDescription": "A fairer voting system, more accountable politicians and no more corrupt MPs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Nicholson",
+      "otherPartyLeaderCandidate": "Gordon Brown and Labour",
+      "partyLeader": "",
+      "tacticalSituation": "The election here will be very close between myself and the Labour candidate. The Conservatives are in third place in this seat and can't win here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Cutting class sizes and abolishing tuition fees.",
+      "environment": "Making Britain greener through investment in public transport, renewable energy and more energy efficient homes.",
+      "governance": "A fairer voting system, more accountable politicians and no more corrupt MPs.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Unit 6, Hermes House, 59 Josephine Avenue, London SW2 2JZ",
+      "phone": "020-8671 0500",
+      "email": "Chris@ChrisNicholson.org.uk",
+      "website": "www.StreathamLibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet image with Chris Nicholson's photo and Liberal Democrat campaign information."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

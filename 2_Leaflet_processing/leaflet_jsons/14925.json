@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jason Hargreaves",
+    "constituency": "Brentford and Isleworth",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Straight talking. Vote UKIP",
+        "content": "People of this constituency - people of this country have been let down by the 'professional' politicians who are supposed to represent them. Millions of British people face the prospect of long-term unemployment while others find it difficult to access the public services paid for by their taxes."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Priority needs to be given to UK citizens first, not only in the job market, but also when accessing public services including the NHS, schools, housing benefits, and school places."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Roll back the nanny state, stop the increasing interference in our everyday lives, including ending in family life and education, reducing fines and penalties, abolishing the national ID card and curbing CCTV in public, and smashing unnecessary rules that tie up businesses."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jason Hargreaves",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Say NO to wasting £45 million a day in Brussels",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Roll back the nanny state, stop the increasing interference in our everyday lives, including ending in family life and education, reducing fines and penalties, abolishing the national ID card and curbing CCTV in public, and smashing unnecessary rules that tie up businesses.",
+      "health": "Priority needs to be given to UK citizens first, ... including the NHS...",
+      "immigration": "Priority needs to be given to UK citizens first, not only in the job market...",
+      "socialWelfare": "Priority needs to be given to UK citizens first, ... including ... housing benefits, and school places.",
+      "housing": [
+        {
+          "content": "Priority needs to be given to UK citizens first, ... including ... housing benefits...",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet front with candidate Jason Hargreaves's message, key local issues, VOTE UKIP slogan."
+        },
+        {
+          "caption": "Leaflet back with the messages to say NO to mass immigration, YES to referendums on all major issues, NO to wasting money in Brussels, and urging to VOTE UKIP."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

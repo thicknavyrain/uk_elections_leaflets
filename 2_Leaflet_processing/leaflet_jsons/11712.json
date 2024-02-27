@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Geoffrey Cox",
+    "constituency": "Torridge and West Devon",
+    "politicalParty": "Conservative",
+    "electionDate": "2010-04-20",
+    "messages": [
+      {
+        "title": "RE-ELECT GEOFFREY COX SERVING OUR COMMUNITY",
+        "content": "Dear Postal Voter, Your postal vote ballot paper will arrive shortly (or you may already have it) and you will have the opportunity to vote for the change that Britain desperately needs. Britain faces a clear choice: five more years of Gordon Brown, or change with the Conservatives."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Act now on debt to get the economy moving. We will deal with the deficit more quickly than Labour so that mortgage rates stay lower for longer with the Conservatives."
+      },
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Stop Labour's tax on working people. By cutting waste in Government. As a result, even that well off working people will be better off than under Labour."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Back the NHS. We will increase spending on health every year, and make NHS work for patients not managers."
+      },
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "Ensure there is a decent pension for all. We will re-link the basic state pension to earnings and give pensioners more to help with their bills, taking action to freeze council tax and cut fuel bills, while keeping existing benefits."
+      }
+    ],
+    "mentions": {
+      "candidate": "Geoffrey Cox",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Act now on debt to get the economy moving. We will deal with the deficit more quickly than Labour so that mortgage rates stay lower for longer with the Conservatives.",
+      "education": "Raise standards in schools. We will give teachers the power to restore discipline, the freedom to teach and create new smaller schools.",
+      "environment": "",
+      "governance": "Change politics. We will reduce the number of MPs, cut Whitehall and quangos by a third, and let taxpayers see where their money is being spent.",
+      "health": "Back the NHS. We will increase spending on health every year, and make NHS work for patients not managers.",
+      "immigration": "",
+      "socialWelfare": "Ensure there is a decent pension for all. We will re-link the basic state pension to earnings and give pensioners more to help with their bills, taking action to freeze council tax and cut fuel bills, while keeping existing benefits.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Conservative Parliamentary Candidate for Torridge and West Devon",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "3 Fry Street, Holsworthy, Devon, EX22 6DY",
+      "phone": "01409 253941",
+      "email": "tellgeoffrey@tellgeoffrey.co.uk",
+      "website": "www.geoffreycox.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A photo of Geoffrey Cox with constituents."
+        }
+      ]
+    },
+    "additionalNotes": "After nearly 13 years of Labour Government almost five million people are out of work benefits, government debt is growing by nearly £20 million every hour, the Government is spending more on debt interest than on educating our children, over a million violent crimes were recorded last year and the poorest families are paying a higher share of their income in tax than anyone else."
+  }
+}
+```

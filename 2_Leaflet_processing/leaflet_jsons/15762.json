@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew George",
+    "constituency": "Cornwall",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "DELIVERING FOR US",
+        "content": "Andrew and the Liberal Democrats get results: Secured an £800 income tax cut for 22,000 lowest workers - taken the poorest out of income tax altogether. Helped create nearly 3,000 local new jobs. Leads the campaign to scrap the Tory 'Bedroom Tax'. Increased the Basic State Pension. Leads the campaign against treating Cornwall as 'developers' paradise'. Led the Fair Fuel campaign. Won 5p per litre road duty cut for the Scillies, now pressing to extend this to rural Cornwall. Stopped Tory plans to pay Cornish workers less. Leads the campaign to put 'patients before profit' in the NHS. Successfully campaigned to promote fair trade for farmers and growers."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Income Tax Cut",
+        "policyDescription": "Secured an £800 income tax cut for 22,000 lowest workers, taking the poorest out of income tax altogether."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Helped create nearly 3,000 local new jobs."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Leads the campaign to scrap the Tory 'Bedroom Tax'."
+      },
+      {
+        "policyTitle": "State Pension",
+        "policyDescription": "Increased the Basic State Pension."
+      },
+      {
+        "policyTitle": "Developers' Paradise",
+        "policyDescription": "Leads the campaign against treating Cornwall as 'developers' paradise'."
+      },
+      {
+        "policyTitle": "Fair Fuel Campaign",
+        "policyDescription": "Led the Fair Fuel campaign, securing a 5p per litre road duty cut for the Scillies and working to extend this to rural Cornwall."
+      },
+      {
+        "policyTitle": "Fair Wages",
+        "policyDescription": "Stopped Tory plans to pay Cornish workers less."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Leads the campaign to put 'patients before profit' in the NHS and successfully campaigned to promote fair trade for farmers and growers."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andrew George",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Leads the campaign to put 'patients before profit' in the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Leads the campaign to scrap the Tory 'Bedroom Tax'.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andrew George with community leaders"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet outlines various achievements and commitments, focusing on community benefits and opposition to Conservative policies."
+  }
+}
+```

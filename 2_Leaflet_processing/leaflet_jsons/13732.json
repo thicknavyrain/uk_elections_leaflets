@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew Judge",
+    "constituency": "Wimbledon",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Why I'm Voting For Andrew",
+        "content": "Andrew would make a brilliant MP for Wimbledon. He understands local issues and takes time to talk and help residents. With his passion for environmental issues I think he'd deal with the global challenges that we face."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Promoting Green Policies",
+        "policyDescription": "Ensure streets are cleaned properly, parks improved, and new 'Merton Rule' to win national awards, requiring renewable energy in new non-residential buildings."
+      },
+      {
+        "policyTitle": "Having The Best Local Schools",
+        "policyDescription": "Change to a 2 tier system of primaries and secondaries with unprecedented investment in school buildings and sports facilities, decreasing overcrowded primary schools."
+      },
+      {
+        "policyTitle": "Keeping Us Safe",
+        "policyDescription": "Lobby for a dedicated police team in every neighbourhood with a new police office, stronger licensing policy that restricts introduction of new council tax funded services to tackle anti-social behaviour."
+      },
+      {
+        "policyTitle": "Systemic Reform Of Our Political System",
+        "policyDescription": "Promote thorough reform to ensure that politics is more democratic and accountable."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andrew Judge",
+      "otherPartyLeaderCandidate": "Barry Roberts",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Change to a 2 tier system of primaries and secondaries with unprecedented investment in school buildings and sports facilities.",
+      "environment": "Ensure streets are cleaned properly, parks improved, and new 'Merton Rule' to win national awards, requiring renewable energy in new non-residential buildings.",
+      "governance": "Promote thorough reform to ensure that politics is more democratic and accountable.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "As your MP, I will build my politics around your views, concerns and aspirations. This is obviously a difficult time, as we face the challenges of global recession, population increase and climate change. At the same time our political system has been found wanting. I believe that by acting together and being prepared to change the way things are done we can achieve much help and ensure a life of security and equality for succeeding generations.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "267 The Broadway Wimbledon SW19 1SD",
+      "phone": "020 8540 5151",
+      "email": "wimbledonlabour@gmail.com",
+      "website": "www.andrewforwimbledon.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@wimbledonlabour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Barry Roberts",
+        "endorsement": "Andrew would make a brilliant MP for Wimbledon. He understands local issues and takes time to talk and help residents. With his passion for environmental issues I think he'd deal with the global challenges that we face."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andrew and local supporters of a fairer and greener Wimbledon."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

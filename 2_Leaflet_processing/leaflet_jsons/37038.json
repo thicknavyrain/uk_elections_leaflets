@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stephen Curran",
+    "constituency": "Glasgow Southside",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Stop the SNP",
+        "content": "Ripping-off Glasgow"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "Freeze the council tax for the next two years"
+      },
+      {
+        "policyTitle": "Local Income Tax",
+        "policyDescription": "Oppose the SNP plan to charge you a harsh local income tax"
+      },
+      {
+        "policyTitle": "Apprenticeships for Youngsters",
+        "policyDescription": "Make jobs a top priority, with guaranteed apprenticeships for youngsters"
+      },
+      {
+        "policyTitle": "Employment Opportunities",
+        "policyDescription": "Bring back support for unemployed young people to get the chance of a real job"
+      },
+      {
+        "policyTitle": "Public Service Workers",
+        "policyDescription": "Increase public service workers' basic pay to £7.15 by cutting top-end bonuses"
+      }
+    ],
+    "mentions": {
+      "candidate": "Stephen Curran",
+      "otherPartyLeaderCandidate": "Iain Gray",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour’s top priority is growing the economy, getting Scotland back to work, and helping you make ends meet.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "People are worried about jobs, their future and the cost of living. Household bills are hurting, supermarkets are putting prices up and the cost of running a car is going through the roof.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "74 Victoria Road, Glasgow, G42 7AA",
+      "phone": "07799 693187",
+      "email": "info@stephencurran.org",
+      "website": "www.stephencurran.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stop the SNP - Scottish Labour: because Glasgow deserves better"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet focuses on opposition to SNP policies and emphasizes the Labour commitment to protecting household finances and improving economic conditions."
+  }
+}
+```

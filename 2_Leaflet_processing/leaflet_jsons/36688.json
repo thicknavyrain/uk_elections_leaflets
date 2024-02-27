@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "TONY FIRKINS",
+	"constituency": "FELTHAM AND HESTON",
+	"politicalParty": "Green Party",
+	"electionDate": "29th November",
+	"messages": [
+  	{
+    	"title": "YES TO EUROPE. NO TO CLIMATE CHAOS",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "TONY FIRKINS",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "YES TO EUROPE",
+  	"economy": "",
+  	"education": "",
+  	"environment": "NO TO CLIMATE CHAOS",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "The Green Party, 53 Ottho Court, Augustus Close, Brentford, TW8 8PY",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

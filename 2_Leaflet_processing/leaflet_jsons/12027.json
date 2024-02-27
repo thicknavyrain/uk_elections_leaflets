@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Peter Bone",
+    "constituency": "Wellingborough & Rushden",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "LIES, DAMN LIES AND LABOUR LEAFLETS",
+        "content": "Labour has run a campaign based on smears, misrepresentation and lies. The Labour candidate has sought to twist, misrepresent and falsify my views."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A New Hospital with A&E facilities",
+        "policyDescription": "Peter Bone is campaigning for a new hospital with Accident and Emergency facilities."
+      },
+      {
+        "policyTitle": "More Police on Our Streets",
+        "policyDescription": "He wants more police to tackle crime, focusing on catching criminals and deterring crime."
+      },
+      {
+        "policyTitle": "An End to Labour's Unlimited Immigration",
+        "policyDescription": "Peter Bone aims to put an end to what he describes as Labour's policy of unlimited immigration into the country."
+      },
+      {
+        "policyTitle": "Scrapping Labour's plans for 52,000 new houses in North Northamptonshire",
+        "policyDescription": "He opposes Labour's plans to build 52,000 new houses in North Northamptonshire."
+      },
+      {
+        "policyTitle": "A Referendum on Our Membership of the European Union",
+        "policyDescription": "He supports holding a referendum to decide on the UK's membership of the EU."
+      }
+    ],
+    "mentions": {
+      "candidate": "Peter Bone",
+      "otherPartyLeaderCandidate": "Labour candidate",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "Only local man Peter Bone or the London-based Labour candidate can win here. A vote for any party other than the Conservatives may mean a Labour MP in Wellingborough and Gordon Brown as Prime Minister."
+    },
+    "issues": {
+      "brexitEurope": "He supports holding a referendum to decide on the UK's membership of the EU.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "I fully support the NHS and David Cameron’s plan to increase spending on the NHS every year.",
+      "immigration": "An end to what he describes as Labour's policy of unlimited immigration into the country.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"He opposes Labour's plans to build 52,000 new houses in North Northamptonshire.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I do hope that you will be able to vote for me and allow me the great honour of being re-elected as your MP for Wellingborough and Rushden.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "21 High Street, Wellingborough, Northamptonshire NN8 4JZ",
+      "phone": "01933 279343",
+      "email": "wca@tory.org",
+      "website": "www.wellingboroughconservatives.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Peter Bone - Listening to Wellingborough & Rushden"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

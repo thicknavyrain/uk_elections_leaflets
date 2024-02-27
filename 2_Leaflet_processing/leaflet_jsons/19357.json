@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Positive change",
+        "content": "The SNP will play a constructive role in Westminster and bring ideas forward in a positive spirit."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stopping Brexit",
+        "policyDescription": "Argues that Scotland should not be taken out of the EU against its will."
+      },
+      {
+        "policyTitle": "Protecting Scotland's NHS",
+        "policyDescription": "Opposes NHS privatisation and supports more health investment."
+      },
+      {
+        "policyTitle": "Ending Austerity",
+        "policyDescription": "Promises to end austerity with new investments."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Argues that Scotland should not be taken out of the EU against its will.",
+      "economy": "Promises to end austerity with new investments.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Opposes NHS privatisation and supports more health investment.",
+      "immigration": "",
+      "socialWelfare": "Wants a fairer welfare system and opposes cuts to the Scottish budget.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet provides general positions of the SNP with a focus on stopping Brexit, protecting the NHS, and ending austerity, but does not include specific candidate details or constituency-level information."
+  }
+}

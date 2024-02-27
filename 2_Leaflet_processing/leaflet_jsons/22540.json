@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stella Creasy",
+    "constituency": "Walthamstow",
+    "politicalParty": "Labour and Cooperative",
+    "electionDate": "Thursday May 7th 2015",
+    "messages": [
+      {
+        "title": "Do you think",
+        "content": "about our NHS, about local jobs, about our housing crisis, about the next generation of Walthamstow’s kids?"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Concern about the state of the NHS."
+      },
+      {
+        "policyTitle": "Local Jobs",
+        "policyDescription": "Focus on the job situation in the local area."
+      },
+      {
+        "policyTitle": "Housing Crisis",
+        "policyDescription": "Concern about the housing crisis."
+      },
+      {
+        "policyTitle": "Next Generation",
+        "policyDescription": "Focus on the future of Walthamstow's children."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stella Creasy",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Concern about the NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Concern about the housing crisis",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "020 8520 6608",
+      "email": "",
+      "website": "www.stellacreasy.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stella with supporters and members of the community."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet features endorsements by individuals from a diverse set of backgrounds."
+  }
+}
+```

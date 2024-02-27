@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Marc Jones",
+	"constituency": "Great Grimsby",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "My priorities for Great Grimsby",
+    	"content": "Creating the conditions for a better paid, better skilled workforce, business growth and a thriving, secure economy in Grimsby. Work to make our streets cleaner, safer and help get the empty shops open for business again. I fully support an out referendum on EU membership, English votes for English laws and promise to put the people of Great Grimsby FIRST."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Creating the conditions for a better paid, better skilled workforce, business growth and a thriving, secure economy in Grimsby."
+  	},
+  	{
+    	"policyTitle": "Community",
+    	"policyDescription": "Work to make our streets cleaner, safer and help get the empty shops open for business again."
+  	},
+  	{
+    	"policyTitle": "Governance",
+    	"policyDescription": "Fully support an out referendum on EU membership, English votes for English laws."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Marc Jones",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Fully support an out referendum on EU membership.",
+  	"economy": "Creating the conditions for a better paid, better skilled workforce, business growth and a thriving, secure economy in Grimsby.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "English votes for English laws.",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "votemarc2015.co.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Candidate Marc Jones with a British flag logo indicating the Conservative Party."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

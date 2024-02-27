@@ -1,0 +1,53 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stephen Gethins",
+    "constituency": "North-East Fife",
+    "politicalParty": "Scottish National Party (SNP)",
+    "electionDate": "8th June",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Stephen Gethins",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stronger for Scotland Stronger for North-East Fife"
+        }
+      ]
+    },
+    "additionalNotes": "Please remember to use your vote on 8th June. Polls Open 7am-10pm."
+  }
+}
+```

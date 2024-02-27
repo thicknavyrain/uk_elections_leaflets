@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sandy Martin",
+    "constituency": "Ipswich",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "WORKING FOR EVERYONE IN IPSWICH",
+        "content": "For twenty years as a councillor and the last two as your MP, I’m out and about listening to people and hearing about your hopes and concerns for the future. A Labour government will be so much better for Ipswich and for Britain. We’ll all be better off with Labour."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Sandy Martin",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "For twenty years as a councillor and the last two as your MP, I’m out and about listening to people and hearing about your hopes and concerns for the future.",
+    "politicalExperience": [
+      {
+        "role": "councillor",
+        "duration": "twenty years",
+        "achievements": ""
+      },
+      {
+        "role": "MP",
+        "duration": "last two",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sandy Martin with a background of the Labour logo."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

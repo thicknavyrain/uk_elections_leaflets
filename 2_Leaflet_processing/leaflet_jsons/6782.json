@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lisa Northover",
+    "constituency": "Bournemouth",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Dear Neighbour,",
+        "content": "Everywhere I go in Bournemouth I meet people who are desperate for change. That's why we need a new local MP in Bournemouth. An MP who will work for you."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Lisa Northover",
+      "otherPartyLeaderCandidate": "Vincent Cable",
+      "partyLeader": "",
+      "tacticalSituation": "In the last General Election almost one in four people voted Lib Dem. If one in three people vote Lib Dem this time, the Liberal Democrats would be the largest party in Parliament."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "As a schoolgirl I formed a green group with friends and we campaigned together to protect the environment.",
+      "environment": "As a schoolgirl I formed a green group with friends and we campaigned together to protect the environment.",
+      "governance": "Local primary care trust, which is responsible for NHS services in our area.",
+      "health": "Local primary care trust, which is responsible for NHS services in our area.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "I want a fair deal for local people.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I will work hard for everyone in Bournemouth.",
+    "politicalExperience": [
+      {
+        "role": "Councillor in Bournemouth",
+        "duration": "",
+        "achievements": "non-executive director of the local primary care trust, which is responsible for NHS services in our area."
+      }
+    ],
+    "contactInformation": {
+      "address": "39 St Clement's Road Bournemouth BH1 4DX",
+      "phone": "",
+      "email": "lisa.northover@bournemouth-libdems.org",
+      "website": "www.lisanorthover.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lisa pictured outside a hospital"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

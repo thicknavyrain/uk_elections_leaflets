@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "A GROWING ECONOMY",
+        "policyDescription": "After inheriting an economy in crisis in 2010, Britain is now growing again. We have more jobs, lower taxes, and we can feel safe about our children's future again because the deficit is going down."
+      },
+      {
+        "policyTitle": "STRONG LEADERSHIP. A CLEAR ECONOMIC PLAN.",
+        "policyDescription": "A better, more secure future."
+      },
+      {
+        "policyTitle": "CUT INCOME TAX FOR 30 MILLION PEOPLE, AND ENSURE EVERYONE PAYS THEIR FAIR SHARE",
+        "policyDescription": "Take everyone who earns less than £12,500 out of income tax altogether. Increase the 40p tax threshold so that no-one earning less than £50,000 pays it. Continue to crack down on aggressive tax avoidance and tax evasion."
+      },
+      {
+        "policyTitle": "ELIMINATE THE DEFICIT AND START PAYING DOWN OUR DEBTS FOR FUTURE GENERATIONS",
+        "policyDescription": "Control welfare spending, cut waste, and crack down on aggressive tax avoidance. Invest in our important public services like the NHS and schools. Keep our economy healthy and secure."
+      },
+      {
+        "policyTitle": "BACK BUSINESS TO CREATE A JOB FOR EVERYONE WHO WANTS ONE",
+        "policyDescription": "Keep jobs' taxes low and cut red tape. Deliver 3 million new apprenticeships. Control immigration and deliver the toughest welfare system for EU migrants anywhere in Europe. An in/out EU referendum by the end of 2017."
+      },
+      {
+        "policyTitle": "PROVIDE GOOD SCHOOLS AND HELP FAMILIES WITH CHILDCARE COSTS",
+        "policyDescription": "A good primary school place for every child, and all failing secondary schools turned around. Support teachers and improve maths, science and computer skills for our children. More support for childcare and a tax cut for over four million married couples."
+      },
+      {
+        "policyTitle": "GIVE EVERYONE THE CHANCE TO HAVE A HOME OF THEIR OWN",
+        "policyDescription": "Help keep mortgage rates low so families are more financially more secure. Build 200,000 new Starter Homes for first-time buyers under 40 and extend the Help-to-Buy scheme. More control for local people over planning."
+      },
+      {
+        "policyTitle": "HELP PROTECT AND SECURE PEOPLE IN THEIR RETIREMENT",
+        "policyDescription": "Continue to increase the State Pension, and protect pensioner benefits like the winter fuel payment. Give people freedom over their pension, and let them pass it on to loved ones tax-free. Make sure no-one is forced to sell their home to pay for care."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "",
+      "tacticalSituation": "Don’t let the SNP hold Britain to ransom. Every poll shows that Ed Miliband and Labour can only get into power with the backing of the SNP. Just like Ed Miliband means you won’t get the UK, which Ed as Prime Minister, but you’ll get Nicola Sturgeon as well."
+    },
+    "issues": {
+      "brexitEurope": "An in/out EU referendum by the end of 2017.",
+      "economy": "Eliminate the deficit and start paying down our debts for future generations.",
+      "education": "Provide good schools and help families with childcare costs.",
+      "environment": "",
+      "governance": "",
+      "health": "Eliminate the deficit and start paying down our debts for future generations.",
+      "immigration": "Control immigration and deliver the toughest welfare system for EU migrants anywhere in Europe.",
+      "socialWelfare": "Control welfare spending, cut waste, and crack down on aggressive tax avoidance.",
+      "housing": [
+        {
+          "content": "Give everyone the chance to have a home of their own. Help keep mortgage rates low so families are more financially secure. Build 200,000 new Starter Homes for first-time buyers under 40 and extend the Help-to-Buy scheme. More control for local people over planning.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A GROWING ECONOMY"
+        },
+        {
+          "caption": "STRONG LEADERSHIP. A CLEAR ECONOMIC PLAN."
+        },
+        {
+          "caption": "Ed Miliband in Nicola Sturgeon's pocket: Britain can't afford it, and you'll have to pay for it."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

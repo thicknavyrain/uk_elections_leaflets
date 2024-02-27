@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "A Labour or a Tory government - it's a two horse race",
+        "content": "Only a vote for Labour will stop the Tories and deliver the change we need."
+      },
+      {
+        "title": "The choice at this election is between a Labour or a Tory government.",
+        "content": "At this election a vote for anyone but Labour risks another Tory government."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Ban exploitative zero-hours contracts and guarantee a job and training for young people."
+      },
+      {
+        "policyTitle": "Wages",
+        "policyDescription": "Raise the minimum wage to more than £8 an hour."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "1,000 more nurses paid for by a mansion tax."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Freeze energy bills."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "1,000 more nurses paid for by a mansion tax.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A Labour or a Tory government - it's a two horse race"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

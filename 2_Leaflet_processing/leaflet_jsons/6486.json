@@ -1,0 +1,110 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Albert Owen",
+    "constituency": "Ynys Môn",
+    "politicalParty": "Labour",
+    "electionDate": "2010",
+    "messages": [
+      {
+        "title": "TEN FOR 2010",
+        "content": "Albert has a clear vision and an ambition for this island and our country. Using his experience his priorities will be to:"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local economy",
+        "policyDescription": "Support local business and protect workers' jobs. Increasing the Minimum Wage yearly."
+      },
+      {
+        "policyTitle": "Skills Learning",
+        "policyDescription": "Crisis Loans by giving Anglesey Probation's Energy Island programme the potential to become world-leading."
+      },
+      {
+        "policyTitle": "Pensioners",
+        "policyDescription": "Protecting pensioners by fighting against the 'bedroom tax' and voting to retain winter fuel payments."
+      },
+      {
+        "policyTitle": "Rural Issues",
+        "policyDescription": "Act on problems faced by farmers, fishermen and the tourism sector. Promote and expand community facilities."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Provide more affordable housing."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Debate for reform including to protect and support local health service."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Promote cleaner, greener energy that is affordable and will generate hundreds of jobs."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Increase education funds."
+      },
+      {
+        "policyTitle": "Consumer Services",
+        "policyDescription": "Provide better service for older and vulnerable consumers."
+      },
+      {
+        "policyTitle": "Access to Services",
+        "policyDescription": "Balance and enhance leisure centres, post offices and outreach services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Albert Owen",
+      "otherPartyLeaderCandidate": "Nick Bourne, Ieuan Wyn Jones, Kirsty Williams",
+      "partyLeader": "Gordon Brown"
+    },
+    "issues": {
+      "economy": "Support local business and protect workers' jobs. Increase the Minimum Wage yearly.",
+      "education": "Increase education funds.",
+      "environment": "Promote cleaner, greener energy that is affordable and will generate hundreds of jobs.",
+      "health": "Protect and support local health service.",
+      "housing": [
+        {
+          "content": "Provide more affordable housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "This election is about who you want to represent you on Ynys Môn and who should speak out for the island in the tough times ahead.",
+    "politicalExperience": [
+      {
+        "role": "MP for Ynys Môn",
+        "duration": "Not specified",
+        "achievements": "Fighting for the island as part of the first majority Labour Government for Anglesey families."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Gordon Brown, Carwyn Jones",
+        "endorsement": "Has proven he knows how to fight for a fair deal for Ynys Môn."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photos of Albert Owen in various settings."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet also contains statistics of voting intentions and endorsements from party leaders."
+  }
+}
+```

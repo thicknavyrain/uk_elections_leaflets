@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "December 12th [Year]",
+    "messages": [
+      {
+        "title": "This is no ordinary General Election.",
+        "content": "The choice on December 12th is clear: Leave and Remain. A recent opinion poll confirms that this is a Brexit election."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "A clear stance on implementing Brexit and opposing a second referendum."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn's Remainder Labour",
+      "partyLeader": "Nigel Farage",
+      "tacticalSituation": "Voting for the Conservative Party would be risky as it could result in another Labour MP who backs a second referendum."
+    },
+    "issues": {
+      "brexitEurope": "The election is presented as a choice between The Brexit Party and Jeremy Corbyn's Labour, who backs a second referendum.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The Brexit Party accuses Labour of planning to rebuild Britains' industries while spending £200 billion on transport projects and jobs outside London.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Leader of The Brexit Party",
+        "duration": "",
+        "achievements": "Winning the European Elections in May, winning seats across the country and reversing the intention to vote for the Conservatives."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "thebrexitparty.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "CHANGE POLITICS FOR GOOD"
+        }
+      ]
+    },
+    "additionalNotes": "The letter emphasizes the importance of Brexit and The Brexit Party's stand against Labour and the 'Remain alliance' in the general election."
+  }
+}
+```

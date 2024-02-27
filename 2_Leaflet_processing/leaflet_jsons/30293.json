@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "JOHN HAYWARD",
+    "constituency": "Cambridge",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "GIVE ME AND MY CANDIDATE YOUR VOTE ON THURSDAY 8TH JUNE AND I WILL:",
+        "content": "Provide strong and stable leadership for our country, get the best Brexit deal possible, deliver economic security for our future, Always stand up for you and your family"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A Fair Deal for Cambridge, the Country & Europe",
+        "policyDescription": "seems to include controlled immigration policy"
+      },
+      {
+        "policyTitle": "Science & Technology, Skills & Training",
+        "policyDescription": "will champion Cambridge's strengths, as I have through my career around the world"
+      },
+      {
+        "policyTitle": "Sustainable Development",
+        "policyDescription": "will work closely with the new Mayor of Cambridgeshire & Peterborough to deliver the Metro Plan"
+      }
+    ],
+    "mentions": {
+      "candidate": "JOHN HAYWARD",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "get the best Brexit deal possible",
+      "economy": "deliver economic security for our future",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "secure a flexible as well as controlled immigration policy",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "411 OXFORD ROAD",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Theresa May",
+        "endorsement": "Provide strong and stable leadership for our country"
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Theresa May with John Hayward"
+        },
+        {
+          "caption": "John Hayward's team"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet contains personal endorsement and signature of Theresa May. The points outlined appear to be from the national Conservative party platform as reflected by the messages from Theresa May."
+  }
+}
+```

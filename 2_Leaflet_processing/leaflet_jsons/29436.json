@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Cryer",
+    "constituency": "Leyton & Wanstead",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "642 High Road Leytonstone, London E11 3AA",
+      "phone": "07561 834 352",
+      "email": "john.cryer.labour@gmail.com",
+      "website": "www.johncryerlabour.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@johncryermp",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Re-Elect John Cryer, Labour candidate for Leyton & Wanstead"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

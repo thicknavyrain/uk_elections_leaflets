@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Linda Jack",
+    "constituency": "Elstow & Stewartby",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Spring 2023",
+    "messages": [
+      {
+        "title": "Tory £20m Local Cuts Bombshell",
+        "content": "The Tories have shown their true colors with promises of cuts that don't add up."
+      },
+      {
+        "title": "Making the Council Greener",
+        "content": "A new power plant on the River Great Ouse and Greener Streets Plans include revitalizing empty shopping areas."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "Council Tax Frozen for the fifth year running."
+      },
+      {
+        "policyTitle": "Economy and Fairer Society",
+        "policyDescription": "The Lib Dem plan for a stronger economy and fairer society includes cutting tax for 1400 ordinary workers."
+      },
+      {
+        "policyTitle": "Health and Education",
+        "policyDescription": "More money for the NHS and protecting education spending."
+      },
+      {
+        "policyTitle": "Environment and Housing",
+        "policyDescription": "Plans for a new power plant on the River Great Ouse and reviving empty shopping areas as part of Greener Streets Plans."
+      }
+    ],
+    "mentions": {
+      "candidate": "Linda Jack",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Mayor Dave Hodgson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Cutting tax for 1400 ordinary workers.",
+      "education": "Protection of education spending.",
+      "environment": "New power plant on the River Great Ouse, Greener Streets Plans.",
+      "governance": "",
+      "health": "More money for the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Greener Streets Plans include revitalizing empty shopping areas.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Parliamentary Campaigner",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "Mayor Dave Hodgson - 07876 176820, Borough Councillor Tim Hill - 07561 381280, Parliamentary Campaigner Linda Jack - 07595 203556",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Linda Jack and supporters working together."
+        }
+      ]
+    },
+    "additionalNotes": "If you have a grumble please get in touch."
+  }
+}
+```

@@ -1,0 +1,94 @@
+{
+	"leaflet": {
+		"candidateName": "Faisal Rashid",
+		"constituency": "Warrington South",
+		"politicalParty": "Labour",
+		"electionDate": "Thursday 8 June",
+		"messages": [
+			{
+				"title": "A Fresh Approach",
+				"content": "Faisal Rashid offers a fresh approach. He has new ideas and the energy to fight for the people of Warrington South. He’s not part of the establishment, he’s one of us."
+			},
+			{
+				"title": "DON'T GET TRICKED",
+				"content": "The Tory candidate here in Warrington South is one of the Tory MPs being investigated over their 2015 election expenses."
+			}
+		],
+		"keyPolicies": [
+			{
+				"policyTitle": "Our NHS",
+				"policyDescription": "Labour will always put the NHS first. We will prioritise the health service and social care."
+			},
+			{
+				"policyTitle": "Our Environment, Our Wellbeing",
+				"policyDescription": "We will safeguard our environment and build sustainable policies for the wellbeing of the next generation."
+			}
+		],
+		"mentions": {
+			"candidate": "Faisal Rashid",
+			"otherPartyLeaderCandidate": "The Tory candidate",
+			"partyLeader": "",
+			"tacticalSituation": ""
+		},
+		"issues": {
+			"brexitEurope": "",
+			"economy": "",
+			"education": "",
+			"environment": "We will safeguard our environment and build sustainable policies for the wellbeing of the next generation.",
+			"governance": "",
+			"health": "Labour will always put the NHS first. We will prioritise the health service and social care.",
+			"immigration": "",
+			"socialWelfare": "",
+			"housing": [
+				{
+					"content": "",
+					"yimbyNimby": "N/A"
+				}
+			]
+		},
+		"personalStatement": "I believe in an open, respectful and community-driven political process. I believe in the power of working together.",
+		"politicalExperience": [
+			{
+				"role": "Mayor",
+				"duration": "",
+				"achievements": "As Mayor Faisal has championed local businesses, worked with the voluntary sector and created jobs for local people."
+			}
+		],
+		"contactInformation": {
+			"address": "",
+			"phone": "",
+			"email": "fa@warringtonlabour.org",
+			"website": "",
+			"socialMedia": {
+				"facebook": "",
+				"twitter": "@FaisalRashid6",
+				"instagram": "",
+				"linkedin": ""
+			}
+		},
+		"endorsements": [],
+		"quotes": [
+			{
+				"text": "Faisal Rashid offers a fresh approach. He has new ideas and the energy to fight for the people of Warrington South.",
+				"source": "Leaflet message",
+				"date": ""
+			},
+			{
+				"text": "He’s not part of the establishment, he’s one of us.",
+				"source": "Leaflet message",
+				"date": ""
+			}
+		],
+		"campaignMaterial": {
+			"images": [
+				{
+					"caption": "Faisal Rashid running"
+				},
+				{
+					"caption": "Faisal Rashid portrait"
+				}
+			]
+		},
+		"additionalNotes": ""
+	}
+}

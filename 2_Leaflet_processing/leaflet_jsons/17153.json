@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "MASSIMO DIMAMBRO",
+	"constituency": "Lewisham Deptford",
+	"politicalParty": "UK INDEPENDENCE PARTY",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Standing Up for Real Change",
+    	"content": "Dear Voter, I have lived in Lewisham for 20 years & my career has been police and security related. UKIP think nationally and work locally. My aims are to respond to and address the issues of concern within our communities. I am especially concerned with seeing that the elderly get the help and support they are denied. Tory welfare cuts are pushing inner London residents to our area. The labour council's response seems to be to build on every green space. I will resist both. It's time Lewisham fulfilled its potential."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Elderly Support",
+    	"policyDescription": "Ensure the elderly get the help and support they are denied."
+  	},
+	{
+		"policyTitle": "Housing and Green Spaces",
+    	"policyDescription": "Resist the building on green spaces and address Tory welfare cuts pushing inner London residents to the area."
+	}
+	],
+	"mentions": {
+  	"candidate": "MASSIMO DIMAMBRO",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "Ensure the elderly get the help and support they are denied.",
+  	"housing": [
+    	{
+      	"content":"Resist the building on green spaces and address Tory welfare cuts pushing inner London residents to the area.",
+      	"yimbyNimby": "NIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "I have lived in Lewisham for 20 years & my career has been police and security related... It's time Lewisham fulfilled its potential.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "massimo.dimambro@ukiplocal.org",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  		}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "MASSIMO DIMAMBRO - UK INDEPENDENCE PARTY"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,73 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Oxford West & Abingdon",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "It's been an incredible few months for the Green Party.",
+        "content": "Opinion polls now consistently show that we have overtaken the Lib Dems. Since September, our membership has doubled across the UK, and as the Green Surge continues to Oxford West & Abingdon we've established new branches in Botley, Abingdon, and North Oxford. The Green programme offers a real alternative to the politics of the old parties. Now is the time to stop opting for the least-worst choice and go for what you really believe in."
+      },
+      {
+        "title": "Don't miss your chance to vote!",
+        "content": "Due to recent changes to voter registration, millions of people are no longer on the electoral register – especially students. Being registered with the council for services such as paying council tax will NOT automatically include you on the register."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "If everyone in Oxford West & Abingdon voted for the party whose policies they like best, we would already have a Green MP!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01865 249 811 (Oxford City) \n01295 227 001 (Cherwell District) \n01235 540 310 (Vale District)",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Green Party membership doubles",
+        "source": "The Independent",
+        "date": "02.12.14"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Graph showing Favorite policies in Oxford West & Abingdon with 31% for Green, 21% for Labour, 18% for Lib Dem, 16% for Other, and 14% for Conservative."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

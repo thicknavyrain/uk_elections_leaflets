@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chidi Oti-Obihara",
+    "constituency": "East Ham",
+    "politicalParty": "Green Party",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "To shape an economy for everyone",
+        "content": "To build homes and put power back in your hands through citizen's democracy."
+      },
+      {
+        "title": "We stand for our future",
+        "content": "Stand with us for housing, NHS, environment and schools." 
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Building an economy for everyone's needs with sustainable, affordable homes."
+      },
+      {
+        "policyTitle": "Democracy",
+        "policyDescription": "Putting power back in the hands of citizens through democratic means."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Ensuring the NHS is in the hands of the people."
+      },
+      {
+        "policyTitle": "Environment and Education",
+        "policyDescription": "Commitment to environmental stewardship and maintaining standards in schools."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chidi",
+      "otherPartyLeaderCandidate": "Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Building an economy for everyone's needs with sustainable, affordable homes.",
+      "education": "Maintaining standards in schools.",
+      "environment": "Commitment to environmental stewardship.",
+      "governance": "Putting power back in the hands of citizens through democratic means.",
+      "health": "Ensuring the NHS is in the hands of the people.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"To build homes and put power back in your hands through citizen's democracy.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "This election isn't about the next five years. It's about the next fifty years.",
+    "politicalExperience": [
+      {
+        "role": "Anti-poverty and anti-corruption activist.",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "Chidi4GP",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Your Green Party Candidate"
+        }
+      ]
+    },
+    "additionalNotes": "Vote Green on 8th June for what matters."
+  }
+}
+```

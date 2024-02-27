@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "ANDY BROWN",
+    "constituency": "SKIPTON & RIPON",
+    "politicalParty": "Green Party",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "ANDY'S PRIORITIES",
+        "content": "I am standing in this election because I want to protect our wonderful area and prevent it from being covered by endless executive houses built for private profit rather than public need. To save our High Streets by reducing rates for small traders and taxing fairly online traders like Amazon. To re-open the Skipton to Colne rail line and to restore Ripon's rail link. We need to provide efficient local train and bus services not a clumsy mess of different competing companies and vanity projects. To invest in modern northern industries and to get our region at the forefront of the upcoming wave of fresh new low carbon businesses. To protect local people, local businesses and local farmers from a post Brexit trade deal with Donald Trump."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Protect our area from being covered by endless executive houses built for private profit rather than public need."
+      },
+      {
+        "policyTitle": "High Streets",
+        "policyDescription": "Reduce rates for small traders and tax online traders like Amazon fairly."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Re-open the Skipton to Colne rail line, restore Ripon's rail link, and provide efficient local train and bus services."
+      },
+      {
+        "policyTitle": "Industry",
+        "policyDescription": "Invest in modern northern industries to lead the wave of new low carbon businesses."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Protect local people, businesses, and farmers from a post-Brexit trade deal with Donald Trump."
+      },
+      {
+        "policyTitle": "Stay in the EU",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Climate Action",
+        "policyDescription": "Take bold climate action."
+      },
+      {
+        "policyTitle": "Change Politics",
+        "policyDescription": "Change politics for good."
+      }
+    ],
+    "mentions": {
+      "candidate": "ANDY BROWN",
+      "otherPartyLeaderCandidate": "CAROLINE LUCAS MP",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "To protect local people, local businesses and local farmers from a post Brexit trade deal with Donald Trump.",
+      "economy": "To save our High Streets by reducing rates for small traders and taxing fairly online traders like Amazon.",
+      "education": "",
+      "environment": "Take bold climate action.",
+      "governance": "Change politics for good.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Protect our area from being covered by endless executive houses built for private profit rather than public need.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "This general election isn't just about Brexit – this is about the country we live in. Our politics is broken and has failed to fix the intolerable inequality and insecurity which fuelled Brexit.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "@votendaybrown",
+        "twitter": "@votendaybrown",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "CAROLINE LUCAS MP",
+        "endorsement": "On 12th December, tell the establishment it's time for change. Vote Andy Brown here in Skipton and Ripon"
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andy Brown, Your Green Party Candidate for Skipton & Ripon"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted on behalf of Andy Brown by Stephen Morton at Horse Close Farm, Cracoe Lane, Skipton, BD23 6LB. Printed on FSC sustainable paper by Colourmatch Graphic Design, 22 Fern Close, Skipton, BD23 2LE."
+  }
+}
+```

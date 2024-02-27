@@ -1,0 +1,77 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "Tories leave the North behind",
+        "content": "Child poverty up and pay lagging since northern powerhouse launch. North to receive £2,300 less per person in travel spending than London. North hit by spending cuts since Tory austerity while South sees increase in government money."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Child poverty up and pay lagging since northern powerhouse launch.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "North to receive £2,300 less per person in travel spending than London",
+        "source": "The Telegraph, 19 Aug 2019",
+        "date": "19 Aug 2019"
+      },
+      {
+        "text": "Child poverty up and pay lagging since northern powerhouse launch",
+        "source": "The Guardian, 21 June 2019",
+        "date": "21 June 2019"
+      },
+      {
+        "text": "North hit by spending cuts since Tory austerity while South sees increase in government money",
+        "source": "Independent, 5 December 2018",
+        "date": "5 December 2018"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tories leave the North behind"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

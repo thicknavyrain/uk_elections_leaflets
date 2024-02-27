@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "MELLEN David",
+    "constituency": "Rushcliffe",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8th June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Introduce a £10 minimum wage."
+      },
+      {
+        "policyTitle": "Law and Order",
+        "policyDescription": "Place 10,000 more police on the street."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Provide decent funding for the NHS."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Stop the cuts to school budgets."
+      }
+    ],
+    "mentions": {
+      "candidate": "MELLEN David",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Introduce a £10 minimum wage.",
+      "education": "Stop the cuts to school budgets.",
+      "environment": "",
+      "governance": "",
+      "health": "Provide decent funding for the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "39 Melton Rd., West Bridgford Nottingham, NG2 7NF",
+      "phone": "07759 829654 or 0115 981 3262",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour campaign leaflet featuring key policies, voting information, and candidate David Mellen."
+        }
+      ]
+    },
+    "additionalNotes": "Make sure your voice is heard!"
+  }
+}
+```

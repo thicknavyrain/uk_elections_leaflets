@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "AT THIS ELECTION",
+        "content": "IT'S LIB DEM OR SNP"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Scotland's Place in the UK",
+        "policyDescription": "Keep Scotland in the UK and stop another divisive independence referendum."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Oppose the Conservatives' extreme hard Brexit."
+      },
+      {
+        "policyTitle": "Investment in Services",
+        "policyDescription": "Invest in Scottish education and mental health."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "SNP",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Oppose the Conservatives' extreme hard Brexit.",
+      "economy": "",
+      "education": "Invest in Scottish education",
+      "environment": "",
+      "governance": "",
+      "health": "Invest in ... mental health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ScotLibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Huffington Post",
+        "endorsement": "The SNP is too busy with independence referendums to actually govern."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The SNP is too busy with independence referendums to actually govern.",
+        "source": "The Huffington Post",
+        "date": "8th May 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Group of Scottish Liberal Democrats campaigners."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

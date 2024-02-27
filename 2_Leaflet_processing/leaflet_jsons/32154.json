@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew Stephenson",
+    "constituency": "Pendle",
+    "politicalParty": "Conservative",
+    "electionDate": "November 2019",
+    "messages": [
+      {
+        "title": "BREXIT DEAL AGREED AND READY TO GO",
+        "content": "Protects jobs and trade. Ends uncertainty for our economy. Ready to go from day one of a new parliament."
+      },
+      {
+        "title": "LAST TIME, THE CONSERVATIVES WERE JUST NINE SEATS SHORT OF A MAJORITY.",
+        "content": "A handful of seats will decide this election. So a handful of votes will be the difference between a majority government – and another hung parliament."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "New Brexit deal agreed with EU that is ready to go from day one of a new parliament, which protects jobs and trade and ends uncertainty for our economy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andrew Stephenson's plan for Pendle",
+      "otherPartyLeaderCandidate": "Every vote for Jeremy Corbyn makes another hung, talking parliament more likely.",
+      "partyLeader": "Prime Minister Boris Johnson and the NHS",
+      "tacticalSituation": "Just nine seats short"
+    },
+    "issues": {
+      "brexitEurope": "New Brexit deal agreed with EU, protects jobs and trade, ends uncertainty for our economy, ready to go from day one of a new parliament.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "PM on hospitals, police and schools, mentioned inside the leaflet.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+      "role": "",
+      "duration": "",
+      "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+      "endorser": "",
+      "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "CORBYN = FIVE LONG YEARS OF GRIDLOCK",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "BREXIT DEAL AGREED AND READY TO GO"
+        }
+      ]
+    },
+    "additionalNotes": "Voters in Pendle will decide this election."
+  }
+}
+```

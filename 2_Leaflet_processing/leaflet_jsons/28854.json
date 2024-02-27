@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Claire Lasko",
+    "constituency": "Witney",
+    "politicalParty": "Green Party",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "CLAIRE SAYS...",
+        "content": "I want my children and their children to live in a fairer, kinder, more equal and more sustainable world. A Green world. This snap general election is a response to the politics of the past, a politics in which the government holds the country hostage to a small, self-interested, ideological sub group in parliament. With our focus on solving the housing crisis, fighting for young people and having a say in the Brexit deal, the Green Party is standing up to this self-serving politicking. There really is a better way."
+      },
+      {
+        "title": "THIS ELECTION ISN'T ABOUT THE NEXT 5 YEARS. IT'S ABOUT THE NEXT 50 YEARS.",
+        "content": "The Green Party is offering real opposition to this Government’s extreme Brexit. Only the Green Party has the vision to deliver an alternative future for our country, and our place in the world. And only the Green Party offers a different kind of politics. Every Green vote on 8th June will help make that vision a reality."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "To shape an economy for everyone while preserving a safe environment."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "To build affordable homes and provide properly funded public services."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "To put power back in your hands through a citizens' democracy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Claire Lasko"
+    },
+    "issues": {
+      "housing": [
+        {
+          "content": "To build affordable homes and provide properly funded public services.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I want my children and their children to live in a fairer, kinder, more equal and more sustainable world. A Green world.",
+    "contactInformation": {
+      "address": "",
+      "phone": "07923645868",
+      "email": "claire.lasko@greenparty.org.uk",
+      "website": "westoxongreens.homestead.com",
+      "socialMedia": {
+        "facebook": "WestOxfordshireGreenParty",
+        "twitter": "Westoxongreens"
+      }
+    },
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Picture of Claire Lasko, the Green Party candidate for Witney."
+        }
+      ]
+    }
+  }
+}
+```

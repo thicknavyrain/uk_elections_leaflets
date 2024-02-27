@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sarah Sackman",
+    "constituency": "Finchley & Golders Green",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "We know the challenges in our area",
+        "content": "Sarah has been working alongside local residents on the issues that matter to them."
+      },
+      {
+        "title": "A fresh start",
+        "content": "Labour will cut income tax for 24 million people on middle and lower incomes."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "The NHS",
+        "policyDescription": "A Labour Government will ensure we have a NHS which puts patient care above private profit. Sarah's experience as a public service lawyer means she understands how to make this happen."
+      },
+      {
+        "policyTitle": "Our Schools",
+        "policyDescription": "Labour will protect the entire education budget from early years through to post-16 education."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Sarah is fighting for more affordable homes and for action on rents."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sarah Sackman",
+      "otherPartyLeaderCandidate": "Conservatives",
+      "partyLeader": "Ed Miliband",
+      "tacticalSituation": "Only Labour can beat the Conservatives here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour - The economic recovery is at risk from Tory spending plans.",
+      "education": "Labour will protect the entire education budget from early years through to post-16 education.",
+      "environment": "",
+      "governance": "",
+      "health": "A Labour Government will ensure we have a NHS which puts patient care above private profit.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Sarah is fighting for more affordable homes and for action on rents.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Sarah Sackman is a public service lawyer who has spent her professional life standing up for people who need help the most.",
+    "politicalExperience": [
+      {
+        "role": "Public Service Lawyer",
+        "duration": "",
+        "achievements": "Standing up for people who need help the most."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.sarahsackman.com",
+      "socialMedia": {
+        "facebook": "/sarahsackman",
+        "twitter": "@sarahsackman",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Rt Hon Ed Miliband MP",
+        "endorsement": "Sarah Sackman is a brilliant campaigner. She's exactly the kind of MP Finchley & Golders Green needs."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sarah Sackman listening to residents."
+        },
+        {
+          "caption": "Rt Hon Ed Miliband MP endorsing Sarah Sackman."
+        },
+        {
+          "caption": "Sarah Sackman engaged in community activities."
+        }
+      ]
+    },
+    "additionalNotes": "This leaflet presents Sarah Sackman as a dedicated community advocate with a focus on local issues such as the NHS, education, and housing. It emphasizes her professional background as a public service lawyer and features an endorsement from the party leader, Ed Miliband."
+  }
+}
+```

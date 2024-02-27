@@ -1,0 +1,103 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Keir Starmer",
+    "constituency": "Holborn & St. Pancras",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "A fairer future for Holborn & St. Pancras",
+        "content": "The rapid increase in food bank use, and the proliferation of zero hours contracts, shows the true extent of David Cameron's failure to get the UK economy working for all."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Labour's plan for a stronger, fairer economy. Reform the banking sector and boost small businesses with a cut tax. Families will be better off as energy prices will be frozen while wages are taken to rise. Businesses will benefit from this temporary break and then businesses will be encouraged to pay the Living Wage."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "The long-term future of the NHS is at stake in this election. The NHS as we know it will not survive five more years of the Tories. You have the power to protect the NHS as a public service working cooperatively for patients, not a commercial business driven by competition."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "To provide more affordable homes, a better supply of social housing, and a better deal for private renters."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "To ensure our local schools continue to provide excellent education in a collaborative, inclusive way."
+      }
+    ],
+    "mentions": {
+      "candidate": "Keir Starmer",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour's plan for a stronger, fairer economy.",
+      "education": "To ensure our local schools continue to provide excellent education in a collaborative, inclusive way.",
+      "environment": "",
+      "governance": "",
+      "health": "The NHS needs a Labour Government.",
+      "immigration": "",
+      "socialWelfare": "To restore our NHS as a public service working cooperatively for patients, not a commercial business driven by competition.",
+      "housing": [
+        {
+          "content": "To provide more affordable homes, a better supply of social housing, and a better deal for private renters.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I will be a community focused Member of Parliament for Holborn & St. Pancras.",
+    "politicalExperience": [
+      {
+        "role": "Human rights advisor to the Northern Ireland Policing Board",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "Director of Public Prosecutions and head of the Crown Prosecution Service",
+        "duration": "",
+        "achievements": "Transformed the prosecution service."
+      }
+    ],
+    "contactInformation": {
+      "address": "Freepost RSLT-ACAB-TEUU, Holborn & St. Pancras Labour, 110 Gloucester Avenue, NW1 8HX",
+      "phone": "020 7388 6039",
+      "email": "",
+      "website": "keirstarmer.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "Keir_Starmer",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Frank Dobson",
+        "endorsement": "Keir would be excellent as our MP."
+      },
+      {
+        "endorser": "Doreen Lawrence",
+        "endorsement": "Keir always made time for victims of crime."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Keir Starmer - Your Labour candidate"
+        },
+        {
+          "caption": "A fairer future for Holborn & St. Pancras"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

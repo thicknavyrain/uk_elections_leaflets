@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Steve Sollitt",
+    "constituency": "Havant Constituency",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "A message from Steve Sollitt",
+        "content": "Dear Resident, As someone born and bred in Hampshire, I promise to work FULL TIME as your next MP. I intend to spend as much time as possible in Havant, as well as fighting for you in the corridors of power. I will be a strong voice for YOU in Parliament, concentrating on your priorities. I will fight for the services that matter to you. I will get investment in the NHS, extending free school meals to all primary-aged children, raising the personal tax allowance further, and helping young families onto the housing ladder. Please vote for ME on May 7th to represent YOU in Parliament. Yours, Steve"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer Society",
+        "policyDescription": "Fighting for services that matter, including investment in the NHS, extending free school meals to all primary-aged children, raising the personal tax allowance, and helping young families onto the housing ladder."
+      }
+    ],
+    "mentions": {
+      "candidate": "Steve Sollitt",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Only the Lib Dems can beat the Tories in the Havant Constituency. It's between the Lib Dems & Tories in this constituency!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "For a FAIRER society and a STRONGER economy",
+      "education": "Over 2 million apprenticeships have been created nationally since 2010, while in Havant, 2,300 workers will benefit from the adult education of the National Minimum Wage.",
+      "environment": "",
+      "governance": "",
+      "health": "Your Health - I will fight for the services that matter to you. I will get investment in the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Helping young families onto the housing ladder.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I promise to work FULL TIME as your next MP. I will be a strong voice for YOU in Parliament, concentrating on your priorities.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "",
+        "achievements": "Cllr Faith Ponsonby with Steve. She said: \"He will be a strong MP for Havant\"."
+      }
+    ],
+    "contactInformation": {
+      "address": "Havant Lib Dems, FREEPOST (RSHC-SJYT-JUAG), 25 Leigh Road, HAVANT, PO9 2ET",
+      "phone": "023 8061 4100",
+      "email": "steve@havant-libdems.com",
+      "website": "www.havant-libdems.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@stevesollitt",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Steve with Gina, a happy pensioner."
+        },
+        {
+          "caption": "Steve's interaction with local residents and his engagement at social housing developments."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes bar graphs showing potential voting outcomes between Liberal Democrats and Conservatives, suggesting a tactical voting situation."
+  }
+}
+```

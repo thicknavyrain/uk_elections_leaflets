@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ed Miliband",
+    "constituency": "",
+    "politicalParty": "The Labour Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Dear Laurence Edkins, I am writing to set out Labour's contract with you. This contract sets out exactly what you can expect from the next Labour government, and it will allow you to hold us to account too. Our plan is based on a simple truth; that Britain only succeeds when working people succeed. Together, we can build a better Britain."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A strong economic foundation",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Higher living standards for working families",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "An NHS with the time to care",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Controls on immigration",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "A country where the next generation can do better than the last",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Homes to buy and action on rents",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Ed Miliband",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Ed Miliband",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Our contract means we will secure the future of our NHS.",
+      "immigration": "Controls on immigration",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Homes to buy and action on rents",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Together, we can build a better Britain.",
+    "politicalExperience": [
+      {
+        "role": "Leader of the Labour Party",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "One Brewer's Green London SW1H 0RH",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Our plan is based on a simple truth; that Britain only succeeds when working people succeed.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ed Miliband portrait"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

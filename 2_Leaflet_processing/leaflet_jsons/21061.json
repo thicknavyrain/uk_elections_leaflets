@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Gibb",
+    "constituency": "Bognor Regis & Littlehampton",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy and Immigration",
+        "policyDescription": "A strong economy; more control of immigration; an 'in-out' referendum on Europe."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Working to ensure A&E services continue at both St Richard's and Worthing Hospitals."
+      },
+      {
+        "policyTitle": "Housing and Environment",
+        "policyDescription": "Campaigning against large-scale housing development; protection from coastal erosion."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Gibb",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "An 'in-out' referendum on Europe.",
+      "economy": "A strong economy.",
+      "education": "",
+      "environment": "Protection from coastal erosion.",
+      "governance": "",
+      "health": "A&E services at St Richard's and Worthing Hospitals.",
+      "immigration": "More control of immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Campaigning against large-scale housing development.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.nickgibb.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Nick Gibb with campaign messages."
+        }
+      ]
+    },
+    "additionalNotes": "Election Communication"
+  }
+}
+```

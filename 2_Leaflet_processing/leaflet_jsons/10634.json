@@ -1,0 +1,122 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Glyn Chambers",
+    "constituency": "Vauxhall",
+    "politicalParty": "Conservative",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "Why to Vote for Change",
+        "content": "From ONLY Conservative Glyn Chambers can win ..."
+      },
+      {
+        "title": "More Labour stealth taxes",
+        "content": "The Labour government has increased taxes ..."
+      },
+      {
+        "title": "Time to fight back against crime",
+        "content": "Crime has doubled under Labour ..."
+      },
+      {
+        "title": "Building a better Society",
+        "content": "Safer streets, Controlled immigration and protect our green spaces."
+      },
+      {
+        "title": "Conservatives plan radical education reform",
+        "content": "We will create new schools funded by the state but controlled by parents ..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "The Labour government has increased taxes ..."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "Crime has doubled under Labour ..."
+      },
+      {
+        "policyTitle": "Society",
+        "policyDescription": "Safer streets, Controlled immigration and protect our green spaces."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "We will create new schools funded by the state but controlled by parents ..."
+      }
+    ],
+    "mentions": {
+      "candidate": "Glyn Chambers",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Labour government has increased taxes ...",
+      "education": "We will create new schools funded by the state but controlled by parents ...",
+      "environment": "protect our green spaces.",
+      "governance": "",
+      "health": "",
+      "immigration": "Controlled immigration",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I've been a resident in Lambeth for 10 years ...",
+    "politicalExperience": [
+      {
+        "role": "Councillor for Clapham Town",
+        "duration": "4 Years",
+        "achievements": "Securing £30 million for our schools, Keeping Clapham Common green ..."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Glyn Chambers with David Cameron"
+        },
+        {
+          "caption": "Glyn Chambers and his team are committed to Vauxhall"
+        },
+        {
+          "caption": "Glyn Chambers with Boris Johnson"
+        },
+        {
+          "caption": "Glyn Chambers fighting for residents against Labour’s garden grab"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

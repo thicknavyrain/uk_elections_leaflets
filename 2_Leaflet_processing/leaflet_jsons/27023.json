@@ -1,0 +1,47 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Daniel Zeichner",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "I stick to my principles.",
+        "content": "I'll never sell out."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Daniel Zeichner",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "Re-elect Daniel Zeichner. Principled, Experienced, Independent-Minded.",
+    "politicalExperience": [],
+    "contactInformation": {},
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Daniel Zeichner's portrait with quote 'I'll never sell out.'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew Smith MP",
+    "constituency": "Oxford East",
+    "politicalParty": "Labour Party",
+    "electionDate": "2010",
+    "messages": [
+      {
+        "title": "",
+        "content": "I am proud to have lived in the heart of our constituency for over 40 years."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Community and Local Jobs",
+        "policyDescription": "Speaks up for local jobs and against policies of other parties that would put them at risk."
+      },
+      {
+        "policyTitle": "Health and Policing",
+        "policyDescription": "Wants to keep up both Tories and Liberal Democrats attacks on NHS and policing, criticizes Lib Dem plans to form a Tory government if there is a hung Parliament."
+      },
+      {
+        "policyTitle": "High Quality Environment and Housing",
+        "policyDescription": "Campaigns for changes in lifestyle and legally binding cuts in emissions, huge investments in energy conservation, renewables and sustainable transport, and decent housing for all."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andrew Smith MP",
+      "otherPartyLeaderCandidate": "Neither the Conservative nor the Liberal Democrat candidate lives in Oxford East.",
+      "partyLeader": "",
+      "tacticalSituation": "Lib Dems plan to form a Tory government if there is a hung Parliament."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "I believe climate change demands changes in lifestyle as well as the legally binding cuts in emissions I have campaigned and voted for.",
+      "governance": "Lib Dems have refused to rule out the cuts to what they call 'the sacred cow of the NHS'.",
+      "health": "Calls to preserve Labour achievements like the winter allowance, child benefits, the Sure Start Children's Centres. Criticizes potential cuts to NHS and Child Trust funds.",
+      "immigration": "Mentions responding to constituents' concerns, including many refugees and asylum seekers who have come for help.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Wants to see huge investments in energy conservation, renewables and sustainable transport to make a reality of a green new deal. This must go hand in hand with the drive against world poverty and injustice.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament",
+        "duration": "Over 40 years",
+        "achievements": "Lived in the heart of the constituency for over 40 years"
+      }
+    ],
+    "contactInformation": {
+      "address": "Unit A, Bishops Mews Transport Way Oxford OX4 6HD",
+      "phone": "01865 595790",
+      "email": "Andrewsmith.mp@virgin.net",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andrew Smith MP, Leaflet image"
+        }
+      ]
+    },
+    "additionalNotes": "Mentions writing more than 20,000 letters a year addressing constituents' concerns and a willingness to respond to refugees and asylum seekers."
+  }
+}
+```

@@ -1,0 +1,64 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Patrick Grady",
+    "constituency": "Glasgow North",
+    "politicalParty": "SNP",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Scotland's opportunity to make our voice heard loudly and clearly.",
+        "content": "The General Election on May 7th is Scotland's opportunity to make our voice heard loudly and clearly."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Opposition to Austerity",
+        "policyDescription": "The SNP will oppose more austerity cuts and unfair policies like the Bedroom Tax and push for Scottish Home rule to create jobs and protect services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Patrick Grady moved to Glasgow in 1997 to study at Strathclyde University. - He says: 'Our community needs a strong voice in Westminster. As your MP, I'll stand up for Glasgow North and make sure we're heard loud and clear.'",
+      "partyLeader": "Nicola Sturgeon"
+    },
+    "issues": {
+      "governance": "Neither can be trusted to deliver the powers Scotland was promised. With strong Scottish voices at Westminster we will hold the government of the day to account.",
+      "housing": [
+        {
+          "content": "Support for Scottish Home rule to create jobs and protect services.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "SNP candidate for Glasgow North",
+        "duration": "2010",
+        "achievements": "Heavily involved in the campaign against school closures proposed by the Labour-led city council at the time."
+      }
+    ],
+    "contactInformation": {
+      "website": "voteSNP.com"
+    },
+    "endorsements": [
+      {
+        "endorser": "Nicola Sturgeon",
+        "endorsement": "\"Patrick will be a strong voice for you and your family.\""
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Patrick Grady – A strong local voice for Glasgow North."
+        },
+        {
+          "caption": "\"Patrick will be a strong voice for you and your family.\" - Nicola Sturgeon"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

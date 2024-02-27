@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Caroline Jones",
+    "constituency": "Gower",
+    "politicalParty": "Welsh Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "PROTECTING OUR NHS",
+        "content": "The NHS in Wales is facing £1 billion cuts. The closure of Fairwood hospital shows that these cuts are already having an effect in Gower. Caroline pledges to protect health spending in Wales, just as the Conservative Government have done in England and will campaign to support our local NHS services across Gower."
+      },
+      {
+        "title": "EDUCATION HAS TO BE A PRIORITY",
+        "content": "Caroline believes that Welsh pupils must be given the same chance as their counterparts in England. Labour and Plaid are underfunding every pupil in Wales by £600 per head. Caroline believes this is scandalous neglect of our children and our future must stop."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Pledges to protect health spending in Wales and support local NHS services, addressing cuts and closures such as the Fairwood hospital."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Aims to ensure Welsh pupils are given the same opportunities as those in England by addressing the £600 per head underfunding by Labour and Plaid."
+      }
+    ],
+    "mentions": {
+      "candidate": "Caroline Jones",
+      "otherPartyLeaderCandidate": "Labour Health Minister",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Caroline believes that Welsh pupils must be given the same chance as their counterparts in England, highlighting the underfunding of £600 per head by Labour and Plaid as scandalous neglect.",
+      "environment": "",
+      "governance": "",
+      "health": "The leaflet discusses the impact of £1 billion cuts in Wales, referencing the closure of Fairwood hospital and Caroline's pledge to protect health spending.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Caroline is supporting the fight to stop the land sale at Knelston School.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Former Teacher",
+        "duration": "",
+        "achievements": "Supporting the fight to stop the land sale at Knelston School."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Caroline with Cllr. Hood-Williams discussing the tragedy of the closure of Fairwood hospital, due to the decisions of the Labour Health Minister."
+        },
+        {
+          "caption": "A former teacher, Caroline is supporting the fight to stop the land sale at Knelston School."
+        },
+        {
+          "caption": "Caroline with friend Chris Needs, charity president, fundraising for diabetes."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet urges to not forget to cast 2 votes in favor of the Welsh Conservatives."
+  }
+}
+```

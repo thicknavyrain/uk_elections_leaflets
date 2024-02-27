@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Thangam Debbonaire",
+    "constituency": "Bristol West",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "Fighting for Bristol West",
+        "content": "In the two years since being elected, I have worked tirelessly for our area in Parliament."
+      },
+      {
+        "title": "Working Hard on the Issues that Matter to You",
+        "content": "I have continued to act on the broad range of issues and concerns brought to me by Bristol West's residents."
+      },
+      {
+        "title": "The Progressive Choice",
+        "content": "Labour is the only party positioned to keep the Tories out of Bristol West."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit and the EU",
+        "policyDescription": "Thangam has been clear on Labour's promise to immediately guarantee the rights of EU residents in the UK and push for a jobs-first Brexit."
+      },
+      {
+        "policyTitle": "NHS and Social Care",
+        "policyDescription": "Committed to the defence and improvement of our NHS and social care."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Labour will reverse cuts to education, introduce free school meals for all primary children and reduce class sizes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Thangam Debbonaire stands up for what she believes - for Bristol, for Labour values",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Labour is the only party positioned to keep the Tories out of Bristol West."
+    },
+    "issues": {
+      "brexitEurope": "Labour's promise is to immediately guarantee the rights of EU residents in the UK and push for a jobs-first Brexit.",
+      "economy": "",
+      "education": "Labour will reverse cuts to education, introduce free school meals for all primary children and reduce class sizes.",
+      "environment": "",
+      "governance": "",
+      "health": "Defence and improvement of our NHS and social care.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "A message from Thangam: As your MP, I have focused on both the big national issues like Brexit, NHS and school funding, and on the many individual concerns which constituents ask for my help with.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament",
+        "duration": "Two years",
+        "achievements": "Worked hard on issues that matter to you, such as the NHS, school funding, and Brexit."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Thangam Debbonaire with constituents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

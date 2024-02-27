@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Clarence Mitchell",
+    "constituency": "Brighton Pavilion",
+    "politicalParty": "Conservatives",
+    "electionDate": "2015 General Election",
+    "messages": [
+      {
+        "title": "Dear Resident,",
+        "content": "With the 2015 General Election just weeks away, I am asking you, as your Conservative Prospective Parliamentary Candidate for Brighton Pavilion, for your vote..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Planning for economic growth through handling the UK's public finances and bringing back the economy to full strength by moving from 'rescue' to 'renewal'."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Increase employment opportunities, including creating 2,000 new apprenticeships."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Boosting the National Health Service by, amongst other measures, recruiting more GPs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Clarence Mitchell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "Comments on potentially losing the most winnable seat in Brighton."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Planning for economic growth through handling the UK's public finances...",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Boosting the National Health Service by, amongst other measures, recruiting more GPs.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "More than 2,000 families have been helped onto the property ladder locally...",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.clarence4pavilion.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "A strong economy is key to securing Britain's future.",
+        "source": "David Cameron, Prime Minister",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Clarence Mitchell - Your Conservative Candidate for Brighton Pavilion"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

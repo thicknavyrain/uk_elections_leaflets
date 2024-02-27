@@ -1,0 +1,73 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Winnick",
+    "constituency": "Walsall North",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Our record",
+        "content": "The Labour Government has brought about many improvements in the lives of ordinary people. Since 1997 the Labour Government has introduced the tax credit schemes, which have helped so many families in Walsall. The winter fuel allowance for pensioners, as well as the free TV licences for over seventy-fives and free eye tests. And not forgetting the national free bus pass."
+      },
+      {
+        "title": "My Record",
+        "content": "I have always held regular surgeries\nI have one of the lowest expense claim records in Parliament\nI am a full time Member of Parliament with no other job\nI have always been an active Member of Parliament, speaking out on national issues and those affecting the constituency\nI have always done my utmost to serve all of my constituents"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "David Winnick",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "A Tory government would put these gains in danger!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Since 1997 the Labour Government has introduced the tax credit schemes.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The winter fuel allowance for pensioners, as well as the free TV licences for over seventy-fives and free eye tests.",
+      "immigration": "",
+      "socialWelfare": "The tax credit schemes have helped so many families in Walsall.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have always, as the Member of Parliament, tried to serve all my constituents, and certainly if re-elected will continue to do so.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament",
+        "duration": "",
+        "achievements": "Regular surgeries, low expense claim records, full-time commitment, active speaking on national issues, serving constituents."
+      }
+    ],
+    "contactInformation": {
+      "address": "12 Archer Rd, Walsall, WS3 1AN",
+      "phone": "07828 888894",
+      "email": "david.winnick@live.co.uk",
+      "website": "www.labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Winnick with a London landmark in the background"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

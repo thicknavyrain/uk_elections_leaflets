@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Rendel",
+    "constituency": "West Berkshire",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "COMMUNITY SURVEY UNDERWAY",
+        "content": "The villages and rural areas of West Berkshire are currently being surveyed to find out what you think about local and national issues."
+      },
+      {
+        "title": "RURAL SCHOOLS UNDER THREAT",
+        "content": "Residents in rural villages desperately want to be able to send their children to a good local primary school. But now the Conservatives are threatening a 10% cut in Education spending if they win the next General Election."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Area Forums",
+        "policyDescription": "The candidate criticizes the Conservative's cutting of area forums, suggesting it led to ignoring of local voices. They suggest a Royal County of Berkshire show that allows people to voice their concerns."
+      },
+      {
+        "policyTitle": "Rural Schools",
+        "policyDescription": "The leaflet emphasizes the importance of allowing children to attend a good local primary school and criticizes the Conservatives for threatening a 10% cut in Education spending."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Rendel",
+      "otherPartyLeaderCandidate": "Conservative MPs",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The Conservatives are threatening a 10% cut in Education spending if they win the next General Election.",
+      "environment": "",
+      "governance": "Conservatives cut area forums which allowed people to voice concerns.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Parliamentary Spokesperson",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Return to: Hermitage Liberal Democrats, FREEPOST, RBYS-CJXR-EAEK, Room 9, Priory House, Kelvin Road, Newbury, RG14 2DB",
+      "phone": "07770821112, 01635 200764",
+      "email": "davidrendel@btinternet.com, chris.marriage@btinternet.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Parliamentary Spokesperson David Rendel and local campaigner Peter Newman conducting the survey."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

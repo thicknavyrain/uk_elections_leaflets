@@ -1,0 +1,108 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Warning",
+        "content": "These freedoms cannot be achieved while we remain in the EU. Any politician who offers you all this without leaving the EU is a liar and needs firing!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Free to speak",
+        "policyDescription": "The EU has diluted our freedom of speech. Only UKIP can restore the law to recognize our rights as rights."
+      },
+      {
+        "policyTitle": "Free to work",
+        "policyDescription": "UKIP will remove the benefit trap ensuring that it always pays to work. Only UKIP makes 'British jobs for British workers' make sense."
+      },
+      {
+        "policyTitle": "Free to live",
+        "policyDescription": "Only UKIP can put the police on the streets and the victim on top in the criminal justice system: Just sentences that mean what they say. Enough prisons to make prison work."
+      },
+      {
+        "policyTitle": "Free to be democratic",
+        "policyDescription": "Outside the EU we can elect the people who write our laws. Only UKIP can restore our democracy and clean up the mother of parliaments after all scandals."
+      },
+      {
+        "policyTitle": "Free to be British",
+        "policyDescription": "Only UKIP will - Take control of immigration, which is impossible in the EU. Stop getting involved in other people’s wars. Concentrate on making this country a fit place to call our home."
+      },
+      {
+        "policyTitle": "Free to prosper",
+        "policyDescription": "£45 million pounds a day better off out of the EU. UKIP will regulate the UK banks to make them pay the price for their failures, without destroying the banking industry. With no restrictive EU trade rules we can trade with the whole world freely and fairly."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "These freedoms cannot be achieved while we remain in the EU.",
+      "economy": "£45 million pounds a day better off out of the EU. UKIP will regulate the UK banks to make them pay the price for their failures, without destroying the banking industry. With no restrictive EU trade rules we can trade with the whole world freely and fairly.",
+      "education": "",
+      "environment": "",
+      "governance": "Outside the EU we can elect the people who write our laws. Only UKIP can restore our democracy and clean up the mother of parliaments after all scandals.",
+      "health": "",
+      "immigration": "Only UKIP will - Take control of immigration, which is impossible in the EU.",
+      "socialWelfare": "UKIP will remove the benefit trap ensuring that it always pays to work. Only UKIP makes 'British jobs for British workers' make sense.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        },
+        {
+          "caption": "Pick a plum."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,56 @@
+{
+  "leaflet": {
+	"candidateName": "Taffy",
+	"constituency": "",
+	"politicalParty": "UKIP",
+	"electionDate": "May 6th",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Taffy",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "29 Ponc Y Fron, Llangefni, Anglesey LL77 7NY",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Taffy"
+    	}
+  	]
+	},
+	"additionalNotes": "Promoted by Nathan Gill on behalf of Philip John, UKIP Wales."
+  }
+}

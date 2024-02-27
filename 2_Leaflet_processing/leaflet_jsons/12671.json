@@ -1,0 +1,73 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Labour Party",
+    "electionDate": "Thursday 6 May",
+    "messages": [
+      {
+        "title": "Only one will be Prime Minister",
+        "content": "Only one of two people will become Prime Minister after this election - Gordon Brown or David Cameron."
+      },
+      {
+        "title": "Voting Lib Dem or SNP on Thursday will only help the Tories....",
+        "content": "Voting Lib Dem or SNP will let David Cameron in. They have said they will work with a Tory Government."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "Gordon Brown",
+      "tacticalSituation": "Voting Lib Dem or SNP will let David Cameron in. They have said they will work with a Tory Government."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Don't put the economic recovery at risk with the Tories. Lib Dems are prepared to back Cameron.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Promoted by Colin Smyth, Scottish General Secretary, on behalf of the Scottish Labour Party, both at John Smith House, 145 West Regent St, Glasgow, G2 4RE. Printed by XXXXXXX.",
+      "phone": "",
+      "email": "",
+      "website": "scottishlabour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "TORIES - WE WILL WORK WITH THE SNP",
+        "source": "The Sun",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Gordon Brown with workers."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

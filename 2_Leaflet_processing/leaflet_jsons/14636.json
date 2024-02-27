@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mike Penning",
+    "constituency": "Hemel Hempstead",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "3 POSITIVE REASONS TO VOTE FOR MIKE PENNING",
+        "content": "A local resident, Standing up for local people, An experienced campaigner"
+      },
+      {
+        "title": "NEVER FORGET LABOUR CLOSED OUR HOSPITAL",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "PROTECTING OUR GREEN FIELDS",
+        "policyDescription": "Mike commits to protecting green fields and opposes over-development."
+      },
+      {
+        "policyTitle": "JOBS AND WELFARE",
+        "policyDescription": "To get Britain working we will simplify the benefits system."
+      },
+      {
+        "policyTitle": "CRIME - IT'S TIME TO FIGHT BACK",
+        "policyDescription": "We will restore responsibility and get the police out on the streets."
+      },
+      {
+        "policyTitle": "MAKING FAMILIES STRONGER",
+        "policyDescription": "The Conservatives recognize the importance of families and will work to help them balance work and family life."
+      },
+      {
+        "policyTitle": "CONTROLLING IMMIGRATION",
+        "policyDescription": "The Conservatives propose limits on the number of non-EU immigrants allowed into the UK, to reduce both the strain on public services and the need for new housing."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mike Penning has a history of standing up for local issues and being an active campaigner.",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Fighting for a real hospital for Hemel Hempstead, Mike continues to fight for a full district hospital to serve the residents of Hemel Hempstead.",
+      "immigration": "The Conservatives propose limits on the number of non-EU immigrants allowed into the UK, to reduce both the strain on public services and the need for new housing.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Mike commits to protecting green fields and opposes over-development.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "As a husband, father and resident of Hemel Old Town, Mike Penning shares and understands the concerns of local people.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for Hemel Hempstead",
+        "duration": "Elected in 2005",
+        "achievements": "Mike has established himself as a strong constituency campaigner on local issues such as the Buncefield, Dixion pensioners, the green belt and local veterans."
+      }
+    ],
+    "contactInformation": {
+      "address": "1 Davidson House, 168 Queensway, Hemel Hempstead, HP2 5FX",
+      "phone": "01442 255034",
+      "email": "mike@penning4hemel.com",
+      "website": "www.penning4hemel.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mike Penning pictured with various groups and local residents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

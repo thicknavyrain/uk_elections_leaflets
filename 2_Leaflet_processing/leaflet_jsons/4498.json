@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Hazel Blears",
+    "constituency": "Salford",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Important, practical information about voting in the General Election",
+        "content": "This General Election is going to be an important one for our communities. We all have to make choices about what we want, and often about what we don't want."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "The National Health Service",
+        "policyDescription": "Labour has invested £20m in rebuilding Salford Royal Hospital making it one of the best in the country. We are now building the new Christie Cancer Centre at the hospital offering world class cancer care close to home. Labour will guarantee that everyone will have the right to see a cancer specialist within 2 weeks of being referred by their GP bringing early treatment and peace of mind."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Highlights the Tories' response to the economic problems caused by the banks. They would not have intervened to help. They'd have left banks to fail, they'd have put your savings at risk, and they'd have allowed people to lose their homes."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "The approach to cutting the deficit is wrong by the Tories. They want to cut public services immediately to bring the national deficit down too, but more than ever, we need those front line services -- doctors, nurses, teachers, police, social services -- and we need to keep people employed."
+      },
+      {
+        "policyTitle": "Community Engagement",
+        "policyDescription": "Over the last few years I have written to you about the key issues, asking your views on those things that matter most and bringing communities together to help solve local problems."
+      }
+    ],
+    "mentions": {
+      "candidate": "Hazel Blears",
+      "otherPartyLeaderCandidate": "Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Tories' response to the economic problems caused by the banks. They would not have intervened to help. They'd have left banks to fail, they'd have put your savings at risk, and they'd have allowed people to lose their homes.",
+      "education": "",
+      "environment": "",
+      "governance": "The approach to cutting the deficit is wrong by the Tories. They want to cut public services immediately to bring the national deficit down too, but more than ever, we need those front line services -- doctors, nurses, teachers, police, social services -- and we need to keep people employed.",
+      "health": "Labour has invested £20m in rebuilding Salford Royal Hospital making it one of the best in the country. We are now building the new Christie Cancer Centre at the hospital offering world class cancer care close to home. Labour will guarantee that everyone will have the right to see a cancer specialist within 2 weeks of being referred by their GP bringing early treatment and peace of mind.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "201 Langworthy Rd, Salford M5 5PW.",
+      "phone": "0161 736 5165",
+      "email": "hazel@hazelblears.co.uk",
+      "website": "www.hazelblears.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

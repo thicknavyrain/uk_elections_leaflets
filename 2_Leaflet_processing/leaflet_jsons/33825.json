@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tracey Biggs",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "12 December",
+    "messages": [
+      {
+        "title": "It's time for Real Change",
+        "content": "My name is Tracey and I'm writing to you today because I care about our NHS and I think you do too."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Labour's NHS Rescue Plan will restore the nursing bursary and recruit thousands of doctors and nurses we need to end the Tory NHS crisis. Labour will also focus on prevention methods to stop people getting sick and tackle health inequalities and prioritise children's health and wellbeing."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tracey Biggs",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "",
+      "tacticalSituation": "Lots of people think Brexit is the only thing that matters at this election, but there's any number of other issues at stake too."
+    },
+    "issues": {
+      "brexitEurope": "Lots of people think Brexit is the only thing that matters at this election.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Labour's NHS Rescue Plan will restore the nursing bursary and recruit thousands of doctors and nurses we need to end the Tory NHS crisis. Labour will also focus on prevention methods to stop people getting sick and tackle health inequalities and prioritise children's health and wellbeing.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have worked in the NHS for 36 years, working hard to tackle health inequality. Since the Tories came to power nearly 10 years ago my job has got harder. Cuts to the NHS has put huge pressure on resources resulting in waiting times in A&E for a GP and cancer treatment.",
+    "politicalExperience": [
+      {
+        "role": "Health visitor",
+        "duration": "36 years",
+        "achievements": "Working hard to tackle health inequality."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Save the NHS"
+        },
+        {
+          "caption": "More doctors and nurses"
+        },
+        {
+          "caption": "End privatisation"
+        },
+        {
+          "caption": "Restore nursing bursaries"
+        },
+        {
+          "caption": "Joined-up care"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

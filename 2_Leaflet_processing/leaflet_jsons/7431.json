@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "A 'Living Wage' for all",
+        "policyDescription": "Green MPs will demand a 'Living Wage' to ensure low paid workers earn enough to provide for themselves and their families. Commitment to fight for a fairer tax deal, fund community banks, credit unions, and mutuals, providing realistic loans to families and small businesses."
+      },
+      {
+        "policyTitle": "A million new jobs",
+        "policyDescription": "Green MPs will press for a free insulation scheme for every single home as part of a green package to cut fuel bills and create a million new jobs. Highlighting the role of Green Party councillors in previously launched schemes."
+      },
+      {
+        "policyTitle": "Protect our NHS",
+        "policyDescription": "Green MPs will fight to make sure local services are easy to access and are truly local. They will oppose cuts, closures and privatisation within the NHS and protect the jobs of public sector workers."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "MEP Caroline Lucas",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Commitment to climate change policies on recycling, renewable energy and energy efficient homes. Emphasis on established green technologies.",
+      "governance": "",
+      "health": "Opposition to the privatisation of the NHS, emphasis on making public money spent on the NHS visible and not wasted on privatisation schemes.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anna Soubry",
+    "constituency": "Broxtowe",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A personal message from Anna Soubry",
+        "content": "I'm plain speaking and get the job done! It's been an honour and a privilege to be your MP. I've seen off developers, our Green Belt in Nuthall and fought hard to attend to it in Awsworth. I've stood by residents in Kimberley and Stapleford. I've got compensation funds for businesses in Beeston blighted by the tram works. We need to chill the economic opportunity of our growing economy in one of our great towns like Beeston."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A job for everyone",
+        "policyDescription": "Record levels of employment and apprenticeships."
+      },
+      {
+        "policyTitle": "The best schools for our children",
+        "policyDescription": "Recognising and improving great schools."
+      },
+      {
+        "policyTitle": "Defending our Green Belt",
+        "policyDescription": "Creating a better environment and defending Green Belt from developers."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Ed Miliband, Alex Salmond, Vince Cable",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Defending our Green Belt and creating a better environment.",
+      "governance": "",
+      "health": "Protecting NHS spending on our excellent local GPs and health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Defending our Green Belt from developers.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I'm plain speaking and get the job done! It's been an honour and a privilege to be your MP.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0115 948 4533",
+      "email": "anna@annasoubry.org.uk",
+      "website": "www.annasoubry.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photos of Anna Soubry with various groups and individuals"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

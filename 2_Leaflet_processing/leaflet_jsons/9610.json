@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Clive Sneddon",
+    "constituency": "Dundee East Constituency",
+    "politicalParty": "Scottish Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Liberal Democrats change that works for you",
+        "content": "In Scotland there is only one party in a position to challenge Labour's domination of our politics at Westminster: the Scottish Liberal Democrats. More and more people are switching to back Lib Dem campaigners up and down the country. They know that every vote for the Liberal Democrats is a vote for real action on jobs and every child a fair start: join the campaign for change that works for you."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer taxes that put money back in your pocket",
+        "policyDescription": "Nick Clegg's tax plan means that you will pay no tax on the first £10,000 you earn – cutting most tax bills by £700."
+      }
+    ],
+    "mentions": {
+      "candidate": "Clive Sneddon",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The Lib Dems will take bold action to protect NHS services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "It will be supporting Clive Sneddon on election day.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "c/o Clive Sneddon, Dundee Liberal Democrats, Freepost SC9058, Dundee, DD4 7ZR",
+      "phone": "",
+      "email": "",
+      "website": "www.ScotLibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Spending squeeze for NHS despite Darling's promise",
+        "source": "The Independent, 11 Dec 2009",
+        "date": "2009-12-11"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Clive Sneddon standing in front of a building."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

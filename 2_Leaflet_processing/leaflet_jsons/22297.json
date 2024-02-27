@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mari Williams",
+    "constituency": "Cardiff North",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Cardiff North needs an MP that will stand up for local people.",
+        "content": "I'm from here, I live here and I will be a strong voice for our area."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Make work pay",
+        "policyDescription": "Labour will make work pay by introducing a 10p starting rate of tax."
+      },
+      {
+        "policyTitle": "Train 1000 extra doctors, nurses and frontline NHS staff",
+        "policyDescription": "Labour will train 1000 extra doctors, nurses and frontline NHS staff while recruiting in Mansion tax on properties worth over £2million."
+      },
+      {
+        "policyTitle": "Balance the books",
+        "policyDescription": "Labour will balance the books, none of our manifesto commitments require extra borrowing."
+      },
+      {
+        "policyTitle": "Doubling free childcare hours for working parents",
+        "policyDescription": "Labour will double the amount of free childcare hours for 3 and 4 year olds for working parents."
+      },
+      {
+        "policyTitle": "Reform the energy market and freeze bills until 2017",
+        "policyDescription": "Labour will reform the energy market making bills fairer in the future as well as freezing energy bills until 2017."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mari Williams",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Train 1000 extra doctors, nurses and frontline NHS staff.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Recruiting in Mansion tax on properties worth over £2million.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "13 Llangranog Road, Cardiff, CF14 5BL",
+      "phone": "02921 158 656",
+      "email": "mariforcardiffnorth@gmail.com",
+      "website": "www.mariwilliams.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@Mari_Williams",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mari Williams Standing up for Cardiff North"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

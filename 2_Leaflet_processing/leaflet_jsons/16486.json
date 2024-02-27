@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sally Keeble",
+    "constituency": "Northampton",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Is our country really working for you?",
+        "content": "The parents I meet here in Northampton tell me that under the Tories they are treading water, working harder and harder just to stay afloat, less certain than ever that their children will have the kind of future they want for them..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Energy Bills",
+        "policyDescription": "Freeze energy bills until 2017, cut income tax for 24 million people and ban the damaging zero hours contracts that are particularly affecting our young people."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Protect NHS by hiring an extra 8,000 more doctors and 20,000 more nurses to make sure the NHS always has the time to care."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Control immigration by bringing in fingerprint controls at the border, making sure no-one comes to Britain and claims benefits if they haven't worked, and ensuring that companies hiring from outside the EU also have to train up an apprentice here at home."
+      },
+      {
+        "policyTitle": "Employment and Training",
+        "policyDescription": "A guaranteed job or training for young people out of work for a year, and more apprenticeships."
+      },
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "35,000 fewer childcare places and nursery costs up 30 percent."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sally Keeble",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Energy bills frozen until 2017, a new lower starting rate of tax, and an £8 minimum wage...",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "8,000 more doctors, 20,000 more nurses and a guaranteed GP appointment in 48 hours",
+      "immigration": "Tough new controls to make sure no one who comes to Britain can claim benefits for at least two years",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "FREEPOST RTHB-BKTZ-YSSU, Sally Keeble, Northampton Labour, 6 Oakpark Close, Northampton, NN3 3RJ",
+      "phone": "",
+      "email": "sally@sallykeeble.com",
+      "website": "www.sallykeeble.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sally Keeble with residents"
+        },
+        {
+          "caption": "Sally Keeble's portrait"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

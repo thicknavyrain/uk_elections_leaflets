@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Oliver Coppard",
+    "constituency": "Sheffield Hallam",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "I WAS BORN HERE I WAS RAISED HERE",
+        "content": "I'M WORKING TO BE YOUR NEXT MP"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Oliver Coppard",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Oliver Coppard - From Sheffield Hallam For Sheffield Hallam"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet presents a personal appeal from the candidate, emphasizing his local roots and commitment to the constituency."
+  }
+}
+```

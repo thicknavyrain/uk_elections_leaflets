@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "HELEN GEAKE",
+    "constituency": "BURY ST EDMUNDS",
+    "politicalParty": "Green Party",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "HELEN SAYS...",
+        "content": "I’m standing as your candidate a second time, having doubled the Green vote in 2015. As an archaeologist, I’ve lived in Woolpit for fourteen years and my children all attend local schools. In Bury, Stowmarket and the villages we face new pressures over development, transport and air quality. We need long—term solutions, not quick fixes, to keep our environment safe and our public services healthy. The Green Party has practical, well—researched policies designed to make life better for everyone. Voting Green means voting for a real change for the better."
+      },
+      {
+        "title": "THIS ELECTION ISN’T ABOUT THE NEXT 5 YEARS. IT’S ABOUT THE NEXT 50 YEARS.",
+        "content": "The Green Party is offering real opposition to this Government's extreme Brexit. Only the Green Party has the vision to deliver an alternative future for our country, and our place in the world. And only the Green Party offers a different kind of politics. Every Green vote on 8th June will help make that vision a reality."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "To shape an economy for everyone while preserving a safe environment."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "To build affordable homes and provide properly funded public services."
+      },
+      {
+        "policyTitle": "Democracy",
+        "policyDescription": "To put power back in your hands through a citizens' democracy."
+      }
+    ],
+    "mentions": {
+      "candidate": "HELEN GEAKE",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "If you agree with us, stand with us. The Conservatives think they have this election sewn up. But it's in your hands. Stand with us for housing, schools, our NHS, our environment, and our future."
+    },
+    "issues": {
+      "brexitEurope": "The Green Party is offering real opposition to this Government's extreme Brexit.",
+      "economy": "To shape an economy for everyone while preserving a safe environment.",
+      "education": "",
+      "environment": "To keep our environment safe and our public services healthy.",
+      "governance": "To put power back in your hands through a citizens' democracy.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "To build affordable homes and provide properly funded public services.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I’m standing as your candidate a second time, having doubled the Green vote in 2015. As an archaeologist, I’ve lived in Woolpit for fourteen years and my children all attend local schools.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01359 241318",
+      "email": "helen.geake@greenparty.org.uk",
+      "website": "midsuffolk.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "HELEN GEAKE YOUR GREEN PARTY CANDIDATE BURY ST EDMUNDS"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

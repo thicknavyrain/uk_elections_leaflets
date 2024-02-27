@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "Normanton Pontefract and Castleford",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Let's get Brexit done. Let’s get on with the country’s priorities.",
+    	"content": "LET’S UNLEASH BRITAIN’S POTENTIAL."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS Funding",
+    	"policyDescription": "£33.9 billion extra for the NHS."
+  	},
+  	{
+    	"policyTitle": "Police",
+    	"policyDescription": "20,000 extra police for safer streets."
+  	},
+  	{
+    	"policyTitle": "New Hospitals",
+    	"policyDescription": "40 new hospitals across the country."
+  	},
+  	{
+    	"policyTitle": "Education Funding",
+    	"policyDescription": "More funding for every pupil in every school."
+  	},
+  	{
+    	"policyTitle": "Nationwide Broadband",
+    	"policyDescription": "Gigabit broadband for the whole country."
+  	},
+  	{
+    	"policyTitle": "Town Investment",
+    	"policyDescription": "£3.6 billion to help towns invest and attract new businesses."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Let's get Brexit done.",
+  	"economy": "£3.6 billion to help towns invest and attract new businesses.",
+  	"education": "More funding for every pupil in every school.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "£33.9 billion extra for the NHS. 40 new hospitals across the country.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Images showing various campaign promises and a caption 'LET’S UNLEASH BRITAIN’S POTENTIAL.'"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

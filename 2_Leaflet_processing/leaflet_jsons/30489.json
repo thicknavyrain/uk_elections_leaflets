@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sue McGuire",
+    "constituency": "Southport",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "A Conservative government is dragging Britain towards a damaging hard Brexit.",
+        "content": "Sensible business leaders are ignored. Threats to the economy are dismissed. The country is bitterly divided. Any kind of opposition even inside the Tory party must be crushed."
+      },
+      {
+        "title": "This election is our chance to restore some sanity.",
+        "content": "We need a strong opposition that will stand up for our NHS and our schools – both of which face damaging cuts opposition under this government."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Strong opposition to a damaging hard Brexit."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Stand up for our NHS."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Stand up for our schools."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sue McGuire",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn's Labour Party",
+      "partyLeader": "",
+      "tacticalSituation": "In Southport, elections are always a close race between local Lib Dems and the Conservatives. Jeremy Corbyn's Labour Party can't win here and are going backwards everywhere. The Conservatives, again were unable to find a local Southport candidate."
+    },
+    "issues": {
+      "brexitEurope": "A Conservative government is dragging Britain towards a damaging hard Brexit.",
+      "economy": "Sensible business leaders are ignored. Threats to the economy are dismissed.",
+      "education": "We need a strong opposition that will stand up for our schools – both of which face damaging cuts opposition under this government.",
+      "environment": "",
+      "governance": "Any kind of opposition even inside the Tory party must be crushed.",
+      "health": "We need a strong opposition that will stand up for our NHS – both of which face damaging cuts opposition under this government.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "35 Shakespeare Street, Southport, PR8 5AB",
+      "phone": "01704 533555",
+      "email": "McGuire4Southport@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liberal Democrats leaflet with a message from Sue McGuire."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

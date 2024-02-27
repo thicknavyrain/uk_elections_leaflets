@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ben Macpherson",
+    "constituency": "Edinburgh Northern and Leith",
+    "politicalParty": "SNP",
+    "electionDate": "5 May",
+    "messages": [
+      {
+        "title": "A strong, new voice for Edinburgh Northern and Leith",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Ben Macpherson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "This is my home I grew up on this side of the city, Edinburgh Northern and Leith is my home. I live in our constituency and care passionately about all of our strong, vibrant and diverse communities, which I hope to have the privilege to serve and represent.",
+    "politicalExperience": [
+      {
+        "role": "Solicitor",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "Renewable energy, financial services",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "ben.macpherson@edinburghsnp.org",
+      "website": "www.benmacpherson.com",
+      "socialMedia": {
+        "facebook": "/BenMacSNP",
+        "twitter": "@BenMacpherson",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ben Macpherson in Edinburgh Northern and Leith"
+        }
+      ]
+    },
+    "additionalNotes": "Engaged campaigner active in local communities and local events, aiming to bring a new energy, strong commitment and constructive approach as MSP."
+  }
+}
+```

@@ -1,0 +1,106 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Will Gallagher",
+    "constituency": "City of Chester",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A Key Voice for Chester",
+        "content": "Will has been a key part of the Conservative team in the North West working as chief of staff to the former chancellor and was a special adviser at the Ministry of Justice."
+      },
+      {
+        "title": "Local Voice",
+        "content": "A local man who lives in the city centre of Chester with his young family."
+      },
+      {
+        "title": "Why a New Police Station in City Centre Chester is needed NOW, not Action 10 years too late",
+        "content": "The plan for a new city centre police station is supported by the Constabulary, PCC John Dwyer & local Conservatives."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "BETTER HEALTHCARE",
+        "policyDescription": "Campaigning for a brand new Health Centre in the heart of the city."
+      },
+      {
+        "policyTitle": "BETTER POLICING",
+        "policyDescription": "Delivered new policing Bill. Plans for a new Police Station supported by Constabulary, PCC & local Conservatives."
+      },
+      {
+        "policyTitle": "MORE SCHOOL PLACES",
+        "policyDescription": "Secured £4 million gov investment for more school places in the city."
+      }
+    ],
+    "mentions": {
+      "candidate": "Conversative team in the North West, Chief of staff to the former chancellor, special adviser at the Ministry of Justice",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Secured £4 Million government investment for more school places in the city",
+      "environment": "",
+      "governance": "",
+      "health": "Campaigning for a brand new Health Centre in the heart of the city",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Streets clean and clear of litter",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Local man for local people",
+    "politicalExperience": [
+      {
+        "role": "Chief of staff to the former chancellor, special adviser at the Ministry of Justice",
+        "duration": "",
+        "achievements": "Part of success in cutting unemployment, raising living standards & cutting crime."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "chesterconservatives@gmail.com",
+      "website": "chesterconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@will4chester",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Rt Hon Theresa Villiers MP",
+        "endorsement": "Will is a first class candidate."
+      },
+      {
+        "endorser": "John Dwyer, Cheshire PCC",
+        "endorsement": "Will knows how to get things done for local people."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We need to be a city that looks forward, not back, and we need an MP who can work with government to deliver that.",
+        "source": "Will on...",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Will Gallagher engaging with the community"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```
+Please note that due to the image's quality and the volume of text, I have included only the most clearly legible and relevant content from the campaign leaflet into the JSON format. There may be more information that cannot be discerned from the image provided.

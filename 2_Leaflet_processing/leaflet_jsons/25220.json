@@ -1,0 +1,103 @@
+{
+  "leaflet": {
+	"candidateName": "Tom Rubython",
+	"constituency": "Northampton North",
+	"politicalParty": "UKIP",
+	"electionDate": "7th May",
+	"messages": [
+      {
+        "title": "My Promise",
+        "content": "After May 2015, if I am elected as your new MP, I will put party politics aside and fight tooth and nail for all of the 65,000 citizens of Northampton North, regardless of who you are, where you came from or who you voted for."
+      }
+	],
+	"keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "NO MORE Excessive house building; enough is enough"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "NO MORE STEM tuition fees; education free at the point of need"
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "NO MORE Excuses; Northampton needs a new hospital"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "NO MORE Profiteering; gas and electric priced the same for all"
+      },
+      {
+        "policyTitle": "Living Wage",
+        "policyDescription": "NO MORE Minimum wage that people cannot live on. UKIP wants £8.50 an hour."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "NO MORE Broken promises; the people want an EU referendum now"
+      }
+	],
+	"mentions": {
+      "candidate": "Tom Rubython",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+	},
+	"issues": {
+      "brexitEurope": "Broken promises; the people want an EU referendum now",
+      "economy": "Profiteering; gas and electric priced the same for all",
+      "education": "STEM tuition fees; education free at the point of need",
+      "environment": "",
+      "governance": "The people want an EU referendum now",
+      "health": "Excuses; Northampton needs a new hospital",
+      "immigration": "",
+      "socialWelfare": "Minimum wage that people cannot live on. UKIP wants £8.50 an hour.",
+      "housing": [
+        {
+          "content":"Excessive house building; enough is enough",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+	},
+	"personalStatement": "I despise elitism in all its forms. I believe everyone is equal regardless of age, gender, race, sexuality and religion.",
+	"politicalExperience": [
+      {
+        "role": "UKIP Parliamentary Candidate",
+        "duration": "",
+        "achievements": ""
+      }
+	],
+	"contactInformation": {
+      "address": "31 St Paul's Road, Northampton NN2 6ES",
+      "phone": "",
+      "email": "",
+      "website": "www.northamptonnorth.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+	},
+	"endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+	],
+	"quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+	],
+	"campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tom Rubython Campaign Leaflet"
+        }
+      ]
+	},
+	"additionalNotes": ""
+  }
+}

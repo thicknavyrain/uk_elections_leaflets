@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Dobson",
+    "constituency": "Liverpool Riverside",
+    "politicalParty": "Green Party",
+    "electionDate": "2015",
+    "messages": [
+      {
+        "title": "A Personal Message from Martin Dobson",
+        "content": "Judging by the opinion polls, it looks likely that no single party will get an overall majority. This means that the Green Party now have a real chance of influence in a hung parliament."
+      },
+      {
+        "title": "Last chance to save Sefton Park Meadows",
+        "content": "At this year's local election, it's crunch time for Sefton Park Meadows. The election of Green Party Councillor Lawrence Brown in Greenbank ward sends a strong message that local people value the heritage of the beautiful and historic Sefton Park Meadows. The Green Party is the only party consistently voted to save our green spaces."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Strengthen the NHS and bring the railways back into public hands."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Bring in measures like affordable homes, a restored and expanded NHS, and get the attention they deserve."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "An end to the cuts and real investment in people by Labour."
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin Dobson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Caroline Lucas",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "An end to the cuts and real investment in people by Labour.",
+      "education": "",
+      "environment": "Green spaces like Sefton Park Meadows are crucial to the community and must be protected.",
+      "governance": "",
+      "health": "Strengthen the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Bring in measures like affordable homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet featuring Martin Dobson, Green Party Candidate for Liverpool Riverside and David Morgan, Green Party Council Candidate for Greenbank Ward."
+        }
+      ]
+    },
+    "additionalNotes": "Vote Green in 2015."
+  }
+}
+```

@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Johnson",
+    "constituency": "Orpington",
+    "politicalParty": "Conservative Party",
+    "electionDate": "Thursday May 6th",
+    "messages": [
+      {
+        "title": "",
+        "content": "Dear Constituent, On Thursday May 6th Britain votes in the most important national election for a generation."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "A Conservative government will move quickly to get Britain moving. We will cut the deficit, but take care to protect front-line public services and ring-fence the NHS budget. We will also begin to reverse Labour’s tax on jobs that come in from Labour's last knee-jerk national insurance contributions."
+      },
+      {
+        "policyTitle": "Social Order",
+        "policyDescription": "Cracking down on yobbish and anti-social behaviour"
+      },
+      {
+        "policyTitle": "Protection",
+        "policyDescription": "Protecting locals areas against overdevelopment and illegal occupation"
+      },
+      {
+        "policyTitle": "Supporting Local Traders",
+        "policyDescription": "Championing the revival of Orpington High Street and supporting local traders"
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Ensuring good NHS services that put patients first"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Campaigning for a better deal for Orpington's students"
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Making sure that a Big Hill Airport offers lots of flights to lots of destinations while respecting the local environment"
+      }
+    ],
+    "mentions": {
+      "candidate": "Jo Johnson",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": "A vote for anyone other than the Conservatives is a vote for five more years of Labour. A vote for anyone above all, that a vote for the Liberal Democrats could allow Gordon Brown to hang onto power. This is something the country cannot afford."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We will cut the deficit, but take care to protect front-line public services and ring-fence the NHS budget. We will also begin to reverse Labour’s tax on jobs.",
+      "education": "Campaigning for a better deal for Orpington's students",
+      "environment": "Making sure that a Big Hill Airport offers lots of flights to lots of destinations while respecting the local environment",
+      "governance": "After 13 years of Labour rule, the country is left with the public finances of a banana republic, struggling to emerge from the longest recession since records began.",
+      "health": "Ensuring good NHS services that put patients first",
+      "immigration": "We’ll raise standards in schools and, unlike the Liberal Democrats, we’ll keep the UK out of the euro and say a 'no' to ID cards.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Protecting locals areas against overdevelopment and illegal occupation",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I hope you will take the chance to vote for change.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "5-6 Sevenoaks Road, Orpington, Kent BR6 9JJ",
+      "phone": "01689 820347",
+      "email": "jo@jo-johnson.com",
+      "website": "www.jo-johnson.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Jo Johnson with text 'VOTE JO JOHNSON WORKING FOR ORPINGTON' and campaign messages."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

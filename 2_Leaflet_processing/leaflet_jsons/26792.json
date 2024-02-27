@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stephen Morgan",
+    "constituency": "Portsmouth South",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "WE NEED A BETTER DEAL FOR OUR CITY CENTRE",
+        "content": "Centres are said that our shopping centres are dying and Portsmouth Harbour is getting nowhere while rivals invest in their city centres."
+      },
+      {
+        "title": "Protecting local jobs",
+        "content": "More ship repair work is a must to secure the future of Dockyard jobs."
+      },
+      {
+        "title": "OUR HEALTH SERVICE NEEDS OUR CARE",
+        "content": "Portsmouth’s accident and emergency service is struggling, as the QA hospital says they are 'exceptionally busy with rising attendances.'"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "City Centre",
+        "policyDescription": "Stephen Morgan promises to be a powerful voice for a city centre growing rapidly. He underlines the importance of reviving city centres and competing with commercial rivals."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Morgan stresses the need to meet the housing demand in Portsmouth with not enough homes being built for people."
+      },
+      {
+        "policyTitle": "Health Service",
+        "policyDescription": "Acknowledges the challenges of Portsmouth’s emergency services and declares that the National Health Service needs care and attention."
+      }
+    ],
+    "mentions": {
+      "candidate": "I am here today at Commercial Road...",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Labour can only win here with your support."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "More ship repair work is a must to secure the future of Dockyard jobs. Our city centre needs a powerful voice for growth.",
+      "education": "Labour wants to protect Portsmouth's schools.",
+      "environment": "",
+      "governance": "",
+      "health": "Our Health Service needs our care",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Portsmouth's housing needs are not being met. There are not enough homes being built for our people.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "In this first issue of Pompey Matters, Stephen Morgan shares with us why he's hoping to be our next MP for Portsmouth South.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Portsmouth Labour, 10 London Road, Portsmouth PO2 0LH",
+      "phone": "07951297747",
+      "email": "stephen4portsmouth@gmail.com",
+      "website": "www.stephenjmorgan.org",
+      "socialMedia": {
+        "facebook": "stephen4portsmouth",
+        "twitter": "sjmorganuk",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Hard residents",
+        "endorsement": "Stephen is exactly what this city and Buckland residents need."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I can honestly say I've never seen such a hard-working and dedicated local politician. You always put residents first.",
+        "source": "Resident in Buckland",
+        "date": ""
+      },
+      {
+        "text": "Don't be fooled by Lib Dem, there is a choice in this election - Stephen is surely the best choice for Portsmouth South.",
+        "source": "Resident of Milton",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stephen at Commercial Road"
+        },
+        {
+          "caption": "Stephen on a visit to QA hospital"
+        }
+      ]
+    },
+    "additionalNotes": "Pompey Matters - Standing up for you in Portsmouth South Issue 1"
+  }
+}
+```

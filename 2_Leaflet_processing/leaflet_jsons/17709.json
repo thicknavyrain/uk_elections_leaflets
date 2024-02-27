@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Hart",
+    "constituency": "Carmarthen West and South Pembrokeshire",
+    "politicalParty": "Welsh Conservatives",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "My priorities",
+        "content": "Continuing to force local health bosses to provide prompt services and efficient hospitals. Fighting to create lasting jobs in our community and helping local businesses to prosper. Ensuring good quality education, a safe environment for pensioners and support for those in need."
+      },
+      {
+        "title": "I am also proud to have...",
+        "content": "Helped more than 5,000 local people with problems from health to housing. Campaigned to retain Coastguard services in Milford Haven and supported farmers in their battle with bovine TB. Provided an extra voice at all levels of the UK campaigning for our local people in their hour of need."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Promises to continue forcing local health bosses to ensure prompt services and efficient hospitals."
+      },
+      {
+        "policyTitle": "Jobs and Economy",
+        "policyDescription": "Aims to create lasting jobs in the community and help local businesses to prosper."
+      },
+      {
+        "policyTitle": "Education and Environment",
+        "policyDescription": "Ensuring good quality education and a safe environment."
+      },
+      {
+        "policyTitle": "Support for Those in Need",
+        "policyDescription": "Committed to providing support for pensioners and those in need."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Hart",
+      "otherPartyLeaderCandidate": "Ed Miliband, Nicola Sturgeon, Alex Salmond",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Committed to finding jobs for scores of people with the help of local businesses.",
+      "education": "Ensuring good quality education.",
+      "environment": "Ensuring a safe environment.",
+      "governance": "Provided an extra voice at all levels of the UK campaigning for local needs.",
+      "health": "Focused on local health services and efficient hospitals.",
+      "immigration": "",
+      "socialWelfare": "Support for pensioners and those in need.",
+      "housing": [
+        {
+          "content": "Helped more than 5,000 local people with problems from health to housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Do I deserve your support on May 7 after five years as your MP? ... Therefore, bear in mind my track record of delivery for our community, and my plan for the next five years - before you decide how to vote.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "Previous five years",
+        "achievements": "Helped more than 5,000 local people with various problems, organised four jobs fairs, fought successfully to retain funding for SAC Carmarthen, worked closely with BT OpenReach to deliver superfast broadband to 96% of households by the end of the year."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01994 242100",
+      "email": "simon@simon-hart.com",
+      "website": "www.simon-hart.com",
+      "socialMedia": {
+        "facebook": "fb.com/simon.hart.737",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Simon Hart with constituents"
+        },
+        {
+          "caption": "Healthcare professionals in discussion"
+        },
+        {
+          "caption": "Simon Hart speaking in the House of Commons"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

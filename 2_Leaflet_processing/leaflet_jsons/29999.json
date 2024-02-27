@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Peter Turner",
+	"constituency": "",
+	"politicalParty": "Liberal Democrat",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Peter Turner",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "54 Culver Street, Colchester, CO1 1LF",
+  	"phone": "",
+  	"email": "info@braintreeandwithamlibdems.org.uk",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "braintreeandwithamlibdems",
+    	"twitter": "BtreeWithamLibs",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Peter Turner"
+    	}
+  	]
+	},
+	"additionalNotes": "KEEPING BRITAIN OPEN, TOLERANT AND UNITED"
+  }
+}
+```

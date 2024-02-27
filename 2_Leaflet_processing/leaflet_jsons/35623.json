@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Swinson",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "In a few short months Boris Johnson has shown how unfit he is to be in Downing Street. His divisive and extreme politics are increasing the tensions and division in our country. His plans for a ‘no deal’ Brexit will wreck our economy and our future. He doesn’t care about our democracy or our laws. As Leader of the Liberal Democrats, I am determined to stop Boris Johnson."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stopping Brexit",
+        "policyDescription": "Jo Swinson, as the Leader of the Liberal Democrats, is determined to stop Brexit and highlights it as a priority when elected."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jo Swinson",
+      "otherPartyLeaderCandidate": "Boris Johnson, Jeremy Corbyn",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Jo Swinson is against 'no deal' Brexit and aims to stop Brexit.",
+      "economy": "Plans for 'no deal' Brexit will wreck the economy.",
+      "education": "Wants to build the best education system in the world.",
+      "environment": "Aims to protect our planet and will tackle the climate emergency.",
+      "governance": "Concerned about the impact of the Conservative leadership on democracy and laws.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "As Leader of the Liberal Democrats, I am determined to stop Boris Johnson.",
+    "politicalExperience": [
+      {
+        "role": "Leader of the Liberal Democrats",
+        "duration": "",
+        "achievements": "The Liberal Democrats are winning up and down the country... we beat both the Conservatives and Labour at the recent EU elections."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "jo.leader@libdems.org.uk",
+      "website": "www.libdems.org.uk/help",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jo Swinson - Leader of the Liberal Democrats"
+        }
+      ]
+    },
+    "additionalNotes": "PS. To get involved with our growing party that's changing our country, please visit www.libdems.org.uk/help today."
+  }
+}
+```

@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Angie Bray",
+    "constituency": "Ealing Central and Acton",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A PERSONAL MESSAGE FROM DAVID CAMERON WHY WE NEED CHANGE IN BRITAIN TODAY",
+        "content": "David Cameron describes the situation as 'the economy in a mess and a growing gap between rich and poor,' and states a need for change to bring hope for a fairer, stronger Britain. He commits to increasing spending on the NHS, getting the economy moving, and improve the environment by planting trees and creating green spaces."
+      },
+      {
+        "title": "60 SECOND Q&A WITH ANGIE BRAY",
+        "content": "Angie Bray answers various questions about her inspirations, ambitions, the challenges facing Ealing and Acton, her life philosophy, and what she can give to the residents of Ealing Central and Acton."
+      },
+      {
+        "title": "ACTIVE ANGIE: WORKING FOR YOU",
+        "content": "The leaflet shows Angie Bray engaging in various activities with constituents and supporting local initiatives against Heathrow expansion, preserving post offices, and the Ealing transport service."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Increase spending to the NHS, creating 400,000 new training places and work pairings."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Get the economy moving and improve tax environment."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Planting trees and creating green spaces."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Lift the cap from university places, improving Sure Start and providing funds for extra Sure Start health visitors."
+      }
+    ],
+    "mentions": {
+      "candidate": "Angie Bray",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Promises related to planting trees and creating green spaces.",
+      "governance": "",
+      "health": "Increase spending to the NHS, creating 400,000 new training places and work pairings.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "London Assembly",
+        "duration": "Two terms",
+        "achievements": "Leader of the Conservative Group during that time."
+      }
+    ],
+    "contactInformation": {
+      "address": "39 Broughton Road, Ealing, W13 8QW",
+      "phone": "020 8579 0101",
+      "email": "info@angiebray.org.uk",
+      "website": "www.angiebray.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images showing Angie Bray engaged with her constituents and in various areas of her campaign like healthcare, post office services, and local transportation."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet also includes a ‘Factfile’ about Angie Bray and a personal message from David Cameron, the leader of the Conservative Party."
+  }
+}
+```

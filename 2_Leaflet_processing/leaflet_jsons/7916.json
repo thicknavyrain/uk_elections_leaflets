@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+  "candidateName": "Peter Bone",
+  "constituency": "Wellingborough and Rushden",
+  "politicalParty": "Conservatives",
+  "electionDate": "",
+  "messages": [],
+  "keyPolicies": [
+    {
+      "policyTitle": "New Hospital",
+      "policyDescription": "Peter is campaigning for a new hospital in our community with Minor Accident and Emergency facilities."
+    },
+    {
+      "policyTitle": "More Police",
+      "policyDescription": "Peter is campaigning for more police on the beat catching criminals and deterring crime."
+    },
+    {
+      "policyTitle": "Cut Immigration",
+      "policyDescription": "Peter supports David Cameron’s pledge to cut immigration and put an annual limit on the number of people coming to our country."
+    },
+    {
+      "policyTitle": "Stop Overdevelopment",
+      "policyDescription": "Peter supports David Cameron’s pledge to scrap Labour’s plan for 52,000 new homes in our area."
+    },
+    {
+      "policyTitle": "No to the EU",
+      "policyDescription": "Peter believes the United Kingdom would be better off out of the European Union."
+    }
+  ],
+  "mentions": {
+    "candidate": "Peter",
+    "otherPartyLeaderCandidate": "",
+    "partyLeader": "David Cameron",
+    "tacticalSituation": ""
+  },
+  "issues": {
+    "brexitEurope": "Peter believes the United Kingdom would be better off out of the European Union.",
+    "economy": "",
+    "education": "",
+    "environment": "",
+    "governance": "",
+    "health": "Peter is campaigning for a new hospital in our community with Minor Accident and Emergency facilities.",
+    "immigration": "Peter supports David Cameron’s pledge to cut immigration and put an annual limit on the number of people coming to our country.",
+    "socialWelfare": "",
+    "housing": [
+      {
+        "content":"Peter supports David Cameron’s pledge to scrap Labour’s plan for 52,000 new homes in our area.",
+        "yimbyNimby": "NIMBY"
+      }
+    ]
+  },
+  "personalStatement": "",
+  "politicalExperience": [],
+  "contactInformation": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "socialMedia": {
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "linkedin": ""
+    }
+  },
+  "endorsements": [],
+  "quotes": [],
+  "campaignMaterial": {
+    "images": [
+      {
+        "caption": "LISTENING TO WELLINGBOROUGH AND RUSHDEN"
+      }
+    ]
+  },
+  "additionalNotes": "Campaign hotline 01933 279343"
+  }
+}
+```

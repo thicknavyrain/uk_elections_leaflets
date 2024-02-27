@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Angela Rayner",
+    "constituency": "Ashton-under-Lyne",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Standing up for...",
+        "content": "Families in Ashton-under-Lyne"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "Expand free childcare to 25 hours a week for three and four-year-olds."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Freeze energy bills until 2017 and invest in energy efficiency, saving the average family £270 a year."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Protect our NHS with an extra £2.5 billion to create 20,000 more nurses, 8,000 more GPs, 5,000 more care workers, 3,300 more midwives and guarantee GP appointments within 48 hours."
+      },
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Introduce a 10p tax rate to cut taxes for 24 million people and help middle and low-income earners."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Improve school standards by ensuring all teachers are qualified and transforming vocational education."
+      }
+    ],
+    "mentions": {
+      "candidate": "Angela Rayner",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protect our NHS with an extra £2.5 billion to create 20,000 more nurses, 8,000 more GPs, 5,000 more care workers, 3,300 more midwives and guarantee GP appointments within 48 hours.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Angela Rayner with local families and children."
+        }
+      ]
+    },
+    "additionalNotes": "Average wages are down by £1,600, while the cost of a nursery place has risen by 33 per cent, affecting family budgets. Seven out of ten stay-at-home mums say the cost of childcare has put them off looking for a job."
+  }
+}
+```

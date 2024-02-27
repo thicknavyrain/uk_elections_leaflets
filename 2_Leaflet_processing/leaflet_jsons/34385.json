@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Matt Western",
+    "constituency": "Warwick and Leamington",
+    "politicalParty": "Labour",
+    "electionDate": "2019",
+    "messages": [
+      {
+        "title": "the Local Candidate",
+        "content": "Lived in Warwick and Leamington for 15 years. My wife works at Warwick University. My older step-son works at Warwick Hospital."
+      },
+      {
+        "title": "Experienced",
+        "content": "24 years in industry (Peugeot) in UK and France. Warwickshire County Councillor - 5 years. MP for two and a half years. Committed to and will only ever represent THIS constituency. NOT a career politician."
+      },
+      {
+        "title": "on BREXIT ..",
+        "content": "Campaigned for Remain in 2016. Worked cross-Party to find a solution. Proposed indicative Votes in early 2019. Led calls in Parliament for a 'Confirmatory Vote' - to put a final deal re Brexit to a public vote 3-6 months after the election. ONLY Labour has a firm policy."
+      },
+      {
+        "title": "on other issues ..",
+        "content": "Campaigned against the school cuts and cuts to public services. Has been outspoken on the Climate Emergency, organised an air quality summit and co-signatory to Bill to single use plastics. Campaigned greater investment in our NHS and need for more spent in Mental Health. Spoken out against cuts in no. of Police officers."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Campaign for Remain, seek a solution across parties, proposed indicative votes, led calls for a confirmatory vote on the final Brexit deal."
+      },
+      {
+        "policyTitle": "Climate Emergency",
+        "policyDescription": "Has been outspoken on the Climate Emergency, organised an air quality summit, and co-signatory to Bill to single use plastics."
+      },
+      {
+        "policyTitle": "NHS and Mental Health",
+        "policyDescription": "Advocated for greater investment in NHS and increased spending in Mental Health."
+      },
+      {
+        "policyTitle": "Public Services and Education",
+        "policyDescription": "Campaigned against school cuts and cuts to public services."
+      },
+      {
+        "policyTitle": "Law Enforcement",
+        "policyDescription": "Opposes cuts to the number of police officers."
+      }
+    ],
+    "mentions": {
+      "candidate": "Matt Western",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The bar chart shows actual votes cast in 2017 General Election and suggests that 'only two parties can win here in 2019' and 'any votes away from me will only enable a hard Brexit'."
+    },
+    "issues": {
+      "brexitEurope": "Campaigned for Remain in 2016, worked cross-Party to find a solution, proposed indicative Votes in early 2019, led calls in Parliament for a 'Confirmatory Vote'.",
+      "economy": "",
+      "education": "Campaigned against the school cuts.",
+      "environment": "Has been outspoken on the Climate Emergency, organised an air quality summit, and co-signatory to Bill to single use plastics.",
+      "governance": "",
+      "health": "Championed greater investment in our NHS and need for more spent in Mental Health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Warwickshire County Councillor",
+        "duration": "5 years",
+        "achievements": ""
+      },
+      {
+        "role": "MP",
+        "duration": "two and a half years",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "Matt2RepresentUs@gmail.com",
+      "website": "www.labour.org.uk",
+      "socialMedia": {
+        "facebook": "Matt Western",
+        "twitter": "@MattWestern_",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "2017 General Election Result showing a bar chart of votes for different parties."
+        }
+      ]
+    },
+    "additionalNotes": "Bar chart shows actual votes cast in 2017 General Election. Unlike the distorted bar chart used by certain other parties based on their 'research', this shows true relative performance on a baseline of zero. Trust."
+  }
+}
+```

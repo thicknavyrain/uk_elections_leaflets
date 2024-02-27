@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Jason Sugarman",
+	"constituency": "Seaford",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [
+  	  {
+    	"title": "The choice at this election:",
+    	"content": "5 more years of Gordon Brown or Change with the Conservatives."
+  	  }
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	  "candidate": "Jason Sugarman",
+  	  "otherPartyLeaderCandidate": "Gordon Brown",
+  	  "partyLeader": "David Cameron",
+  	  "tacticalSituation": "The Conservatives need to win in Seaford to stop a hung parliament and 5 more years of a Gordon Brown."
+	},
+	"issues": {
+  	  "brexitEurope": "",
+  	  "economy": "Britain needs a strong government to deal with the debt and get our economy moving.",
+  	  "education": "",
+  	  "environment": "",
+  	  "governance": "",
+  	  "health": "",
+  	  "immigration": "",
+  	  "socialWelfare": "",
+  	  "housing": [
+    	{
+      	  "content":"",
+      	  "yimbyNimby": "N/A"
+    	}
+  	  ]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	  "address": "",
+  	  "phone": "01323 498289",
+  	  "email": "jason@jasonsugarman.co.uk",
+  	  "website": "www.jasonsugarman.org.uk",
+  	  "socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	  }
+	},
+	"endorsements": [],
+	"quotes": [
+  	  {
+    	"text": "Emergency plan in the event of a hung parliament",
+    	"source": "The Daily Telegraph",
+    	"date": "31 March 2010"
+  	  },
+  	  {
+    	"text": "Brown could lose and still be PM",
+    	"source": "The Daily Telegraph",
+    	"date": "31 March 2010"
+  	  },
+  	  {
+    	"text": "Brown to stay as PM in hung parliament",
+    	"source": "The Guardian",
+    	"date": "31 March 2010"
+  	  }
+	],
+	"campaignMaterial": {
+  	  "images": [
+    	{
+      	  "caption": "VOTE FOR CHANGE"
+    	}
+  	  ]
+	},
+	"additionalNotes": ""
+  }
+}
+```

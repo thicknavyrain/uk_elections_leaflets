@@ -1,0 +1,103 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "SUSAN WILLIAMS",
+    "constituency": "BOLTON WEST",
+    "politicalParty": "Conservatives",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "A RECORD OF ACTION IN BOLTON WEST",
+        "content": "Susan Williams has spent the last 3\u00bd years as the candidate in Bolton West championing the issues here - better health services, educational improvement, the economy and law and order."
+      },
+      {
+        "title": "3 POSITIVE REASONS TO VOTE FOR SUSAN WILLIAMS",
+        "content": "1. Susan has political experience, having been leader of nearby Trafford Council for 5 years. She is well aware of the issues that affect local people and has a track record of delivering on people's priorities.\n2. Susan is a well-known campaigner, having fought against and secured a referendum on the highly unpopular congestion charge, which would have seen additional costs of up to £1,200 a year on motorists.\n3. Susan is a mother to 3 teenage children and understands the demands on families, whether coping through the recession, securing a decent education or health service for their children or tackling issues like anti-social behaviour."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health Services",
+        "policyDescription": "Better health services in Bolton West, aiming to reduce the suffering of patients and ensuring local services are available."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Improvement in educational settings such as Hesketh Fletcher School and fighting to keep it open."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Support businesses, address high street cash flow problems, and create jobs."
+      },
+      {
+        "policyTitle": "Law and Order",
+        "policyDescription": "Tackle crime, particularly low-level criminal activity, reduce bureaucracy in the police."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Address the issues with green spaces having suffered from years of neglect due to being built without any infrastructure to service them which impacts local flooding."
+      }
+    ],
+    "mentions": {
+      "candidate": "Susan Williams",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Support businesses, address high street cash flow problems, and create jobs. Opposed the congestion charge which would have added financial strain.",
+      "education": "Improvement in educational settings such as Hesketh Fletcher School.",
+      "environment": "Address the problems of local green spaces due to neglect and lack of infrastructure, which has led to increased local flooding.",
+      "governance": "",
+      "health": "Better local health services to prevent patients from suffering and to increase availability of services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Leader of Trafford Council",
+        "duration": "5 years",
+        "achievements": "Known for delivering on people's priorities."
+      }
+    ],
+    "contactInformation": {
+      "address": "51 New Hall Lane, Heaton, Bolton, BL1 5LW",
+      "phone": "01204 496200",
+      "email": "team@susanwilliams.com",
+      "website": "www.boltonwestconservatives.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Susan Williams meeting with local residents and community groups."
+        },
+        {
+          "caption": "Susan Williams campaigning for better health services."
+        },
+        {
+          "caption": "Susan Williams with local businessmen."
+        },
+        {
+          "caption": "Susan Williams involved in local education issues."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

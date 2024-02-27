@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Maureen Childs",
+    "constituency": "Poplar and Limehouse",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "End NHS Privatisation",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "A Living Wage for All",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "More Social Housing",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Sustainable Jobs",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Public Control of Rail & Utilities",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Scrap Tuition Fees",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Tackle Tax Avoidance",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Maureen Childs",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "End NHS Privatisation",
+      "immigration": "",
+      "socialWelfare": "A Living Wage for All",
+      "housing": [
+        {
+          "content": "More Social Housing",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Maureen Childs standing in front of a sign that reads 'SAY NO TO POLITICS AS USUAL' and 'Maureen Childs POPULAR AND LIMEHOUSE'"
+        }
+      ]
+    },
+    "additionalNotes": "Published by Ben Ransach on behalf of Maureen Childs. Printed on 100% recycled paper by eco-printer at 45 Robertson House, Saltmead Way. Tanner House flat 34, 234 Coventry Court, London, E9 7XY."
+  }
+}
+```

@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Flick Drummond",
+    "constituency": "Portsmouth South",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Our NHS is the finest in the world, we continue to improve it",
+        "content": "The Leaflet highlights the candidate's commitment to the NHS and mentions her visit to a local hospital and a testimonial from a consultant endorsing her."
+      },
+      {
+        "title": "I will continue to campaign for safer streets and communities",
+        "content": "The candidate pledges to work with the Police and Crime Commissioner to tackle crime and antisocial behavior, citing her efforts to campaign for a safer local community."
+      },
+      {
+        "title": "My campaign to bring business and investment into our city",
+        "content": "The leaflet describes the candidate's efforts to attract businesses and investments to the area, including her work with the City Council and the University."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Growing Economy",
+        "policyDescription": "The candidate supports the Conservative economic plan, which includes reducing the deficit, cutting income tax, and creating new jobs."
+      },
+      {
+        "policyTitle": "More Jobs",
+        "policyDescription": "Promises include keeping the lowest paid out of tax, getting young people into work, and an ambitious goal of full employment."
+      },
+      {
+        "policyTitle": "Lower Taxes",
+        "policyDescription": "Planning to raise the personal allowance and deliver tax-free minimum wage."
+      },
+      {
+        "policyTitle": "Strong Leadership. A Clear Economic Plan. A Better, More Secure Future.",
+        "policyDescription": "The overarching economic message of the Conservative Party led by David Cameron, advocating for strong leadership and clear economic policy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Flick Drummond",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "Reference to the strategic importance of winning 23 more seats to deliver a majority Conservative government."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Support for the Conservative Party's plan for a stronger economy, reducing the deficit, and creating jobs.",
+      "education": "The candidate prioritizes improving standards in local schools and mentions supporting the Charter Academy.",
+      "environment": "The candidate has worked on campaigns for cleaner streets and safer cycling.",
+      "governance": "",
+      "health": "The leaflet promotes the NHS and includes an endorsement by a consultant.",
+      "immigration": "",
+      "socialWelfare": "Education related to young people at universities and apprenticeships.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "The leaflet includes a personal endorsement from the candidate, saying 'I will work hard to... make sure that we all share in the success of a better economy.'",
+    "politicalExperience": [
+      {
+        "role": "City councillor",
+        "duration": "Six years",
+        "achievements": "Running successful campaigns for cleaner streets and safer cycling, and working with the City Council and University to bring investment into Portsmouth."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "flick@flickdrummond.com",
+      "website": "www.flickdrummond.com",
+      "socialMedia": {
+        "facebook": "FlickDrummond",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Consultant Surgeon at Queen Alexandra Hospital",
+        "endorsement": "Praises the candidate's knowledge of the healthcare system."
+      },
+      {
+        "endorser": "City of Portsmouth Girls' School headteacher",
+        "endorsement": "Support for the candidate's commitment to educational standards and local schools."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Flick's plan is for a better future for Portsmouth and Southsea.",
+        "source": "Testimonial on leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Flick Drummond with community members and local officials in various settings depicted on the leaflet."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

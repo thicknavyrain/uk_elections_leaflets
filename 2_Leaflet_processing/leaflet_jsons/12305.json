@@ -1,0 +1,102 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Colin Eldridge",
+    "constituency": "Liverpool",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A record of action",
+        "content": "Colin Eldridge has a record of standing up for Liverpool. He led the campaign to save local GP Surgeries from being axed. Oversaw the alley-gating scheme that cut burglaries by 35%. Led the successful Alder Hey Burns Unit campaign."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local GP Surgeries",
+        "policyDescription": "Saved local GP surgeries from being axed."
+      },
+      {
+        "policyTitle": "Crime Reduction",
+        "policyDescription": "Alley-gating scheme that cut burglaries by 35%."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Led the Alder Hey Burns Unit campaign."
+      }
+    ],
+    "mentions": {
+      "candidate": "Colin Eldridge",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The Conservative candidate recently admitted it would take a 'minor miracle' to win in Liverpool. Ladbrokes have given him odds of 100-1 to win."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Campaign to save Alder Hey's Acute Burns Unit.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Alley-gating scheme, reduced burglaries by 35%.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "seven years",
+        "achievements": "Responsible for Liverpool's Alley-gating scheme, which reduced burglaries by 35%."
+      }
+    ],
+    "contactInformation": {
+      "address": "509 Smithdown Road, Liverpool, L15 5AE",
+      "phone": "(0151) 733 2439",
+      "email": "colin@colineldridge.org.uk",
+      "website": "www.colineldridge.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/colin4liverpool",
+        "twitter": "twitter.com/colineldridge",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Pat, Mossley Hill",
+        "endorsement": "I'm backing Colin because he gets things done"
+      },
+      {
+        "endorser": "Ian, Chair of Penny Lane Development trust",
+        "endorsement": "Colin just wants to help."
+      },
+      {
+        "endorser": "Katie, Wavertree",
+        "endorsement": "I'm supporting Colin's campaign to scrap tuition fees"
+      },
+      {
+        "endorser": "Kevin, Lodge Lane",
+        "endorsement": "Colin is just marvellous. He always able to help"
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Colin Eldridge and his partner Laura live in the area."
+        },
+        {
+          "caption": "Colin is the local choice. He lives on Rathbone Road and has been a local Councillor for years."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "UKIP will scrap the HS2 rail project. Opposes tolls on public roads and will end existing contracts for running toll roads where possible. Will require foreign vehicles to purchase a BritDisc before entry to the UK, in order to pay a levy, and create fast track lorry routes for goods services."
+      },
+      {
+        "policyTitle": "Housing and Planning",
+        "policyDescription": "UKIP will protect the Green Belt. Planning rules in the NPPF will be changed to make it easier to build on brownfield sites. Central government to list nationally available brownfield sites for development and issue low-interest bonds to enable decontamination. Brownfield sites will be exempt from Stamp Duty on first sale and VAT relaxed for redevelopment of brownfield sites. Planning Permission for large-scale developments can be overturned by a referendum triggered by the signatures of 5% of the District or Borough electors collected within three months."
+      },
+      {
+        "policyTitle": "Democracy and the Constitution",
+        "policyDescription": "UKIP will overcome the unfairness of MPs from devolved nations voting on English-only issues. Supports the recall of MPs as was originally promised in the Coalition Agreement. A threshold of 20% of the electorate in a constituency must sign a recall petition within eight weeks."
+      },
+      {
+        "policyTitle": "Law and Order",
+        "policyDescription": "UKIP will withdraw Britain from the jurisdiction of the European Court of Human Rights and reverse the government's opt-in to EU law and justice measures, including the European Arrest Warrant and European Investigation Order. Will replace the European Arrest Warrant with appropriate bilateral agreements."
+      },
+      {
+        "policyTitle": "Culture",
+        "policyDescription": "UKIP respects and values an overarching, unifying British culture, which is open to any British and anyone who wishes to identify with it. Requires a qualifying period of residence for entitlements to non-emergency NHS treatment and social housing. Official documents will be published in English and, where appropriate, Welsh."
+      },
+      {
+        "policyTitle": "Support for the Armed Forces",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Small Businesses",
+        "policyDescription": "UKIP will reduce the business rate for small businesses. Lifetime Prescriptions Licence Fee with a view to its reduction. The BBC to be reconstituted along the lines of the British Library and opened to competing providers."
+      },
+      {
+        "policyTitle": "Employment and Small Businesses",
+        "policyDescription": "Businesses should be able to discriminate in favour of young British workers. UKIP will repeal the Agency Workers Directive. UKIP will construct a dedicated network of business units for small and start-up businesses with free parking."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Planning rules in the NPPF will be changed to make it easier to build on brownfield sites. Central government to list nationally available brownfield sites for development and issue low-interest bonds to enable decontamination. Brownfield sites will be exempt from Stamp Duty on first sale and VAT relaxed for redevelopment of brownfield sites.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Unit 5B, Clarence Court, Clarance Street, Pontypool, South Wales NP4 6LF",
+      "phone": "",
+      "email": "",
+      "website": "www.ukipwales.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cover of UKIP campaign leaflet featuring a daffodil and stating 'Policies for People in Wales'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

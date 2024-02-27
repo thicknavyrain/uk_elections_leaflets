@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ed Davey",
+    "constituency": "Kingston & Surbiton",
+    "politicalParty": "Lib Dems",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Who will really fight for Kingston & Surbiton?",
+        "content": "Everybody knows that local resident Ed Davey will always fight for local people"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investment in NHS and local schools",
+        "policyDescription": "Ed has a record of securing investment in the NHS and local schools, and is still fighting for school buildings and improved public services."
+      },
+      {
+        "policyTitle": "Tax Cuts",
+        "policyDescription": "The Lib Dems have delivered a £800 tax cut for working people and are pushing for a further £400 cut."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ed Davey",
+      "otherPartyLeaderCandidate": "The Conservative candidate from Westminster",
+      "partyLeader": "",
+      "tacticalSituation": "It's Lib Dem or the Tories here today: Labour are well behind in third and can't win here—every vote for them just helps the Tories win here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Ed Davey - Our local Lib Dem champion",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ed Davey talking with constituents."
+        },
+        {
+          "caption": "Vote comparison chart showing Lib Dem at 50%, Con at 37%, and Lab at 9%."
+        }
+      ]
+    },
+    "additionalNotes": "The Tory candidate is described as having been 'parachuted in from Westminster' and the leaflet accuses the Tories of plotting £50 billion of extra cuts to vital services."
+  }
+}
+```

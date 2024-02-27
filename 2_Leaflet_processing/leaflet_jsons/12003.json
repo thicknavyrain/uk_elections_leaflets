@@ -1,0 +1,66 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "The Tories' plans for immediate cuts",
+        "content": "The Tories' plans for immediate cuts would put your job, your public services and your living standards at risk."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Gordon Brown",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Eddie Izzard",
+        "endorsement": "Labour stands for making Britain a fairer place. A lot is at stake as Gordon Brown pulls us out of the worst recession in many years - so make sure you get out and vote on May 6th."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "The Tories' plans for immediate cuts would put your job, your public services and your living standards at risk."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

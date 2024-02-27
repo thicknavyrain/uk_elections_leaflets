@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John McClintock",
+    "constituency": "Chatham and Aylesford",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "OUR NHS... AT RISK!",
+        "content": "Quotes highlighting concerns about NHS privatisation and funding issues under the Conservative government."
+      },
+      {
+        "title": "Isn't it time you had an MP who fights for you?",
+        "content": "Promotes the candidate as someone who will actively fight for the constituents' interests."
+      },
+      {
+        "title": "Fairer taxes that put money back in your pocket",
+        "content": "Nick Clegg's proposed tax changes that would ensure no tax on the first £10,000, saving most people £700."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fair Taxes",
+        "policyDescription": "Nick Clegg's plan to not tax the first £10,000, saving most people £700 and no tax on £10 for every child."
+      },
+      {
+        "policyTitle": "A Fair Chance For Every Child",
+        "policyDescription": "A plan to fund smaller classes for schools and a fair start for children."
+      },
+      {
+        "policyTitle": "A Fair Future: Creating Jobs",
+        "policyDescription": "Creating jobs by making Britain greener and promoting renewable energy and energy efficient homes."
+      },
+      {
+        "policyTitle": "A Fair Deal From The Politicians",
+        "policyDescription": "A proposal for a recall system and giving the British people a say over MPs' expenses."
+      }
+    ],
+    "mentions": {
+      "candidate": "John McClintock",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Fair taxes that put money back in your pocket; A fair start for every child.",
+      "education": "A fair start for every child.",
+      "environment": "A fair future: creating jobs by making Britain greener.",
+      "governance": "A fair deal from the politicians.",
+      "health": "Quotes highlighting concerns about NHS privatisation and funding issues under the Conservative government.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Creating energy efficient homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Main image of John McClintock."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes a form for tactical voting support indicating a tactical situation in the constituency."
+  }
+}
+```

@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Vale",
+    "constituency": "Dene",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Is your NHS safe?",
+        "content": "The leaflet discusses the state of the NHS under the current government, with specific examples of closures and the promise of a Labour 10-year plan for the NHS."
+      },
+      {
+        "title": "Local Lib Dems back Tories",
+        "content": "The message claims that local Liberal Democrats are effectively supporting the Conservatives, citing examples of support for plans and policies."
+      },
+      {
+        "title": "Have your say, register to vote",
+        "content": "The leaflet urges people to register to vote, providing details on how to do so."
+      },
+      {
+        "title": "Newcastle loses more",
+        "content": "The message focuses on the financial damage allegedly caused to Newcastle by the Tories."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Labour promises a 10-year plan for the NHS, aiming to reverse closures and cutbacks."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Labour's commitment to Sure Start centres is emphasized as part of their approach to early education."
+      }
+    ],
+    "mentions": {
+      "candidate": "Vale",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The leaflet criticizes the current government for the state of the economy in Newcastle, mentioning financial losses and impact on public services.",
+      "education": "Mentions Labour's support for Sure Start centres as an investment in children's future and criticizes the Conservatives for letting them down.",
+      "environment": "",
+      "governance": "Complaints about the Liberal Democrats backing Tory plans.",
+      "health": "Discussion of Labour's plan to protect the NHS and criticisms of the Tory government's handling of the health service.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Relevant information about housing policies is not explicitly stated in the leaflet.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "The leaflet contains statements and endorsements for the candidate Vale but no specific personal statement is provided.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "sheena@newcastlelabour.org.uk",
+      "website": "www.newcastlelabour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour Party group photo with the caption 'Newcastle Labour Party Working together for our city'"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet is Issue 17 of 'Dene Voice' and urges constituents to get in touch with their Labour team, citing opposition to the Tories and local issues."
+  }
+}
+```

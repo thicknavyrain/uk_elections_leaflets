@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Hallas",
+    "constituency": "Royal Tunbridge Wells",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Fighting for their Future",
+        "content": "Talking about education investment and smaller class sizes."
+      },
+      {
+        "title": "Fair pay for heroes",
+        "content": "Discussing a campaign for fair pay for troops."
+      },
+      {
+        "title": "Who will put more money in YOUR pocket?",
+        "content": "A plan to increase the tax allowance to put £700 back into the pocket of the average worker."
+      },
+      {
+        "title": "We need REAL change",
+        "content": "Critique of Gordon Brown and the Labour Party."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairness in Reducing Tax",
+        "policyDescription": "Cutting the average working person's income tax bill by £700. Doing away with tax loopholes for the rich."
+      },
+      {
+        "policyTitle": "Fairness in Education",
+        "policyDescription": "Cut class sizes to just 15. Giving children more access to their teachers."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Hallas",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A plan to increase the tax allowance to put £700 back into the pocket of the average worker.",
+      "education": "Talking about education investment and smaller class sizes.",
+      "environment": "",
+      "governance": "Critique of Gordon Brown and the Labour Party.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The Lib Dems have announced a new plan to cut the tax bills of people on the average pay packet by £700 by raising the tax allowance from £6,475 to £10,000.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "\"I will not take a second home on expenses\" says David Hallas.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Tunbridge Wells Liberal Democrats FREEPOST RSBK-JXAZ-XXRZ, 309 St. John's Road, Tunbridge Wells Kent TN4 9XE.",
+      "phone": "07535 359551",
+      "email": "info.hallas4tw@gmail.com",
+      "website": "http://davidhallas.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg and David Hallas discussing education policy with children."
+        },
+        {
+          "caption": "David Hallas with military personnel, discussing fair pay."
+        },
+        {
+          "caption": "David Hallas and Nick Clegg associated with the policy of increasing the tax allowance."
+        }
+      ]
+    },
+    "additionalNotes": "Quotes on the leaflet including critiques of the conservative party, specifically mentioning 'Key Tory MPs backed call to dismantle the NHS'."
+  }
+}
+```

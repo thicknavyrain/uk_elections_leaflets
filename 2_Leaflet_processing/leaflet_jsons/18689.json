@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Charles Walker",
+	"constituency": "Broxbourne",
+	"politicalParty": "Conservatives",
+	"electionDate": "7th May",
+	"messages": [
+  	{
+    	"title": "Straight Talking",
+    	"content": "Charles Walker describes himself as 'Straight Talking' and highlights his commitment to local services and action on NHS, tax savings, and conservative values reflected in the EU Referendum."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS",
+    	"policyDescription": "Has campaigned to retain local services and joined by more than a thousand people on successful march to retain the Minor Injury Unit in Cheshunt."
+  	},
+  	{
+    	"policyTitle": "Tax Savings",
+    	"policyDescription": "Has cut people's taxes and insists on the importance of early reward. States that 'nearly £11,000 is now tax free'."
+  	},
+  	{
+    	"policyTitle": "EU Referendum",
+    	"policyDescription": "Advocates for conservative values reflected in the EU Referendum and asserts they are the only party that can deliver this."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Charles Walker",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Advocates for conservative values reflected in the EU Referendum and asserts they are the only party that can deliver this.",
+  	"economy": "Has cut people's taxes and insists on the importance of early reward.",
+  	"education": "",
+  	"environment": "Describes the efforts to rebuild some of Hertfordshire's chalk streams, the most beautiful in the country and nurture the natural environment to recover over the past five years.",
+  	"governance": "",
+  	"health": "Has campaigned to retain local services and joined by more than a thousand people on successful march to retain the Minor Injury Unit in Cheshunt.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Describes himself as a committed MP, emphasizing his local presence and actions taken over the years.",
+	"politicalExperience": [
+  	{
+    	"role": "Member of Parliament",
+    	"duration": "10 years",
+    	"achievements": "Highlights working with community on various issues including education and NHS services retention."
+  	}
+	],
+	"contactInformation": {
+  	"address": "Details obscured",
+  	"phone": "Details obscured",
+  	"email": "Details obscured",
+  	"website": "www.broxbourneconservatives.com",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "@Conservatives",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "For an effective and independent minded MP vote Charles Walker on 7th May",
+    	"source": "Campaign Material",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Photos related to Charles Walker's involvement in NHS, education, local services, and community engagement."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

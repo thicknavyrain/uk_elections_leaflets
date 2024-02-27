@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "",
+        "content": "Vote Labour on Thursday 8th June to ensure we have strong Labour MPs in Parliament standing up to the Tories."
+      },
+      {
+        "title": "Same old nasty Tories",
+        "content": "They are threatening to take money from pensioners, force people to use their homes to pay for care, take school lunches from children."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The Tories have brought the NHS to its knees. When a loved one is sick, families shouldn't be worried about the future of their home.",
+      "immigration": "",
+      "socialWelfare": "Many families are dependent on the free school meal which the Tories plan to axe. It is simply wrong that under the Tories more children are living in poverty.",
+      "housing": [
+        {
+          "content": "force people to use their homes to pay for care",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Campaigns Office, General Election Freepost, c/o General Election Agent, Suite 127, Spencer House, Warrington, WA3 7PG",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "The Tories have brought the NHS to its knees. When a loved one is sick, families shouldn't be worried about the future of their home.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "Many families are dependent on the free school meal which the Tories plan to axe. It is simply wrong that under the Tories more children are living in poverty.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "Under the Tories I stand to lose my Winter fuel allowance; many pensioners will once again be facing a cold bleak future.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A healthcare professional standing outside a clinic."
+        },
+        {
+          "caption": "A family sitting together on a couch."
+        },
+        {
+          "caption": "An elderly man standing alone."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

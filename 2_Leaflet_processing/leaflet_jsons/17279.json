@@ -1,0 +1,68 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Charlie Dewhirst",
+    "constituency": "Hammersmith & Shepherds Bush",
+    "politicalParty": "Conservatives",
+    "electionDate": "January 2015",
+    "messages": [
+      {
+        "title": "IMPORTANT INFORMATION ABOUT THE FUTURE OF YOUR HOME",
+        "content": "The Labour Council has begun a 'consultation' into the future of council-owned housing within Hammersmith & Shepherds Bush. This could lead to higher service charges and major works bills for many leaseholders, or simply the sale of the residual freehold interest in your property to another managing agent."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Opposition to the Labour Council's plans which could result in higher service charges, major works bills, and the sale of the residual freehold interest in properties to another managing agent."
+      }
+    ],
+    "mentions": {
+      "candidate": "Charlie Dewhirst",
+      "otherPartyLeaderCandidate": "Labour Party",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The Labour Council's consultation on council-owned housing could lead to increased service charges, major works bills, and loss of freehold interests.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am shocked at and deeply concerned that the Labour Party is planning to give the council's interest in your home away to a Housing Association without any guarantee to you over future costs.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Hammersmith Conservatives, 4 Greyhound Road, London W6 8NX",
+      "phone": "020 7385 1002",
+      "email": "charliedewhirst@hotmail.com",
+      "website": "www.charliedewhirst.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet page with information about the future of council-owned housing and a picture of Charlie Dewhirst, the Conservative candidate."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

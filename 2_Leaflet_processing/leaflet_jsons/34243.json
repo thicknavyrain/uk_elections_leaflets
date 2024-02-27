@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Philip Crook",
+    "constituency": "Southampton Test",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "Without the Brexit Party there can be no real Brexit",
+        "content": "There are around 130 seats that the Conservatives haven't won in at least 50 years. Only the Brexit Party can beat Corbyn’s Labour. Leavers, don't waste your vote."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "The Brexit Party states that without them, there can be no real Brexit, suggesting a firm stance on delivering Brexit in contrast to other parties."
+      }
+    ],
+    "mentions": {
+      "candidate": "Philip Crook",
+      "otherPartyLeaderCandidate": "Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "There are around 130 seats that the Conservatives haven't won in at least 50 years. Only the Brexit Party can beat Corbyn’s Labour. Leavers, don't waste your vote."
+    },
+    "issues": {
+      "brexitEurope": "Only the Brexit Party can beat Corbyn’s Labour. Without the Brexit Party there can be no real Brexit.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "83 Victoria Street, London SW1H 0HW",
+      "phone": "0800 414 8525",
+      "email": "",
+      "website": "www.thebrexitparty.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Without the Brexit Party there can be no real Brexit"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

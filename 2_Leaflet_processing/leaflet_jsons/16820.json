@@ -1,0 +1,112 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Julie Pörksen",
+    "constituency": "Berwick-upon-Tweed",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "A balanced budget for Britain",
+        "content": "The Liberal Democrats have committed to invest £8 billion a year more in the NHS to ensure it remains a world class service we can continue to be proud of."
+      },
+      {
+        "title": "Don't let the Tories get their hands on our local NHS",
+        "content": "In her recent 8-page plan for Northumberland, the Conservative candidate did not mention the NHS or local health services once."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Investment",
+        "policyDescription": "Invest £8 billion more in the NHS annually to ensure it remains world-class."
+      },
+      {
+        "policyTitle": "Pension Rises",
+        "policyDescription": "Guarantee further record pension rises."
+      },
+      {
+        "policyTitle": "Tax Cuts",
+        "policyDescription": "Provide a £400 tax cut for local workers."
+      },
+      {
+        "policyTitle": "Border Control",
+        "policyDescription": "Maintain strong control over borders."
+      }
+    ],
+    "mentions": {
+      "candidate": "Julie Pörksen",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Labour, UKIP or Greens helping the Tories by splitting the vote, Lib Dems only real alternative to Conservative Party."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We need to go all the way to Berwick. Thanks to Julie, Berwick and Blyth valley are now on track to benefit from the biggest single investment - dualling large stretches of the road to improve flow and increase safety. Vote Julie and the team are focusing on making sure work gets underway.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Don't let the Tories get their hands on our local NHS. Protecting local public services including Berwick-upon-Tweed's emergency health service.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "A strong local champion for Northumberland",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Only Julie can beat the Tories on May 7th.",
+        "source": "The Journal, 7th March 2015",
+        "date": "07-03-2015"
+      },
+      {
+        "text": "The Conservatives are throwing the kitchen sink at winning Berwick.",
+        "source": "The Journal, 26th Jan 2015",
+        "date": "26-01-2015"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Julie Pörksen with supporters."
+        },
+        {
+          "caption": "Graph showing Lib Dem as the leading party in constituency."
+        },
+        {
+          "caption": "Julie Pörksen with Nick Clegg."
+        }
+      ]
+    },
+    "additionalNotes": "Julie Pörksen is depicted in various images campaigning."
+  }
+}
+```

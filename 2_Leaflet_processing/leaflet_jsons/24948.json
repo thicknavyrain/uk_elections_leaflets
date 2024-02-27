@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "DEREK THOMAS",
+    "constituency": "St Ives",
+    "politicalParty": "",
+    "electionDate": "Thursday 7th May",
+    "messages": [
+      {
+        "title": "New Energy Fresh Ideas",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "DEREK THOMAS",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "New Energy Fresh Ideas Vote DEREK THOMAS on Thursday 7th May at the General Election for the St Ives Constituency."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

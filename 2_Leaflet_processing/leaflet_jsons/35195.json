@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Christine Jardine",
+    "constituency": "Gordon",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Local roots, national clout: Christine Jardine for Gordon",
+        "content": "Christine is a vital member of the Lib Dem team here in Gordon."
+      },
+      {
+        "title": "The Liberal Democrat plan for Britain",
+        "content": "Building a stronger economy AND a fairer society"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "£400 tax cut for local workers"
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "£800 million more for the Scottish NHS"
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "More powers for Scotland"
+      }
+    ],
+    "mentions": {
+      "candidate": "Christine Jardine",
+      "otherPartyLeaderCandidate": "Alex Salmond",
+      "partyLeader": "",
+      "tacticalSituation": "It’s a two horse race between the Lib Dems and the SNP here in Gordon."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "More powers for Scotland",
+      "health": "£800 million more for the Scottish NHS",
+      "immigration": "",
+      "socialWelfare": "Decent pension rises every year",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "A local campaigner with national clout",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Jenny Wilson, Inverurie",
+        "endorsement": "She has a tenacity which is refreshing to see and a genuine passion for what she believes in."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Christine Jardine with supporters."
+        }
+      ]
+    },
+    "additionalNotes": "Elect a hardworking local MP on 7th May."
+  }
+}
+```

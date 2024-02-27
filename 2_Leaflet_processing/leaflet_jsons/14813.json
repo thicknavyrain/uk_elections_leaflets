@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jonathan Djanogly",
+    "constituency": "Huntingdonshire",
+    "politicalParty": "Conservatives",
+    "electionDate": "6 May",
+    "messages": [
+      {
+        "title": "5 MORE YEARS OF GORDON BROWN OR CHANGE WITH THE CONSERVATIVES",
+        "content": "In just a few weeks we will have the most important election for a generation. Our economy is burdened with debt, our society is broken by crime and our political system is a shambles. We can't go on like this... A Conservative government will cut Gordon Brown's waste and debt to spend less and keep people safe by fighting crime and backing the NHS so that our economy and communities are stronger and we feel safer."
+      },
+      {
+        "title": "3 POSITIVE REASONS TO VOTE FOR JONATHAN DJANOGLY",
+        "content": "Jonathan was a leader in the successful fight to save Hinchingbrooke Hospital from closure; Jonathan promotes commerce in Huntingdonshire; Jonathan actively supports the provision of good healthcare in Huntingdonshire."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Cut Gordon Brown's waste and debt."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Support the NHS so that our economy and communities are stronger."
+      },
+      {
+        "policyTitle": "Crime Prevention",
+        "policyDescription": "Keep people safe by fighting crime."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jonathan Djanogly",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Cut Gordon Brown's waste and debt.",
+      "education": "",
+      "environment": "",
+      "governance": "Our political system is a shambles. We can't go on like this.",
+      "health": "Support the NHS to make our economy and communities stronger and safer.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Vote Jonathan Djanogly on 6 May.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament",
+        "duration": "since 2001",
+        "achievements": "Leader in the successful fight to save Hinchingbrooke Hospital from closure."
+      },
+      {
+        "role": "Shadow Business Minister",
+        "duration": "",
+        "achievements": "Active in Europe to limit the impact of European regulation on local industry and has campaigned against overly burdensome and uncosted EU proposals."
+      }
+    ],
+    "contactInformation": {
+      "address": "14A St. Nicholas St., St. Ives, PE27 5TD",
+      "phone": "01480 437840",
+      "email": "jonathan@jonathandjanogly.com",
+      "website": "www.jonathandjanogly.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A RECORD OF ACTION, VOTE JONATHAN DJANOGLY"
+        }
+      ]
+    },
+    "additionalNotes": "Working hard for the Huntingdon constituency."
+  }
+}
+```

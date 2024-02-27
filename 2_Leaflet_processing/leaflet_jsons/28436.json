@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Theresa May",
+	"constituency": "",
+	"politicalParty": "Conservatives",
+	"electionDate": "Thursday 8th June",
+	"messages": [
+  	{
+    	"title": "Getting on with the job of securing the best possible deal from Brexit",
+    	"content": "The Government faces the most important task the Government faces for generations: our future prosperity, jobs, security and the kind of country we leave for our children are all at stake."
+  	},
+  	{
+    	"title": "3 KEY REASONS WHY A GENERAL ELECTION IS NEEDED NOW.",
+    	"content": "1. One-off chance to hold EU leaders to agree stance while they decide on their positions on negotiations. 2. To show unity as EU negotiations start, but Westminster is divided. 3. To lock in our economic progress so it can benefit the British people for the future."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Brexit",
+    	"policyDescription": "Ensuring the best possible Brexit deal for the United Kingdom, taking back control of borders, laws, money and trade deals."
+  	},
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Building a strong economy to secure the future, ensuring well-paid jobs and affordable housing."
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Providing a good school place for every child."
+  	},
+  	{
+    	"policyTitle": "Health",
+    	"policyDescription": "Paying for a strong NHS."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Theresa May",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn, Nicolas Sturgeon, Tim Farron, Paul Nuttall",
+  	"partyLeader": "Theresa May",
+  	"tacticalSituation": "Vote for Conservatives to ensure strong and stable leadership through Brexit and beyond and avoid a coalition of chaos."
+	},
+	"issues": {
+  	"brexitEurope": "Getting the best possible deal from Brexit is crucial. It's the most important task the Government faces.",
+  	"economy": "Locking in economic progress to benefit the British people for the future with well-paid jobs, affordable housing, and a strong economy.",
+  	"education": "Ensuring well-paid jobs and a good school place for every child.",
+  	"environment": "",
+  	"governance": "Needing one-off chance for election while EU leaders are deciding their stance to show unity at the start of negotiations.",
+  	"health": "Paying for a strong NHS.",
+  	"immigration": "Taking back control of borders.",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Building a strong economy for well-paid jobs and more affordable housing.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "The only way you can ensure we have the strong and stable leadership to get this right is by backing me and voting for my Conservative candidate in your local area.",
+	"politicalExperience": [
+  	{
+    	"role": "Prime Minister",
+    	"duration": "",
+    	"achievements": "Has been leading the country through challenging times with a clear plan to see us through Brexit and beyond."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.conservatives.com",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Every vote for me and the Conservatives will strengthen my hand to get the best Brexit deal.",
+    	"source": "Theresa May",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Theresa May speaking to supporters."
+    	},
+    	{
+      	"caption": "Comparison between strong and stable leadership with Theresa May and a coalition of chaos with Jeremy Corbyn."
+    	},
+    	{
+      	"caption": "Theresa May's call for support to strengthen her hand in Brexit negotiations."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

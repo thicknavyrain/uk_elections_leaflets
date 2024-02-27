@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Daniel Zeichner",
+    "constituency": "Cambridge",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "CAMBRIDGE CANDIDATE VOTED WITH NICK CLEGG'S LIB DEM GOVERNMENT 782 TIMES WHEN HE WAS CAMBRIDGE MP",
+        "content": "The leaflet criticizes the former MP for voting with the previous government on key issues."
+      },
+      {
+        "title": "Our NHS is in crisis",
+        "content": "The leaflet highlights the current state of the NHS and implies a need for better measures and improvements."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "The leaflet suggests the NHS is in crisis and needs better support and measures."
+      },
+      {
+        "policyTitle": "Keeping Chesterton Green",
+        "policyDescription": "The leaflet advocates for keeping the local area green and preventing overdevelopment."
+      },
+      {
+        "policyTitle": "Labour's radical and fair proposals",
+        "policyDescription": "The leaflet suggests that the Labour party has radical and fair proposals, presumably in contrast to the current government's policies, though specifics are not provided."
+      }
+      
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Nick Clegg",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The leaflet highlights the crisis in the NHS suggesting a need for improvements.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The leaflet suggests measures to keep the Chesterton area green, which might imply a stance on housing development.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.danielzeichner.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "DanielZeichner",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Picture of Daniel Zeichner."
+        },
+        {
+          "caption": "Various campaign activities and supporters."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contains a number of 'FAILED' stamps across different boxes, which suggest criticisms of the former MP's actions while in government partnership with Nick Clegg's Lib Dems."
+  }
+}
+```

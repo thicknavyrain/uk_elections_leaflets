@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Theresa May",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "8th June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Social Care",
+        "policyDescription": "Ensuring the social care system provides proper care and protection for all those who need it, especially older people. No one will have to sell their home to pay for care, an absolute limit on what people have to pay for their care, protection of life savings, introduction of new protections for carers, a double-lock for pensions, and protection of pensioner benefits."
+      }
+    ],
+    "mentions": {
+      "candidate": "Theresa May",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Social care system to provide proper care and protection, with protections for life savings and introduction of new protections for carers.",
+      "housing": [
+        {
+          "content": "No one will have to sell their home to pay for care.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign leaflet detailing Theresa May's stance on social care."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet focuses on the Conservative party's policies on social care, aimed at protecting older people and ensuring nobody has to sell their home to pay for care."
+  }
+}
+```

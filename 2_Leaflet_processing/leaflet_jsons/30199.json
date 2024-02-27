@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr Simon Beard",
+    "constituency": "Dartford",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "June 8",
+    "messages": [
+      {
+        "title": "YOU CAN CHANGE DARTFORD'S FUTURE",
+        "content": "NOW IS NOT THE TIME FOR BUSINESS AS USUAL!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fight congestion and pollution",
+        "policyDescription": "Dr Simon Beard plans to fight congestion and pollution."
+      },
+      {
+        "policyTitle": "Stand up for our NHS",
+        "policyDescription": "Dr Simon Beard promises to defend the NHS."
+      },
+      {
+        "policyTitle": "Stop school cuts",
+        "policyDescription": "Dr Simon Beard is against school funding cuts."
+      },
+      {
+        "policyTitle": "Support the police",
+        "policyDescription": "Dr Simon Beard will support the police."
+      },
+      {
+        "policyTitle": "Protect your rights",
+        "policyDescription": "Dr Simon Beard is committed to protecting individuals' rights."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr Simon Beard",
+      "otherPartyLeaderCandidate": "Gareth Johnson",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Stop school cuts",
+      "environment": "Fight congestion and pollution",
+      "governance": "",
+      "health": "Stand up for our NHS",
+      "immigration": "",
+      "socialWelfare": "Protect your rights",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.theyworkforyou.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Against allowing same sex couples to marry. In favour of cutting council funding by 44%. Against a legally binding Military Covenant. In favour of the Bedroom Tax. Against increasing free child care. In favour of culling badgers. Against providing additional funds for social care*.",
+        "source": "Gareth Johnson",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dr Simon Beard pointing towards the viewer with the message 'YOU CAN CHANGE DARTFORD'S FUTURE'"
+        }
+      ]
+    },
+    "additionalNotes": "*In parliamentary divisions on 05/02/2013, 22/02/2017, 16/02/2011, 09/05/2011, 19/11/2013, 05/06/2013 and 06/11/2016. According to theyworkforyou.com and publicwhip.org.uk"
+  }
+}
+```

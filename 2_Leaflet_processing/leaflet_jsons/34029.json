@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Philp",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "SIX reasons to re-elect Chris PHILP",
+        "content": "Chris has successfully campaigned over the last four years including £350m to help fix Brighton Mainline problems, Secured a one third cut in Business Rates for small shops, Secured morning opening hours at Purley Hospital GP Hub, etc."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Keep an effective local MP",
+        "policyDescription": "Campaigning on local issues, including securing funding for Brighton Mainline problems and business rate cuts for small shops."
+      },
+      {
+        "policyTitle": "100+ more Police for Croydon",
+        "policyDescription": "Commitment to increase the number of police officers in Croydon."
+      },
+      {
+        "policyTitle": "Fight Labour’s Planning Disaster",
+        "policyDescription": "Opposition to the current administration's planning policies, support for empowering local people over planning decisions."
+      },
+      {
+        "policyTitle": "Protect the NHS & Schools",
+        "policyDescription": "Advocacy for the opening of new healthcare facilities and support for education."
+      },
+      {
+        "policyTitle": "END THE BREXIT UNCERTAINTY",
+        "policyDescription": "Support for concluding Brexit to end the uncertainty."
+      },
+      {
+        "policyTitle": "A strong economy",
+        "policyDescription": "Policies aimed towards achieving a strong economy, including low taxes and support for businesses."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Philp has been involved in various local initiatives and successful campaigns.",
+      "otherPartyLeaderCandidate": "References to Jeremy Corbyn as the alternative option to Chris Philp.",
+      "partyLeader": "",
+      "tacticalSituation": "Comparison of previous election results to illustrate the tactical situation: 'Conservatives 29,874, Labour 21,928, Lib Dems 3,541, UKIP 1,497. Can't win here'"
+    },
+    "issues": {
+      "brexitEurope": "END THE BREXIT UNCERTAINTY",
+      "economy": "A strong economy",
+      "education": "Protect the NHS & Schools",
+      "environment": "",
+      "governance": "",
+      "health": "Protect the NHS & Schools",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Fight Labour’s Planning Disaster",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local MP",
+        "duration": "Last four years",
+        "achievements": "Successful campaigns on local issues, securing funding for Brighton Mainline problems, and business rate cuts for small shops."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.chrisphilp.com",
+      "socialMedia": {
+        "facebook": "chris4croydon",
+        "twitter": "@chrisphilp_mp",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Chris has been a great support to me and my Chemist's project - Better Health for everyone in the community. He has not stopped!",
+        "source": "Local Resident",
+        "date": ""
+      },
+      {
+        "text": "Thank you for all your help with our Purley project, we're very grateful. We can now look towards further improvements in the High Street. This is some of which we can be proud is happening because we have the go-getter MP!",
+        "source": "Local Resident",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Chris Philp pictured with supporters and constituents."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet implies the choice between re-electing Chris Philp or having Jeremy Corbyn as an alternative, underlining a Conservative versus Labour dichotomy."
+  }
+}
+```

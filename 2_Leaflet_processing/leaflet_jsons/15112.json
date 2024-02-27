@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Malcolm Birks",
+    "constituency": "Sunderland Central",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A Labour government will:",
+        "content": "Freeze energy bills through to 2017, saving the average household £120/year. Set out strict rules for the fair rent of private homes."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Energy Bills",
+        "policyDescription": "Freeze energy bills through to 2017, saving the average household £120/year."
+      },
+      {
+        "policyTitle": "Private Housing",
+        "policyDescription": "Set out strict rules for the fair rent of private homes."
+      },
+      {
+        "policyTitle": "Jobs",
+        "policyDescription": "Guarantee a job for the long-term unemployed, paid at least the minimum wage for a minimum of 25 hours."
+      },
+      {
+        "policyTitle": "Higher Education",
+        "policyDescription": "Cut university tuition fees from £9,000/year to £6,000/year."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Paid for by a mansion tax on homes valued at over £2 million."
+      },
+      {
+        "policyTitle": "Secondary Education",
+        "policyDescription": "Ensure every child is taught by a qualified teacher."
+      }      
+    ],
+    "mentions": {
+      "candidate": "Malcolm Birks",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Cut university tuition fees from £9,000/year to £6,000/year. Ensure every child is taught by a qualified teacher.",
+      "environment": "",
+      "governance": "",
+      "health": "Paid for by a mansion tax on homes valued at over £2 million.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Set out strict rules for the fair rent of private homes.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "The Labour candidate to be your MP.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Malcolm Birks - Labour - Fighting for Fairness"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,108 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Catherine West",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "5 Things to Remember",
+        "content": "You don't need your polling card to vote; Polls are open 7am - 10pm; If you've got a postal vote, but haven't sent it back yet, you can take it to any polling station before 10pm today; If you don't know where your polling station is or you need a lift to vote, call our campaign hotline on 020 8340 7362; Place a [X] next to Catherine West's name."
+      },
+      {
+        "title": "THIS ELECTION IS A TWO HORSE RACE",
+        "content": "Today, you have a choice about the future of our country. It's a choice between Labour's better plan, or 5 more years of this Tory/Lib Dem Government."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "For our NHS, for people not for profit."
+      },
+      {
+        "policyTitle": "Bedroom Tax",
+        "policyDescription": "To scrap the unfair and cruel Bedroom Tax."
+      },
+      {
+        "policyTitle": "Living Wage",
+        "policyDescription": "For a proper Living Wage for working people."
+      },
+      {
+        "policyTitle": "Jobs and Training",
+        "policyDescription": "For real jobs and training opportunities for young people."
+      },
+      {
+        "policyTitle": "Private Renters",
+        "policyDescription": "For a fairer deal for private renters."
+      }
+    ],
+    "mentions": {
+      "candidate": "Catherine West",
+      "otherPartyLeaderCandidate": "Tory/Lib Dem",
+      "partyLeader": "",
+      "tacticalSituation": "Two horse race"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "For our NHS, for people not for profit.",
+      "immigration": "",
+      "socialWelfare": "To scrap the unfair and cruel Bedroom Tax.",
+      "housing": [
+        {
+          "content": "For a fairer deal for private renters.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "020 8340 7362",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Labour Today!"
+        },
+        {
+          "caption": "Polls are open 7am to 10pm"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

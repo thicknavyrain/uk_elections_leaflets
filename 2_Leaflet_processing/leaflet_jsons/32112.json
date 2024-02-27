@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Pippa Heylings",
+    "constituency": "South East Cambs",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Dear Resident",
+        "content": "At the coming general election, we face a stark choice between Boris Johnson's Conservatives pushing his terrible Brexit deal, and those who are willing to stand up for an open, fair and inclusive future for our country."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Opposes Boris Johnson's Brexit deal, implies a commitment to fighting for the residents' interests and doing everything possible to stop Brexit and get a final say on a deal."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Campaigning for more money for schools to ensure they do not have to close early and have what they need to provide children with the best start."
+      },
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Has expertise internationally and at the local level to tackle climate change. Has a strong green agenda with policies aimed at achieving zero carbon and protecting nature and biodiversity."
+      }
+    ],
+    "mentions": {
+      "candidate": "Pippa Heylings",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "",
+      "tacticalSituation": "The Liberal Democrats are the only party that can challenge the Conservatives. Labour do not have a single councillor in the area and are a distant third according to a recent poll."
+    },
+    "issues": {
+      "brexitEurope": "Opposes Boris Johnson's Brexit deal and wants to stop the damage that Brexit is causing.",
+      "economy": "",
+      "education": "Campaigning for more money for schools to ensure they do not have to close early.",
+      "environment": "Has expertise to tackle climate change and has a green agenda aimed at achieving zero carbon and protecting nature and biodiversity.",
+      "governance": "",
+      "health": "Implies a commitment to protecting the NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Councillor at South Cambs District Council",
+        "duration": "",
+        "achievements": "Part of making the council recognised as one of the greenest in the country."
+      }
+    ],
+    "contactInformation": {
+      "address": "153a Mahler Street, EC1V 4JN",
+      "phone": "",
+      "email": "",
+      "website": "www.pippaheylings.com",
+      "socialMedia": {
+        "facebook": "Pippa Heylings",
+        "twitter": "@PippaHeylings",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Pippa Heylings - Liberal Democrat campaigner for South East Cambs"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet indicates that Pippa Heylings is committed to stopping Brexit, tackling climate change, protecting the NHS, and providing a brighter future for the country. It also suggests tactical voting considerations in South East Cambridgeshire."
+  }
+}
+```

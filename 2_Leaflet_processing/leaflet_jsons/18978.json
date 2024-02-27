@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stephanie Roe",
+    "constituency": "Sheffield Central",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Stephanie will strive to improve educational standards and access to higher education."
+      },
+      {
+        "policyTitle": "Industry and Business",
+        "policyDescription": "Stephanie will fight for investment in industry and business in Sheffield to increase local employment."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Stephanie will campaign for further investment in local NHS services and care provisions for the elderly."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Stephanie will strive to improve educational standards and access to higher education.",
+      "environment": "",
+      "governance": "",
+      "health": "Stephanie will campaign for further investment in local NHS services and care provisions for the elderly.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Stephanie is always keen to hear your concerns, either about local or national issues.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01709 368812",
+      "email": "sroe.conservatives@gmail.com",
+      "website": "www.southyorkshireconservatives.org.uk",
+      "socialMedia": {
+        "facebook": "/conservatives",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A strong voice for Sheffield Central"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

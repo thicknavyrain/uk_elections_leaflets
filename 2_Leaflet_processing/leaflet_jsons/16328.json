@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "YOU DECIDE: COMPETENCE OR CHAOS",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "We're reducing the deficit – so our children and grandchildren aren't left with more debt than they can repay."
+      },
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "We've cut income tax for 26 million people - and taken over 3 million of the lowest paid out of income tax altogether."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "With a strong economy, we've been able to increase spending on the NHS."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "We're raising standards in schools; a million more children are now being taught in schools ranked 'good' or 'outstanding'."
+      },
+      {
+        "policyTitle": "Europe and Immigration",
+        "policyDescription": "We're committed to renegotiating Britain’s relationship with Europe and getting immigration under control - then you will decide on Britain's EU membership at an in/out referendum."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "We're committed to renegotiating Britain’s relationship with Europe and getting immigration under control - then you will decide on Britain's EU membership at an in/out referendum.",
+      "economy": "We're reducing the deficit – so our children and grandchildren aren't left with more debt than they can repay.",
+      "education": "We're raising standards in schools; a million more children are now being taught in schools ranked 'good' or 'outstanding'.",
+      "environment": "",
+      "governance": "",
+      "health": "With a strong economy, we've been able to increase spending on the NHS.",
+      "immigration": "We're committed to renegotiating Britain’s relationship with Europe and getting immigration under control - then you will decide on Britain's EU membership at an in/out referendum.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "conservatives.com/referendum",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "When I first walked through the door of Downing St. as Prime Minister our economy was on the brink. That was what Labour left us and it falls...",
+        "source": "David Cameron",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet front and back pages showing key messages and endorsements from the Conservative party."
+        }
+      ]
+    },
+    "additionalNotes": "This leaflet includes a letter from David Cameron, addresses the reader on past achievements and future commitments related to the economy, NHS, education, and Europe and immigration policies, as well as comments on the opposition leader Ed Miliband and the Labour party."
+  }
+}
+```

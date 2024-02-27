@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Neil McEvoy",
+    "constituency": "Cardiff West",
+    "politicalParty": "Plaid Cymru - Party of Wales",
+    "electionDate": "Thursday 7 May 2015",
+    "messages": [
+      {
+        "title": "An election of firsts in Cardiff West",
+        "content": "It's time for a new voice in Cardiff West."
+      },
+      {
+        "title": "Your voice in Wellington",
+        "content": "I am your Plaid Cymru candidate for Cardiff West and I am determined to be the strong Welsh voice that your community needs."
+      },
+      {
+        "title": "Dear Elector",
+        "content": "It is a real possibility that no single party will win the 2015 UK general election. In this scenario the best electoral leverage for Wales must come from Wales."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Polisi Caredig yn Gymraeg - Putting Cardiff First",
+        "policyDescription": "I guarantee to speak out and act as a champion for local people."
+      },
+      {
+        "policyTitle": "Gwarchod ein Tiroedd Glas - Protect our Green Spaces",
+        "policyDescription": "Oppose Cardiff's Local Development Plan. No development beyond what the area can cope with."
+      },
+      {
+        "policyTitle": "Gwarchod ein Ceiniogau Prin - Make every Penny Count",
+        "policyDescription": "Why pay more than £200,000 to public servants? Help me stop the gravy train."
+      },
+      {
+        "policyTitle": "Gwarchod Plant a Rhieni - Protect Children and Parents",
+        "policyDescription": "Children should have the right to see both parents and both sets of grandparents."
+      }
+    ],
+    "mentions": {
+      "candidate": "Neil McEvoy",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Leanne Wood",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Oppose Cardiff's Local Development Plan. No development beyond what the area can cope with.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I am determined to be the strong Welsh voice that your community needs.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Plaid Cymru, Freehold, Cowbridge Road East, Cardiff CF11 9AB",
+      "phone": "02920 472272",
+      "email": "cardiffwest@plaidcymru.org",
+      "website": "plaidcymru.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "When Plaid wins, Wales is stronger. The stronger we are, the greater the influence Wales will have.",
+        "source": "Leanne Wood - Party Leader",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Neil McEvoy - Plaid Cymru - Party of Wales - Cardiff West - Thursday 7 May 2015"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

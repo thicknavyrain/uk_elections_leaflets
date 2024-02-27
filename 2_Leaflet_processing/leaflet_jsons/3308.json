@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Councillor Dora Dixon-Fyle",
+    "constituency": "Camberwell Green",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The local Lib Dem/Tory council has failed the people of Camberwell Green:",
+        "content": "The Liberal Democrats and Conservatives have cut vital services in London Bridge. The Liberal Democrats and Conservatives have raised council taxes in Camberwell Green, making it one of the highest in London."
+      },
+      {
+        "title": "Your local Labour Team working hard for Camberwell Green is:",
+        "content": "Harriet Harman QC MP, Kevin Ahern, Cllr Dora Dixon-Fyle & Rev Emmanuel Oyewole."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Kevin Ahern is focused on fighting for better conditions at work and fair pay, and is also committed to tackling the housing crisis. He promises to address serious youth violence and to deliver improved transport services and better housing conditions."
+      }
+    ],
+    "mentions": {
+      "candidate": "Councillor Dora Dixon-Fyle",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Harriet Harman QC MP",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Kevin Ahern is committed to tackling the housing crisis with a focus on delivering improved transport services and better housing conditions.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Councillor Dora Dixon-Fyle has been representing the people of Camberwell Green for 12 years, fighting for and on behalf of the community. Rev Emmanuel Oyewole has been serving the local community in various roles.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "12 years",
+        "achievements": "Dora Dixon-Fyle has represented the people of Camberwell Green, fighting for and on behalf of the community to overcome their problems with the council and other organisations. She has helped improve the area with passion and commitment."
+      },
+      {
+        "role": "Community Roles",
+        "duration": "",
+        "achievements": "Rev Emmanuel Oyewole has been serving the local community in various roles, including chairing his local area housing forum and chairing WeServe, a charity that works with young parents to educate and help them with their responsibilities."
+      }
+    ],
+    "contactInformation": {
+      "address": "Camberwell Green Labour Team, 54 Camberwell Road, SES OEN",
+      "phone": "",
+      "email": "camberwellgreen@yahoo.co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Your local Labour Team working hard for Camberwell Green is: Harriet Harman QC MP, Kevin Ahern, Cllr Dora Dixon-Fyle & Rev Emmanuel Oyewole."
+        }
+      ]
+    },
+    "additionalNotes": "Many thanks for taking the time to read this letter. Please get in touch to join our strong Labour team, to help you in any way we can."
+  }
+}
+```

@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rob Burberry",
+    "constituency": "Woking",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "How Safe Is YOUR Home?",
+        "content": "Expect many more developments with 500+ housing developments in all areas of Woking. 6,000+ high-density new homes to be crammed into the town involving the grab of recreation grounds, athletic tracks, and houses with long gardens."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing and Development",
+        "policyDescription": "UKIP will insist councils hold binding local referenda for all major developments. Opposes Green Belt development."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rob Burberry",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "To house the 2.56 million immigrants that arrived since Conservatives took office in 2010.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Expect many more developments with 500+ housing developments in all areas of Woking.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Candidate for Parliament",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "11 Lime Grove, Woking GU22 9PW",
+      "phone": "07818 441148",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sheerwater project site"
+        },
+        {
+          "caption": "How Safe Is YOUR Garden?"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet focuses on concerns regarding housing development and immigration, suggesting a significant increase in housing development pressure due to population growth. It emphasizes the need for local referenda on major developments."
+  }
+}
+```

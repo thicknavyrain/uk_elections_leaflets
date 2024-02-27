@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Desmond Swayne",
+	"constituency": "",
+	"politicalParty": "Conservative",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Britain needs change",
+    	"content": "We just can't go on like this: Britain needs change!"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Restore our broken economy by acting on debt, waste, and taxes which are holding us back."
+  	},
+  	{
+    	"policyTitle": "Society",
+    	"policyDescription": "Fix the broken society by tackling the dependency, the family breakdowns, and the failed schools."
+  	},
+  	{
+    	"policyTitle": "Politics",
+    	"policyDescription": "Mend our broken politics by returning power to people, cutting the cost of government, reducing the number of MPs and their pensions, and reforming immigration laws."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Desmond Swayne",
+  	"otherPartyLeaderCandidate": "Gordon Brown",
+  	"partyLeader": "David Cameron",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Restore our broken economy by acting on debt, waste, and taxes which are holding us back.",
+  	"education": "Fix the broken society by tackling [...] the failed schools.",
+  	"environment": "",
+  	"governance": "Mend our broken politics by returning power to people, cutting the cost of government, reducing the number of MPs and their pensions.",
+  	"health": "",
+  	"immigration": "Mend our broken politics by [...] reforming immigration laws.",
+  	"socialWelfare": "Fix the broken society by tackling the dependency, the family breakdowns.",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "01425 629844",
+  	"email": "desmondswayne@hotmail.com",
+  	"website": "www.votesswayne.com",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Desmond Swayne running"
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet promotes a strong message for change with a focus on mending the economy, society, and politics under the Conservative party leadership. It emphasizes a tactical vote for change away from the Labour government of Gordon Brown towards the Conservative candidate Desmond Swayne with David Cameron as the party leader."
+  }
+}
+```

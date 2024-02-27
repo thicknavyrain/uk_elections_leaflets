@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Don't be conned by desperate Labour!",
+        "content": "After thirteen years, Labour have little positive to say about their own record. Labour are now desperate and will say anything to win. Labour failed to tell us the truth about the war in Iraq, They failed to stop bankers picking up their huge bonuses. They have failed to make Britain fairer."
+      },
+      {
+        "title": "Only the Liberal Democrats will deliver change",
+        "content": "The Lib Dems led the opposition to the war in Iraq. They will take action to break up the banks and to cut taxes for ordinary families."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Opposition to the war in Iraq",
+        "policyDescription": "Led the opposition to the war in Iraq."
+      },
+      {
+        "policyTitle": "Banking reform",
+        "policyDescription": "Will take action to break up the banks."
+      },
+      {
+        "policyTitle": "Tax cuts",
+        "policyDescription": "Plan to cut taxes for ordinary families."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The SNP are too small to deliver change in Westminster."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Nick Clegg says, 'Our top priority will be to deliver real change and to make Britain a fairer place to live.'",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

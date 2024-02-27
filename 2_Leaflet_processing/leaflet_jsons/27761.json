@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "THERESA MAY'S NHS CRISIS",
+        "content": "Waiting times at record highs, Key services under strain, Further massive cuts planned"
+      },
+      {
+        "title": "But the Lib Dems can change Britain's future...",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "1p extra on Income Tax",
+        "policyDescription": "The Liberal Democrats will put 1p on Income Tax to raise an extra £6 billion a year for our NHS and social care. This would just be the first step in the Liberal Democrat's Five-Point Recovery Plan to protect health and social care in the longer term."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "THERESA MAY'S NHS CRISIS: Waiting times at record highs, Key services under strain, Further massive cuts planned",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "\"Cuts have left NHS on the brink of collapse says shocking\"",
+        "source": "The Mirror, 13 Oct 2016",
+        "date": "13 Oct 2016"
+      },
+      {
+        "text": "\"Secret plan for £22billion of NHS cuts could force A&Es, hospitals and maternity\"",
+        "source": "The Mirror, 21 Nov 2016",
+        "date": "21 Nov 2016"
+      },
+      {
+        "text": "\"NHS cuts blamed for 30,000 deaths in new study.\"",
+        "source": "The Independent, 17 Feb 2017",
+        "date": "17 Feb 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Theresa May titled THERESA MAY'S NHS CRISIS"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

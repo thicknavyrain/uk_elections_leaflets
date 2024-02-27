@@ -1,0 +1,66 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Louise Haigh",
+    "constituency": "Sheffield Heeley",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "FIGHTING FOR SHEFFIELD. REAL CHANGE FOR BRITAIN.",
+        "content": "It's time to turn the page on a decade of Tory decline. A vote for Labour on December 12th is a vote for the real change our city needs."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0114 250 8113",
+      "email": "Louise@LouiseHaigh.org.uk",
+      "website": "www.LouiseHaigh.org.uk",
+      "socialMedia": {
+        "facebook": "HaighForHeeley",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Re-elect LOUISE HAIGH Labour candidate for Sheffield Heeley"
+        },
+        {
+          "caption": "Louise Haigh Labour candidate for Sheffield Heeley"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

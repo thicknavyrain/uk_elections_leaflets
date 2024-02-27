@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Oliver Coppard",
+    "constituency": "Sheffield Hallam",
+    "politicalParty": "Labour",
+    "electionDate": "2015",
+    "messages": [
+      {
+        "title": "",
+        "content": "I'm Oliver. I was born and raised here, and I'm working to be your next MP. I won't make any promises I can't keep, but I do promise to work as hard as I can for you and your family."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Oliver Coppard",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm Oliver. I was born and raised here, and I'm working to be your next MP.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "oliver@coppardforhallam.com",
+      "website": "www.olivercoppard.com",
+      "socialMedia": {
+        "facebook": "/olivercoppardforhallam",
+        "twitter": "@olivercoppard",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Oliver Coppard, depicted holding a mug, gazes forward."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Maria Eagle",
+	"constituency": "Garston and Halewood",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 8 June",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Maria Eagle",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "Unit House, Speke Boulevard, Liverpool, L24 9HZ",
+  	"phone": "0151 448 1191",
+  	"email": "Maria.Eagle.Labour@gmail.com",
+  	"website": "www.mariaeagle.org.uk",
+  	"socialMedia": {
+    	"facebook": "mariaeaglelabour",
+    	"twitter": "meaglemp",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Front page of Maria Eagle's campaign leaflet."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

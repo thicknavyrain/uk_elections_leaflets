@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jon Nicholas",
+    "constituency": "Bournemouth East",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "BREXIT IS CAUSING PRICES TO RISE",
+        "content": "UK inflation rate leaps to 2.3%"
+      },
+      {
+        "title": "Back Jon Nicholas for an MP who will:",
+        "content": "1. Protect our NHS\n2. Fight hard Brexit\n3. Boost school funding"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protect our NHS",
+        "policyDescription": "Jon will defend our NHS and stop further Conservative cuts. With waiting lists at record levels and hospitals stretched to breaking point, the Lib Dems will raise an extra £6 billion each year to properly fund health and social care."
+      },
+      {
+        "policyTitle": "Fight hard Brexit",
+        "policyDescription": "Jon is fighting Conservative plans for a hard Brexit. Bournemouth's major employers including the financial sector, language schools, universities and tourist trade rely heavily on our trade with Europe for its prosperity."
+      },
+      {
+        "policyTitle": "Boost school funding",
+        "policyDescription": "The Tories aren't giving local schools the money they need. The Lib Dems are campaigning for schools in Bournemouth to be provided with an extra £26 million, ensuring they can continue to give high quality education for local children."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jon Nicholas",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "food UP, petrol prices UP",
+      "economy": "",
+      "education": "Boost school funding",
+      "environment": "",
+      "governance": "",
+      "health": "Protect our NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "Jon Nicholas is the Liberal Democrat candidate for Bournemouth East. Jon's work takes him all over the constituency and beyond to schools and community projects. He works on a wide range of inclusion projects which have given him powerful insight into some of the most vulnerable people and communities locally and beyond.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jon Nicholas will fight for Bournemouth"
+        }
+      ]
+    },
+    "additionalNotes": "We have an important choice on June 8th. Choose a strong local champion who will campaign for jobs."
+  }
+}
+```

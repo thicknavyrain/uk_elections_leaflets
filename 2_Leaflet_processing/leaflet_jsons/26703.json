@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sabriye Warsame",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The Truth About UKIP",
+        "content": "Keep the NHS free at point of delivery. An Australian-style, points based, fairer immigration system. Scrap HS2 - Save at least £50 billion! No to Over-development, Community Led Planning and not opportunist developers."
+      },
+      {
+        "title": "UKIP says YES to",
+        "content": "A NHS free at the point of delivery. Controlled immigration. No tax on the minimum wage. Housing priority for local people. Scrap HS2."
+      },
+      {
+        "title": "UKIP says NO to",
+        "content": "Unlimited immigration. Endless Wars of aggression and Foreign Invasions. £12 billion a year in foreign aid. 'The bedroom tax' and the 'mansion tax'."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Keep the NHS free at point of delivery and provide £3 billion extra to keep it free."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "An Australian-style, points based, fairer immigration system; welcoming people with skills to enhance Britain and its communities."
+      },
+      {
+        "policyTitle": "Minimum Wage",
+        "policyDescription": "No tax on the minimum wage; millions of the poorest workers should not have to pay income tax."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Housing priority for local people; build more social and low-cost housing on existing brown field sites not green fields, to help families and local youngsters get on the ladder."
+      },
+      {
+        "policyTitle": "HS2",
+        "policyDescription": "Scrap HS2; save at least £50 billion and spend some of that £80 billion on crumbling infrastructure, such as roads, footpaths, schools and hospitals. We will upgrade our existing rail lines to benefit our long suffering commuters."
+      },
+      {
+        "policyTitle": "Foreign Policy",
+        "policyDescription": "No to unlimited immigration, endless wars of aggression and foreign invasions. Stop aiding countries at war like India and China. Charities 'begging at home'."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sabriye Warsame",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nigel Farage MEP",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Ensure £3 billion extra to the NHS to keep it free.",
+      "immigration": "Controlled immigration system that enhances Britain and its communities.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Prioritize building social and low-cost housing on existing brown field sites rather than green fields, to support families and local youngsters.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "BarnetUKIP.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet image featuring the candidate Sabriye Warsame and Nigel Farage MEP, with the party's key messages."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet originated from BarnetUKIP and mentions that Labour and the Tories are accused of lying about UKIP policies, positioning UKIP distinctly against them."
+  }
+}
+```

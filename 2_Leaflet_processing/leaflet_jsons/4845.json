@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Ajmal Masroor",
+	"constituency": "Bethnal Green and Bow",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Local Housing",
+    	"policyDescription": "The Liberal Democrats take our local housing very seriously."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Ajmal Masroor",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "The Liberal Democrats take our local housing very seriously.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.tower-hamlets-libdems.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Ajmal Masroor with text 'Help the Local team make Bethnal Green and Bow Better'"
+    	},
+    	{
+      	"caption": "Leaflet content headings like 'Your Views', 'The Credit Crunch', 'Your Street', 'Local Doctors and Dentists', 'Current Issues'"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

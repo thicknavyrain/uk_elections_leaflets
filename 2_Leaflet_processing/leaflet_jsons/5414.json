@@ -1,0 +1,70 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Rob Marris",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Tony",
+        "endorsement": "My elderly father was having huge difficulties getting the Government benefits agency to give him any help. When Mr. Marris took on the case he shook up EAGA and got the heating sorted fast. He's got my dad's vote and if I still lived in the constituency he would have mine."
+      },
+      {
+        "endorser": "M O'Shea",
+        "endorsement": "After a very frustrating month trying to solve a family problem, I decided to approach Rob Marris for his help. The problem was sorted the same day. Friendly efficient and effective. I can't praise him highly enough."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Rob with the Alzheimer's Society at the Wulfrun Centre."
+        },
+        {
+          "caption": "The hardest working MP in the country?"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew Simpson",
+    "constituency": "Northampton North",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Putting Northampton First",
+        "content": "Andrew Simpson has a record of action and service for people in Northampton North."
+      },
+      {
+        "title": "Saving Northampton from over-development",
+        "content": "Many local people tell me how disappointed they have been with the other parties. On this issue, like so many others they have failed to stand up for Northampton."
+      },
+      {
+        "title": "OUR NHS... AT RISK",
+        "content": "What else aren't the Conservatives telling you?"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protect Local Green Spaces",
+        "policyDescription": "Campaigning against the government's plans to impose 10,000s of houses on out town and the heated rush to sell off local assets such as services."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Against health service privatisation and fighting to protect local health services."
+      },
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Supports Nick Clegg's tax plan which includes no tax on the first £10,000 you earn and cutting most tax bills by £700."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andrew Simpson",
+      "otherPartyLeaderCandidate": "Conservative Michael Ellis, Sally Keeble",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Fight against the government's plan to impose thousands of new houses and lose proximity from considered local assets such as services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Campaigning against the government's plans to impose 10,000s of houses on our town.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "As your local MP, I will always put local people first – just like I have on the many campaigns I have run across the area.",
+    "politicalExperience": [
+      {
+        "role": "Student Union President",
+        "duration": "",
+        "achievements": "University Former President of Northampton University Students Union and has been an active local councillor representing us in Parliament since 1995."
+      }
+    ],
+    "contactInformation": {
+      "address": "2A St. Georges Avenue, Northampton, NN2 6JA",
+      "phone": "07968 950223",
+      "email": "",
+      "website": "http://www.andrew-simpson.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andrew Simpson - Tipped to become our next MP"
+        }
+      ]
+    },
+    "additionalNotes": "It's the Lib Dems or the Conservatives here."
+  }
+}
+```

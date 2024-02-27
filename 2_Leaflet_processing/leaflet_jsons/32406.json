@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Graham Cockarill",
+    "constituency": "North East Hampshire",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A FAIRER BRITAIN",
+        "content": "A fairer Britain with Liberal Democrats. Stop Brexit. Build a brighter future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Brexit",
+        "policyDescription": "Stopping Brexit to secure the future for our children and grandchildren."
+      },
+      {
+        "policyTitle": "NHS and Social Care",
+        "policyDescription": "Invest in our NHS and Social Care services by stopping Brexit and saving the £50bn Remain Bonus."
+      },
+      {
+        "policyTitle": "Climate Emergency",
+        "policyDescription": "Tackle the climate emergency and harness the power of renewables."
+      },
+      {
+        "policyTitle": "Education and Policing",
+        "policyDescription": "Investing more in schools, and 20,000 more police on our streets."
+      },
+      {
+        "policyTitle": "Mental Health",
+        "policyDescription": "Transform mental health services by treating mental health with the same urgency as physical health."
+      }
+    ],
+    "mentions": {
+      "candidate": "Graham Cockarill",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Stopping Brexit. Stronger economy by stopping Brexit.",
+      "economy": "Secure jobs and the economy by stopping Brexit.",
+      "education": "Investing more in schools.",
+      "environment": "Tackle the climate emergency and harness the power of renewables.",
+      "governance": "",
+      "health": "Invest in our NHS and Social Care services. Transform mental health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Guardian",
+        "endorsement": "Jo Swinson is the Prime Minister we deserve."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Jo Swinson is the Prime Minister we deserve.",
+        "source": "The Guardian",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Graham working hard for North East Hampshire."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+    "candidateName": "Andy Slaughter",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Vote Labour To Save Your Home",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Labour opposes Conservative plans to get rid of social housing, intending to protect tenants from eviction and maintain affordable homes for working families."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andy Slaughter MP",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "A letter from Andy Slaughter MP about Conservative plans to get rid of social housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "OUR revelation today of a Conservative plot to put up easier for landlords to evict tenants and make the harsh truth behind David Cameron's smile.",
+        "source": "Daily Mirror",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Voice of the Daily Mirror, Tory plot exposed."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

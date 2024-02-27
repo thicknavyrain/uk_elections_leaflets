@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alex Salmond",
+    "constituency": "SNP Constituency Candidate",
+    "politicalParty": "Scottish National Party (SNP)",
+    "electionDate": "May 5",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "A fair deal for families with a Council Tax freeze until 2016."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Faster and better treatment with a guarantee to protect the NHS budget."
+      },
+      {
+        "policyTitle": "Youth Employment",
+        "policyDescription": "Giving young Scots a fair chance at a job with a record 25,000 apprenticeship places."
+      },
+      {
+        "policyTitle": "Public Safety",
+        "policyDescription": "Work to make communities safer by keeping the 1,000 extra police on the beat."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Giving young Scots a fair start in life with 60,000 fewer pupils taught in crumbling schools and university education kept free."
+      },
+      {
+        "policyTitle": "Green Economy",
+        "policyDescription": "A future that is greener as well as fairer, with 130,000 jobs in the green economy by 2020."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alex Salmond",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "60,000 fewer pupils taught in crumbling schools and university education kept free.",
+      "environment": "130,000 jobs in the green economy by 2020.",
+      "governance": "",
+      "health": "Guarantee to protect the NHS budget.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "First Minister",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "We're working for a fairer Scotland."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes the message of working towards a fairer Scotland and highlights the key policies aimed at achieving this goal. It also includes a reminder that voters have two votes on May 5th, encouraging them to support the SNP with both votes."
+  }
+}
+```

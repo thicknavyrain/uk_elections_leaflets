@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kenneth Clarke",
+    "constituency": "Rushcliffe",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "STRONG LEADERSHIP, A CLEAR ECONOMIC PLAN, A BETTER, MORE SECURE FUTURE.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic Plan",
+        "policyDescription": "Solving the challenges facing the NHS, good education standards and national security are my special interests."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kenneth Clarke",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "I have always checked my own political desire to serve in the interests of the people of Nottinghamshire and will continue to do so.",
+      "economy": "",
+      "education": "Solving the challenges, good education standards and national security are my special interests.",
+      "environment": "",
+      "governance": "",
+      "health": "Solving the challenges facing the NHS, good education standards and national security are my special interests.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Ministerial office and political crisis",
+        "duration": "",
+        "achievements": "I hope to be an influential statesman in national politics."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "rushcliffeconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Kenneth Clarke portrait."
+        },
+        {
+          "caption": "Group of individuals possibly representing leadership."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "SICK OF LABOUR TAKING YOU FOR GRANTED?",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "No EU referendum",
+      "economy": "Higher taxes",
+      "education": "",
+      "environment": "",
+      "governance": "Anger at 24% rise in Councillor Pay",
+      "health": "",
+      "immigration": "Uncontrolled immigration",
+      "socialWelfare": "No benefits cap",
+      "housing": [
+        {
+          "content": "Labour’s 24% Cllr pay rise",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "\"Well below average amongst MPs\"",
+        "source": "www.theyworkforyou.com verdict on Tyemouth's Labour MP",
+        "date": ""
+      },
+      {
+        "text": "\"Voters don't trust car-crash Labour\"",
+        "source": "The Telegraph",
+        "date": "2nd June 2014"
+      },
+      {
+        "text": "Don't talk about immigration, party tells Labour candidates",
+        "source": "The Times",
+        "date": "15th December 2014"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A vote for Labour is a vote for..."
+        }
+      ]
+    },
+    "additionalNotes": "Don't let them get away with it again."
+  }
+}
+```

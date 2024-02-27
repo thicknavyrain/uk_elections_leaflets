@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anas Sarwar",
+    "constituency": "Lothians",
+    "politicalParty": "Scottish Labour Party",
+    "electionDate": "Thursday 6 May",
+    "messages": [
+      {
+        "title": "The Recovery Scotland Needs",
+        "content": "The last year has been tough for us all. The pandemic has separated us from our friends and family. Despite that, we have come together like never before. We can't come through the collective trauma of Covid and go back to the old arguments. Arguing with each other while our NHS loses funding, our children miss out on a world-class education, businesses close and jobs go overseas. Instead, under my leadership of Scottish Labour, we will focus on what unites us as a country - not what divides us. Focusing on uniting our people and helping our nation recover."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Jobs Recovery",
+        "policyDescription": "Guaranteeing a job for every young Scot by investing in a National Training Fund and a Business Restart Fund."
+      },
+      {
+        "policyTitle": "NHS Recovery",
+        "policyDescription": "Funding our NHS to get cancer treatment back on track, improve mental health, and give carers the pay they deserve."
+      },
+      {
+        "policyTitle": "Education Recovery",
+        "policyDescription": "Developing a catch-up plan which invests in schools, and ensures IT support in every Primary and Secondary."
+      },
+      {
+        "policyTitle": "Climate Recovery",
+        "policyDescription": "Investing in green jobs and seizing Scotland's hosting of COP26 to champion an ambitious climate justice plan."
+      },
+      {
+        "policyTitle": "Community Recovery",
+        "policyDescription": "Creating a community recovery fund to invest in local areas, and make our communities safer and stronger."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anas Sarwar",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Anas Sarwar",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Guaranteeing a job for every young Scot by investing in a National Training Fund and a Business Restart Fund.",
+      "education": "Developing a catch-up plan which invests in schools, and ensures IT support in every Primary and Secondary.",
+      "environment": "Investing in green jobs and seizing Scotland's hosting of COP26 to champion an ambitious climate justice plan.",
+      "governance": "Focusing on uniting our people and helping our nation recover.",
+      "health": "Funding our NHS to get cancer treatment back on track, improve mental health, and give carers the pay they deserve.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Creating a community recovery fund to invest in local areas, and make our communities safer and stronger.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "We will focus on what unites us as a country - not what divides us.",
+    "politicalExperience": [
+      {
+        "role": "Leader of the Scottish Labour Party",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.scottishlabour.org.uk",
+      "socialMedia": {
+        "facebook": "ScottishLabourParty",
+        "twitter": "ScottishLabour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "We will focus on what unites us as a country - not what divides us."
+        },
+        {
+          "caption": "We have to focus on uniting behind a National Recovery Plan."
+        }
+      ]
+    },
+    "additionalNotes": "Vote Scottish Labour Thursday 6 May"
+  }
+}
+```

@@ -1,0 +1,72 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Adams",
+    "constituency": "Aylesbury",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Straight talking. Vote UKIP",
+        "content": "Chris Adams is the only candidate in the Aylesbury constituency determined to bring power and control back to Westminster and the British people. Only UKIP will enable us to govern in the best interests of the UK. It is time for straight talking."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Stop mass unlimited immigration into the UK."
+      },
+      {
+        "policyTitle": "EU Withdrawal",
+        "policyDescription": "Withdraw from the EU, trade with all countries and not be shackled to the mast by the EU."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Adams",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Withdraw from the EU, trade with all countries and not be shackled to the mast by the EU.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "Stop mass unlimited immigration into the UK.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Chris Adams is the only candidate in the Aylesbury constituency determined to bring power and control back to Westminster and the British people.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Please place this leaflet in your window."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

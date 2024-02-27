@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Rix",
+    "constituency": "Croydon",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Spring 2010",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "More Police",
+        "policyDescription": "Boost police numbers in Greater London by 612. Scrape the ID card scheme and put the £575 million saved into more local police instead."
+      },
+      {
+        "policyTitle": "£700 Tax Cut",
+        "policyDescription": "Paid for by cutting tax loopholes and making the super rich pay for it."
+      },
+      {
+        "policyTitle": "The Economy",
+        "policyDescription": "Getting the economy growing again with fair taxes, creating jobs, and promoting eco-friendly homes with cash back for green improvements."
+      },
+      {
+        "policyTitle": "Lib Dem schools boost",
+        "policyDescription": "Borough would see extra £23 million for local schools. A fair start for every child with smaller classes, more teachers and better discipline."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Rix",
+      "otherPartyLeaderCandidate": "Labour caused the crash, Tories would wreck the recovery",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour allowed the bankers to smash our economy. Tories would wreck the recovery. Lib Dems will get the economy growing again.",
+      "education": "Borough would see extra £23 million for local schools. We need a fair start for every child. Raise funding levels to those of private schools, smaller classes, more teachers and better discipline.",
+      "environment": "Promote eco-friendly homes with cash back for green improvements.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "65 Chaldon Way, Coulsdon CR5 1DL",
+      "phone": "07535 352 884",
+      "email": "simon@simonrix.com",
+      "website": "www.simonrix.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Candidate Simon Rix"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

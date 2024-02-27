@@ -1,0 +1,99 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Welsh Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Welsh Labour's five pledges to you",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protect living standards and create better jobs closer to home",
+        "policyDescription": "Welsh Labour pledges to protect living standards and aim to create better job opportunities closer to where people live."
+      },
+      {
+        "policyTitle": "Defend our NHS and protect social care",
+        "policyDescription": "Welsh Labour commits to defending the National Health Service and ensuring the protection of social care services."
+      },
+      {
+        "policyTitle": "Give all children a chance to achieve",
+        "policyDescription": "Welsh Labour intends to provide all children with the opportunities they need to succeed and achieve their potential."
+      },
+      {
+        "policyTitle": "More bobbies on the beat to make our neighbourhoods safer",
+        "policyDescription": "Welsh Labour promises to increase the presence of police officers on the streets to enhance safety in local communities."
+      },
+      {
+        "policyTitle": "Provide more affordable homes to rent and buy",
+        "policyDescription": "Welsh Labour aims to supply more affordable housing options for individuals looking to rent or purchase homes."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Provide more affordable homes to rent and buy",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Lousie Magee, General Secretary, Welsh Labour on behalf of Welsh Labour, both at 1 Cathedral Road, Cardiff CF11 9HA",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of the candidate with the text Welsh Labour five pledges to the side."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

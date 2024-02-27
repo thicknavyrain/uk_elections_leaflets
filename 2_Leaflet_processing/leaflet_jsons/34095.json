@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Roy Freshwater",
+    "constituency": "Rochester & Strood",
+    "politicalParty": "UKIP",
+    "electionDate": "12th of December",
+    "messages": [
+      {
+        "title": "ELECTION COMMUNICATION",
+        "content": "Thank you for voting Brexit."
+      },
+      {
+        "title": "BREXIT CAN BE BETTER",
+        "content": "Say no to this deal. Vote for Roy Freshwater and UKIP's manifesto on the 12th of December to send a message that you want to leave the European Union with a genuine Clean-Break Brexit."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Opposes the EU treaty deal which does not allow Britain full control of its money, borders, or fishing waters. Advocates for a Clean-Break Brexit."
+      }
+    ],
+    "mentions": {
+      "candidate": "Roy Freshwater",
+      "otherPartyLeaderCandidate": "Kelly Tolhurst",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Opposing the current EU treaty deal and promoting a Clean-Break Brexit.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "83 College Avenue, Gillingham, ME7 5HX",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "BREXIT CAN BE BETTER",
+        "source": "Campaign Slogan",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Picture of Roy Freshwater"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet clearly communicates a stance against a specific EU treaty deal and promotes a Clean-Break Brexit proposed by the UKIP party."
+  }
+}
+```

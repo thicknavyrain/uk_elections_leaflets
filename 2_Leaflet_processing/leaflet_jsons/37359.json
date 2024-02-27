@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Richard Sullivan",
+    "constituency": "Glasgow Cathcart",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Rewards for Recycling",
+        "policyDescription": "Campaign for a scheme to give local households points for recycling, redeemable for discounts at local and national outlets, restaurants, and leisure facilities."
+      },
+      {
+        "policyTitle": "Protecting Services",
+        "policyDescription": "Fight to protect services by leading a relentless campaign against management costs and bureaucracy, focusing on local communities."
+      },
+      {
+        "policyTitle": "Treating Addiction",
+        "policyDescription": "Develop a new national drug strategy to assist addicts off methadone and living a drugs free life, focusing on treatment and reducing drug crime."
+      }
+    ],
+    "mentions": {
+      "candidate": "Richard Sullivan",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "30 Clincart Road, Mount Florida, Glasgow, G42 9DP",
+      "phone": "0141 569 1014",
+      "email": "Glasgowsouthtories@msn.com",
+      "website": "www.scottishconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Richard Sullivan next to recycling bins."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

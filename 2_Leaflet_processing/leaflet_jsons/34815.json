@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Diana Johnson",
+    "constituency": "Kingston upon Hull North",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "A strong, experienced voice for Kingston upon Hull North",
+        "content": "If I'm elected, I will continue fighting for a fair deal for Hull. I'm ambitious for our city's future. It's also time to end the divisions of recent years and move forward together."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Real choice in housing",
+        "policyDescription": "The Tories have slashed social housing to the lowest levels since the 1920s. The homelessness crisis has doubled. Labour will invest in new social and affordable housing to turn this around."
+      },
+      {
+        "policyTitle": "Ending Food Bank Britain",
+        "policyDescription": "Labour will support working families from cradle to retirement. We will bring back Sure Start for families and roll out free prescriptions throughout Yorkshire."
+      },
+      {
+        "policyTitle": "Hull's Green Industrial Revolution",
+        "policyDescription": "Labour has shown again the cutting edge of industry will be at the Humber Energy Estuary Green New Deal, bringing new jobs at our meeting of our 2030 zero-carbon target."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will support working families from cradle to retirement.",
+      "immigration": "",
+      "socialWelfare": "Labour will support working families from cradle to retirement.",
+      "housing": [
+        {
+          "content": "The Tories have slashed social housing to the lowest levels since the 1920s. Labour will invest in new social and affordable housing to turn this around.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "A strong, experienced voice for Kingston upon Hull North",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01482 319135",
+      "email": "diana@dianajohnson.co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "/dianajohnsonhull",
+        "twitter": "@dianajohnsonmp",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Gemmell, Newland Ward resident",
+        "endorsement": "Diana is an excellent representative of the Kingston upon Hull North and of Labour. She is why people have got a good deal."
+      },
+      {
+        "endorser": "Amber Moore, Bricknell Ward resident",
+        "endorsement": "Diana's a great champion for Hull and works hard. The electoral impossible job of representing an inner-city ward is done by Brexit and the national vote divide."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Diana Johnson with text 'I'm voting Labour'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

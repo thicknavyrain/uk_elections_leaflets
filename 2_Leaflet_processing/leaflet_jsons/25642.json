@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Theresa Villiers",
+	"constituency": "Chipping Barnet",
+	"politicalParty": "Conservative",
+	"electionDate": "7th May",
+	"messages": [
+  	{
+    	"title": "Securing a better future",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Securing Tube Upgrade",
+    	"policyDescription": "Theresa secures tube upgrade."
+  	},
+  	{
+    	"policyTitle": "Championing the NHS in Barnet",
+    	"policyDescription": "Championing funding and support issues, Theresa as your local MP."
+  	},
+  	{
+    	"policyTitle": "Strong Economy",
+    	"policyDescription": "Job total hits record high. Basic tax rate cut. Fares frozen on tfl."
+  	},
+  	{
+    	"policyTitle": "Supporting Different Communities",
+    	"policyDescription": "Supporting different communities in Barnet."
+  	},
+  	{
+    	"policyTitle": "New Homes for Local First Time Buyers",
+    	"policyDescription": "Special cash grants for new homes in Barnet."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Theresa Villiers",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Stronger economy, elected for decisive action to change Britain for the better.",
+  	"education": "Securing investment in local schools.",
+  	"environment": "Campaigning for the best school, transport and health services for Barnet, to enhance our local suburban environment.",
+  	"governance": "Theresa in Government",
+  	"health": "Championing the NHS in Barnet",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "New Homes for Local First Time Buyers",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "For a decade Theresa has worked hard as your MP, standing up for local people on the issues that matter to all of us who live here.",
+	"politicalExperience": [
+  	{
+    	"role": "Local MP",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.theresavilliers.co.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": "Note: Constituency boundaries are changing. Some areas currently within Chipping Barnet will move into new constituencies for the next election."
+  }
+}
+```

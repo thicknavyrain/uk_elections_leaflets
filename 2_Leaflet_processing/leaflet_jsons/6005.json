@@ -1,0 +1,111 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rachel Reeves",
+    "constituency": "Leeds West",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday May 6th",
+    "messages": [
+      {
+        "title": "A Strong Economy",
+        "content": "A sustainable economic recovery with high quality jobs for local people."
+      },
+      {
+        "title": "A First Class Education",
+        "content": "Investing in schools, training, apprenticeships and putting higher education in your grasp - preparing our future."
+      },
+      {
+        "title": "Security in Retirement",
+        "content": "Restoring the earnings link for pensions, protecting the winter fuel allowance, bus passes & other help for the seniors."
+      },
+      {
+        "title": "Better Transport",
+        "content": "More frequent and affordable public transport in Leeds West."
+      },
+      {
+        "title": "Affordable Family Housing",
+        "content": "Ensuring that local families have the chance of buying or renting a decent home in their area."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Strong Economy",
+        "policyDescription": "Promoting a sustainable economic recovery and creating high quality jobs for local people."
+      },
+      {
+        "policyTitle": "First Class Education",
+        "policyDescription": "Investing in schools, training programs and higher education to prepare the youth for the future."
+      },
+      {
+        "policyTitle": "Security in Retirement",
+        "policyDescription": "Committing to restore the earnings link for pensions and protect various seniors benefits such as the winter fuel allowance and bus passes."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Aiming to provide more frequent and affordable public transport options in Leeds West."
+      },
+      {
+        "policyTitle": "Affordable Family Housing",
+        "policyDescription": "Working to ensure that local families can afford to buy or rent decent homes in the area."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rachel Reeves",
+      "otherPartyLeaderCandidate": "Bernard Atha",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A sustainable economic recovery with high quality jobs for local people.",
+      "education": "Investing in schools, training, apprenticeships and putting higher education in your grasp - preparing our future.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Restoring the earnings link for pensions, protecting the winter fuel allowance, bus passes & other help for the seniors.",
+      "housing": [
+        {
+          "content": "Ensuring that local families have the chance of buying or renting a decent home in their area.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "1 Monkswaod, Vesper Road, Leeds LS5 3QZ",
+      "phone": "07788 441345",
+      "email": "rachel@leedswestlabour.co.uk",
+      "website": "www.rachelreeves.net",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "John Battle",
+        "endorsement": "From working with Rachel, I know that she cares truly about our area and the people that live here."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Rachel Reeves leaflet images"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

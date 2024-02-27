@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Marion Turner-Hawes",
+    "constituency": "Wellingborough",
+    "politicalParty": "Green Party",
+    "electionDate": "7 May 2015",
+    "messages": [
+      {
+        "title": "Caring for our Community",
+        "content": "Marion wants to see the many skills and resources we have and put them to good use."
+      },
+      {
+        "title": "",
+        "content": "Things need to change, and they can. On 7 May vote with your heart and let's change our communities and this country together."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A Public NHS",
+        "policyDescription": "Fight for a publicly funded NHS free at the point of use and end the creeping privatisation of its services. Make mental health a much higher priority with resources to match this status."
+      },
+      {
+        "policyTitle": "A Fair Economy",
+        "policyDescription": "End austerity and restore the public sector to create over one million good jobs. This will be paid for with a wealth tax on the top 1%, a Robin Hood tax on the banks and the closure of tax loopholes. A minimum wage of £10 an hour by 2020."
+      },
+      {
+        "policyTitle": "Decent Homes",
+        "policyDescription": "Abolish the unfair Bedroom Tax. Build 500,000 new social rented homes and bring empty homes back into use. Introduce rent caps and longer tenancies for renters."
+      },
+      {
+        "policyTitle": "A Safe Climate",
+        "policyDescription": "Take serious action to ensure global temperatures do not rise further. Phase out fossil fuel based energy generation and nuclear power. Invest in renewable energy, flood defences and building insulation."
+      }
+    ],
+    "mentions": {
+      "candidate": "Marion Turner-Hawes",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "End austerity and restore the public sector to create over one million good jobs.",
+      "education": "",
+      "environment": "Take serious action to ensure global temperatures do not rise further.",
+      "governance": "",
+      "health": "Fight for a publicly funded NHS free at the point of use and end the creeping privatisation of its services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Abolish the unfair Bedroom Tax. Build 500,000 new social rented homes and bring empty homes back into use. Introduce rent caps and longer tenancies for renters.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I was brought up and educated in Kettering and I have lived in Wellingborough with my wife for six years. I am a Director of a cooperative that helps disabled people find housing and start up in business. I have worked in the public or community sector for nearly 30 years, supporting vulnerable people to have better lives.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Promoted by Dave Lane, on behalf of Marion Turner-Hawes, both at 61 Ryehill, Freeman's Farm, Bakersley Road West, Wellingborough NN9 7RP.",
+      "phone": "(01933) 381467",
+      "email": "marion_turner@hotmail.co.uk",
+      "website": "www.marionturnerhawes.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@marion_turner",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Marion Turner-Hawes sitting on a bench in a green outdoor space."
+        },
+        {
+          "caption": "Marion Turner-Hawes with a group of people, possibly volunteers or members of the community, standing outdoors."
+        }
+      ]
+    },
+    "additionalNotes": "Save our services, better GP access, free education, more street lighting, railways in public hands, better deal for elders, disabled and young."
+  }
+}
+```

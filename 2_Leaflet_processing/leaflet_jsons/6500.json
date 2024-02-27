@@ -1,0 +1,120 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "FAIRNESS",
+        "content": "What's the point of voting Labour if they won't stand up for FAIRNESS?"
+      },
+      {
+        "title": "FAIRER SOCIETY",
+        "content": "Only the Liberal Democrats are standing up for a FAIRER SOCIETY."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Give all children an equal start at school with policies like 'Every child from a poor home would get a £2,500 boost to their education.'"
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Lib Dem plans call for savings by cutting waste, like phone systems that few NHS Trusts use, to protect crucial public services."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Liberal Democrat reforms to target the rich and scrap tax for low earners, ensuring tax cuts for the poorest paid for by the super-rich."
+      },
+      {
+        "policyTitle": "Defense",
+        "policyDescription": "The Liberal Democrats would not waste £25 billion replacing Trident nukes."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Only the Lib Dems can beat Labour here. Tactical situation highlighted with the statement 'It's so close here'."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Liberal Democrat economic plan would take the poorest out of tax altogether.",
+      "education": "Lib Dem policy to provide a £2,500 education boost for children from poor homes.",
+      "environment": "",
+      "governance": "",
+      "health": "Lib Dem plans to cut NHS waste to protect services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Daily Mirror",
+        "endorsement": "Liberal Democrat reforms to target the rich and scrap tax for low earners."
+      },
+      {
+        "endorser": "The Independent",
+        "endorsement": "Every child from a poor home would get a £2,500 boost to their education."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour tax the poorest not the super-rich.",
+        "source": "The Guardian, 25th March 2010",
+        "date": "2010-03-25"
+      },
+      {
+        "text": "The gap between rich and poor is wider under Labour.",
+        "source": "Socialist Worker",
+        "date": ""
+      },
+      {
+        "text": "Labour's £95m health cuts.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "Alistair Darling: we will cut deeper than Margaret Thatcher.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liberal Democrat leaflet detailing policies and criticisms of Labour."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet stresses the closeness of the Liberal Democrats to beating Labour in a specific, unnamed constituency and emphasizes various policy positions and criticisms of Labour policies and their effects on fairness and economy."
+  }
+}
+```

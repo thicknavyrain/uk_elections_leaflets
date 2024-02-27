@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nigel Farage",
+    "constituency": "Buckingham",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "Straight talking for the Buckingham constituency",
+        "content": "Time is running out to topple the speaker, a symbol of the political class and cause an earthquake in British politics."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Nigel Farage is 46 years old and has been a well known local MEP for over 10 years. He led UKIP to coming second in the European elections in the UK in 2009.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Time is running out to topple the speaker, a symbol of the political class."
+    },
+    "issues": {
+      "brexitEurope": "Nigel Farage is a well known MEP",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Nigel Farage is 46 years old and has been a local MEP for over 10 years... worried about the way our country is going.",
+    "politicalExperience": [
+      {
+        "role": "MEP",
+        "duration": "over 10 years",
+        "achievements": "Led UKIP to coming second in the European elections in the UK in 2009."
+      }
+    ],
+    "contactInformation": {
+      "address": "FREEPOST RSHB-EUKH-Z, 7 Cornwall Place, Buckingham, MK18 1SB",
+      "phone": "0800 840 7 444",
+      "email": "",
+      "website": "VoteNigelFarage.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nigel Farage engaging with people in various settings."
+        }
+      ]
+    },
+    "additionalNotes": "Please detach this coupon and enclose in an envelope on which you write the FREEPOST address. NO STAMP IS REQUIRED."
+  }
+}
+```

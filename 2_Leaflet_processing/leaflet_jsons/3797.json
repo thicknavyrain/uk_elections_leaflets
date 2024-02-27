@@ -1,0 +1,77 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "When it comes to the General Election take a long, hard look at the Tories.",
+        "content": "My town seems a lot safer than it used to be. Now there are more police on the streets, you can see them walking around, on the beat."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Policing",
+        "policyDescription": "Labour will protect frontline police spending and pledge that your neighbourhood policing team spends at least 80 per cent of its time on the beat in your community."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "The Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "I don’t think it’s a coincidence that more police has meant less crime.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": ""
+    },
+    "endorsements": [
+      {
+        "endorser": "Stuart Heptinstall, 62, retired safety officer",
+        "endorsement": "My town seems a lot safer than it used to be. Now there are more police on the streets, you can see them walking around, on the beat."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I don’t think it’s a coincidence that more police has meant less crime.",
+        "source": "Stuart Heptinstall, 62, retired safety officer",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stuart Heptinstall, 62, retired safety officer"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "Witney and the people of West Oxfordshire",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A PERSONAL MESSAGE FROM DAVID CAMERON",
+        "content": "Working for West Oxfordshire"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Will get Britain working again by cutting the deficit, cutting tax on new businesses and creating hundreds of thousands of new apprenticeships."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Will spend more on the NHS - our number one priority - and improve it for everyone by giving patients real choice and control over their treatment, as well as ripping up the bureaucracy that distracts doctors and nurses from getting on with the job."
+      },
+      {
+        "policyTitle": "Family",
+        "policyDescription": "Will make Britain more family-friendly by recognising marriage in the tax system, extending the right to flexible working and employing thousands more health visitors to help families cope."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Will drive up school standards for all our children by giving teachers the power to restore discipline and helping schools with a passion for education to create new schools."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Will fix our broken political system by cutting the subsidies, perks and gold-plated pensions in Westminster - and by pushing power out from the political elite to local people."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Will get Britain working again by cutting the deficit, cutting tax on new businesses and creating hundreds of thousands of new apprenticeships.",
+      "education": "Will drive up school standards for all our children by giving teachers the power to restore discipline and helping schools with a passion for education to create new schools.",
+      "environment": "Since the floods of 2007, my priority is to reduce future flood risk and help those affected.",
+      "governance": "Will fix our broken political system by cutting the subsidies, perks and gold-plated pensions in Westminster.",
+      "health": "Will spend more on the NHS - our number one priority - and improve it for everyone by giving patients real choice and control over their treatment.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "It is a privilege and an honour to represent Witney and the people of West Oxfordshire.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for the Witney constituency",
+        "duration": "",
+        "achievements": "Helping victims of Flooding, standing up for our local schools, supporting the rural economy or taking up the cases of individuals or companies, leader of the Opposition has given me a wider operational brief."
+      }
+    ],
+    "contactInformation": {
+      "address": "Witney Conservatives, 58 High Street, Witney, Oxon, OX28 6HJ",
+      "phone": "01993 702302",
+      "email": "office@witneyconservatives.com",
+      "website": "www.witneyconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I have fought for our local health services. I have wholeheartedly supported our remarkable servicemen and women.",
+        "source": "David Cameron",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron with various individuals and groups."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

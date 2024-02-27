@@ -1,0 +1,68 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Golborne",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax Cut",
+        "policyDescription": "The Liberal Democrats would raise the threshold at which people on low incomes will no longer have to pay any income tax at all."
+      },
+      {
+        "policyTitle": "Pension Link",
+        "policyDescription": "Liberal Democrats will restore the link between annual increases in the state pension and earnings that will mean pensioners share in the proceeds of growth in our economy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Vince Cable MP",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Stop the proportion of affordable housing in our Borough from falling.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "FREEPOST RSAZ-SHUG-KAEA, PO Box 55933, London, W11 2XX",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lib Dem tax cut backed by top experts"
+        },
+        {
+          "caption": "Your local Golborne Council candidates"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

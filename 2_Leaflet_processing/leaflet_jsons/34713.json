@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alexa Collins",
+    "constituency": "Beaconsfield",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "VOTE LABOUR FOR REAL CHANGE IN BEACONSFIELD",
+        "content": "I spent my childhood here in this constituency. Then I came back to raise my child here. After years of Tory austerity and neglect; we need a real change in Beaconsfield. I can make that change happen."
+      },
+      {
+        "title": "ELECTION COMMUNICATION",
+        "content": "If you want a motivated local candidate fighting day in day out for you, Vote Labour, Vote Alexa."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taking Action on the Climate Emergency",
+        "policyDescription": "Achieve the substantial majority of our emissions reductions by 2030."
+      },
+      {
+        "policyTitle": "Ending Austerity",
+        "policyDescription": "Stop the Universal Credit crisis. An emergency programme of investment."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Free school meals for all primary school children. Smaller class sizes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alexa Collins"
+    },
+    "issues": {
+      "education": "Free school meals for all primary school children. Smaller class sizes.",
+      "environment": "Achieve the substantial majority of our emissions reductions by 2030."
+    },
+    "personalStatement": "I spent my childhood here in this constituency. Then I came back to raise my child here.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Promoted by Brian Gammage on behalf of Alexa Collins, both at 1 Parliament Close, Prestwood, Great Missenden, HP16 9DT",
+      "email": "Alexa4Labour@gmail.com",
+      "socialMedia": {
+        "facebook": "@Alexa4Labour",
+        "twitter": "@AlexaCollinsDes"
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "We need a real change in Beaconsfield.",
+        "source": "Alexa Collins",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Alexa Collins portrait"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

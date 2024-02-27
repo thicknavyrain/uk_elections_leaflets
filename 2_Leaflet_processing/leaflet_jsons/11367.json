@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "ADAM BROWN",
+    "constituency": "MERTHYR TYDFIL & RHYNMEY",
+    "politicalParty": "UKIP",
+    "electionDate": "May 6",
+    "messages": [
+      {
+        "title": "STRAIGHT TALKING",
+        "content": "Adam Brown has: Made a national stand against the discrimination of possible adoptive and fostering parents who smoke. Been ardent in his continuous support to help save Merthyr Tydfil Football Club. Exposed accounting practices within Merthyr Valley Homes and Merthyr Housing Department which has caused financial hardship to many through increased bills on standard fitments to homes. Stood up for those suffering from Autism and he supports many of the voluntary organisations committed to the National Health Service. Served his community faithfully as a Councillor. 'It is time to end the stranglehold the old parties have on British Politics. It's time to vote for a real change.' - Adam Brown"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Accuses the current administration of using politics to blight children’s future and offers support for the '6th forms' against potential cuts stated by the Liberals."
+      },
+      {
+        "policyTitle": "Support for Local Services",
+        "policyDescription": "Played a key role in saving the Merthyr Tydfil Football Club and supports various community groups and voluntary organisations, especially related to Autism and health services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Adam Brown",
+      "otherPartyLeaderCandidate": "Liberal Democrats and Labour",
+      "partyLeader": "",
+      "tacticalSituation": "Accuses Liberals of being close to Labour, mentions the slim majority of votes and accuses Lib Dems of voter suppression."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Education has been deprived from a fair vote on the grounds they played politics to blight our children’s future.",
+      "environment": "",
+      "governance": "Exposed accounting practices within Merthyr Valley Homes and Merthyr Housing Department which has caused financial hardship to many through increased bills on standard fitments to homes.",
+      "health": "Stood up for those suffering from Autism and he supports many of the voluntary organisations committed to the National Health Service.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Exposed accounting practices within Merthyr Valley Homes and Merthyr Housing Department which has caused financial hardship to many through increased bills on standard fitments to homes.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Adam Brown has served his community faithfully as a Councillor.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "",
+        "achievements": "Made a national stand against the discrimination of possible adoptive and fostering parents who smoke. Helped save Merthyr Tydfil Football Club. Exposed accounting practices within Merthyr Valley Homes and Merthyr Housing Department. Stood up for those suffering from Autism and supports many of the voluntary organisations committed to the National Health Service."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.ukipwales.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet images showing information about UKIP and candidate Adam Brown with various political messages and accusations against other parties."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet contains attacks on other parties, specifically targeting the Labour Party and the Liberal Democrats."
+  }
+}
+```

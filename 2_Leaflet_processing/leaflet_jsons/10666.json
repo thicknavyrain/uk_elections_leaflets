@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "Enfield North",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "WHY WE NEED CHANGE IN BRITAIN TODAY",
+        "content": "Thirteen years ago Labour were elected promising change. But today, too many people feel let down. The Conservative Party has the energy for a fairer, stronger country."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Increase spending and reforms to deliver better patient care."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Get the economy moving and help the private sector create 400,000 new apprenticeships, training places and work pairings."
+      },
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Stop Labour’s job tax which will kill the recovery. Freeze council tax for two years. Raise the basic state pension in line with earnings and reinstate the link with earnings. Will not let council tax burden families. Will not raise VAT."
+      },
+      {
+        "policyTitle": "Family",
+        "policyDescription": "Introduce the most family-friendly country in Europe, keeping tax credits, increasing tax credits for older people, and providing 4,200 extra Sure Start health visitors."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Get the economy moving",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Increase spending on NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I hope you take this chance to vote for change.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron in various interactions with the public."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

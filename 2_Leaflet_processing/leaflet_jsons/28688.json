@@ -1,0 +1,99 @@
+{
+  "leaflet": {
+	"candidateName": "Kevin Brennan",
+	"constituency": "Cardiff West",
+	"politicalParty": "Welsh Labour",
+	"electionDate": "Thursday 8 June",
+	"messages": [
+  	{
+    	"title": "Re-elect",
+    	"content": "Kevin Brennan, Welsh Labour candidate for Cardiff West"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Protecting and strengthening public services",
+    	"policyDescription": "Supports investing in police and firefighters."
+  	},
+    {
+    	"policyTitle": "Defending our NHS",
+    	"policyDescription": "Opposes privatisation and cuts, supports more doctors and nurses."
+    },
+    {
+    	"policyTitle": "Giving all children a chance to achieve",
+    	"policyDescription": "Commitment to smaller class sizes and new schools."
+    },
+    {
+    	"policyTitle": "Making our neighbourhoods safer",
+    	"policyDescription": "Plans to add more police officers and make streets safer."
+    },
+    {
+    	"policyTitle": "Provide and protect affordable homes for rent and sale",
+    	"policyDescription": "Intends to build more council homes and ensure the right to buy."
+    }
+	],
+	"mentions": {
+  	"candidate": "Kevin Brennan",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "Commitment to smaller class sizes and new schools.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Opposes privatisation and cuts, supports more doctors and nurses.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Intends to build more council homes and ensure the right to buy.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Kevin Brennan pictured in front of what appears to be a historical building or monument."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

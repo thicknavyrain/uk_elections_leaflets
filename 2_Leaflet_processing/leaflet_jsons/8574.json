@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nigel Bakhai",
+    "constituency": "Ealing Southall",
+    "politicalParty": "Lib Dems",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Change that works for you",
+        "content": "Nigel Bakhai and the Lib Dems are the main challengers to Labour in Ealing Southall."
+      },
+      {
+        "title": "The Lib Dem difference",
+        "content": "The Liberal Democrats will take action to protect frontline NHS services. We will put more police on patrol, restore the pensions' earnings link and deliver fair pay for the armed forces."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Take action to protect frontline NHS services."
+      },
+      {
+        "policyTitle": "Police",
+        "policyDescription": "Put more police on patrol."
+      },
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "Restore the pensions' earnings link."
+      },
+      {
+        "policyTitle": "Armed Forces Pay",
+        "policyDescription": "Deliver fair pay for the armed forces."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "The Lib Dems are the only party with a plan to balance the country's books after the recession."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nigel Bakhai lives in Hanwell, and has lived in the area since 1994. Nigel is the Vice-Chair of the Greenfields Children Centre in Southall and a former chair of the Hanwell Steering Group (now known as the Hanwell Community Forum).",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": "Nigel Bakhai and the Lib Dems are the main challengers to Labour in Ealing Southall. At the last General Election, Nigel more than doubled the Lib Dem vote and took the party into second place. At the 2007 Ealing Southall by-election, Nigel and the Lib Dems nearly pushed the Tories into third place and cut the Labour majority."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Lib Dems are the only party with a plan to balance the country's books after the recession.",
+      "education": "",
+      "environment": "",
+      "governance": "Dithered over taking action on MPs' expenses",
+      "health": "Take action to protect frontline NHS services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Vice-Chair of the Greenfields Children Centre",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "Former chair of the Hanwell Steering Group",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Independent",
+        "endorsement": "Spending squeeze for NHS despite Darling’s promise"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Spending squeeze for NHS despite Darling’s promise.",
+        "source": "The Independent",
+        "date": "11 Dec 2009"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nigel Bakhai speaking with constituents."
+        },
+        {
+          "caption": "Gordon Brown's record of shame including issues with the Iraq War, taxes on lower paid, local post offices, and MPs' expenses."
+        }
+      ]
+    },
+    "additionalNotes": "Gordon Brown: Wrote the cheques for the Iraq War, Raised taxes on lower paid, Closed thousands of local post offices, Dithered over taking action on MPs' expenses."
+  }
+}
+```

@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew Cooper",
+    "constituency": "Huddersfield",
+    "politicalParty": "Green Party",
+    "electionDate": "May 17",
+    "messages": [
+      {
+        "title": "VOTE FOR WHAT YOU BELIEVE IN",
+        "content": "Imagine a political system that puts the public first. Imagine an economy that gives everyone their fair share. Imagine a society capable of supporting everyone's needs. Imagine a politician who wants to make these things happen. The Green Party has a different approach to politics and we're tireless campaigners for the changes so desperately needed. Vote Green and you can help us build a society that works for the Common Good."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "#PublicNHS",
+        "policyDescription": "We fight for a publicly funded NHS as progressive taxation pays for the cost of this. End the privatisation of services run for private profit."
+      },
+      {
+        "policyTitle": "#FairEconomy",
+        "policyDescription": "We will reform business and work for all, not just those at the top. Pay ratio so that for every £1 the lowest paid person earns, the highest paid person can earn a maximum of £10."
+      },
+      {
+        "policyTitle": "#DecentHomes",
+        "policyDescription": "We will fix the housing crisis with a major council house building programme, retrofit 9 million homes to the top of the warmth band and focus on the issue of empty homes."
+      },
+      {
+        "policyTitle": "#SafeClimate",
+        "policyDescription": "We will tackle climate crisis with serious action. By 2030 we need to be reducing carbon emissions by 90% and planting 700,000+ trees a year to help reach zero carbon by 2050. Increased flood defences to give greater protection for vulnerable areas."
+      },
+      {
+        "policyTitle": "#FreeEducation",
+        "policyDescription": "We will scrap tuition fees and bring back student maintenance grants."
+      },
+      {
+        "policyTitle": "#BetterTransport",
+        "policyDescription": "We will return the railways to public hands to stop profits being siphoned off to investors. We'll also introduce £10 bus tickets a month available to all, including pensioners and students who travel on buses outside of term time."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andrew Cooper, your Green Party Candidate",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Caroline Lucas",
+      "tacticalSituation": "The Green party beat the Tories here in Huddersfield into third place last time - Help Andrew Cooper beat Labour this time to make him your MP."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "#FairEconomy - We will reform business and work for all, not just those at the top. Pay ratio so that for every £1 the lowest paid person earns, the highest paid person can earn a maximum of £10.",
+      "education": "#FreeEducation - We will scrap tuition fees and bring back student maintenance grants.",
+      "environment": "#SafeClimate - We will tackle climate crisis with serious action. By 2030 we need to be reducing carbon emissions by 90% and planting 700,000+ trees a year to help reach zero carbon by 2050. Increased flood defences to give greater protection for vulnerable areas.",
+      "governance": "",
+      "health": "#PublicNHS - We fight for a publicly funded NHS as progressive taxation pays for the cost of this. End the privatisation of services run for private profit.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "#DecentHomes - We will fix the housing crisis with a major council house building programme, retrofit 9 million homes to the top of the warmth band and focus on the issue of empty homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I'm your local Green Party candidate. If elected your MP I will fight tirelessly on your behalf. You can trust me to do what I believe is right.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "",
+        "achievements": "Created the UK's first Green Party Council House at 25% of the usual costs. Lead on Climate Change requiring all new Kirklees Homes to reach high sustainability standards."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote for Andrew Cooper"
+        }
+      ]
+    },
+    "additionalNotes": "ABOUT THIS PUBLICATION: This paper is part of a batch of 120,000 most of which are delivered by volunteers to keep costs down."
+  }
+}
+```

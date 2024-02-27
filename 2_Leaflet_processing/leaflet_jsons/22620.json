@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Ed Miliband",
+	"constituency": "",
+	"politicalParty": "The Labour Party",
+	"electionDate": "7 May",
+	"messages": [
+  	{
+    	"title": "The facts you need to know",
+    	"content": "With just a few weeks to go until the General Election, I wanted to write to you to give you the clear facts about what you can expect from a Labour government."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "A country where the next generation can do better than the last",
+    	"policyDescription": "Lowering university tuition fees, increasing student grants and guaranteeing an apprenticeship for every school leaver who gets the basic grades."
+  	},
+	{
+    "policyTitle": "An NHS with the time to care",
+    "policyDescription": "With 20,000 more nurses and 8,000 more GPs, and a guarantee of a GP appointment within 48 hours and cancer tests within a week."
+  	},
+	{
+	  "policyTitle": "A strong economic foundation",
+	  "policyDescription": "Balancing the books and cutting the deficit every year while securing the future of the NHS. None of our manifesto commitments require additional borrowing."
+	}
+	],
+	"mentions": {
+  	"candidate": "Ed Miliband",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "Ed Miliband",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "We'll guarantee a GP appointment within 48 hours and cancer tests within a week.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Labour’s plan is based on one simple idea: that Britain only succeeds when working people succeed.",
+	"politicalExperience": [
+  	{
+    	"role": "Leader of the Labour Party",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "One Brewer's Green, London, SW1H 0RH",
+  	"phone": "",
+  	"email": "",
+  	"website": "labour.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Labour’s plan is based on one simple idea: that Britain only succeeds when working people succeed.",
+    	"source": "Ed Miliband",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "I'm voting Labour"
+    	}
+  	]
+	},
+	"additionalNotes": "P.S. Display the poster over the page in your window to show your support for Labour."
+  }
+}
+```

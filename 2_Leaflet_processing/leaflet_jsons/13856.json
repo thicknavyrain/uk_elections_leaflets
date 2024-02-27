@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "FIVE POLICIES THE LIB DEMS NEVER MENTION IN THEIR LEAFLETS:",
+        "content": ""
+      },
+      {
+        "title": "More about your Lib Dem Candidate...",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "They would scrap Council Tax and replace it with a local income tax."
+      },
+      {
+        "policyTitle": "European Union",
+        "policyDescription": "They want to join the single currency and they support further political integration with the European Union."
+      },
+      {
+        "policyTitle": "Amnesty for illegal immigrants",
+        "policyDescription": "They would introduce an amnesty for the estimated 600,000 illegal immigrants currently living in Britain."
+      },
+      {
+        "policyTitle": "Congestion Charging",
+        "policyDescription": "They support congestion charging and they would introduce national road pricing, namely, pay per mile for motorists!"
+      },
+      {
+        "policyTitle": "Trident Missile System",
+        "policyDescription": "They would scrap Trident - this is a nuclear deterrent - leaving us vulnerable and weak on the International stage."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "They want to join the single currency and they support further political integration with the European Union.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "They would introduce an amnesty for the estimated 600,000 illegal immigrants currently living in Britain.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "FIVE POLICIES THE LIB DEMS NEVER MENTION IN THEIR LEAFLETS"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

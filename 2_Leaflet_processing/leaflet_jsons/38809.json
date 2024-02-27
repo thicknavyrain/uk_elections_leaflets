@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Darren Henry",
+    "constituency": "Broxtowe",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12th December",
+    "messages": [
+      {
+        "title": "Your local vote will decide the next Prime Minister",
+        "content": "This election will be close. YOUR LOCAL VOTE will decide it."
+      },
+      {
+        "title": "Backing Broxtowe. Backing Boris. Backing Brexit.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "£33.9 billion extra for the NHS. 40 new hospitals across the country."
+      },
+      {
+        "policyTitle": "Schools",
+        "policyDescription": "More funding for every school pupil."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "£3.6 billion to help towns invest and attract new businesses."
+      },
+      {
+        "policyTitle": "Police",
+        "policyDescription": "20,000 extra police officers for safer streets."
+      },
+      {
+        "policyTitle": "Broadband",
+        "policyDescription": "Gigabit broadband for every home."
+      }
+    ],
+    "mentions": {
+      "candidate": "Darren Henry",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon, John Curtice",
+      "partyLeader": "Boris",
+      "tacticalSituation": "Your local vote will decide the next Prime Minister. This election will be close."
+    },
+    "issues": {
+      "brexitEurope": "Brexit done with a deal. £39.3 billion extra for the public good. Get Brexit done with our new deal.",
+      "economy": "£3.6 billion to help towns invest and attract new businesses.",
+      "education": "More funding for every school pupil.",
+      "environment": "",
+      "governance": "",
+      "health": "£33.9 billion extra for the NHS. 40 new hospitals across the country.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images of Boris Johnson, NHS, police officers, and Darren Henry with constituents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

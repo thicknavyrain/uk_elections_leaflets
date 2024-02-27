@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Esther McVey",
+    "constituency": "Wirral West",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Change in Wirral West",
+        "content": "The re-election of Gordon Brown's government - with more debt, waste and tax - will bring us a new recession."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Delivering Jobs on Wirral",
+        "policyDescription": "Plans to create 450,000 new apprenticeships, college and training places, while particularly addressing local needs like the Lairdside Training Centre and opportunities by Wirral Council and its partners."
+      },
+      {
+        "policyTitle": "Labour’s Tax on Jobs Will Kill the Recovery",
+        "policyDescription": "Opposition to tax increases that would purportedly waste money and result in lost jobs."
+      },
+      {
+        "policyTitle": "Backing the NHS",
+        "policyDescription": "The NHS is stated as the number one priority, with plans to cut waste and improve services. It mentions Conservative will increase spending on the NHS every year."
+      }
+    ],
+    "mentions": {
+      "candidate": "Esther McVey",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "After a 6-month battle to Save Girtrell Fire Station from the cuts proposed by a local council and the much welcome news that Hoylake’s lifeguard station will stay open for another year."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Mention of the dangers of a new recession under Gordon Brown's government with more debt, waste and tax.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Improving the NHS is emphasized as a key issue, with promises to increase spending on the NHS each year and ensure it is free from waste and bureaucracy.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Improvements to mortgage payments lower under the Conservatives than under Labour, and help for first-time buyers to get onto the property ladder.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Shadow Home Secretary",
+        "duration": "",
+        "achievements": "Chris Grayling opposes Hoylake at the heart of antisocial behavior and late night licensing."
+      }
+    ],
+    "contactInformation": {
+      "address": "36A Market Street, Hoylake, Wirral, Merseyside, CH47 2AF",
+      "phone": "0151 632 1052",
+      "email": "esther@wirralconservatives.co.uk",
+      "website": "www.esthermcvey.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Esther working with David Cameron."
+        },
+        {
+          "caption": "Esther teamed up with residents to rebuild Meols Park."
+        },
+        {
+          "caption": "Esther has been working with local builders and traders."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

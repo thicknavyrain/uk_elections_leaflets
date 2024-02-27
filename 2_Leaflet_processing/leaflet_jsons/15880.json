@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Getting the economy back on its feet",
+        "content": "My Government’s number one priority has been to get Britain’s economy back on its feet."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Reduce taxes, back businesses to grow and create more jobs, and keep mortgage rates low to ensure financial security for families. Make difficult decisions to reduce public debt and spending."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron MP",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron MP",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Get Britain’s economy back on its feet, support businesses, create more jobs, keep taxes low, ensure financial security, keep mortgage rates low, protect public services such as the NHS.",
+      "education": "",
+      "environment": "",
+      "governance": "Reduce public spending and make difficult decisions to improve the economy.",
+      "health": "Ensure that the NHS provides the best care for you and your loved ones.",
+      "immigration": "",
+      "socialWelfare": "Limit public sector pay, cap benefits, get the welfare budget under control, make work always pays more than welfare.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Prime Minister of the United Kingdom",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet page discussing the economy under the Conservative Party's government."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

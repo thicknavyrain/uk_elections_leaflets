@@ -1,0 +1,115 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sal Brinton",
+    "constituency": "Watford",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Action on the NHS...",
+        "content": "Local campaigner Sal Brinton was Deputy Chair of the England Development Agency. She has fought for Watford General Hospital and their local health services."
+      },
+      {
+        "title": "Action on schools...",
+        "content": "Sal Brinton is campaigning for smaller class sizes in local schools."
+      },
+      {
+        "title": "Action on the economy...",
+        "content": "Sal Brinton is working with the Liberal Democrats to help local businesses thrive in the area."
+      },
+      {
+        "title": "It's a two horse race here!",
+        "content": "Local Campaigner Sal Brinton and the Liberal Democrats are positioned as the alternative to Labour in Watford - The Conservatives can't win in Watford."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Sal Brinton has fought for Watford General Hospital and local health services."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Campaigning for smaller class sizes in local schools."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Working with the Lib Dems to support and help local businesses thrive."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sal Brinton",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "It's a two horse race here with the Liberal Democrats positioned as the alternative to Labour - The Conservatives can't win in Watford."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Support and help local businesses to thrive.",
+      "education": "Campaigning for smaller class sizes in local schools.",
+      "environment": "",
+      "governance": "",
+      "health": "Fought for Watford General Hospital and local health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Sal Brinton has a strong record of achievement and success throughout her business life as a local campaigner.",
+    "politicalExperience": [
+      {
+        "role": "Deputy Chair of the England Development Agency",
+        "duration": "",
+        "achievements": "Fought for Watford General Hospital and local health services."
+      },
+      {
+        "role": "Business Woman of the Year",
+        "duration": "1997",
+        "achievements": ""
+      },
+      {
+        "role": "Master of Selwyn College, Cambridge",
+        "duration": "",
+        "achievements": "Deputy Chair of the East of England Development Agency."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Nick Clegg MP and Vince Cable MP",
+        "endorsement": "Lib Dem Leader Nick Clegg MP and Vince Cable MP supporting Sal Brinton's campaign."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Sal Brinton will deliver for Watford",
+        "source": "Campaign slogan",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sal Brinton with supporters and endorsements."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet underscores Sal Brinton as a viable alternative to Labour in the constituency, emphasizing that it's a two-horse race with the Conservatives being unable to win in Watford."
+  }
+}
+```

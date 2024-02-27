@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dehenna Davison",
+    "constituency": "Kingston-Upon-Hull North",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Incomes",
+        "policyDescription": "Work should always be rewarded, with taxes and inflation low so you can spend more of your money how you see fit."
+      },
+      {
+        "policyTitle": "Homes",
+        "policyDescription": "All housing should provide a good quality home, whether you rent or buy, and should always be affordable."
+      },
+      {
+        "policyTitle": "Community",
+        "policyDescription": "Where your home is in a well-maintained city, in a neighbourhood you're proud of, and where the community feels safe."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dehenna Davison",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "All housing should provide a good quality home, whether you rent or buy, and should always be affordable.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "DehennaForHull",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dehenna Davison - My priorities for Kingston-Upon-Hull North"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

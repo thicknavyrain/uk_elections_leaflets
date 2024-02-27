@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Wilford",
+    "constituency": "Poplar and Limehouse",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Strong Leadership",
+        "content": "A clear economic plan. A better, more secure future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Get a grip on development",
+        "policyDescription": "Committed to ensuring all new property development in Poplar and Limehouse is accompanied by adequate investment to local infrastructure and is of benefit to local communities."
+      },
+      {
+        "policyTitle": "Protect open spaces",
+        "policyDescription": "Working with residents to protect our parks and green spaces so they are preserved for both current and future generations."
+      },
+      {
+        "policyTitle": "Better housing",
+        "policyDescription": "We will be an advocate for responsible development but also the supporting families for support against unscrupulous landlords using rocketing ground rents to help people own homes at the homes they deserve, wherever they get the protected out and can stay here when they start a family."
+      },
+      {
+        "policyTitle": "Jobs and local economic growth",
+        "policyDescription": "With 2,000 more places secured in apprenticeships since 2010, the plan to stimulate growth needs to be continued to give local communities and workers a fair chance to get on in life."
+      },
+      {
+        "policyTitle": "Tackle the forces that divide our community",
+        "policyDescription": "No specifics provided."
+      },
+      {
+        "policyTitle": "Strong schools and lifelong skills",
+        "policyDescription": "Chris Wilford is fighting for strong schools in Poplar and Limehouse."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Wilford",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "housing": [
+        {
+          "content": "Better housing We will be an advocate for responsible development but also the supporting families for support against unscrupulous landlords using rocketing ground rents to help people own homes at the homes they deserve, wherever they get the protected out and can stay here when they start a family.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "chriswilford@outlook.com",
+      "website": "chriswilford.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Chris Wilford with residents and activists"
+        },
+        {
+          "caption": "Chris Wilford speaking with a local resident"
+        },
+        {
+          "caption": "Chris Wilford and team canvassing"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

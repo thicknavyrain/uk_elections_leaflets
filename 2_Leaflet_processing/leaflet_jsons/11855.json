@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Michael Jones",
+    "constituency": "Bognor Regis and Littlehampton",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Vote Labour to get Littlehampton Hospital rebuilt",
+        "content": "Labour will keep the NHS safe from Conservative cuts."
+      },
+      {
+        "title": "My pledges to you",
+        "content": "Jobs for young people, free social care at home, cancer diagnosis within one week, tough action to meet housing shortages, and deficit halved in four years."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Jobs for young people",
+        "policyDescription": "A job or training for every 18 to 24-year-old who has been out of work for six months and for everyone aged up to 25."
+      },
+      {
+        "policyTitle": "Free social care at home",
+        "policyDescription": "Free home care, with the greatest needs, funded by efficiency reforms in local government and the NHS."
+      },
+      {
+        "policyTitle": "Cancer diagnosis within one week",
+        "policyDescription": "Securing your GP - bringing peace of mind to people in difficult circumstances."
+      },
+      {
+        "policyTitle": "Tough action to meet housing shortages",
+        "policyDescription": "More and better affordable housing needed with Labour's plan to build on brownfield sites and get the fairer rents system."
+      },
+      {
+        "policyTitle": "Deficit halved in four years",
+        "policyDescription": "By going for growth, fair taxation and reducing low pay exploitation."
+      }
+    ],
+    "mentions": {
+      "candidate": "Michael Jones",
+      "otherPartyLeaderCandidate": "Nick Gibb, Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will keep the NHS safe from Conservative cuts. They pledge to rebuild Littlehampton Hospital and avoid any sell-offs and privatisations.",
+      "immigration": "",
+      "socialWelfare": "Free home care for those with the greatest needs, indicating efficiency reforms in local government and the NHS.",
+      "housing": [
+        {
+          "content": "Labour plans to tackle housing shortages by building more affordable housing on brownfield sites and revamping the rents system.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "38 Gordon Avenue, Bognor Regis, West Sussex, PO22 9LS",
+      "phone": "07944 578072",
+      "email": "michael.jones@sussex-labour.info",
+      "website": "www.labour-arun.org",
+      "socialMedia": {
+        "facebook": "http://www.facebook.com/pages/Michael-Jones-for-Bognor-Regis-and-Littlehampton/168571781894",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Michael Jones, Labour Candidate for Bognor Regis and Littlehampton"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

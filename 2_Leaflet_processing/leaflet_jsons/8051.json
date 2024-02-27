@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Hewett",
+    "constituency": "Greenwich and Woolwich",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "FAIR IS WORTH FIGHTING FOR",
+        "content": "Andy is from South Wales and has lived in Greenwich for 5 years. With the Green Party Andy works hard on issues including health, public services, jobs and workers' rights, climate change and with the anti-war movement."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Full public funding of the NHS, providing the best quality of care for all, locally, and free at the point of delivery."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Well-insulated, affordable social housing."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "The creation of thousands of jobs through public investment in green energy and public transport, not Trident or the war."
+      },
+      {
+        "policyTitle": "Welfare",
+        "policyDescription": "Decent pensions and a proper living wage for all."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andy campaigns for action against climate change",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Andy campaigns for action against climate change.",
+      "governance": "",
+      "health": "Protect our NHS.",
+      "immigration": "",
+      "socialWelfare": "A 'Living Wage'.",
+      "housing": [
+        {
+          "content": "Well-insulated, affordable social housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Andy is from South Wales and has lived in Greenwich for 5 years. With the Green Party Andy works hard on issues including health, public services, jobs and workers' rights, climate change and with the anti-war movement.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andy campaigns for action against climate change."
+        },
+        {
+          "caption": "Andy Hewett with supporters."
+        }
+      ]
+    },
+    "additionalNotes": "Printed on 100% recycled paper using sustainable technologies that do not harm the environment."
+  }
+}
+```

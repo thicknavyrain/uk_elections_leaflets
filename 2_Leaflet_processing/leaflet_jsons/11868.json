@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Bob Russell",
+    "constituency": "Colchester",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "We will give power back to you",
+        "content": "Residents feel powerless to stop the seemingly never ending development of Colchester - the Lib Dems want to stop secret talks between Government and Councils, and give communities more of a say in how new developments are built."
+      },
+      {
+        "title": "Protect our NHS",
+        "content": "Liberal Democrats will cut waste in NHS services, and protect frontline service spending at current levels."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Under plans put together by Lib Dem economic spokesman Vince Cable, the first £10,000 you earn would be tax free, cutting the average person's tax bill by £700 a year."
+      },
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "Liberal Democrats propose to restore the earnings link and introduce a 'Citizen's Pension' so that no pensioner is kept out of poverty."
+      },
+      {
+        "policyTitle": "Armed Forces",
+        "policyDescription": "Liberal Democrats would raise the pay of our lowest paid soldiers by around £6,000 a year."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "The Liberal Democrats are the only major party which believes university education should be free. They propose to scrap tuition fees for all students taking their first degrees, saving them over £10,000 each."
+      }
+    ],
+    "mentions": {
+      "candidate": "Bob Russell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The Liberal Democrats are the only major party which believes university education should be free.",
+      "environment": "Liberal Democrats will cut waste in NHS services",
+      "governance": "Residents feel powerless to stop the seemingly never ending development of Colchester - the Lib Dems want to stop secret talks between Government and Councils, and give communities more of a say in how new developments are built.",
+      "health": "Liberal Democrats will cut waste in NHS services, and protect frontline service spending at current levels.",
+      "immigration": "",
+      "socialWelfare": "Liberal Democrats propose to restore the earnings link and introduce a 'Citizen's Pension' so that no pensioner is kept out of poverty.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP for Colchester",
+        "duration": "",
+        "achievements": "Bob Russell has a record of the highest attendance of any MP in Parliament throughout his Parliamentary career and has successfully campaigned for High Woods and Cymbeline Meadows to become Country Parks."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Bob Russell with police officer."
+        },
+        {
+          "caption": "Bob visiting the NHS facilities."
+        },
+        {
+          "caption": "Bob Russell in Afghanistan."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet does not include specific dates for the candidate's experience or the election, nor does it have detailed contact information or endorsements."
+  }
+}
+```

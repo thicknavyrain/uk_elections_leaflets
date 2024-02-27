@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Simon Hughes",
+    "constituency": "Bermondsey and Old Southwark",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "I can't do it alone!",
+        "content": "We need to re-elect Anood Al-Samerai, Eliza Mann and Nick Stanton as our local councillors."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing and Development",
+        "policyDescription": "Fight Labour plans to tear down homes through an 'ALMO'. Keep park and leisure services under community trust."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Hughes",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Simon is fighting for money to do up local estates and provide a fair deal for leaseholders. Simon led the campaign to stop the government’s plans for £9.5million cuts to Southwark’s NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Simon led the campaign to stop the government’s plans for £9.5million cuts to Southwark’s NHS. Leaseholders on council estates have been hit by astronomical bills for works which often won’t be carried out for years.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Simon has lived in Lynton Road, SE1, since before he was first elected.",
+    "politicalExperience": [
+      {
+        "role": "MP for Bermondsey and Old Southwark",
+        "duration": "27 years",
+        "achievements": "Helped 5000 people every year across Bermondsey, the Borough, Rotherhithe and Walworth. Saving Guy's Hospital. Simon is now leading the campaign against Labour plans for £95million cuts to Southwark's NHS."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Simon Hughes with constituents"
+        },
+        {
+          "caption": "Image of Simon Hughes with Theo Paphitis"
+        },
+        {
+          "caption": "Table comparing Croydon and Bermondsey views on where Gordon Brown is from"
+        },
+        {
+          "caption": "Comic strip elements criticizing Gordon Brown"
+        }
+      ]
+    },
+    "additionalNotes": "Simon Hughes' Liberal Democrat team for Riverside includes Anood Al-Samerai, Eliza Mann, and Nick Stanton. The leaflet criticizes Gordon Brown and attempts to position Simon Hughes as a local champion and contrasts with Brown's engagement with the area."
+  }
+}
+```

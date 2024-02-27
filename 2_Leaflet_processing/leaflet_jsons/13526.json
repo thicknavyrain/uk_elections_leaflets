@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "Southampton Itchen",
+	"politicalParty": "Labour Party",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Securing a future fair for all",
+    	"content": "Labour's pledges for a future fair for all are substantial, deliverable, and fairly costed, speaking to the values of Britain's mainstream majority."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Halve the deficit through economic growth, fair taxes, and cuts to lower priority spending."
+  	},
+  	{
+      	"policyTitle": "Education",
+      	"policyDescription": "Raise standards, keeping mortgage rates as low as possible; increasing tax credits for families with young children; providing new help for first-time buyers; and restoring the link between state pension and earnings from 2012."
+  	},
+  	{
+      	"policyTitle": "Health",
+      	"policyDescription": "Protect frontline investment in policing and the NHS, with a new guarantee of cancer test results within a week."
+  	},
+  	{
+      	"policyTitle": "Immigration",
+      	"policyDescription": "Strengthen fairness in communities through an Australian style points-based immigration control system to count people in and out; apprenticeships and jobs for young people; a crack down on anti-social behaviour."
+  	},
+  	{
+      	"policyTitle": "Economy and Infrastructure",
+      	"policyDescription": "Build a high tech economy, supporting businesses and industry to create one million more skilled jobs and modernising our infrastructure with High-Speed Rail, a Green Investment Bank and broadband access for all."
+  	}
+	],
+	"mentions": {
+  	"candidate": "John Denham",
+  	"otherPartyLeaderCandidate": "Conservatives",
+  	"partyLeader": "Gordon Brown",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Halve the deficit through economic growth, fair taxes, and cuts to lower priority spending.",
+  	"education": "Raise standards, keeping mortgage rates as low as possible; increasing tax credits for families with young children.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Protect frontline investment in policing and the NHS, with a new guarantee of cancer test results within a week.",
+  	"immigration": "Strengthen fairness in communities through an Australian style points-based immigration control system to count people in and out;",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"providing new help for first-time buyers",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "MP for Southampton Itchen",
+    	"duration": "",
+    	"achievements": "Brought millions of pounds of investment into the area, helped thousands of people with individual problems, been a strong voice for our community in Parliament, and stood up for local people on everything from the future of the Ford site and green spaces to local schools and policing."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Gordon Brown",
+    	"endorsement": "John Denham has been a great local MP, a strong Minister for Southampton and Britain. His hard work has made a real difference to people’s lives and to Southampton’s future."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "John has been a great local MP, a strong Minister for Southampton and Britain. His hard work has made a real difference to people’s lives and to Southampton’s future.",
+    	"source": "Gordon Brown",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "John Denham in discussion with students"
+    	},
+    	{
+      	"caption": "John Denham with Gordon Brown"
+    	},
+    	{
+      	"caption": "John Denham working with healthcare professionals"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

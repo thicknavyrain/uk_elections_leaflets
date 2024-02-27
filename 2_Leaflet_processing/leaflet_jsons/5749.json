@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A 'Living Wage' for all",
+        "content": "We think it's unfair that irresponsible bankers go on earning huge salaries while 4 million UK children live in poverty. We think it's unfair that the Government have failed to do anything about rich and poor growing further apart. Green MPs will demand a 'Living Wage' to ensure low paid workers earn enough to provide for themselves and their families. We will fight for a fair financial deal, with community banks, credit unions and mutuals providing realistic loans to families and small businesses."
+      },
+      {
+        "title": "A million new jobs",
+        "content": "We think it's unfair that so many people are unemployed when there's vital work that needs doing. Bringing Britain's housing up to 'green' standards would create much-needed jobs for builders, plumbers, electricians, and others. Green MPs will press for a Green insulation scheme for every single home as part of a green package to cut fuel bills and create a million new jobs. Green Party councillors have already pioneered such a scheme in Kirklees."
+      },
+      {
+        "title": "Protect our NHS",
+        "content": "We think it's unfair that hospitals and health centres are treated like businesses rather than vital public services. We want to make sure no more public money is wasted on badly implemented privatisation schemes. Green MPs will fight to make sure local services are easy to access and are truly local. We will oppose cuts, closures and privatisation within our NHS and protect the jobs of public sector workers."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A 'Living Wage' for all",
+        "policyDescription": "Green MPs will advocate for a 'Living Wage' to help low paid workers earn enough to provide for their families. They aim to secure fair financial deals with community banks and mutuals."
+      },
+      {
+        "policyTitle": "A million new jobs",
+        "policyDescription": "Pushing for a Green insulation scheme for every home to reduce fuel bills and create jobs in construction, with a goal of a million new jobs."
+      },
+      {
+        "policyTitle": "Protect our NHS",
+        "policyDescription": "Green MPs will seek to preserve local and easily accessible NHS services, opposing cuts, closures, and privatisation to protect jobs."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "MEP Caroline Lucas",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Fair financial deals, community banks, credit unions, and mutuals providing realistic loans to families and small businesses.",
+      "education": "",
+      "environment": "Bringing Britain's housing up to 'green' standards to create jobs and reduce fuel bills.",
+      "governance": "",
+      "health": "Opposing cuts, closures and privatisation within our NHS and protecting the jobs of public sector workers.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Green insulation scheme for every home as part of a green package to cut fuel bills and create jobs in construction.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A 'Living Wage' for all"
+        },
+        {
+          "caption": "A million new jobs"
+        },
+        {
+          "caption": "Protect our NHS"
+        },
+        {
+          "caption": "Greens are ahead!"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet discusses various Green Party policies and successes, including the award given to MEP Caroline Lucas for forward thinking and as an MEP of the Year 2008 for her work on trade."
+  }
+}
+```

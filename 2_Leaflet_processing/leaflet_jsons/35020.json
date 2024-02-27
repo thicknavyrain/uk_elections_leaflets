@@ -1,0 +1,75 @@
+{
+  "leaflet": {
+    "candidateName": "Claire Coutinho",
+    "constituency": "East Surrey",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Get Brexit done with our new deal"
+      },
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "£33.9 billion extra for the NHS"
+      },
+      {
+        "policyTitle": "Policing",
+        "policyDescription": "20,000 extra police officers"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Boris",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Get Brexit done with our new deal",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "£33.9 billion extra for the NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Delivering Brexit in East Surrey"
+        },
+        {
+          "caption": "Claire Coutinho with Boris"
+        },
+        {
+          "caption": "Claire Coutinho in a local field"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

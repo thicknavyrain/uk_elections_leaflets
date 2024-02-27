@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "LABOUR'S BREXIT BETRAYALS",
+        "content": ""
+      },
+      {
+        "title": "FIVE MILLION REASONS NOT TO VOTE LABOUR",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Corbyn",
+      "partyLeader": "Nigel Farage",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Corbyn has betrayed 5M Labour leave voters. Promised to respect Brexit – now plans rigged 2nd referendum.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0800 414 8525",
+      "email": "",
+      "website": "www.thebrexitparty.org",
+      "socialMedia": {
+        "facebook": "brexitparty_uk",
+        "twitter": "brexitparty_uk",
+        "instagram": "brexitpartyuk",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour is the party of North London, not the North.",
+        "source": "Nigel Farage",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

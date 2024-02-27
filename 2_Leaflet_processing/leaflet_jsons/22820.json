@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Helen Hayes",
+    "constituency": "Dulwich and West Norwood",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Fighting for you in every part of Dulwich and West Norwood",
+        "content": "The choice at this election is between a Labour plan for fairness at home and prosperity for all of us, or more of the same failing Tory policies."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Labour will cut the deficit every year with a sensible reduction plan and balance the books through growth and fairer taxes."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Guarantee GP appointments within 48 hours and cancer tests within one week."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Ensure all teachers in state schools are qualified."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Control immigration with fair rules."
+      },
+      {
+        "policyTitle": "Young People",
+        "policyDescription": "Cut tuition fees to £6,000 and guarantee a starter job for young unemployed people."
+      },
+      {
+        "policyTitle": "Living Standards",
+        "policyDescription": "Raise the minimum wage to £8 by October 2019."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Get 200,000 homes built a year by 2020."
+      }
+    ],
+    "mentions": {
+      "candidate": "Helen Hayes",
+      "otherPartyLeaderCandidate": "Tory",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour's sensible reduction plan and balance the books through growth and fairer taxes.",
+      "education": "Ensure all teachers in state schools are qualified.",
+      "environment": "",
+      "governance": "",
+      "health": "Guarantee GP appointments within 48 hours and cancer tests within one week.",
+      "immigration": "Control immigration with fair rules.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Get 200,000 homes built a year by 2020.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "29 The Polygon SE4",
+      "phone": "020 8769 0708",
+      "email": "helen@helenhayes.org.uk",
+      "website": "www.labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Helen Hayes - Labour Parliamentary Candidate"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

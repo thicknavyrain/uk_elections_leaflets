@@ -1,0 +1,62 @@
+{
+  "leaflet": {
+	"candidateName": "Peter Bone",
+	"constituency": "Wellingborough, Northamptonshire",
+	"politicalParty": "Conservative",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Who's Local?",
+    	"content": "Questioning the local credentials of the Labour candidate and emphasizing the local ties of Peter Bone, the Conservative candidate."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Peter Bone",
+  	"otherPartyLeaderCandidate": "Labour candidate",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": []
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "MP for Wellingborough",
+    	"duration": "last 5 years",
+    	"achievements": "Full time MP with no outside earnings."
+  	}
+	],
+	"contactInformation": {
+  	"address": "12a High Street, Wellingborough, NN8 4JZ",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Map showing the distance between the Labour candidate's residence in Enfield and the Wellingborough constituency, in comparison to Peter Bone's residence within the constituency."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet is aimed at highlighting the local presence and commitment of Peter Bone to Wellingborough while casting doubt on the Labour candidate's commitment to the area by pointing out the candidate's residence in Enfield, London, and running for re-election to a council there on the same day as the General Election."
+  }
+}

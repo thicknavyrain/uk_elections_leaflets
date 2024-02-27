@@ -1,0 +1,111 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Helen Grant",
+    "constituency": "Maidstone & The Weald",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Helen Grant's Plan of Action to Secure a Better Future for the People of Maidstone & The Weald",
+        "content": "Fighting for sensible new housing in the right locations and with adequate infrastructure. Preserving the NHS and maintaining our vital local services at Maidstone and Pembury Hospitals. Supporting volunteers, charities and community service organisations; helping them to help others. Caring about the elderly; identifying and supporting the vulnerable and fixing practical problems. Boosting and promoting local businesses to create jobs and apprenticeships for local people. Working with our local schools to fight for the facilities and funding they need for the future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "New housing",
+        "policyDescription": "Fighting for sensible new housing in the right locations and with adequate infrastructure"
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Preserving the NHS and maintaining our vital local services at Maidstone and Pembury Hospitals"
+      },
+      {
+        "policyTitle": "Community support",
+        "policyDescription": "Supporting volunteers, charities and community service organisations"
+      },
+      {
+        "policyTitle": "Elderly care",
+        "policyDescription": "Caring about the elderly; identifying and supporting the vulnerable and fixing practical problems"
+      },
+      {
+        "policyTitle": "Local business",
+        "policyDescription": "Boosting and promoting local businesses to create jobs and apprenticeships for local people"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Working with our local schools to fight for the facilities and funding they need for the future"
+      }
+    ],
+    "mentions": {
+      "candidate": "Helen Grant",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A better future for you and your family",
+      "education": "Working with our local schools to fight for the facilities and funding they need for the future",
+      "environment": "",
+      "governance": "",
+      "health": "Preserving the NHS and maintaining our vital local services at Maidstone and Pembury Hospitals",
+      "immigration": "",
+      "socialWelfare": "Supporting volunteers, charities and community service organisations; helping them to help others",
+      "housing": [
+        {
+          "content": "Fighting for sensible new housing in the right locations and with adequate infrastructure",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07703 202002",
+      "email": "helen@helengrant.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "A better future for you and your family",
+        "source": "Conservatives",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron with Helen Grant"
+        },
+        {
+          "caption": "Helen Grant at St. Ronald Burmerlden Primary School"
+        },
+        {
+          "caption": "Your local vote delivers: Conservatives vs Coalition of chaos"
+        }
+      ]
+    },
+    "additionalNotes": "The choice is clear"
+  }
+}
+```

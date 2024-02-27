@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Robert Jenrick",
+    "constituency": "Newark, Bingham, Southwell & Tuxford",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A strong voice in Westminster",
+        "content": "winning support for our railway, roads & flood victims"
+      },
+      {
+        "title": "Getting things done in our local area",
+        "content": "like saving Newark Hospital's CT scanner"
+      },
+      {
+        "title": "A hardworking, approachable & accountable MP",
+        "content": "delivering a secure future for everyone"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Robert Jenrick",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "saving Newark Hospital's CT scanner",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+        "address": "",
+        "phone": "",
+        "email": "",
+        "website": "www.robertjenrick.com",
+        "socialMedia": {
+          "facebook": "",
+          "twitter": "",
+          "instagram": "",
+          "linkedin": ""
+        }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Robert Jenrick photo"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

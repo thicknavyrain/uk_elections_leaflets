@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "The NHS is a priority. Conservatives will stop the ministerial meddling that has seen too much money spent on bureaucracy. Will act against waste, prioritise care, and make services answer to patients, not managers."
+      },
+      {
+        "policyTitle": "GETTING BRITAIN WORKING",
+        "policyDescription": "Will simplify employment law and reduce taxes on the first ten jobs created by new businesses. Conservatives believe in giving people the opportunity to work with measures aimed at getting people off welfare and back to work."
+      },
+      {
+        "policyTitle": "BETTER SCHOOLS",
+        "policyDescription": "All children should receive an excellent education regardless of background or ability. Vows to close the gap between underperforming, failing schools, and the best. Will ensure that the failing schools are attended to instead of forgotten."
+      },
+      {
+        "policyTitle": "SCRAP LABOUR'S NATIONAL INSURANCE RISE",
+        "policyDescription": "Conservatives oppose Labour's planned £3 billion increase in National Insurance contributions. The party believes the increase will hurt businesses and hinder job creation."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Act now on debt to get the economy moving",
+      "education": "Raise standards in schools",
+      "environment": "",
+      "governance": "Change politics",
+      "health": "Make the NHS work for patients, not managers",
+      "immigration": "",
+      "socialWelfare": "Give people the opportunity to work",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet focuses on Conservative Party policies under David Cameron's leadership, with specific criticisms of Labour Party's policies."
+  }
+}
+```

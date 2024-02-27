@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anthony Rowlands",
+    "constituency": "Hertsmere",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "It's so close in Hertsmere",
+        "content": "The result of the last General Election shows that only the Liberal Democrats are gaining ground to challenge the Tories in Hertsmere."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer taxes",
+        "policyDescription": "Nick Clegg's tax plan means you will pay no tax on the first £10,000 you earn – cutting most tax bills by £700."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anthony Rowlands",
+      "otherPartyLeaderCandidate": "Tories",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Liberal Democrats are gaining ground to challenge the Tories."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Anthony Rowlands has served on Councils in Hertfordshire for over 20 years. A director of a public policy think tank and former teacher, he has lived with his wife, Harriet, and their five children in South Hertfordshire for many years.",
+    "politicalExperience": [
+      {
+        "role": "Councils in Hertfordshire",
+        "duration": "over 20 years",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "13 Claybury, Bushey Heath, Hertfordshire, WD23 1FS",
+      "phone": "",
+      "email": "",
+      "website": "www.hertsmere.libdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Anthony Rowlands with a supporter."
+        },
+        {
+          "caption": "Anthony Rowlands, Liberal Democrats candidate."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

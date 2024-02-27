@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Suhail RAHUJA",
+	"constituency": "Hornsey and Wood Green",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Only the Conservative Party can be trusted with the economy. Labour will take us back to boom and bust."
+  	},
+	{
+		"policyTitle": "Europe",
+		"policyDescription": "The Conservative Party promises an in-out referendum on Europe."
+	},
+	{
+		"policyTitle": "Mansion Tax",
+		"policyDescription": "The Conservatives oppose the Libdem and Labour Mansion Tax."
+	}
+	],
+	"mentions": {
+  	"candidate": "Suhail RAHUJA",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "The Conservative Party promises an in-out referendum on Europe.",
+  	"economy": "Only the Conservative Party can be trusted with the economy. Labour will take us back to boom and bust.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.hwgca.org",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

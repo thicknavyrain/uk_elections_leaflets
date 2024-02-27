@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Boris Johnson",
+    "constituency": "Uxbridge & South Ruislip",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "IN TOUCH",
+        "content": "Community news from Boris Johnson, and your local Conservatives in Manor Ward."
+      },
+      {
+        "title": "INVESTMENT WELCOMED",
+        "content": "Councillors have secured funding for Manor"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Investment",
+        "policyDescription": "Securing funding for Manor ward, with a focus on community growth and development."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Delivering a faster and more reliable tube service."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Highlighting the effectiveness of the Conservative-run council in Hillingdon."
+      }
+    ],
+    "mentions": {
+      "candidate": "Boris Johnson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Cllr Ray Puddifoot",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "The residents of Hillingdon benefit from having one of the most effective Conservative-run councils in the country, thanks to Council Leader Cllr Ray Puddifoot and his team.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Councillors have secured funding for Manor which indicates development and attention to housing issues in the area.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "On a recent visit to Manor ward, Conservative parliamentary candidate Boris Johnson commented that the area is going from strength to strength.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "boris4uxbridge.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Councillors with Boris Johnson during his visit to Manor Farm Butchers."
+        }
+      ]
+    },
+    "additionalNotes": "Produced and delivered at no expense to the taxpayer"
+  }
+}
+```

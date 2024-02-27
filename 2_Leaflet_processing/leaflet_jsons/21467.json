@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rachael Maskell",
+    "constituency": "York Central",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Rachael Maskell will take your voice to Parliament",
+        "content": "Rachael Maskell has a wealth of experience gained from a career in health, local government and the third sector."
+      },
+      {
+        "title": "Giving you a reason to vote Labour",
+        "content": "Rachael will fight for what matters using her voice for positive change."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Rachael Maskell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Rachael Maskell grew up in a working-class family, where the finances were stretched and life was pretty challenging at times.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "rachaelmaskell.com",
+      "socialMedia": {
+        "facebook": "RachaelForYork",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Rachael Maskell with supporters."
+        },
+        {
+          "caption": "Rachael Maskell engaging with a constituent."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

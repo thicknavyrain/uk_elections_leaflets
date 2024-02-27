@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Slaughter",
+    "constituency": "Hammersmith",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Fighting for our NHS",
+        "content": "Under the Conservatives; Charing Cross Hospital remains under threat of demolition. Waiting times are among the worst in the country since Hammersmith A&E closed. Ambulances are taking up to two hours to arrive at emergencies."
+      },
+      {
+        "title": "I called today to hear from you...",
+        "content": "The cuts to the NHS and closure of local hospital services are the gravest threat to our quality of life in Hammersmith. I need your help to protect the NHS and defend Charing Cross Hospital from demolition."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Recruit 20,000 more nurses and 8,000 more GPs to cut waiting times and improve hospital services. Guarantee a GP appointment within 48 hours. Combine health with social care, giving older and disabled people more caring and effective support."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andy Slaughter",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Under the Conservatives; Charing Cross Hospital remains under threat of demolition. Waiting times are among the worst in the country since Hammersmith A&E closed. Ambulances are taking up to two hours to arrive at emergencies. The cuts to the NHS and closure of local hospital services are the gravest threat to our quality of life in Hammersmith.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "FREPOST LON 16192, 28 Greyhound Road, London, W6 8NX",
+      "phone": "020 7610 1950",
+      "email": "andy@andyslaughter.com",
+      "website": "www.andyslaughter.com",
+      "socialMedia": {
+        "facebook": "HammersmithAndy",
+        "twitter": "@HammersmithAndy",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Welcome to innovators"
+        },
+        {
+          "caption": "SAVE OUR HOSPITALS"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

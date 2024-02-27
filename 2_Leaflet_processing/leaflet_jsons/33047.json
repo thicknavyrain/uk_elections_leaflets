@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Amy Thomson",
+    "constituency": "Glenrothes",
+    "politicalParty": "Scottish Conservative and Unionist",
+    "electionDate": "Thursday 8th June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Focusing on improving apprenticeships",
+        "policyDescription": "Amy Thomson focuses on the importance of apprenticeships for young people."
+      },
+      {
+        "policyTitle": "Enhancing our schools",
+        "policyDescription": "Amy Thomson intends to enhance local schools."
+      },
+      {
+        "policyTitle": "Investing in healthcare",
+        "policyDescription": "Amy Thomson proposes investment in healthcare, specifically mentioning the NHS Fife."
+      },
+      {
+        "policyTitle": "Boosting local businesses",
+        "policyDescription": "Plans to boost local businesses are included in Amy Thomson's campaign."
+      },
+      {
+        "policyTitle": "Strengthening the Union",
+        "policyDescription": "She aims to strengthen the Union and resist the SNP's independence agenda."
+      }
+    ],
+    "mentions": {
+      "candidate": "Amy Thomson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The leaflet suggests the need for tactical situation awareness by displaying a bar chart indicating SNP as the main competitor and Labour as the incumbent party."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Boosting local businesses.",
+      "education": "Enhancing our schools.",
+      "environment": "",
+      "governance": "Strengthening the Union to resist the SNP's independence agenda.",
+      "health": "Investing in healthcare and mentions of NHS Fife.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01592 750335",
+      "email": "amy@fifetories.org.uk",
+      "website": "www.amythomson.org.uk",
+      "socialMedia": {
+        "facebook": "/amythomson4glenrothes",
+        "twitter": "@amythomson91",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Amy Thomson"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet displays a bar chart comparing SNP, Labour, and Conservative, indicating the competitive landscape in the constituency. It also includes Labour's downturn to emphasize the Conservative's position as the main challenger to SNP."
+  }
+}
+```

@@ -1,0 +1,108 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Helen Goodman",
+    "constituency": "Bishop Auckland",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Your Choice for the Economy",
+        "content": "Support for jobs, businesses and home-owners during the recovery. 50% tax for highest earners."
+      },
+      {
+        "title": "Your Choice on Crime",
+        "content": "Under Labour, crime is down by 24% in Spennymoor in the last year. Police funding UP by 31% in Durham. Police Service funding UP by 70%. Neighbourhood policing teams in your communities."
+      },
+      {
+        "title": "Working Hard for You",
+        "content": "As a Minister at the Department of Work & Pensions responsible for: The Child Poverty Bill, Cold Weather Payments, Support for Mortgage Interest, Reforming Housing Benefit and clamping down on benefit fraud."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Labour supports jobs, businesses, and homeowners during the recovery and proposes a 50% tax for the highest earners."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "Labour's record under Helen Goodman shows a reduction in crime, increased police funding, and strong support for neighbourhood policing teams."
+      },
+      {
+        "policyTitle": "Child Poverty",
+        "policyDescription": "Labour introduced The Child Poverty Bill to make it a legal requirement to abolish child poverty by 2020."
+      },
+      {
+        "policyTitle": "Cold Weather Payments",
+        "policyDescription": "The payments were tripled to £25 pw and paid out to over 7,500 local households four times this winter."
+      },
+      {
+        "policyTitle": "Mortgage Interest Support",
+        "policyDescription": "Support for Mortgage Interest (SMI) has helped 220,000 households so that the current rate of repossessions is half that of the Tory recessions of the 1980s and 1990s."
+      },
+      {
+        "policyTitle": "Housing Benefit Reform",
+        "policyDescription": "Labour is reforming Housing Benefit and clamping down on benefit fraud."
+      }
+    ],
+    "mentions": {
+      "candidate": "Helen Goodman",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Reforming Housing Benefit and clamping down on benefit fraud.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Thank you for your help with our recent problem... we are convinced that it was your input that brought an early conclusion.",
+    "politicalExperience": [
+      {
+        "role": "Minister at the Department of Work & Pensions",
+        "duration": "",
+        "achievements": "Responsible for The Child Poverty Bill, Cold Weather Payments, Support for Mortgage Interest and Reforming Housing Benefit."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.helengoodman.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Helen Goodman with other individuals at THORN Academy"
+        },
+        {
+          "caption": "Helen Goodman pictured with Alan Johnson"
+        },
+        {
+          "caption": "Helen Goodman speaking in parliament"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

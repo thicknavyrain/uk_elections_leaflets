@@ -1,0 +1,68 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sarah Lewis",
+    "constituency": "Vauxhall",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Standing up for Vauxhall",
+        "content": "Stop Brexit. More and better council homes. Protect young people. Take action on climate change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Stop selling off & knocking down our council homes, start building council homes as part of mixed communities where local people can live, rents that local people can afford"
+      }
+    ],
+    "mentions": {
+      "candidate": "Sarah Lewis will stand up for our homes",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn's",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Stop Brexit",
+      "economy": "",
+      "education": "",
+      "environment": "Take action on climate change",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Stop selling off & knocking down our council homes, start building council homes as part of mixed communities where local people can live, rents that local people can afford",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sarah Lewis with a group of people and a caption 'Sarah Lewis Standing up for Vauxhall'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

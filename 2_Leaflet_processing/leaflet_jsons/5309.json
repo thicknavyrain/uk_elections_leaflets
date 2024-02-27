@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Phil Hope",
+    "constituency": "Corby",
+    "politicalParty": "Labour",
+    "electionDate": "Spring 2010",
+    "messages": [
+      {
+        "title": "Corby Needs Your Support!",
+        "content": ""
+      },
+      {
+        "title": "The choice is clear. Vote Hope for Corby",
+        "content": "Corby is a growing, diverse community with a bright future. The vision and leadership of Phil Hope, the involvement of a Labour Government and the forward thinking of a Labour Council made this happen."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Social Care",
+        "policyDescription": "More social care and a cancer guarantee for everyone."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "A better start for our children and a university for Corby."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "Tougher action on crime. Creating safer communities."
+      },
+      {
+        "policyTitle": "Local Development",
+        "policyDescription": "New shops, a swimming pool, a new theatre and library, a new rail service to two new secondary schools and four children's centres, new jobs, new family homes, and a new radio station we can all tune in. The involvement of a Labour Government and the foresight of a Labour Council made these possible."
+      }
+    ],
+    "mentions": {
+      "candidate": "Phil Hope",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Just 150 votes will make the difference between winning and losing. Phil Hope's lead over the Tories in Corby is tiny - you can stop this happening. Everyone in Corby needs to turn out and vote for Hope."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "A better start for our children and a university for Corby.",
+      "environment": "",
+      "governance": "",
+      "health": "More social care and a cancer guarantee for everyone.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "New family homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Corby is a growing, diverse community with a bright future.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Phil Hope in front of a new development area in Corby."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes the transformation of Corby and the involvement of Phil Hope and the Labour Party in that change, as well as the risk of returning to the 'dark days of the 1980s' if the Conservative party wins."
+  }
+}
+```

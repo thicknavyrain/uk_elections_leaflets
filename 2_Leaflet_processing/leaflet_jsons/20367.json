@@ -1,0 +1,105 @@
+{
+  "leaflet": {
+    "candidateName": "Guy Smith",
+    "constituency": "Llanelli",
+    "politicalParty": "Wales Green Party Plaid Werdd Cymru",
+    "electionDate": "May",
+    "messages": [
+      {
+        "title": "Vote Green in May!",
+        "content": "We need an economy that works and doesn't make the poor, the sick, and the disabled pay for the mistakes of the financial sector."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "An economy that does not burden the poor, the sick, and the disabled for the mistakes of the financial sector."
+      },
+      {
+        "policyTitle": "Revive Town Centre",
+        "policyDescription": "To revive Llanelli town centre with cheaper rent and free parking."
+      },
+      {
+        "policyTitle": "Rural Bus Service",
+        "policyDescription": "An effective rural bus service."
+      },
+      {
+        "policyTitle": "Living Wage",
+        "policyDescription": "The minimum wage to be a living wage."
+      },
+      {
+        "policyTitle": "Support Farming",
+        "policyDescription": "To support healthy, varied, and sustainable farming."
+      },
+      {
+        "policyTitle": "Railways",
+        "policyDescription": "Railways back in public hands."
+      },
+      {
+        "policyTitle": "Reverse NHS Privatisation",
+        "policyDescription": "Reverse NHS privatisation."
+      },
+      {
+        "policyTitle": "End Austerity",
+        "policyDescription": "No more austerity."
+      },
+      {
+        "policyTitle": "Bedroom Tax",
+        "policyDescription": "End bedroom tax."
+      },
+      {
+        "policyTitle": "Trident",
+        "policyDescription": "Scrap Trident."
+      }
+    ],
+    "mentions": {
+      "candidate": "Guy Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "An economy that does not burden the poor, the sick, and the disabled for the mistakes of the financial sector.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Seize the day... Vote Green in May!",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet front"
+        },
+        {
+          "caption": "Leaflet back"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

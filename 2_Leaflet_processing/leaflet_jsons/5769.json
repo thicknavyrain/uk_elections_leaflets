@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ben Jones",
+    "constituency": "Halton",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "3 POSITIVE REASONS TO VOTE FOR BEN JONES",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Working for you",
+        "policyDescription": "Will make the people of Widnes, Runcorn and Hale Village the number one priority. Aims to be a different type of MP; will give a strong voice in Westminster."
+      },
+      {
+        "policyTitle": "Committed to you",
+        "policyDescription": "Has strong Halton roots, living most of life locally. Has been working for the community since selection in November 2008, including giving 100% support to the Mersey Gateway project."
+      },
+      {
+        "policyTitle": "Working with you",
+        "policyDescription": "Believes passionately that Halton and Britain need change. A fresh start and a new direction are needed, and hard work can deliver change for the great country."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ben Jones",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Halton Conservative Association, 61 Victoria Road, Widnes, Cheshire WA8 7RP",
+      "phone": "0151 423 4357",
+      "email": "benjaminhjones@hotmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Cameron",
+        "endorsement": "We urgently need to make these changes so that Britain can move forward. We cannot afford to wait any longer. This is a crucial time in the history of our country and the choice at this election is clear: five more years of Gordon Brown or a fresh new start with the Conservatives."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ben Jones for Halton"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet refrains from mentioning specific election dates and does not contain many detailed policy points or a personal statement from the candidate. It focuses more on broader statements of intent and change."
+  }
+}
+```

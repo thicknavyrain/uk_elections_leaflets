@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Monk",
+    "constituency": "South East Cambridgeshire",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Straight talking. Vote UKIP",
+        "content": "I want to give the people of South East Cambridgeshire a real voice in Parliament that will be heard. The three traditional parties don't represent or listen to your local or national concerns. If you want real change then vote for me and change the face of British politics."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Say NO to mass immigration"
+      },
+      {
+        "policyTitle": "Referendums",
+        "policyDescription": "Say YES to referendums on all major issues"
+      },
+      {
+        "policyTitle": "EU Spending",
+        "policyDescription": "Say NO to wasting £45 million a day in Brussels"
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "We must be tough on crime. A prison sentence must mean what it says: ten years not two years. There should be no early releases and more police on the beat."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "We must have locally-run hospitals with matrons ensuring they are clean. There must be an end to the bureaucratic inefficiency that so blights the NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andy Monk",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Say NO to wasting £45 million a day in Brussels",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "We must have locally-run hospitals with matrons ensuring they are clean. There must be an end to the bureaucratic inefficiency that so blights the NHS.",
+      "immigration": "Say NO to mass immigration",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I want to give the people of South East Cambridgeshire a real voice in Parliament that will be heard. The three traditional parties don't represent or listen to your local or national concerns. If you want real change then vote for me and change the face of British politics.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Election communication for the UK Independence Party - Andy Monk, South East Cambridgeshire"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Ipswich",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "GOOD MORNING PLEASE DON'T FORGET TO VOTE FOR CHANGE IN IPSWICH TODAY"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign leaflet urging voters not to forget to vote for change in Ipswich"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

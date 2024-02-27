@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nicola Sturgeon",
+    "constituency": "",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Voting SNP means...",
+        "content": "The SNP will play a constructive role in Westminster and bring ideas forward in a positive spirit."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Childcare Investment",
+        "policyDescription": "With budgets so tight, we'll invest in childcare and vital public services not waste £100 billion on new nuclear weapons."
+      },
+      {
+        "policyTitle": "Westminster Influence",
+        "policyDescription": "We'll keep the Westminster parties to their promises of more power for Scotland."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nicola Sturgeon",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nicola Sturgeon",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "We'll keep the Westminster parties to their promises of more power for Scotland.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "votesnp.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Daily Record",
+        "endorsement": "The SNP have shown Westminster what commitment to public service really means."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The SNP have shown Westminster what commitment to public service really means.",
+        "source": "The Daily Record",
+        "date": "September 19th, 2014"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nicola Sturgeon's image with a quote and the statement 'Voting SNP means...'"
+        },
+        {
+          "caption": "Text referring to SNP's approach to Westminster and investment in childcare over nuclear weapons."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

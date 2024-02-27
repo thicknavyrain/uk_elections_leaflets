@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Robin Walker",
+    "constituency": "Worcester",
+    "politicalParty": "Conservative",
+    "electionDate": "6 May",
+    "messages": [
+      {
+        "title": "",
+        "content": "Your local Conservative team called to see you today"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tackle litter and fly tipping across the ward",
+        "policyDescription": "Stephen Hodgson is campaigning to tackle litter and fly tipping across the ward."
+      },
+	  {
+        "policyTitle": "Support action to tackle crime and anti-social behaviour",
+        "policyDescription": "Stephen Hodgson is campaigning to support action to tackle crime and anti-social behaviour."
+      },
+	  {
+        "policyTitle": "Deal with speeding traffic and illegally parked vehicles",
+        "policyDescription": "Stephen Hodgson is campaigning to deal with speeding traffic and illegally parked vehicles."
+      }
+    ],
+    "mentions": {
+      "candidate": "Robin Walker",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Churchill House, 15 Sansome Place, Worcester, WR1 1UA",
+      "phone": "01905 24058",
+      "email": "robin.walker@walker4worcester.com",
+      "website": "www.walker4worcester.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Robin Walker standing by a riverside"
+        },
+		{
+          "caption": "Stephen Hodgson campaigning in the community"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

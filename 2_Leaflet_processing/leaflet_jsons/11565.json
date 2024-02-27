@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Caroline Lucas",
+    "constituency": "Brighton Pavilion",
+    "politicalParty": "Green Party",
+    "electionDate": "Thursday 6th May",
+    "messages": [
+      {
+        "title": "BRIGHTON DESERVES BETTER",
+        "content": "If you've had enough of politicians who just want: Public service cuts, Foreign wars, Second homes, Tax breaks for the rich, ID Cards... Then it's time to vote for what you believe in."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A strong, sustainable economy",
+        "policyDescription": "Fair wages, reduced tax for small firms & community banks"
+      },
+      {
+        "policyTitle": "Protecting public services",
+        "policyDescription": "Opposing cuts, supporting jobs"
+      },
+      {
+        "policyTitle": "Civil rights, freedom & fairness",
+        "policyDescription": "Axing ID cards & the database state"
+      },
+      {
+        "policyTitle": "Fairer elections where votes count",
+        "policyDescription": "A proportional voting system so there are more voices in Parliament"
+      }
+    ],
+    "mentions": {
+      "candidate": "Caroline Lucas",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "LibDems have no councillors in this constituency & have consistently placed fourth in recent polls & elections here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Fair wages, reduced tax for small firms & community banks",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Opposing cuts, supporting jobs",
+      "housing": [
+        {
+          "content": "If you want real change, don’t risk voting for any other party here, vote Green. Brighton can’t afford 5 more years of the same. Brighton needs a truly independent voice.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Caroline Lucas, Ethical Politician of the Year 2007 & 2009. Vote Green for Caroline Lucas.",
+    "politicalExperience": [
+      {
+        "role": "MP for Brighton Pavilion",
+        "duration": "Immediately after election",
+        "achievements": "Focus on being a strong MP for the people of Brighton."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.carolinelucas.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Caroline Lucas, pictured on campaign material, expressing the need for Brighton to have a truly independent voice."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

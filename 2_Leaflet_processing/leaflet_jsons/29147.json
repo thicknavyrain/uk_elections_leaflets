@@ -1,0 +1,108 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Miles Grindey",
+    "constituency": "Fareham",
+    "politicalParty": "Green Party",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "",
+        "content": "Together we will take back control of our community from complacent, career politicians. Together we will make Fareham fair."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Affordable Homes",
+        "policyDescription": "Provide affordable homes whilst protecting our environment."
+      },
+      {
+        "policyTitle": "Democratic Engagement",
+        "policyDescription": "Put you at the heart of the planning process."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Give you the final say over Brexit."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Scrap tuition fees and bring back grants."
+      },
+      {
+        "policyTitle": "Local Businesses",
+        "policyDescription": "Support local businesses."
+      },
+      {
+        "policyTitle": "Equality",
+        "policyDescription": "Promote equality, diversity and end discrimination."
+      }
+    ],
+    "mentions": {
+      "candidate": "Miles Grindey",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Give you the final say over Brexit.",
+      "economy": "Support local businesses.",
+      "education": "Scrap tuition fees and bring back grants.",
+      "environment": "Provide affordable homes whilst protecting our environment.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Provide affordable homes",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "miles.grindey@greenparty.org.uk",
+      "website": "milesgrindey.com",
+      "socialMedia": {
+        "facebook": "fb.com/gogreengrindey",
+        "twitter": "@milesgrindey",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Miles Grindey speaking at an event"
+        },
+        {
+          "caption": "Miles Grindey in a high visibility jacket with a Green Party badge"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Shona Simpson",
+    "constituency": "Aberdeen South",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "Looking to the future with Labour in Aberdeen South",
+        "content": "A Labour Government will bring the changes this country needs. With your support, I will work for better public services and an end to poverty pay, and for a fairer and more equal society."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Labour will give the final say on Brexit"
+      },
+      {
+        "policyTitle": "Scottish Independence",
+        "policyDescription": "Labour will oppose a second independence vote"
+      },
+      {
+        "policyTitle": "Energy Transition",
+        "policyDescription": "Put workers at the heart of energy transition"
+      }
+    ],
+    "mentions": {
+      "candidate": "Shona Simpson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Labour will give the final say on Brexit. Labour will oppose a second independence vote",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "As a teacher by profession, I care deeply about creating opportunities for young people and leaving a better world for future generations.",
+    "politicalExperience": [
+      {
+        "role": "Local community council",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "Local education trust",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07539 783089",
+      "email": "shonaforssouth@outlook.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "/AberdeenLabour",
+        "twitter": "#ShonaForSouth",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Dame Anne Begg",
+        "endorsement": "I know what it takes to represent this seat at Westminster, and I know Shona has what it takes. I believe Shona Simpson will excel at that job."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Shona Simpson looking towards the camera, with a backdrop of Aberdeen's industrial port"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

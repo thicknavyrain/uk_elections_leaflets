@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "James Blanchard",
+    "constituency": "York Outer",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Fighting against Hard Brexit",
+        "content": "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal."
+      },
+      {
+        "title": "Standing up for the NHS",
+        "content": "We know we need additional investment in health and care services urgently. The Liberal Democrats would give our NHS the funding it needs."
+      },
+      {
+        "title": "Opposing school cuts",
+        "content": "Local schools are under threat from a Conservative Party that has stopped listening to local people in York Outer. James Blanchard will fight against any cuts to our local schools."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protect the NHS",
+        "policyDescription": "Campaigning to protect the things people care about most - like jobs, the NHS and schools. The Liberal Democrats would give the NHS the extra cash it needs."
+      },
+      {
+        "policyTitle": "Invest in Schools",
+        "policyDescription": "Conservative cuts to schools mean fewer teachers and bigger classes. The Liberal Democrats will invest in schools."
+      },
+      {
+        "policyTitle": "Protect York's Frontline Services",
+        "policyDescription": "Focusing on protecting local services against conservative cuts."
+      }
+    ],
+    "mentions": {
+      "candidate": "James Blanchard",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": "This election is portrayed as the most important in a generation, implying the need for strategic voting."
+    },
+    "issues": {
+      "brexitEurope": "Fighting against Hard Brexit; Brexit is causing prices to rise.",
+      "economy": "Brexit is mentioned in the context of a rising UK inflation rate and impact on prices.",
+      "education": "Opposing school cuts due to Conservative policy.",
+      "environment": "",
+      "governance": "",
+      "health": "Standing up for the NHS and opposing cuts that are hurting the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.libdems.org.uk/FutureOfOurNHS",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "UK inflation rate leaps to 2.3%",
+        "source": "BBC - 21 March 2017",
+        "date": "21 March 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "James Blanchard speaking with constituents."
+        },
+        {
+          "caption": "Graph showing rising food and petrol prices."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

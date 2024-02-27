@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "George Osborne",
+	"constituency": "",
+	"politicalParty": "Conservative Party",
+	"electionDate": "26th March 2010",
+	"messages": [
+  	{
+    	"title": "Dear Elector",
+    	"content": "As you know, our economy is still in trouble. George Osborne wants to move the economy forward. He sees the need for change, with new energy and ideas to deal with the deficit, create new jobs, and get the economy moving again."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Osborne plans to get Britain's economy moving by reducing waste in government spending, such as unnecessary benefits and central government projects."
+  	},
+    {
+      "policyTitle": "Health",
+      "policyDescription": "He commits to investing in the NHS, implying there will be no cuts in public spending."
+    },
+    {
+      "policyTitle": "Governance",
+      "policyDescription": "Aiming to protect public services with prudent financial measures, linking state pension to earnings, and protecting winter fuel payments and tax credits for low and middle income families."
+    },
+    {
+      "policyTitle": "Banking Reform",
+      "policyDescription": "Osborne intends to levy a tax on banks, stating that banks should repay the support they received from taxpayers' money."
+    }
+	],
+	"mentions": {
+  	"candidate": "George Osborne",
+  	"otherPartyLeaderCandidate": "David Cameron",
+  	"partyLeader": "David Cameron",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "George Osborne is focused on getting the economy moving again with less government waste and more job creation.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "Plans include protecting public services, linking state pension to earnings, protecting winter fuel payments and tax credits.",
+  	"health": "No cuts to public spending on the NHS.",
+  	"immigration": "",
+  	"socialWelfare": "Plans to protect pension, winter fuel payments and tax credits for low and middle income families.",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Osborne believes in creating 400,000 new apprenticeships and training places.",
+	"politicalExperience": [
+  	{
+    	"role": "Shadow Chancellor of the Exchequer",
+    	"duration": "",
+    	"achievements": "Outlined a plan to get the economy moving again by cutting government waste and creating new opportunities."
+  	}
+	],
+	"contactInformation": {
+  	"address": "Conservative Party, 30 Millbank, London SW1P 4DP",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "George Osborne leaflet text"
+    	}
+  	]
+	},
+	"additionalNotes": "Osborne highlights the need for banking reform and supports growth in new sectors to create jobs."
+  }
+}
+```

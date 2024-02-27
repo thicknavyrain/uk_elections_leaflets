@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "South Northamptonshire",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A PERSONAL MESSAGE FROM DAVID CAMERON",
+        "content": "WHY WE NEED CHANGE IN BRITAIN TODAY"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Increase spending and improve the NHS."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Get the economy moving by tackling the debt and helping people create 400,000 new apprenticeships, training places and work pairings."
+      },
+      {
+        "policyTitle": "Jobs",
+        "policyDescription": "Stop the tax on jobs to aid the recovery, meaning seven out of ten jobs which will be better off than under Labour."
+      },
+      {
+        "policyTitle": "Family Budget",
+        "policyDescription": "Help your family budget by working with the basic state pension linked with earnings and protect winter fuel payments."
+      },
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Freeze council tax for two years. Raise the tax free part of income and make Britain the most family-friendly country in Europe, keeping tax credits, improving Sure Start and providing 4,200 extra Sure Start health visitors."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Get the economy moving by tackling the debt and helping people create 400,000 new apprenticeships, training places and work pairings.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Increase spending and improve the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I hope you take this chance to vote for change.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Promoted by Kathryn Cearns on behalf of Andrea Leadsom, both of South Northamptonshire Conservative Association, Boddington Depot, Byfield Road, Daventry, Northamptonshire, NN11 3Q",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron working at a desk."
+        },
+        {
+          "caption": "David Cameron speaking to an audience."
+        },
+        {
+          "caption": "David Cameron talking with an elderly woman."
+        },
+        {
+          "caption": "David Cameron playing tennis with children."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,44 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "8 June",
+    "messages": [
+      {
+        "title": "",
+        "content": "Dear friend, My name is Sally Pearce and I've been a Head Teacher in Sherwood for 12 years. I'm writing to share my anxieties about what is happening to the education system in our country and what it means for schools like mine and across Nottinghamshire..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education Funding",
+        "policyDescription": "Expresses concern over government cuts to school funding which means schools are being forced to make choices about whether to reduce the curriculum choices or reduce their staffing."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "education": "A Head Teacher expresses concern that schools are being forced to make tough decisions due to government cuts, such as whether to reduce curriculum choices, reduce staffing, or make other reductions in facilities."
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {},
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "George Washington was the first US President and as far back as 1789 recognised what education means to a country: 'Education is the key to unlock the golden door of freedom.'"
+        }
+      ]
+    },
+    "additionalNotes": "Please don't let Theresa May lock the doors. I ask you to keep the fire burning and vote Labour on 8 June. With kind regards, Sally Pearce."
+  }
+}
+```

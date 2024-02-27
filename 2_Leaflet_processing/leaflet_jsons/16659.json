@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Karen Buck",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "My pledges to you",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A 'time to care' fund to save the NHS",
+        "policyDescription": "Labour will bring health and social care together and invest in 8,000 doctors and 20,000 nurses."
+      },
+      {
+        "policyTitle": "No more police cuts in London",
+        "policyDescription": "Labour will scrap Police and Crime Commissioners and put the money back into front line policing."
+      },
+      {
+        "policyTitle": "Build affordable homes and provide help to renters",
+        "policyDescription": "Labour will guarantee longer term tenancies for private renters, ban rip-off letting agent fees and build 200,000 new homes by 2020."
+      },
+      {
+        "policyTitle": "Tackle low pay and exploitative zero hour contracts",
+        "policyDescription": "Labour will raise the minimum wage, offer tax breaks to promote the living wage and ban exploitative zero hour contracts."
+      },
+      {
+        "policyTitle": "Freeze energy bills until 2017",
+        "policyDescription": "Labour will fix the broken energy market, increasing competition and transparency."
+      }
+    ],
+    "mentions": {
+      "candidate": "Karen Buck",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will bring health and social care together and invest in 8,000 doctors and 20,000 nurses.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour will guarantee longer term tenancies for private renters, ban rip-off letting agent fees and build 200,000 new homes by 2020.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Karen Buck was in your local area today"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

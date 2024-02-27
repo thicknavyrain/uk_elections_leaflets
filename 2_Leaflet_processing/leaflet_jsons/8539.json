@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Shailesh Vara",
+    "constituency": "North West Cambridgeshire",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "WE CAN'T GO ON LIKE THIS",
+        "content": "This general election comes at a time when our economy is in dire trouble and we need to mend our broken society. Britain needs change to get the country back on its feet and restore our standing in the world. A Conservative Britain will make those changes."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "SUPPORTING OUR ARMED FORCES",
+        "policyDescription": "The Conservatives will ensure that our armed forces are properly provided for."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Putting the country back on its feet economically."
+      },
+      {
+        "policyTitle": "Society",
+        "policyDescription": "Mending our broken society."
+      }
+    ],
+    "mentions": {
+      "candidate": "Shailesh Vara",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Putting the country back on its feet economically.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Shailesh Vara with David Cameron, in the House of Commons"
+        },
+        {
+          "caption": "Shailesh Vara discussing the shortage of community facilities with residents of Hampton at a coffee morning."
+        },
+        {
+          "caption": "Shailesh on a visit to Afghanistan."
+        },
+        {
+          "caption": "Fighting to save a number of local Post Offices, including the one at Great Gidding."
+        },
+        {
+          "caption": "With Sir Geoff Hurst and the World Cup, supporting Britain's efforts to host the football World Cup Finals in 2018."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

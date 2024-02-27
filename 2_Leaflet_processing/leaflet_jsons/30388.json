@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gareth Snell",
+    "constituency": "",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 8 June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Defend our NHS from Tory and UKIP sell-offs"
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Deliver a Brexit that works for the Potteries"
+      },
+      {
+        "policyTitle": "Local Advocacy",
+        "policyDescription": "Speak up for locals, not for London"
+      }
+    ],
+    "mentions": {
+      "candidate": "Gareth Snell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Deliver a Brexit that works for the Potteries",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Defend our NHS from Tory and UKIP sell-offs",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "VOTE FOR GARETH SNELL THIS THURSDAY"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tim Farron",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "",
+        "content": "It doesn't have to be like this."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "The Liberal Democrats WILL fight to stop Theresa May's extreme Brexit wrecking our country's future."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tim Farron",
+      "otherPartyLeaderCandidate": "Theresa May, Jeremy Corbyn",
+      "partyLeader": "Tim Farron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "fight to stop Theresa May's extreme Brexit wrecking our country's future",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {}
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tim Farron, Leader of the Liberal Democrats"
+        }
+      ]
+    },
+    "additionalNotes": "PS – Join the millions like you and use your postal vote to stop Theresa May's extreme Brexit wrecking our country's future. Vote for the Liberal Democrats."
+  }
+}
+```

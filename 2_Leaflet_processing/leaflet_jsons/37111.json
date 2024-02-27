@@ -1,0 +1,103 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "North Wales Regional",
+	"politicalParty": "UK Independence Party",
+	"electionDate": "May 5th",
+	"messages": [
+  	{
+    	"title": "The Voice of Opposition",
+    	"content": "Vote UKIP on May 5th for opposition in Wales."
+  	},
+	{
+		"title": "Give UKIP your second vote",
+		"content": "You have two votes for the Welsh Assembly on May 5th"
+	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Politicians and Public Services",
+    	"policyDescription": "Cut the number of politicians in Wales, not public services"
+  	},
+	{
+    	"policyTitle": "Immigration Control",
+    	"policyDescription": "Stop uncontrolled immigration"
+  	},
+	{
+    	"policyTitle": "Tax Policy",
+    	"policyDescription": "Freeze council tax, as in England"
+  	},
+	{
+    	"policyTitle": "Decentralization",
+    	"policyDescription": "Devolve powers to local councils, not Cardiff Bay"
+  	},
+	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Stop school closures"
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "Stop school closures",
+  	"environment": "",
+  	"governance": "Devolve powers to local councils, not Cardiff Bay",
+  	"health": "",
+  	"immigration": "Stop uncontrolled immigration",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "0800 587 6 587",
+  	"email": "",
+  	"website": "ukipwales.org",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Campaign leaflet images."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

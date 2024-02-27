@@ -1,0 +1,110 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alex Salmond",
+    "constituency": "Glasgow",
+    "politicalParty": "SNP",
+    "electionDate": "May 5",
+    "messages": [
+      {
+        "title": "MAKING SCOTLAND BETTER.",
+        "content": "In government the SNP has delivered real progress. Council tax has been frozen, prescription charges abolished and free higher education restored. Here in Glasgow, we've funded the new South Glasgow Hospital, secured higher funding for Glasgow than any other Scottish city, protected the free bus pass, invested £697 million in housing, and are completing the M74 motorway - bringing new jobs and helping local regeneration. Our pledge is to be a Scottish government that works hard for the people of our nation. With your support we can keep Scotland moving forward. Together, we can make Scotland better."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "Keep the council tax frozen, easing the pressure on family budgets."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Win the 1000 extra police on our streets, ensuring waiting times are shorter and treatment improves."
+      },
+      {
+        "policyTitle": "Constitution",
+        "policyDescription": "Enable the people to decide our nation's future in an independence referendum."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Help 100,000 Scots get training for work, including a record 25,000 modern apprenticeships."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Secure 130,000 jobs in the low carbon economy by 2020."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Reduce by half the number of Scottish pupils taught in crumbling schools."
+      },
+      {
+        "policyTitle": "Higher Education",
+        "policyDescription": "Keep university education free with no tuition fees or graduate contribution."
+      },
+      {
+        "policyTitle": "Public Services",
+        "policyDescription": "Continue to deliver balanced budgets for Scotland with savings directed to frontline public services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alex Salmond",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "You have two votes for Scotland's election on May 5. Peachi ballot paper."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Help 100,000 Scots get training for work, including a record 25,000 modern apprenticeships. Secure 130,000 jobs in the low carbon economy by 2020.",
+      "education": "Reduce by half the number of Scottish pupils taught in crumbling schools. Keep university education free with no tuition fees or graduate contribution.",
+      "environment": "Secure 130,000 jobs in the low carbon economy by 2020.",
+      "governance": "Enable the people to decide our nation's future in an independence referendum.",
+      "health": "Win the 1000 extra police on our streets, ensuring waiting times are shorter and treatment improves.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Invested £697 million in housing, and are completing the M74 motorway - bringing new jobs and helping local regeneration.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "First Minister",
+        "duration": "",
+        "achievements": "Delivered real progress. Council tax has been frozen, prescription charges abolished and free higher education restored. Funded the new South Glasgow Hospital, secured higher funding for Glasgow than any other Scottish city, protected the free bus pass, invested £697 million in housing, and are completing the M74 motorway."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      
+    ],
+    "quotes": [
+      {
+        "text": "Together, we can make Scotland better.",
+        "source": "Alex Salmond",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "SNP leaflet with campaign promises and a personal message from Alex Salmond."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

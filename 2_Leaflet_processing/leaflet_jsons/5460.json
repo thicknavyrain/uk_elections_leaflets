@@ -1,0 +1,68 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Bob Stewart",
+    "constituency": "Beckenham",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "I am sorry that I missed seeing you earlier today. Should you want to contact me, please do so. If I cannot speak to you immediately, I will get back to you as soon as possible."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Bob Stewart",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "3 POSITIVE REASONS TO VOTE FOR BOB STEWART\n1. He is highly experienced and used to making weighty and highly moral decisions under pressure.\n2. He is married with four children of school age, so understands the real problems facing families today.\n3. He is a proven leader who has spent most of his adult life serving his country as an Army officer.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "31 Beckenham Road, Beckenham, BR3 4PR",
+      "phone": "020 8650 1944",
+      "email": "office@beckenhamconservatives.com",
+      "website": "www.beckenhamconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Cameron",
+        "endorsement": "We can't go on like this. We need change to put Britain back on its feet."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Bob Stewart and his team called to see you today"
+        }
+      ]
+    },
+    "additionalNotes": "VOTE FOR CHANGE"
+  }
+}
+```

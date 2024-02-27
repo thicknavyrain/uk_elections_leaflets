@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mike Smith",
+    "constituency": "Gloucester",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Take everyone off income tax who is on minimum wage or below. Take our troops back. 40,000 soldiers, sailors, and airmen with proper equipment. Pay, and after care. Protect British public. UKIP speaks and the press disrespects the British public."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Take everyone off income tax who is on minimum wage or below."
+      },
+      {
+        "policyTitle": "Defense",
+        "policyDescription": "Take our troops back. 40,000 soldiers, sailors, and airmen with proper equipment. Pay, and after care."
+      },
+      {
+        "policyTitle": "Public Safety",
+        "policyDescription": "Protect British public."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mike Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Gloucester City Councillor",
+        "duration": "3 years",
+        "achievements": "Born and educated in Gloucester. Has served as a city councillor."
+      }
+    ],
+    "contactInformation": {
+      "address": "Published & promoted by G. Elsom on behalf of M. Smith (UKIP), both at.. [incomplete]",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Only UKIP speaks and the press disrespects the British public.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Mike Smith"
+        }
+      ]
+    },
+    "additionalNotes": "Election communication for the UK Independence Party."
+  }
+}
+```

@@ -1,0 +1,114 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kirsty Williams",
+    "constituency": "South Wales East Region",
+    "politicalParty": "Welsh Liberal Democrats",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "My noticeboard",
+        "content": "Kirsty Williams and Veronica German will make the Welsh Government work for the people of Wales - on the issues that really matter."
+      },
+      {
+        "title": "Our NHS needs the Lib Dems",
+        "content": "Kirsty Williams and the Lib Dems have delivered a law to increase nursing numbers."
+      },
+      {
+        "title": "Welsh Lib Dems will deliver",
+        "content": "Welsh Lib Dems will deliver a Wales that works for YOU!"
+      },
+      {
+        "title": "STOP PRESS",
+        "content": "Labour voters who know Labour can't win more seats in the regional list are lending their vote to the Lib Dems to stop UKIP outsiders winning here."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Reducing infant class sizes, giving teachers the time they need to spend with each child."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Delivering more nurses - bringing safe nursing levels into law, meaning more time for patients. Positive plans for our NHS, more nurses, an end to mental health discrimination, improved access to your GP."
+      },
+      {
+        "policyTitle": "Industry",
+        "policyDescription": "Saving our steel industry - ensuring plants are kept open while a long-term solution is found, and backing EU action against the dumping of steel."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Protecting our environment - Saying NO to opencast mining, YES to Wales producing 100% of its electricity from renewables by 2030."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kirsty Williams",
+      "otherPartyLeaderCandidate": "Labour criticized for not taking action, Tory Health spokesperson Darren Millar",
+      "partyLeader": "",
+      "tacticalSituation": "Labour voters lending their vote to the Lib Dems to stop UKIP outsiders winning."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Lib Dems have positive plans to tackle the problems my family faces.",
+      "education": "Smaller class sizes needed.",
+      "environment": "Protecting our environment - Saying NO to opencast mining, YES to Wales producing 100% of its electricity from renewables by 2030.",
+      "governance": "",
+      "health": "Lib Dems have positive plans for our NHS - more nurses, an end to mental health discrimination, improved access to your GP.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "The Welsh Assembly",
+        "duration": "",
+        "achievements": "Kirsty Williams and Veronica German will make the Welsh Government work for the people of Wales - on the issues that really matter."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.welshlibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Wales has fallen behind the rest of the UK significantly in reading, maths and science for the third time.",
+        "source": "BBC, Dec 2013",
+        "date": "December 2013"
+      },
+      {
+        "text": "NHS Wales: Waiting times worse than in England.",
+        "source": "BBC, Jan 2016",
+        "date": "January 2016"
+      },
+      {
+        "text": "Labour blasted for not taking action earlier to protect steel industry.",
+        "source": "Wales Online, Feb 2016",
+        "date": "February 2016"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Severing bridge tolls - Lib Dems will ensure the Severn Bridge tolls need to be completely scrapped when the bridge owns them."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kate Sweeney",
+    "constituency": "Calder Valley",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "FAIR IS WORTH FIGHTING FOR",
+        "content": "Kate Sweeney has been a committed, non-driving environmentalist for more than 20 years and has 26 years experience as an NHS Speech and Language Therapist. 'Protecting and enhancing the NHS will always be one of my personal priorities' says Kate."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A 'Living Wage' for all",
+        "policyDescription": "Green MPs will demand a 'Living Wage' to ensure low paid workers earn enough to provide for themselves and their families. They will fight for a fair financial deal, with community banks, credit unions and mutuals providing realistic loans to families and small businesses."
+      },
+      {
+        "policyTitle": "A million new jobs",
+        "policyDescription": "Green MPs will press for a free insulation scheme for every single home to cut fuel bills and create a million new jobs. Green Party councils have already pioneered such a scheme in Kirklees."
+      },
+      {
+        "policyTitle": "Protect our NHS",
+        "policyDescription": "Green MPs will fight to make sure local services are easy to access and are truly local. We will oppose cuts, closures and privatisation within our NHS and protect the jobs of public sector workers."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kate Sweeney",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Green Party leader and MEP Caroline Lucas",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protecting and enhancing the NHS will always be one of my personal priorities.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Kate Sweeney has been a committed, non-driving environmentalist for more than 20 years and has 26 years experience as an NHS Speech and Language Therapist.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "http://calderdale.greenparty.org.uk/",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Green Party - A Living Wage for all"
+        },
+        {
+          "caption": "Green Party - A million new jobs"
+        },
+        {
+          "caption": "Green Party - Protect our NHS"
+        }
+      ]
+    },
+    "additionalNotes": "For more information go to www.greenparty.org.uk. Printed on 100% recycled paper using sustainable technologies that do not harm the environment."
+  }
+}
+```

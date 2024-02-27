@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Calum Kerr",
+    "constituency": "Berwickshire, Roxburgh and Selkirk",
+    "politicalParty": "SNP",
+    "electionDate": "7th May 2015",
+    "messages": [
+      {
+        "title": "THE SNP CAN WIN",
+        "content": "The borders has suffered under successive Labour and Lib Dem coalitions at Scottish borders council. Now we face the threat of a Tory government in London."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Cutting unemployment and attracting better jobs and investment."
+      },
+      {
+        "policyTitle": "Rural Connectivity",
+        "policyDescription": "Faster broadband and mobile coverage."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Support for local healthcare services."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Better educational opportunities."
+      },
+      {
+        "policyTitle": "Public Services",
+        "policyDescription": "Protecting our police services and opposing privatisation."
+      }
+    ],
+    "mentions": {
+      "candidate": "Calum Kerr",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nicola Sturgeon",
+      "tacticalSituation": "The tactical vote in this election is for the SNP."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Cutting unemployment and attracting better jobs and investment.",
+      "education": "Better educational opportunities.",
+      "environment": "",
+      "governance": "",
+      "health": "Support for local healthcare services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "It's time for positive change.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "calum@votekerr.win",
+      "website": "www.calumkerr.scot",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "calumkerrSNP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Nicola Sturgeon",
+        "endorsement": "I know Calum will be a strong voice for Berwickshire, Roxburgh & Selkirk."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Calum Kerr working with locals"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet highlights the SNP's record of trust and compares it positively to other parties. It also focuses on Calum Kerr's position as the best choice for the constituency."
+  }
+}
+```

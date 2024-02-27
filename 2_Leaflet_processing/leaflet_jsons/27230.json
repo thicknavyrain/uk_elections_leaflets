@@ -1,0 +1,97 @@
+{
+  "leaflet": {
+	"candidateName": "Colleen Fletcher",
+	"constituency": "Coventry North East",
+	"politicalParty": "Labour Party",
+	"electionDate": "Thursday 8th June",
+	"messages": [
+  	{
+    	"title": "Our pledges to you",
+    	"content": "We will scrap student tuition fees, increase the living wage to £10 an hour and guarantee the triple lock on pensions."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Scrap student tuition fees."
+  	},
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Increase the living wage to £10 an hour."
+  	},
+  	{
+    	"policyTitle": "Social Welfare",
+    	"policyDescription": "Guarantee the triple lock on pensions."
+  	} 
+	],
+	"mentions": {
+  	"candidate": "Colleen Fletcher",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "Jeremy Corbyn",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Increase the living wage to £10 an hour.",
+  	"education": "Scrap student tuition fees.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "Guarantee the triple lock on pensions.",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "I've lived in Coventry all my life. I love our city.",
+	"politicalExperience": [
+  	{
+    	"role": "MP for Coventry North East",
+    	"duration": "Since 2015",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Alex Scott",
+    	"endorsement": "Colleen Fletcher is champion for Coventry North East."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Colleen Fletcher with Jeremy Corbyn"
+    	},
+    	{
+      	"caption": "Better Schools for our Children"
+    	},
+    	{
+      	"caption": "Prosperity for all in a fairer Britain"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

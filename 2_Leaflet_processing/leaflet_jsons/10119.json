@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Walker",
+    "constituency": "Kingston and Surbiton",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "FAIR IS WORTH FIGHTING FOR",
+        "content": "More and more people in Kingston are turning to the Green Party. The Green vote in Kingston shot up in each of the last three elections."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A Living Wage'",
+        "policyDescription": "Support the idea of ensuring a minimum living wage for all to help tackle the difference between rich and poor."
+      },
+      {
+        "policyTitle": "A million new jobs",
+        "policyDescription": "Greener industries will provide more employment."
+      },
+      {
+        "policyTitle": "Protect our NHS",
+        "policyDescription": "Opposing cuts, closures, and privatisation in the service."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Walker",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Greens will ensure a fairer tax mix as well as combating the current financial crisis with monetary policies developed for a fair banks deal.",
+      "education": "",
+      "environment": "Go for zero waste by reducing packaging and introducing eco-taxes, instead of incineration and land fill.",
+      "governance": "",
+      "health": "Green MPs will fight to make sure local services are easy to access and are truly local. We will oppose cuts, closures, and privatisation within our NHS and protect the jobs of public sector workers.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0845 456 8217",
+      "email": "",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cycle Park, but no cycle lane at New Malden Station."
+        },
+        {
+          "caption": "Chris Walker with residents supporting a new cycle lane."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

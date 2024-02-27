@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Palmer",
+    "constituency": "Broxtowe",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Britain faces a clear choice at the next election",
+        "content": "At the next election there will be a clear choice - a recovery that puts people and the NHS first with Labour, or carrying on with a Conservative Government that does not believe wealth should be used wisely."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "The cost-of-living crisis",
+        "policyDescription": "Energy bills frozen until 2017, a new lower rate of starting tax, and an £8 minimum wage."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "8,000 more doctors, 20,000 more nurses, and a guaranteed GP appointment in 48 hours."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Tough new controls to make sure no one who comes to Britain can claim benefits for at least two years."
+      },
+      {
+        "policyTitle": "Backing the next generation",
+        "policyDescription": "A guaranteed job or training for young people out of work for a year, and more apprenticeships."
+      },
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "25 hours free childcare for 3 and 4-year olds with working parents."
+      }
+    ],
+    "mentions": {
+      "candidate": "Only Nick Palmer can beat Anna Soubry here - last time there was just 389 votes between them.",
+      "otherPartyLeaderCandidate": "Under David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The cost-of-living crisis, with policies fixing it with frozen energy bills and raising the minimum wage.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "NHS improvements including more doctors and nurses, and quicker GP appointments.",
+      "immigration": "Immigration controls to prevent new migrants from claiming benefits for two years.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Building 200,000 new homes a year. Creating more apprenticeships, and 8,000 more GPs and 20,000 more nurses.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Normanton House, 1 Firbeck, Nottingham NG5 2LB",
+      "phone": "0115 962 4355",
+      "email": "nick.palmer@broxtowelabour.com",
+      "website": "www.labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Nick Palmer with a brief description of his background and party affiliation."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

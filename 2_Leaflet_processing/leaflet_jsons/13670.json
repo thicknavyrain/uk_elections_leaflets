@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jo Shaw",
+    "constituency": "Camden",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "It's a two horse race here!",
+        "content": "Only hard-working Jo Shaw can beat Labour here. The Tories came a distant third place last time."
+      },
+      {
+        "title": "Fighting for a Fairer Camden",
+        "content": "Jo Shaw and the Lib Dem Team - active on local issues, freezing council tax, saving local hospital services, safer community policing, against the war in Iraq."
+      },
+      {
+        "title": "Putting Camden First",
+        "content": "Delivering Real Change for You - Local health campaigner Jo Shaw vows to keep local Accident & Emergency department open and freeze Council tax. Lib Dems have good track record of action in Camden."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting for a Fairer Camden",
+        "policyDescription": "Jo Shaw and the Lib Dem Team are focused on keeping local hospital services open, fighting for a safer community, freezing council tax, and were against Labour's war in Iraq."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jo Shaw",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": "Jo Shaw is the only candidate that can beat Labour, as Conservatives can't win in Camden."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Lib Dems have frozen Council tax.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Campaign to save local hospital services and keep the Whittington Hospital A&E open.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Jo Shaw is fighting to save local hospital services.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Jo Shaw is a hardworking campaigner, giving the constituency a strong voice.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.Shaw2Win.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "twitter.com/JoShaw",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Jo Shaw - the positive choice",
+        "source": "Campaign Slogan",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images showing Jo Shaw actively engaging with the community and protesting against local hospital closures."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

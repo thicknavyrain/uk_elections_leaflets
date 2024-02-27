@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stephen Barber",
+    "constituency": "Chipping Barnet",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The Lib Dem difference",
+        "content": "The Liberal Democrats will take frontline action to protect frontline NHS services. We will put more police on patrol, restore the pensions' earnings link and deliver fair pay for the armed forces. We can make this pledge because we have identified real savings to pay for it. The Lib Dems are the only party with a plan to balance the country's books after the recession."
+      },
+      {
+        "title": "Change that works for you",
+        "content": "OUR NHS: At risk with the Conservatives. Tory Health spokesman accepted £21,000 donation from private health firm boss. David Cameron meets NHS privatisation campaigners. Key Tory MPs backed call to dismantle NHS."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fair taxes",
+        "policyDescription": "Nick Clegg’s tax plan means that you will pay no tax on the first £10,000 you earn – cutting most tax bills by £700."
+      },
+      {
+        "policyTitle": "Collaboration with Local Council",
+        "policyDescription": "He will work with the Liberal Democrat Councillors on Barnet Council to: prevent development on Green Belt land, provide solar panels on public buildings, stop the Conservative plan to scrap the sheltered housing warden service."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stephen Barber",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Lib Dems are the only party with a plan to balance the country's books after the recession.",
+      "education": "",
+      "environment": "Prevent development on Green Belt land, provide solar panels on public buildings.",
+      "governance": "",
+      "health": "OUR NHS: At risk with the Conservatives. The Liberal Democrats will take frontline action to protect frontline NHS services.",
+      "immigration": "",
+      "socialWelfare": "We will put more police on patrol, restore the pensions' earnings link and deliver fair pay for the armed forces.",
+      "housing": [
+        {
+          "content": "Stop the Conservative plan to scrap the sheltered housing warden service.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "university academic",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Barnet Liberal Democrats FREEPOST RRUL-CAJZ-YGLY, 9 Leeside, Barnet, EN5 2PD",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Tory Health spokesman accepted £21,000 donation from private health firm boss",
+        "source": "Daily Mail, Jan 2010"
+      },
+      {
+        "text": "We've lived with this mistake for 60 years now ... The reality [is it the NHS] hasn’t worked - it has made people iller",
+        "source": "Senior Conservative MEP Dan Hannan, Summer 2009"
+      },
+      {
+        "text": "David Cameron meets NHS privatisation campaigners",
+        "source": "Daily Telegraph, Dec 2009"
+      },
+      {
+        "text": "Key Tory MPs backed call to dismantle NHS",
+        "source": "The Guardian, Summer 2009"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liberal Democrats are winning for Britain"
+        },
+        {
+          "caption": "Help the Lib Dems win"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

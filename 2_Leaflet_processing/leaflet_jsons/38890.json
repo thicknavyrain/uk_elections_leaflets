@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jeff Smith",
+    "constituency": "Manchester Withington",
+    "politicalParty": "Labour",
+    "electionDate": "December 2019",
+    "messages": [
+      {
+        "title": "This General Election",
+        "content": "This General Election will be a big moment for our country. Over the last decade we've seen the country go in the wrong direction: there have been too many cutbacks in essential public services and too many people dependant on food banks to get by. Brexit would only make things worse, and I'm committed to campaigning for 'remain' in a future vote on a Brexit deal – which only a Labour government can guarantee.\n\nVoting Tory or Lib Dem is a vote for more of the same. Labour offers this country the change it needs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Final Say on Brexit Deal",
+        "policyDescription": "Committed to campaigning for 'remain' in a future vote on a Brexit deal"
+      },
+      {
+        "policyTitle": "Housing for All",
+        "policyDescription": "1 million new houses and more protection for renters"
+      },
+      {
+        "policyTitle": "Green Industrial Revolution",
+        "policyDescription": "Investment in new green industries to create thousands of high-skilled jobs and help stop climate change"
+      },
+      {
+        "policyTitle": "Public Safety",
+        "policyDescription": "Labour will reverse the cuts. Gtr Mcr Police have lost 2000 officers since 2010"
+      },
+      {
+        "policyTitle": "Protect our NHS",
+        "policyDescription": "The proper investment our health service needs, and we'll stop any Trump style trade deal that sells off our services"
+      }
+    ],
+    "mentions": {
+      "candidate": "Jeff Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Voting Tory or Lib Dem is a vote for more of the same."
+    },
+    "issues": {
+      "brexitEurope": "Committed to campaigning for 'remain' in a future vote on a Brexit deal",
+      "economy": "",
+      "education": "",
+      "environment": "Investment in new green industries to create thousands of high-skilled jobs and help stop climate change",
+      "governance": "",
+      "health": "The proper investment our health service needs, and we'll stop any Trump style trade deal that sells off our services",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "1 million new houses and more protection for renters",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "It's been an honour to represent my home community as your MP since 2015, and to help thousands of constituents with problems and queries.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "since 2015",
+        "achievements": "Representing home community and helping thousands of constituents with problems and queries"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0161 445 0678 or 07470 514816",
+      "email": "jeff@jeffsmith2019.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      
+    ],
+    "quotes": [
+      
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour Parliamentary Candidate for Manchester Withington"
+        }
+      ]
+    },
+    "additionalNotes": "Polling stations are open from 7am to 10pm (and remember, you don’t need your polling card to vote).\n\nIf you'd like a lift to the polling station (and back!) on Thursday 12th, we'll be happy to send a car at a time to suit you. Just call us on 0161 445 0678 or 07470 514816, or email jeff@jeffsmith2019.org."
+  }
+}
+```

@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sal Brinton",
+    "constituency": "Watford",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Change that works for you",
+        "content": "Sal Brinton talks about local people's feelings of frustration, ignorance, and anger at how the country is run. The message emphasizes the opportunity for real change with a Liberal Democrat MP."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Plans to invest in a new hospital and to get more resources for hardworking medical staff. Aims to work to get more school places and smaller class sizes in local schools."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Calls for a focus on creating jobs for people in their local town, not just in the city."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Wants to increase the number of school places and reduce class sizes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sal Brinton",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The leaflet portrays a tactical situation suggesting that only the Lib Dems or Labour can win in Watford and that voting Conservative would only help re-elect a Labour MP."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Mentions the desire for economic policies that benefit locals, rather than focusing only on the city.",
+      "education": "Advocates for more school places and smaller class sizes.",
+      "environment": "",
+      "governance": "",
+      "health": "Emphasizes the need for a new hospital and better resources for medical staff.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "No specific policies on housing mentioned in the leaflet.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Sal Brinton promises to be a different kind of MP, one who listens and speaks up on behalf of constituents.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Sal Brinton's HQ, Unit 27 Empire Centre, Imperial Way, Watford, WD24 4YH",
+      "phone": "01923 606234",
+      "email": "",
+      "website": "www.salbrinton.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Sal Brinton with the text 'Change that works for you' and various campaign slogans and contact information."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

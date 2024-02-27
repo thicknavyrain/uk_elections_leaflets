@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Bob Russell",
+    "constituency": "Castle Ward",
+    "politicalParty": "Lib Dem",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "DON'T LET THE TORIES CONCRETE OVER COLCHESTER",
+        "content": "Feel that our town deserves better? ARE YOU FED UP WITH POTHOLES RUINING ROADS?"
+      },
+      {
+        "title": "Bob Russell will always stand up for our NHS",
+        "content": "Bob Russell and all the Lib Dems are 100% committed to our NHS. They are opposed to the Conservative's 'Hospital at Home' policy."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Committed to fighting against 'Hospital at Home' policy and keeping the existing Accident & Emergency services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Bob Russell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "It's so close here"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Committed to our NHS and opposed to 'Hospital at Home' policy.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Opposed to Tories concreting over Colchester, feel that our town deserves better.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Bob Russell has a record of action. A promise of more...",
+    "politicalExperience": [
+      {
+        "role": "former MP for Colchester",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "bobrussellathome@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "https://twitter.com/Bob4Colchester",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Bob Russell has earned the right to be re-elected - Colchester deserves a Local MP",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Local action against pot-holes"
+        },
+        {
+          "caption": "Bob Russell - always standing up for our NHS"
+        }
+      ]
+    },
+    "additionalNotes": "Recent opinion polls suggest it's a close race in the Castle Ward with Lib Dem leading at 48% and Conservatives at 33%."
+  }
+}
+```

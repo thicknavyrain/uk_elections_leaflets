@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Canvin, Tom Papworth",
+    "constituency": "Crystal Palace ward",
+    "politicalParty": "Lib Dem",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "A Fairer Future for Crystal Palace",
+        "content": "Lib Dem councillors John Canvin and Tom Papworth are putting our local environment at the heart of the coming election campaign."
+      },
+      {
+        "title": "Don't grow old in Tory Bromley",
+        "content": "Bromley Council named one of eight worst councils for adult social care services by 'Counsel and Care', a charity for the welfare of older people."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "Will keep Council Tax down and ensure that unused money is returned to taxpayers rather than being buried in the council bank account."
+      },
+      {
+        "policyTitle": "A greener Bromley",
+        "policyDescription": "For all of us goals: We will have Tory policies that are friendly and more towards the green and to ensure the West is in play, supporting the stronger EU deposit result."
+      },
+      {
+        "policyTitle": "A safer, sure-start Bromley",
+        "policyDescription": "Will ensure fair deal, help prevent knife crime, and support Sure Start Health centres."
+      },
+      {
+        "policyTitle": "A thriving business community",
+        "policyDescription": "Will work with local businesses to attract more shoppers."
+      },
+      {
+        "policyTitle": "Decent transport for all",
+        "policyDescription": "Will push hard for real improvements to the rail and bus service throughout the borough."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Canvin, Tom Papworth",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Alex Feakes",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Lib Dem councillors John Canvin and Tom Papworth are putting our local environment at the heart of the coming election campaign.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Bromley Council named one of eight worst councils for adult social care services by 'Counsel and Care', a charity for the welfare of older people.",
+      "housing": [
+        {
+          "content": "Cllr Tom Papworth has persuaded Bromley Council to put pressure on landlords to clean up their property, following complaints from residents of Anley Vale and Anerley Grove about overflowing bins and fly-tipping on waste land.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Cllr",
+        "duration": "",
+        "achievements": "Cllr John Canvin has been leading a campaign to encourage dog owners to clean up after their pets. Cllr Tom Papworth has persuaded Bromley Council to put pressure on landlords to clean up their property, following complaints from residents of Anley Vale and Anerley Grove about overflowing bins and fly-tipping on waste land."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "tom.papworth@bromley.gov.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lib Dem councillors John Canvin and Tom Papworth."
+        },
+        {
+          "caption": "Cllr John Canvin has been leading a campaign to encourage dog owners to clean up after their pets."
+        },
+        {
+          "caption": "Cllr Tom Papworth joined the 'Friends of the Park' cleanup initiative."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

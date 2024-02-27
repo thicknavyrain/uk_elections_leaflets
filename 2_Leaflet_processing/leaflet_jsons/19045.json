@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rushanara Ali",
+    "constituency": "East End",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Uniting for a stronger East End",
+        "content": "I'll unite our community for a fairer, safer and stronger East End... a place with better housing, greater opportunity and a reliable NHS."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "End the scandal of housing, get better protection for renters, scrap the bedroom tax."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Invest an extra £2.5 billion, train 20,000 more nurses and 8,000 new doctors."
+      },
+      {
+        "policyTitle": "Living Wage",
+        "policyDescription": "Raise the minimum wage to £8/hour and end exploitative zero-hour contracts."
+      },
+      {
+        "policyTitle": "Community",
+        "policyDescription": "Work for safer, greener and cleaner communities, improve rubbish collection and recycling, reduce carbon emissions."
+      },
+      {
+        "policyTitle": "Youth",
+        "policyDescription": "Invest in schools, cut tuition fees and guarantee a job or training for young people out of work for over a year."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rushanara Ali",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Work to reduce carbon emissions.",
+      "governance": "",
+      "health": "Invest an extra £2.5 billion into NHS, train more nurses and doctors.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "End the scandal of housing, better protection for renters, scrap the bedroom tax.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Since being elected in 2010, I have been proud to represent the area I grew up in.",
+    "politicalExperience": [
+      {
+        "role": "MP for East End",
+        "duration": "Since 2010",
+        "achievements": "Secured funding for better housing, schools, and health; campaigned for social issues; opposed government cuts affecting local services; advocated for international cooperation on climate change; united people for remittance giving; campained for public recognition of Palestinian statehood; advocated for improvements in governance."
+      }
+    ],
+    "contactInformation": {
+      "address": "349 Cambridge Heath Road, London, E2 9RA",
+      "phone": "Call: 0207 729 6562 or Text: 8585 to 88055",
+      "email": "rushanara@labour.org.uk",
+      "website": "www.rushanara4labour.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "rushanaraali",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Rushanara Ali with local people and community efforts."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,73 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday",
+    "messages": [
+      {
+        "title": "WARNING",
+        "content": "DON’T HELP HAND THE KEYS OF DOWNING STREET TO DAVID CAMERON. Only Labour can stop the Tories. Only Labour is fighting to protect your family. Staying at home, voting Lib Dem or any other party, will let the Tories win."
+      },
+      {
+        "title": "",
+        "content": "Vote Lib Dem or stay at home and you risk a Tory Government. Only Labour can beat the Tories."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "David Cameron, Nick Clegg",
+      "partyLeader": "",
+      "tacticalSituation": "Many think voting Lib Dem is a safe option - but Nick has refused to rule out backing the Tories in a hung Parliament."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "And, like the Tories, the Lib Dems would cut Child Tax Credits and Child Trust Funds.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "The Lib Dems want an amnesty for illegal immigrants.",
+      "socialWelfare": "The Tories and Lib Dems offer a coalition of cuts for our kids.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Nick Clegg goes public on coalition - and looks to the Conservatives.",
+        "source": "The Guardian",
+        "date": "25 April 2010"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Labour on Thursday"
+        }
+      ]
+    },
+    "additionalNotes": "Vote Labour will fight for your family's future."
+  }
+}
+```

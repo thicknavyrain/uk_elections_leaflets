@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Emily Thornberry",
+    "constituency": "Islington South & Finsbury",
+    "politicalParty": "Labour",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "Labour in Government means:",
+        "content": "World class health care, All secondary schools in Islington South being re-built, Working tax credits, flexible working, maternity/paternity leave, Freedom Pass - greater participation in law by Labour since 1999, Safer Neighbourhood police in every area"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Services",
+        "policyDescription": "Fighting for local services, lobbied Ministers to save Essex Road Post Office, persuaded the Health Secretary to rebuild Barts Hospital, and now fighting for Whittington's A&E."
+      },
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Sponsoring the Climate Change Bill, against Trident."
+      }
+    ],
+    "mentions": {
+      "candidate": "Emily Thornberry",
+      "otherPartyLeaderCandidate": "Nick Clegg, Tories first about the formation of a minority government",
+      "partyLeader": "",
+      "tacticalSituation": "The Guardian implies that most likely voters switching from Labour would put Cameron into No 10."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "World class health care",
+      "immigration": "",
+      "socialWelfare": "Working tax credits, flexible working, maternity/paternity leave",
+      "housing": [
+        {
+          "content": "Freedom Pass - greater participation in law by Labour since 1999",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm a strong and independent voice. I've been called \"squeaky clean\" on expenses. I believe MPs must serve their communities first.",
+    "politicalExperience": [
+      {
+        "role": "MP for Islington South & Finsbury",
+        "duration": "Since 2005",
+        "achievements": "Helped over 20,000 people, arguing for more affordable Government, sponsoring the Climate Change Bill, fighting against Trident, preserving local services."
+      }
+    ],
+    "contactInformation": {
+      "address": "65 Barnsbury Street, London, N1 1EJ",
+      "phone": "",
+      "email": "",
+      "website": "IslingtonLabour",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Local residents",
+        "endorsement": "We're voting for Emily Thornberry"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Nick Clegg goes public on coalition - and looks to the Conservatives. Lib Dem leader signalled that he would speak to Tories first about the formation of a minority government",
+        "source": "The Guardian front page, April 26, 2010",
+        "date": "April 26, 2010"
+      },
+      {
+        "text": "A Conservative-Lib Dem coalition is most likely. Labour voters switching to Lib Dem would put Cameron into No 10",
+        "source": "Jackie Ashley, Guardian comment, April 26, 2010",
+        "date": "April 26, 2010"
+      },
+      {
+        "text": "In the Sunday Times interview, the Lib Dem leader revealed he would support the Tories",
+        "source": "Sunday Times editorial, April 25, 2010",
+        "date": "April 25, 2010"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Local residents showing support."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

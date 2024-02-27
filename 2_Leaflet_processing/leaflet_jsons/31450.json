@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mims Davies",
+    "constituency": "Mid Sussex",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12th December",
+    "messages": [
+      {
+        "title": "A strong local voice for Mid Sussex",
+        "content": "Help Mims Davies deliver her plan for Mid Sussex."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education Funding",
+        "policyDescription": "Secure more funding for Mid Sussex's schools and support the sixth form college."
+      },
+      {
+        "policyTitle": "Healthcare Support",
+        "policyDescription": "Back our local NHS and improve access to GP and dentist appointments."
+      },
+      {
+        "policyTitle": "Infrastructure Improvements",
+        "policyDescription": "Campaign for improvements to Mid Sussex's infrastructure to relieve road and rail congestion."
+      },
+      {
+        "policyTitle": "Support Local Businesses",
+        "policyDescription": "Support local businesses, ensuring Mid Sussex has more high quality local jobs."
+      },
+      {
+        "policyTitle": "Crime Reduction",
+        "policyDescription": "Cut crime by ensuring Sussex Police receives its share of the 20,000 new police officers."
+      },
+      {
+        "policyTitle": "Environment and Climate Change",
+        "policyDescription": "Protect and enhance the environment and tackle climate change."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mims Davies",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Secure more funding for Mid Sussex's schools and support the sixth form college.",
+      "environment": "Protect and enhance the environment and tackle climate change.",
+      "governance": "",
+      "health": "Back our local NHS and improve access to GP and dentist appointments.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mims Davies with a group of supporters holding Conservative party signs."
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by Claire Fussell, on behalf of Mims Davies."
+  }
+}
+```

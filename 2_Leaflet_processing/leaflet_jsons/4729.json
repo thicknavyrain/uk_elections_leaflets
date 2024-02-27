@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Vince Cable",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Let's get Britain on the road to recovery",
+        "content": "Our economy is in a fragile state. Labour's failed economic policies has put many people out of work and have left millions struggling to get by. At the election it’s up to you to decide who will deliver real change for you and your family. In many areas that choice is between the Liberal Democrats and Labour. The Conservatives are out of the running and can’t win in many parts of Britain. After thirteen years of disappointment and failure, you’ve seen what Labour can do."
+      },
+      {
+        "title": "Real change that works for you",
+        "content": "Only Nick Clegg’s Liberal Democrats are offering a different approach. As Chancellor of the Exchequer, I would move immediately to get the banks lending to small businesses to help create jobs. We will break up the banks to protect savers from risky banking bets and ensure fairer tax for lower paid people. That’s the choice before you. You can have real change and recovery with the Liberal Democrats, or more years of failure with Labour. Please do give us your support."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy and Banking",
+        "policyDescription": "Liberal Democrats plan to get banks lending to small businesses to help create jobs, break up the banks to protect savers from risky bets, and ensure a fairer tax for lower paid people."
+      }
+    ],
+    "mentions": {
+      "candidate": "Vince Cable",
+      "otherPartyLeaderCandidate": "Gordon Brown, David Cameron, George Osborne",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "The Conservatives can't win in many areas of Britain and are out of the running, making it a choice between the Liberal Democrats and Labour."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour's failed economic policies have put many people out of work and have left millions struggling to get by.",
+      "education": "After thirteen years of Labour, too many children still leave school without the skills and qualifications they need to succeed in life.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Pensioners left struggling in the cold due to Labour's policies; Liberals offer dignity and security in retirement.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Chancellor of the Exchequer for the Liberal Democrats",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Cowley Street London, SW1P 3NB",
+      "phone": "",
+      "email": "",
+      "website": "www.libdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The Conservatives can't win in many areas of Britain. For real change, fairer taxes and a strong economy, make sure you back the Liberal Democrats on election day.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Troops left to buy their own equipment"
+        },
+        {
+          "caption": "Pensioners left struggling in the cold"
+        },
+        {
+          "caption": "Our children deprived of opportunity"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

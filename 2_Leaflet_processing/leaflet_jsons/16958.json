@@ -1,0 +1,62 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Election Special",
+        "content": "Many people find they need the help and support of their MP, so it's important to know you've got a local representative who really cares."
+      },
+      {
+        "title": "His track record of action speaks for itself.",
+        "content": "Everyone knows someone David has helped."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "David",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Everyone knows someone David has helped."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

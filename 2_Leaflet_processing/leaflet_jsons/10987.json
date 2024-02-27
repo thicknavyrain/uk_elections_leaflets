@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ed Fordham",
+    "constituency": "Hampstead and Kilburn",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "It’s YOUR choice",
+        "content": "Dear residents, Whatever your issue or political opinion, I want to serve as your local Member of Parliament. I don’t want to go to the House of Commons for the status or the job security. I want to represent the area and work hard all year round for local residents. Thank you, Ed Fordham"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Ed Fordham agrees with Vince Cable - we need fairer taxes and strong action to build a more sustainable economy."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Passionate about education - a school governor at Hampstead School, Phoenix and UCS (Frognal)."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Serious about tackling climate change and for more social responsibility on the environment."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Opposed Labour's illegal war in Iraq, and has worked hard to reach out to international community groups here in Hampstead and Kilburn."
+      },
+      {
+        "policyTitle": "Community Development",
+        "policyDescription": "Exposed the plans to sell off Hampstead Police Station and fight against prostitution and illegal DVD trading on the Kilburn High Road. Champions our local green spaces."
+      },
+      {
+        "policyTitle": "Public Services",
+        "policyDescription": "Campaign against Post Offices closures and stood up for traders over weekend tube closures."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ed Fordham",
+      "otherPartyLeaderCandidate": "Labour and the Tories",
+      "partyLeader": "Liberal Democrat leader Nick Clegg",
+      "tacticalSituation": "Labour and the Tories say that the Lib Dems can't win here... but Ed Fordham’s Liberal Democrats are the bookies favourites to win!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Agrees with Vince Cable - we need fairer taxes and strong action to build a more sustainable economy.",
+      "education": "Passionate about education - a school governor at Hampstead School, Phoenix and UCS (Frognal).",
+      "environment": "Serious about tackling climate change and for more social responsibility on the environment.",
+      "governance": "Opposed Labour's illegal war in Iraq, and has worked hard to reach out to international community groups here in Hampstead and Kilburn.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Works with local traders",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Nick Clegg",
+        "endorsement": "I’m backing my friend Ed Fordham to be the next MP for Hampstead and Kilburn."
+      },
+      {
+        "endorser": "Howard Dean",
+        "endorsement": "Former American governor Howard Dean, a key figure in Barack Obama’s 2008 election, backs Ed Fordham's work as extraordinary and compared his work to that of the American president"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour and the Tories say that the Lib Dems can't win here... but Ed Fordham’s Liberal Democrats are the bookies favourites to win!",
+        "source": "Campaign leaflet description of betting odds",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ed Fordham speaking into a microphone."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

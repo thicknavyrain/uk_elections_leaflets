@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jake Bowers",
+    "constituency": "Hastings and Rye",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "VOTE GREEN FOR THE COMMON GOOD",
+        "content": "On May 7th, the people of Hastings and Rye have an opportunity to change the way they are governed forever. As Britain heads for a hung parliament and the old two-party system crumbles, thousands of people are rejecting the politics of the past and going green. They are opting for hope, rejecting hatred and fear, and finally voting for what they truly believe in."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "PUBLIC NHS",
+        "policyDescription": "Taking back our health service"
+      },
+      {
+        "policyTitle": "FAIR ECONOMY",
+        "policyDescription": "An economy that works for all"
+      },
+      {
+        "policyTitle": "DECENT HOMES",
+        "policyDescription": "Secure, affordable housing"
+      },
+      {
+        "policyTitle": "SAFE CLIMATE",
+        "policyDescription": "Fossil free, affordable energy"
+      },
+      {
+        "policyTitle": "FREE EDUCATION",
+        "policyDescription": "Quality education, no tuition fees"
+      },
+      {
+        "policyTitle": "BETTER TRANSPORT",
+        "policyDescription": "Making public transport public"
+      }
+    ],
+    "mentions": {
+      "candidate": "Jake Bowers",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "By ensuring that everyone has access to a secure job that pays at least the Living Wage we will build an economy that works for the common good, not just the privileged few. By restoring public services to public hands we will ensure they are run in the interests of the people that use them.",
+      "education": "Quality education, no tuition fees",
+      "environment": "Fossil free, affordable energy",
+      "governance": "",
+      "health": "Taking back our health service",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Secure, affordable housing",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "local blacksmith and journalist",
+        "duration": "",
+        "achievements": "Desires a fairer transformation for Hastings and Rye by becoming their first Green MP. Unrestrained by party whips or tycoons bound to big businesses in London, he needs your vote to finally make sure Westminster starts working for all people."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07949 308301",
+      "email": "contactus@hastingsgreenparty.org.uk",
+      "website": "www.jakebowers.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Green Party flyer featuring candidate Jake Bowers for Hastings and Rye constituency"
+        }
+      ]
+    },
+    "additionalNotes": "Vote for Green Party of England & Wales and you can help us build a society that works for the Common Good."
+  }
+}
+```

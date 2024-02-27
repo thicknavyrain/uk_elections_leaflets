@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Festus AKINBUSOYE",
+    "constituency": "West Ham",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A strong voice for West Ham",
+        "content": ""
+      },
+      {
+        "title": "Competent leadership or Coalition of Chaos",
+        "content": ""
+      },
+      {
+        "title": "A better future for you, your family and Britain",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "JOBS",
+        "policyDescription": "Promote the constituency as a great place for businesses to invest and establish."
+      },
+      {
+        "policyTitle": "CRIME",
+        "policyDescription": "Work closely with local law enforcement agencies to tackle anti-social behaviour."
+      },
+      {
+        "policyTitle": "HOUSING",
+        "policyDescription": "Ensure need for affordable housing are met for the benefit of local residents."
+      }
+    ],
+    "mentions": {
+      "candidate": "Festus Akinbusoye",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Tax cuts for workers and savers. Job total hits record high while wages surge.",
+      "education": "",
+      "environment": "",
+      "governance": "The deficit down. Income tax cut. More jobs. New businesses.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Benefits cap 'leads more into work'.",
+      "housing": [
+        {
+          "content": "Ensure need for affordable housing are met for the benefit of local residents.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.fest4westham.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Festus Akinbusoye interacting with constituents"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet compares the candidate's party's Competent leadership with the opposition Labour's Coalition of Chaos."
+  }
+}
+```

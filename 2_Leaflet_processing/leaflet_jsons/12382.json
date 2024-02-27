@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Real change for you",
+        "content": "Britain can't go on with more years of sleaze and corruption under Labour. All parties say they want to change things, but actions speak louder than words. When the Liberal Democrats put forward plans to clean up Parliament, Labour and Conservative MPs voted them down. Britain needs a change and only the Liberal Democrats can deliver that change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Clean up Parliament",
+        "policyDescription": "Giving you the power to sack corrupt MPs, stopping MPs being bought by millionaire and billionaire donors, and making politicians work for the people again."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Lord Ashcroft",
+      "partyLeader": "",
+      "tacticalSituation": "Don't forget, in many areas, the choice is between the Lib Dems and the Conservatives"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Plans to clean up Parliament voted down by Labour and Conservative MPs, highlighting the need for real change in governance.",
+      "health": "NHS not safe in their hands - A top Conservative has described the NHS as a sixty year mistake, just a few months ago. David Cameron met with NHS privatisation campaigners.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Cowley Street, London, SW1P 3NB",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Only the Liberal Democrats will deliver real change after years of Labour failure.",
+        "source": "Campaign Slogan",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Does anyone know what the Conservatives stand for any more?"
+        },
+        {
+          "caption": "Bankrolled by billionaires and city bankers"
+        },
+        {
+          "caption": "Failed us on MPs' expenses"
+        },
+        {
+          "caption": "NHS not safe in their hands"
+        },
+        {
+          "caption": "Real change for you"
+        },
+        {
+          "caption": "It's YOUR CHOICE Help the Lib Dems win"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Anas Sarwar",
+    "constituency": "Glasgow",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "I want to hear from you",
+        "content": "Anas Sarwar is asking for people's contact information to get involved in his local campaign."
+      },
+      {
+        "title": "This Election is a Two-Horse Race. It's Labour or Tory.",
+        "content": "The message emphasizes the choice between Labour and the Tories, suggesting if the Tories are elected they will neglect Glasgow like in the past."
+      },
+      {
+        "title": "Working Hard for Glasgow",
+        "content": "Anas Sarwar pledges to work hard for Glasgow, stand up for local people, and be on your side."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Securing Economic Recovery",
+        "policyDescription": "Offer a 2,500 GBP job guarantee for 18-24 year olds out of work for 6 months."
+      },
+      {
+        "policyTitle": "Protecting Hard Working Families",
+        "policyDescription": "Increase in Working Families Tax Credit, Child Trust Funds, and the reinstatement of the Glasgow Airport Rail Link."
+      },
+      {
+        "policyTitle": "Fair Deal for Pensioners",
+        "policyDescription": "Promote policies like the Winter Fuel Allowance, Cold Weather Payments, Pension Credit, free TV Licenses for over 75s and free bus travel to make life better for pensioners."
+      },
+      {
+        "policyTitle": "Tackling Knife Crime",
+        "policyDescription": "Anyone caught with a knife goes to jail."
+      }
+    ],
+    "mentions": {
+      "candidate": "Anas Sarwar",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "This General Election is crucial for Glasgow, and it will result in either Labour or a Tory Government."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Securing Economic Recovery policy mentions providing job guarantees to tackle economic issues.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Proposed increases in Working Families Tax Credit and Child Trust Funds indicate a focus on social welfare issues.",
+      "housing": [
+        {
+          "content": "Reinstatement of the Glasgow Airport Rail Link could have indirect impacts on housing by improving transportation infrastructure, though this is not directly a housing policy.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Anas is depicted as having local roots and a commitment to the city, aiming to raise his family in Glasgow and being confident in its future, and wanting to be a strong local voice.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Anas Sarwar Campaign Centre, 9 Scotland St, Glasgow, G5 8NB",
+      "phone": "07527 291 898",
+      "email": "anas@campaign.scot",
+      "website": "www.scottishlabour.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/anassarwar",
+        "twitter": "twitter.com/anassarwar",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Mary Moffat",
+        "endorsement": "Labour has made a real difference for pensioners. I don't trust the Tories. Older folk in Glasgow deserve respect and that's why I will be voting for Anas."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour has made a real difference for pensioners. I don't trust the Tories. Older folk in Glasgow deserve respect and that's why I will be voting for Anas.",
+        "source": "Mary Moffat, Local Resident",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Anas Sarwar with a group of supporters, emphasizing his connection with the local community and his campaign's focus on Glasgow's future."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

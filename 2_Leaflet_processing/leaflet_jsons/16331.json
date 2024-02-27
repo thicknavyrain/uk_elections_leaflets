@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "YOUR LOCAL VOTE DELIVERS",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic Policy",
+        "policyDescription": "The deficit down, income tax cut, more jobs, new businesses."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Ed Miliband, Nigel Farage",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "Warning that UKIP will hand keys of No10 to Miliband, poll finds. Ed Miliband refuses to rule out Labour/SNP coalition. Nigel Farage: I'd do a deal with Labour."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The deficit down, more jobs, new businesses.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Don't risk it - only with a Conservative vote can Britain avoid the chaos of a Miliband-led government for the next five years. Britain can't afford it, and you'll have to pay for it.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "YOUR LOCAL VOTE DELIVERS Conservatives: The deficit down, Income tax cut, More jobs, New businesses. Coalition of Chaos OR Spending up, more debt, higher taxes, jobs lost."
+        },
+        {
+          "caption": "Don't risk it - only with a Conservative vote can Britain avoid the chaos of a Miliband-led government for the next five years."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

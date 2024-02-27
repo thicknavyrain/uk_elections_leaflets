@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Nicola Sturgeon",
+	"constituency": "Glasgow",
+	"politicalParty": "SNP",
+	"electionDate": "May 5",
+	"messages": [
+  	  {
+    	"title": "",
+    	"content": "I am writing to ask for your support in the Scottish general election. I have been an MSP in the southside of Glasgow since 2007 and I am standing for re-election on 5 May."
+  	  }
+	],
+	"keyPolicies": [
+  	  {
+    	"policyTitle": "Education",
+    	"policyDescription": "Education should be based on the ability to learn, not the ability to pay. Opposes introduction of tuition fees in Scotland."
+    	  },
+    	  {
+    	    "policyTitle": "Apprenticeships",
+    	    "policyDescription": "Increase the number of apprenticeship places for young people."
+    	  }
+	],
+	"mentions": {
+  	  "candidate": "Nicola Sturgeon",
+  	  "otherPartyLeaderCandidate": "",
+  	  "partyLeader": "Alex Salmond",
+  	  "tacticalSituation": ""
+	},
+	"issues": {
+  	  "brexitEurope": "",
+  	  "economy": "The economic downturn has affected young people.",
+  	  "education": "Abolished Labour's graduate tax, protected the Education Maintenance Allowance, opposes tuition fees, education should be based on ability to learn not ability to pay.",
+  	  "environment": "",
+  	  "governance": "",
+  	  "health": "",
+  	  "immigration": "",
+  	  "socialWelfare": "",
+  	  "housing": [
+    	{
+      	  "content": "",
+      	  "yimbyNimby": "N/A"
+    	}
+  	  ]
+	},
+	"personalStatement": "I am standing for re-election on 5 May.",
+	"politicalExperience": [
+  	  {
+    	"role": "MSP for the southside of Glasgow",
+    	"duration": "since 2007",
+    	"achievements": "Abolished Labour's graduate tax, protected the Education Maintenance Allowance."
+  	  }
+	],
+	"contactInformation": {
+  	  "address": "459 Paisley Road Glasgow G5 8RJ",
+  	  "phone": "07544 254455",
+  	  "email": "nicola.sturgeon@snpg.org",
+  	  "website": "nicolasturgeon.org",
+  	  "socialMedia": {
+    	"facebook": "",
+    	"twitter": "NicolaSturgeon",
+    	"instagram": "",
+    	"linkedin": ""
+  	  }
+	},
+	"endorsements": [
+  	  {
+    	"endorser": "",
+    	"endorsement": ""
+  	  }
+	],
+	"quotes": [
+  	  {
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	  }
+	],
+	"campaignMaterial": {
+  	  "images": [
+    	{
+      	  "caption": "Re-elect NICOLA STURGEON"
+    	}
+  	  ]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "BEWARE BLUKIP",
+        "content": "If they don't want a local Tory win, taking Cameron one seat closer, Labour people and Greens just have to... vote Lib Dem."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Help the Lib Dems cut income tax for low and middle earners."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Help the Lib Dems protect education and spend an extra £8bn on NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "David Cameron, UKIP",
+      "partyLeader": "",
+      "tacticalSituation": "In many places the only way to stop the Tories is to vote Liberal Democrat."
+    },
+    "issues": {
+      "brexitEurope": "Stop the Tories teaming up with UKIP to form a coalition of the Right.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.blukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "If they don't want a local Tory win, taking Cameron one seat closer, Labour people and Greens just have to... vote Lib Dem.",
+        "source": "Polly Toynbee, The Guardian",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "BEWARE BLUKIP"
+        }
+      ]
+    },
+    "additionalNotes": "How can we stop the Tories and build a fairer society? Vote LIB DEM"
+  }
+}
+```

@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rebecca Fraser",
+    "constituency": "Midlothian",
+    "politicalParty": "Scottish Conservative and Unionist",
+    "electionDate": "12th December 2019",
+    "messages": [
+      {
+        "title": "It's going to be very close here.",
+        "content": "A vote for Labour or the Lib Dems will let the SNP win here. Only Rebecca Fraser can stop the SNP here."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Rebecca Fraser",
+      "otherPartyLeaderCandidate": "Nicola Sturgeon's SNP candidate",
+      "partyLeader": "",
+      "tacticalSituation": "It's going to be very close here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "15 Park Road, Eskbank, Dalkeith EH22 3DF",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Your choice at this election: Rebecca Fraser who will stand firm against IndyRef2 or Nicola Sturgeon's SNP candidate and IndyRef2"
+        }
+      ]
+    },
+    "additionalNotes": "Promotion and printing details for campaign leaflet provided."
+  }
+}
+```

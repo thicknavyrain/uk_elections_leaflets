@@ -1,0 +1,119 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "THERESA MAY’S HEARTLESS CUTS LEAVE NHS IN...",
+        "content": "Tory cuts have left NHS on the brink of collapse says “shocking report”."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education and Schools",
+        "policyDescription": "Lib Dems have unveiled plans to invest £6.9bn in schools and colleges, reversing government cuts."
+      },
+      {
+        "policyTitle": "Healthcare and Social Care",
+        "policyDescription": "The Liberal Democrats have pledged to increase Income Tax by a penny for every earner to fund a £6bn-a-year cash injection for the NHS and social care."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": "EVERYONE KNOWS LABOUR CAN'T WIN VOTE LIB DEM TO GET COMMUNITY CHAMPIONS"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The Lib Dems have unveiled plans to invest £6.9bn in schools and colleges, reversing government cuts.",
+      "environment": "",
+      "governance": "",
+      "health": "The Liberal Democrats have pledged to increase Income Tax by a penny for every earner to fund a £6bn-a-year cash injection for the NHS and social care.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Tory cuts have left NHS on the brink of collapse says “shocking report”.",
+        "source": "The Mirror, 13 Oct 2016",
+        "date": "13 Oct 2016"
+      },
+      {
+        "text": "NHS protest: Tens of thousands march against 'hospital cuts'.",
+        "source": "BBC News, 4 Mar 2017",
+        "date": "4 Mar 2017"
+      },
+      {
+        "text": "NHS cuts blamed for 30,000 deaths in new study.",
+        "source": "The Independent, 17 Feb 2017",
+        "date": "17 Feb 2017"
+      },
+      {
+        "text": "Schools face the worst funding cuts in 20 years.",
+        "source": "The Mirror, 17 Mar 2017",
+        "date": "17 Mar 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Theresa May with the caption 'THERESA MAY’S HEARTLESS CUTS LEAVE NHS IN... CRISIS'"
+        },
+        {
+          "caption": "Nurse looking concerned with reports about NHS crisis"
+        },
+        {
+          "caption": "The choice on Thursday 8th June between Liberal Democrat or Conservative MPs"
+        },
+        {
+          "caption": "People holding 'Liberal Democrat' signs"
+        },
+        {
+          "caption": "Jeremy Corbyn with quotes suggesting Labour cannot win"
+        },
+        {
+          "caption": "Text 'MORE CONSERVATIVE MPS WON’T STOP THERESA MAY’S NHS AND SCHOOL CUTS...'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

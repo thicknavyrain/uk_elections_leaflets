@@ -1,0 +1,111 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Meri O'Connell",
+    "constituency": "Reading West",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A Strong voice for Reading",
+        "content": ""
+      },
+      {
+        "title": "ELECTION CHOICE",
+        "content": "Jeremy Corbyn will lose the election. Boris Johnson can't be trusted. Lib Dems CAN WIN for YOU."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "STOP BREXIT",
+        "policyDescription": "Stop Brexit and invest the £50 billion Remain Bonus in public services and tackling inequality."
+      },
+      {
+        "policyTitle": "TACKLE THE CLIMATE EMERGENCY",
+        "policyDescription": "Generate 80% of our electricity from renewables by 2030 and insulate all low-income homes by 2025. We will plant 60 million trees every year to cover 1 million hectares by 2045."
+      },
+      {
+        "policyTitle": "GIVE EVERY CHILD THE BEST START IN LIFE",
+        "policyDescription": "Recruit 20,000 more teachers as part of an extra £10 billion a year for schools."
+      },
+      {
+        "policyTitle": "BUILD A FAIRER ECONOMY",
+        "policyDescription": "Provide free childcare from 9 months and give every adult £10,000 to spend on skills and training throughout their lives."
+      },
+      {
+        "policyTitle": "TRANSFORM OUR MENTAL HEALTH SERVICES",
+        "policyDescription": "Treat mental health with the same urgency as physical health."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Boris Johnson",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": "Only the Lib Dems can beat Leave here!"
+    },
+    "issues": {
+      "brexitEurope": "Stop Brexit.",
+      "economy": "Invest the £50 billion Remain Bonus in public services and tackling inequality.",
+      "education": "Extra £10 billion a year for schools.",
+      "environment": "Generate 80% of our electricity from renewables by 2030, insulate all low-income homes by 2025, plant 60 million trees every year.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Gauke",
+        "endorsement": "I'm impressed by Jo Swinson. I think if I was living in a lot of constituencies I would lend my vote to the Liberal Democrats."
+      },
+      {
+        "endorser": "Ken Clarke",
+        "endorsement": "I'm not sure yet, but I may protest and vote Lib Dem."
+      },
+      {
+        "endorser": "Michael Heseltine",
+        "endorsement": "Millions of Tories will now vote Lib Dem because of Brexit."
+      },
+      {
+        "endorser": "Nick Boles",
+        "endorsement": "Say no to Johnson and Corbyn and all of their candidates. Start the process of building something new."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Meri O'Connell in a park."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

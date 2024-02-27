@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stanley Oram",
+    "constituency": "North West Hampshire",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "SEND THE POLITICIANS A MESSAGE...",
+        "content": "VOTE UKIP"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Say NO to mass immigration"
+      },
+      {
+        "policyTitle": "Referendums",
+        "policyDescription": "Say YES to referendums on all major issues"
+      },
+      {
+        "policyTitle": "EU Spending",
+        "policyDescription": "Say NO to wasting £45 million a day in Brussels"
+      },
+      {
+        "policyTitle": "Local Issues",
+        "policyDescription": "Reduce petrol prices. Increase resources for the Ambulance Service."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stanley Oram",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Reduce petrol prices.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Increase resources for the Ambulance Service.",
+      "immigration": "Say NO to mass immigration",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am an open-minded conservative; I like the status quo but accept that the world changes. I am angered by unfairness, saddened by human misery (especially where children are involved), confounded by incompetent politicians and satisfied by a job well done. The most important things in my life are family and country.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Straight talking. Vote UKIP"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

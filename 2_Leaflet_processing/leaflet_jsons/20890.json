@@ -1,0 +1,117 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stephen Williams",
+    "constituency": "Bristol West",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Who will deliver a fairer tax bill?",
+        "content": "Stephen Williams and the Lib Dems believe that those on minimum wage should pay no income tax. Lib Dems in government have already cut taxes for low and middle earners by £800 a year."
+      },
+      {
+        "title": "WARNING",
+        "content": "On May 7th your vote will decide if our NHS can survive."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Cut taxes for low and middle earners by £800 and intend to cut further by £400, aiming for no income tax on minimum wage."
+      },
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "Committed to finding the £8 billion a year that the NHS chiefs say will be needed to survive by 2020."
+      },
+      {
+        "policyTitle": "Banks",
+        "policyDescription": "Banks to be hit with a new £1 billion tax until the deficit has been cleared, under Lib Dem plan to balance the books."
+      }
+    ],
+    "mentions": {
+      "candidate": "Stephen Williams uses our local NHS hospitals and has won international recognition for his fight against big tobacco.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Quotes from various sources about Lib Dem economic policies, including a new £1 billion tax on banks and criticism of Conservative and Green Party policies.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Lib Dems have committed to investing £8 billion per year by 2020 to maintain current NHS services. An additional £1.25 billion is needed for a major boost to mental health services for children and young mothers.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Stephen Williams is a regular user of our local NHS hospitals and has won international recognition for his fight against big tobacco.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "StephenWilliams.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Banks to be hit with a new £1billion tax until the deficit has been cleared, under Lib Dem plan to balance the books.",
+        "source": "MailOnline",
+        "date": "March 2015"
+      },
+      {
+        "text": "Tories' £1m inheritance tax break aimed at wealthier households.",
+        "source": "The Guardian",
+        "date": "March 2015"
+      },
+      {
+        "text": "Labour Governments should not be in the business of taxing the poor more.",
+        "source": "Mirror",
+        "date": "April 2008"
+      },
+      {
+        "text": "Green Party's flagship economic policy would hit the poorest hardest.",
+        "source": "The Guardian",
+        "date": "January 2015"
+      },
+      {
+        "text": "Labour and Tories refuse to commit to doctors' £8bn NHS funding plea.",
+        "source": "The Guardian",
+        "date": "15th March 2015"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet page with information about Liberal Democrats policies, NHS funding, quotes from media outlets, and the candidate's website."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

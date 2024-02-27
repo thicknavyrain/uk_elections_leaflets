@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lucy Care",
+    "constituency": "Derby North",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "Election Communication",
+        "content": "Lucy Care - a strong voice for Derby North. You may have heard that record numbers of NHS Trusts are in crisis. School budgets are being slashed. An extreme Brexit is risking jobs across Derby. Is this the direction you want for our country? I know it's not what I want."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting Public Services",
+        "policyDescription": "Protecting the NHS and social care, paid for by an extra penny on income tax, as part of a £6 billion extra for our health services."
+      },
+      {
+        "policyTitle": "Fairer Economy",
+        "policyDescription": "A Fair deal for the Tory benefit cuts – which Labour have refused to match."
+      },
+      {
+        "policyTitle": "Education Funding",
+        "policyDescription": "An extra £7 billion for our schools."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "A referendum on the result of Brexit negotiations, allowing the people, not politicians in Brussels and Westminster, to have the final say on the Brexit deal."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Saving 70 million tonnes of mix homes more energy efficient, and producing more renewable energy to reduce the UK's carbon footprint."
+      }
+    ],
+    "mentions": {
+      "candidate": "Lucy Care",
+      "otherPartyLeaderCandidate": "Theresa May, Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "Our country's future doesn't have to mean either Theresa May's cold, mean-spirited Britain or chaos under Corbyn."
+    },
+    "issues": {
+      "brexitEurope": "An extreme Brexit is risking jobs across Derby. A referendum on the result of Brexit negotiations.",
+      "economy": "A Fair deal for the Tory benefit cuts – which Labour have refused to match.",
+      "education": "An extra £7 billion for our schools.",
+      "environment": "Saving 70 million tonnes of mix homes more energy efficient, and producing more renewable energy to reduce the UK's carbon footprint.",
+      "governance": "",
+      "health": "Protecting the NHS and social care, funded by an extra penny on income tax.",
+      "immigration": "",
+      "socialWelfare": "Protecting the NHS and social care.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I've been campaigning alongside my Liberal Democrat colleagues for a brighter future for Britain and for Derby.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "24A Great Northern Road, Derby DE1 1LR",
+      "phone": "01332-599995",
+      "email": "Lucy.care@derbylibdems.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lucy Care - a strong voice for Derby North"
+        }
+      ]
+    },
+    "additionalNotes": "Use your vote for a positive change to keep Britain open, tolerant and united. Use it to safeguard the NHS and make sure the government has a strong opposition."
+  }
+}
+```

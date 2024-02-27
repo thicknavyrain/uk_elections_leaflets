@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Horwood",
+    "constituency": "Cheltenham",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "MP's outstanding environmental record in Parliament wins support",
+        "content": "Martin Horwood MP has won the backing of Cheltenham Green Party for his strong environmental record, including fighting unwanted development around Cheltenham."
+      },
+      {
+        "title": "It's a Lib Dem-Tory race in Cheltenham",
+        "content": "So why do the Tories say you have to vote for them to beat LABOUR?"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Strong environmental record, supported by Cheltenham Green Party for fighting unwanted development around Cheltenham."
+      },
+      {
+        "policyTitle": "Local Economy",
+        "policyDescription": "Emphasizes the importance of supporting local shops and businesses."
+      },
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Lib Dems will cut your tax bill, promoting fairer taxes so millionaires pay more and you pay less."
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin Horwood",
+      "otherPartyLeaderCandidate": "Brown's government, Tory MP Nigel Jones, Laurence Robertson, Tory"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Backing from Cheltenham Green Party for fighting unwanted development and protecting environment.",
+      "governance": "",
+      "health": "Opposes NHS service cuts, warns against the threat to local health and care services under Tory governance.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Backing from Cheltenham Green Party for fighting unwanted development around Cheltenham.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP for Cheltenham",
+        "duration": "",
+        "achievements": "Strong environmental record, has been fighting unwanted development, has been standing up for Cheltenham as an MP."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01242 514674",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "\"After the next election we'll have either an untried and untested Tory MP forced to back Tory cuts to our vital services, or Martin Horwood MP who has a proven record of standing up for our town in Parliament.\"",
+        "source": "Leaflet Message",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Martin Horwood and Councillor Roger Whyborn celebrate Cheltenham's new recycling service."
+        },
+        {
+          "caption": "Martin Horwood preventing a closure of local accident and emergency services in 2006."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

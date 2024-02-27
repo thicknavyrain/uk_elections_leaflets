@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew Gant",
+    "constituency": "Wolvercote",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Build a brighter future",
+        "content": "Use your vote to STOP BREXIT. Together, we can build a brighter future."
+      },
+      {
+        "title": "Stop Brexit",
+        "content": "Only the Liberal Democrats can take seats from the Tories and stop Brexit."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Brexit",
+        "policyDescription": "Argues that every vote for the Liberal Democrats is a vote to stop Brexit."
+      },
+      {
+        "policyTitle": "Protect the Green Belt",
+        "policyDescription": "Opposes inappropriate developments on the Green Belt."
+      },
+      {
+        "policyTitle": "Invest in schools and NHS",
+        "policyDescription": "Promises investment in schools and NHS to build a brighter future."
+      },
+      {
+        "policyTitle": "Tackle the climate emergency",
+        "policyDescription": "Aims to tackle the climate emergency by investing in renewable energy and insulating homes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andrew Gant is a local champion you can count on.",
+      "otherPartyLeaderCandidate": "Stop Boris Johnson and his bad deal with Brexit.",
+      "partyLeader": "Jo Swinson's Liberal Democrats",
+      "tacticalSituation": "Only the Liberal Democrats can take seats from the Tories and stop Brexit."
+    },
+    "issues": {
+      "brexitEurope": "Stop Brexit. Every vote for the Liberal Democrats is a vote to stop Brexit.",
+      "economy": "",
+      "education": "Invest in schools.",
+      "environment": "Tackle the climate emergency.",
+      "governance": "",
+      "health": "Invest in the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Opposes inappropriate developments on the Green Belt.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andrew on the doorstep - listening to and standing up for Wolvercote"
+        },
+        {
+          "caption": "Andrew Gant and the Liberal Democrats understand what matters to people in Wolvercote"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Reckless",
+    "constituency": "Rochester",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Dear Neighbour",
+        "content": "I'm writing to you because, frankly, I need your help, including to keep Ed Miliband out of Downing Street."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Support economic recovery",
+        "policyDescription": "I voted for the Budget."
+      },
+      {
+        "policyTitle": "No deal with Ed Miliband",
+        "policyDescription": "A vote for me is a vote to keep Miliband out."
+      },
+      {
+        "policyTitle": "Immigration and EU Referendum",
+        "policyDescription": "By re-electing me you will put pressure on David Cameron to deliver."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Immigration and EU Referendum - By re-electing me you will put pressure on David Cameron to deliver.",
+      "economy": "Support economic recovery - I voted for the Budget.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "As your MP I've always answered directly to you - not to party whips. Whether campaigning for more GPs, helping secure £13 million to rebuild Medway's A&E, or protecting the Hoo Peninsula from Boris's bonkers airport and 5,000 houses at Lodge Hill, I always put local people first.",
+      "immigration": "Immigration and EU Referendum - By re-electing me you will put pressure on David Cameron to deliver.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "protecting the Hoo Peninsula from Boris's bonkers airport and 5,000 houses at Lodge Hill",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "P.S. I live in Rochester with my young family and I want to change how politics works, so we all have a better future.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": "campaigning for more GPs, helping secure £13 million to rebuild Medway's A&E, or protecting the Hoo Peninsula from Boris's bonkers airport and 5,000 houses at Lodge Hill"
+      }
+    ],
+    "contactInformation": {
+      "address": "30 High Street Rochester ME1 1LD",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign leaflet content page for Mark Reckless."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet focuses on keeping a specific opposition leader out of office, promises economic support through budgetary measures, and the intention to pressure the party leader for an EU referendum. The leaflet also emphasizes local health advancements and protecting the Hoo Peninsula."
+  }
+}
+```

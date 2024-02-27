@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "DEREK MORAN",
+    "constituency": "OLD BEXLEY AND SIDCUP",
+    "politicalParty": "Green Party",
+    "electionDate": "MAY 7",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "#RETURN4AGE",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "#GREENSPACES",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "#CLEANAIR",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "#SOCIALHOUSING",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "#BETTERRAILWAY",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "DEREK MORAN",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "DEREK MORAN standing by a noticeboard in a green space with campaign hashtags #RETURN4AGE, #GREENSPACES, #CLEANAIR, #SOCIALHOUSING, #BETTERRAILWAY"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

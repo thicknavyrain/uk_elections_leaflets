@@ -1,0 +1,72 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "DAVID AKAN",
+    "constituency": "HAMMERSMITH",
+    "politicalParty": "Green Party",
+    "electionDate": "MAY 7",
+    "messages": [
+      {
+        "title": "YOUR GREEN PARTY CANDIDATE",
+        "content": "I'm proud to be representing the only party that is standing up for the common good. I'm passionate about the local area, growing up my family ran a small business near Stamford Brook Station. I now live in Hammersmith with my wife."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Reverse the privatisation of the NHS and keep local services open to make sure everyone has access to quality local healthcare",
+        "policyDescription": "Reverse the privatisation of the NHS and keep local services open to ensure accessible quality healthcare for everyone."
+      },
+      {
+        "policyTitle": "Make affordable housing genuinely affordable for the average local resident and push for developments that serve the community not investors",
+        "policyDescription": "Advocate for genuinely affordable housing that serves the interests of the local community rather than investors."
+      },
+      {
+        "policyTitle": "Increase the minimum wage to help the 1 in 5 London workers who are earning less than the living wage",
+        "policyDescription": "Increase the minimum wage to support workers earning less than the living wage in London."
+      },
+      {
+        "policyTitle": "End the more than 4,000 premature deaths in London each year caused by air pollution and create a healthier, more pleasant city by building safe cycling lanes and pedestrian friendly streets",
+        "policyDescription": "Work to reduce premature deaths due to air pollution by improving cycling infrastructure and creating pedestrian-friendly areas."
+      }
+    ],
+    "mentions": {
+      "candidate": "DAVID AKAN"
+    },
+    "issues": {
+      "housing": [
+        {
+          "content": "Make affordable housing genuinely affordable for the average local resident and push for developments that serve the community not investors.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I have always been an active campaigner in my spare time, but events locally, nationally and globally convinced me to join the Green Party.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Printed by Bishops Printers, Walton Road, Portsmouth, PO6 1TR. Promoted by Chris Luffingham on behalf of David Akan, both at Development House, 56-64 Leonard Street, London, EC2A 4LT.",
+      "phone": "",
+      "email": "david.akan@greenparty.org.uk",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "TheGreenParty",
+        "twitter": "@TheGreenParty",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "DAVID AKAN standing in Hammersmith with Hammersmith station in the background."
+        },
+        {
+          "caption": "DAVID AKAN along with three other Green Party members, two of them holding a banner with Green Party branding."
+        }
+      ]
+    },
+    "additionalNotes": "Take action on climate change by insulating cold homes and proudly support Britain’s growing renewables industry. Support for the Green Party has already had a powerful impact on the national debate. A vote for what you believe in is never a wasted vote."
+  }
+}
+```

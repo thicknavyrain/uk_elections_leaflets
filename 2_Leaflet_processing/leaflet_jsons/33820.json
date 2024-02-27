@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Shaun Bailey",
+    "constituency": "West Bromwich West",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A prescription for a stronger NHS",
+        "content": "With a majority government that can get Brexit done, we can take back control of our borders. That means we can introduce an Australian-style points-based immigration system. Taking pressure off our public services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "300 new MRI machines, CT scanners and breast-screening machines, 50,000 more nurses, 40 new hospitals and 20 hospital upgrades, clamp down on health tourism."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "A new NHS visa for the world's best doctors and nurses, an Australian-style points-based immigration system, 50 million extra GP surgery appointments, 6,000 more doctors, £33.9 billion extra in funding."
+      }
+    ],
+    "mentions": {
+      "candidate": "Shaun Bailey",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "With Brexit done, we can take back control of our borders.",
+      "economy": "Our public services need a growing economy – but Jeremy Corbyn would take us back to square one.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "300 new MRI machines, CT scanners and breast-screening machines; 50,000 more nurses; 40 new hospitals and 20 hospital upgrades; a clamp down on health tourism; £33.9 billion extra in funding.",
+      "immigration": "A new NHS visa for the world's best doctors and nurses; Australian-style points-based immigration system; 50 million extra GP surgery appointments; 6,000 more doctors.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Matthew Parker Street, London, SW1H 9HQ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Our public services can't afford uncontrolled immigration – but that's what Jeremy Corbyn would deliver.",
+        "source": "Leaflet content reference",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images of potential improvements to the NHS and statements on immigration policy."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet portrays a strong stance on completing Brexit to regain border control and implement a new immigration system, which is tied to providing solutions and support for the NHS."
+  }
+}
+```

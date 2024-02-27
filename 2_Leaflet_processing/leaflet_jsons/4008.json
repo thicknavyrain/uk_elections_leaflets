@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Richard Burt",
+    "constituency": "Malvern Link, Worcestershire",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "23rd March 2010",
+    "messages": [
+      {
+        "title": "",
+        "content": "Real change in Britain could be just weeks away. We've never needed it more. Labour has let people down. They failed to make Britain fairer. They failed on the economy. They failed to protect our environment. They failed to clean up politics."
+      },
+      {
+        "title": "",
+        "content": "We know the Conservatives can't be trusted either. On expenses, Conservative MPs were among the worst offenders claiming for moats and duck houses. They are funded by billionaires and bankers. It is shocking to hear that their top donor and senior member of David Cameron's team has avoided paying over £100million in tax while giving millions to elect Tory MPs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Work hard to get a fair deal for our area on jobs, on flooding and housing, and to protect our vital local services."
+      },
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Make taxes fairer by making the first £10,000 of income tax free for all of us. This will save most people £700 a year."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Ensure our schools get a better deal - our children deserve no less."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Create new sustainable jobs and clean up politics once and for all."
+      }
+    ],
+    "mentions": {
+      "candidate": "Richard Burt",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Labour cannot win here. The choice is between real change with the Lib Dems or the Conservative banker who won’t stand up for us."
+    },
+    "issues": {
+      "economy": "Labour failed on the economy. They failed to make Britain fairer.",
+      "education": "",
+      "environment": "They failed to protect our environment.",
+      "governance": "They failed to clean up politics. Create new sustainable jobs and clean up politics once and for all.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Work hard to get a fair deal for our area on jobs, on flooding and housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "First Floor Office, 19 High Street, Pershore, WR10 1AA",
+      "phone": "",
+      "email": "richard.burt@libdems.org.uk",
+      "website": "www.worcslibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Only the Liberal Democrats can deliver hope and change and that can start right here.",
+        "source": "Richard Burt",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Richard Burt with supporters and members of the community."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

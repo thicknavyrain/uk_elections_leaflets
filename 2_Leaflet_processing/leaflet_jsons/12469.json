@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Keith Angus",
+    "constituency": "Hackney North and Stoke Newington",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "An MP who will fight for our NHS",
+        "content": "Labour has cut doctor numbers and closed local services." 
+      },
+      {
+        "title": "Your choice: Will it be a Labour MP or a Lib Dem MP?",
+        "content": "With more and more people demanding real change in Hackney North and Stoke Newington..."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Keith Angus",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "BATTLE TO BECOME OUR NEXT MP IS A TWO HORSE RACE IT'S LIB DEMS OR LABOUR"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Nick Clegg: 'I'll invest £2.5billion in our schools to make sure every child gets a fair chance'",
+      "environment": "",
+      "governance": "",
+      "health": "An MP who will fight for our NHS. Labour has cut doctor numbers and closed local services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "New Bus Route",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Keith Angus is set to WIN with your support.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "FREEPOST RSLX-UCHZ-ABLL, 74 Amhurst Road, Hackney, N16 7UG",
+      "phone": "",
+      "email": "",
+      "website": "www.keithangus.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "We need fairer taxes that put money back in your pocket!",
+        "source": "Nick Clegg",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Local action: Keith campaigning in Stoke Newington"
+        },
+        {
+          "caption": "Keith Angus is set to WIN"
+        },
+        {
+          "caption": "Help Keith Angus win here"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

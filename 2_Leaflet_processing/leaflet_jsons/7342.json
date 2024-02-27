@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Tariq Sadiq",
+	"constituency": "South Cambridgeshire",
+	"politicalParty": "Labour Party",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "Alex Wood Hall, Norfolk Street, Cambridge, CB1 2LD",
+  	"phone": "01223 710317",
+  	"email": "tariqsadiq@btinternet.com",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "facebook.com/TariqSadiqforSouthCambridgeshire",
+    	"twitter": "twitter.com/tariqsadiq",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "A campaign leaflet from Tariq Sadiq, your Labour candidate for South Cambridgeshire."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

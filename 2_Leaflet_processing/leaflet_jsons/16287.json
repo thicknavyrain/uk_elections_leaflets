@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Webber",
+    "constituency": "Hambledon GJ8 4HB",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "UKIP - STANDING UP FOR THE NHS",
+        "content": "UKIP will ensure the NHS is free at the point of delivery and time of need for all UK residents by investing an extra £3 billion."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Investment",
+        "policyDescription": "Invest an extra £3 billion in the NHS, ensure it is free at the point of delivery for all UK residents."
+      },
+      {
+        "policyTitle": "Reduce Private Finance Initiatives",
+        "policyDescription": "Stop further use of PFI in the NHS and encourage local authorities to buy out their PFI contracts early."
+      },
+      {
+        "policyTitle": "Visitor Health Insurance",
+        "policyDescription": "Ensure that visitors and migrants have approved private health insurance as a condition of entry to the UK, saving the NHS £2bn a year."
+      },
+      {
+        "policyTitle": "Ensuring Qualified Health Professionals",
+        "policyDescription": "Ensure foreign health professionals coming to work in the NHS are properly qualified and can speak English."
+      },
+      {
+        "policyTitle": "State Enrolled Nurse",
+        "policyDescription": "Re-introduce the State Enrolled Nurse."
+      },
+      {
+        "policyTitle": "Management and Prevention of Corruption",
+        "policyDescription": "Implement ‘licence to manage’ as a statutory requirement to prevent incompetent, negligent or bullying managers being conveniently moved sideways."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Webber",
+      "otherPartyLeaderCandidate": "Labour's health spokesman",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "UKIP will invest an additional £3 billion into the NHS, combating the misuse of PFI and requiring health insurance for visitors and migrants as a condition of entry to the UK to save £2bn a year.",
+      "immigration": "Ensure that visitors and migrants have approved private health insurance as a condition of entry to the UK, saving the NHS £2bn a year.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Mole End, Wormley Lane, Hambledon GJ8 4HB",
+      "phone": "",
+      "email": "info@markwebber2015.com",
+      "website": "www.markwebber2015.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Kailash Chand OBE",
+        "endorsement": "That's embarrassment in the chamber: because they shout back, ‘You started it’. - Former Labour Health Secretary Frank Dobson"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "That's embarrassment in the chamber: because they shout back, ‘You started it’.",
+        "source": "Former Labour Health Secretary Frank Dobson",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "UKIP Standing Up for the NHS"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet accuses Labour of privatising the NHS through PFI, and it outlines UKIP's commitment to ensuring the NHS remains free at the point of delivery and properly managed."
+  }
+}
+```

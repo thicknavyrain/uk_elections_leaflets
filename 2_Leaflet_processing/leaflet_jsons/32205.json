@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Victoria Charleston",
+    "constituency": "Salisbury",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Jo Swinson says STOP BREXIT. FOR A BRIGHTER FUTURE",
+        "content": "A FAIRER BRITAIN: Britain needs fresh vision and leadership delivering fairness in our country. The Liberal Democrats will build an economy that works for everyone.\nTACKLE THE CLIMATE EMERGENCY: The Liberal Democrats will take the urgent action needed to protect our environment.\nINVEST IN SCHOOLS & OUR NHS: We will invest part of the £50 billion Remain Dividend for our schools and put £1 in income tax for our NHS and social care."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A FAIRER BRITAIN",
+        "policyDescription": "The Liberal Democrats will build an economy that works for everyone."
+      },
+      {
+        "policyTitle": "TACKLE THE CLIMATE EMERGENCY",
+        "policyDescription": "The Liberal Democrats will take urgent action needed to protect our environment."
+      },
+      {
+        "policyTitle": "INVEST IN SCHOOLS & OUR NHS",
+        "policyDescription": "We will invest part of the £50 billion Remain Dividend for our schools and put £1 in income tax for our NHS and social care."
+      },
+      {
+        "policyTitle": "STOP BREXIT",
+        "policyDescription": "End the Brexit mess and keep the best deal we already have and stay in Europe."
+      }
+    ],
+    "mentions": {
+      "candidate": "Victoria Charleston",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": "ONLY THE LIBERAL DEMOCRATS WILL STOP BREXIT"
+    },
+    "issues": {
+      "brexitEurope": "STOP BREXIT\nEnd the Brexit mess and keep the best deal we already have and stay in Europe.",
+      "economy": "The Liberal Democrats will build an economy that works for everyone.",
+      "education": "",
+      "environment": "The Liberal Democrats will take the urgent action needed to protect our environment.",
+      "governance": "",
+      "health": "We will invest part of the £50 billion Remain Dividend for our schools and put £1 in income tax for our NHS and social care.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.salisburylibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Victoria with Jo Swinson and supporters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

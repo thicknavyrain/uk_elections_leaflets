@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ryan Stephenson",
+    "constituency": "Leeds North East",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "STANDING WITH THERESA MAY",
+        "content": "Ryan's personal plan for Leeds North East."
+      },
+      {
+        "title": "PUTTING LEEDS NORTH EAST FIRST",
+        "content": "Ryan is pledging to put this election's key votes at the heart of his work as part of his personal plan for Leeds North East."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Strong Local Voice",
+        "policyDescription": "Being a strong local voice in Parliament, delivering for local residents."
+      },
+      {
+        "policyTitle": "Addressing Schooling",
+        "policyDescription": "Addressing school places and academic standards for children."
+      },
+      {
+        "policyTitle": "Job Creation",
+        "policyDescription": "Bringing more jobs and investment to Leeds North East."
+      },
+      {
+        "policyTitle": "Transport Upgrades",
+        "policyDescription": "Securing the transport upgrades the area needs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ryan Stephenson",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Delivering on UK's decision to leave EU, with need for strong leadership in national interest.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Strong national leadership, strong local voice.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Ryan's stance is to deliver on a strong national leadership, and a strong local voice.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0113 204 1096",
+      "email": "",
+      "website": "conservatives.com",
+      "socialMedia": {
+        "facebook": "fb.com/conservatives",
+        "twitter": "conservatives",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ryan Stephenson with Theresa May."
+        },
+        {
+          "caption": "Ryan Stephenson's local plan for Leeds North East."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet showcases the support and endorsement for the candidate by Rt. Hon Theresa May and focuses on the need for strong leadership and the risks posed by the opposition."
+  }
+}
+```

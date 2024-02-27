@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "John Szemerey",
+	"constituency": "Islington South & Finsbury",
+	"politicalParty": "Conservative",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": "This is the hardest letter I've ever had to write. I spent many years of my life campaigning for the Conservatives in Islington. I was even twice the Conservative parliamentary candidate in Islington South & Finsbury. Labour has let us down badly. Like so many people, I'm desperate to see change in Islington and in Britain. But I believe that the only party offering real change for this area is the Liberal Democrats."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "John Szemerey",
+  	"otherPartyLeaderCandidate": "Gordon Brown",
+  	"partyLeader": "",
+  	"tacticalSituation": "In Islington South & Finsbury, the Conservatives just can't win. In fact, a Conservative has not been elected here for 45 years."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "backing local Lib Dem Bridget Fox to be our next MP. Bridget has campaigned tirelessly for local NHS services",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"to get more police on our streets and to save vital community services such as the Essex Road Post Office.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "This is the hardest letter I've ever had to write.",
+	"politicalExperience": [
+  	{
+    	"role": "Former Conservative Candidate",
+    	"duration": "",
+    	"achievements": "Campaigned for the Conservatives in Islington. Twice the Conservative parliamentary candidate in Islington South & Finsbury."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "John Szemerey",
+    	"endorsement": "I'm backing local Lib Dem Bridget Fox to be our next MP."
+  	}
+	],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Signature of John Szemerey"
+    	}
+  	]
+	},
+	"additionalNotes": "P.S. The Conservatives can’t win in Islington South & Finsbury. Voting for them will just help Gordon Brown hold on. Only Bridget Fox’s Lib Dems can beat Labour here."
+  }
+}
+```

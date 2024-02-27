@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Bolton",
+    "politicalParty": "Labour Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Only Labour can beat the Tories",
+        "content": "A vote for the Lib Dems or any other party will let the Tories win."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Labour guarantees that you will see a cancer specialist within two weeks of GP referral. The NHS now has 89,000 more nurses and 44,000 doctors than in 1997. Over three-quarters of GP practices now offer extended opening hours."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "A vote for the Lib Dems or any other party will let the Tories win."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Labour guarantees that you will see a cancer specialist within two weeks of GP referral. The NHS now has 89,000 more nurses and 44,000 doctors than in 1997. Over three-quarters of GP practices now offer extended opening hours.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "A future fair for all",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Only Labour can beat the Tories"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contrasts Labour's healthcare policies with the Tories' plans to cut resources from existing schools to create new school buildings. It presents a tactical voting message indicating that voting for the Lib Dems could lead to a Tory win in the general election."
+  }
+}

@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rob Burberry",
+    "constituency": "Woking",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Straight talking. Vote UKIP",
+        "content": "UKIP has repeatedly beaten Labour in Woking in the local elections and the Liberal Democrats support the Conservatives."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Increased funding for Surrey's policing",
+        "policyDescription": "Fight for increased funding from Central Government for Surrey's policing."
+      },
+      {
+        "policyTitle": "Royal Commission on climate change",
+        "policyDescription": "Campaign for a Royal Commission on climate change."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rob Burberry",
+      "otherPartyLeaderCandidate": "Labour, Liberal Democrats, Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": "UKIP has repeatedly beaten Labour in Woking in the local elections and the Liberal Democrats support the Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "LibDems supported the Conservatives to plunge the council £68million further into debt to buy the Wolsey Place shopping centre.",
+      "education": "",
+      "environment": "Campaign for a Royal Commission on climate change.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "PO Box 408, Newton Abbot TQ12 9BG",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Rob Burberry Woking"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

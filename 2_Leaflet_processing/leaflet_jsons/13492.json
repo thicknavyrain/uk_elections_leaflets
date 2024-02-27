@@ -1,0 +1,111 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mary Varrall",
+    "constituency": "Bexhill and Battle",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Who will put more money in YOUR pocket?",
+        "content": "The Lib Dems have constructed an income tax plan to put back £700 into the pockets of people who earn less than £10,000 yearly."
+      },
+      {
+        "title": "Fighting for their future",
+        "content": "Nick Clegg wants to build a better future for our children."
+      },
+      {
+        "title": "We need REAL change",
+        "content": "Change they've been after for 13 years, as promised by the Labour and then by Conservative-led coalition."
+      },
+      {
+        "title": "Fair pay for heroes",
+        "content": "Massive response to Lib Dem campaign for a fair deal for our troops."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax Cuts",
+        "policyDescription": "The Lib Dems plan to increase the point at which people start to pay income tax, effectively providing a £700 tax break for those earning under £10,000."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Nick Clegg aims to deliver a resolution for education for our children's future."
+      },
+      {
+        "policyTitle": "Military",
+        "policyDescription": "The Lib Dems are campaigning for fair pay for troops."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mary Varrall",
+      "otherPartyLeaderCandidate": "Dan Hannan - South East Conservative MEP",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Only the Liberal Democrats can beat the Conservatives here. Voting Labour will only help to keep them in."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Lib Dems have a 'new vision' on the economy, aiming to break the power held by the banks and get credit flowing again to protect jobs in Britain.",
+      "education": "Lib Dems believe in delivering a resolution for education for our children's future.",
+      "environment": "Sustainable Communities & Affordable Housing: Lib Dems want towns and villages to recover from the recession and become vibrant places to live. Affordability in housing for the young people growing up in the constituency is a critical issue.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Sustainable communities and affordable housing are key issues, focusing on recovery from recession and vibrant living environments, as well as the affordability of housing for young people in the constituency.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "After 13 years, Bexhill and Battle need REAL change.",
+    "politicalExperience": [
+      {
+        "role": "Prospective Parliamentary Candidate",
+        "duration": "Since her 2006 re-election",
+        "achievements": "Meeting residents, discussing both the really important issues within Bexhill and the rural areas, and working closely with the elected councillors."
+      }
+    ],
+    "contactInformation": {
+      "address": "27 Norman Road, Bexhill.",
+      "phone": "07917 730324",
+      "email": "maryvarrall45@aol.com",
+      "website": "www.bexhillandbattlelibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source":"",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lib Dems would cut taxes for millions of people, not just millionaires."
+        },
+        {
+          "caption": "Nick Clegg wants to build a better future for our children."
+        },
+        {
+          "caption": "A £700 tax cut on income below £10000 would apply to all but the very richest."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

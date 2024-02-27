@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Norman Lamb",
+    "constituency": "North Norfolk",
+    "politicalParty": "Lib Dem",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "A record of action. A promise of more.",
+        "content": "With your support on June 8th, Norman will use a 1p increase on all rates of income tax to inject £6 billion each year into our NHS and social care. Reverse cuts to schools and invest £7 billion to ensure no local schools lose teachers or teaching assistants. Fight to protect local jobs and safeguard our local economy by keeping Britain in the single market."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS and Social Care",
+        "policyDescription": "Increase income tax by 1p to inject £6 billion each year into NHS and social care."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Reverse cuts to schools and invest £7 billion to prevent local schools from losing teachers or teaching assistants."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Fight to protect local jobs and safeguard the local economy by keeping Britain in the single market."
+      }
+    ],
+    "mentions": {
+      "candidate": "Norman Lamb",
+      "otherPartyLeaderCandidate": "Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": "Labour can't compete in North Norfolk. Elections there are always close between the Lib Dems and Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "Safeguard our local economy by keeping Britain in the single market.",
+      "economy": "Fight to protect local jobs and safeguard the local economy by keeping Britain in the single market.",
+      "education": "Reverse cuts to schools and invest £7 billion to ensure no local schools lose teachers or teaching assistants.",
+      "environment": "",
+      "governance": "",
+      "health": "Use a 1p increase on all rates of income tax to inject £6 billion each year into our NHS and social care.",
+      "immigration": "",
+      "socialWelfare": "Inject £6 billion each year into... social care.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "16 years",
+        "achievements": "Norman has built a reputation as a hard-working campaigner. "
+      }
+    ],
+    "contactInformation": {
+      "address": "Unit 4, The Garden Centre, Nursery Drive, North Walsham NR28 0DR",
+      "phone": "07393 956 425",
+      "email": "office@northnorfolklibdems.org.uk",
+      "website": "www.NormanLamb.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@normanlamb",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Norman Lamb with constituents"
+        },
+        {
+          "caption": "Bar chart showing election results"
+        },
+        {
+          "caption": "Norman Lamb portrait"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

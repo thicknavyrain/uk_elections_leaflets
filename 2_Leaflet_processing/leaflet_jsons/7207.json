@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Evan Heasley",
+    "constituency": "",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "UK Independence Party",
+        "content": "TIME FOR A FRESH START"
+      },
+      {
+        "title": "UKIP candidates are real people, not career politicians",
+        "content": "\"I strongly believe that we must take back full control of our decision making processes at Westminster. Every citizen has the right to expect that their elected representatives are fully accountable to the electors of their constituency and not a group of unelected European Commissioners who are totally unaccountable for their decisions and who claim to speak on our behalf. Independence, Freedom, Democracy are words that really mean something to me. If elected, I will work tirelessly to ensure that fair play, decency and honesty are returned to Parliament. Your voice should mean something, and I would dearly like to be the person to help set higher standards in a political system that represents your name. Thank you.\""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Evan Heasley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Every citizen has the right to expect that their elected representatives are fully accountable to the electors of their constituency and not a group of unelected European Commissioners who are totally unaccountable for their decisions.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Every citizen has the right to expect that their elected representatives are fully accountable to the electors of their constituency.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "\"I strongly believe that we must take back full control of our decision making processes at Westminster.\"",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Evan Heasley"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

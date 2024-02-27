@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Iain Gray",
+    "constituency": "",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "May 2011",
+    "messages": [
+      {
+        "title": "Dear [Redacted]",
+        "content": "On Thursday we all face a big choice. It's a choice that will affect your job, your local council services, our NHS, and our police."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "Freezing council tax."
+      },
+      {
+        "policyTitle": "Health Care",
+        "policyDescription": "Ending the postcode lottery for care of the elderly."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Creating jobs with a future, e.g., putting 1,000 extra teachers in our schools."
+      },
+      {
+        "policyTitle": "Family",
+        "policyDescription": "Improving maternity rights, free prescription and free school meals for all primaries 1 to 3."
+      },
+      {
+        "policyTitle": "Working Families",
+        "policyDescription": "Direct support through the Working Families Tax Credits."
+      }
+    ],
+    "mentions": {
+      "candidate": "Iain Gray",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "Tactical voting considerations to ensure a Labour victory."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Commitment to creating jobs by putting 1,000 extra teachers in our schools.",
+      "environment": "",
+      "governance": "The SNP are too distracted by their obsession with separating Scotland from the rest of the UK.",
+      "health": "Improving the NHS, introduced the minimum wage, improved maternity rights, free prescription.",
+      "immigration": "",
+      "socialWelfare": "Supporting working families through tax credits.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Passionate about working for and representing the interests of local people.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "145 West Regent Street, Glasgow, G2 4RE",
+      "phone": "0141 572 6900",
+      "email": "scotland@labour.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "That is why now, more than ever before, we need a strong Labour Government in the Scottish Parliament - a government that matters, a government that makes sure that working people aren't left to pay the price for Tory cuts.",
+        "source": "Iain Gray",
+        "date": "May 2011"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Iain Gray pictured on the leaflet."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

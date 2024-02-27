@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Nicholson",
+    "constituency": "Streatham",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "It's so close in our area!",
+        "content": "Elections in Streatham, Brixton and Clapham are always a close finish between the Liberal Democrats and Labour. More and more people are switching to back Lib Dem campaigner Chris Nicholson this time."
+      },
+      {
+        "title": "Labour's record of shame...",
+        "content": "An illegal war in Iraq. Spiralling national debt and the worst recession in decades. A widening gap between rich and poor."
+      },
+      {
+        "title": "Crime: a top priority",
+        "content": "Chris Nicholson claims crime is a top priority in the area. He plans to fight crime which would give the Met an additional 600 police officers who could make about 4000 more arrests each year."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting Crime",
+        "policyDescription": "Chris Nicholson supports plans to increase police presence and effectiveness in combating crime."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Nicholson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Elections in Streatham, Brixton and Clapham are a close finish between the Liberal Democrats and Labour, with more people switching to support Chris Nicholson."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Mentions spiralling national debt and the worst recession in decades.",
+      "education": "",
+      "environment": "",
+      "governance": "Mentions an illegal war in Iraq and a widening gap between rich and poor.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have lived in the Streatham area for 30 years and understand the need for an honest, hard-working person to be our next MP. I believe Chris is very much that person and he will be a terrific MP.",
+    "politicalExperience": [
+      {
+        "role": "Campaigner",
+        "duration": "",
+        "achievements": "Chris Nicholson and his Lib Dem team stood shoulder to shoulder with local residents and led the fight to keep a local police station open."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.StreathamLibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Floella Benjamin, campaigner and TV personality",
+        "endorsement": "I have lived in the Streatham area for 30 years and understand the need for an honest, hard-working person to be our next MP. I believe Chris is very much that person and he will be a terrific MP."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Save our Police Station"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

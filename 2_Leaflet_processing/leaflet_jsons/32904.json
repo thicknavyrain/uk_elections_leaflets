@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Duncan Baker",
+    "constituency": "North Norfolk",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Don't risk another hung parliament with Jeremy Corbyn in charge."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Against higher tax on every home."
+      },
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "Against reduced pension savings."
+      },
+      {
+        "policyTitle": "Utilities Management",
+        "policyDescription": "Opposes politicians in charge of water and energy supplies."
+      }
+    ],
+    "mentions": {
+      "candidate": "Duncan Baker",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "Only 1757 people need to change their minds for the Conservatives to beat Jeremy Corbyn's Labour."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Matthew Parker Street, London, SW1H 9HQ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Delivered by Royal Mail C9 10002"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contains references to avoiding a hung parliament, avoiding Jeremy Corbyn as a leader, and specific details about how many people's votes need to change in North Norfolk."
+  }
+}
+```

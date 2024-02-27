@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Zac Goldsmith",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "Freeze Council tax for a minimum of 2 years"
+      },
+      {
+        "policyTitle": "Third Runway",
+        "policyDescription": "Only Conservatives can stop the 3rd runway"
+      },
+      {
+        "policyTitle": "Local Hospital",
+        "policyDescription": "Conservatives will protect Richmond Hospital"
+      },
+      {
+        "policyTitle": "Parking Charges",
+        "policyDescription": "Scrap parking charges in Richmond Park"
+      },
+      {
+        "policyTitle": "Police",
+        "policyDescription": "Put more police on our streets"
+      },
+      {
+        "policyTitle": "Local Schools",
+        "policyDescription": "Sort out our local schools"
+      },
+      {
+        "policyTitle": "Green Spaces",
+        "policyDescription": "Protect our green spaces"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Stabilise our broken economy"
+      }
+    ],
+    "mentions": {
+      "candidate": "Zac Goldsmith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Stabilise our broken economy",
+      "education": "Sort out our local schools",
+      "environment": "Protect our green spaces",
+      "governance": "",
+      "health": "Protect Richmond Hospital",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.zacgoldsmith.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Zac Goldsmith: A Local Champion, a record of action"
+        }
+      ]
+    },
+    "additionalNotes": "WHY WE NEED A CHANGE OF GOVERNMENT"
+  }
+}
+```

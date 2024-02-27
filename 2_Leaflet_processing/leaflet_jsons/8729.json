@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Colin Eldridge & Frank Doran",
+	"constituency": "Liverpool",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Labour has failed Liverpool...",
+    	"content": "Colin and Frank both live locally. They know the area and will put it first. They are the local choice in our area."
+  	},
+  	{
+        "title": "Beware Labour's dirty tricks",
+        "content": "Labour are running scared in Liverpool. As more and more people turn to local campaigners' Colin Eldridge and Frank Doran, Labour are resorting to smears and nasty leaflets to scare voters. Beware of Labour's fake leaflets. They have nothing positive to say and are clearly out of ideas."
+    }
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Fighting for Alder Hey",
+    	"policyDescription": "Colin Eldridge led the campaign to save Alder Hey's Acute Burns Unit. He worked with local residents to save the unit from closure."
+  	},
+  	{
+        "policyTitle": "A voice for residents",
+        "policyDescription": "Colin and Frank worked to get action on the Kensington Market site. Work has now begun and soon a new retail outlet will be there."
+    }
+	],
+	"mentions": {
+  	"candidate": "Colin Eldridge & Frank Doran",
+  	"otherPartyLeaderCandidate": "Labour",
+  	"partyLeader": "",
+  	"tacticalSituation": "The Conservatives haven't won a parliamentary seat in Liverpool for 30 years. Labour's campaign goes negative."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Campaign to save Alder Hey's Acute Burns Unit.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Action on the Kensington Market site.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Our local champions - Putting Kensington & Fairfield first",
+	"politicalExperience": [
+  	{
+    	"role": "Local campaigners",
+    	"duration": "",
+    	"achievements": "Worked on local issues such as saving the Acute Burns Unit at Alder Hey and getting action on the Kensington Market site."
+  	}
+	],
+	"contactInformation": {
+  	"address": "59 Smithdown Road, Liverpool, L15 5AE",
+  	"phone": "(0151) 733 2439",
+  	"email": "colin@colineldridge.org.uk",
+  	"website": "www.colineldridge.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "twitter.com/colineldridge",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Colin Eldridge & Frank Doran - The Local Choice"
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet focuses on local involvement and achievements of the candidates, emphasizing their connection to the area and contrasting with the negative campaign of their opponents."
+  }
+}
+```

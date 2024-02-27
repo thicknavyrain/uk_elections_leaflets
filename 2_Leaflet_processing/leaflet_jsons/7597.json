@@ -1,0 +1,122 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jane Thomas",
+    "constituency": "Keighley and Ilkley",
+    "politicalParty": "Labour",
+    "electionDate": "6th May 2010",
+    "messages": [
+      {
+        "title": "Jane Thomas: Putting our community first",
+        "content": "This election will be a straight fight between Labour and the Tories"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "High quality public services",
+        "policyDescription": "With good local schools and a modern health service"
+      },
+      {
+        "policyTitle": "Dignity and independence in old age",
+        "policyDescription": "Providing a safe environment with good facilities and care"
+      },
+      {
+        "policyTitle": "Campaign for better public transport",
+        "policyDescription": "To connect our communities, tackle congestion and help the environment"
+      },
+      {
+        "policyTitle": "Serving Keighley and Ilkley, not just serving",
+        "policyDescription": "To build trust by being open, honest and transparent"
+      },
+      {
+        "policyTitle": "Building Schools for the Future",
+        "policyDescription": "This year alone there will be new buildings for Greenhead School, plus a new special school. Keighley College will buy Spring Gardens site, committed to see education improvements."
+      },
+      {
+        "policyTitle": "Dignity in Old Age",
+        "policyDescription": "Labour's Personal Care at Home Bill is vital."
+      },
+      {
+        "policyTitle": "Putting the Needs of Young People First",
+        "policyDescription": "Over 1,700 people have benefited from the New Deal for Young People in this constituency."
+      },
+      {
+        "policyTitle": "More Police on the Beat",
+        "policyDescription": "There are now new neighbourhood police teams in every part of the constituency. Measures to tackle anti-social behaviour and new measures to cut police red tape are making a difference."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jane Thomas",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "This election will be a straight fight between Labour and the Tories."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour has transformed further education with the new Keighley College and provided Sure Start Centres in Braithwaite, Highfield and Silsden to provide childcare, early education and family support - all threatened by Tory cuts.",
+      "education": "Labour has transformed further education with the new Keighley College and provided Sure Start Centres in Braithwaite, Highfield and Silsden to provide childcare, early education and family support - all threatened by Tory cuts.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "The winter fuel payment has made a real difference. I know now that with Labour, I can look forward to dignity and security throughout my retirement. - Local Resident",
+      "housing": [
+        {
+          "content": "This year alone there will be new buildings for Greenhead School, plus a new special school. Keighley College will buy Spring Gardens site, determined to see education improvements.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Labour’s candidate",
+        "duration": "",
+        "achievements": "Putting our community first"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Local Resident",
+        "endorsement": "The winter fuel payment has made a real difference. I know now that with Labour, I can look forward to dignity and security throughout my retirement."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "This election will be a straight fight between Labour and the Tories.",
+        "source": "Jane Thomas",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jane Thomas with supporters in Keighley and Ilkley"
+        },
+        {
+          "caption": "Jane Thomas and Labour Party members"
+        },
+        {
+          "caption": "Jane Thomas speaking with a resident"
+        },
+        {
+          "caption": "Jane Thomas with a family"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

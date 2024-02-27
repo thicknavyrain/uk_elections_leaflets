@@ -1,0 +1,66 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lindsey Hall",
+    "constituency": "Westminster North",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "Your choice at this election:",
+        "content": "Strong, stable leadership in the national interest OR A coalition of chaos with Jeremy Corbyn"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Lindsey Hall",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The risk is just too big to take: higher debt, higher taxes, economic chaos",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "020 7625 3805",
+      "email": "voted@lindseyhall.co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lindsey Hall with Theresa May"
+        },
+        {
+          "caption": "Lindsey Hall - Your local Conservative Candidate for Westminster North"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contrasts strong, stable leadership with a coalition of chaos in the event of Jeremy Corbyn winning. It suggests economic consequences of the latter with phrases like 'higher debt, higher taxes, economic chaos.' The leaflet does not contain any explicit policy details, personal statements, political experience, endorsements, or detailed contact information beyond an email and phone number."
+  }
+}
+```

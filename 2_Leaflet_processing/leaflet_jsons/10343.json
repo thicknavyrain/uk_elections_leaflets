@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "Action on the economy",
+        "content": "We support families and businesses, strengthening the recovery and promoting jobs. We have tough plans to halve the deficit in four years. The action taken is working - the rate of unemployment, business failures and home repossessions have been a lot lower than in the Conservative recession of the 1990s."
+      },
+      {
+        "title": "Protecting frontline services",
+        "content": "We promise a one-week cancer diagnosis and free personal care for the elderly with highest needs. We have provided since 1997 - 89,000 extra nurses, 44,000 extra doctors & 42,000 extra teachers. 4,000 new schools built & 3,500 Sure Start centres. We help millions of families with the Child Tax Credit and over £3 million children now have a Child Trust Fund."
+      },
+      {
+        "title": "Protecting frontline policing",
+        "content": "New guarantees on response times and a pledge that your neighbourhood policing team spends at least 80% of its time on the beat in your community. Crime is down by over a third since 1997 in part thanks to 17,000 more police, and 16,000 PCSOs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Support families and businesses, promote job growth, halve the deficit in four years, lower rates of unemployment, business failures, and home repossessions than in the past."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "One-week cancer diagnosis, free personal care for elderly with highest needs, huge increase in healthcare professionals, and significant investment in child health and education."
+      },
+      {
+        "policyTitle": "Policing",
+        "policyDescription": "Improve policing response times, ensure police spend 80% of time in community, reduce crime by over a third since 1997 through increasing police workforce."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Tough plans to halve the deficit in four years, support for families and businesses, action resulting in lower unemployment, business failures, and home repossessions.",
+      "education": "Built 4,000 new schools and established 3,500 Sure Start centres.",
+      "environment": "",
+      "governance": "",
+      "health": "One-week cancer diagnosis promised, significant increase in healthcare professionals, free personal care for the most needy elderly.",
+      "immigration": "",
+      "socialWelfare": "Helping millions of families with Child Tax Credit and over £3 million children with Child Trust Fund.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour vs Conservatives comparison on policies such as the economy, frontline services, and policing."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

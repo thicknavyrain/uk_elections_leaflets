@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ajmal Masroor",
+    "constituency": "Bethnal Green & Bow",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A strong voice for Bethnal Green & Bow",
+        "content": "We will provide more affordable homes in Tower Hamlets. We will cut fuel bills by insulating homes properly. We will cut crime by putting more police on the streets. We will build more schools in Tower Hamlets and cut down classroom size. We will axe council tax and replace it with a fair system of Local Income Tax based on ability to pay. We will take robust measures to protect our environment by cutting pollution, cutting congestion and boosting renewable energy."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "We will provide more affordable homes in Tower Hamlets."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "We will cut fuel bills by insulating homes properly."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "We will cut crime by putting more police on the streets."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "We will build more schools in Tower Hamlets and cut down classroom size."
+      },
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "We will axe council tax and replace it with a fair system of Local Income Tax based on ability to pay."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "We will take robust measures to protect our environment by cutting pollution, cutting congestion and boosting renewable energy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ajmal Masroor",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "We will build more schools in Tower Hamlets and cut down classroom size.",
+      "environment": "We will take robust measures to protect our environment by cutting pollution, cutting congestion and boosting renewable energy.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We will provide more affordable homes in Tower Hamlets.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07956 987 398",
+      "email": "Email: ajmal@ajmalmasroor.com",
+      "website": "Website: www.AjmalMasroor.com",
+      "socialMedia": {
+        "facebook": "lets support Ajmal Masroor",
+        "twitter": "AjmalMasroor",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sharon, Jainal & Ray will always be available for local people."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

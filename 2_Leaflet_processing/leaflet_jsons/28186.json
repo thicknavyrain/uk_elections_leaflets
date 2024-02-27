@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Henry Bellingham",
+    "constituency": "North West Norfolk",
+    "politicalParty": "Conservatives",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "Personal message from HENRY BELLINGHAM",
+        "content": "It has been a huge honour to represent you over the past 30 years, and I am totally dedicated to serving you and to fighting day and night for our wonderful part of the country. ..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Championing our local NHS",
+        "policyDescription": "Voted to secure new £30 million hospital for King's Lynn."
+      },
+      {
+        "policyTitle": "Backing local enterprise, tourism and the rural economy",
+        "policyDescription": "Backing projects that create valuable jobs and tourism opportunities."
+      },
+      {
+        "policyTitle": "Sustainable Development",
+        "policyDescription": "Housing development must be sustainable and command public support."
+      },
+      {
+        "policyTitle": "Infrastructure and Skills",
+        "policyDescription": "Sourcing better infrastructure with widespread support."
+      }
+    ],
+    "mentions": {
+      "candidate": "Henry Bellingham",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Government's economic achievements.",
+      "education": "It is also incredibly important that we continue to raise standards across all school programmes, from nursery schools through to Universities.",
+      "environment": "",
+      "governance": "",
+      "health": "Visited the Health Secretary, lobbied the Prime Minister and Chancellor, secured a new £30 million hospital for King's Lynn.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Housing development must be sustainable and command public support. We can give no quarter for urban sprawl.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "It has been a huge honour to represent you over the past 30 years...",
+    "politicalExperience": [
+      {
+        "role": "Local MP",
+        "duration": "first elected in 1983",
+        "achievements": "Led the campaign to stop the wretched incinerator; Maintaining current levels of Defence expenditure; Consistently campaigned for the increases in the Personal Tax Free Allowance..."
+      }
+    ],
+    "contactInformation": {
+      "address": "38 London Street, Swaffham, Norfolk, PE37 7DQ",
+      "phone": "",
+      "email": "",
+      "website": "www.henrybellingham.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Henry Bellingham with supporters."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

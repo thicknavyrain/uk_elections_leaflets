@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "North Norfolk",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "BACK ME TO LEAD BRITAIN'S BREXIT NEGOTIATIONS",
+        "content": "Just 11 days after you vote in this unique and crucial election, the European Union wants to start Brexit negotiations with Britain. Your local vote in North Norfolk will decide who will be the Prime Minister to lead these Brexit negotiations on behalf of our country."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "BREXIT NEGOTIATIONS",
+        "policyDescription": "The candidate is urging voters to back them to lead Brexit negotiations with the European Union, starting 11 days after the election."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "Your local vote in North Norfolk will decide who will be the Prime Minister to lead these Brexit negotiations on behalf of our country."
+    },
+    "issues": {
+      "brexitEurope": "The candidate highlights the importance of Brexit negotiations with the European Union and the decision of who will lead those negotiations for Britain.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "EU wants Brexit negotiations to start 11 days after you vote"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet prompts voters to make a plan to vote on the election date and emphasizes the role of Brexit negotiations in the upcoming election."
+  }
+}
+```

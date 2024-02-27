@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "We need someone to stand up for our environment in government",
+    	"content": "While others have stood on the sidelines saying green things, the Liberal Democrats have been in government doing them..."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Doubling UK renewable energy generation",
+    	"policyDescription": "Doubling UK renewable energy generation"
+  	},
+    {
+    	"policyTitle": "Saving our forests from privatisation and planting a million more trees",
+    	"policyDescription": "Saving our forests from privatisation and planting a million more trees"
+  	},
+  	{
+    	"policyTitle": "Founding the world's first Green Investment Bank creating 250,000 low carbon jobs by 2020",
+    	"policyDescription": "Founding the world's first Green Investment Bank creating 250,000 low carbon jobs by 2020"
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "The Liberal Democrats are committed to fighting for 5 new laws to protect and improve our environment. Promoting green transport. Raising energy efficiency. Targets to reduce waste. Decarbonisation targets for energy.",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.libdems.org.uk/environment",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Green Alliance",
+    	"endorsement": "Here's what the Green Alliance, which includes Greenpeace, Friends of the Earth, the RSPB, and others say about the Liberal Democrats... Liberal Democrats have won some significant battles on climate change."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "5 GREEN LAWS FOR BRITAIN."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

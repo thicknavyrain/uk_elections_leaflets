@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Amy Gray",
+    "constituency": "Hackney North and Stoke Newington",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A personal message from Amy Gray",
+        "content": "I love living in Hackney. We live in a young, enterprising and special place. Under a Conservative-led government we have better schools, lower crime and more jobs. Our businesses will continue to thrive, our children will have richer futures and our public services will be protected under a Conservative government. This May, vote Gray!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "More affordable and social housing",
+        "policyDescription": "Allocated fairly, and better use of our existing buildings."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Enough good school places for all our children, so that everyone who grows up here has the best start in life."
+      },
+      {
+        "policyTitle": "Local Small Businesses",
+        "policyDescription": "Support for local small businesses to grow and create jobs so that unemployment continues to fall."
+      }
+    ],
+    "mentions": {
+      "candidate": "Amy Gray",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Our schools in Hackney have never been better, thanks to the strong number of academies driving up standards.",
+      "environment": "",
+      "governance": "",
+      "health": "The NHS is at its best when it puts patients first. Thanks to this government's reforms, doctors can now choose the best provider for their patients, cutting waiting times.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We need more flexible planning to allow high-quality, easier-to-access local builders and developers to take pride for beautiful homes while retaining or protecting green fields and our countryside.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I moved to Hackney in 2005 when I was an English teacher at an inner-London school. I'm a school governor at a wonderful church primary school in Hackney. After working in the arts, journalism and politics, I now want to represent my neighbours in Parliament.",
+    "politicalExperience": [
+      {
+        "role": "School Governor",
+        "duration": "",
+        "achievements": "Active involvement in the educational community."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07708 159286",
+      "email": "",
+      "website": "www.amygray.org.uk",
+      "socialMedia": {
+        "facebook": "www.facebook.com/amygrayfornorth",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Amy Gray alongside an image with Boris Johnson."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Hugh Newsam",
+    "constituency": "Kings Hedges",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Delivering the £8bn our NHS needs",
+        "content": "The Liberal Democrats remain a party utterly committed to the NHS... It’s the Lib Dems who have committed to investing the £8 billion extra..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Housing",
+        "policyDescription": "Lib Dems will invest £12m in local housing - Manifesto sets out plans for 100 new homes."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Delivering the £8bn our NHS needs - Protecting and improving the NHS by investing the £8 billion extra that is needed."
+      }
+    ],
+    "mentions": {
+      "candidate": "Hugh Newsam",
+      "otherPartyLeaderCandidate": "Julian",
+      "partyLeader": "",
+      "tacticalSituation": "It's neck-and-neck here! Local people know that Julian will always put Cambridge first - unlike Labour's candidate, who will put party before city. Green 8%, Con 19%, UKip 7%, OUT OF THE RACE, LDs 32%, Lab 33%"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "The word is spreading: Hugh Newsam and the Lib Dems won't stand by while the City Council ignores the issues that matter to Kings Hedges residents.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Lib Dems will invest £12m in local housing - Manifesto sets out plans for 100 new homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "The concerns of Kings Hedges residents are not being addressed by the City Council. I will focus on the issues that matter for all of us \u2013 the congestion, and preserving the natural and built heritage of Kings Hedges.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Stronger Economy. Fairer Society. Opportunity for Everyone.",
+        "source": "Campaign slogan",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lib Dem group have set out their fresh ideas for the city in their manifesto."
+        },
+        {
+          "caption": "Local Lib Dems addressing residents' concerns."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

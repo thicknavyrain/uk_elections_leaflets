@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Rebecca Pow",
+	"constituency": "Taunton Deane",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+		{
+			"title": "YOUR SEAT COUNTS AND EVERY SINGLE VOTE WILL COUNT",
+			"content": "Some people say that Jeremy Corbyn can't possibly become Prime Minister. But that's just not true. Remember, the opinion polls got the General Election wrong in 2015. They got the EU referendum wrong, and as Jeremy Corbyn has himself said, he was a 200-1 outside chance for the Labour leadership. With so much at stake, it is not worth taking the risk of Jeremy Corbyn becoming Prime Minister — even as part of a coalition government or hung parliament."
+		},
+		{
+			"title": "MAKING BREXIT A SUCCESS IS CENTRAL TO OUR NATIONAL INTEREST",
+			"content": "There is enormous opportunity for Britain as we leave the European Union. We will seize this opportunity. By going to Brussels with a strong negotiating hand I can ensure we guarantee our economic security."
+		},
+	    {
+	    	"title": "THIS IS A UNIQUE AND CRUCIAL ELECTION FOR OUR COUNTRY",
+	    	"content": "I believe that with dedication and hard work, we can make a success of Brexit and bring our country together - building a stronger economy that creates secure and well-paid jobs, where every child gets a good school place and where people can buy a home of their own."
+	    }
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Rebecca Pow",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "Theresa May",
+  	"tacticalSituation": "A vote for the Liberal Democrats in Taunton Deane constituency is a wasted vote."
+	},
+	"issues": {
+  	"brexitEurope": "There is enormous opportunity for Britain as we leave the European Union. We will seize this opportunity to get the best Brexit deal for you and for Britain.",
+  	"economy": "guarantee our economic security.",
+  	"education": "every child gets a good school place",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "where people can buy a home of their own",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "Jonathan Fraser-Howells, on behalf of Rebecca Pow, 55 Northgate, Bridgwater Somerset TA6 3EU.",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Theresa May",
+    	"endorsement": "P.S. So the choice at this election is clear. Strong and stable leadership with me in the national interest to see us through Brexit and beyond, or a hung parliament and coalition of chaos with Jeremy Corbyn negotiating Brexit."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Strong and stable leadership with... to see us through Brexit and beyond.",
+    	"source": "Theresa May",
+    	"date": ""
+  	},
+  	{
+    	"text": "A coalition of chaos with Jeremy Corbyn",
+    	"source": "Mirror, 20th April 2017",
+    	"date": "2017-04-20"
+  	}
+	],
+	"campaignMaterial": {
+		"images": [
+			{
+				"caption": "Theresa May with Rebecca Pow"
+			},
+			{
+				"caption": "A COALITION OF CHAOS WITH JEREMY CORBYN"
+			},
+			{
+				"caption": "LABOUR PLOTS BREXIT DEAL WITH EU REBELS TO OVERTURN ELECTION RESULT IF TORIES DON'T WIN LANDSLIDE MAJORITY"
+			}
+		]
+	},
+	"additionalNotes": ""
+  }
+}
+```

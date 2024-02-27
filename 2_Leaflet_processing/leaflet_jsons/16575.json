@@ -1,0 +1,115 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "UKIP",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "UKIP says YES to",
+    	"content": "An NHS free at the point of delivery; No tax on the minimum wage; Housing priority for local people; Affordable energy"
+  	},
+  	{
+    	"title": "UKIP says NO to",
+    	"content": "Unlimited immigration; £55m a day membership fees to the EU; £12 billion a year in foreign aid; The 'bedroom tax' and the 'mansion tax'"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS",
+    	"policyDescription": "Supports an NHS that is free at the point of delivery, proposes an additional £3 billion in funding."
+  	},
+  	{
+    	"policyTitle": "Minimum Wage",
+    	"policyDescription": "Ensures that those on minimum wage do not have to pay income tax."
+  	},
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "Gives priority to local people for social and low-cost housing."
+  	},
+  	{
+    	"policyTitle": "Energy",
+    	"policyDescription": "Prioritizes investment in affordable energy from sources like shale gas and nuclear, and is against oversubsidized wind and solar farms."
+  	},
+  	{
+    	"policyTitle": "Immigration",
+    	"policyDescription": "Promotes a stance against unlimited immigration."
+  	},
+  	{
+    	"policyTitle": "EU Membership Fees",
+    	"policyDescription": "Opposes the £55 million a day membership fees to the EU."
+  	},
+  	{
+    	"policyTitle": "Foreign Aid",
+    	"policyDescription": "Wants to reduce the £12 billion a year spent on foreign aid."
+  	},
+  	{
+    	"policyTitle": "Bedroom & Mansion Tax",
+    	"policyDescription": "Against 'bedroom tax' and 'mansion tax'."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Labour and the Tories",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Opposes £55m a day membership fees to the EU; views the EU as the past, not the future.",
+  	"economy": "Against 'bedroom tax' and 'mansion tax'; advocates for simpler tax and welfare systems.",
+  	"education": "",
+  	"environment": "Against oversubsidized wind and solar farms; prefers investment in shale gas and nuclear energy.",
+  	"governance": "",
+  	"health": "Increases NHS funding by £3 billion; promotes NHS free at the point of delivery.",
+  	"immigration": "Against unlimited immigration.",
+  	"socialWelfare": "Against 'bedroom tax' and 'mansion tax'; calls for fairer tax and welfare systems.",
+  	"housing": [
+    	{
+      	"content":"Prioritizes local people for social and low-cost housing to help local youngsters get on the property ladder.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "UKIP, Lexdrum House, King Charles Business Park, Newton Abbot TQ12 6UT.",
+  	"phone": "0333 800 6 800",
+  	"email": "",
+  	"website": "ukip.org",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "UKIP campaign flyer."
+    	}
+  	]
+	},
+	"additionalNotes": "Leaflet criticizes the Labour and Conservative parties, particularly concerning their handlings of the NHS and taxation."
+  }
+}

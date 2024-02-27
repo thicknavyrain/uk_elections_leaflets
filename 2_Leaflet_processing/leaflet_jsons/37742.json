@@ -1,0 +1,66 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Dr Felix AUBEL",
+	"constituency": "Ceredigion",
+	"politicalParty": "Welsh Conservatives",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Creating more jobs",
+    	"policyDescription": "Supporting small business and improving infrastructure in Ceredigion."
+  	},
+  	{
+		"policyTitle": "Delivering competent leadership and a strong economy",
+		"policyDescription": "To pay for good schools and hospitals."
+	},
+	{
+		"policyTitle": "Protecting local health services",
+		"policyDescription": "Guaranteeing more investment in our NHS each and every year."
+	}
+	],
+	"mentions": {
+  	"candidate": "Dr Felix AUBEL",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Delivering competent leadership and a strong economy to pay for good schools and hospitals.",
+  	"education": "Delivering competent leadership and a strong economy to pay for good schools and hospitals.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Protecting local health services by guaranteeing more investment in our NHS each and every year.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": []
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Dr Felix AUBEL with supporters"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

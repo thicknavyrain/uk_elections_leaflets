@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sam Trask",
+    "constituency": "Pontypridd",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "Labour ‘still divided over Brexit’",
+        "content": "The only thing Labour would deliver is more confusion."
+      },
+      {
+        "title": "Only Conservatives will deliver Brexit",
+        "content": "We will carry out the will of the people and get Brexit done, no more delays, no more excuses - an end to the uncertainty parliament has forced on the country."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Delivering Brexit",
+        "policyDescription": "Conservatives will get Brexit done without any further delays or excuses."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sam Trask",
+      "otherPartyLeaderCandidate": "Labour's divided stance on Brexit, a Corbyn government",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+	  "brexitEurope": "Conservatives promise to end the delays and deliver Brexit. Labour is criticized for confusion and delay on Brexit.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour ‘still divided over Brexit’",
+        "source": "BBC News",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Latest news for Pontypridd from Sam Trask – your Conservative Parliamentary Candidate"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

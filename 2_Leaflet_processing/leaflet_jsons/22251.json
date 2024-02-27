@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Veart",
+    "constituency": "Edinburgh North and Leith",
+    "politicalParty": "Scottish Liberal Democrat",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Income Tax",
+        "policyDescription": "We will cut income tax for people in Edinburgh by another £400"
+      },
+      {
+        "policyTitle": "State Pension",
+        "policyDescription": "We will change the law so that the state pension always rises higher than earnings or inflation every year."
+      },
+      {
+        "policyTitle": "Health Spending",
+        "policyDescription": "The Liberal Democrats will increase health spending across the UK which means £800m more for Scotland"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The Liberal Democrats will increase health spending across the UK which means £800m more for Scotland",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Martin Veart in front of modern buildings, smiling."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

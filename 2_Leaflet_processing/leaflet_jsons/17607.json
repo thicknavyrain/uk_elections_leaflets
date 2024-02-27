@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "JOHN PITTS",
+    "constituency": "Colchester",
+    "politicalParty": "UK INDEPENDENCE PARTY",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Standing Up for Real Change",
+        "content": "Dear Voter,\n\nI was born in Colchester and run local businesses giving me a sound community knowledge and business experience of what is needed locally to boost our economy, enterprise, and employment prospects. I have five children and two grandchildren and am a member of a local church. I have served as a local school governor, and parish councillor. A strong supporter of the local opposition to over-development in Colchester, I understand the need to tackle congestion in the town with a common sense approach.\n\nYours sincerely, John Pitts"
+      },
+      {
+        "title": "How we can change the future together",
+        "content": "Control our borders\nInvest in the NHS\nFairer tax system\nSpend here, not abroad"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Control our borders",
+        "policyDescription": "UKIP wants a FAIRER Australian-style points-based system to decide who comes to work and settle here."
+      },
+      {
+        "policyTitle": "Invest in the NHS",
+        "policyDescription": "UKIP will pour £3 billion a year EXTRA into the NHS to keep it a free public service, funded by scrapping our £55 million a day EU membership fee."
+      },
+      {
+        "policyTitle": "Fairer tax system",
+        "policyDescription": "UKIP will SCRAP income tax on the minimum wage, SCRAP the bedroom tax, and SCRAP the tax on your children when you die."
+      },
+      {
+        "policyTitle": "Spend here, not abroad",
+        "policyDescription": "By stopping our EU membership fee and clawing back the £350 million a day spent on foreign aid, UKIP is the ONLY PARTY with money to spend at home."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Pitts",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "By stopping our EU membership fee...",
+      "economy": "UKIP will pour £3 billion a year EXTRA into the NHS to keep it a free public service...",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "UKIP will pour £3 billion a year EXTRA into the NHS to keep it a free public service...",
+      "immigration": "UKIP wants a FAIRER Australian-style points-based system to decide who comes to work and settle here.",
+      "socialWelfare": "UKIP will SCRAP income tax on the minimum wage, SCRAP the bedroom tax...",
+      "housing": [
+        {
+          "content": "A strong supporter of the local opposition to over-development in Colchester...",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I was born in Colchester and run local businesses giving me a sound community knowledge and business experience...",
+    "politicalExperience": [
+      {
+        "role": "Local school governor, and parish councillor",
+        "duration": "",
+        "achievements": "Supporter of the local opposition to over-development in Colchester."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01206 738157",
+      "email": "info.colchester@ukip.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A leaflet promoting John Pitts for Colchester with key messages and policies."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

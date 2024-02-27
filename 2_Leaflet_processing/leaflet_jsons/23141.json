@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Trudie McGuinness",
+    "constituency": "Staffordshire Moorlands",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "",
+        "content": "It's time for change. It's time to fight for fairness for all. I will put the Staffordshire Moorlands first and work hard for you and your family."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Trudie McGuinness",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Trudie McGuinness, Labour candidate for Staffordshire Moorlands"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "ANNA WIDDUP",
+    "constituency": "EPPING FOREST",
+    "politicalParty": "Green Party",
+    "electionDate": "MAY 7",
+    "messages": [
+      {
+        "title": "YOUR GREEN PARTY CANDIDATE",
+        "content": "Anna Widdup has been an active member of the Green Party locally for 18 months, and campaigned during the local and European elections in 2014, when we won our first seat on Epping Forest District Council."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting NHS",
+        "policyDescription": "Protecting the NHS, more measures that will hit the vulnerable, including those with a disability and low incomes."
+      },
+      {
+        "policyTitle": "Fighting for Decent Wages",
+        "policyDescription": "Fighting for a decent wage, banning zero hours contracts and a £10 an hour minimum wage."
+      },
+      {
+        "policyTitle": "Fair Taxes",
+        "policyDescription": "Fairer, banded tax system so big corporations and rich individuals pay their fair share."
+      },
+      {
+        "policyTitle": "Public Ownership of Rail",
+        "policyDescription": "Bringing back the railways to lower fares; investing in clean energy to tackle climate change."
+      },
+      {
+        "policyTitle": "Creating Housing Opportunites",
+        "policyDescription": "Creating housing opportunities."
+      }
+    ],
+    "mentions": {
+      "candidate": "ANNA WIDDUP",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "NATALIE BENNETT, GREEN PARTY LEADER; CAROLINE LUCAS",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Fight for a publicly funded, publicly provided health service free at the point of use.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Creating housing opportunities.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "If elected I would fight to keep local services for everyone. I would work to create a fairer society that protects the planet for the future.",
+    "politicalExperience": [
+      {
+        "role": "Member of Green Party",
+        "duration": "18 months",
+        "achievements": "campaigned during local and European elections in 2014, won first seat on Epping Forest District Council."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "anna.widdup@greenparty.org.uk",
+      "website": "www.eppingforestgreens.org.uk",
+      "socialMedia": {
+        "facebook": "www.facebook.com/greenparty",
+        "twitter": "@TheGreenParty",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "NATALIE BENNETT, GREEN PARTY LEADER",
+        "endorsement": "Vote Green and you can help us build a society that works for the Common Good."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Imagine a political system that puts the public first. Imagine an economy that gives everyone their fair share. Imagine a society capable of supporting everyone's needs. Imagine a planet protected from the threat of climate change now and for the generations to come. That's the future we want to create and we believe we have the means to do it.",
+        "source": "NATALIE BENNETT, GREEN PARTY LEADER",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Anna Widdup with residents in Epping Forest."
+        },
+        {
+          "caption": "Anna Widdup, Epping Forest Green Party candidate portrait."
+        }
+      ]
+    },
+    "additionalNotes": "This publication has been paid for and printed 100% post-consumer fiber, FSC® recycled certified and FSC® by Process Chlorine Free (PCF). Funded by Ordinary People, Represented by Ordinary People. Promoted by Rosie Pearson, Hampshire RG25 2PH."
+  }
+}
+```

@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Neville Farmer",
+    "constituency": "Wyre Forest",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A Strong Voice for Wyre Forest",
+        "content": "Times are tough and this tired Labour Government has let all of us down. Only the investment bankers are still living it up in 'the age of greed'."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Implement a £10,000 tax-free income allowance; taxing the richest more; lower tariffs for low paid."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Oppose economic plans that could cost jobs and bankrupt businesses; support green job creation."
+      },
+      {
+        "policyTitle": "Energy Bills",
+        "policyDescription": "Lower energy bills by requiring energy companies to offer the lowest tariffs to the less wealthy."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Create thousands of jobs insulating Britain's homes and building affordable houses."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Invest in children's education by reducing class sizes and funding schools to help disadvantaged children."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Clean up government so elections reflect what the public wants without wasteful spending."
+      }
+    ],
+    "mentions": {
+      "candidate": "Neville Farmer",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg, Vince Cable",
+      "tacticalSituation": "A vote for anyone else or staying at home will only help the Conservatives sneak in."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Economic plans that could cost jobs and bankrupt businesses are opposed.",
+      "education": "Invest in Wyre Forest’s children, reducing class sizes and funding schools.",
+      "environment": "Create jobs insulating Britain’s homes to cut emissions.",
+      "governance": "Clean up government, sack your MP, make elections reflect the public wants with no hidden agendas.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Create thousands of jobs building affordable houses, cutting housing waiting lists and house building emissions.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Please give your vote to me, Neville Farmer.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Freepost RRKU-KRCS-TJXB, 22 Warbler Place, Kidderminster, DY10 4DZ",
+      "phone": "07966 150444",
+      "email": "nevillefarmer@aol.com",
+      "website": "www.wyreforestlibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

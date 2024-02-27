@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Derek Thomas",
+    "constituency": "West Cornwall and the Isles of Scilly",
+    "politicalParty": "",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "INSIDE: Proven to be a hard-working and tireless campaigner",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Derek Thomas",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "derekthomas.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Derek Thomas with a group of supporters."
+        },
+        {
+          "caption": "Derek Thomas in conversation with local fishermen."
+        },
+        {
+          "caption": "Derek Thomas walking in a local street."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

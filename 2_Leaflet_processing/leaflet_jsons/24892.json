@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Save and improve our NHS"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Reduce tuition fees to £6,000"
+      },
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Clamp down on tax avoidance"
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Stop people who come here from claiming benefits for two years"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Balance the books and cut the deficit"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We will cut the deficit every year. None of our manifesto commitments require extra borrowing.",
+      "education": "Reduce tuition fees to £6,000",
+      "environment": "",
+      "governance": "",
+      "health": "Save and improve our NHS",
+      "immigration": "Stop people who come here from claiming benefits for two years",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Labour"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

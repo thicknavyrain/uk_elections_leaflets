@@ -1,0 +1,67 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stef Borella",
+    "constituency": "Bexleyheath & Crayford",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Expanding Home Ownership and Protecting Renters",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Investing in Reliable and Affordable Transport",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Stef Borella",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Expanding Home Ownership and Protecting Renters",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Unit B1, Gallewayall Trading Estate, Gallewayall Road SE16 3PB",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Stef Borella"
+        }
+      ]
+    },
+    "additionalNotes": "Election communication leaflet"
+  }
+}
+```

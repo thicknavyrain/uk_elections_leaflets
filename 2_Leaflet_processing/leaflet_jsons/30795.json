@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+  	"candidateName": "Carolyn Abbott",
+  	"constituency": "Gedling",
+  	"politicalParty": "Conservatives",
+  	"electionDate": "",
+  	"messages": [
+    	{
+      	"title": "Theresa May's Plan for a Stronger Britain",
+      	"content": "Secure the best deal from Brexit to control our laws, borders and money. New markets around the world for our goods and services. More and better-paid jobs with new rights and protections for workers. The chance to own your home with more affordable housing. Tackling the cost of living and keeping taxes low. Increased schools funding every year and real technical education for young people. Extra funding for the NHS and proper care for the elderly. Security for our children online and personal data protected."
+    	}
+  	],
+  	"keyPolicies": [
+    	{
+      	"policyTitle": "Economic Future",
+      	"policyDescription": "Carolyn Abbott is standing to secure the economic future and guarantee our economic security with a strong negotiating hand on Brexit."
+    	},
+    	{
+      	"policyTitle": "Education",
+      	"policyDescription": "Increased schools funding every year and real technical education for young people."
+    	}
+  	],
+  	"mentions": {
+    	"candidate": "Carolyn Abbott",
+    	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+    	"partyLeader": "Theresa May",
+    	"tacticalSituation": "A vote for any other local candidate in Gedling is described as potentially weakening Britain's bargaining position on Brexit and could help Jeremy Corbyn on the way to becoming Prime Minister."
+  	},
+  	"issues": {
+    	"brexitEurope": "Secure the best deal from Brexit to control our laws, borders and money.",
+    	"economy": "More and better-paid jobs with new rights and protections for workers.",
+    	"education": "Increased schools funding every year and real technical education for young people.",
+    	"environment": "",
+    	"governance": "",
+    	"health": "Extra funding for the NHS and proper care for the elderly.",
+    	"immigration": "",
+    	"socialWelfare": "",
+    	"housing": [
+      	{
+        	"content":"The chance to own your home with more affordable housing.",
+        	"yimbyNimby": "N/A"
+      	}
+    	]
+  	},
+  	"personalStatement": "",
+  	"politicalExperience": [],
+  	"contactInformation": {
+    	"address": "",
+    	"phone": "",
+    	"email": "",
+    	"website": "",
+    	"socialMedia": {
+      	"facebook": "",
+      	"twitter": "",
+      	"instagram": "",
+      	"linkedin": ""
+    	}
+  	},
+  	"endorsements": [],
+  	"quotes": [
+    	{
+      	"text": "With your help -- and your vote for my local candidate, Carolyn Abbott -- together we can get Brexit right and secure our economic future.",
+      	"source": "Theresa May",
+      	"date": ""
+    	}
+  	],
+  	"campaignMaterial": {
+    	"images": [
+      	{
+        	"caption": "Carolyn Abbott with Theresa May's team."
+      	}
+    	]
+  	},
+  	"additionalNotes": "The election material references strategic voting considerations and positions Carolyn Abbott as having Theresa May's support. The piece is critical of Jeremy Corbyn and suggests a coalition with him would be unfavorable."
+  }
+}
+```

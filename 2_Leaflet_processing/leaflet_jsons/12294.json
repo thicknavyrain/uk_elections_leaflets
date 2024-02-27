@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "After 13 years of Labour letdowns...",
+        "content": "Labour voters desert Gordon Brown for the Lib Dems. Liberal Democrats were 'only one of the three main political parties to have voted against the [Iraq] war.'... Nick Clegg's Lib Dems can deliver real change."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "Gordon Brown, Emily Thornberry",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Labour voters desert Gordon Brown for the Lib Dems",
+        "source": "News of the World",
+        "date": ""
+      },
+      {
+        "text": "Liberal Democrats were 'only one of the three main political parties to have voted against the [Iraq] war.'",
+        "source": "The Times",
+        "date": ""
+      },
+      {
+        "text": "If the Guardian had a vote it would be cast enthusiastically for the Liberal Democrats",
+        "source": "The Guardian",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg's Lib Dems can deliver real change"
+        }
+      ]
+    },
+    "additionalNotes": "CLARIFICATION OF EMILY THORNBERRY'S VIEWS: Emily Thornberry has objected to our reporting of her stance on the Iraq War Inquiry in our recent publications. We are happy to clarify that she voted with the Labour Government in June 2007 and March 2009 for amendments which declined an immediate inquiry. The amendments proposed that an inquiry should take place at an indeterminate time after UK troops had been withdrawn."
+  }
+}
+```

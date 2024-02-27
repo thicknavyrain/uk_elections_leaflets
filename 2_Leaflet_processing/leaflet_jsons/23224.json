@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Paul Field",
+    "constituency": "Newbury Constituency",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "The Green Vision for West Berkshire",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health & Social Care",
+        "policyDescription": "Patients before profits with an end to creeping privatisation of the NHS. Free health care including dentistry and eye care. Mental health the same priority as physical health. Free care for over-65s who need it and disabled people."
+      },
+      {
+        "policyTitle": "Housing & Development",
+        "policyDescription": "Build sustainable homes for sale and rent. Priority for brownfield over greenfield development. Proportion to their surroundings with good transport links. Local services - surgeries, schools, and open spaces to match new housing."
+      },
+      {
+        "policyTitle": "Rural Areas & The Environment",
+        "policyDescription": "Equal access to high-speed broadband in rural areas. Effective flood management. Genuine commitment to limiting climate change. Support sustainable agriculture and protect the countryside."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Free early education and fully funded children's centres. Quality, locally accountable schools. End the misguided test-driven culture of SATs, league tables, and Ofsted. Scrap tuition fees."
+      },
+      {
+        "policyTitle": "Transport & Road Safety",
+        "policyDescription": "Return our railways to public ownership. Expand the electrification of the rail network. Build a comprehensive public transport system. Promote safe cycling and walking."
+      },
+      {
+        "policyTitle": "Democracy",
+        "policyDescription": "Genuine accountability and open government. A fair voting system where your vote really counts. Properly funded local councils free to manage local services. Politics driven by values, not party squabbles."
+      }
+    ],
+    "mentions": {
+      "candidate": "Paul Field",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "End the misguided test-driven culture of SATs, league tables, and Ofsted. Scrap tuition fees.",
+      "environment": "Genuine commitment to limiting climate change. Support sustainable agriculture and protect the countryside.",
+      "governance": "Genuine accountability and open government.",
+      "health": "Patients before profits with an end to creeping privatisation of the NHS. Free health care including dentistry and eye care. Mental health the same priority as physical health. Free care for over-65s who need it and disabled people.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Build sustainable homes for sale and rent. Priority for brownfield over greenfield development. Proportion to their surroundings with good transport links. Local services to match new housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Dear Voter, [body of message on the right panel]",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "newburygreens@mail.com",
+      "website": "newburygreens.org",
+      "socialMedia": {
+        "facebook": "newburygreens",
+        "twitter": "@newburygreens",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Paul Field walking in a field"
+        },
+        {
+          "caption": "Landscape of West Berkshire"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by David Marsh on behalf of Paul Field, both at [address]. Printed by Hillingdon Press Ltd, [address]. Election Communication"
+  }
+}
+```

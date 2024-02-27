@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Tod",
+    "constituency": "Winchester",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "6th May 2010",
+    "messages": [
+      {
+        "title": "Martin Tod’s NHS campaign: More ambulances improve response times",
+        "content": "Action taken by Liberal Democrat prospective MP Martin Tod has seen a big improvement in ambulance response times to emergency calls. Martin Tod uncovered the information after making Freedom of Information requests to every ambulance trust in England and Wales."
+      },
+      {
+        "title": "Conservative plans threaten cuts to local secondary schools",
+        "content": "The Liberal Democrats will put more resources into all our local schools."
+      },
+      {
+        "title": "Change that works for you",
+        "content": "Four steps to a fairer Britain: 1. Fairer taxes that put money back in your pocket 2. A £2.5 billion Fair Start for every child 3. A fair future: create jobs by making Britain greener 4. A fair deal for you from the politicians"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Improving ambulance response times and addressing shortfalls in NHS management."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Putting more resources into all local schools and opposition to Conservative cuts."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Fairer taxes, creating jobs by making Britain greener, and a fair deal from politicians."
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin Tod",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The Liberal Democrats will put more resources into all our local schools. 'Hundreds' of schools with large sixth-forms could suffer budget cuts under Tory plans.",
+      "environment": "",
+      "governance": "Giving you the right to sack corrupt MPs.",
+      "health": "More ambulances improve response times.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "St Bede to get new classrooms: Good news for local families as the planning application has gone in so that St Bede's primary school can expand by two extra classes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01962 622210",
+      "email": "office@martintod.org.uk",
+      "website": "MartinTod.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Martin Tod with NHS Ambulance staff, highlighting his campaign for more ambulances."
+        },
+        {
+          "caption": "Martin Tod with an individual at what appears to be a school or community center."
+        },
+        {
+          "caption": "Dominic Hiscock, a Liberal Democrat city councillor, is shown smiling outside a school, in support of Martin Tod."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

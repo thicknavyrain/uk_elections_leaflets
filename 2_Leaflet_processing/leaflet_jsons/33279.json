@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Knowles",
+    "constituency": "Sutton Coldfield",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "ELECTION COMMUNICATION",
+        "content": "\"I'm Labour's candidate for Sutton Coldfield, I grew up in Harborne, where family and friends still live. I'm a lifelong NHS campaigner and trade unionist.\n\nThis election is not just about preventing a Boris Johnson Government intent on recklessly leading us out of the EU. It's also about ensuring we end austerity, invest in schools and hospitals, create jobs and strong local economies, and create a future for the many not the few.\""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "David Knowles",
+      "otherPartyLeaderCandidate": "Boris Johnson",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "preventing a Boris Johnson Government intent on recklessly leading us out of the EU",
+      "economy": "create jobs and strong local economies",
+      "education": "invest in schools",
+      "environment": "",
+      "governance": "",
+      "health": "invest in...hospitals",
+      "immigration": "",
+      "socialWelfare": "end austerity",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "17 Devonshire Road, B73 6SW",
+      "phone": "07717 376 468",
+      "email": "",
+      "website": "www.labour.org.uk",
+      "socialMedia": {
+        "facebook": "@Knowles4Labour",
+        "twitter": "@SuttonColdfieldLabour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Knowles standing in a park with trees and a path."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes the need to prevent Boris Johnson's government from steering the UK recklessly out of the EU and mentions investing in schools and hospitals to end austerity. David Knowles stresses the importance of creating jobs and strong local economies and establishing a future for the many, not the few."
+  }
+}
+```

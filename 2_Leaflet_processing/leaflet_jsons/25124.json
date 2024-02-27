@@ -1,0 +1,102 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ann Duncan",
+    "constituency": "Oxford East",
+    "politicalParty": "Green Party",
+    "electionDate": "7 May 2015",
+    "messages": [
+      {
+        "title": "Time to fix Oxford's housing crisis",
+        "content": "With Midlands wages and London house prices, Oxford continues to be the most unaffordable city in the UK. People in Oxford are the victims of this and the government's belief in an economic system that puts profit before housing need. The average house now costs sixteen times the average wage in Oxford."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Push for council housing, a £10 minimum wage, and investment in well-paid jobs, delivering a green industrial revolution."
+      },
+      {
+        "policyTitle": "National Health Service",
+        "policyDescription": "Bring the NHS fully back into public ownership and fund it properly."
+      },
+      {
+        "policyTitle": "Minimum Wage",
+        "policyDescription": "Implement a £10 minimum wage."
+      },
+      {
+        "policyTitle": "Wealth Tax",
+        "policyDescription": "Introduce a new wealth tax on the richest 1%."
+      },
+      {
+        "policyTitle": "Rental Controls",
+        "policyDescription": "Implement controls against spiralling rents."
+      },
+      {
+        "policyTitle": "Council Housing",
+        "policyDescription": "Build 500,000 new council houses across the UK."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Scrap tuition fees, as in Scotland and Germany."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "End the detention and bullying of migrants."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ann Duncan",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "Oxford East hasn't elected a Tory since 1983, but voters here are desperate to see the back of David Cameron. It's a choice between Labour and the Green Party. The Lib Dems have turned their back on areas like ours, and the Tories haven't had a chance here for decades."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Scrap tuition fees, as in Scotland and Germany.",
+      "environment": "",
+      "governance": "",
+      "health": "Bring the NHS fully back into public ownership and fund it properly.",
+      "immigration": "End the detention and bullying of migrants.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "With Midlands wages and London house prices, Oxford is the most unaffordable city in the UK. People in Oxford are victims of the government's economic system that puts profit before housing need.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Ann Duncan, former World Bank economist and your Green Party MP candidate.",
+    "politicalExperience": [
+      {
+        "role": "Former World Bank economist",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Printed on 100% recycled paper and promoted by Matt Ledbury on behalf of Ann Duncan and the Oxfordshire Green Party, all at 41 Magdalen Road, Oxford OX4 1RB.",
+      "phone": "",
+      "email": "",
+      "website": "greenoxfordshire.com decenthomes",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ann Duncan is your Green Party MP candidate here in Oxford East."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

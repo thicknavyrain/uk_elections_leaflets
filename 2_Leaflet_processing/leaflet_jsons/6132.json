@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Jack Lopresti",
+	"constituency": "Filton",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Standing up for local residents",
+    	"policyDescription": "Work hard to protect local jobs, health and community facilities."
+  	},
+  	{
+    	"policyTitle": "Promoting our local economy",
+    	"policyDescription": "Promote local economy, jobs, and investment in business. Support flagship employers such as Aerospace and small to medium sized businesses that need help to grow and provide more jobs."
+  	},
+  	{
+    	"policyTitle": "Defending our Armed Forces",
+    	"policyDescription": "Ensure that Britain never again fights war cheaply and sends brave forces into battle without the necessary equipment and training."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Jack Lopresti",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Promote local economy, jobs, and investment in business. Support flagship employers such as Aerospace and small to medium sized businesses that need help to grow and provide more jobs.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "11 College Way, Filton, BS34 7BH",
+  	"phone": "0117 9736811",
+  	"email": "jack@jacklopresti.com",
+  	"website": "www.jacklopresti.com",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Jack Lopresti with his family"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

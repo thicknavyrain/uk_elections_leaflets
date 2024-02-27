@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Holder",
+    "constituency": "Newcastle Central",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Our next local MP?",
+        "content": "Nick Holder is the Conservative Parliamentary Candidate for Newcastle Central."
+      },
+      {
+        "title": "A PERSONAL MESSAGE FROM DAVID CAMERON",
+        "content": "WHY WE NEED CHANGE IN BRITAIN"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "The Conservatives will work with councils to freeze council tax for two years."
+      },
+      {
+        "policyTitle": "Cut in Costs of Politics",
+        "policyDescription": "We will cut the cost of politics, with a reduction in the number in MPs and cut ministers' pay."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "The Conservatives will enact immigration reform that includes a new annual limit allowing only those who will benefit the economy."
+      },
+      {
+        "policyTitle": "Help for Pensioners",
+        "policyDescription": "We will keep pensioners' free bus passes, free TV licences and Winter Fuel Allowance and increase the basic state pension by restoring the link to earnings."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "We will work hard to open a new technical college on Tyneside."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Holder",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "The Liberal Democrats are in third place and the SNP are out of the race."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "High quality education for all and supporting families.",
+      "environment": "",
+      "governance": "",
+      "health": "Protecting and strengthening the NHS with year on year funding increases.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Only by voting for Nick Holder can we achieve the change we need.",
+        "source": "David Cameron",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Holder with residents and various campaign images."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

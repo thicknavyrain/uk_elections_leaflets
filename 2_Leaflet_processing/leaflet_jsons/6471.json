@@ -1,0 +1,80 @@
+{
+  "leaflet": {
+    "candidateName": "Nigel Mills",
+    "constituency": "Amber Valley",
+    "politicalParty": "Conservatives",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "3 Positive Reasons to Vote for Nigel Mills",
+        "content": "A Local Champion; On the Side of Amber Valley residents; A Record of Delivery"
+      },
+      {
+        "title": "The Change We Need in Amber Valley",
+        "content": "Delivers more local jobs and apprenticeships; Fighting for better local health services"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Jobs and Apprenticeships",
+        "policyDescription": "Delivers more local jobs and apprenticeships."
+      },
+      {
+        "policyTitle": "Health Services",
+        "policyDescription": "Fighting for better local health services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nigel Mills",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Delivers more local jobs and apprenticeships.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Fighting for better local health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I live in the constituency, shop in its stores, use its services and rely on the same public services as everyone else.",
+    "politicalExperience": [
+      {
+        "role": "Conservative Candidate",
+        "duration": "5 years",
+        "achievements": "Delivered a jobs miracle."
+      }
+    ],
+    "contactInformation": {
+      "address": "Conservative Campaign Headquarters, 4 Cromwell Road, Ripley, Derbyshire DE5 3HL",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nigel Mills with David Cameron"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Coote",
+    "constituency": "Cheltenham",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "THE CHOICE AT THIS ELECTION:",
+        "content": "5 more years of Gordon Brown or Change with the Conservatives - The Conservatives must win here to stop another 5 years of Gordon Brown."
+      },
+      {
+        "title": "A PERSONAL MESSAGE FROM DAVID CAMERON",
+        "content": "In less than a week Britain votes in the most important national election for a generation. The choice couldn't be clearer: five more years of Gordon Brown's tired government making worse, or change with the Conservatives..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Coote",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We will cut the number of MPs and Ministers so we can start sorting out the economy, meaning that within weeks of the new Conservative-led Cabinet sitting down, people will be better off.",
+      "education": "We will deliver discipline and higher standards in all schools and we'll protect the entire schools budget.",
+      "environment": "",
+      "governance": "We will cut the number of MPs and Ministers...",
+      "health": "",
+      "immigration": "We will put a limit on the number of immigrants from outside of the EU.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Former secondary school teacher",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Redcliffe Conservatives, Cheltenham, GL50 4SP",
+      "phone": "0844 257 2206",
+      "email": "",
+      "website": "www.markcoote.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Cameron",
+        "endorsement": "The Conservatives must win here to stop another 5 years of Gordon Brown."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Britain needs energy and leadership. The only way to make sure we don't have 5 more years of Gordon Brown is to vote Conservative.",
+        "source": "A PERSONAL MESSAGE FROM DAVID CAMERON",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "MARK COOTE FIGHTING FOR CHELTENHAM"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

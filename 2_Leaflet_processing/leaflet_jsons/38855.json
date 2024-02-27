@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A BRIGHTER FUTURE FOR OUR MENTAL HEALTH SERVICES...",
+        "content": "The NHS may be the envy of the world, but our mental health service is not. People are struggling. When they turn for help, it is often not there."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Mental Health Services",
+        "policyDescription": "The Liberal Democrats have a plan to ringfence funding for mental health and put extra investment into services. They aim to provide mental health support within 24 hours a day, seven days a week, and by 2025, ensure that 100% of children and young people with diagnosable conditions get NHS treatment."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "The Liberal Democrats propose stopping Brexit, which they believe will provide a Remain Bonus to invest in public services like the NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Jeremy Corbyn's Labour party are determined to pursue Brexit. But whether it's a Conservative or a Labour Brexit it would be catastrophic for the UK. Stopping Brexit means that we can focus on tackling the big issues facing the UK right now.",
+      "economy": "Our economy will grow more quickly, providing a Remain Bonus that we will invest in our public services.",
+      "education": "",
+      "environment": "Once we stop Brexit, we can build a brighter future where we tackle the climate emergency and inequality.",
+      "governance": "",
+      "health": "A BRIGHTER FUTURE FOR OUR MENTAL HEALTH SERVICES... The NHS may be the envy of the world, but our mental health service is not.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "For many years, mental health has been overlooked by Conservative and Labour governments.",
+        "source": "Jo Swinson",
+        "date": ""
+      },
+      {
+        "text": "My government will ensure these patients no longer face shamefully long waiting times and are treated with the same care as those with physical illnesses.",
+        "source": "Jo Swinson",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liberal Democrats campaign material focusing on mental health services and Brexit."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet focuses on the Liberal Democrats' policies on mental health services and Brexit, criticizing the pursuit of Brexit by Jeremy Corbyn's Labour party, and advocating for 'a brighter future' by stopping Brexit and using the 'Remain Bonus' to invest in public services."
+  }
+}
+```

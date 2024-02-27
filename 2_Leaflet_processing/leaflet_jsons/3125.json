@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Richard Burt",
+    "constituency": "West Worcestershire",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "18th February 2010",
+    "messages": [
+      {
+        "title": "Health services",
+        "content": "Passionately protected local health services including home visits, cancer beds and now complex cancer surgery at Worcester Royal."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Commitment to high-quality healthcare, critical of Conservative and Labour management, intends to secure funding for NHS, and mentions guarantees to mental health and dementia research."
+      }
+    ],
+    "mentions": {
+      "candidate": "Richard Burt",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Next election predicted to be a close race between Liberal Democrats and the Conservatives. Emphasizing the tactical voting aspect with the statement 'It's the Lib Dems or the Conservatives here'."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protect local health services including maintaining funding for NHS, addressing management inefficiencies, and making it a core priority.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "I want to make sure local people continue to have high-quality healthcare, free for all, on their doorstep.",
+    "politicalExperience": [
+      {
+        "role": "Parliamentary Candidate",
+        "duration": "Over the past four years",
+        "achievements": "Protected local health services including home visits, cancer beds and now complex cancer surgery at Worcester Royal."
+      }
+    ],
+    "contactInformation": {
+      "address": "First Floor Office, 19 High Street, Pershore WR10 1AA",
+      "phone": "07970 713032",
+      "email": "richard.burt@libdems.net",
+      "website": "www.richardburt.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Labour has spent on management and administration",
+        "source": "Leaflet content",
+        "date": ""
+      },
+      {
+        "text": "The only democratically elected local health boards to decide on our priorities",
+        "source": "Leaflet content",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lib Dem - Richard Burt for West Worcestershire Leaflet Front"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet focuses on health as a primary campaign issue, particularly criticizing past expenditure on management and administration by Labour."
+  }
+}
+```

@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Dempsey",
+    "constituency": "The Cotswolds",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A fairer and greener future for all",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Green Economy",
+        "policyDescription": "By 2020 there will be more than 1.2 million green jobs."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "The NHS is the Labour Party's greatest achievement. We created the NHS, we saved it, we value it and we will always support it."
+      },
+      {
+        "policyTitle": "First Class Education for All",
+        "policyDescription": "We have doubled spending for public schools to open more spaces. Next we will provide catch up tuition so that all children learn primary school secure in the '3Rs'."
+      },
+      {
+        "policyTitle": "New Green Jobs",
+        "policyDescription": "1.5 million new green jobs will be supported by Labour."
+      },
+      {
+        "policyTitle": "Affordable Housing",
+        "policyDescription": "I will fight for more Affordable Housing in the Cotswolds."
+      },
+      {
+        "policyTitle": "Securing the Economic Recovery",
+        "policyDescription": "Faced with a global financial crisis, Labour controlled the deficit. Overcoming the banking crisis, we ensured families, individuals, and businesses did not suffer from excessive spending cuts and home repossessions."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Dempsey",
+      "otherPartyLeaderCandidate": "David Drew",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Securing the Economic Recovery",
+      "education": "First Class Education for All",
+      "environment": "Green Economy",
+      "governance": "",
+      "health": "NHS safe with Labour",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "I will fight for more Affordable Housing in the Cotswolds.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I believe in a society for the many rather than the few; that education is vital to ensuring every child has a chance to fulfill their potential, and that together we can forge a fairer and greener future.",
+    "politicalExperience": [
+      {
+        "role": "Labour candidate for The Cotswolds",
+        "duration": "",
+        "achievements": "Working in environmental sector. Creating the Climate Change Act. Doubling spending for public schools."
+      },
+      {
+        "role": "Westminster Experience",
+        "duration": "",
+        "achievements": "Worked in Westminster and have knowledge of Brussels to get things done for the people of The Cotswolds."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Drew",
+        "endorsement": "Mark is a great local candidate – he was born and grew up in Gloucestershire. He's passionate for people and the environment; and having worked in Westminster, he knows how to get things done. He has just what it takes for the Cotswolds, outward looking."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Mark is a great local candidate – he was born and grew up in Gloucestershire. He's passionate for people and the environment; and having worked in Westminster, he knows how to get things done. He has just what it takes for the Cotswolds, outward looking.",
+        "source": "David Drew, MP for Stroud since 1997",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mark Dempsey cycling"
+        },
+        {
+          "caption": "Mark Dempsey with David Drew"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

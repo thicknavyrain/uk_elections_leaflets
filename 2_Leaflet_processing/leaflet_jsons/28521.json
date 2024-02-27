@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ben Sims",
+    "constituency": "Leyton & Wanstead",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "Our NHS",
+        "content": "We need to give our NHS the funding that it needs."
+      },
+      {
+        "title": "The Real Opposition",
+        "content": "See page 4"
+      },
+      {
+        "title": "LOCAL RESIDENTS BETRAYED BY LABOUR",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Ben Sims",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "Labour have given the Conservatives an easy ride to pursue the most extreme and divisive Brexit. Labour are not fit to stand up to the Tories. Britain needs a real opposition."
+    },
+    "issues": {
+      "brexitEurope": "64% of residents voted to REMAIN in Europe but your local MP voted to LEAVE. Labour have given the Conservatives an easy ride to pursue the most extreme and divisive Brexit. Labour not fit to stand up to the Tories. Britain needs a real opposition.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "We need to give our NHS the funding that it needs.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "We need to give our NHS the funding that it needs.",
+        "source": "Ben Sims",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Local residents and Ben Sims pictured on the campaign trail."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet focusses heavily on the Brexit issue, accuses Labour of betrayal, and positions the Liberal Democrats as the real opposition. Additional details such as page references suggest more information contained within the leaflet that is not visible in the provided image."
+  }
+}
+```

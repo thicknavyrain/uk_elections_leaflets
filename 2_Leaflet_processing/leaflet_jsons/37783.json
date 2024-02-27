@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Sam Gould",
+	"constituency": "Caerphilly",
+	"politicalParty": "UKIP Wales",
+	"electionDate": "Thursday 5th May 2016",
+	"messages": [
+  	{
+    	"title": "Don't let Plaid Cymru or Labour's candidates fool you now there is an election looming!",
+    	"content": "Their record as councillors speaks for themselves."
+  	},
+    {
+      "title": "Only by Leaving the EU can we SAVE OUR GREENFIELDS",
+      "content": ""
+    }
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Save Caerphilly Mountain",
+    	"policyDescription": "Opposes plans to build on green spaces and supports building on brownfield sites. Believes leaving the EU can help regain local control over demand for housing."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Sam Gould",
+  	"otherPartyLeaderCandidate": "Plaid Cymru or Labour's candidates",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Only when we leave the EU can we have real control over demand for housing.",
+  	"economy": "",
+  	"education": "",
+  	"environment": "Opposes building on Caerphilly’s green spaces, supports saving Caerphilly Mountain.",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "Mentions immigration as a pressure causing demand for housing.",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Opposes plans to build on green spaces and supports building on brownfield sites. Wants to save Caerphilly Mountain.",
+      	"yimbyNimby": "NIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "Published and promoted by Sam Gould, 3 Pant Llygodfa, Caerphilly CF83 1TT",
+  	"phone": "02921 25 2921",
+  	"email": "sam@samgould.uk",
+  	"website": "www.samgould.uk",
+  	"socialMedia": {
+    	"facebook": "/SamuelGould",
+    	"twitter": "@GouldSam",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "A photo of the candidate with children holding a sign 'SAVE OUR GREENFIELDS'."
+    	},
+     {
+       "caption": "A scenic view of the Caerphilly constituency with text 'Only by Leaving the EU can we SAVE OUR GREENFIELDS'."
+     }
+  	]
+	},
+	"additionalNotes": "Course of Action: Vote for Sam Gould on Thursday 5th May, 2016. Vote to LEAVE the EU on Thursday 23rd June, 2016."
+  }
+}
+```

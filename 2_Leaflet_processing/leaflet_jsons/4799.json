@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Hamish Sandison",
+    "constituency": "Monmouth",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The Tories would repeal the hunting ban",
+        "content": "William Hague has told the Masters of Foxhounds Association that a Tory Government would repeal the Hunting Act. He reportedly assured the huntsmen that legalising bloodsports was 'a priority' and would be 'speedily delivered'. The hunt chairman called on his members to 'work tirelessly' for a Conservative Government."
+      },
+      {
+        "title": "I'm proud it was a Labour Government that banned hunting with dogs",
+        "content": "As the next Labour MP for Monmouth, I will work tirelessly to ensure that the Hunting Act is enforced, not watered down or repealed."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Animal Welfare - Hunting Ban",
+        "policyDescription": "Commitment to ensuring that the Hunting Act is enforced and not repealed, opposing the Conservatives' efforts to legalize fox hunting again."
+      }
+    ],
+    "mentions": {
+      "candidate": "Hamish Sandison is Labour’s Parliamentary Candidate for Monmouth Constituency.",
+      "otherPartyLeaderCandidate": "William Hague",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The Tories would repeal the hunting ban, I would work to ensure it is enforced",
+        "source": "Labour Candidate",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A fox depicted in the wild."
+        }
+      ]
+    },
+    "additionalNotes": "William Hague's statements are used to contrast the Conservative party's position on fox hunting with that of the Labour candidate."
+  }
+}
+```

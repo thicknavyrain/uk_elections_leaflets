@@ -1,0 +1,81 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr Chris Jones",
+    "constituency": "Norwich North",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "Why I am backing Chris Jones",
+        "content": "We need people like Chris in Parliament - people who’ve worked in the real world and know the issues. Chris has a real passion for mental health and a commitment to our public services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "End creeping privatisation of our NHS",
+        "policyDescription": "Chris Jones plans to prevent private companies from profiting off our NHS by stopping the outsourcing of services and returning to the NHS's foundational values."
+      },
+      {
+        "policyTitle": "Education for all not favouritism for a few",
+        "policyDescription": "Chris Jones emphasis on providing quality education for all, not just the select few, by opposing selective education and supporting local headteachers."
+      },
+      {
+        "policyTitle": "Protecting our homes and communities",
+        "policyDescription": "Chris Jones wants to hire more Police Officers, invest in youth services, and promote a restorative justice system to address the increase in crime rates and police budget cuts."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Jones",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Growing Norwich's high-tech economy",
+      "education": "Chris Jones opposes favouritism in education and supports funding for all schools.",
+      "environment": "",
+      "governance": "",
+      "health": "Focusing on mental health and social care is a priority for Chris Jones, as mentioned in his 15 years of working in the local health service.",
+      "immigration": "",
+      "socialWelfare": "Promising to protect the pension triple lock is one of Chris Jones's commitments.",
+      "housing": [
+        {
+          "content": "Protecting our homes and communities involves hiring more Police Officers and investing in youth services.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "For over 30 years I’ve been an NHS doctor. Now I’m standing for election to continue the commitment to helping the most vulnerable in our community.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "St Mark's Church Hall, Hall Road, Norwich, NR1 3HL",
+      "phone": "07900 184825",
+      "email": "mail@drchrisjones.com",
+      "website": "www.DrChrisjones.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@Chris4NorwichN",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Dave Rowntree",
+        "endorsement": "Chris has a real passion for mental health and a commitment to our public services."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dr. Chris Jones in front of Norfolk's mental health services at Hellesdon Hospital in Norwich North."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

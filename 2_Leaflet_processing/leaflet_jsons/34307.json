@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Paul Thomas",
+    "constituency": "Leeds Central",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "Without The Brexit Party There Can Be No Real Brexit",
+        "content": "Vote for the Brexit Party in Leeds Central on December 12th. There are around 130 parliamentary seats the Conservatives have not won for at least 50 years and will not win in this election."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A Clean-Break Brexit",
+        "policyDescription": "We must control our laws, borders, money, fishing and defence"
+      },
+      {
+        "policyTitle": "Fundamental Democratic Reform",
+        "policyDescription": "Let's make Parliament serve the people"
+      },
+      {
+        "policyTitle": "Investing in the NHS",
+        "policyDescription": "More doctors, less waste, no privatisation, end the postcode lottery on health"
+      },
+      {
+        "policyTitle": "Cutting the Cost of Living",
+        "policyDescription": "Freed from EU rules we can cut energy bills and make food and clothing cheaper"
+      },
+      {
+        "policyTitle": "A Brexit Dividend",
+        "policyDescription": "Spend £100bn on transport schemes and jobs in the Regions"
+      },
+      {
+        "policyTitle": "Controlled immigration",
+        "policyDescription": "We need a fair points-based system, blind to ethnic origin"
+      }
+    ],
+    "mentions": {
+      "candidate": "Paul Thomas",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Nigel Farage",
+      "tacticalSituation": "Vote for the Conservatives may risk letting in another Labour MP who wants a second referendum. Vote for the Brexit Party can beat Corbyn's Labour."
+    },
+    "issues": {
+      "brexitEurope": "Only the Brexit Party can beat Corbyn's Labour. Without the Brexit Party there can be no real Brexit.",
+      "governance": "The Brexit Party backs fundamental democratic reform to fix our broken Parliament and change politics for good.",
+      "health": "Investing in the NHS - More doctors, less waste, no privatisation, end the postcode lottery on health.",
+      "economy": "Cutting the Cost of Living - Freed from EU rules we can cut energy bills and make food and clothing cheaper.",
+      "immigration": "Controlled immigration - We need a fair points-based system, blind to ethnic origin.",
+      "housing": [
+        {
+          "content": "Spend £100bn on transport schemes and jobs in the Regions",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "83 Victoria Street, London SW1H 0HW",
+      "phone": "0800 414 8525",
+      "email": "",
+      "website": "www.thebrexitparty.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nigel Farage, Leader of The Brexit Party"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andrew Dismore",
+    "constituency": "Hendon",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday, May 7",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Andrew Dismore",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Our NHS: vital for everyone's future.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andrew Dismore Putting Hendon First"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

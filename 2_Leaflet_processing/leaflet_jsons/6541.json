@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Shahrar Ali",
+	"constituency": "Brent Central",
+	"politicalParty": "Green Party",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "A 'Living Wage'",
+    	"content": ""
+  	},
+  	{
+    	"title": "A million new jobs",
+    	"content": ""
+  	},
+  	{
+    	"title": "Protect our NHS",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Shahrar Ali",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "Only Greens make the connection between caring for the Earth and human happiness.",
+  	"governance": "",
+  	"health": "Protect our NHS",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"A 'Living Wage'",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "123C Dartmouth Road, LONDON NW2 4ES",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.iflowforibiz.biz",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Green Party leaflet front page with images of Shahrar Ali and various groups of people, alongside messages regarding a 'Living Wage', creating jobs, and protecting the NHS."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

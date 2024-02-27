@@ -1,0 +1,115 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Record of Delivery: Help with the cost of living for local families in tough times",
+    	"content": "£800 tax cut for 25m"
+  	},
+  	{
+    	"title": "Free childcare",
+    	"content": "We have delivered 15 hours free childcare for all 3 and 4 year olds and 40% of 2 year olds."
+  	},
+  	{
+    	"title": "Record of Delivery: The deficit halved and more people in work than ever before",
+    	"content": "Labour's deficit halved"
+  	},
+  	{
+    	"title": "1.9 million new jobs",
+    	"content": "We have helped businesses create 1.9 million new jobs. More than 30 million people are now working across Britain - more than at any other point in history."
+  	},
+  	{
+    	"title": "A record of Delivery. A promise of More.",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Tax Cut",
+    	"policyDescription": "We have made sure nobody pays any Income Tax on the first £10,000 they earn."
+  	},
+  	{
+    	"policyTitle": "Childcare",
+    	"policyDescription": "Additionally, the government helps parents of 2 year olds who are looking for work to the tune of £2,300 additional free childcare for each child."
+  	},
+  	{
+    	"policyTitle": "Economic Growth",
+    	"policyDescription": "We will cut Income Tax by a further £400 for those on low and middle incomes, easing the squeeze on household budgets. We will finish the job of balancing the budget by 2018, protecting the economic recovery and bringing down Britain's debt."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Labour's deficit halved. We will cut Income Tax by a further £400 for those on low and middle incomes, easing the squeeze on household budgets.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "LibDems.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "People working together"
+    	},
+    	{
+      	"caption": "Individuals from various backgrounds"
+    	},
+    	{
+      	"caption": "Smiling elderly man"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Richard Benyon",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th MAY",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "All at West Berkshire Conservative Association, 6 Cheap Street, Newbury RG14 5DD",
+      "phone": "01635 40786",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "POLING DAY 7th MAY Don't forget to use all your votes"
+        }
+      ]
+    },
+    "additionalNotes": "Polling Stations will be open 7 am–10 pm. If you are not sure of your Polling Station call the Council elections office on: 01635 519463. If you have any difficulties in getting to the Polling Station please give us a call on 01635 40786. Printed and published by Dominic Boeck on behalf of the candidates."
+  }
+}
+```

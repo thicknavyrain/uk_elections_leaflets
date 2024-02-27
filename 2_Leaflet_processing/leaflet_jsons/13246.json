@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "Witney",
+    "politicalParty": "Conservative",
+    "electionDate": "May 2015",
+    "messages": [
+      {
+        "title": "Working for you locally",
+        "content": "David Cameron is passionate and active on locally relevant issues and engages with various local institutions and facilities."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "PUTTING THE ECONOMY RIGHT",
+        "policyDescription": "After five years, the economy is growing with a halved deficit, record levels of employment and lowest number of people on unemployment benefits."
+      },
+      {
+        "policyTitle": "IMPROVING OUR ROADS",
+        "policyDescription": "Supporting businesses with over £2,000 enabling them to provide more jobs to hardworking people."
+      },
+      {
+        "policyTitle": "ON THE SIDE OF SMALL BUSINESS",
+        "policyDescription": "Congestion on the roads is a focus; committed to working with Oxfordshire County Council to secure the infrastructure investments necessary for the A40."
+      },
+      {
+        "policyTitle": "DELIVERY OF SUPERFAST BROADBAND",
+        "policyDescription": "Over 30,000 premises in the district have access to superfast broadband with a further 6,000 likely to have access by the end of March next year."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The economy is growing with a halved deficit and record employment and lowest number of people on unemployment benefits since 2008.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "I know there is great strength of feeling amongst local residents when it comes to new housing – you understandably want new homes and more homes, but not at the expense of the essential character of the local area.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "It is a privilege and an honour to represent Witney and the people of West Oxfordshire. Since I was first elected in 2001, I have worked hard to support things that make us proud of – our schools, our children's centres, our roads and public services.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for Witney",
+        "duration": "Since 2001",
+        "achievements": "Worked on improving schools, children's centres, roads, public services; Underscored the importance of a strong economy and need for superfast broadband."
+      }
+    ],
+    "contactInformation": {
+      "address": "House of Commons, London SW1A 0AA",
+      "phone": "020 7219 3475",
+      "email": "office@witneyconservatives.com",
+      "website": "www.witneyconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron engaging in various local activities such as visiting schools, participating in events, and meeting with citizens."
+        }
+      ]
+    },
+    "additionalNotes": "This report is printed locally and not out of public funds. Delivered to over 45,000 homes in West Oxfordshire."
+  }
+}
+```

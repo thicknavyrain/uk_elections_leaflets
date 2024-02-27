@@ -1,0 +1,114 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lucy Care",
+    "constituency": "Derby North",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Action to protect green spaces",
+        "content": "Lucy Care and local Liberal Democrat councillors are fierce in their defense against developers in South Derbyshire. They aim to protect open spaces such as the green edge of Littleover, Mickleover and Mackworth areas of Derby. The strategic waste developments are opposed, keeping green fields from development."
+      },
+      {
+        "title": "Campaigning for better transport",
+        "content": "Lucy Care has been campaigning for improvements to local transport."
+      },
+      {
+        "title": "Action to save Derby's Post Offices",
+        "content": "Over 20 of Derby's Post Offices have closed under Labour, and Lucy Care takes action to save them."
+      },
+      {
+        "title": "Change that works for you",
+        "content": "Labour has failed Derby North and only the Liberal Democrats can beat them. The campaign focuses on offering a new hospital, good local schools, and a lower council tax."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting green spaces",
+        "policyDescription": "Fierce defense against developers in South Derbyshire to protect open spaces and oppose strategic waste developments."
+      },
+      {
+        "policyTitle": "Improving transport",
+        "policyDescription": "Campaigning for improvements to local transport."
+      },
+      {
+        "policyTitle": "Saving Post Offices",
+        "policyDescription": "Taking action to save over 20 of Derby's Post Offices that have closed under Labour."
+      },
+      {
+        "policyTitle": "Healthcare and education",
+        "policyDescription": "Promise to deliver a new hospital and good local schools."
+      },
+      {
+        "policyTitle": "Lower council tax",
+        "policyDescription": "A commitment to a lower council tax."
+      }
+    ],
+    "mentions": {
+      "candidate": "Lucy Care",
+      "otherPartyLeaderCandidate": "Labour's choice",
+      "partyLeader": "",
+      "tacticalSituation": "Derby North's boundaries have changed to align more closely with the constituencies of Allestree and Spondon which have moved from Derby North to Mid Derbyshire."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Lower council tax",
+      "education": "Good local schools",
+      "environment": "Fierce defence against developers in South Derbyshire to protect open spaces.",
+      "governance": "",
+      "health": "New hospital",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Lucy Care supports the aim of keeping the greenbelt untouched and opposing strategic waste development.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "As a popular local councilor, Lucy Care has earned her reputation as a hardworking local champion.",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "",
+        "achievements": "Earned a reputation as a hardworking local champion; campaigns to protect Post Offices and green fields from development."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.DerbyCityLibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lucy Care needs just a 4.5% swing to win here!"
+        },
+        {
+          "caption": "Lucy Care will deliver for Derby North"
+        },
+        {
+          "caption": "Fury over Labour's choice"
+        },
+        {
+          "caption": "New boundaries help Lib Dems"
+        },
+        {
+          "caption": "It's a two horse race here!"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

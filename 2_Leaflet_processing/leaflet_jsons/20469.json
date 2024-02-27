@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Northampton",
+    "politicalParty": "UKIP",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "More of the same or a new start with a new MP?",
+        "content": "Why Northampton needs a UKIP MP."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Improving the NHS",
+        "policyDescription": "Campaign against binge drinkers monopolising A&E and suggestions to charge for using A&E."
+      },
+      {
+        "policyTitle": "Northampton's Future",
+        "policyDescription": "Campaign against traffic chaos and overexpansion of Northampton."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Opposing the plan to build 36,000 new houses for 90,000 new people in Northampton."
+      },
+      {
+        "policyTitle": "Senior Citizens",
+        "policyDescription": "Campaign regarding senior citizens who built the NHS now being deprived of access to it."
+      },
+      {
+        "policyTitle": "New Hospital for Northampton",
+        "policyDescription": "Advocacy for a new hospital as an election promise."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Campaign to improve NHS, reduce spreadsheets, increase medically qualified staff, oppose binge drinking monopoly of A&E, charges for A&E misuse, handling of historic NHS bed reduction.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Campaign against the overexpansion of Northampton including the building of 36,000 new houses for 90,000 people. Citing the strategic considerations such as traffic and infrastructure.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Promoted by Rob Gough of 31 (3rd Floor) Ransome Road, Northampton, NN5 6JF on behalf of Tom Rubython, the UKIP Parliamentary Candidate for Northampton North",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote UKIP on 7th May for a better future"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet provides a comparative perspective on the NHS by mentioning statistics from Germany and France; cites historical issues with hospital bed numbers under Labour and Conservatives; discusses senior citizens' contribution to building the NHS; highlights the campaign against traffic chaos and new housing; criticizes cuts in NHS resources and notes the loss of Northampton's hospital in the past 24 years."
+  }
+}
+```

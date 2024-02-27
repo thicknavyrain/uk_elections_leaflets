@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Adrian Gee-Turner",
+    "constituency": "Ashford Constituency",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday June 8th 2017",
+    "messages": [
+      {
+        "title": "Leading the fight against the Conservatives' hard Brexit",
+        "content": "Adrian Gee-Turner is leading the opposition here to the Conservatives’ damaging hard Brexit plans, which will cost us all. The Lib Dems are the only party that supports remaining in the European Union and give you the final say on the Brexit deal with a referendum on the deal."
+      },
+      {
+        "title": "£6 billion boost for the NHS",
+        "content": "The NHS is in crisis. The Lib Dems will raise income tax by 1p to provide extra funds - £6 billion across the UK. In England this money will be ring-fenced to support front-line services in health, mental health, and public health."
+      },
+      {
+        "title": "Investing in schools",
+        "content": "Ashford's schools are facing cuts to the money they have to spend per pupil. The Lib Dems would invest an additional £7 billion in schools and colleges over the next parliament to ensure no school and no child loses out."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting against Hard Brexit",
+        "policyDescription": "Opposition to Conservatives' hard Brexit plans; support for staying in the EU and holding a referendum on the final deal."
+      },
+      {
+        "policyTitle": "Standing up for the NHS",
+        "policyDescription": "Commitment to raise income tax by 1p to generate £6 billion for the NHS to improve health, mental health, and public health services."
+      },
+      {
+        "policyTitle": "Investing in our schools",
+        "policyDescription": "Plans to invest additional £7 billion in schools and colleges to protect per pupil funding."
+      }
+    ],
+    "mentions": {
+      "candidate": "Adrian Gee-Turner",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "The election is your chance to change the path our country is on. A disastrous hard Brexit will hit people in the pocket across the country.",
+      "economy": "",
+      "education": "The Lib Dems would invest an additional £7 billion in schools and colleges to protect per pupil funding.",
+      "environment": "",
+      "governance": "",
+      "health": "The NHS is in crisis. The Lib Dems will raise income tax by 1p to provide extra funds - £6 billion across the UK.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local campaigner",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+      "phone": "07800 821254",
+      "email": "adrian.geeturner@btinternet.com",
+      "website": "libdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Adrian Gee-Turner with constituents and local business owners."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

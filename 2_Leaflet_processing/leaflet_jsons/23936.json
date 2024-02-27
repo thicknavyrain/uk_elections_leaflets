@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Glenn Hall",
+    "constituency": "Tynemouth",
+    "politicalParty": "Conservative Party",
+    "electionDate": "May 7th, 2015",
+    "messages": [
+      {
+        "title": "",
+        "content": "Vote for an MP who will help keep the economy on the right track; Vote for an MP who will stick up for the Tynemouth constituency, our region and Britain."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Commitment to keeping the economy on the right track, reducing the deficit, cutting income tax, and creating jobs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Glenn Hall",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Our region are now on the right economic track. Our debts are coming down, more jobs are being created, and the Tynemouth constituency and our region are tax cuts for hard-working people.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "With a strong and successful economy which creates jobs and prosperity, the country will not be able to pay for the NHS, schools and other important public services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I was born and bred on Tyneside. It's a place I love, and it would be a privilege for a local lad like me to represent Tynemouth in Parliament.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.ournextmp.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Glenn Hall with family."
+        },
+        {
+          "caption": "Glenn Hall talking to a local resident."
+        },
+        {
+          "caption": "A group holding a banner 'We're backing Glenn'."
+        },
+        {
+          "caption": "Glenn Hall standing in front of a pay here sign."
+        },
+        {
+          "caption": "Group photo with sign 'STOP LABOUR'S 24% \"PAY RISE\"'."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet expresses a commitment to conservative economic principles, emphasizing tax cuts, job creation and reducing national debt, while attacking the opposition's policies."
+  }
+}
+```

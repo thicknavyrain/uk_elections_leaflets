@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Mark Menzies",
+	"constituency": "Fylde",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "BACKING THE NHS",
+    	"content": "The NHS is our number one priority. We back it and we want to improve it for everyone."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS",
+    	"policyDescription": "Commitment to make the NHS the number one priority, to increase spending on the NHS every year, to reduce pressure on hospitals, to make access to cancer drugs available, and to strive for lowest cancer mortality rates."
+  	},
+  	{
+    	"policyTitle": "Tax",
+    	"policyDescription": "Promise to not increase VAT, National Insurance contributions, or income tax rates and to stop Labour's Tax on Jobs."
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Plans to give pupils the right to be taught by qualified teachers, to have a robust curriculum, and for universities to be more accountable for the quality of the education."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Mark Menzies",
+  	"otherPartyLeaderCandidate": "Gordon Brown",
+  	"partyLeader": "David Cameron",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "The reelection of Gordon Brown would mean more debt, more waste, and more taxes - Labour's Tax on Jobs will kill the recovery.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "The Conservatives will increase spending on the NHS every year and give people with cancer better access to drugs.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "I am Fylde born and bred, and I understand local people because I am one.",
+	"politicalExperience": [
+  	{
+    	"role": "Candidate for the Conservative Party",
+    	"duration": "",
+    	"achievements": "Listening to local concerns and speaking up for the hard working people of Fylde. Has worked in the constituency for over 15 years."
+  	}
+	],
+	"contactInformation": {
+  	"address": "Fylde Conservatives, Bradshaw Lane, Greenhalgh, Preston, PR4 3JA",
+  	"phone": "01253 739848",
+  	"email": "mark@markmenzies.org.uk",
+  	"website": "www.markmenzies.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Mark Menzies with David Cameron."
+    	},
+    	{
+      	"caption": "Mark Menzies visiting a medical facility."
+    	},
+    	{
+      	"caption": "Mark Menzies discussing education with local students."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

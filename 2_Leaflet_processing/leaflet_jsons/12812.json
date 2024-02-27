@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris York",
+    "constituency": "North West Cambridgeshire",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Securing the recovery",
+        "policyDescription": "Labour is investing for the future, the Tories want savage cuts now and risk choking off the recovery."
+      },
+      {
+        "policyTitle": "Protecting front line services - health",
+        "policyDescription": "Labour has invested record amounts in our health services with savings on cancer patient guarantee."
+      },
+      {
+        "policyTitle": "Protecting front line services - education",
+        "policyDescription": "Locally we can see new school buildings going to waste because of Free Start Budget cuts by the Tories."
+      },
+      {
+        "policyTitle": "Standing up for the many",
+        "policyDescription": "Labour stands by you, the Tories only stand up for the few. They want to cut inheritance tax for the 3,000 richest estates in the country."
+      },
+      {
+        "policyTitle": "New industries, future jobs",
+        "policyDescription": "Labour offers a green job, Greenpeace say it will take Tories twenty years to replace a coal power station."
+      },
+      {
+        "policyTitle": "Tough but fair on immigration",
+        "policyDescription": "The protection of our borders is fundamental to the future of our country. Labour has brought in a new Australian-style points-based system; ID cards for foreign nationals and a new border force."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris York",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Securing the recovery. Labour is investing for the future, the Tories want savage cuts now and risk choking off the recovery.",
+      "education": "Locally we can see new school buildings going to waste because of Free Start Budget cuts by the Tories.",
+      "environment": "Labour offers a green job, Greenpeace say it will take Tories twenty years to replace a coal power station.",
+      "governance": "",
+      "health": "Labour has invested record amounts in our health services with savings on cancer patient guarantee.",
+      "immigration": "The protection of our borders is fundamental to the future of our country. Labour has brought in a new Australian-style points-based system; ID cards for foreign nationals and a new border force.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "45 St Marys Street Farcet Peterborough PE7 3AR",
+      "phone": "01733 242214",
+      "email": "info@chrisyork.co.uk",
+      "website": "www.chrisyork.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Audrey Chalmers",
+        "endorsement": "This Labour Government has brought real change we can see. These days you see more police on the beat backed up by community support officers working to make our community safer."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Putting local people first"
+        },
+        {
+          "caption": "Labour's pledges to you"
+        },
+        {
+          "caption": "Building a fairer Britain"
+        },
+        {
+          "caption": "Change we can see"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "Only Labour can bring our country together again",
+        "content": "Boris Johnson's Tories are the biggest threat to Scotland's place in the UK. Labour has a plan to rebuild and transform Scotland, so that no community is neglected."
+      },
+      {
+        "title": "LABOUR IS CLEAR - SCOTLAND DOES NOT NEED ANOTHER INDEPENDENCE REFERENDUM, IT NEEDS LABOUR GOVERNMENTS IN HOLYROOD AND WESTMINSTER.",
+        "content": ""
+      },
+      {
+        "title": "It's time for real change. When Labour wins, Scotland wins.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Invest in our NHS to provide more doctors, nurses and cut waiting times."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Tackle Scotland's housing crisis and end homelessness by building 120,000 new council and social houses, creating at least 50,000 jobs."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Kick start a Green Industrial Revolution to tackle the Climate Emergency and create high skilled, high wage jobs."
+      },
+      {
+        "policyTitle": "Workers' Rights",
+        "policyDescription": "Introduce a real living wage, ban zero hours contracts and strengthen workers' rights."
+      },
+      {
+        "policyTitle": "Investment",
+        "policyDescription": "Deliver £100 billion of additional funding to invest in Scotland's people, communities and public services."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Give you the final say on Brexit with Scottish Labour campaigning to Remain."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Boris Johnson's Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Give you the final say on Brexit with Scottish Labour campaigning to Remain",
+      "economy": "Deliver £100 billion of additional funding to invest in Scotland's people, communities and public services.",
+      "education": "",
+      "environment": "Kick start a Green Industrial Revolution to tackle the Climate Emergency and create high skilled, high wage jobs.",
+      "governance": "",
+      "health": "Invest in our NHS to provide more doctors, nurses and cut waiting times.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Tackle Scotland's housing crisis and end homelessness by building 120,000 new council and social houses, creating at least 50,000 jobs.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Scottish Labour campaign leaflet"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

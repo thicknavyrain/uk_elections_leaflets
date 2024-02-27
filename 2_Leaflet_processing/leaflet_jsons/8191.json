@@ -1,0 +1,91 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Bob Ainsworth",
+    "constituency": "Coventry North East",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "My promises to you",
+        "content": "Fighting for Real Jobs\nRegenerating Coventry City Centre\nMake your neighborhood safe\nA Better NHS for Everyone"
+      },
+      {
+        "title": "",
+        "content": "This election is a choice between Labour, that is fighting for hard working people, and the Tories who would risk the recovery and want to protect the privileged few. I need your support to carry on doing my best for you."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Building the Economy",
+        "policyDescription": "A derelict site transformed which now provides a concert and sports stadium, shopping and hundreds of jobs in the North East of the City. It took a long time but is now making a real contribution to the economy and quality of life for our part of the City."
+      },
+      {
+        "policyTitle": "Fighting for the NHS",
+        "policyDescription": "We must never forget the dreadful facilities our new Hospital replaced, nor the struggle it was to get it built. I'm proud of what I achieved and my role in getting our Hospital built."
+      },
+      {
+        "policyTitle": "Working for You",
+        "policyDescription": "I take up thousands of cases for constituents every year, from minor injustices to major issues. I always try my hardest to solve cases for my help and I stand up for what people in Coventry North East want."
+      }
+    ],
+    "mentions": {
+      "candidate": "Bob Ainsworth",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "We must never forget the dreadful facilities our new Hospital replaced, nor the struggle it was to get it built. I'm proud of what I achieved and my role in getting our Hospital built.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP for Coventry North East",
+        "duration": "Since 1992",
+        "achievements": "Fighting for local schools and the best deal for Coventry North East."
+      }
+    ],
+    "contactInformation": {
+      "address": "Transport House, Short Street, Coventry, CV1 2LS",
+      "phone": "024 7625 2832",
+      "email": "bainsworth@tiscali.co.uk",
+      "website": "www.labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Kathryn and son Jacob",
+        "endorsement": "Bob has been very helpful with problems since I have had him. I am delighted my son was born in the brand new hospital just down the road. I know how hard Bob worked to help get it built."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A Strong Local Voice - Standing Up for Coventry"
+        }
+      ]
+    },
+    "additionalNotes": "Putting local people first."
+  }
+}
+```

@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "WE CAN'T GO ON LIKE THIS. IT'S TIME FOR CHANGE",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fight back against crime.",
+        "policyDescription": "Cut red tape to put more police on the beat."
+      },
+      {
+        "policyTitle": "Protect our NHS.",
+        "policyDescription": "Stop the top-down reorganisations of the NHS that have got in the way of patient care."
+      },
+      {
+        "policyTitle": "Raise standards in our schools.",
+        "policyDescription": "Give heads and teachers the final say on expulsions."
+      },
+      {
+        "policyTitle": "Control immigration.",
+        "policyDescription": "Introduce a new border police force, tougher visa controls and transitional controls for new EU nations."
+      },
+      {
+        "policyTitle": "Support families.",
+        "policyDescription": "Recognise marriage and civil partnerships in the tax system and reduce the couple penalty in the tax credit system."
+      },
+      {
+        "policyTitle": "",
+        "policyDescription": "We will pay back Britain's debt in a fair and responsible way."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We will pay back Britain's debt in a fair and responsible way.",
+      "education": "Give heads and teachers the final say on expulsions.",
+      "environment": "",
+      "governance": "",
+      "health": "Stop the top-down reorganisations of the NHS that have got in the way of patient care.",
+      "immigration": "Introduce a new border police force, tougher visa controls and transitional controls for new EU nations.",
+      "socialWelfare": "Reduce the couple penalty in the tax credit system.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

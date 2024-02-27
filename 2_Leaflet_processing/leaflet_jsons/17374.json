@@ -1,0 +1,95 @@
+{
+  "leaflet": {
+	"candidateName": "Cat Smith",
+	"constituency": "Lancaster and Fleetwood",
+	"politicalParty": "Labour",
+	"electionDate": "12th December 2019",
+	"messages": [
+		{
+			"title": "On Your Side",
+			"content": "To get Brexit sorted in six months, safeguard our NHS, kick-start a Green Industrial Revolution, and rebuild our public services."
+		}
+	],
+	"keyPolicies": [
+		{
+			"policyTitle": "Get Brexit Sorted in Six Months",
+			"policyDescription": "Labour will sort Brexit in six months."
+		},
+		{
+			"policyTitle": "Safeguard Our NHS",
+			"policyDescription": "Labour pledges to safeguard our NHS."
+		},
+		{
+			"policyTitle": "Kick-start a Green Industrial Revolution",
+			"policyDescription": "Labour will kick-start a Green Industrial Revolution."
+		},
+		{
+			"policyTitle": "Rebuild Our Public Services",
+			"policyDescription": "Labour commits to rebuild our public services."
+		}
+	],
+	"mentions": {
+		"candidate": "Cat Smith has been standing up for Lancaster and Fleetwood since 2015.",
+		"otherPartyLeaderCandidate": "",
+		"partyLeader": "Jeremy Corbyn, Labour Leader",
+		"tacticalSituation": "This constituency is a two horse race between Labour and the Tories."
+	},
+	"issues": {
+		"brexitEurope": "Get Brexit sorted in six months.",
+		"economy": "Plans for more jobs, higher wages and investing in our future.",
+		"education": "Ending cuts to our schools and colleges.",
+		"environment": "Tackling the climate crisis with a Green Industrial Revolution.",
+		"governance": "",
+		"health": "Protecting our NHS from a Trump trade deal.",
+		"immigration": "",
+		"socialWelfare": "Scrap Universal Credit.",
+		"housing": [
+			{
+				"content": "Labour is on your side.",
+				"yimbyNimby": "N/A"
+			}
+		]
+	},
+	"personalStatement": "Cat has always put our community first, and as a strong, local voice, Cat has always been on your side.",
+	"politicalExperience": [
+		{
+			"role": "MP for Lancaster and Fleetwood",
+			"duration": "since 2015",
+			"achievements": "Standing up for Lancaster and Fleetwood"
+		}
+	],
+	"contactInformation": {
+		"address": "",
+		"phone": "",
+		"email": "",
+		"website": "",
+		"socialMedia": {
+			"facebook": "",
+			"twitter": "",
+			"instagram": "",
+			"linkedin": ""
+		}
+	},
+	"endorsements": [
+		{
+			"endorser": "Jeremy Corbyn, Labour Leader",
+			"endorsement": "Cat Smith is a fantastic MP and has been an absolute champion for Lancaster and Fleetwood.”
+		}
+	],
+	"quotes": [
+		{
+			"text": "Cat Smith is a fantastic MP and has been an absolute champion for Lancaster and Fleetwood.",
+			"source": "Jeremy Corbyn, Labour Leader",
+			"date": ""
+		}
+	],
+	"campaignMaterial": {
+		"images": [
+			{
+				"caption": "Cat Smith with people and Labour supporters."
+			}
+		]
+	},
+	"additionalNotes": ""
+  }
+}

@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Leech",
+    "constituency": "Manchester Withington",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Almost everyone I know has found life getting tougher over the last year or so. Now more than ever people need more money in their pockets to help them get by. But there's no sign of that coming from this tired Labour Government. Instead we have the prospect of paying more and more while getting less and less. No wonder people want a change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Making tax fairer",
+        "policyDescription": "The Liberal Democrat tax plan will make the first £10,000 of your income free from tax, which could make you £700 a year better off if you earn less than £10,000. Proposes closing tax loopholes and introducing a 'mansion tax' to make the super rich pay their fair share and give everyone on low and middle incomes a tax cut."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Leech",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg, Vince Cable",
+      "tacticalSituation": "The other parties can't win here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Proposes tax changes to benefit those earning under £10,000 and to tax the very rich more.",
+      "education": "",
+      "environment": "",
+      "governance": "Critiques the current Labour Government for underperformance.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Proposes introducing a 'mansion tax'.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "House of Commons, Westminster, London, SW1A 0AA",
+      "phone": "",
+      "email": "",
+      "website": "www.john-leech.co.uk/blog",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "It's local choice, local champion John Leech MP or Labour's career politician here!",
+        "source": "Campaign material",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Leech MP, Manchester Withington - Liberal Democrats leaflet with his portrait and election statistics."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

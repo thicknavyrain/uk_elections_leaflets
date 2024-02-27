@@ -1,0 +1,81 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Daniel Zeichner",
+    "constituency": "Cambridge",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "I'm Voting Labour",
+        "content": "The message includes a statement of intent to vote for Labour, suggesting allegiance with the party and its values."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Plans to improve NHS by integrating physical and social care services, ensuring the NHS acts as an efficient emergency service."
+      },
+      {
+        "policyTitle": "Local Housing",
+        "policyDescription": "Addresses concerns of residents about sky-high rents and advocates building of thousands of affordable homes in Cambridge."
+      }
+    ],
+    "mentions": {
+      "candidate": "Daniel Zeichner promises to be an MP who listens and acts upon concerns, like those about the NHS and housing costs.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The material suggests tactical voting by stating 'No ifs, no buts, I'll never prop up a Tory Government.'"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Discussing plans for reshaping and renewing the economy which includes reducing the deficit and tackling climate change, making bold long-term investments rather than short-term cuts.",
+      "education": "",
+      "environment": "Addresses the fight against climate change as part of reshaping the economy.",
+      "governance": "Advocates for a democratic upper chamber and replacement of the Senate.",
+      "health": "Focused on improving the NHS by making it more efficient, particularly regarding A&E wait times and integrating physical and social care services.",
+      "immigration": "",
+      "socialWelfare": "Intends to tackle cost of living with fairer child care, cap on rail fares, and fixing the broken energy market.",
+      "housing": [
+        {
+          "content": "Concerned about residents worried about sky-high rents; plans to build thousands of affordable homes in Cambridge.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Daniel Zeichner describes himself as principled, experienced, and someone who listens. He expresses deep concern for the well-being of NHS and housing in Cambridge.",
+    "politicalExperience": [
+      {
+        "role": "Labour’s campaign for a Democratic Upper Chamber",
+        "duration": "",
+        "achievements": "Fighting for a democratic senate."
+      }
+    ],
+    "contactInformation": {
+      "address": "Office of Daniel Zeichner, Alex Wood Hall, Norfolk Street, Cambridge, CB1 2LD",
+      "phone": "01223 500515",
+      "email": "daniel@danielzeichner.co.uk",
+      "website": "http://www.danielzeichner.co.uk",
+      "socialMedia": {
+        "facebook": "DanielZeichnerCambridge",
+        "twitter": "danielzeichner",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A photograph of Daniel Zeichner with the text 'Principled, Experienced, Listens.' The Labour Party logo and voting reminder are also displayed."
+        },
+        {
+          "caption": "A promotional piece stating 'I'm voting Labour' along with the party website."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet encourages strategic voting to prevent a Tory government and asks for support in various campaign-related activities."
+  }
+}
+```

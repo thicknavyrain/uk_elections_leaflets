@@ -1,0 +1,95 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "YOUR CHOICE IS MORE OF THE SAME OR CHANGE",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A stronger economy",
+        "policyDescription": "Create 65,000 more jobs by 2026."
+      },
+      {
+        "policyTitle": "A better National Health Service",
+        "policyDescription": "3,000 more nurses, 5,000 more doctors."
+      },
+      {
+        "policyTitle": "The best education",
+        "policyDescription": "5,000 more teachers, 65 new state-of-the-art schools."
+      },
+      {
+        "policyTitle": "Welsh economy in decline",
+        "policyDescription": "Economy hit hard by closures, job losses and waiting times."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark ISHERWOOD, Sam ROWLANDS, Barbara HUGHES, Gareth DAVIES",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Welsh economy in decline.",
+      "education": "The best education...",
+      "environment": "",
+      "governance": "",
+      "health": "A better National Health Service...",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Let's build a better Wales"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

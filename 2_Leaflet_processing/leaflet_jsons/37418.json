@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Peter May",
+    "constituency": "Swansea",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A fair deal for ALL Children",
+        "content": "The Lib Dems have given more money to schools in Swansea."
+      },
+      {
+        "title": "Campaigning For Lower Tolls",
+        "content": "Peter is campaigning for lower tolls on the Severn Bridge as an interim measure to help get our economy moving."
+      },
+      {
+        "title": "Tories choose",
+        "content": "The Tories aren't taking this election seriously. They haven't chosen a candidate from Margam candidate outside Swansea and Gower."
+      },
+      {
+        "title": "Lib Dems in Westminster are delivering fairer taxes",
+        "content": "Your April payslip shows that Lib Dem policies are being delivered in Government. So far, 800,000 people have been lifted out of tax altogether and 23 million basic rate taxpayers now benefit by £200 per year as a result of the Lib Dem policy of raising the personal allowance being delivered."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "The Lib Dems in Swansea helped increase the education budget by £1.2 million. Additionally, £400,000 was dedicated to improve literacy."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "The campaign includes efforts to boost the economy by advocating for lower Severn Bridge tolls."
+      },
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Lib Dems policies have resulted in 800,000 people being lifted out of tax, and 23 million basic rate taxpayers now benefit by £200 per year due to the increased personal allowance."
+      }
+    ],
+    "mentions": {
+      "candidate": "Hard working Swansea councillor Peter May voted to put an extra £1.6 million into Swansea schools that need it the most.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Peter is campaigning for lower tolls on the Severn Bridge as an interim measure to help get our economy moving.",
+      "education": "The Lib Dems in Swansea helped increase the education budget by £1.2 million. Additionally, £400,000 was dedicated to improve literacy.",
+      "environment": "",
+      "governance": "Lib Dem policies have been delivered in Government.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Lib Dems policies have resulted in 800,000 people being lifted out of tax, and 23 million basic rate taxpayers now benefit by £200 per year due to the increased personal allowance.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Swansea councillor",
+        "duration": "",
+        "achievements": "Voted to put an extra £1.6 million into Swansea schools."
+      }
+    ],
+    "contactInformation": {
+      "address": "c/o 41 Gower Rd, Uplands, Swansea SA2 0AQ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Peter May with child and supporters in Swansea."
+        },
+        {
+          "caption": "Campaigning for lower tolls, supporters hold a banner 'Come On Swans!!'"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet includes a form for people to fill in to support Peter May and the local Lib Dems."
+  }
+}
+```

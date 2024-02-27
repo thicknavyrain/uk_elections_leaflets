@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Joan Walley",
+    "constituency": "Stoke-on-Trent North",
+    "politicalParty": "Labour",
+    "electionDate": "2010 General election",
+    "messages": [
+      {
+        "title": "Your Choice",
+        "content": "This year will see one of the most important general elections ever."
+      },
+      {
+        "title": "A message from Joan Walley",
+        "content": "The boundary of the constituency is set to change at the forthcoming general election. It's where I live."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "JOBS AND TRAINING",
+        "policyDescription": "Focus on securing jobs and providing training opportunities."
+      },
+      {
+        "policyTitle": "THE ENVIRONMENT",
+        "policyDescription": "Commitment to environmental issues."
+      },
+      {
+        "policyTitle": "EDUCATION",
+        "policyDescription": "Importance placed on education."
+      },
+      {
+        "policyTitle": "HEALTH",
+        "policyDescription": "Commitment to health sector issues."
+      },
+      {
+        "policyTitle": "CRIME AND SAFETY",
+        "policyDescription": "Addressing crime and safety concerns."
+      },
+      {
+        "policyTitle": "INVESTING IN HOMES AND COMMUNITIES",
+        "policyDescription": "Investment in homes and community development."
+      }
+    ],
+    "mentions": {
+      "candidate": "Joan Walley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "INVESTING IN HOMES AND COMMUNITIES - Investment in homes and community development.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "It’s hard but vital work securing the investment and commitment needed in Stoke-on-Trent North and North Staffordshire to meet the challenges the area faces.",
+    "politicalExperience": [
+      {
+        "role": "MP for Stoke-on-Trent North",
+        "duration": "Continuous representation",
+        "achievements": "Working with people from across the constituency, listening to their views and hearing their concerns."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01782 817618",
+      "email": "joanwalleygooglemail.com",
+      "website": "www.joanwalley.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Joan Walley YOUR CHOICE WORKING HARD FOR YOU"
+        },
+        {
+          "caption": "Joan pictured as building work progresses on the new Haywood Hospital."
+        }
+      ]
+    },
+    "additionalNotes": "Boundaries change...but the challenges remain the same."
+  }
+}
+```

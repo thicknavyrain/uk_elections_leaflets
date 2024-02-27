@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Eluned Parrott",
+	"constituency": "Cardiff Central",
+	"politicalParty": "Welsh Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "It's ELUNED or Labour: 38 votes!",
+    	"content": "The Conservatives can't win in Cardiff Central. Only the Lib Dems can beat Labour."
+  	},
+  	{
+    	"title": "Your vote doesn't count until it's in the ballot box",
+    	"content": ""
+  	},
+  	{
+    	"title": "This Thursday: More and more local people are backing...",
+    	"content": "ELUNED PARROTT and the Welsh Liberal Democrats to stand up for Cardiff"
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Eluned Parrott",
+  	"otherPartyLeaderCandidate": "Labour",
+  	"partyLeader": "",
+  	"tacticalSituation": "The Conservatives, UKIP and Plaid Cymru can't win in our area - only voting for Eluned Parrott and the Welsh Liberal Democrats can beat Labour."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "029 2046 2326",
+  	"email": "",
+  	"website": "www.elunedparrott.wales/voted",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Group of supporters with Eluned Parrott campaign signs."
+    	}
+  	]
+	},
+	"additionalNotes": "The reverse side of the leaflet appears to be printed in reverse order, likely for window display purposes to be read from the outside. It repeats the message for supporting Eluned Parrott and provides a contact phone number."
+  }
+}
+```

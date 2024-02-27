@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Green Party",
+    "electionDate": "Thursday June 8th",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "STAND UP FOR OUR ENVIRONMENT",
+        "policyDescription": "Invest in clean green energy, industry and agriculture. An end to fossil fuels and fracking."
+      },
+      {
+        "policyTitle": "STAND UP FOR OUR NHS",
+        "policyDescription": "Use Britain's wealth to invest in health."
+      },
+      {
+        "policyTitle": "STAND UP FOR RENTERS",
+        "policyDescription": "When you rent a home, you should feel at home."
+      },
+      {
+        "policyTitle": "STAND UP FOR YOUNG PEOPLE",
+        "policyDescription": "Education free for all, and free from debt."
+      },
+      {
+        "policyTitle": "STAND UP FOR OUR RIGHTS",
+        "policyDescription": "For human rights, fair votes and a vote on the terms of Brexit."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "a vote on the terms of Brexit.",
+      "economy": "",
+      "education": "Education free for all, and free from debt.",
+      "environment": "Invest in clean green energy, industry and agriculture. An end to fossil fuels and fracking.",
+      "governance": "fair votes",
+      "health": "Use Britain's wealth to invest in health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"When you rent a home, you should feel at home.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "nottingham.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "nottsgreenparty",
+        "twitter": "@nottsgreenparty",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "VOTE GREEN PARTY GENERAL ELECTION Thursday June 8th"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

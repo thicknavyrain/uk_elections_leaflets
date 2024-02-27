@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Philp",
+    "constituency": "Croydon South",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "IT’S A CONSERVATIVE MAJORITY OR A HUNG PARLIAMENT",
+        "content": "John Curtice: Polls teeter between hung parliament and slim Tory majority. The Lib Dems have ruled out a coalition with the Conservatives. So a hung parliament means Jeremy Corbyn as Prime Minister. With five long years of gridlock and uncertainty. SNP to back Labour government only with Scottish independence vote. Jo Swinson says no to second Tory alliance. Corbyn would have to be propped up by the Scottish Nationalists. And they’re demanding ANOTHER referendum to break up Britain. Don’t risk five long years of Corbyn in charge."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "FIGHT OVER-DEVELOPMENT BY THE LABOUR COUNCIL",
+        "policyDescription": "Continue to fight to maintain the character of our neighbourhood and keep resisting the Council's awful Purley skyscraper plans."
+      },
+      {
+        "policyTitle": "FURTHER IMPROVE OUR LOCAL NHS",
+        "policyDescription": "Successfully campaigned for a new A&E at Croydon Hospital. Extend Purley hospital's opening hours. Keep fighting for more resources for Croydon's NHS."
+      },
+      {
+        "policyTitle": "MORE POLICE AND BETTER PUBLIC SAFETY",
+        "policyDescription": "Conservatives will recruit 20,000 extra police nationally and the Met will be recruiting new police officers in 2020/21 alone. Also campaigning for a new Police base in the Purley/Coulsdon area. Nationally, supporting plans to ensure serious criminals spend more of their sentences in jail."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Philp",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Jo Swinson",
+      "partyLeader": "",
+      "tacticalSituation": "The Lib Dems have ruled out a coalition with the Conservatives. So a hung parliament means Jeremy Corbyn as Prime Minister. SNP to back Labour government only with Scottish independence vote."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Don’t risk five long years of Corbyn in charge",
+      "health": "Successfully campaigned for a new A&E at Croydon Hospital. Extend Purley hospital's opening hours. Keep fighting for more resources for Croydon's NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Continue to fight to maintain the character of our neighbourhood and keep resisting the Council's awful Purley skyscraper plans.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Polls teeter between hung parliament and slim Tory majority.",
+        "source": "John Curtice, THE TIMES",
+        "date": ""
+      },
+      {
+        "text": "Jo Swinson says no to second Tory alliance.",
+        "source": "THE HERALD",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Chris Philp with supporters."
+        },
+        {
+          "caption": "Photo of Chris Philp at a hospital."
+        },
+        {
+          "caption": "Photo of the House of Commons."
+        }
+      ]
+    },
+    "additionalNotes": "Election Communication Croydon South"
+  }
+}
+```

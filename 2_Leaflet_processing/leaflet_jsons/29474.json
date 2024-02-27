@@ -1,0 +1,106 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chuka Umunna",
+    "constituency": "Streatham",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "THE HOUSING CRISIS IS AT TIPPING POINT",
+        "content": "After seven years in power, the Conservative record on housing is more than 200,000 homes promised - not delivered."
+      },
+      {
+        "title": "THE NHS WILL BE BETTER OFF WITH LABOUR",
+        "content": "Only Labour will protect the NHS against Conservative cuts and privatization."
+      },
+      {
+        "title": "KEEP WINTER FUEL ALLOWANCE FOR PENSIONERS",
+        "content": "Labour have pledged they will protect pensioner incomes and keep free bus passes."
+      },
+      {
+        "title": "FREE CHILDCARE FOR 2 - 4 YEAR OLDS WITH LABOUR",
+        "content": "Hard working families are warning that they are at breaking point, with the news that childcare costs are rising fast."
+      },
+      {
+        "title": "LABOUR SCRAPS UNI FEES",
+        "content": "Labour believes education should be free for everyone and will scrap £9,000 uni fees."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "The Labour Party aims to address the housing crisis by committing to building affordable homes and improving the existing housing stock."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "A commitment to better NHS funding, including a new £250 million Children's Health Fund, reversing privatization, and introducing a National Care Service."
+      },
+      {
+        "policyTitle": "Pensioners",
+        "policyDescription": "Labour pledges to protect pensioner incomes and keep free bus passes among other benefits."
+      },
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "Labour proposes free childcare for 2 to 4-year-olds to support working families dealing with rising childcare costs."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Labour plans to scrap £9,000 university fees to make higher education accessible to all."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chuka Umunna",
+      "otherPartyLeaderCandidate": "Theresa May and the Tories",
+      "partyLeader": "",
+      "tacticalSituation": "Mentions a 'straight fight between Labour and the Tories' indicating tactical voting considerations in the constituency."
+    },
+    "issues": {
+      "brexitEurope": "Chuka Umunna is fighting a Tory hard Brexit.",
+      "economy": "",
+      "education": "Labour believes education should be free for everyone and will scrap £9,000 uni fees.",
+      "environment": "",
+      "governance": "",
+      "health": "Only Labour will protect the NHS with increased funding and services.",
+      "immigration": "",
+      "socialWelfare": "Labour have pledged they will protect pensioner incomes and keep free bus passes.",
+      "housing": [
+        {
+          "content": "The Labour Party aims to address the housing crisis by committing to building affordable homes and improving the existing housing stock.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Empire News, London, SW16 2BF",
+      "phone": "020 8835 7081",
+      "email": "chuka@chuka.org.uk",
+      "website": "www.chuka.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

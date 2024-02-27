@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mike Thornton",
+    "constituency": "Hedge End",
+    "politicalParty": "Lib Dem",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "A Real Voice for Hedge End in Parliament",
+        "content": "A real voice for our schools and children, for our NHS, let down by the Conservatives."
+      },
+      {
+        "title": "The Conservative Broken Promise to Hedge End residents",
+        "content": "The Conservatives won the General Election here two years ago on a promise. A promise to tackle congestion and get missing by-passes for Eastleigh and Botley funded in 100 days."
+      },
+      {
+        "title": "",
+        "content": "Nothing has happened."
+      },
+      {
+        "title": "What can we do for YOU?",
+        "content": "If there are issues you want us to take up, or if you have a problem or an idea or issue you'd like Mike Thornton (your local MP) or your Liberal Democrat team to work on."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Schools and Children",
+        "policyDescription": "Conservative cuts to school funding threaten the quality of teaching in our schools. Pledge to fight to restore funding for our children’s education and get the school places needed."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Thousands of operations have been cancelled due to the Conservatives’ malice. Support for bureaucrats over doctors and ageing population needs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mike Thornton says: 'The Conservatives have BROKEN their election promise to end traffic misery, with M27 quieter suffering delayed to 2027.'",
+      "otherPartyLeaderCandidate": "Conservative cuts, Conservative broken promise",
+      "partyLeader": "",
+      "tacticalSituation": "Lib Dems winning close here, only 569 votes gap in 2015."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Pledge to fight to restore funding for our children’s education and get the school places needed.",
+      "environment": "",
+      "governance": "Claims of a broken promise by Conservatives on congestion and infrastructure.",
+      "health": "Support for bureaucracy over doctors and ageing population needs.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The right local people not just the right houses in the constituency.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Three things to remember - Mike Thornton has ten years' experience standing up for Eastleigh.",
+    "politicalExperience": [
+      {
+        "role": "Current MP",
+        "duration": "Ten years' experience",
+        "achievements": "Standing up for Eastleigh."
+      }
+    ],
+    "contactInformation": {
+      "address": "17 Leigh Road, Eastleigh, SO50 9FF",
+      "phone": "",
+      "email": "mike@mikethornton.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Chancellor promises more jobs and funding.",
+        "source": "Daily Echo, 23rd April 2015",
+        "date": "23rd April 2015"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mike Thornton - A real voice for Hedge End in Parliament."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet contains local voting statistics, suggesting a close race between Lib Dem and the Conservative party."
+  }
+}
+```

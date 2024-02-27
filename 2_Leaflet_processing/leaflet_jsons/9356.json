@@ -1,0 +1,108 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "James Green",
+    "constituency": "Cheltenham",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Why I'm voting Labour",
+        "content": "Labour’s investment has made a real difference to local families."
+      },
+      {
+        "title": "A fair future for Cheltenham",
+        "content": "Fighting back against the recession."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "More affordable homes",
+        "policyDescription": "Fight for more affordable homes because everyone in Cheltenham deserves a decent place to live."
+      },
+      {
+        "policyTitle": "Labour's cancer guarantee",
+        "policyDescription": "Back Labour’s cancer guarantee because you deserve diagnosis within one week if your GP suspects you have cancer."
+      },
+      {
+        "policyTitle": "Improve recycling and oppose incineration",
+        "policyDescription": "Improve recycling and oppose incineration because a united county-wide approach to waste is better for the environment."
+      },
+      {
+        "policyTitle": "Fairly paid jobs for all",
+        "policyDescription": "Campaign for fairly paid jobs for all because everyone deserves a secure, properly paid job."
+      },
+      {
+        "policyTitle": "The best for every child",
+        "policyDescription": "Secure the best for every child because all our young people deserve the best start in life."
+      }
+    ],
+    "mentions": {
+      "candidate": "James Green",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Labour was not prepared to allow the global financial crisis to destroy Cheltenham's economy."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour was not prepared to allow the global financial crisis to destroy Cheltenham's economy. We chose to fight back with bold action to protect homes, jobs and businesses. The rate of unemployment, business failures and home repossessions has been significantly lower than the Tory recession of the 1990s.",
+      "education": "Labour has invested at record levels in health and education. The NHS now has 89,000 more nurses and 44,000 doctors and hospital waiting lists are at a record low. Today there are 42,000 more teachers and Cheltenham is set to benefit from a new £24.6 million state school in the west of the town.",
+      "environment": "Improve recycling and oppose incineration because a united county-wide approach to waste is better for the environment.",
+      "governance": "",
+      "health": "Labour has invested at record levels in health and education. The NHS now has 89,000 more nurses and 44,000 doctors and hospital waiting lists are at a record low.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Fight for more affordable homes because everyone in Cheltenham deserves a decent place to live.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I believe that to change Cheltenham we need to change the way we do politics. We need to face up to the difficult local issues that have been ignored for far too long.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "67 Clarence Street, Cheltenham, Gloucestershire, GL50 3LB",
+      "phone": "01242 515025",
+      "email": "james4cheltenham@googlemail.com",
+      "website": "www.jamesgreen.org.uk",
+      "socialMedia": {
+        "facebook": "/james4chelt",
+        "twitter": "@james4chelt",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Jane Farrar",
+        "endorsement": "Labour's investment has made a real difference to local families."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour’s investment has made a real difference to local families.",
+        "source": "Jane Farrar, Cheltenham Resident",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "James Green with supporters."
+        },
+        {
+          "caption": "James Green portrait."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,73 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative Party",
+    "electionDate": "6th April 2010",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "State Pension",
+        "policyDescription": "Increase in the value of the state pension, linking it to earnings."
+      },
+      {
+        "policyTitle": "Personal Pension",
+        "policyDescription": "Make saving for a personal pension worthwhile and eliminate compulsory annuity rule."
+      },
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "Freeze council tax for the next two years in partnership with the council."
+      },
+      {
+        "policyTitle": "Home Protection",
+        "policyDescription": "Help people protect their home rather than having to sell it to pay for care, raise inheritance tax threshold to £1 million."
+      },
+      {
+        "policyTitle": "NHS Budget",
+        "policyDescription": "Protect the NHS budget as the top priority."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Labour's 75p rise",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Detailed plans to stop the waste in government bureaucracy and extravagance of politicians.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protect the NHS budget as the number one priority.",
+      "immigration": "",
+      "socialWelfare": "Support for pensioners, increasing state pension, and assisting with personal pension savings.",
+      "housing": [
+        {
+          "content": "Help people protect their home rather than having to sell it to pay for care, and raise inheritance tax threshold to £1 million.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": []
+    },
+    "additionalNotes": ""
+  }
+}

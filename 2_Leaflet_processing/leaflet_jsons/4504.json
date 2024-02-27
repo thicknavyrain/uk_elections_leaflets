@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Spademan",
+    "constituency": "Witham",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Labour are for the many not the few. The Tories would reverse the progress Labour has made.",
+        "content": "A better life for pensioners with free eye tests and bus passes, prescription credits, winter fuel allowances, and cold weather payments. NHS transformed with record numbers of doctors and nurses; falling crime rates; improved exam results help more of our kids get on; fairer terms of employment and parental leave; and massive cuts to families at the worst possible time."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Giving children the best start in life",
+        "policyDescription": "Continuation of Sure Start Centres, which provide education, health care, and emotional support for children and families—especially those in hardship."
+      },
+      {
+        "policyTitle": "A falling crime rate with Labour",
+        "policyDescription": "Over 16,000 more Police and Community Support Officers; anti-social behaviour cut; there are now more than two million fewer victims of crime compared to 1997."
+      },
+      {
+        "policyTitle": "Local jobs for young people",
+        "policyDescription": "Expansion of apprenticeship programs to give local kids better job opportunities, reflecting on how the policies of the 1980s had affected local job and economy."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Spademan",
+      "otherPartyLeaderCandidate": "The Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Excessive cuts threatening the local job market with historical reference to the impact of the 1980s policies.",
+      "education": "Continuation of Sure Start Centres.",
+      "environment": "",
+      "governance": "",
+      "health": "NHS development with increased doctors and nurses.",
+      "immigration": "",
+      "socialWelfare": "Supports for pensioners such as free eye tests, bus passes, prescription credits, and winter fuel allowances.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Spademan photographed with constituents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

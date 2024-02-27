@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Paul Greenall",
+    "constituency": "West Lancashire",
+    "politicalParty": "Conservative",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "Your LOCAL Candidate for Parliament",
+        "content": "Paul Greenall is 48 yrs old and lives with his wife and 2 children in Westhead village. He works in the NHS and has been a local councillor for 14yrs."
+      },
+      {
+        "title": "Who do you want to be our next Prime Minister?",
+        "content": "The SNP would prop up Ed Miliband - meaning chaos for Britain."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Improved rail links in West Lancashire will be one of my top priorities"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Since 2010 over a million more children are being taught in schools rated good or outstanding and over two million apprenticeships have been created. Let's carry on giving our young people options for a better future"
+      },
+      {
+        "policyTitle": "Defence",
+        "policyDescription": "In this unstable world, Britain needs a strong military - I will oppose any further reductions to our Armed Forces."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "I work in the NHS, I use the NHS, I support the NHS. The private sector can play a part, but no privatisation!"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Conservatives have started to fix our broken economy and to reduce our national deficit. I want to see the job done well, because my children should not inherit our debt"
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Britain should reclaim control of our borders so we decide who comes into our country and who does not"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "We're building more affordable houses in West Lancashire than ever. Let's continue the work and get more people into work"
+      },
+      {
+        "policyTitle": "Welfare",
+        "policyDescription": "Skelmersdale deserves better than what Labour has delivered"
+      }
+    ],
+    "mentions": {
+      "candidate": "Paul Greenall",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "",
+      "tacticalSituation": "This general election is too close to call, so YOUR vote will count in West Lancashire. In the last General Election over 25,000 people in West Lancashire did not vote, thousands of them could have been Conservative voters."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Conservatives have started to fix our broken economy and to reduce our national deficit.",
+      "education": "Since 2010 over a million more children are being taught in schools rated good or outstanding and over two million apprenticeships have been created.",
+      "environment": "",
+      "governance": "",
+      "health": "I work in the NHS, I use the NHS, I support the NHS. The private sector can play a part, but no privatisation!",
+      "immigration": "Britain should reclaim control of our borders so we decide who comes into our country and who does not",
+      "socialWelfare": "Skelmersdale deserves better than what Labour has delivered",
+      "housing": [
+        {
+          "content": "We're building more affordable houses in West Lancashire than ever. Let's continue the work and get more people into work",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "14 years",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.paulgreenall.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Paul Greenall and other local Conservatives, working all year round, not just at election time"
+        },
+        {
+          "caption": "Your worst nightmare... just got worse - The SNP would prop up Ed Miliband - meaning chaos for Britain"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

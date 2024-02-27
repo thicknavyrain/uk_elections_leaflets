@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Meera Chadha",
+    "constituency": "Walthamstow",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "",
+        "content": "DEMAND BETTER FOR WALTHAMSTOW"
+      },
+      {
+        "title": "A LOCAL CHAMPION FOR WALTHAMSTOW",
+        "content": "Meera Chadha is disappointed with Labour and despair with Conservative options."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Stop Brexit. Bonus in our public services and tackling economy suffer."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Saving our environment for the future."
+      },
+      {
+        "policyTitle": "Affordable Living",
+        "policyDescription": "Helping people to live affordably."
+      }
+    ],
+    "mentions": {
+      "candidate": "Meera Chadha wants to stop Brexit so that we can build a brighter future.",
+      "otherPartyLeaderCandidate": "Now is your only chance to get the better Prime Minister Jeremy Corbyn promised and Boris Johnson threatened.",
+      "partyLeader": "Jo Swinson is the new leader of the Liberal Democrats. She will stop Brexit and build a brighter future for Britain.",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Stop Brexit to reverse the damage that Brexit has done to our country.",
+      "economy": "",
+      "education": "",
+      "environment": "Saving our environment for the future.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Helping people to live affordably.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Meera Chadha is a Local Champion for Walthamstow.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk/vote",
+      "socialMedia": {
+        "facebook": "facebook.com/meerachadhald",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Meera Chadha demanding better for Walthamstow."
+        },
+        {
+          "caption": "Meera Chadha with Siobhan Benita."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

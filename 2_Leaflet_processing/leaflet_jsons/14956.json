@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Royston Smith",
+    "constituency": "Southampton Itchen",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "5 MORE YEARS OF GORDON BROWN OR CHANGE WITH THE CONSERVATIVES",
+        "content": "In just a few weeks we will have the most important Election for a generation. Our economy is burdened by debt. Society and families are worse off. Our country is broken by crime and irresponsible behaviour. Do you want to take action? A Conservative government will cut Gordon Brown's waste and debt to get our economy moving. We'll support families and make people who did nothing under Labour's recession part of society again. We'll set prisoners to work and we'll raise standards in schools. And we need big changes in our political system too. MP's who fiddled the system on expenses and let you down cannot move on until they own up."
+      },
+      {
+        "title": "3 POSITIVE REASONS TO VOTE FOR ROYSTON SMITH",
+        "content": "Royston has lived in Southampton all his life being born in the constituency and living locally helps truly understand the needs and concerns of local residents. He is the only local candidate in this election. Royston is a Councillor representing the Harefield Ward. With nearly 10 years experience on the city council and a track record as a local campaigner he has a great reputation for helping local people. Royston is working for the community and gets results. Whether it's protecting precious community services or planning to work with community groups to improve the local area, Royston always gets things done."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Getting Britain Working",
+        "policyDescription": "The Conservatives will act to get the economy moving and build a strong society."
+      },
+      {
+        "policyTitle": "Backing The NHS",
+        "policyDescription": "David Cameron and his team will cut the deficit, not the NHS. They will directly protect frontline services from Labour's cuts."
+      },
+      {
+        "policyTitle": "Raising Standards In Schools",
+        "policyDescription": "By stopping the PC and cutting the quangoes, the Conservatives will save money from the political elite to get basic primary school education for life."
+      },
+      {
+        "policyTitle": "Supporting Families",
+        "policyDescription": "Families are the foundation of a strong society and the Conservatives will support them."
+      }
+    ],
+    "mentions": {
+      "candidate": "Royston Smith",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Conservatives will cut Gordon Brown's waste and debt to get our economy moving.",
+      "education": "We'll raise standards in schools. ...By stopping the PC and cutting the quangoes, the Conservatives will save money from the political elite to get basic primary school education for life.",
+      "environment": "The left section under the title 'LEFT: CAMPAIGNING TO SAVE THE GREAT BRITISH PUB' mentions concern over development of green park land which might potentially relate to environmental issues.",
+      "governance": "And we need big changes in our political system too. MP's who fiddled the system on expenses and let you down cannot move on until they own up.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Residents are 'outraged over increasing cycle and parking costs, with local roads unable to cope and householders facing a hugely expensive parking permit regime'. This suggests concern with local infrastructure and housing costs, although it doesn't directly comment on new housing development or sentiments related to YIMBY/NIMBY.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Royston has lived in Southampton all his life being born in the constituency and living locally helps truly understand the needs and concerns of local residents. He is the only local candidate in this election.",
+    "politicalExperience": [
+      {
+        "role": "Councillor representing the Harefield Ward",
+        "duration": "nearly 10 years",
+        "achievements": "A great reputation for helping local people."
+      }
+    ],
+    "contactInformation": {
+      "address": "29a Bedford Place, Southampton, SO15 2DB",
+      "phone": "023 8033 8740",
+      "email": "royston@roystonsmith.co.uk",
+      "website": "www.roystonsmith.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "LEFT: CAMPAIGNING AGAINST LABOUR'S GARDEN GRAB Residents are 'outraged over increasing cycle and parking costs, with local roads unable to cope and householders facing a hugely expensive parking permit regime'."
+        },
+        {
+          "caption": "ABOVE: WORKING WITH LOCAL PEOPLE TO IMPROVE OUR AREA Those who give up their time to make our communities safer and cleaner are protecting their futures and generations yet unborn to have somewhere and something for families to go to help out."
+        },
+        {
+          "caption": "RIGHT: SUPPORTING OUR MILITARY Royston understands just how much our service men and women have been let down by Labour. Royston said, 'I promise service personnel will not be disadvantaged when applying for housing'."
+        },
+        {
+          "caption": "RIGHT: LAUNCHING NEW RECYCLING FACILITIES IN OCEAN VILLAGE Southampton is one of the greenest cities in the country and thanks to Conservative initiatives it is becoming ever greener. Royston has been at the forefront of the green agenda in Southampton."
+        },
+        {
+          "caption": "LEFT: CAMPAIGNING TO SAVE THE GREAT BRITISH PUB 1,300 of our local public houses are part of the community and should be supported. Labour's 24-hour drinking culture that breeds anti-social behavior and fuels violence must come under scrutiny. The last thing a social drinker wants is another potential risk relaxing with a pint in their local."
+        },
+        {
+          "caption": "ABOVE: PROTECTING OUR GREEN SPACES IS REALLY IMPORTANT Royston has worked hard to protect key open spaces in and around the city and recently condemned a Labour council where plans to redevelop a site lead to his desire to carry on about the loss of green open space."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

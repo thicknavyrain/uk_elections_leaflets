@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rosie Sharpley",
+    "constituency": "Woking and the surrounding villages",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "It's so close in our area...",
+        "content": "More and more people are switching to back Rosie and the Lib Dems here in Woking."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health/NHS",
+        "policyDescription": "Fighting to put more police on the beat, protect local health services."
+      },
+      {
+        "policyTitle": "Jobs/Economy",
+        "policyDescription": "Cut taxes by £700 for people on ordinary incomes."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "Fighting to put more police on the beat."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rosie Sharpley",
+      "otherPartyLeaderCandidate": "Conservatives, Labour",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": "Liberal Democrats outscore Conservatives in key seats."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Cut taxes by £700 for people on ordinary incomes.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protect local health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Rosie Sharpley - Liberal Democrat Campaigner for Woking and the surrounding villages. Elections here in Woking are always between the Conservatives and the Liberal Democrats. Labour cannot win here - they have no councillors and always come third or worse.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "13 Alerton Close, Goldsworth Park, Woking, GU21 3DD",
+      "phone": "",
+      "email": "",
+      "website": "www.WokingDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg endorses Rosie Sharpley's campaign in Woking."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

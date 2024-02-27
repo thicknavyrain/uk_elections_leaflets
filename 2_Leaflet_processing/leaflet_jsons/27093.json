@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Robert Mackenzie",
+    "constituency": "Ross, Skye and Lochaber",
+    "politicalParty": "Scottish Conservative and Unionist Party",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "A MESSAGE FROM RUTH DAVIDSON IN SUPPORT OF ROBERT MACKENZIE YOUR SCOTTISH CONSERVATIVE AND UNIONIST CANDIDATE FOR ROSS, SKYE AND LOCHABER",
+        "content": "Your vote for my candidate Robert Mackenzie can make the SNP listen to us."
+      },
+      {
+        "title": "WE SAID NO TO INDEPENDENCE. WE MEANT IT.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Scottish Independence",
+        "policyDescription": "Against a second independence referendum and focusing on schools, hospitals, and public services instead."
+      }
+    ],
+    "mentions": {
+      "candidate": "Robert Mackenzie",
+      "otherPartyLeaderCandidate": "Nicola Sturgeon",
+      "partyLeader": "Ruth Davidson",
+      "tacticalSituation": "Voting for the Scottish Conservative and Unionist Party can stop the threat of a second independence referendum."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Ruth Davidson",
+        "endorsement": "I'm asking you to vote Scottish Conservative at the General Election on 8th June."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Scots do not want a referendum.",
+        "source": "Ruth Davidson",
+        "date": "BBC News 19/03/17"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Picture of Ruth Davidson"
+        },
+        {
+          "caption": "Picture of Robert Mackenzie"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes preventing a second Scottish independence referendum and seems to capitalize on the tactical voting situation, where voting for the Scottish Conservative and Unionist Party is portrayed as a way to influence the SNP's focus on independence."
+  }
+}
+```

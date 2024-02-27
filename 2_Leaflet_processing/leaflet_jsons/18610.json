@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alex Meredith",
+    "constituency": "Oxfordshire",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Delivering opportunity for everyone.",
+        "content": "The Lib Dems will end the scandal of mental health being treated as a second-class service. The Lib Dems will guarantee the NHS budget rises every year by over £8 billion by 2020, realising the NHS England boss's vision. The Lib Dems will cut Income Tax for workers by a further £400 a year to help with the cost of living."
+      },
+      {
+        "title": "ACTION in Oxfordshire",
+        "content": "Alex wants to be a campaigning local MP who will live in the constituency. He is pledging to fight for policies for our area, reform national planning laws to stop inappropriate rural development in their communities."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "End the scandal of mental health",
+        "policyDescription": "The Lib Dems will end the scandal of mental health being treated as a second-class service."
+      },
+      {
+        "policyTitle": "NHS Budget Increase",
+        "policyDescription": "The Lib Dems will guarantee the NHS budget rises every year by over £8 billion by 2020."
+      },
+      {
+        "policyTitle": "Income Tax Cut",
+        "policyDescription": "The Lib Dems will cut Income Tax for workers by a further £400 a year."
+      },
+      {
+        "policyTitle": "Energy and Environment",
+        "policyDescription": "Finish every school in the country with panels that cut fuel bills, and place a green energy innovation centre in every region."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alex Meredith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The Lib Dems will cut Income Tax for workers by a further £400 a year to help with the cost of living.",
+      "education": "",
+      "environment": "Finish every school in the country with panels that cut fuel bills.",
+      "governance": "",
+      "health": "The NHS budget will be guaranteed to rise every year by over £8 billion by 2020.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Reform national planning laws to stop inappropriate rural development in their communities.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Alex wants to be a campaigning local MP who will live in the constituency.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.alexm4wantage.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Alex interacting with various people and locales related to the constituency."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes opportunity for everyone, guarantee of rising NHS budget, and the candidate's commitment to live in and campaign for the constituency."
+  }
+}
+```

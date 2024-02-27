@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Wright",
+    "constituency": "Bristol South",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "We need an MP who is hard working and a local champion",
+        "content": "Dr. Mark Wright is 35 years old and a local councillor in Southville. He went to Ashton Park secondary school and he went to university in Bristol Central Library. He wants to be a local MP, not a parliamentarian blow-in or newborn Labour sweetheart. He is a leading city councillor, currently by changing the housing in the school building after 30 years of failed Labour campaign promises."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Like other Lib Dems, Mark wants to change the whole system of British politics.",
+      "otherPartyLeaderCandidate": "The Labour Party have dominated Bristol for generations, and they have totally failed to deliver.",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "He is a leading city councillor, currently by changing the housing in the school building after 30 years of failed Labour campaign promises.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Bristol has been my home all my life. I went to school and university here, I work here, I am also a city councillor here. I love this city, and it angers me that Bristol was thrown to the political dog by the Labour Party who have dominated Bristol for generations, and they have totally failed to deliver.",
+    "politicalExperience": [
+      {
+        "role": "City Councillor",
+        "duration": "",
+        "achievements": "He is a leading city councillor, currently by changing the housing in the school building after 30 years of failed Labour campaign promises."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lib Dem Mark Wright is the local choice for voters in Bristol South"
+        }
+      ]
+    },
+    "additionalNotes": "Mark Wright commits to fighting inequality. The current tax system is unfair, and there will be no full economic recovery unless it addresses this."
+  }
+}
+```

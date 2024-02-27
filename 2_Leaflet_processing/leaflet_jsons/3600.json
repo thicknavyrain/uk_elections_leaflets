@@ -1,0 +1,103 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Fred Mackintosh",
+    "constituency": "Edinburgh South",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Help Fred",
+        "content": "Win here. Candidate endorsed by local newspaper. The best thing Edinburgh South needs is another government yes-man."
+      },
+      {
+        "title": "Iraq War",
+        "content": "A delayed call for our troops. Voter's opinion on Liberal Democrats' stand on the Iraq war and Liberal Democrats' proposals on NHS."
+      },
+      {
+        "title": "Labour's Collapse",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax Rises/Recession",
+        "policyDescription": "Blames Gordon Brown for the recession, abolished 10p tax rate, stealth taxes hurting families."
+      },
+      {
+        "policyTitle": "Record of Action",
+        "policyDescription": "Council tax reduction for pensioners, fought to protect local schools and post offices, securing investment in local services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Fred Mackintosh",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": "Call to action for voters who have previously voted for Labour or Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Tax Rises sorting out the banks.",
+      "education": "Fought to protect local schools.",
+      "environment": "",
+      "governance": "",
+      "health": "Liberal Democrats' proposals on NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Proposals include the right for residents to have a say on major planning applications in their area.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Fred Mackintosh's statement says he is not afraid to say what he thinks and is someone who stands up for what he believes.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "2003-2007",
+        "achievements": "Reducing crime, improving schools and protecting the environment."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Local paper",
+        "endorsement": "Endorsed Fred Mackintosh."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Fred argued for a fresh approach and an end to the Council Tax.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Fred Mackintosh with a resident."
+        },
+        {
+          "caption": "Fred Mackintosh in the community."
+        },
+        {
+          "caption": "Front page endorsement by local newspaper."
+        }
+      ]
+    },
+    "additionalNotes": "Mentions of tactical voting; Focus on criticizing Labour's record, particularly Gordon Brown."
+  }
+}
+```

@@ -1,0 +1,129 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "Sheffield Hallam",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Fixing Sheffield's roads for good",
+        "content": "We’ve brought Sheffield a billion pound deal to upgrade local roads and repair our pavements."
+      },
+      {
+        "title": "The Lib Dem plan for Britain",
+        "content": "Stronger Economy, Better Healthcare, Higher Pensions, Lower Taxes, Quality education, More apprenticeships"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stronger Economy",
+        "policyDescription": "Finishing the job of fixing the economy by 2018."
+      },
+      {
+        "policyTitle": "Better Healthcare",
+        "policyDescription": "Increase NHS spending by £8 billion a year."
+      },
+      {
+        "policyTitle": "Higher Pensions",
+        "policyDescription": "Guarantee decent pension rises every year."
+      },
+      {
+        "policyTitle": "Lower Taxes",
+        "policyDescription": "An additional £400 Income Tax cut for workers."
+      },
+      {
+        "policyTitle": "Quality education",
+        "policyDescription": "Spending protected and a qualified teacher in every classroom."
+      },
+      {
+        "policyTitle": "More apprenticeships",
+        "policyDescription": "Helping young people into work through more apprenticeships."
+      },
+      {
+        "policyTitle": "Taking mental health seriously",
+        "policyDescription": "Investing in wards and therapists for mental health conditions."
+      },
+      {
+        "policyTitle": "More help for local families",
+        "policyDescription": "Protecting funding for schools, nurseries and colleges and extending the pupil premium."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "Labour and Tories refuse to commit to doctors' £8bn NHS funding plea.",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Stronger Economy - Finishing the job of fixing the economy by 2018.",
+      "education": "Quality education - Spending protected and a qualified teacher in every classroom.",
+      "environment": "",
+      "governance": "",
+      "health": "Better Healthcare - Increase NHS spending by £8 billion a year. Taking mental health seriously - Investing in wards and therapists for mental health conditions.",
+      "immigration": "",
+      "socialWelfare": "More help for local families - Protecting funding for schools, nurseries and colleges and extending the pupil premium.",
+      "housing": [
+        {
+          "content": "We’ve brought Sheffield a billion pound deal to upgrade local roads and repair our pavements.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "elected Hallam",
+        "duration": "After years of neglect under Labour.",
+        "achievements": "Delivered the cash to fix our crumbling roads."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "nickclegg.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "nick_clegg",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Robyn, student at University of Sheffield",
+        "endorsement": "There are now more people in work than ever before across the UK. Here in Sheffield there are thousands more graduate opportunities and 20,000 more apprenticeships for local young people."
+      },
+      {
+        "endorser": "Paul from Dore",
+        "endorsement": "I'm backing Nick Clegg next year - he’s been an excellent MP for Sheffield Hallam."
+      },
+      {
+        "endorser": "Julia from Lodge Moor",
+        "endorsement": "Nick really fought Sheffield's corner, and he's been a real positive influence in Government. Nick keeps in touch by holding Q and A meetings, surgeries and keeping us up to date in his regular newsletters."
+      },
+      {
+        "endorser": "Lisa, from Crookes",
+        "endorsement": "Nick has fought hard to make life fairer for working families."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour and Tories refuse to commit to doctors' £8bn NHS funding plea.",
+        "source": "The Guardian",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg working with constituents and engaging in local community."
+        }
+      ]
+    },
+    "additionalNotes": "An extra £8 Billion for the NHS. Nick Clegg and the Lib Dems are planning to increase NHS spending by £8 Billion a year by 2020 and put mental health on an equal footing with physical health."
+  }
+}
+```

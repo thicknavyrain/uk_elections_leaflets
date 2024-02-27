@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kate Honey, Rupert Read",
+    "constituency": "Cambridge and Newnham Ward",
+    "politicalParty": "Green Party",
+    "electionDate": "Spring 2015",
+    "messages": [
+      {
+        "title": "Support for Greens boosted as ‘Green Surge’ hits Cambridge",
+        "content": "The Greens have a real chance of winning a seat in the coming election, thanks to 'Green Surge' which made the Green Party the third largest party in the UK before Labour and UKIP. The membership base and vote doubled within months."
+      },
+      {
+        "title": "Introducing our policies and candidates for Cambridge and Newnham Ward",
+        "content": "FOR THE COMMON GOOD\nAusterity has pushed inequality to an all-time high with one million people relying on food banks and 13% of all children in Cambridgeshire living in poverty (Cambs County Council). Labour, Tories and Lib Dems want to continue to push all of us for the pitiful misuse of our money by bankers. We will tell austerity that those that profited from the crisis pay their share and make the economy work for the people, fighting any privatisation of public services! We are committed to more social justice, including a living wage for everyone, better mental health services and social genuinely affordable housing on brown-field sites."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "BETTER TRANSPORT IN CAMBRIDGE",
+        "policyDescription": "Innovative and bold ideas are needed to prevent congestion and increase safety for pedestrians, cyclists and public transport users in Cambridge. Our Newnham candidate Rupert Read published the 'Transport Green Paper' giving major ways to revolutionise transport from Cambridge."
+      },
+      {
+        "policyTitle": "FREE EDUCATION",
+        "policyDescription": "We are convinced that education should be available to everyone independently of wealth and social background. We promote a return to Education, from pre-schools, apprenticeships to higher education, must be publicly funded, which will include scrapping tuition fees. Newnham Ward candidate Kate Honey (who graduated from Robinson College in 2013) is passionate that university education need not come with a crippling, unjust burden of debt for graduates."
+      },
+      {
+        "policyTitle": "REAL DEMOCRACY",
+        "policyDescription": "Britain has entered the age of five-party politics, but the electoral system fails to reflect this. We need electoral reform and local governance needs to be more accountable to the people. We are disappointed with the Labour Council's decision to lock people now during the day-time at the Guildhall when fewer people are able to partake."
+      },
+      {
+        "policyTitle": "ENERGY AND ENVIRONMENT",
+        "policyDescription": "Climate Change is the challenge of our time. Cambridge needs to move toward renewable energy. Colleges and businesses will be supported to take action to move the money they have invested in fossil fuels and reinvest into green energy to reduce their carbon footprint."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kate Honey, Rupert Read",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Austerity has pushed inequality to an all-time high... we will tell austerity that those that profited from the crisis pay their share and make the economy work for the people...",
+      "education": "We are convinced that education should be available to everyone independently of wealth and social background...",
+      "environment": "Climate Change is the challenge of our time...",
+      "governance": "Britain has entered the age of five-party politics, but the electoral system fails to reflect this...",
+      "health": "We are committed to more social justice, including a living wage for everyone, better mental health services...",
+      "immigration": "",
+      "socialWelfare": "Austerity has pushed inequality to an all-time high with one million people relying on food banks...",
+      "housing": [
+        {
+          "content": "We are committed to more social justice, including... genuinely affordable housing on brown-field sites.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Lecturer in Philosophy at the University of East Anglia",
+        "duration": "",
+        "achievements": "Author of 'The Think Tank', the Green Party's Ethics and Transport spokesperson and achieved 20% of the vote across Cambridge in the 2014 European Parliament election."
+      }
+    ],
+    "contactInformation": {
+      "address": "Cambridge Green Party, 15 Montague Road, CB4 1BU, Cambridge",
+      "phone": "01223 xxxxxx",
+      "email": "cambridge.greenparty@greenparty.org.uk",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/cambridgegreenparty",
+        "twitter": "@CambridgeGreens",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Kate Honey, Green candidate for Newnham Ward"
+        },
+        {
+          "caption": "Rupert Read and Green Party volunteer. Newnham on Mill Road showing support for residents and local business against another supermarket chain."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

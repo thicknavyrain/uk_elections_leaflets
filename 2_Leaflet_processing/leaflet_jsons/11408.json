@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Frank Dobson",
+    "constituency": "Holborn & St Pancras",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 6 May",
+    "messages": [
+      {
+        "title": "A LABOUR GOVERNMENT WILL:",
+        "content": "Restore the pensions link with earnings, Protect Sure Start, and provide free childcare, Establish a 'People's Bank' at the Post Office, Introduce a fully elected House of Lords and hold a referendum on Proportional Representation, Create 400,000 new green jobs by 2015 and protect food producers from the competitive practices of major supermarkets, Introduce a global tax on banks so they contribute fairly to the society in which they are based"
+      },
+      {
+        "title": "A LABOUR COUNCIL WILL:",
+        "content": "Stop selling council housing to property speculators and end the privatisation of caretakers, Cut Camden's carbon emissions by 40% by 2020, Introduce a London Living Wage and freeze pay for the 26 council staff paid more than £100k, Fund new football pitches for Camden schools and teams, Establish a network of community Gardening clubs, Build a school south of Euston and challenge unfair cuts to primary schools."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Create 400,000 new green jobs by 2015 and protect food producers from the competitive practices of major supermarkets."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Stop selling council housing to property speculators and end the privatisation of caretakers."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Cut Camden's carbon emissions by 40% by 2020."
+      },
+      {
+        "policyTitle": "Social Welfare",
+        "policyDescription": "Introduce a London Living Wage and freeze pay for the 26 council staff paid more than £100k."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Fund new football pitches for Camden schools and teams, Build a school south of Euston and challenge unfair cuts to primary schools."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Restore the pensions link with earnings, Protect Sure Start, and provide free childcare, Establish a 'People's Bank' at the Post Office, Introduce a fully elected House of Lords and hold a referendum on Proportional Representation."
+      },
+      {
+        "policyTitle": "Financial Policy",
+        "policyDescription": "Introduce a global tax on banks so they contribute fairly to the society in which they are based."
+      }
+    ],
+    "mentions": {
+      "candidate": "Frank Dobson",
+      "otherPartyLeaderCandidate": "David Cameron, Boris Johnson, Nick Clegg",
+      "partyLeader": "",
+      "tacticalSituation": "Tories and Lib Dems share power in Camden and 17 other councils. Voting Lib Dem risks handing power to the Tories."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Cut Camden's carbon emissions by 40% by 2020.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Introduce a London Living Wage.",
+      "housing": [
+        {
+          "content": "Stop selling council housing to property speculators and end the privatisation of caretakers.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "frank@frankdobson.co.uk",
+      "website": "www.frankdobson.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "SAME OLD TORIES SAY: 'YOU’RE ON YOUR OWN' SCHOOLS, HOSPITALS AND HOMES UNDER THREAT FROM TORY PLANS",
+        "source": "Campaign Leaflet",
+        "date": ""
+      },
+      {
+        "text": "\"I HATE BRITISH JOBS BEING LOST. YOU NEED TO BE CUTS, CUTS THAT ARE SAVAGE.\"",
+        "source": "Nick Clegg, 21 Sept 2008",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Frank Dobson Promotional Image"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,73 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Mole",
+    "constituency": "Ipswich",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Transparency",
+        "policyDescription": "Will go on publishing all of my Parliamentary expenses online for everybody to see."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Every high school in Ipswich will be rebuilt."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "You'll get NHS cancer test results within one week."
+      },
+      {
+        "policyTitle": "Community Safety",
+        "policyDescription": "More police on the beat protecting our community, backed by CCTV cameras."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Mole",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Every high school in Ipswich will be rebuilt.",
+      "environment": "",
+      "governance": "Will go on publishing all of my Parliamentary expenses online for everybody to see.",
+      "health": "You'll get NHS cancer test results within one week.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [{
+        "content":"",
+        "yimbyNimby": "N/A"
+      }]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "33 Silent Street, Ipswich, IP1 1TF",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "My pledges to you"
+        }
+      ]
+    },
+    "additionalNotes": "Ipswich has been my home for 30 years. I'm here to stay."
+  }
+}
+```

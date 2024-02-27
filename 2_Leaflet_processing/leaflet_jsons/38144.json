@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Edward Dawson",
+	"constituency": "Blaenau Gwent",
+	"politicalParty": "Welsh Conservative",
+	"electionDate": "6 May",
+	"messages": [
+  	{
+    	"title": "A strong voice for Blaenau Gwent",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "LOCAL AND CARING FOR THE COMMUNITY",
+    	"policyDescription": "Improve communications and reduce isolation. Enriching communities and culture is essential."
+  	},
+	{
+		"policyTitle": "SUPPORTING WELLBEING AND MENTAL HEALTH",
+		"policyDescription": "Need to recover from the Covid pandemic and deal with mental health and wellbeing issues will be vital. Better use of the great outdoors and opportunities to connect with nature are important."
+	},
+	{
+		"policyTitle": "BRINGING IN NEW JOBS AND INNOVATION",
+		"policyDescription": "Creating exciting work opportunities will help the older communities of the valleys and ensure they have brighter futures. We should take advantage of innovations and new technology for all our sakes."
+	}
+	],
+	"mentions": {
+  	"candidate": "Edward Dawson",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Creating exciting work opportunities will ensure brighter futures for the older communities of the valleys.",
+  	"education": "",
+  	"environment": "Better use of the great outdoors and opportunities to connect with nature are important.",
+  	"governance": "",
+  	"health": "Need to recover from the Covid pandemic and deal with mental health and wellbeing issues will be vital.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Image of Edward Dawson with a backdrop of green fields and the text: Edward Dawson, A strong voice for Blaenau Gwent, LOCAL AND CARING FOR THE COMMUNITY, SUPPORTING WELLBEING AND MENTAL HEALTH, BRINGING IN NEW JOBS AND INNOVATION, More jobs. Better hospitals. First class schools. Vote Welsh Conservative on 6 May."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ed Miliband",
+    "constituency": "Doncaster North",
+    "politicalParty": "The Labour Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Labour's Pledges to You",
+        "content": "A strong economic foundation, Higher living standards for working families, An NHS with the time to care, Controls on immigration, A country where the next generation can do better than the last."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A strong economic foundation",
+        "policyDescription": "Balance the books and cut the deficit every year while securing the future of the NHS."
+      },
+      {
+        "policyTitle": "Higher living standards for working families",
+        "policyDescription": "Freeze energy bills until 2017 and give the regulator the power to cut bills. Increase the minimum wage to £8, and provide 25 hours free childcare."
+      },
+      {
+        "policyTitle": "An NHS with the time to care",
+        "policyDescription": "20,000 more nurses and 8,000 more GPs. Guarantee GP appointments within 48 hours and cancer tests within one week."
+      },
+      {
+        "policyTitle": "Controls on immigration",
+        "policyDescription": "People who come here won't be able to claim benefits for at least two years, and introduce rules making it illegal for employers to undercut wages by exploiting workers."
+      },
+      {
+        "policyTitle": "A country where the next generation can do better than the last",
+        "policyDescription": "Reduce tuition fees to £6,000, guarantee an apprenticeship for every school leaver who gets the basic grades, and ensure smaller classes for 5, 6, & 7 year-olds."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ed Miliband",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "Ed Miliband",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Balance the books and cut the deficit every year while securing the future of the NHS.",
+      "education": "Reduce tuition fees to £6,000, guarantee an apprenticeship for every school leaver who gets the basic grades, and ensure smaller classes for 5, 6, & 7 year-olds.",
+      "environment": "",
+      "governance": "",
+      "health": "20,000 more nurses and 8,000 more GPs. Guarantee GP appointments within 48 hours and cancer tests within one week.",
+      "immigration": "People who come here won't be able to claim benefits for at least two years, and introduce rules making it illegal for employers to undercut wages by exploiting workers.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "\"Labour's plan is based on one simple idea: that Britain only succeeds when working families succeed.\" - Ed Miliband",
+    "politicalExperience": [
+      {
+        "role": "Leader of the Labour Party",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "\"Labour's plan is based on one simple idea: that Britain only succeeds when working families succeed.\"",
+        "source": "Ed Miliband",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour's Pledges to You"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet mentions Labour's key policies and pledges, with a personal statement from Ed Miliband emphasizing the idea that Britain only succeeds when working families succeed."
+  }
+}
+```

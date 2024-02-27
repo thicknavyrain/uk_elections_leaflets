@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Monica Harding",
+    "constituency": "Esher and Walton",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "12th December",
+    "messages": [
+      {
+        "title": "",
+        "content": "You can vote for someone who will fight for a brighter future, making sure our schools and the NHS have the investment they need and bringing our country back together."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investment in Schools and NHS",
+        "policyDescription": "Ensuring schools and the NHS receive the necessary investment."
+      },
+      {
+        "policyTitle": "Uniting the Country",
+        "policyDescription": "Bringing the country back together post Brexit."
+      }
+    ],
+    "mentions": {
+      "candidate": "Monica Harding",
+      "otherPartyLeaderCandidate": "Dominic Raab, Nigel Farage, Donald Trump",
+      "partyLeader": "",
+      "tacticalSituation": "The Green Party have also stood aside for me."
+    },
+    "issues": {
+      "brexitEurope": "Discussion about Brexit has distracted time, attention and money from issues that matter.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "I have lived in Esher and Walton for many years with my husband and four children. I use the same services you do. I share your hopes and fears for the future and what it will say about our community and our loved ones.",
+    "politicalExperience": [
+      {
+        "role": "Liberal Democrat Candidate for Esher and Walton",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Russell House, Molesey Road KT12 3PJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of text from the campaign leaflet."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes the tactical voting situation with the Green Party standing aside and urges the defeat of Dominic Raab."
+  }
+}
+```

@@ -1,0 +1,43 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Natalie McGarry",
+	"constituency": "Glasgow East",
+	"politicalParty": "SNP",
+	"electionDate": "7th May",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Natalie McGarry",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "07985 794145",
+  	"email": "",
+  	"website": "www.snp.org",
+  	"socialMedia": {
+    	"facebook": "theSNP",
+    	"twitter": "theSNP",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Natalie McGarry SNP Candidate Glasgow East"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

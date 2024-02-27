@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Steve McCabe",
+    "constituency": "Selly Oak",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Our NHS: the fight goes on",
+        "content": "Steve McCabe is demanding a greater involvement for local people in the planning of health services in Birmingham. Our campaign for A&E services successfully halted the closure of the Katie Road Walk-in Centre. However, the fight is not yet over. Bank-engine use and growing demand on accident and emergency departments reinforces the argument to keep local walk-in centres open amidst the closures."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Jobs",
+        "policyDescription": "Work to bring jobs, businesses and apprenticeships to our area."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Stand up for our health service and demand a greater say for local people."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Support local schools and teachers so that our youngsters get a decent start in life."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "Work with the police and others to tackle anti-social behaviour and make sure we tackle new kinds of offences like online identity fraud."
+      },
+      {
+        "policyTitle": "Community Priority",
+        "policyDescription": "Always put the people of Billesley, Bournville, Brandwood and Selly Oak first."
+      }
+    ],
+    "mentions": {
+      "candidate": "Steve McCabe",
+      "otherPartyLeaderCandidate": "the Lib Dems",
+      "partyLeader": "",
+      "tacticalSituation": "Vote Labour to keep the Lib Dems out."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Steve McCabe has been campaigning to give the area the hospital services it deserves.",
+      "immigration": "Listening to local people's views on immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament",
+        "duration": "",
+        "achievements": "Campaign for A&E services that successfully halted the closure of the Katie Road Walk-in Centre."
+      }
+    ],
+    "contactInformation": {
+      "address": "8 Quinton Road, Birmingham, B29 6AP",
+      "phone": "0121 443 3878",
+      "email": "stevemccabe.mp@parliament.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "facebook.com/stevemccabelp",
+        "twitter": "twitter.com/stevemccabe",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Steve McCabe in front of the Emergency Department."
+        },
+        {
+          "caption": "Steve McCabe with supporters."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

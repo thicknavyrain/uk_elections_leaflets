@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Esther McVey",
+    "constituency": "Wirral West",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "THE NHS: OUR NUMBER ONE PRIORITY",
+        "content": ""
+      },
+      {
+        "title": "TRUST IN POLITICS",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Supporting Pensioners",
+        "policyDescription": "Conservatives have pledged to increase the state pension as part of a series of measures to help all pensioners. Protect the Winter Fuel Allowance and free TV licenses for over-75s. A Conservative Government will re-link the value of the state pension to earnings, ensuring it continues to grow in value to help some of the most needy pensioners."
+      }
+    ],
+    "mentions": {
+      "candidate": "Esther McVey",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Esther McVey with seniors, emphasizing her support for pensioners."
+        }
+      ]
+    },
+    "additionalNotes": "The mention of David Cameron is in the context of policy and does not necessarily imply that he's the 'partyLeader' for Esther McVey. The leaflet appears to focus on local issues, particularly supporting pensioners in Wirral West. No specific dates or detailed policy descriptions beyond pensions are provided in the provided leaflet images."
+  }
+}
+```

@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "Ellon",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "You can make the difference...",
+        "content": "For decades Labour and the Conservatives have been taking it in turns to run Britain. We've seen all they can offer. This election, it's time to do something different."
+      },
+      {
+        "title": "The Conservatives and Labour voted against plans to clean up politics",
+        "content": "Only Lib Dem MPs voted for a clean up. Only the Lib Dems will deliver real change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "No tax on the first £10,000 you earn."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Action to get our economy moving again."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Clean up politics and give you the power to sack corrupt MPs."
+      },
+      {
+        "policyTitle": "Law Enforcement",
+        "policyDescription": "More police on our streets and action to protect frontline public services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "Gordon Brown, David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "In many parts of Britain, it's a choice between the Liberal Democrats and Labour."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Action to get our economy moving again.",
+      "education": "",
+      "environment": "",
+      "governance": "Clean up politics and give you the power to sack corrupt MPs.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "1 Kirkpatrick Street, Ellon AB41 9JT",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg pictured with fellow Liberal Democrat party member."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Royston Smith",
+    "constituency": "Royston",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "We called round to check you have received your postal vote."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Royston Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "023 8047 2783",
+      "email": "",
+      "website": "www.roystonsmith.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Royston Smith standing in front of a door."
+        }
+      ]
+    },
+    "additionalNotes": "Don't forget that you have two votes - One for Parliament, and one for your local council."
+  }
+}
+```

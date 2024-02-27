@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Boris Johnson",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday",
+    "messages": [
+      {
+        "title": "BORIS KNOWS EVERYONE WHO NEEDS TO BE INFLUENCED IN UNDERSTANDING RESIDENTS’ WISHES",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protect the Area from Over-Development",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Continue to Deliver for Hard-Working Families",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "The only Candidate able to get the HS2 Tunnel Extended Beyond West Ruislip",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Put Residents First, Ensuring Their Voices are Heard",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Keep Crime Down, More Transport Upgrades, and New Investment into Hillingdon Hospital",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Continue to Work with Your Excellent Local Hillingdon Conservative Councillor Team",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Boris Johnson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Protect the Area from Over-Development",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "C/o Campaign HQ, 36 Fieldfare Road, Uxbridge, UB8 1PF",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Cllr Wayne Bridges",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Boris Johnson with the text 'BORIS KNOWS EVERYONE WHO NEEDS TO BE INFLUENCED IN UNDERSTANDING RESIDENTS’ WISHES' and key policies listed."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

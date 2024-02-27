@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mims Davies",
+    "constituency": "Eastleigh",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "THE BEST CHOICE AT THIS ELECTION",
+        "content": "Mims and Theresa May - Delivering strong leadership in the national interest."
+      },
+      {
+        "title": "STRONG & STABLE LEADERSHIP",
+        "content": "Only Mims and Theresa May's Conservatives can provide the strong and stable leadership that Eastleigh and the United Kingdom need at this important time."
+      },
+      {
+        "title": "MIMS PROTECTING GREEN SPACES AND ANCIENT WOODLAND",
+        "content": "Mims is opposed to the Liberal Democrat Local Council's Local Plan to build on Green Spaces and Ancient Woodland."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Making a success of Brexit for the local area - no second referendum."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Holding the local Lib Dems to account for their failure to provide a Local Plan resulting in uncontrolled housing developments on green spaces."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "A strong and stable economy with 2.9 million new jobs, taxes cut for 31 million people and record low unemployment rates."
+      },
+      {
+        "policyTitle": "Transportation",
+        "policyDescription": "Working hard over the last two years as your MP to bring the Eastleigh Constituency the transport infrastructure that we need to alleviate congestion and improve air quality."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mims Davies",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Making a success of Brexit for the local area - no second referendum.",
+      "economy": "A strong and stable economy with 2.9 million new jobs, taxes cut for 31 million people and record low unemployment rates.",
+      "education": "",
+      "environment": "Mims is opposed to the Liberal Democrat Local Council's Local Plan to build on Green Spaces and Ancient Woodland.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Holding the local Lib Dems to account for their failure to provide a Local Plan resulting in uncontrolled housing developments on green spaces.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "MimsDavies.org.uk",
+      "socialMedia": {
+        "facebook": "fb.com/Mims4Eastleigh",
+        "twitter": "@MimsDavies",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Election Special leaflet with Mims Davies and Theresa May pictured, along with various messages, issues, and policies."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

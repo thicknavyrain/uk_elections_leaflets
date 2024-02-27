@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "George Young",
+    "constituency": "North West Hampshire",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "60 Second Q&A with George Young",
+        "content": "George Young answers various questions about his priorities, handling of government budget, reasons to vote for him, tackle NHS spending, and measures on bureaucracy."
+      },
+      {
+        "title": "A PERSONAL MESSAGE FROM DAVID CAMERON",
+        "content": "David Cameron outlines why change is needed in Britain, emphasizing a commitment to the NHS, tackling debt, creating jobs, freezing council tax, and offering tax benefits."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Plan to eliminate budget deficit and keep interest rates low."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Make the NHS patient-focused, reduce its administration costs, and recoup money spent on health tourism."
+      },
+      {
+        "policyTitle": "Welfare",
+        "policyDescription": "Encourage people on benefits to return to work."
+      },
+      {
+        "policyTitle": "Affordable Housing",
+        "policyDescription": "Support for building affordable housing."
+      },
+      {
+        "policyTitle": "Jobs",
+        "policyDescription": "Campaigning for more jobs and aiming to ensure a move away from financial services."
+      }
+    ],
+    "mentions": {
+      "candidate": "George Young has weekly advice bureaux. Spent 30 days with local police force. 14 years as a Minister.",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Plan to deal with the deficit - we all know that credit card debt never leads to prosperity. Need for affordable housing.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Plan to tackle NHS spending and health tourism.",
+      "immigration": "",
+      "socialWelfare": "Work on reducing the number of people on benefits and getting them back to work.",
+      "housing": [
+        {
+          "content": "Support for building affordable housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Minister",
+        "duration": "14 years",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "2 Church Close, Andover, Hampshire SP10 1DP",
+      "phone": "01264 353398 or 01264 726939",
+      "email": "sirgeorge@sirgeorgeyoung.org.uk",
+      "website": "www.keepingeveryoung.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

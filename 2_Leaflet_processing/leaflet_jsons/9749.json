@@ -1,0 +1,69 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Bill Winlow",
+    "constituency": "Fylde",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "probably on May 6th",
+    "messages": [
+      {
+        "title": "The Lib Dem Difference",
+        "content": "The Lib Dems will take action to protect vital frontline NHS services."
+      },
+      {
+        "title": "A Fresh Start for Fylde",
+        "content": "An experienced, local candidate for Fylde - County Councillor Bill Winlow."
+      },
+      {
+        "title": "Liberal Democrats ahead of the game",
+        "content": "The issues that the county must deal with make it vital to have a strong independent voice in the council."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Income Tax",
+        "policyDescription": "Fairer taxes that put money back in your pocket; pay no tax on the first £10,000 you earn and most basic tax bills by £700 with savings to pay for them."
+      }
+    ],
+    "mentions": {
+      "candidate": "Bill Winlow",
+      "otherPartyLeaderCandidate": "Gordon Brown, the Bank of England",
+      "partyLeader": "Vince Cable MP",
+      "tacticalSituation": "Lib Dems are the only party who have a chance to balance the power."
+    },
+    "issues": {
+      "economy": "The Lib Dems were the first party to recognise the financial crisis and called for urgent action."
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "County Councillor and County Council Group Leader",
+        "duration": "Since June 2009",
+        "achievements": "Liberal Democrats won two County Council seats from the Conservatives in the Lancashire County Council in June 2009."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01772 687428",
+      "email": "bill@winlow.myzen.co.uk",
+      "website": "fyldelibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Bill Winlow cutting tax with Vince Cable MP"
+        }
+      ]
+    },
+    "additionalNotes": "Conservative controlled Fylde Borough Council is the worst performing District Council in Lancashire according to the Audit Commission's 'Use of Resources' assessment."
+  }
+}
+```

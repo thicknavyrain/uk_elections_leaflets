@@ -1,0 +1,72 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Tory cuts have left NHS on the brink of collapse says shocking report.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Tory cuts have left NHS on the brink of collapse says shocking report.",
+        "source": "The Mirror, 13 Oct 2016",
+        "date": "2016-10-13"
+      },
+      {
+        "text": "NHS protest: Tens of thousands march against 'hospital cuts'.",
+        "source": "BBC News, 4 Mar 2017",
+        "date": "2017-03-04"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "THERESA MAY'S HEARTLESS CUTS LEAVE NHS IN... CRISIS"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

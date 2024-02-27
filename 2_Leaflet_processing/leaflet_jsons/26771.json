@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Teresa Murray",
+	"constituency": "Rochester & Strood",
+	"politicalParty": "Labour",
+	"electionDate": "8th June",
+	"messages": [ ],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS and social care",
+    	"policyDescription": "Defend our NHS and tackle the care crisis. Give the NHS and social care services the money they need and open up services from hospital to home."
+  	},
+  	{
+    	"policyTitle": "Living standards and economy",
+    	"policyDescription": "Protect living standards and all create jobs. Introduce a real living wage of £10 per hour and invest in infrastructure, skills and new technology. Labour is committed to keeping the Triple Lock for pensioners."
+  	},
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "Provide affordable homes to rent and buy. Build more than a million new homes in five years and tackle the worst examples of private sector housing exploitation."
+  	},
+  	{
+    	"policyTitle": "Local communities",
+    	"policyDescription": "Give power back to local communities. Give local people a stronger say in the way their high streets and town centres develop."
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Give all children a chance to achieve. Provide universal free school meals for primary school children and reduce class sizes."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Teresa Murray",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Introduce a real living wage of £10 per hour and invest in infrastructure, skills and new technology.",
+  	"education": "Provide universal free school meals for primary school children and reduce class sizes.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Defend our NHS and tackle the care crisis. Give the NHS and social care services the money they need and open up services from hospital to home.",
+  	"immigration": "",
+  	"socialWelfare": "Labour is committed to keeping the Triple Lock for pensioners.",
+  	"housing": [
+    	{
+      	"content": "Provide affordable homes to rent and buy. Build more than a million new homes in five years and tackle the worst examples of private sector housing exploitation.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [ ],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [ ],
+	"quotes": [ ],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Teresa Murray smiling in front of a river landscape."
+    	}
+  	]
+	},
+	"additionalNotes": "Printed by Reed Printers at 47 King Street, Rochester, Kent. ME1 1RH and promoted by Nicholas Bowler on behalf of Teresa Murray at 73 Maidstone Road, Rochester, Kent. ME1 1RL"
+  }
+}
+```

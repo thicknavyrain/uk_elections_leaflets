@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Robin Long",
+    "constituency": "South Lancaster",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday 7th May",
+    "messages": [
+      {
+        "title": "Addressing Local Concerns",
+        "content": "I am writing to you regarding a local concern which affects us all - the increased traffic, pollution and noise in South Lancaster. Many residents have spoken to me about this issue, and I agree with their concerns. Large scale development results in increased traffic, pollution and noise which erode our community and way of life."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Controlled Development",
+        "policyDescription": "I am passionate about preserving our community and that's why I am proposing objectives for the council, like creating a youth club, that contribute to the wellbeing of our residents without increasing traffic, pollution, and noise."
+      }
+    ],
+    "mentions": {
+      "candidate": "Robin Long; Kyran Darnton",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The City Council have made little real headway into the reality of our economic downturn and lack of youth ambition. The City Council needs to take action on this to give young people more opportunities."
+      ,
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "I argue with their concerns, such large scale development results in increased traffic, pollution and noise which erode our community and way of life.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "76, Scotforth Rd, Lancaster, LA1 4SF",
+      "phone": "01524 849 232",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "Speaking to many of you over the past few weeks has highlighted how proud and passionate we all are about our area. I hope that you will be able to lend me your support to ensure our community has our voices heard, and fight against developments that detract from our quality of life. Thank you for your time. Best wishes, Robin Long."
+  }
+}
+```

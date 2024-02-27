@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+  "candidateName": "Kevin Warnes",
+  "constituency": "Shipley",
+  "politicalParty": "Green Party",
+  "electionDate": "May 7th",
+  "messages": [
+    {
+      "title": "MAKE YOUR VOICE HEARD",
+      "content": "This upcoming election on May 7th could be the most important of the last 70 years and your vote really will make a difference! Only the Green Party offers a real alternative to the broken politics of the past."
+    }
+  ],
+  "keyPolicies": [
+    {
+      "policyTitle": "Fairer Vote",
+      "policyDescription": "The Green Party is advocating for a fairer vote system by bringing the transport system back into public control, and a vote for a more sustainable future."
+    },
+    {
+      "policyTitle": "Secure Jobs",
+      "policyDescription": "They aim to ensure that everyone has access to secure jobs that pay at least the Living Wage."
+    },
+    {
+      "policyTitle": "Strong Economy",
+      "policyDescription": "The Green Party intends to build an economy that works for the common good, not just the privileged few."
+    }
+  ],
+  "mentions": {
+    "candidate": "The leaflet encourages the reader to vote for Kevin Warnes, the Green Party candidate for Shipley.",
+    "otherPartyLeaderCandidate": "",
+    "partyLeader": "",
+    "tacticalSituation": ""
+  },
+  "issues": {
+    "brexitEurope": "",
+    "economy": "The Green Party wants to build an economy that works for the common good by making sure everyone has access to jobs that pay at least the Living Wage.",
+    "education": "",
+    "environment": "",
+    "governance": "",
+    "health": "The Green Party has a goal of protecting our NHS.",
+    "immigration": "",
+    "socialWelfare": "",
+    "housing": [
+      {
+        "content":"",
+        "yimbyNimby": ""
+      }
+    ]
+  },
+  "personalStatement": "",
+  "politicalExperience": [
+    {
+      "role": "",
+      "duration": "",
+      "achievements": ""
+    }
+  ],
+  "contactInformation": {
+    "address": "Bradford Green Party, 37 Moorhead Terrace, Shipley BD18 4LB",
+    "phone": "",
+    "email": "",
+    "website": "bradford.greenparty.org.uk",
+    "socialMedia": {
+      "facebook": "facebook.com/bradfordgreens",
+      "twitter": "@bradfordgreens",
+      "instagram": "",
+      "linkedin": ""
+    }
+  },
+  "endorsements": [
+    {
+      "endorser": "",
+      "endorsement": ""
+    }
+  ],
+  "quotes": [
+    {
+      "text": "",
+      "source": "",
+      "date": ""
+    }
+  ],
+  "campaignMaterial": {
+    "images": [
+      {
+        "caption": "Bradford Green Party promotional material image with crowd and city hall."
+      }
+    ]
+  },
+  "additionalNotes": "The leaflet begins with a personalized address to 'Elesha' and emphasizes the importance of the coming election. It mentions that the Green Party sees an increase in membership and describes itself as a real alternative to broken politics. It offers a brief summary of key policies without going into detail about other traditional issue areas."
+  }
+}
+```

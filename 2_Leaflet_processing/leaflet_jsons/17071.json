@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Jon",
+	"constituency": "",
+	"politicalParty": "Green Party",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "The ecological crisis",
+    	"content": "With climate change at the point of crisis, time is running out to save our environment. If not now, when?"
+  	},
+  	{
+    	"title": "The economic crisis",
+    	"content": "For all the recovery talk, the economy is worse now than before the crash. Wages are down. The rich are richer, the poor poorer."
+  	},
+  	{
+    	"title": "The political crisis",
+    	"content": "People are disillusioned with politicians. We need honesty in politics, not the same old, same old."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Stopping airport expansion",
+    	"policyDescription": "Against expanding Southend Airport and will fight to stop destructive projects."
+  	},
+  	{
+    	"policyTitle": "EU Referendum",
+    	"policyDescription": "Supports Britain rejoining the EU."
+  	},
+  	{
+    	"policyTitle": "Austerity politics",
+    	"policyDescription": "Opposes austerity and proposes to redirect funds from Trident to public services."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Jon",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Supports Britain rejoining the EU. Says Tories & UKIP scared of fair EU referendum.",
+  	"economy": "Argues the economy is in a worse state than before the economic crash with widening wealth inequality.",
+  	"education": "",
+  	"environment": "Time is running out to save our environment due to climate crisis.",
+  	"governance": "Public disillusionment with politics calls for honesty, not the same old politics.",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "Suggests redirecting funds from Trident to public services, challenging austerity politics.",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "Jon decided to join the Green Party and stand for Parliament this time. Why? Because he was tired of shouting at the TV.",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Image of Jon, candidate for the Green Party."
+    	}
+  	]
+	},
+	"additionalNotes": "Leaflet makes a case against austerity, supports EU membership and challenges existing political norms, as well as opposing local environmental threats like airport expansion."
+  }
+}
+```

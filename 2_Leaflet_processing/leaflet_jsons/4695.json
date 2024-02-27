@@ -1,0 +1,68 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Fred Mackintosh",
+    "constituency": "Edinburgh South",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Making tax fairer",
+        "content": "For more than a year I have been calling on people across Morningside and many local residents have told me they are finding it increasingly tough to make ends meet. There is little hope from the Conservatives either. There is no sign of help from this tired Labour Government. No wonder the people of Edinburgh South want a change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "The Liberal Democrats are offering real change and fairer taxes. The tax plan, launched by Nick Clegg and Vince Cable, will provide real help and take most people out of tax who earn below the average salary. Also, if you earn more than that, you will still be £700 a year better off."
+      }
+    ],
+    "mentions": {
+      "candidate": "Fred Mackintosh",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg, Vince Cable",
+      "tacticalSituation": "In 2005 the only people to benefit from a Tory vote in Edinburgh South were the Labour Party, who just held on."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The 'Mansion Tax' would only be paid on houses worth more than £2 million and then only at the rate of 1% per year on that part of the value over £2 million. Only around 500 home owners in Scotland would have to pay.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "4 Grange Road, Edinburgh, EH9 1UH",
+      "phone": "0131 662 1513",
+      "email": "fred@edinburghsouthlibdems.org",
+      "website": "www.edinburghsouthlibdems.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "It's a two horse race! Labour 33%, Lib Dem 32%, Conservative 18%, SNP 6%, Others 11%. Real votes, in real ballot boxes."
+        }
+      ]
+    },
+    "additionalNotes": "P.S. - Don't forget, just as in the last two General Elections here, the choice is between Labour and the Liberal Democrats."
+  }
+}
+```

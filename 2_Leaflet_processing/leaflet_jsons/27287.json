@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Ryan Mercer",
+	"constituency": "Putney, Roehampton and Southfields",
+	"politicalParty": "Liberal Democrat",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "This election is our chance to change the direction of our country.",
+    	"content": "Whether it be fighting for our place in the Single Market, opposing Conservative cuts to our local schools or providing opposition to Theresa May's inevitable majority, I promise to hold her to account, fighting for the best deal for Putney and the country."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Ryan Mercer",
+  	"otherPartyLeaderCandidate": "Theresa May",
+  	"partyLeader": "",
+  	"tacticalSituation": "Now we have a general election, called so the Conservative party can sweep away all opposition, to implement their vision of an extreme hard Brexit with no one to hold them to account."
+	},
+	"issues": {
+  	"brexitEurope": "extreme hard Brexit",
+  	"economy": "",
+  	"education": "opposing Conservative cuts to our local schools",
+  	"environment": "",
+  	"governance": "This election is our chance to change the direction of our country.",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "After a few hours of restless sleep, I decided to stand as the Liberal Democrat candidate for Putney, Southfields and Roehampton. To fight for a vision of Britain that is open, tolerant and compassionate.",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "[Redacted]",
+  	"phone": "",
+  	"email": "putney@wandsworthlibdems.org.uk",
+  	"website": "http://www.wandsworthlibdems.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "@MercerRyan",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Ryan Mercer, Liberal Democrat candidate for Putney, Roehampton and Southfields"
+    	}
+  	]
+	},
+	"additionalNotes": "PS Remember - This election is our chance to change the direction of our country and say no to a damaging hard Brexit and cuts to our local schools."
+  }
+}
+```

@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Maines",
+    "constituency": "Lewisham",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "Local team chosen to stand up for YOU!",
+        "content": "Sydenham ward focus. Local campaigners winning for you."
+      },
+      {
+        "title": "Lewisham failing on housing",
+        "content": "Labour-run Lewisham Council has failed to deliver the 'decent standard' by a huge 70%. Only 3 out of 10 council homes in the borough have met the standard, despite Labour's promise of 100% meeting the standard by this year."
+      },
+      {
+        "title": "Crime survey feedback",
+        "content": "Lib Dem Parliamentary candidate for Lewisham West & Penge, Alex Feakes, has welcomed residents' responses to the Crime Survey distributed with the recent edition of Sydenham Ward Focus."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Freeze council tax",
+        "policyDescription": "Chris Maines promises to freeze council tax for at least two years."
+      },
+      {
+        "policyTitle": "Build our first council housing for a decade",
+        "policyDescription": "Plans to build the first council houses in Lewisham for ten years."
+      },
+      {
+        "policyTitle": "Reduce waste and double the amount Lewisham recycles",
+        "policyDescription": "Aim to reduce waste and improve recycling rates in Lewisham."
+      },
+      {
+        "policyTitle": "Strengthen local police teams with support from the council",
+        "policyDescription": "Plans to strengthen local police presence with council support."
+      },
+      {
+        "policyTitle": "Create new youth facilities and opportunities",
+        "policyDescription": "Proposal to create new facilities and opportunities for the youth in Lewisham."
+      },
+      {
+        "policyTitle": "Work to abolish Lewisham's failed Mayoral system",
+        "policyDescription": "Initiatives to abolish the existing mayoral system in Lewisham."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chris Maines",
+      "otherPartyLeaderCandidate": "Alex Feakes",
+      "partyLeader": "",
+      "tacticalSituation": "Life-long Labour voters are turning to the Lib Dems in their droves. They've been taken for granted by Labour for long enough!"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour-run Lewisham Council has failed to deliver the 'decent standard' by a huge 70%. Only 3 out of 10 council homes in the borough have met the standard, despite Labour's promise of 100% meeting the standard by this year.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.libdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Local team chosen to stand up for YOU!"
+        }
+      ]
+    },
+    "additionalNotes": "It's Lib Dem or Labour around here!"
+  }
+}
+```

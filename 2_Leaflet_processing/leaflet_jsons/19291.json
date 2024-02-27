@@ -1,0 +1,94 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Steve Slade",
+    "constituency": "St Austell and Newquay",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "STANDING UP FOR WHAT YOU BELIEVE IN",
+        "content": "Steve Slade is standing as your Green Party candidate for St Austell and Newquay because he wants something better than business-as-usual politics."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A FULLY-FUNDED NHS",
+        "policyDescription": "Reverse privatization of the NHS, prioritize mental health, and support healthcare workers with improved pay and working conditions."
+      },
+      {
+        "policyTitle": "A FAIR ECONOMY",
+        "policyDescription": "Invest in renewable technologies, campaign for local VAT on tourism, and provide good jobs to reduce need for 'in-work' benefits."
+      },
+      {
+        "policyTitle": "BETTER TRANSPORT",
+        "policyDescription": "Return railways to public hands, cut fares by 10% to give passengers a financial break, and re-regulate the bus industry."
+      },
+      {
+        "policyTitle": "DECENT HOMES",
+        "policyDescription": "Tackle second home ownership, bring empty homes into use, and introduce a cap on private rents with longer tenancies."
+      },
+      {
+        "policyTitle": "FREE INCLUSIVE EDUCATION",
+        "policyDescription": "Promote a mixed ability teaching system, fight to abolish student tuition fees, and return schools under local authority control."
+      },
+      {
+        "policyTitle": "A SAFE CLIMATE",
+        "policyDescription": "Invest in renewable energy, insulation, phase out fossil fuels, and aim to recycle 70% of domestic waste by 2020."
+      }
+    ],
+    "mentions": {
+      "candidate": "Steve Slade became the town’s first Green Party Councillor.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Invest in renewable technologies, provide good jobs, campaign for local VAT on tourism.",
+      "education": "Promote a comprehensive system of mixed ability teaching, abolish student tuition fees, end the fragmentation of education.",
+      "environment": "Invest in public programme of renewable energy generation, flood defences and building insulation, phase out fossil-fuel based energy.",
+      "governance": "",
+      "health": "Reverse privatization of the NHS, prioritize mental health and wellbeing at the center of NHS care.",
+      "immigration": "",
+      "socialWelfare": "Reduce need for 'in-work' benefits by providing good jobs.",
+      "housing": [
+        {
+          "content": "Tackle second home ownership, bring empty homes into use, seek to introduce a cap on private rents with longer tenancies.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I believe in a fair society, in which people are paid a living wage, homes are available and affordable, services are run for people not profits, and education is a right not a privilege.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "",
+        "achievements": "Became the town’s first Green Party Councillor."
+      }
+    ],
+    "contactInformation": {
+      "address": "35 Trevanion Crescent, Newquay TR7 1DX",
+      "phone": "",
+      "email": "steve.slade@greenparty.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "SteveSladeCornwall",
+        "twitter": "SteveSlade4CWALL",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Steve Slade in front of a coastal landscape."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

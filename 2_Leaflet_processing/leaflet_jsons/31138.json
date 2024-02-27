@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Theresa May",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "Strong and Stable Leadership",
+        "content": "The choice at the election is clear. Strong and stable leadership with me in the national interest, where you can see what you get. Or a hung parliament and a coalition of chaos under Jeremy Corbyn – which every single one of us will pay for in higher taxes, fewer jobs, more waste and more debt."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "The best possible deal from Brexit to strengthen our economy and to ensure we get the best Brexit deal possible, and it's a vote to strengthen our economy for the future."
+      }
+    ],
+    "mentions": {
+      "candidate": "Theresa May, Prime Minister",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "A vote for any other party is a vote to weaken our government, to undermine the negotiation and to put our future prosperity at risk."
+    },
+    "issues": {
+      "brexitEurope": "The best possible deal from Brexit to strengthen our economy and to ensure we get the best Brexit deal possible, and it's a vote to strengthen our economy for the future.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Strong and stable leadership with me in the national interest.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Every vote for me and the Conservatives will strengthen my hand in the Brexit negotiations.",
+    "politicalExperience": [
+      {
+        "role": "Prime Minister",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Your choice at this election: Strong, stable leadership for the United Kingdom or a coalition of chaos with Jeremy Corbyn."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

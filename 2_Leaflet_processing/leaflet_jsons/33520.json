@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Laura Farris",
+    "constituency": "Newbury",
+    "politicalParty": "",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "KEEP NEWBURY GREAT",
+        "policyDescription": "Priorities include tackling climate change and protecting beautiful surroundings, ensuring schools rank among the best in the country, and making sure they are resourced to do even better. Also focuses on having the right houses in the right places."
+      },
+      {
+        "policyTitle": "OPEN FOR BUSINESS",
+        "policyDescription": "Aim to build on business success along the M4 corridor, attract new enterprise, increase investment, and ensure the availability of skills to meet commercial demand."
+      },
+      {
+        "policyTitle": "CARING FOR ALL",
+        "policyDescription": "Ensuring proper care for the elderly including tackling loneliness. Supporting the Council's emotional health programme to make a real difference to children and young people, and seeking better access to mental health services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Laura Farris",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Priorities include tackling climate change and protecting beautiful surroundings.",
+      "governance": "",
+      "health": "Supporting the Council's emotional health programme and seeking better access to mental health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Making sure they are resourced to do even better. And we need to make sure we have the right houses in the right places.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Laura Farris with constituents in Newbury."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

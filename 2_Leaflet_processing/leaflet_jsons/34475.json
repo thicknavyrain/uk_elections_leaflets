@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Conservative and Unionist",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "WHY WE ARE VOTING SCOTTISH CONSERVATIVE AND UNIONIST THIS TIME...",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Indylref2",
+        "policyDescription": "The Scottish Conservatives and Unionists are presented as being in opposition to another independence referendum in Scotland, aiming to prevent this divisive issue from taking place."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Corbyn, Sturgeon",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "The leaflet implies governance issues related to stopping another divisive referendum.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Tom Harris, former Labour MP for Glasgow South",
+        "endorsement": "Expresses belief in voting for Scottish Conservative and Unionist to protect the country and stop divisive figures."
+      },
+      {
+        "endorser": "Jennifer Stewart, former Liberal Democrat councillor in Aberdeen",
+        "endorsement": "Votes for Scottish Conservatives as a stand against another independence referendum."
+      },
+      {
+        "endorser": "Mike Barnacle, former Lib Dem councillor - now independent",
+        "endorsement": "Supporting the Scottish Conservatives due to opposition to the handling of UK governance by SNP and disruptiveness of another referendum."
+      },
+      {
+        "endorser": "Yvonne McNeilly, former Labour councillor in Inverclyde",
+        "endorsement": "Backing the Scottish Conservatives to stop Nicola Sturgeon and another independence referendum."
+      },
+      {
+        "endorser": "Gordon MacDonald, former Lib Dem councillor in East Dunbartonshire",
+        "endorsement": "Supporting the Scottish Conservatives to stop divisive independence referendum."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "More and more people are lending their support to the Scottish Conservative and Unionists to stop Indyref2.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Various endorsements from former members of other parties supporting the Scottish Conservative and Unionist."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet does not provide specific candidate names, election dates, personal statements, details of political experience, contact information, or specific quotes apart from the general endorsement to stop Indyref2."
+  }
+}
+```

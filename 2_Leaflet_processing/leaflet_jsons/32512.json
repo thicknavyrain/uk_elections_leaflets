@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ranil Jayawardena",
+    "constituency": "North East Hampshire",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Better hospitals. Safer streets. Improved schools.",
+        "content": "Let's unlock Britain's future."
+      },
+      {
+        "title": "Let's put the last three years behind us.",
+        "content": "Let's move on as a country and get on with our priorities."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Passing our Brexit deal, which is ready to get done. Leaving the EU by the end of January."
+      },
+      {
+        "policyTitle": "Funding for NHS",
+        "policyDescription": "Providing £33.9 billion extra for the NHS."
+      },
+      {
+        "policyTitle": "Policing",
+        "policyDescription": "20,000 extra police officers."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "More funding for every pupil in every school."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "A growing economy that creates jobs and pays for our public services."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ranil Jayawardena",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": "Last time we were just NINE seats short of a majority. This election will be just as close."
+    },
+    "issues": {
+      "brexitEurope": "Passing our Brexit deal.",
+      "economy": "A growing economy that creates jobs and pays for our public services.",
+      "education": "More funding for every pupil in every school.",
+      "environment": "",
+      "governance": "",
+      "health": "Providing £33.9 billion extra for the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet image with message from Boris Johnson supporting Conservative Party candidate Ranil Jayawardena."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes the need to support the Conservative Party for better public services and to end the stagnation of the past three years."
+  }
+}
+```

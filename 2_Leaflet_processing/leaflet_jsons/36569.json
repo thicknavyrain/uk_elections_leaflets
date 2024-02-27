@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kate Crossland",
+    "constituency": "Ealing Central and Acton",
+    "politicalParty": "Green Party",
+    "electionDate": "28th November",
+    "messages": [
+      {
+        "title": "YES TO EUROPE. NO TO CLIMATE CHAOS.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "YES TO EUROPE.",
+      "economy": "",
+      "education": "",
+      "environment": "NO TO CLIMATE CHAOS.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Kate Crossland - Your Green Party Candidate"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tam Smith",
+    "constituency": "Linlithgow and East Falkirk Constituency",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Make Scotland’s Voice Heard",
+        "content": "It is imperative that the vital work done by the Scottish Government is not undermined by Westminster. We must return a strong group of SNP MPs to make Scotland’s voice heard."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Return a powerful group of SNP MPs to ensure Scotland's achievements are recognized at the UK parliamentary stage in Westminster and prevent the undermining of Scottish Government's work."
+      },
+      {
+        "policyTitle": "Defense",
+        "policyDescription": "Object the London based Parties' determination to cut the Scottish Government's budget while spending over £100 billion on a new generation of Trident nuclear weapons."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tam Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Return a powerful group of SNP MPs to ensure Scotland's voice is heard in Westminster and to oppose the undermining of Scottish Government's work by the London based Parties.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01506 843047",
+      "email": "tam@tamsmithSNP.info",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "SNP Fighting for Scotland, Working for You!"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

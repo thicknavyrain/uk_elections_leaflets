@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Hannah O'Neill",
+    "constituency": "Milton Keynes South",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "For the Many, not the Few",
+        "content": "On Thursday 8th June, your choice will be to elect a Labour MP who will stand up for everyone in Milton Keynes, or a Conservative who has a clear record of siding with the privileged few."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Hannah O'Neill will fight for Labour values: a social care system that looks after our most vulnerable people."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Hannah has pledged to secure the funding MK needs to grow. She intends to fight for well-paid jobs, stop cuts to our local NHS, improve access to all types of housing, and ensure a Brexit that works for Milton Keynes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Hannah O'Neill is the Labour Party candidate for Milton Keynes South, who has been born and raised in Milton Keynes.",
+      "otherPartyLeaderCandidate": "The alternative is a Conservative MP who voted to increase VAT, hitting ordinary families while supporting tax cuts for mega-rich corporations; someone who slashed help for disabled people, and who will put the triple lock pension under threat.",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Hannah has pledged to...ensure a Brexit that works for Milton Keynes.",
+      "economy": "Hannah has pledged to secure the funding MK needs to grow. She intends to fight for well-paid jobs.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "She intends to fight for well-paid jobs, stop cuts to our local NHS.",
+      "immigration": "",
+      "socialWelfare": "Hannah O'Neill will fight for Labour values: a social care system that looks after our most vulnerable people.",
+      "housing": [
+        {
+          "content": "She intends to...improve access to all types of housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Hannah O'Neill is the Labour Party candidate for Milton Keynes South, who has been born and raised in Milton Keynes. She attended St Paul's Catholic School, and has lived and worked in the city. She currently represents Woughton Ward and is Deputy Leader of Milton Keynes Council.",
+    "politicalExperience": [
+      {
+        "role": "Deputy Leader of MK Council",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Hannah O'Neill talking with constituents."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

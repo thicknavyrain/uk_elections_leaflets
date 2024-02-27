@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Boris Johnson",
+    "constituency": "Uxbridge and South Ruislip",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "No more gridlock. No more delays. It's time to get stuff done.",
+        "content": "Let's be honest. The country has been stuck in a rut. Parliament spent the last three years going round in circles - agreeing on nothing except more arguments."
+      },
+      {
+        "title": "30 hours a week of free childcare.",
+        "content": "Working parents deserve all the help we can give them. That's why we've doubled the amount of free childcare that families can get. Working parents of three- and four-year-olds can get 30 hours a week of free childcare. Helping parents save around £5,000 a year per child."
+      },
+      {
+        "title": "LAST TIME, THE CONSERVATIVES WERE JUST NINE SEATS SHORT OF A MAJORITY.",
+        "content": "Seats like Southampton Itchen will decide this election. That's because the Conservatives need to hold seats like that and gain a few more. Last time, there were just a handful of votes in it so it’s time for a majority government, vote for Royston Smith here."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Cutting income tax for 32 million people."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "An extra £14 billion for schools across the country, meaning that every pupil in every school will get more funding."
+      },
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "30 hours a week of free childcare for working parents of three- and four-year-olds."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Growing our economy for nine years in a row."
+      }
+    ],
+    "mentions": {
+      "candidate": "Boris Johnson",
+      "otherPartyLeaderCandidate": "The Lib Dems",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": "Seats like Southampton Itchen will decide this election. Last time, there were just a handful of votes in it so it’s time for a majority government."
+    },
+    "issues": {
+      "brexitEurope": "Get Brexit done with our deal that's ready to go from day one of a new parliament. It protects jobs and trade. Ends uncertainty. And means we can lift our country out of this rut and get on with the priorities that we all share.",
+      "economy": "Growing our economy for nine years in a row. We're investing an extra £14 billion over the next three years into schools.",
+      "education": "An extra £14 billion for schools across the country, meaning that every pupil in every school will get more funding. We will invest £780 million for children with special educational needs. Every time a child goes to school, they'll get a better education.",
+      "environment": "",
+      "governance": "No more gridlock. No more delays. It's time to get stuff done.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Prime Minister and Leader of the Conservative Party",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "In 2010, Labour left public finances in chaos. But we came together, as a country, to fix it.",
+        "source": "Conservative Party campaign leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Various images depicting Boris Johnson, families, and workers, representing his support for working individuals, education, and his approach to healthcare."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "James",
+    "constituency": "Bury North",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Standing up for Bury North",
+        "content": "You have a straight choice in this election - 5 more years of a Tory government serving the privileged few and the wrong priorities for working people or a Labour government restoring fairness, balancing the books and a strong, dedicated local Labour MP standing up for Bury North and everyone living here."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS and Bury Hospice",
+        "policyDescription": "Fight to end the £60m underfunding of NHS Bury and save Bury Hospice."
+      },
+      {
+        "policyTitle": "Local Services",
+        "policyDescription": "Protect Bury's vital local services with a Fair Deal."
+      },
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "Deliver Labour's free 25 hours childcare for working parents of 3 & 4 year olds."
+      },
+      {
+        "policyTitle": "Jobs",
+        "policyDescription": "Secure more skilled paid jobs in Bury and champion our brilliant market towns."
+      },
+      {
+        "policyTitle": "Education and Youth Jobs",
+        "policyDescription": "Quality education for Bury's young people and a Youth Jobs Guarantee."
+      }
+    ],
+    "mentions": {
+      "candidate": "James",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Fight to end the £60m underfunding of NHS Bury and save Bury Hospice.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "We share the same hopes and fears and believe in a brighter, better future for Bury. I promise to serve you with the energy, will and determination that you deserve and will fight tirelessly for a Fair Deal for Bury and to save Bury Hospice.",
+    "politicalExperience": [
+      {
+        "role": "Labour MP",
+        "duration": "",
+        "achievements": "I promise to serve you with the energy, will and determination that you deserve and will fight tirelessly for a Fair Deal for Bury and to save Bury Hospice."
+      }
+    ],
+    "contactInformation": {
+      "address": "18 Bolton Street, Bury, BL9 0LQ",
+      "phone": "0161 764 8715",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "Frith4BuryNorth",
+        "twitter": "Frith4BuryNorth",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of candidate James with contact details and key pledges."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet contains Labour party logo with a promotional message at the bottom."
+  }
+}
+```

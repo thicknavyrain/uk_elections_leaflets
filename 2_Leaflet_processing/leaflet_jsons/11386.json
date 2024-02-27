@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "Lewisham East",
+	"politicalParty": "Conservative",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "You decide",
+    	"content": "After 13 years of Gordon Brown, it's time for change."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Gordon Brown",
+  	"partyLeader": "",
+  	"tacticalSituation": "The Conservatives have beaten Labour in Lewisham East before, and in the 2008 elections they came within 1,000 votes of beating them again. Wasted Lib Dem votes cost the Conservatives victory in Lewisham East in 1992, 2005 and 2008 and let Labour back in."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Vote Conservative"
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet emphasizes not wasting votes on the Liberal Democrats, with the message that such votes have resulted in Conservative losses in past elections."
+  }
+}

@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Roma Mills",
+    "constituency": "St Albans",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Putting local people first",
+        "content": "On election day, the people of St Albans face an important choice: to back a Labour government committed to prioritising the people and services we all need and to put your faith in someone who has a long history of working for St Albans, for you."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Campaigning for St Albans",
+        "policyDescription": "I've stood up for residents right across the constituency - defending local youth clubs and green spaces, pressing for improvements to our schools places, demanding vital services for older people."
+      },
+      {
+        "policyTitle": "Working for a greener community",
+        "policyDescription": "Support for better public transport. More affordable housing. Support for local shops. Safer streets. I have always campaigned to make St Albans a more sustainable community."
+      }
+    ],
+    "mentions": {
+      "candidate": "Roma Mills",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "More affordable housing.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I've lived in St Albans for over 30 years. For most of that time, I've worked for local social services, helping to make life better and more fair for vulnerable children and adults.",
+    "politicalExperience": [
+      {
+        "role": "Local councillor in Batchwood",
+        "duration": "over twenty years",
+        "achievements": "Served with practical action ahead of party politics."
+      }
+    ],
+    "contactInformation": {
+      "address": "Write to: St Albans Labour Party, 28 Alma Road, St Albans AL3 3BW",
+      "phone": "01727 752183",
+      "email": "roma.mills@btinternet.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "/RomaMillsLabourParty",
+        "twitter": "/romamills1",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Kerry Pollard",
+        "endorsement": "Roma is St Albans through and through. We need another MP who lives in the city and really understands the challenges we face."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Roma Mills caring for St Albans"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

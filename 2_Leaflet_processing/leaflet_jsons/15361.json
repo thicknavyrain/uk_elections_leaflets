@@ -1,0 +1,123 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting jobs and increasing prosperity",
+        "policyDescription": "Seek to reduce the trade gap between imports and exports, reduce business rates, and establish a bespoke trade agreement with the EU."
+      },
+      {
+        "policyTitle": "Repairing the UK Economy",
+        "policyDescription": "Issue UK residents allowance to replace personal tax allowance, implement a Treasury Commission to design a turnover tax to replace Corporation Tax, and reduce debts owed by the UK."
+      },
+      {
+        "policyTitle": "Honouring the Military Covenant",
+        "policyDescription": "Resource fully military assets and personnel, correct shortcoming of Veterans Affairs and provide a Veterans Department to bring together all veteran-related services."
+      },
+      {
+        "policyTitle": "Prioritising Education and Skills",
+        "policyDescription": "Allow failing schools to become independent free schools, encourage skills training and ensure core GCSEs which can be continued at A Level."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Increase spending on roads, rail and ports, and commit to no purchase of foreign buses for UK use."
+      },
+      {
+        "policyTitle": "Housing and planning",
+        "policyDescription": "Change the New Homes Bonus and return the Community Infrastructure Levy to the Local community affected by the developments."
+      },
+      {
+        "policyTitle": "Democracy and the Constitution",
+        "policyDescription": "Oppose the creation of any MPs representing the UK in both the UK and EU and implement a recall procedure allowing for recall of any MP."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Repeal the Climate Change Act 2008 to reduce costs for both households and businesses, and end subsidies for new wind turbines."
+      },
+      {
+        "policyTitle": "Agriculture and Fishing",
+        "policyDescription": "Leave the Common Agricultural Policy, establish a Single Farm Payment, and reaffirm British territorial waters."
+      },
+      {
+        "policyTitle": "Foreign Aid",
+        "policyDescription": "Cross-charge foreign aid at healthcare providers treating foreign nationals at the point of delivery."
+      },
+      {
+        "policyTitle": "Welfare and Childcare",
+        "policyDescription": "Oppose the bedroom tax and ensure the first two children of any household are provided for when calculating benefit."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Establish a bespoke trade agreement with the EU.",
+      "economy": "Change tax structures, reduce business rates, reduce national debt, and oppose foreign purchase of businesses.",
+      "education": "Grant failing schools the option to become free schools, and prioritize education in key subjects.",
+      "environment": "Repeal the Climate Change Act and end new wind turbine subsidies.",
+      "governance": "Oppose dual representation in UK and EU parliaments.",
+      "health": "Cross-charge foreign aid at healthcare providers treating foreign nationals.",
+      "immigration": "Introduce an Australian-style points-based immigration system, with visas for time-limited periods.",
+      "socialWelfare": "Ensure the first two children are provided for when computing benefits.",
+      "housing": [
+        {
+          "content": "Change the New Homes Bonus and return the Community Infrastructure Levy to the local community affected by developments.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Policies for People"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

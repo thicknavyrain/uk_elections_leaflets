@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rashid Nix",
+    "constituency": "Brixton",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "BRIXTON IS AT A CROSSROADS",
+        "content": "CORPORATE INTERESTS PROFIT vs. COMMUNITY INTERESTS PEOPLE. WE NEED TO STOP THIS MACHINE"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Rashid Nix",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@RashidNix",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "VOTE GREEN @RashidNix MAY 7TH #TheGreenMan"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

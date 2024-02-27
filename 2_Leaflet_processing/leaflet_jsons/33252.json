@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "James Baker",
+    "constituency": "Wallasey and Moreton",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "NEW! James Baker",
+        "content": "It's time for a fresh start for Wallasey and Moreton."
+      },
+      {
+        "title": "Jeremy Corbyn's plans will push up inflation",
+        "content": "hitting those on fixed incomes, such as pensions. Don't risk it. Vote for James Baker."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Improving our NHS",
+        "policyDescription": "More GP appointments, improve hospital food, support our hospices and extend the Cancer Drugs Fund."
+      },
+      {
+        "policyTitle": "Better social care",
+        "policyDescription": "We will ensure nobody needing care will be forced to sell their home to pay for it."
+      },
+      {
+        "policyTitle": "More dementia research",
+        "policyDescription": "Watching a loved one's slow decline is agonising. We will double the money for research and speed up trials of new treatments."
+      },
+      {
+        "policyTitle": "State pensions",
+        "policyDescription": "Conservatives will continue to increase pensions by the same rate as wages or prices and no less than 2.5%."
+      },
+      {
+        "policyTitle": "Pensioner benefits",
+        "policyDescription": "The Winter Fuel payment, older person's bus pass and free prescriptions will be protected by the Conservatives."
+      },
+      {
+        "policyTitle": "Better cancer treatments",
+        "policyDescription": "Earlier diagnosis with new technology and extend the Cancer Drugs Fund to help even more people get the treatment they need."
+      }
+    ],
+    "mentions": {
+      "candidate": "James Baker",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Getting Brexit done with our new deal.",
+      "economy": "Jeremy Corbyn's plans will push up inflation - hitting those on fixed incomes, such as pensions.",
+      "education": "More funding for every pupil in every school.",
+      "environment": "",
+      "governance": "A hung parliament with Scottish Nationalist Party and Lib Dems calling the shots. No progress on the country's priorities.",
+      "health": "£33.9 billion extra for the NHS.",
+      "immigration": "",
+      "socialWelfare": "Better social care where nobody needing care will be forced to sell their home to pay for it.",
+      "housing": [
+        {
+          "content": "We will ensure nobody needing care will be forced to sell their home to pay for it.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "both at 9 Victoria Parade, Wallasey CH45 2PH",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Promoted by Ian Lewis, on behalf of James Baker, both at 9 Victoria Parade, Wallasey CH45 2PH. Printed by Paragon CC, Unit 2B, Forward Park, Bagot Street, Birmingham, B4 7BA"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

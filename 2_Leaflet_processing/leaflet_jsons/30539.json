@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Steve Clapcote",
+    "constituency": "Shipley constituency",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "Why we're backing Steve Clapcote",
+        "content": "Quotes from Rona Lairdwright, Chris Inglehearn, and Tina Downes expressing their support for Steve Clapcote."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Labour's pledges to you",
+        "policyDescription": "Labour promises additional £8 billion for social care, a real Living Wage of £10 per hour, a National Education Service, a National Investment Bank and regional development banks, all manifesto commitments to be fully costed with no tax rises for those earning below £80,000."
+      },
+      {
+        "policyTitle": "Labour will restore Britain's flood defences",
+        "policyDescription": "Plans to restore flood defences that have been compromised, affecting homes and businesses."
+      },
+      {
+        "policyTitle": "Labour will stand up for pensioners",
+        "policyDescription": "Commitment to pensioner benefits, keeping the free bus passes, and opposing the removal of the universal Winter Fuel Allowance."
+      },
+      {
+        "policyTitle": "A Brexit that protects jobs and the economy",
+        "policyDescription": "Labour intends to focus on protecting jobs and securing rights at work, as well as the rights of EU nationals living in Britain, and will ensure there is a focus on negotiations around services which account for 80% of the UK economy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Steve Clapcote",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Labour wants to focus on protecting jobs and securing rights at work, as well as the rights of EU nationals living in Britain, during Brexit negotiations.",
+      "economy": "Labour proposes a National Investment Bank and regional development banks to fund major capital projects and finance growth and good jobs.",
+      "education": "Labour will set up a National Education Service for cradle-to-grave learning that is free at the point of use from early years to adult education.",
+      "environment": "Labour will restore flood defences across Britain.",
+      "governance": "",
+      "health": "Labour pledges an extra £6 billion per year for the NHS and to join up services with a properly integrated health and social care service.",
+      "immigration": "",
+      "socialWelfare": "Labour commits to a real Living Wage of £10 per hour, universal Winter Fuel Allowance, preserving free bus passes for pensioners.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "As a medical scientist, [Steve Clapcote] partnered with NHS doctors to develop new treatments for disabling medical conditions. Mentions Labour's rebuilding of the NHS after the War and the current challenges it faces under the Conservatives. Describes commitment to giving NHS an extra £6bn per year and integrating health and social care services.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Rona Lairdwright",
+        "endorsement": "I will be voting for Steve because he understands the value of the jobs in the manufacturing industry. He will fight for investment in colleges to give companies their next intake of apprentices and staff."
+      },
+      {
+        "endorser": "Chris Inglehearn",
+        "endorsement": "Steve is an intelligent, capable person who has common sense views on the issues I believe matter, like adequate funding for the NHS and welfare, and the future of our education system."
+      },
+      {
+        "endorser": "Tina Downes",
+        "endorsement": "I endorse Steve Clapcote as the Labour candidate for Shipley because he is committed to keeping the triple lock on pensions and recognises the needs of all age groups."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Steve Clapcote standing in a field."
+        },
+        {
+          "caption": "Flooding in Bingley."
+        }
+      ]
+    },
+    "additionalNotes": "All of our manifesto commitments are fully costed. We promise no tax rises for those earning below £80,000 a year - that's 95% of all earners."
+  }
+}
+```

@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Birmingham Northfield",
+    "politicalParty": "Conservative",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "This election is close.",
+        "content": "Your vote will secure future progress or bring it to a screeching halt. Let's not waste the last five years of hard work and let Labour and the SNP take us back to square one."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Income Tax",
+        "policyDescription": "We've already cut income tax for 26 million people – now we'll raise the 40p tax threshold so no-one earning less than £50,000 pays it, whereas Labour wants you to pay more."
+      },
+      {
+        "policyTitle": "Economic Plan",
+        "policyDescription": "We've halved the deficit as a share of our economy – now we'll keep our economy secure by running a surplus so that we start paying down our debts."
+      },
+      {
+        "policyTitle": "Inheritance Tax",
+        "policyDescription": "We've guaranteed that ISAs can be passed on to a spouse tax-free – now we'll take family homes out of inheritance tax by raising the effective threshold to £1 million."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "We've protected spending on the NHS – now we'll spend at least an extra £8 billion to fund and support the NHS's own action plan."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Ed Miliband, Nicola Sturgeon, Alex Salmond",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": "Birmingham Northfield is one of just 23 more seats that the Conservatives need to win to form a majority government and keep Ed Miliband and the SNP out of Downing Street."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We've halved the deficit as a share of our economy – now we'll keep our economy secure by running a surplus so that we start paying down our debts.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "We've protected spending on the NHS – now we'll spend at least an extra £8 billion to fund and support the NHS's own action plan.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We'll take family homes out of inheritance tax by raising the effective threshold to £1 million.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "conservatives.com/yourmanifesto",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Cameron",
+        "endorsement": "Your vote will secure future progress or bring it to a screeching halt. Let's not waste the last five years of hard work and let Labour and the SNP take us back to square one."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Political campaign leaflet with messages and key policies for the Conservative Party"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

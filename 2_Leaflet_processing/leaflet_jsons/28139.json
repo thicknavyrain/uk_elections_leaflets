@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alan Beal",
+    "constituency": "Edinburgh South",
+    "politicalParty": "Scottish Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "My priorities",
+        "content": "The prosperity of Edinburgh South relies on strong links to Europe and the rest of the UK. With even more cuts coming from the SNP and Tory Governments we need to stay in both the UK and the EU to keep our economy strong. Scottish Liberal Democrats are the only party opposing a hard Brexit and Independence."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "No second Independence referendum",
+        "policyDescription": "The Liberal Democrats are a pro UK Party and oppose the SNP's plan for a second independence referendum."
+      },
+      {
+        "policyTitle": "Oppose the Conservatives' Hard Brexit",
+        "policyDescription": "Theresa May and the Conservatives are making a destructive hard Brexit agenda which will have serious impact on the British economy."
+      },
+      {
+        "policyTitle": "Investment in Scottish Education",
+        "policyDescription": "We know that education is the chance for every person to get on in life. We will invest in Scottish education from nursery to colleges."
+      },
+      {
+        "policyTitle": "Improve mental health treatment",
+        "policyDescription": "Mental health in Scotland needs urgent investment. Young people still wait up to a year for treatment."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alan Beal",
+      "otherPartyLeaderCandidate": "SNP, Theresa May, Conservatives",
+      "partyLeader": "Willie Rennie",
+      "tacticalSituation": "Scottish Liberal Democrats could be winners."
+    },
+    "issues": {
+      "brexitEurope": "Scottish Liberal Democrats are the only party opposing a hard Brexit and Independence.",
+      "economy": "",
+      "education": "We will invest in Scottish education from nursery to colleges.",
+      "environment": "",
+      "governance": "",
+      "health": "Mental health in Scotland needs urgent investment. Young people still wait up to a year for treatment.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Vote for a local champion not a cheerleader for independence",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Grange Road, Edinburgh EH9 1UH",
+      "phone": "",
+      "email": "alan@edinburghlibdems.org",
+      "website": "www.edinburghlibdems.org",
+      "socialMedia": {
+        "facebook": "/EdinSouth",
+        "twitter": "@edinsouth",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Times",
+        "endorsement": "Only the Lib Dems can stop a hard Brexit"
+      },
+      {
+        "endorser": "The Herald",
+        "endorsement": "Lib Dems to oppose second independence referendum"
+      },
+      {
+        "endorser": "The Times",
+        "endorsement": "The Liberal Democrats could be winners."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Alan Beal with Willie Rennie"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

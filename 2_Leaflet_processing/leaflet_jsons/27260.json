@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Gerard Batten",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "Thursday 8th June 2017",
+    "messages": [
+      {
+        "title": "Brexit Must Not Be Betrayed!",
+        "content": "Brexit Must Mean Exit!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Spend more on the NHS"
+      },
+      {
+        "policyTitle": "EU Funds",
+        "policyDescription": "Find the money by leaving the EU and slashing Foreign Aid."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "End uncontrolled mass immigration; create a system that treats all people equally."
+      },
+      {
+        "policyTitle": "Policing and Armed Forces",
+        "policyDescription": "Increase spending on the Police and Armed Forces."
+      },
+      {
+        "policyTitle": "Scrap HS2",
+        "policyDescription": "An astronomically costly white elephant nobody needs."
+      },
+      {
+        "policyTitle": "Heathrow Third Runway",
+        "policyDescription": "Oppose the Heathrow third runway"
+      },
+      {
+        "policyTitle": "Localism",
+        "policyDescription": "Something unwanted by a majority of local residents."
+      },
+      {
+        "policyTitle": "Free Speech",
+        "policyDescription": "Protect British culture, the freedom to offend, and free speech."
+      }
+    ],
+    "mentions": {
+      "candidate": "Gerard Batten",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Brexit Must Mean Exit!",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Spend more on the NHS",
+      "immigration": "End uncontrolled mass immigration; create a system that treats all people equally.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Oppose the Heathrow third runway",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Gerard Batten leaflet image"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

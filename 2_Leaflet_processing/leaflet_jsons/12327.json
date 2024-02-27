@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Howell",
+    "constituency": "South Oxfordshire",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "60 SECOND Q&A WITH JOHN HOWELL",
+        "content": "Questions and answers on housing development, representation of young people, broadband coverage, immigration, and the candidate's experience as an MP."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Green Belt",
+        "policyDescription": "Regional housing targets should be scrapped and local people should take control over their neighborhoods and housing built there."
+      },
+      {
+        "policyTitle": "Representation of Young People",
+        "policyDescription": "Set up a group of young people to act as advisory group, regularly visiting schools and creating two-way communication."
+      },
+      {
+        "policyTitle": "Broadband Coverage",
+        "policyDescription": "Addressing parts of the constituency that have no broadband, including mobile phone coverage issues."
+      },
+      {
+        "policyTitle": "Immigration Control",
+        "policyDescription": "Promote integration of economic migrants, ensuring that migrants are ready to become part of the local community."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Howell",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Helping businesses through the recession by offering practical help.",
+      "education": "",
+      "environment": "Supporting local environmental action and maintaining the green belt.",
+      "governance": "",
+      "health": "",
+      "immigration": "Promotion of integration for economic migrants into British society.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Regional housing targets should be scrapped and local people should have more control over their neighborhoods and housing built there. Opposes Green Belt development in South Oxfordshire.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Cornwell House, Cornwell, Chipping Norton, Oxon, OX7 6UP",
+      "phone": "0845 230 4036",
+      "email": "",
+      "website": "www.votehowell.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of John Howell with another individual, presumably discussing."
+        },
+        {
+          "caption": "John Howell supporting local environmental action."
+        },
+        {
+          "caption": "Helping businesses through recession."
+        },
+        {
+          "caption": "Action on housing regarding new affordable homes in Thame and Henley."
+        }
+      ]
+    },
+    "additionalNotes": "John Howell has a FACTFILE section mentioning 21 years in the constituency, 28 local schools visited, and carrying out the vast amount of debates spoken in last year - well above the average amongst MPs."
+  }
+}
+```

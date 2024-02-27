@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Graeme Littlejohn",
+    "constituency": "Clarkmannanshire",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "FOCUS Clarkmannanshire",
+        "content": "Local Lib Dems reporting back."
+      },
+      {
+        "title": "Labour's PO Threat",
+        "content": "Labour councillors in Clarkmannanshire want to axe the mobile library service..."
+      },
+      {
+        "title": "news and action from John Biggam",
+        "content": "news and action from John Biggam"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting Local Services",
+        "policyDescription": "Opposition to Labour's plans to cut the mobile library service."
+      },
+      {
+        "policyTitle": "Community Support",
+        "policyDescription": "Continued support for local health centres and a new clean-up initiative."
+      }
+    ],
+    "mentions": {
+      "candidate": "Graeme Littlejohn",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Support for local health centres.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Unlike Labour we will fight to keep services local.",
+        "source": "Graeme Littlejohn",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Graeme Littlejohn with supporters."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes an address slip for more information, suggesting a call to action for communication and support."
+  }
+}
+```

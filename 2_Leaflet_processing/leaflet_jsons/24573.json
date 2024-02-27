@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kelly-Marie Blundell",
+    "constituency": "Guildford",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "7 May",
+    "messages": [
+      {
+        "title": "Here in Guildford the choice is a stark one between:",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "Will put £8bn into the NHS and maintain spending in real terms on public services"
+      },
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Will increase tax on the wealthy, not cut benefits for the poor"
+      },
+      {
+        "policyTitle": "Society",
+        "policyDescription": "Will build a fairer society, putting people before profit"
+      }
+    ],
+    "mentions": {
+      "candidate": "Kelly-Marie Blundell",
+      "otherPartyLeaderCandidate": "The Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Will put £8bn into the NHS and maintain spending in real terms on public services",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "96 London Road, Guildford, Surrey GU1 1TH, United Kingdom.",
+      "phone": "",
+      "email": "",
+      "website": "www.guildfordld.org.uk",
+      "socialMedia": {
+        "facebook": "/KellyMarieBlundellforGuildford",
+        "twitter": "@KellyMarieLD",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet page highlighting Liberal Democrats vs. Conservatives policies"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

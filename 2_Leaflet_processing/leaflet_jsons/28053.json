@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kim Caddy",
+    "constituency": "Streatham",
+    "politicalParty": "Conservative",
+    "electionDate": "8 June 2017",
+    "messages": [
+      {
+        "title": "Theresa May backs Kim Caddy",
+        "content": "Kim Caddy is standing with me to secure strong and stable leadership for our country, and the best Brexit deal possible for our country's future."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Kim Caddy",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "A vote for anyone other than Kim Caddy here risks Jeremy Corbyn becoming Prime Minister of this country."
+    },
+    "issues": {
+      "brexitEurope": "best Brexit deal possible for our country's future.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0203 7238155",
+      "email": "kim@streathamconservatives.com",
+      "website": "www.streathamconservatives.com",
+      "socialMedia": {
+        "facebook": "fb.com/kimcaddystreatham",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Councillor Tim Briggs",
+        "endorsement": "I know Kim is the right person to support us and help improve our local area, where we are offering a real alternative to the falling Labour Council!"
+      },
+      {
+        "endorser": "Wendy Newell",
+        "endorsement": "I'm voting for Kim Caddy because I know she will hold Lambeth Council to account. With her experience as a Councillor in Wandsworth she knows how to get things done and I want her as a strong voice for Streatham"
+      },
+      {
+        "endorser": "Francis Hour",
+        "endorsement": "I'm voting for Kim Caddy because the Conservatives are the only party supporting business. Our community loves our local shops and businesses and they bring jobs to the area"
+      },
+      {
+        "endorser": "Leslie Mansuwe",
+        "endorsement": "Problems on the trains mean I am often late for work, and sometimes my friends can't even get on the tube at Clapham as it's so busy. I am voting for Kim because I think she will work hard to get these problems fixed"
+      },
+      {
+        "endorser": "Lavinia Cartwright",
+        "endorsement": "Like Kim, I voted Remain but now I want the best possible deal in Europe – I think Theresa May is the best person to negotiate that deal and the only way to guarantee that is to vote for Kim"
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Kim Caddy with Theresa May"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

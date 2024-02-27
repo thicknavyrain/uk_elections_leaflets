@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alan Whitehead",
+    "constituency": "Southampton Test",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "We want to hear from you",
+        "content": "What could Labour do to improve things in our area?"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Give the NHS the money it needs to tackle the crisis in social care and roll out services from a properly integrated health and social care service."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Focus on what matters most in our schools: driving up teaching standards and keeping class sizes down."
+      },
+      {
+        "policyTitle": "Winter Fuel Payment",
+        "policyDescription": "Protect the triple lock on pensions, keep the winter fuel allowance and free bus passes and compensate women most affected by the increase to their pension age with an increased allowance and free bus pass."
+      },
+      {
+        "policyTitle": "Minimum Wage",
+        "policyDescription": "Introduce a real Living Wage of £10 an hour by 2020."
+      },
+      {
+        "policyTitle": "Bank Holidays",
+        "policyDescription": "Create 4 extra bank holidays to celebrate St. George's, St Andrew's, St Patrick's and St David's day."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alan Whitehead",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Focus on what matters most in our schools: driving up teaching standards and keeping class sizes down.",
+      "environment": "",
+      "governance": "",
+      "health": "Give the NHS the money it needs to tackle the crisis in social care and roll out services from a properly integrated health and social care service.",
+      "immigration": "",
+      "socialWelfare": "Protect the triple lock on pensions, keep the winter fuel allowance and free bus passes and compensate women most affected by the increase to their pension age with an increased allowance and free bus pass.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Southampton Labour Party, 1a Eling Lane, Eling, Southampton, SO40 9GB",
+      "phone": "023 8063 2606",
+      "email": "alan4soton-whiterhead.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@soton_labour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Alan Whitehead among supporters."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

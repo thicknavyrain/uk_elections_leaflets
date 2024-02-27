@@ -1,0 +1,107 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Royston Smith",
+	"constituency": "Southampton Itchen",
+	"politicalParty": "Conservative",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Time to Move Britain Forward",
+    	"content": "No more delays, no more gridlock. Let's get stuff done. Great Britan. Better hospitals. Safer streets. Improved schools."
+  	},
+  	{
+    	"title": "Royston Smith's plan for Southampton Itchen",
+    	"content": "The months of MPs' attempts to implement the result of the EU referendum are to blame, not Brexit itself. It's time for a general election to break the gridlock. Royston knows this community and will focus on what counts."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Get Brexit Done",
+    	"policyDescription": "The focus promises on Brexit deal adjustments which deliver the referendum's promise, ending continued extensions and no more debates on the same issues."
+  	},
+  	{
+    	"policyTitle": "20,000 More Police",
+    	"policyDescription": "A commitment to tackle crime and provide security with the addition of 20,000 more police officers."
+  	},
+  	{
+    	"policyTitle": "£14 Billion Extra for Schools",
+    	"policyDescription": "Investing more funds into education to elevate school standards."
+  	},
+  	{
+    	"policyTitle": "Better Broadband, Better Transport",
+    	"policyDescription": "Investment in transport, with specific mention of £5 billion to devolve control of services and focus on bus services, cycling and roads where cars aren't suitable."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Royston Smith",
+  	"otherPartyLeaderCandidate": "Jo Swinson, Jeremy Corbyn, Nicola Sturgeon",
+  	"partyLeader": "The Prime Minister",
+  	"tacticalSituation": "Tactical situation referenced regarding risk of a split vote leading to Jeremy Corbyn becoming Prime Minister."
+	},
+	"issues": {
+  	"brexitEurope": "Get Brexit Done",
+  	"economy": "More money to invest in priorities.",
+  	"education": "Funding better terms for every child in every public school.",
+  	"environment": "",
+  	"governance": "Break gridlock in Parliament with general election.",
+  	"health": "Better hospitals",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Royston knows this community and will focus on what counts.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	},
+    	{
+      	"caption": "Royston Smith working with local police."
+    	},
+    	{
+      	"caption": "Royston Smith supporting local business."
+    	}
+  	]
+	},
+	"additionalNotes": "Leaflet focuses on contrasting Conservative plans with perceived risks of a Labour or coalition government. Highlights the situation where tactical voting is essential to prevent a non-Conservative majority."
+  }
+}
+```

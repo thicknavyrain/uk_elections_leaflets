@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Aidan Campbell",
+    "constituency": "Grantham & Stamford",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "A SAFE CLIMATE – WE WILL:",
+        "content": "Invest in renewable energy sources, cut carbon emissions, challenge fossil fuel and fracking companies, and protect quality farm land from flooding and development."
+      },
+      {
+        "title": "A FAIR ECONOMY – WE WILL:",
+        "content": "End austerity policies, and introduce a minimum living wage of £10 an hour by 2020, invest in the public sector, including education and the NHS, to re-build services and create sustainable jobs, clamp down on tax evasion and tax avoidance, introduce a wealth tax and tax the banks, make education free for all."
+      },
+      {
+        "title": "DECENT HOMES – WE WILL:",
+        "content": "Abolish the Bedroom Tax, introduce rent caps and longer tenancies, build new social rented homes and bring empty homes back into use."
+      },
+      {
+        "title": "BETTER TRANSPORT – WE WILL:",
+        "content": "Return our railways to public ownership to stop profits before passengers, Invest in public transport for quality services at affordable prices."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A Safe Climate",
+        "policyDescription": "Invest in renewable energy sources, cut carbon emissions, challenge fossil fuel and fracking companies, protect farm land from flooding and development."
+      },
+      {
+        "policyTitle": "A Fair Economy",
+        "policyDescription": "End austerity, introduce £10 per hour living wage by 2020, invest in public sector, create jobs, tax evasion/avoidance clampdown, wealth tax, free education."
+      },
+      {
+        "policyTitle": "Decent Homes",
+        "policyDescription": "Abolish Bedroom Tax, rent caps, longer tenancies, build social rented homes, reuse empty homes."
+      },
+      {
+        "policyTitle": "Better Transport",
+        "policyDescription": "Public ownership of railways, stop profits before passengers, invest in quality, affordable public transport."
+      }
+    ],
+    "mentions": {
+      "candidate": "Aidan Campbell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "End austerity policies, and introduce a minimum living wage of £10 an hour by 2020.",
+      "education": "Invest in education to re-build services and make education free for all.",
+      "environment": "Invest in renewable energy sources, cut carbon emissions. Challenge fossil fuel and fracking companies, and protect quality farm land from flooding and development.",
+      "governance": "Clamp down on tax evasion and tax avoidance, introduce a wealth tax and tax the banks.",
+      "health": "Invest in the NHS to re-build services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Abolish the Bedroom Tax, introduce rent caps and longer tenancies, build new social rented homes and bring empty homes back into use.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Aidan says: I am a 36-year-old travel consultant living in Stamford with my wife and our two cats. Many of us struggle to find an affordable home and pay our bills. Public transport is limited and expensive.",
+    "politicalExperience": [
+      {
+        "role": "Candidate",
+        "duration": "Current",
+        "achievements": "Advocates for policies aiming at creating sustainable jobs, fair economy, and decent homes. Promotes green initiatives."
+      }
+    ],
+    "contactInformation": {
+      "address": "Printed by Name & Registered Address, Promoted by Name & on behalf of Aidan Campbell, Address in Grantham.",
+      "phone": "",
+      "email": "info@southlincolnshire.greenparty.org.uk",
+      "website": "www.southlincolnshire.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet image of Aidan Campbell"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

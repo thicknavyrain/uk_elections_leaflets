@@ -1,0 +1,68 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Richard Garvie",
+    "constituency": "Wellingborough",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Delivering for Wellingborough & Rushden...",
+        "content": "The people of Wellingborough & Rushden deserve better than Peter Bone... That's what people keep telling me, over and over again. As somebody who was born and bred locally, I know the issues we face and how they affect people like you and me. I've led the campaign to save our NHS locally, I've successfully fought for better public transport and services, and I really want to be able to do a lot more. To do this, I need you to send me to Parliament as your MP, and together, we CAN make a difference!!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Fight for an Urgent Care Centre locally, and a guaranteed GP appointment within 48 hours."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Secure 25 hours of free childcare for all 3 and 4 year old children, plus extended primary school opening hours to help parents."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Cut taxes for 24 million working people through a new lower starting rate of tax whilst reversing the unfair Tory tax cut for millionaires."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Fight for every last bit of funding and investment for our communities and those who live and work here."
+      },
+      {
+        "policyTitle": "Social Welfare",
+        "policyDescription": "I will also vote to scrap the bedroom tax, reduce student tuition fees and vote to freeze energy prices."
+      }
+    ],
+    "mentions": {
+      "candidate": "Richard Garvie",
+      "otherPartyLeaderCandidate": "Peter Bone"
+    },
+    "issues": {
+      "health": "Fight for an Urgent Care Centre locally, and a guaranteed GP appointment within 48 hours.",
+      "education": "Secure 25 hours of free childcare for all 3 and 4 year old children, plus extended primary school opening hours to help parents.",
+      "economy": "Cut taxes for 24 million working people through a new lower starting rate of tax whilst reversing the unfair Tory tax cut for millionaires.",
+      "governance": "Fight for every last bit of funding and investment for our communities and those who live and work here.",
+      "socialWelfare": "I will also vote to scrap the bedroom tax, reduce student tuition fees and vote to freeze energy prices."
+    },
+    "contactInformation": {
+      "phone": "07474 041157",
+      "email": "",
+      "website": "www.votegarvie.com",
+      "address": "Top Floor, 67 Wellingborough Road, Rushden, Northamptonshire NN10 0YG",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Richard Garvie speaking to an audience."
+        }
+      ]
+    }
+  }
+}
+```

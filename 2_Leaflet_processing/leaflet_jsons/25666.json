@@ -1,0 +1,37 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Michael Payne",
+	"constituency": "Newark",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 7 May",
+	"messages": [
+  	{
+    	"title": "I'm ready to stand up for you from day one, and I'd welcome your support.",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Michael Payne",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Michael Payne interacting with constituents."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

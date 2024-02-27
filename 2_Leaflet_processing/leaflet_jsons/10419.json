@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Bruce Hogan",
+    "constituency": "Forest of Dean",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Bruce Hogan",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01594 860022",
+      "email": "votebruce@hotmail.co.uk",
+      "website": "www.forestofdeanlabour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Rhiannon Halford",
+        "endorsement": "Bruce has a long history of service to local people. He knows and loves this area."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "I'm backing Bruce"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet serves as an opportunity for supporters to get involved in the candidate's campaign, either by displaying a poster, voting by post, or volunteering."
+  }
+}
+```

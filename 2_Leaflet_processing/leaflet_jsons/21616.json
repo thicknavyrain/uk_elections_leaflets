@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Nick Clegg",
+	"constituency": "Sheffield Hallam",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": "I'm writing to you about the important choice we face in the General Election in just a few short weeks time."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Nick Clegg helped deliver a strong, stable Government that has rescued the British economy."
+  	},
+    {
+      "policyTitle": "Tax Cuts",
+      "policyDescription": "Helped to deliver tax cuts for over 200,000 people in Sheffield."
+    }
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Ed Miliband’s Labour candidate",
+  	"partyLeader": "",
+  	"tacticalSituation": "Vote for a Tory candidate who won't win, or we can back Nick Clegg to make sure that Ed Miliband’s Labour candidate doesn't sneak in through the back door."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Nick Clegg helped deliver a strong, stable Government that has rescued the British economy.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "This time, I'm voting for Nick Clegg and I want you to as well.",
+	"politicalExperience": [
+  	{
+    	"role": "Conservative Candidate in Sheffield Hallam",
+    	"duration": "2001",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "John Harthman",
+    	"endorsement": "I've been a lifelong Conservative and I was the Conservative candidate here in Sheffield Hallam in 2001."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Nick Clegg has been incredibly brave. In 2010 he put the country before narrow party interests and helped deliver a strong, stable Government that has rescued the British economy and helped to deliver tax cuts for over 200,000 people in Sheffield.",
+    	"source": "John Harthman",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "John Harthman, Former Conservative candidate for Sheffield Hallam"
+    	}
+  	]
+	},
+	"additionalNotes": "John Harthman, a lifelong Conservative and previous Conservative candidate, is endorsing Nick Clegg and encouraging others to vote for him."
+  }
+}
+```

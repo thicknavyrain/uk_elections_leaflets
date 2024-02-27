@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Christine Jardine",
+	"constituency": "Gordon",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "It's got to be... CHRISTINE",
+    	"content": "A high standard of living for all of us... And uniquely... support for the Lib Dem plan to insure families against crippling care costs in later life."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Health Boost",
+    	"policyDescription": "Support for the Lib Dem plan to insure families against crippling care costs in later life."
+  	},
+  	{
+    	"policyTitle": "£400 Tax Cut",
+    	"policyDescription": "Tax cut for local workers."
+  	},
+  	{
+    	"policyTitle": "Fighting for a Stronger Scotland",
+    	"policyDescription": "Creating a stronger Scotland in a fairer, federal UK and delivering our own home rule powers."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Christine Jardine",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "The race to be the next MP for Gordon is between Christine and the SNP."
+	},
+	"issues": {
+  	"brexitEurope": "Creating a stronger Scotland in a fairer, federal UK.",
+  	"economy": "£400 tax cut for local workers.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "Delivering our own home rule powers.",
+  	"health": "Support for the Lib Dem plan to insure families against crippling care costs in later life.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "I could never go back to the SNP.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Christine out campaigning in the local area."
+    	},
+    	{
+      	"caption": "Christine alongside current MPs at the Scottish Borders."
+    	}
+  	]
+	},
+	"additionalNotes": "The content of the leaflet focuses on distinguishing Christine Jardine as the primary opponent against the SNP and highlights her support for the Liberal Democrats' health and tax policies as critical points of her campaign."
+  }
+}
+```

@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "June 2017",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Wages and rights at work",
+        "policyDescription": "Labour government will raise the minimum wage to £10 an hour for all workers aged 18 or older, abolish zero hour contracts, and ensure equal pay for equal work through strengthened enforcement mechanisms."
+      },
+      {
+        "policyTitle": "Support for Pensioners, Families and Carers",
+        "policyDescription": "Labour government will provide free school meals to all primary school children, raise carers' allowance by £11 a week, and extend paternity leave to 4 weeks."
+      },
+      {
+        "policyTitle": "The services and homes we need",
+        "policyDescription": "Labour government will join up health and social care services to provide better care for those in need, build more council and private rental homes, and ensure a range of housing to suit different incomes and needs."
+      },
+      {
+        "policyTitle": "The Economy",
+        "policyDescription": "Labour government will not raise income tax for those with incomes below £80,000, will introduce an excessive pay levy, and will guarantee no rise in National Insurance or VAT for 95% of taxpayers."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "The Conservative government",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Labour will work for a Brexit that delivers protections for workers’ rights, standards and our economy.",
+      "economy": "Labour will not raise income tax for those with incomes below £80,000, guarantee no rise in National Insurance or VAT for 95% of taxpayers, and introduce an excessive pay levy.",
+      "education": "Labour will provide free school meals to all primary school children.",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will join up health and social care services to provide better care for those in need.",
+      "immigration": "",
+      "socialWelfare": "Labour will raise carers' allowance by £11 a week, and extend paternity leave to 4 weeks.",
+      "housing": [
+        {
+          "content": "Labour will build more council and private rental homes, and ensure a range of housing to suit different incomes and needs.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0800 030 80 30",
+      "email": "",
+      "website": "www.usdaw.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "The choice this June..."
+        }
+      ]
+    },
+    "additionalNotes": "All policies correct at time of printing (12 May 2017)."
+  }
+}
+```

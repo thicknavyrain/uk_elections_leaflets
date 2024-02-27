@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Yorkshire",
+    "politicalParty": "Labour",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "",
+        "content": "As a Forces Veteran I know what it means to fight for what you believe in. I trust Labour to fight for a Brexit deal that works for Yorkshire. A deal that secures jobs, wages and controls immigration."
+      },
+      {
+        "title": "",
+        "content": "The Tories have never been on our side. We need a strong, independent-minded, Labour MP who will fight our corner."
+      },
+      {
+        "title": "",
+        "content": "Only a Labour MP will stand against the Tories' cuts to our schools, our hospitals and our police."
+      },
+      {
+        "title": "",
+        "content": "In this election, stand with me and vote for a strong local Labour MP. Together, we can get the best deal for Yorkshire."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Fight for a Brexit deal that works for Yorkshire, securing jobs, wages and controlling immigration."
+      },
+      {
+        "policyTitle": "Opposition to Conservative Cuts",
+        "policyDescription": "Stand against the Tories' cuts to schools, hospitals, and police."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "The Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Fight for a Brexit deal that works for Yorkshire, securing jobs, wages and controlling immigration.",
+      "economy": "",
+      "education": "Stand against the Tories' cuts to our schools.",
+      "environment": "",
+      "governance": "",
+      "health": "Stand against the Tories' cuts to our hospitals.",
+      "immigration": "Control immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Bloomfield",
+        "endorsement": "As a Forces Veteran I know what it means to fight for what you believe in."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Bloomfield - Royal Green Jacket veteran"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

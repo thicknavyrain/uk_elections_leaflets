@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Blunkett",
+    "constituency": "Brightside",
+    "politicalParty": "Labour",
+    "electionDate": "May 6",
+    "messages": [
+      {
+        "title": "David Blunkett's pledge",
+        "content": "My pledge to you is to put your voice first. My task is to work for you, locally and nationally, and to be rooted in the community. I will continue to work with local and national charities, regenerate business, and to protect Sheffield and UK companies."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "One-to-one tuition",
+        "policyDescription": "Pledges for kids who are falling behind in the basics"
+      },
+      {
+        "policyTitle": "Points-based system to control immigration",
+        "policyDescription": "Implementing a points-based system to control immigration"
+      },
+      {
+        "policyTitle": "1 million new skilled jobs and a rising Minimum Wage",
+        "policyDescription": "Promises 1 million new skilled jobs and a rising Minimum Wage"
+      },
+      {
+        "policyTitle": "Dignity in old age with a National Care Service",
+        "policyDescription": "Ensuring dignity in old age with a National Care Service"
+      },
+      {
+        "policyTitle": "Protect the Post Office with a People's Bank",
+        "policyDescription": "Protection of the Post Office with a People's Bank"
+      }
+    ],
+    "mentions": {
+      "candidate": "David Blunkett",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "LABOUR'S NATIONAL PLEDGES - A points-based system to control immigration",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour's Decent Homes Programme has seen improvements in over 40,000 Sheffield homes.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I will continue to work with local and national charities, regenerate business, and to protect Sheffield and UK companies.",
+    "politicalExperience": [
+      {
+        "role": "Secretary of State for Work and Pensions",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07894 935 692",
+      "email": "david.blunkett@hotmail.co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "The only way to continue the improvements we've seen in our local area over the last 13 years is to vote Labour in both the local and general elections.",
+        "source": "David Blunkett",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Blunkett with the Friends of Burngreave Cemetery."
+        },
+        {
+          "caption": "Home Secretary Alan Johnson with David Blunkett in Burngreave."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

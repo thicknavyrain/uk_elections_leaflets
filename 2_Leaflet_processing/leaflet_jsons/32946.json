@@ -1,0 +1,68 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Elaine Gallagher",
+    "constituency": "Glasgow Central",
+    "politicalParty": "Scottish Green Party",
+    "electionDate": "December 12",
+    "messages": [
+      {
+        "title": "DEMAND CLIMATE ACTION",
+        "content": "A vote for the greens in this election sends a strong message about the need to tackle the climate crisis."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Climate Action",
+        "policyDescription": "The Scottish Green Party is committed to tackling the climate crisis and proposes urgent action."
+      }
+    ],
+    "mentions": {
+      "candidate": "Elaine Gallagher",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "The Scottish Green Party believes tackling the climate crisis is urgent and necessary.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The greens propose a greener city that is welcoming to all.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "The clearest way you can demand urgent climate action is by voting Scottish Greens.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Elaine Gallagher featured on a Scottish Green Party campaign leaflet."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

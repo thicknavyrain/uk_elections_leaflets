@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mark Spencer",
+    "constituency": "Sherwood",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Labour's Tax on Jobs will kill the recovery",
+        "content": "The reelection of Gordon Brown's government, with more debt, more taxes, and more waste, is a risk we cannot afford. The Conservatives will stop tax rises on jobs and support small businesses."
+      },
+      {
+        "title": "Backing the NHS",
+        "content": "The NHS is our number one priority. We back it and we want to improve it for everyone. The Conservatives will increase spending on the NHS every year."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "The Conservatives will stop tax rises on jobs, allowing savings of £150 for 45,000 businesses and up to £150 a year with the Conservative gain of 2 to 1 over working people."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "The Conservatives will increase NHS spending every year to relieve the pressure it is facing as more patients live longer and we face a treatable cancer survival rate."
+      },
+      {
+        "policyTitle": "Green Belt Protection",
+        "policyDescription": "Conservatives will stop building on green field sites, protecting our bucolic surroundings, keeping out sprawl, and defending local voices against the central diktats."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Spencer",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Conservatives propose to save businesses £150 and workers up to £150 a year.",
+      "education": "",
+      "environment": "Conservatives are committed to protecting the Green Belt and oppose building on green field sites.",
+      "governance": "",
+      "health": "Conservatives will increase NHS funding every year to deal with aging population challenges and cancer survival rates.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Conservatives will stop the Labour government's planning to build houses between 2,500 and 4,000 homes in the BOOs area.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Sherwood Conservative Association, 19 High Street, Arnold, NG5 7DE.",
+      "phone": "",
+      "email": "",
+      "website": "www.sherwoodconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mark Spencer with community members and interacting with constituents."
+        }
+      ]
+    },
+    "additionalNotes": "Mark Spencer has been endorsed by local farmers and residents, emphasizing his commitment to the local area and opposition to government housing plans."
+  }
+}
+```

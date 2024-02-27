@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nigel Sussman",
+    "constituency": "Westminster North",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Standing Up for Real Change",
+        "content": "This is one of the most important elections to vote in; as this is the last chance you will get to reclaim our country’s power of self-determination from the European Union. In this election you are voting for nothing less than your own freedom. I care about this country and all the people in it, I believe in Britain, but I need your vote on 7th May!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Self-determination from the European Union",
+        "policyDescription": "Reclaim the country’s power of self-determination from the European Union to ensure freedom and national sovereignty."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nigel Sussman",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Reclaim our country’s power of self-determination from the European Union.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I care about this country and all the people in it, I believe in Britain.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0208 144 9959",
+      "email": "nigel.sussman@ukip.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "You, the people, have the power to make this life free and beautiful; to make this life a wonderful adventure. Let us use that power! Let us all unite!",
+        "source": "Nigel Sussman",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nigel Sussman in campaign photograph"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

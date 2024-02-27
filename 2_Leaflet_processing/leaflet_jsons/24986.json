@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Peter FORTUNE",
+    "constituency": "Lewisham East",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A personal message from Peter FORTUNE",
+        "content": "It's been a difficult few years since the financial crisis hit in 2008. Jobs, homes and futures were all put in jeopardy by an irresponsible few. The fightback has been tough but we're starting to see light at the end of a very dark tunnel. That's why we must not let Ed Milliband and Ed Balls back into power, risking all that we have achieved so far. I believe that it's about time the people of Lewisham began to see the benefits of the recovering economy."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Cleaning up Labour's broken economy",
+        "policyDescription": "Nationally, challenging financial waste locally"
+      },
+      {
+        "policyTitle": "Delivering improvements in education",
+        "policyDescription": "For the worst performing boroughs like Lewisham"
+      },
+      {
+        "policyTitle": "Conservatives holding Labour to account",
+        "policyDescription": "As the only real alternative in Lewisham"
+      }
+    ],
+    "mentions": {
+      "candidate": "Peter FORTUNE",
+      "otherPartyLeaderCandidate": "Ed Milliband and Ed Balls",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Nationally, challenging financial waste locally.",
+      "education": "Delivering improvements in education for the worst performing boroughs like Lewisham",
+      "environment": "",
+      "governance": "Conservatives holding Labour to account as the only real alternative in Lewisham",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Peter has practical experience of working locally with the NHS and will fight to keep it safe",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "For a strong and effective MP who will be accountable to you.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "",
+        "achievements": "Has practical experience of working locally with the NHS and will fight to keep it safe"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07957 107735",
+      "email": "peter@peterfortune.co.uk",
+      "website": "www.peterfortune.co.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/fortune4lewisham",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Peter FORTUNE engaging with community members"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

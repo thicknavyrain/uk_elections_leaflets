@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "LARRY SANDERS",
+    "constituency": "OXFORD EAST",
+    "politicalParty": "Green Party",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "LARRY SAYS...",
+        "content": "I grew up Brooklyn, New York, with my brother Bernie Sanders, a champion of progressive politics. We believe healthcare is a right for all people. I am fighting to save the NHS, which is in crisis. As your MP I demand that the top 1% pay their taxes. This is a rich country. We can have good healthcare, education and housing. We can create hundreds of thousands of worthwhile jobs in green energy and insulating all our buildings. We can have a society that works for all its people."
+      },
+      {
+        "title": "THIS ELECTION ISN’T ABOUT THE NEXT 5 YEARS. IT’S ABOUT THE NEXT 50 YEARS.",
+        "content": "The Green Party is offering real opposition to this Government’s extreme Brexit. Only the Green Party has the vision to deliver an alternative future for our country, and our place in the world. And only the Green Party offers a different kind of politics. Every Green vote on 8th June will help make that vision a reality."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Fight to save the NHS, which is in crisis, ensuring that healthcare is a right for all."
+      },
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Demand that the top 1% pay their taxes to support public funding for healthcare, education, and housing."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Create hundreds of thousands of jobs in green energy and insulating buildings."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Provide real opposition to the government's extreme Brexit, offering an alternative future for the country."
+      }
+    ],
+    "mentions": {
+      "candidate": "LARRY SANDERS",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Providing real opposition to the government's extreme Brexit.",
+      "economy": "",
+      "education": "Support public funding for education.",
+      "environment": "Create jobs in green energy and insulating buildings.",
+      "governance": "Offering a different kind of politics.",
+      "health": "Fighting to save the NHS, which is in crisis.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Support public funding for affordable homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "01865 580877",
+      "email": "larry@oxon.greenparty.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "LarrySandersGreenParty",
+        "twitter": "Larry4OxEast",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "YOUR GREEN PARTY CANDIDATE LARRY SANDERS OXFORD EAST"
+        }
+      ]
+    },
+    "additionalNotes": "Vote Green Party on 8th June. STAND UP FOR WHAT MATTERS."
+  }
+}
+```

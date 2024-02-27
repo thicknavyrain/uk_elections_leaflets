@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Philip Eades",
+    "constituency": "Poole",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Defending Poole’s green open spaces",
+        "content": "Philip Eades has a long and proud record of defending Poole's precious open spaces from inappropriate development."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "£8 billion more for our NHS."
+      },
+      {
+        "policyTitle": "Border Control",
+        "policyDescription": "Promoting proper border controls."
+      },
+      {
+        "policyTitle": "Balancing the Budget",
+        "policyDescription": "Balancing Britain's debt to bring down local taxes."
+      },
+      {
+        "policyTitle": "Income Tax",
+        "policyDescription": "£400 Income Tax cut for ordinary local workers."
+      },
+      {
+        "policyTitle": "Poole’s Open Spaces",
+        "policyDescription": "Protect and enhance Poole’s open spaces."
+      }
+    ],
+    "mentions": {
+      "candidate": "Philip Eades",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "It’s a two horse race in Poole. A close race between the Lib Dems and Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Defending Poole’s green open spaces",
+      "governance": "",
+      "health": "£8 billion more for our NHS",
+      "immigration": "Proper border controls",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "With the additional growth in population we must continue to defend and enhance our wonderful, natural green spaces for the health and well being of all local residents.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Philip Eades in front of Poole Hospital NHS signage."
+        },
+        {
+          "caption": "Philip Eades outdoor portrait."
+        },
+        {
+          "caption": "Map showing two horse race between Lib Dems and Conservatives in Poole."
+        }
+      ]
+    },
+    "additionalNotes": "Philip Eades is highlighted as the candidate to back to keep the Conservatives out."
+  }
+}
+```

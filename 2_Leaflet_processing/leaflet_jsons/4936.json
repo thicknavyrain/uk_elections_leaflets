@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ed Vaizey",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "3 POSITIVE REASONS TO VOTE FOR ED VAIZEY",
+        "content": ""
+      },
+      {
+        "title": "",
+        "content": "This election is the chance to give our country the change it needs. The choice is clear: A fresh start with the Conservatives, or five more years of Gordon Brown. Every vote will count."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "The NHS",
+        "policyDescription": "Ed Vaizey is committed to fighting for our local NHS, GPs, community hospitals and district nurses as services which are vital to all of us."
+      },
+      {
+        "policyTitle": "Too Much Development",
+        "policyDescription": "Conservatives will get rid of top-down plans from Whitehall leading to housing being dumped on local areas. Will give people say in how, where, and when local development happens, dealing with local problems for local people."
+      },
+      {
+        "policyTitle": "Dealing with local problems for local people",
+        "policyDescription": "Ed Vaizey is known for getting things done when people need help. The key is having people with the problems to respond quickly and take the right action."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ed Vaizey",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Ed Vaizey is committed to fighting for our local NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Conservatives will get rid of top-down plans from Whitehall leading to housing being dumped on local areas. Will give people say in how, where, and when local development happens, dealing with local problems for local people.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "FREEPOST Oxfordshire Conservatives",
+      "phone": "0845 230 4206",
+      "email": "ed@votevaizey.com",
+      "website": "www.votevaizey.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "\"We have bold plans to change our country for the better. Some of these plans won't cost more money but will require real energy\"",
+        "source": "David Cameron",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ed Vaizey and his team called to see you today"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

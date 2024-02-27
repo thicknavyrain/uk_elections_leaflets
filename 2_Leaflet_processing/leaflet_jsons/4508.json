@@ -1,0 +1,102 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Richard Burt",
+    "constituency": "West Worcestershire",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The choice is clear, it's a two horse race here!",
+        "content": "West Worcestershire should not be taken for granted by the Conservatives"
+      },
+      {
+        "title": "Local champion Richard Burt...",
+        "content": "Three reasons to back Richard Burt: Fighting to keep and improve our NHS services in Worcestershire. Leading the campaign to protect our towns and villages against Tory plans for mass housing development. Helping flood victims and making a strong case for extra money for flood defences."
+      },
+      {
+        "title": "The out of touch Conservative...",
+        "content": "Three reasons not to vote for the Conservative candidate: Has publicly supported bankers' bonuses and less financial regulation. Backs Conservative plans to give tax cuts to millionaires. Offered no hope of extra money for flood defences under a Conservative government."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Services",
+        "policyDescription": "Fighting to keep and improve NHS services in Worcestershire."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Leading the campaign to protect towns and villages against Tory plans for mass housing development."
+      },
+      {
+        "policyTitle": "Flood Defences",
+        "policyDescription": "Helping flood victims and making a strong case for extra money for flood defences."
+      }
+    ],
+    "mentions": {
+      "candidate": "Richard Burt",
+      "otherPartyLeaderCandidate": "Conservative candidate",
+      "partyLeader": "",
+      "tacticalSituation": "Labour can't win in West Worcestershire"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Has publicly supported bankers' bonuses and less financial regulation.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Fighting to keep and improve our NHS services in Worcestershire.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Leading the campaign to protect our towns and villages against Tory plans for mass housing development.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        
+      }
+    ],
+    "quotes": [
+      {
+        
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "The choice is clear, it's a two horse race here!"
+        },
+        {
+          "caption": "Local champion Richard Burt..."
+        },
+        {
+          "caption": "The out of touch Conservative..."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

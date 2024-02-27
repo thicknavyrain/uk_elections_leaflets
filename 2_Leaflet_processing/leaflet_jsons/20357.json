@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Adrianne Smyth",
+    "constituency": "North East Bedfordshire",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Standing Up for Real Change",
+        "content": "I’m a businesswoman, not a career politician and I’m horrified at the state of our country under this Government. Hospitals compete for funding whilst Foreign Aid is increased and squandered round the world. Schools, housing, social care, roads, transport systems all strain at the seams with pressure from uncontrolled EU immigration while the EU takes over £55 million a day from us! UKIP is the only party which believes in Britain. Britain needs UKIP to restore our independence and traditional values."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Adrianne Smyth",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Uncontrolled EU immigration while the EU takes over £55 million a day from us",
+      "economy": "Horrified at the state of our country under this Government. Hospitals compete for funding whilst Foreign Aid is increased and squandered round the world.",
+      "education": "Schools... all strain at the seams with pressure from uncontrolled EU immigration",
+      "environment": "",
+      "governance": "Horrified at the state of our country under this Government.",
+      "health": "Hospitals compete for funding...",
+      "immigration": "Pressure from uncontrolled EU immigration",
+      "socialWelfare": "Housing, social care... all strain at the seams with pressure from uncontrolled EU immigration",
+      "housing": [
+        {
+          "content": "Housing... all strain at the seams with pressure from uncontrolled EU immigration",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I’m a businesswoman, not a career politician...",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "07857 804997",
+      "email": "adrianne.smyth@ukip.org",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Adrianne Smyth's portrait"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

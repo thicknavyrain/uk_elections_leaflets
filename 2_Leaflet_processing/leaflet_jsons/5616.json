@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lucy Powell",
+    "constituency": "South Manchester",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday May 6th",
+    "messages": [
+      {
+        "title": "Your local choice for South Manchester",
+        "content": "I'm Lucy Powell, Labour's candidate for the General Election. I've got deep roots in this area; my grandad was one of the founders of the Chorlton Irish Club, my mum was a local headteacher, and my dad worked helping local young people."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fight for our local services",
+        "policyDescription": "Pledges to fight for local services."
+      },
+      {
+        "policyTitle": "Reform of parliament",
+        "policyDescription": "Will vote for reform of parliament."
+      },
+      {
+        "policyTitle": "Stand on the issues that matter",
+        "policyDescription": "Determines to take a stand on the issues that matter."
+      }
+    ],
+    "mentions": {
+      "candidate": "Lucy Powell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm standing because this is the place I care about, because I think we need new faces in Westminster, and because I don't want my children to grow up under the Tories like I did in the 1980s. I'm not afraid to stand up and be counted on the issues I'm passionate about.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lucy Powell pictured in front of houses."
+        }
+      ]
+    },
+    "additionalNotes": "We need a Labour government to keep delivering improvements for our area and to support the many not the few."
+  }
+}
+```

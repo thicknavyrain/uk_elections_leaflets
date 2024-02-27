@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Theresa May",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "STRONG AND STABLE LEADERSHIP IN THE NATIONAL INTEREST",
+        "content": "We need a General Election now to secure the strong and stable leadership the country needs to see us through Brexit and beyond."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Theresa May",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "A General Election will strengthen our negotiating hand in Europe. It is the only way to ensure we have strong leadership, certainty, and stability to get the best possible deal for the UK as we leave the European Union but beyond it too. We have a one-off chance to hold an election while the European Union agrees its negotiating position and before the detailed talks begin. This decision cannot be delayed and needs to happen now. If we don't have an election now, we will have uncertainty and instability because negotiations with the European Union will reach their most difficult stage in the run-up to the next General Election.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Theresa May Prime Minister"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

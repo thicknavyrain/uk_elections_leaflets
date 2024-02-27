@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chuka Umunna",
+    "constituency": "Lambeth",
+    "politicalParty": "Labour party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Lambeth's getting better",
+        "content": "Your local Parliamentary Candidate: the next generation born and bred in the constituency."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Against the Iraq war",
+        "policyDescription": "Against the Iraq war, for proportional representation and a high pay commission."
+      }
+    ],
+    "mentions": {
+      "candidate": "Chuka Umunna is the only parliamentary candidate standing who grew up, went to school and still lives in the constituency.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "If the Labour party has an optimistic face, it is his.",
+    "politicalExperience": [
+      {
+        "role": "has campaigned to better services",
+        "duration": "",
+        "achievements": "bringing the community of the housing estates in Streatham together, more youth activities and to bring the tube to Streatham amongst many other things"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Polly Toynbee",
+        "endorsement": "If the Labour party has an optimistic face, it is his."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Chuka would be an excellent representative for us and a great role model for our young.",
+        "source": "Local person",
+        "date": ""
+      },
+      {
+        "text": "I like the fact that Chuka is the only person standing who grew up here.",
+        "source": "Local person",
+        "date": ""
+      },
+      {
+        "text": "I'm excited to have an MP who I can talk to, who will use their community.",
+        "source": "Local person",
+        "date": ""
+      },
+      {
+        "text": "Chuka is a breath of fresh air, and is prepared to speak his own mind and depart from the party line.",
+        "source": "Local person",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Chuka Umunna image at a local event with a quote from Polly Toynbee."
+        }
+      ]
+    },
+    "additionalNotes": "He is not a career politician, having practiced as a solicitor representing hard working people for over half a decade. Described as 'the next generation of Labour politicians, Chuka Umunna has been called a '21st century politician' by former MP Keith Hill."
+  }
+}
+```

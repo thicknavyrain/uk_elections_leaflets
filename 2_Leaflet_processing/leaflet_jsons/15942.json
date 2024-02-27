@@ -1,0 +1,115 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "UKIP says YES to",
+        "content": "An NHS free at the point of delivery, No tax on the minimum wage, Housing priority for local people, Affordable energy"
+      },
+      {
+        "title": "UKIP says NO to",
+        "content": "Unlimited immigration, £55m a day membership fees to the EU, £12 billion a year in foreign aid, The 'bedroom tax' and the 'mansion tax'"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "An NHS free at the point of delivery with £3 billion extra to the NHS to keep it free."
+      },
+      {
+        "policyTitle": "Minimum wage",
+        "policyDescription": "No tax on the minimum wage to maximise the take home wages of the poorest workers."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Housing priority for local people on existing sites not on green fields, to help local youngsters get on the ladder."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Invest in affordable energy from shale gas and nuclear not huge, over-subsidised wind and solar farms."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Stop unlimited immigration which leads to lower wages, pressure on health, housing and benefits, and fewer jobs for our children."
+      },
+      {
+        "policyTitle": "EU Membership",
+        "policyDescription": "Oppose the £55 million a day membership fee to the EU."
+      },
+      {
+        "policyTitle": "Foreign Aid",
+        "policyDescription": "Cut the £12 billion a year in foreign aid that is spent on countries with their own space programmes."
+      },
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Oppose the 'bedroom tax' and 'mansion tax'. Simplify tax and welfare systems."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "An NHS free at the point of delivery with £3 billion extra to the NHS to keep it free.",
+      "immigration": "Stop unlimited immigration which leads to lower wages, pressure on health, housing and benefits, and fewer jobs for our children.",
+      "socialWelfare": "Oppose the 'bedroom tax' and 'mansion tax'. Simplify tax and welfare systems.",
+      "housing": [
+        {
+          "content": "Housing priority for local people on existing sites not on green fields, to help local youngsters get on the ladder.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign leaflet page with UKIP policies and statements."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

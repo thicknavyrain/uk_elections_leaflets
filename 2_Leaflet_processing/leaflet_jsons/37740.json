@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ben Macpherson",
+    "constituency": "Edinburgh Northern and Leith",
+    "politicalParty": "SNP",
+    "electionDate": "Thursday 5 May",
+    "messages": [
+      {
+        "title": "",
+        "content": "It's who is best to govern Scotland, resist Tory austerity and use new powers to make a meaningful difference. Under the leadership of Nicola Sturgeon, the SNP's record in government is strong and we are ready to govern again."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Social Justice",
+        "policyDescription": "Strongly stand up for social justice and against the Tory austerity agenda"
+      },
+      {
+        "policyTitle": "Community Policing",
+        "policyDescription": "Support community policing and work with local officers and the community to keep Edinburgh Northern and Leith safer"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Help to deliver more affordable, energy-efficient, good quality housing in our area"
+      },
+      {
+        "policyTitle": "Community Empowerment",
+        "policyDescription": "Support community empowerment and appropriate regeneration - and represent concerns about any inappropriate development proposals"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Support local schools, youth groups and community initiatives"
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Stand up for Scotland's NHS and work to help make it even better for patients and staff"
+      },
+      {
+        "policyTitle": "Small Businesses and Creative Industries",
+        "policyDescription": "Champion and support local small businesses and the creative industries in Edinburgh Northern and Leith"
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Work hard to create a greener Scotland and realise even more of our renewable energy potential"
+      }
+    ],
+    "mentions": {
+      "candidate": "Ben Macpherson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nicola Sturgeon",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Support local schools, youth groups and community initiatives",
+      "environment": "Work hard to create a greener Scotland and realise even more of our renewable energy potential",
+      "governance": "Under the leadership of Nicola Sturgeon, the SNP's record in government is strong and we are ready to govern again.",
+      "health": "Stand up for Scotland's NHS and work to help make it even better for patients and staff",
+      "immigration": "",
+      "socialWelfare": "Strongly stand up for social justice and against the Tory austerity agenda",
+      "housing": [
+        {
+          "content": "Help to deliver more affordable, energy-efficient, good quality housing in our area",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I believe I have the ability and experience to be a strong, new voice for all of us who live here in Edinburgh Northern and Leith.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.snp.org/record",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ben Macpherson standing in front of a residential area."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

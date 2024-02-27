@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lyn Brown",
+    "constituency": "West Ham",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Fighting for a fairer deal in West Ham",
+        "content": "May's General Election is the most important in decades. This Tory-led Government has decimated Newham Council's budget, the NHS is at breaking point and people are on average £1,600 a year worse off. We live in a country deeply divided between the 'Haves' and the 'Have-Nots'..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Increase the Minimum Wage to £8 an hour and provide 25 hours of free childcare for working parents."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Campaign to save NHS services at Newham General Hospital and improve access to GPs in West Ham."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Scrap the Bedroom Tax, ban rip off letting agent fees, and stop excessive rent rises."
+      },
+      {
+        "policyTitle": "Labour's Better Plan",
+        "policyDescription": "Labour’s plan puts working families first and saves our NHS by providing a £2.5 billion-a-year Time to Care Fund which will pay for 20,000 more nurses and 8,000 more GPs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Lyn Brown",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "This Tory-led Government has... people are on average £1,600 a year worse off.",
+      "education": "",
+      "environment": "",
+      "governance": "This Tory-led Government has decimated Newham Council's budget...",
+      "health": "NHS is at breaking point...",
+      "immigration": "",
+      "socialWelfare": "Labour’s plan puts working families first...",
+      "housing": [
+        {
+          "content": "Scrap the Bedroom Tax, ban rip off letting agent fees, and stop excessive rent rises.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Lyn Brown, 306 High Street, Stratford, London, E15 1AJ",
+      "phone": "020 8470 3463",
+      "email": "",
+      "website": "www.lynbrown.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Lyn Brown, Labour candidate for West Ham."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

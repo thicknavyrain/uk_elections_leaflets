@@ -1,0 +1,79 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Anne Snelgrove",
+	"constituency": "South Swindon",
+	"politicalParty": "Labour Party",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Working For You",
+    	"content": "Anne Snelgrove discusses the challenges residents face with parking, the new Holy Cross School, improving Swindon's public transportation, traffic station design issues, and Council's agreement to support Labour's plan for reducing transport disruption through a joint road works scheme."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "Build 200 new affordable homes to rent or buy. Tackle the problem of social housing where the sold homes are not replaced."
+  	},
+	{
+      	"policyTitle": "Education",
+      	"policyDescription": "Ensuring the new Holy Cross School will participate in a public meeting to address parental concerns."
+    	},
+	{
+	"policyTitle": "Transportation",
+	"policyDescription": "Identify and address Swindon's public transportation issues as the 4th worst major town for bus service/cycle way provision. Support Labour's plan to reduce transport disruption through a collaborative road works scheme."
+	}
+	],
+	"mentions": {
+  	"candidate": "Anne Snelgrove",
+  	"otherPartyLeaderCandidate": "The Conservative council",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Increase the National Minimum Wage to £8 an hour by the next election. Ensure that those working hard are rewarded for doing so.",
+  	"education": "The new Holy Cross School is due to open in September. There will be parental participation in a public meeting to address concerns.",
+  	"environment": "Promotes the infrastructure improvements on Commercial Road and addresses the public transportation issues.",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "The Labour plan is to build 200 new affordable homes to rent or buy, so that somewhere you or your children can call home. Anne Snelgrove is concerned about the problem of social housing where the sold homes are not replaced.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "I am very concerned that too many people in Swindon are on low wages, making it very difficult to make ends meet despite working hard.",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "labour.anne@gmail.com",
+  	"website": "www.annesnelgrove.com",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Anne Snelgrove with Labour supporters."
+    	},
+	{
+      	"caption": "Councillor Julie Wright in the Street Life section."
+    	}
+  	]
+	},
+	"additionalNotes": "The issues discussed in this leaflet are primarily focused on local concerns around housing, education, transportation, and the local economy."
+  }
+}
+```

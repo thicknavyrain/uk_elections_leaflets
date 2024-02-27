@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Purna Sen",
+    "constituency": "Brighton Pavilion",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 7th May",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Purna Sen",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Labour has won every election in the city since 2012, beating both the Green Party and Tories"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "179 Preston Road, BN1 6AG",
+      "phone": "01273 331133",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Purna Sen asking for votes and highlighting Labour's winning streak in the city since 2012."
+        }
+      ]
+    },
+    "additionalNotes": "Polls are open from 7am to 10pm. You don't need your polling card to vote."
+  }
+}
+```

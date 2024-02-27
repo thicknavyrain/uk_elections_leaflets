@@ -1,0 +1,132 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The Lib Dem fairer tax plan",
+        "content": "The Liberal Democrats are promising to remove those earning £10,000 or less from the tax system."
+      },
+      {
+        "title": "More gloom with Labour and the Conservatives",
+        "content": "The Conservatives and Labour are both planning to raise VAT as high as 20 per cent"
+      },
+      {
+        "title": "It's a two-horse race!",
+        "content": "Labour can't win in many parts of Britain. The choice is between a Liberal Democrat MP or a Conservative MP. Only the Liberal Democrats will help real change and fairness."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Raise tax thresholds to £10,000, benefiting four million people and removing the poorest workers out of the tax system."
+      },
+      {
+        "policyTitle": "Pensioners",
+        "policyDescription": "Promise £100 back in the pockets of pensioners."
+      },
+      {
+        "policyTitle": "Fair Share Taxation",
+        "policyDescription": "Wealthy will pay their fair share - introduce a 'mansion tax' on houses worth over £2 million and close tax loopholes exploited by the very rich."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Labour can't win in many parts of Britain. The choice is between a Liberal Democrat MP or a Conservative MP."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Raise tax thresholds to benefit four million people",
+      "education": "",
+      "environment": "Close tax loopholes exploited by the very rich and make polluters pay.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Promise £100 back in the pockets of pensioners.",
+      "housing": [
+        {
+          "content": "Introduce a 'mansion tax' on houses worth over £2 million",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Fairer taxes that will help our country recover from the recession",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Cowley Street, London, SW1P 3NB",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Clegg promises fairer tax system",
+        "source": "Press Association, Feb 2010"
+      },
+      {
+        "text": "The proposal to take the poorest workers out of the tax system is especially worthwhile",
+        "source": "Evening Standard, Jan 2010"
+      },
+      {
+        "text": "The party is also pledging to raise tax thresholds to £10,000 a year, taking four million people out of income tax.",
+        "source": "BBC News, Nov 2009"
+      },
+      {
+        "text": "Already hiked taxes for lowest paid workers and pensioners",
+        "source": "More gloom with Labour and the Conservatives section"
+      },
+      {
+        "text": "Tax cuts just for millionaires with the Conservatives",
+        "source": "More gloom with Labour and the Conservatives section"
+      },
+      {
+        "text": "The Conservatives and Labour are both planning to raise VAT as high as 20 per cent",
+        "source": "Daily Telegraph, Feb 2010"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Fairer taxes that will help our country recover from the recession - Nick Clegg"
+        },
+        {
+          "caption": "The Lib Dem fairer tax plan"
+        },
+        {
+          "caption": "More gloom with Labour and the Conservatives"
+        },
+        {
+          "caption": "It's a two-horse race!"
+        },
+        {
+          "caption": "Who will deliver the change we need on tax?"
+        }
+      ]
+    },
+    "additionalNotes": "If you can earn less than £10,000 a year, £100 back in the pockets of pensioners, £700 back in the pocket of everyone who earns over £10,000, £1,400 back in the pockets of a couple each earning over £10,000."
+  }
+}
+```

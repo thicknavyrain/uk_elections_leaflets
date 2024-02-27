@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Kent",
+    "constituency": "Thurrock",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "Thurrock Labour was in your local area today",
+        "content": "John Kent's pledges to Thurrock"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Fight Jackie Doyle-Price's disastrous Thames Crossing which will destroy our greenbelt. Opposes a second Thames Crossing in Thurrock."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Stand up for the vital NHS services that residents rely on across Thurrock. With Orsett hospital threatened with closure, Basildon hospital to be downgraded and 37 too few GPs its time Thurrock's NHS had a proper champion."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Protect our children's education from the Tories £11 million cuts to Thurrock schools."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Tackle the housing crisis by working to deliver affordable homes for Thurrock residents. Will build upon his record as leader of the local council to ensure that families living in Thurrock don't see their children driven elsewhere by rising prices."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Deliver jobs and opportunities for local people. His record as leader of the council shows he has the ability to be a strong local voice bringing investment and jobs into our area."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Kent",
+      "otherPartyLeaderCandidate": "Jackie Doyle-Price",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Deliver jobs and opportunities for local people.",
+      "education": "Protect our children's education from the Tories £11 million cuts to Thurrock schools.",
+      "environment": "Fight Jackie Doyle-Price's disastrous Thames Crossing which will destroy our greenbelt.",
+      "governance": "",
+      "health": "Stand up for the vital NHS services that residents rely on across Thurrock.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Tackle the housing crisis by working to deliver affordable homes for Thurrock residents.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Leader of the local council",
+        "duration": "",
+        "achievements": "Deliver jobs and opportunities for local people."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

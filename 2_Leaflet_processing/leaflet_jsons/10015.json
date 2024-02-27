@@ -1,0 +1,73 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Chris Coleman",
+    "constituency": "Gloucestershire",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A two horse race",
+        "content": "Recent results in our area have shown that the election this time could be too close to call between Chris Coleman and the Conservatives."
+      },
+      {
+        "title": "3 things to remember",
+        "content": "Chris Coleman and the Liberal Democrats are working for real change - change that works for you."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Chris Coleman",
+      "otherPartyLeaderCandidate": "the Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": "Labour can’t win here - only Chris Coleman can beat the Tories."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour have let this area down. But the Tories only promise cuts and tax breaks for the rich.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Chris Coleman was born and brought up in Gloucestershire. He continues to live here and works locally as a solicitor. He is committed to standing up for our area in Parliament.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.chriscoleman.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "By-elections held locally in 2009, the LibDems finished ahead of the Conservatives. Labour finished last each time.",
+        "source": "Local by-elections",
+        "date": "2009"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Chris Coleman can win here"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

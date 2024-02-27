@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Brian Patton",
+    "constituency": "Coventry South",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Brian Patton is asking for your support: Would fight for our Greenbelt. Would challenge self interest in Politics. Is the Local man who would work for you."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Greenbelt Protection",
+        "policyDescription": "Would fight for our Greenbelt."
+      },
+      {
+        "policyTitle": "Political Integrity",
+        "policyDescription": "Would challenge self interest in Politics."
+      }
+    ],
+    "mentions": {
+      "candidate": "Brian Patton has always lived in Coventry and was actually brought up in the Coventry South constituency.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg, Brian Patton and the Liberal Democrats",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Would fight for our Greenbelt.",
+      "governance": "Would challenge self interest in Politics.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Would fight for our Greenbelt.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Brian Patton has always lived in Coventry and was actually brought up in the Coventry South constituency.",
+    "politicalExperience": [
+      {
+        "role": "Councillor for 11 years representing the Henley Ward",
+        "duration": "11 years",
+        "achievements": "Brian has fought passionately for issues that it is hard to get the voice heard for, such as successfully challenging various waste land and airfield couple who were told they were not eligible enough to claim for Meals on Wheels. Brian already holds regular surgeries and would like to assure those living in Coventry South that if elected he would be seen regularly at surgeries throughout the constituency."
+      }
+    ],
+    "contactInformation": {
+      "address": "12 Stonefield Close Walsgrave Coventry CV2 2PZ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A photo of Brian Patton with the text 'Winning for Coventry South'"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet does not specify an election date, and there is limited information on detailed policy positions. The policies mentioned are broad statements."
+  }
+}
+```

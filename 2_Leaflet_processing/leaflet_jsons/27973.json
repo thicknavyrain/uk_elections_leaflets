@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "STABILITY FOR BREXIT AND BEYOND",
+        "content": "Prime Minister Theresa May asks country for support to strengthen hand in Brexit negotiations and to lock in Britain’s economic progress."
+      },
+      {
+        "title": "STRONG AND STABLE LEADERSHIP",
+        "content": "Strong and stable leadership with Theresa May."
+      },
+      {
+        "title": "CLEAR VOTE CHOICE FOR BRITISH PEOPLE",
+        "content": ""
+      },
+      {
+        "title": "3 KEY REASONS WHY A GENERAL ELECTION IS NEEDED NOW.",
+        "content": "1. One-off chance now while EU Leaders agree stance, 2. We need to show unity as we negotiate with start, but Westminster is divided, 3. To lock in our economic progress so it can benefit the British people for the future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Securing the best possible deal from Brexit is the most important task the Government faces."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Securing the best possible deal from Brexit is the most important task the Government faces.",
+      "economy": "Growing economy to secure our future, well-paid jobs, more affordable housing, a good school place for every child; a strong economy paying for a strong NHS.",
+      "education": "A good school place for every child.",
+      "environment": "",
+      "governance": "",
+      "health": "A strong NHS.",
+      "immigration": "Take back control of our borders, our laws and our money.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "More affordable housing",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Prime Minister",
+        "duration": "",
+        "achievements": "Asking for support to strengthen hand in Brexit negotiations and to lock in Britain’s economic progress."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "conservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Theresa May with the text 'STABILITY FOR BREXIT AND BEYOND'"
+        },
+        {
+          "caption": "Comparative image showing 'STRONG, STABLE LEADERSHIP FOR THE UNITED KINGDOM' juxtaposed with 'A COALITION OF CHAOS WITH JEREMY CORBYN'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Mike Pringle",
+	"constituency": "",
+	"politicalParty": "Scottish Liberal Democrats",
+	"electionDate": "May 5th 2011",
+	"messages": [
+  	{
+    	"title": "Fairer Votes Referendum",
+    	"content": "All MPs working harder, a vote that counts, tackling the 'Jobs for Life' culture at Westminster."
+  	},
+  	{
+    	"title": "",
+    	"content": "On your lilac colored ballot paper re-elect Mike Pringle as a hard working local MSP."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Fairer Votes Referendum",
+    	"policyDescription": "Support for a change in the voting system to make all MPs work harder and to tackle the 'Jobs for Life' culture at Westminster."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Mike Pringle",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "Support for changing politics by making all MPs work harder.",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "Local MSP",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "662 1513",
+  	"email": "",
+  	"website": "www.edinburghsouthlibdems.org",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Mike Pringle beside a building"
+    	}
+  	]
+	},
+	"additionalNotes": "For a lift to the polls call 662 1513"
+  }
+}
+```

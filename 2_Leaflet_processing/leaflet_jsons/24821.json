@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rachel Collinson",
+    "constituency": "West Ham",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7th 2015",
+    "messages": [
+      {
+        "title": "Vote for an MP who will make a difference!",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "The Green Party has done the sums and come up with a plan that will bring empty buildings back into use, bring rent down to affordable levels, and allow people to keep their homes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rachel Collinson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "There is no new low-cost affordable housing in Newham, yet we have hundreds of properties standing empty. The Green Party has done the sums and come up with a plan that will bring empty buildings back into use, bring rent down to affordable levels, and allow people to keep their homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I want to make that happen for the people of East London.",
+    "politicalExperience": [
+      {
+        "role": "Newham's Local Green Assembly member",
+        "duration": "",
+        "achievements": "Since our first MP was elected in Brighton, and our two London Assembly members were elected in 2000, the Green Party have been achieving great things. Campaigns and policies really make a difference to people's lives."
+      }
+    ],
+    "contactInformation": {
+      "address": "Development House, 56-64 Leonard St, EC2A 4LT",
+      "phone": "",
+      "email": "Rachel.Collinson@greenparty.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Rachel Collinson, Green Party Candidate for West Ham"
+        }
+      ]
+    },
+    "additionalNotes": "Data from voteforpolicies.org.uk - as of 1st April 2015. Promoted by Caroline Toms on behalf of Estelle Anderson and Rachel Collinson, all at Development House, 56-64 Leonard St, EC2A 4LT. Printed on 100% recycled paper."
+  }
+}
+```

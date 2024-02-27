@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Maggie Throup",
+    "constituency": "Erewash",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12th December",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Maggie Throup",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Re-Elect Maggie Throup Your local champion for Erewash"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

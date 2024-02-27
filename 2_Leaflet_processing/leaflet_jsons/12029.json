@@ -1,0 +1,103 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Haringey",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Beneath the surface, do you know what the Lib Dems promise?",
+        "content": "Now Local Liberal Democrats refuse to rule out serving in a Tory Government."
+      },
+      {
+        "title": "LIB DEMS IN COALITION WITH TORIES?",
+        "content": "It's already happening in many councils across the country. The Lib Dems gang up with the Tories to squeeze power, letting down the people who put their trust in them. Look at what these Lib Dem-Tory Coalitions have done—"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local Income Tax",
+        "policyDescription": "Will cost the average household in Haringey an EXTRA £1234.96."
+      },
+      {
+        "policyTitle": "Savage cuts to the NHS",
+        "policyDescription": "Halving the size of the Department for Health."
+      },
+      {
+        "policyTitle": "Tax Credits",
+        "policyDescription": "Cutting £5.8 billion from Child & Working Tax Credits."
+      },
+      {
+        "policyTitle": "Winter Fuel Payments to Pensioners",
+        "policyDescription": "Cut Winter Fuel Payments."
+      },
+      {
+        "policyTitle": "Scrap Child Trust Funds",
+        "policyDescription": "Scrapping funding for a range of measures that help young people."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Cameron",
+      "partyLeader": "Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Savage cuts to the NHS, halving the size of the Department for Health.",
+      "immigration": "",
+      "socialWelfare": "Cutting Child & Working Tax Credits.",
+      "housing": [
+        {
+          "content": "In Haringey, the Lib Dems backed Tory plans to let developers off the hook allowing the sale of desperately needed council housing to private developers and cut funding to homelessness services by over 80%",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images showing policy effects and political figures."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet criticizes the Liberal Democrats for their policies and potential coalition with the Conservative party."
+  }
+}

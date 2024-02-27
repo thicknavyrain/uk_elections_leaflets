@@ -1,0 +1,80 @@
+{
+  "leaflet": {
+    "candidateName": "John Mann",
+    "constituency": "Bassetlaw",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "THE QUESTION IS:",
+        "content": "Who can you rely on to battle for your hospital?"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Supporting local doctors and consultants, mobilising the local population against attempts to close key parts of Bassetlaw Hospital, and campaigning to re-open the children’s ward overnight."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Backing proposals to restrict urban sprawl in Retford and instead have workable cross-party agreements to bring forward proposals for new villages to meet our housing needs."
+      },
+      {
+        "policyTitle": "Local Business",
+        "policyDescription": "Assisting local businesses like Icon Polymer to overcome obstacles and rebuild their factory, thus supporting job creation and enabling opportunities like bringing Marks & Spencer to Retford."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Mann",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "I want every local child to have the opportunity to experience top level sport and I negotiate sponsorship to make that happen.",
+      "environment": "",
+      "governance": "",
+      "health": "I fought a hard campaign with the support of local people to keep the fire station in Retford.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Backing proposals that restrict urban sprawl in Retford and insteaed have workable cross-party agreements to bring forward proposals for new villages to meet our housing needs.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Putting Bassetlaw first has always been my way ahead of party loyalty throughout my political career.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "TwelveYears",
+        "achievements": "Running the only MP's veterans day for twelve years, supporting local businesses, working cross-party, and bringing Bassetlaw Day to Parliament."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07756 059078",
+      "email": "john@mann4bassetlaw.com",
+      "website": "www.mann4bassetlaw.com",
+      "socialMedia": {
+        "facebook": "John Mann for Bassetlaw",
+        "twitter": "Follow my campaign",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Mann supporting local firefighters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

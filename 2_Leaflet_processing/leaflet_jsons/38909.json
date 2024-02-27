@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Laura Gordon",
+    "constituency": "Sheffield Hallam",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A FAIRER BRITAIN",
+        "content": "Britain needs fresh vision and leadership to restore fairness in our country. The Liberal Democrats will build an economy that works for everyone, not just the rich."
+      },
+      {
+        "title": "TACKLE THE CLIMATE EMERGENCY",
+        "content": "The Liberal Democrats will cut the urgent carbon needed to protect our environment, energy and green technology."
+      },
+      {
+        "title": "INVEST IN SCHOOLS AND OUR NHS",
+        "content": "The Liberal Democrats will invest real terms in schools to ensure the future of every child, and in our NHS to guarantee the support it needs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Build an economy that works for everyone, not just the rich."
+      },
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Cut urgent carbon and invest in renewable energy and green technology."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Invest real terms in schools to ensure the future of every child."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Invest in our NHS to guarantee the support it needs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Laura Gordon",
+      "otherPartyLeaderCandidate": "Corbyn's Labour Candidate",
+      "partyLeader": "",
+      "tacticalSituation": "The only way to stop Jeremy Corbyn's Labour Candidate is to vote for the Liberal Democrats."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Build an economy that works for everyone, not just the rich.",
+      "education": "Invest real terms in schools to ensure the future of every child.",
+      "environment": "Cut urgent carbon and invest in renewable energy and green technology.",
+      "governance": "",
+      "health": "Invest in our NHS to guarantee the support it needs.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "You can trust Laura to represent Sheffield Hallam well because she lives here, has campaigned here, and has already started work here as a councillor.",
+    "politicalExperience": [
+      {
+        "role": "Councillor",
+        "duration": "",
+        "achievements": "Started work as a councillor."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.libdems.org.uk/plan",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Laura meeting residents"
+        },
+        {
+          "caption": "Result here at the 2017 General Election"
+        },
+        {
+          "caption": "Laura and her team campaigning"
+        }
+      ]
+    },
+    "additionalNotes": "As the leaflet suggests strategic voting considerations ('The only way to stop Jeremy Corbyn’s Labour Candidate'), this indicates a tactical voting situation in the constituency."
+  }
+}
+```

@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jeff Smith",
+    "constituency": "Manchester",
+    "politicalParty": "Labour",
+    "electionDate": "May",
+    "messages": [
+      {
+        "title": "LABOUR WILL STAND UP FOR MANCHESTER",
+        "content": "Jeff Smith says: The Tory/Lib Dem government have unfairly targeted Manchester for cuts, in order to pay for their failure to get the economy working for ordinary people. Unlike the Liberal Democrats, Labour will stand up for everyone here. Your vote to a Tory government is to vote Labour here in May."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "ECONOMY",
+        "policyDescription": "Abolishing the Bedroom Tax & Jobs Guarantee for the long-term unemployed to stimulate economy."
+      },
+      {
+        "policyTitle": "HEALTH",
+        "policyDescription": "An end to privatisation of NHS England and exploitation of staff and to undo its fragmentation."
+      },
+      {
+        "policyTitle": "EDUCATION",
+        "policyDescription": "25 hours free childcare to help families faced by rising costs."
+      },
+      {
+        "policyTitle": "HOUSING",
+        "policyDescription": "Cap on energy bills until 2017 and action on the cost of rent."
+      },
+      {
+        "policyTitle": "ENVIRONMENT",
+        "policyDescription": "Jobs guarantee for the long-term unemployed to contribute to green industries and tackle climate change."
+      },
+      {
+        "policyTitle": "GOVERNANCE",
+        "policyDescription": "Save millions from the NHS crisis created by the Tories and Lib Dems."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jeff Smith",
+      "otherPartyLeaderCandidate": "Tory/Lib Dem",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Saving from the NHS crisis to improve the economy.",
+      "education": "25 hours free childcare to help families faced by rising costs.",
+      "environment": "Jobs Guarantee for the long-term unemployed to contribute to green industries and tackle climate change.",
+      "governance": "Labour standing up for Manchester, end to NHS privatisation and fragmentation.",
+      "health": "An end to privatisation of NHS England and exploitation of staff, to undo fragmentation.",
+      "immigration": "",
+      "socialWelfare": "Abolishing the Bedroom Tax to support the community.",
+      "housing": [
+        {
+          "content": "Cap on the energy bills until 2017 and action on the cost of rent to address housing issues.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Labour Office, FREEPOST PLUS RSLG-AZUH-XTCT, Jeff Smith, Labour Party, Labour Central, Kings Manor, Newcastle upon Tyne, NE1 6PA",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "LABOUR WILL STAND UP FOR MANCHESTER"
+        }
+      ]
+    },
+    "additionalNotes": "Local Labour Councillors Matt Strong, Sheila Newman, and John Hacking are backing Labour party plans to revive and give more say over high streets as well as campaigning for a dedicated cycleway from Chorlton to the city centre."
+  }
+}
+```

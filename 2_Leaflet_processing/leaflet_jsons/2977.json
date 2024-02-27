@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tony Juniper",
+    "constituency": "Cambridge",
+    "politicalParty": "Green Party",
+    "electionDate": "2010",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Tony Juniper",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "PO Box 703, Cambridge, CB1 0NZ",
+      "phone": "01223 474557",
+      "email": "Tony.Juniper@greenparty.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tony Juniper and the Green Team called the Green Party General Election 2010"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

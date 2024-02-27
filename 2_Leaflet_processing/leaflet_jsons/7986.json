@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Slaughter",
+    "constituency": "Fulham Reach",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Dear Andrew,\n\nI'm writing to you in the midst of a crucial election campaign for the future of Britain."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "The Tories are planning to demolish thousands of homes on council estates in our area. This will destroy communities and force people from their homes."
+      },
+      {
+        "policyTitle": "Equality and fairness",
+        "policyDescription": "Labour is the party of equality, always standing for fairness. We in introduced the Race Relations and Human Rights Acts and the Minimum Wage."
+      },
+      {
+        "policyTitle": "Financial inclusion",
+        "policyDescription": "Everyone will be given a right to a basic bank account, and to encourage saving we will bring back the Saving Gateway, where the Government adds 50p for each £1 saved by working age people on low incomes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andy Slaughter",
+      "otherPartyLeaderCandidate": "The Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The Tories are planning to demolish thousands of homes on council estates in our area. This will destroy communities and force people from their homes.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have spent my whole life in Hammersmith, and 25 years as a councillor and MP here. Why? Because service over self is what I believe in.",
+    "politicalExperience": [
+      {
+        "role": "Councillor and MP for Hammersmith",
+        "duration": "25 years",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "FREPOST LON 16192\n28 Greyhound Road\nLondon W6 8NX",
+      "phone": "020 7610 1950",
+      "email": "andy@andyslaughter.com",
+      "website": "www.andyslaughter.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Labour leaflet featuring candidate Andy Slaughter."
+        }
+      ]
+    },
+    "additionalNotes": "PS - Hammersmith is a tight constituency. Please don't split the anti-Tory vote. Help re-elect Andy. Remember to use your second vote to back the Labour Council candidates as well as me."
+  }
+}
+```

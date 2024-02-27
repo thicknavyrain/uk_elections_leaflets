@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Peter Fortune",
+    "constituency": "East Lewisham",
+    "politicalParty": "Conservatives",
+    "electionDate": "Winter 2014/15",
+    "messages": [
+      {
+        "title": "CANDIDATE URGES LABOUR TO CLEAN UP OUR STREETS",
+        "content": "Peter Fortune is disappointed residents are complaining about the cleanliness of the Borough's streets."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Promised to improve local transport and lobbied for Catford Bridge Tavern Tube Station."
+      },
+      {
+        "policyTitle": "Community",
+        "policyDescription": "Peter campaigned against Lewisham East Labour's decision to change community use of Catford Bridge Tavern and promises to re-open it after local protest."
+      },
+      {
+        "policyTitle": "CLEAN UP",
+        "policyDescription": "Urges Labour to take action on street cleanliness and maintenance"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Expresses outrage at starter homes being sold in Hong Kong and not in Lewisham."
+      }
+    ],
+    "mentions": {
+      "candidate": "Local candidate Peter Fortune",
+      "otherPartyLeaderCandidate": "Lewisham East Labour",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Complains about Labour's wasteful spending and taxes spent poorly; promises to manage taxpayers' money responsibly.",
+      "education": "Raised concerns regarding lack of school places and inadequate housing impacting families in Lewisham Homes.",
+      "environment": "Urges Labour to clean up streets; improve the rubbish collections and dog fouling.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Expresses outrage at Lewisham homes for selling Earthquake houses to foreigners, wants starter homes to be available to community of Lewisham.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "77 Dartmouth Road, London, SE23 3HT",
+      "phone": "",
+      "email": "fortune4lewisham@tory-email.co.uk",
+      "website": "fortune4lewisham.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@PeterFortunelewisham",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Candidate outside the Catford Bridge Tavern"
+        },
+        {
+          "caption": "Candidate with community members"
+        },
+        {
+          "caption": "Rubbish accumulated on streets"
+        },
+        {
+          "caption": "26 Storey Tower Block marketed in Hong Kong"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "UKIP will repeal the Climate Change Act 2008 which costs the economy £18bn a year."
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "UKIP will scrap HS2."
+      },
+      {
+        "policyTitle": "Housing and Planning",
+        "policyDescription": "UKIP will protect the Green Belt. Planning rules in the NPPF will be changed to make it easier to build on brownfield sites."
+      },
+      {
+        "policyTitle": "Controlling and Managing our Borders",
+        "policyDescription": "UKIP recognises the benefits of limited, controlled immigration."
+      },
+      {
+        "policyTitle": "Foreign Aid",
+        "policyDescription": "UKIP will target foreign aid at healthcare initiatives, inoculations against preventable diseases, and clean water programmes."
+      },
+      {
+        "policyTitle": "Agriculture and Fishing",
+        "policyDescription": "By leaving the EU, the UK will leave the Common Agricultural Policy. Outside the EU UKIP will institute a British Single Farm Payment for farms."
+      },
+      {
+        "policyTitle": "Welfare and Childcare",
+        "policyDescription": "UKIP opposes the bedroom tax because it is unfair to people who are unable to downsize."
+      },
+      {
+        "policyTitle": "Democracy and the Constitution",
+        "policyDescription": "UKIP will introduce votes of no confidence on MPs from devolved nations voting on English-only issues."
+      },
+      {
+        "policyTitle": "Law and Order",
+        "policyDescription": "UKIP will impose minimum custodial sentences for carrying a knife."
+      },
+      {
+        "policyTitle": "Employment and Small Businesses",
+        "policyDescription": "UKIP will abolish the Agency Workers Directive."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "By leaving the EU, the UK will leave the Common Agricultural Policy and the Common Fisheries Policy.",
+      "economy": "UKIP will repeal the Climate Change Act 2008 which costs the economy £18bn a year.",
+      "education": "",
+      "environment": "UKIP will repeal the Climate Change Act 2008. UKIP opposes green taxes and charges.",
+      "governance": "UKIP will introduce the Citizens' Initiative to repeal legislation.",
+      "health": "UKIP will commit to spending £200m to end hospital and car parking charges across England. UKIP will target foreign aid at healthcare initiatives.",
+      "immigration": "UKIP recognises the benefits of limited, controlled immigration.",
+      "socialWelfare": "UKIP opposes the bedroom tax because it is unfair to people who are unable to downsize.",
+      "housing": [
+        {
+          "content":"UKIP will protect the Green Belt. Planning rules in the NPPF will be changed to make it easier to build on brownfield sites.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

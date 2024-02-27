@@ -1,0 +1,129 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "THE CHOICE ON THURSDAY 8th JUNE:",
+        "content": "Lib Dem MPs who will CHAMPION THEIR COMMUNITIES or CONSERVATIVE MPs WHO WON'T STOP THERESA MAY'S NHS AND SCHOOL CUTS... EVERYONE KNOWS LABOUR CAN'T WIN"
+      },
+      {
+        "title": "THERESA MAY'S HEARTLESS CUTS",
+        "content": "LEAVE NHS IN... CRISIS"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Lib Dem MPs will fight to protect the NHS services we all rely on."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Lib Dem MPs will make sure our schools have the support they need. "
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Conservative MPs who will put Theresa May's uncaring cuts first.",
+      "partyLeader": "",
+      "tacticalSituation": "EVERYONE KNOWS LABOUR CAN'T WIN. VOTE LIB DEM TO GET COMMUNITY CHAMPIONS."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "The Liberal Democrats have pledged to invest 6.9bn in schools and colleges, reversing government cuts.",
+      "environment": "",
+      "governance": "",
+      "health": "Lib Dem MPs will fight to protect the NHS services we all rely on. MORE CONSERVATIVE MPS WON'T STOP THERESA MAY'S NHS AND SCHOOL CUTS... The Liberal Democrats have pledged to increase Income Tax by a penny for every earner to fund a 6bn-a-year cash injection for the NHS and social care.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "NHS cuts blamed for 30,000 deaths in new study.",
+        "source": "The Independent, 26 Feb 2017",
+        "date": "2017-02-26"
+      },
+      {
+        "text": "Schools face the worst funding cuts in 20 years.",
+        "source": "The Mirror, 17 Mar 2017",
+        "date": "2017-03-17"
+      },
+      {
+        "text": "The Lib Dems have unveiled plans to invest 6.9bn in schools and colleges, reversing government cuts.",
+        "source": "Huffington Post, 16 May 2017",
+        "date": "2017-05-16"
+      },
+      {
+        "text": "There is no realistic chance of us winning",
+        "source": "Labour MP Alan Johnson, 22 April 2017",
+        "date": "2017-04-22"
+      },
+      {
+        "text": "We cannot fight and win with Jeremy as our leader.",
+        "source": "Labour MP Jack Dromey",
+        "date": ""
+      },
+      {
+        "text": "Tory cuts have left NHS on the brink of collapse says shocking report.",
+        "source": "The Mirror, 13 Oct 2016",
+        "date": "2016-10-13"
+      },
+      {
+        "text": "NHS protest: Tens of thousands march against 'hospital cuts'.",
+        "source": "BBC News, 4 Mar 2017",
+        "date": "2017-03-04"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lib Dem MP candidates photo montage with community backgrounds."
+        },
+        {
+          "caption": "Photo of Theresa May with NHS and school cuts references."
+        },
+        {
+          "caption": "Photo montage emphasizing the NHS crisis with healthcare workers."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

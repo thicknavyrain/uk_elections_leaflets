@@ -1,0 +1,61 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Stephen Phillips",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "and his team called to see you today"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "6 Market Place, Sleaford, Lincolnshire NG34 7SD",
+      "phone": "01529 419000",
+      "email": "[email protected]",
+      "website": "www.stephenphillips.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Stephen Phillips and his team called to see you today."
+        },
+        {
+          "caption": "Contact Stephen Phillips"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

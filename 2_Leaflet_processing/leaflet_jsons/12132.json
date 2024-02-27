@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Teresa Murray",
+    "constituency": "Rochester",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Fighting for what local people want",
+        "content": "I campaigned with parents and teachers to stop the Tories closing popular schools."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Getting regeneration right",
+        "policyDescription": "Work for affordable homes and good jobs, halt the export of precious green spaces."
+      },
+      {
+        "policyTitle": "Continued improvement in the NHS",
+        "policyDescription": "The NHS is safe with Labour. I'll fight to keep up record investment in Medway."
+      },
+      {
+        "policyTitle": "Education matters",
+        "policyDescription": "Education is everyone's foundation for a brighter future. I'll continue fighting for, and investing in, our schools."
+      },
+      {
+        "policyTitle": "Transparency, honesty and accountability",
+        "policyDescription": "I'll publish my expenses so I'll be completely transparent."
+      },
+      {
+        "policyTitle": "Representing you",
+        "policyDescription": "I've lived in Rochester for 22 years. Our town's concerns and fight for justice matter to me."
+      }
+    ],
+    "mentions": {
+      "candidate": "Teresa Murray",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "I campaigned with parents and teachers to stop the Tories closing popular schools.",
+      "environment": "Work for affordable homes and good jobs, halt the export of precious green spaces.",
+      "governance": "",
+      "health": "The NHS is safe with Labour. I'll fight to keep up record investment in Medway.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Work for affordable homes and good jobs",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Teresa fought to keep my daughter's school open.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Alex Paterson",
+        "endorsement": "When the local Tory Council tried to close our much loved local Infants school, Teresa stepped in and helped lead our successful campaign."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Teresa at Bligh Children's Centre"
+        },
+        {
+          "caption": "Teresa at St Peter's Infant School"
+        }
+      ]
+    },
+    "additionalNotes": "Putting local people first."
+  }
+}
+```

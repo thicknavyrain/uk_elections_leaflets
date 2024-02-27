@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Zac Goldsmith",
+    "constituency": "Richmond Park and North Kingston",
+    "politicalParty": "Conservatives",
+    "electionDate": "this May",
+    "messages": [
+      {
+        "title": "A CHAMPION FOR OUR AREA",
+        "content": "1. LOCAL CHAMPION - Zac Goldsmith has delivered on the issues that concern residents and immediately put the needs of residents above party politics. 2. HOLDING GOVERNMENT TO ACCOUNT - Zac led the campaign to bring in Recall powers to make MPs more accountable, and he's sponsored an EU referendum Bill. 3. GOOD REASONS TO RETURN ZAC GOLDSMITH"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "STOPPING HEATHROW EXPANSION",
+        "policyDescription": "Perceives Heathrow expansion as a serious threat and actively campaigns against their plans to expand."
+      },
+      {
+        "policyTitle": "HOLDING GOVERNMENT TO ACCOUNT",
+        "policyDescription": "Led the campaign for Recall powers to make MPs more accountable and sponsored an EU referendum Bill."
+      }
+    ],
+    "mentions": {
+      "candidate": "Zac Goldsmith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Zac sponsored an EU referendum Bill.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Zac led the campaign to bring in Recall powers to make MPs more accountable.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Zac was elected in 2010 to represent Richmond Park and North Kingston where he has lived and familiarized himself with the community challenges. He is described as an independent-minded MP and effective campaigner, always holding the right of OGs above his own party interests.",
+    "politicalExperience": [
+      {
+        "role": "MP for Richmond Park and North Kingston",
+        "duration": "since 2010",
+        "achievements": "Delivered on issues concerning residents, led campaign for Recall powers, sponsored EU referendum Bill, fought against Heathrow expansion."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.zacgoldsmith.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Evening Standard",
+        "endorsement": "Zac Goldsmith has repeatedly proved himself a politician of principle. Vowed to quit over Heathrow and demanded voters be given powers to recall shoddy MPs."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Zac Goldsmith has repeatedly proved himself a politician of principle. Vowed to quit over Heathrow and demanded voters be given powers to recall shoddy MPs.",
+        "source": "The Evening Standard",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Zac Goldsmith standing up for Richmond Park and North Kingston."
+        },
+        {
+          "caption": "Zac Goldsmith - A proud record in Parliament."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet contains summaries of Zac Goldsmith's positions on various issues, his achievements, a personal statement, and a quote from The Evening Standard endorsing him."
+  }
+}
+```

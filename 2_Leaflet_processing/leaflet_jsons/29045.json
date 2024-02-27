@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Philip Smith",
+    "constituency": "Boston and Skegness",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday June 8th 2017",
+    "messages": [
+      {
+        "title": "THE STRONG VOICE FOR US",
+        "content": "Philip Smith - Fighting for real change for Boston and Skegness. OUR COUNTRY NEEDS A STRONG OPPOSITION"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting against Hard Brexit",
+        "policyDescription": "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal."
+      },
+      {
+        "policyTitle": "Standing up for the NHS",
+        "policyDescription": "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs."
+      },
+      {
+        "policyTitle": "Opposing school cuts",
+        "policyDescription": "Local schools are under threat from a Conservative Party that has stopped listening to local people. Schools in Boston and Skegness are set to lose around £3.5million from their budgets."
+      }
+    ],
+    "mentions": {
+      "candidate": "Philip Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union",
+      "economy": "",
+      "education": "Local schools are under threat from a Conservative Party that has stopped listening to local people.",
+      "environment": "",
+      "governance": "",
+      "health": "We know we need additional investment in health and care services as a matter of urgency.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "32 Taverner road, Boston, Lincolnshire PE21 8BN",
+      "phone": "",
+      "email": "",
+      "website": "libdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Philip Smith with supporters and Liberal Democrats logo"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

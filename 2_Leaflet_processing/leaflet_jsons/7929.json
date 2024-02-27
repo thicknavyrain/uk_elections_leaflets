@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Liz Simpson",
+    "constituency": "Tonbridge and Malling",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "OUR NHS... AT RISK!",
+        "content": "\"We've lived through this mistake for 30 years… The result is the NHS now costs us almost twice as much, for no better care\". Tory Health spokesman accepted £21,000 donation from private health firm boss."
+      },
+      {
+        "title": "What else aren't the Conservatives telling you?",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer taxes that put money back in your pocket",
+        "policyDescription": "Fairer taxes that put £700 back into your pocket each year by raising the threshold at which people start paying income tax."
+      },
+      {
+        "policyTitle": "A fair future: creating jobs by making Britain greener",
+        "policyDescription": "A fair future by creating jobs and making Britain greener: invest in public transport, renewable energy, and energy efficiency."
+      },
+      {
+        "policyTitle": "A fair start for every child",
+        "policyDescription": "A fair start for every child: smaller classes, more teachers, and the Pupil Premium to give you the education you need."
+      },
+      {
+        "policyTitle": "A fair deal: protecting you from the banks",
+        "policyDescription": "A fair deal from the banks with honest banking and an end to big bonuses paid with your bailout money."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "With Labour out of the race, the choice is between me and the Conservative candidate. I live locally and have a long record of action. As your local MP, I will put local people first and deliver real change and fairness for our area.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "\"Liberal Democrat MPs were highly regarded by their Labour colleagues, and by Conservatives with brains.\"",
+        "source": "Conservative supporter neighbour",
+        "date": ""
+      },
+      {
+        "text": "\"New figures show that Liberal Democrat MPs are more likely than conservatives to have claimed for staying away from home.\"",
+        "source": "Comment",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Picture of Liz Simpson speaking with people."
+        },
+        {
+          "caption": "Picture of Liz Simpson campaigning."
+        }
+      ]
+    },
+    "additionalNotes": "Liz supports borough hospital and is fighting to save it."
+  }
+}
+```

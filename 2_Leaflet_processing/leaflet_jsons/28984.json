@@ -1,0 +1,92 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Amber Rudd",
+    "constituency": "Hastings and Rye",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A record of delivery, a promise for more",
+        "content": "Since 2010, the number of people in Hastings and Rye claiming the key out of work benefits has fallen by 54%."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Ensuring Economic Growth",
+        "policyDescription": "Plans to support the regeneration of coastal communities, boost apprenticeships for local people to grow visitor numbers, create new opportunities for local people, and make our area an even more desirable place to work."
+      },
+      {
+        "policyTitle": "Championing Our Fishing Fleets",
+        "policyDescription": "Working to ensure that the fishing industry is at the heart of Brexit negotiations to ensure a fair share of the quota, and introducing a new fisheries regime that works for us."
+      }
+    ],
+    "mentions": {
+      "candidate": "Amber Rudd",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Working to ensure that the fishing industry is at the heart of Brexit negotiations.",
+      "economy": "Since 2010, the number of people in Hastings and Rye claiming the key out of work benefits has fallen by 54%.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "conservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Amber Rudd at an event"
+        },
+        {
+          "caption": "Visiting work on the new link road"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

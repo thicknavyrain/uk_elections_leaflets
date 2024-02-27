@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "MARK RECKLESS",
+    "constituency": "Rochester and Strood",
+    "politicalParty": "INDEPENDENT",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local resident",
+        "policyDescription": "Being a local resident who lives at and protects Hoo Peninsula."
+      },
+      {
+        "policyTitle": "Rejecting party politics",
+        "policyDescription": "Standing independent to work across parties for the good of Rochester and Strood."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Defending local health services and helping solve Medway Council issues."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Fighting over-development and airport at Lodge Hill and in favour of brownfield sites."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Investing in a new school on peninsula, securing £25 million for Strood Academy."
+      },
+      {
+        "policyTitle": "Economy and Trading",
+        "policyDescription": "Supporting high street and airport for jobs,  after fighting Thames estuary airport proposal."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Reckless",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Fighting for Rochester and Strood independently across party lines."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Supporting local high street and regional airport for jobs.",
+      "education": "Securing £25 million for Strood Academy and investing in new school on peninsula.",
+      "environment": "Protecting Hoo Peninsula, fighting against the development of Lodge Hill.",
+      "governance": "Working to solve Medway Council issues.",
+      "health": "Defending local health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Fighting over-development; airport at Lodge Hill and supporting brownfield sites.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "MP for Rochester and Strood",
+        "duration": "since 2010",
+        "achievements": "Persistent campaigning on the issues, fighting over-development, protecting health services, investing £25m in Strood Academy."
+      }
+    ],
+    "contactInformation": {
+      "address": "Write to: 33 High Street, Rochester, ME1 1LN.",
+      "phone": "0800 0960250",
+      "email": "",
+      "website": "www.markreckless.com",
+      "socialMedia": {
+        "facebook": "facebook.com/markreckless",
+        "twitter": "twitter.com/markreckless",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The people of Rochester and Strood",
+        "endorsement": "Working independently for you, not for party bosses."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I have always answered directly with honest opinions on what works for us. - Mark",
+        "source": "Mark Reckless",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mark Reckless with his family in a park."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

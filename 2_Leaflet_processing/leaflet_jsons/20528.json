@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "UKIP will scrap HS2. Will oppose tolls on public roads and will keep existing contracts for running toll roads. UKIP will maintain pensioner bus passes. UKIP commits to return vehicles to purchase a British, before buying foreign vehicles, and to fully ensure that speed cameras are used as a deterrent and not as a revenue raiser for local authorities."
+      },
+      {
+        "policyTitle": "Housing and planning",
+        "policyDescription": "UKIP will protect the Green Belt. Planning rules in the NPPF will be changed to make it easier to build on brownfield sites. Houses on brownfield sites will be exempt from Stamp Duty on first sale and VAT tax. Planning permission for large-scale developments of brownfield sites relaxed for redevelopment. Community contributions collected by local councils, not central government."
+      },
+      {
+        "policyTitle": "Democracy and the Constitution",
+        "policyDescription": "UKIP will overturn the automatic enrolment of MPs from devolved nations voting on 'English-only' issues. Will support the repeal of the MPs, as in the UKIP party’s refocus in Elected Mayors within strengthened local governance. The party will also introduce the Citizens' Initiative to recall the PM. Will propose to repeal the European Court of Human Right's jurisdiction."
+      },
+      {
+        "policyTitle": "Law and Order",
+        "policyDescription": "UKIP will oppose further movements of the European Warrant Measure, removing the opt-in to EU law and repeal the EU European Investigation Order. Will protect the approach, improve community service and grievances for victims."
+      },
+      {
+        "policyTitle": "Culture",
+        "policyDescription": "UKIP recognizes and values an overarching, unifying British culture, which is open and inclusive to anyone who wishes to identify with Britain and British values, regardless of their ethnic or religious background."
+      },
+      {
+        "policyTitle": "Employment and Small Businesses",
+        "policyDescription": "UKIP supports the ambition to direct our public contract to favour of young British workers. Will repeal the Agency Worker Directive. Introduction a new British Intermediate Educational Qualification."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "UKIP will leave the EU.",
+      "economy": "UKIP will leave the EU and save at least £8bn pa in net contributions.",
+      "education": "Control of our schools will be returned to parents who will elect School Boards to set school disciplines and ethos.",
+      "environment": "UKIP will repeal the Climate Change Act 2008 which costs the economy £18bn a year.",
+      "governance": "Reintroduction of the practices and ceremonies of British nationality.",
+      "health": "UKIP will commit to spending £200m to the NHS.",
+      "immigration": "UKIP will introduce an Australian-style point-based system for immigration.",
+      "socialWelfare": "UKIP opposes the bedroom tax because it is unfair on disabled people and is forcing some to leave their homes.",
+      "housing": [
+        {
+          "content": "UKIP will protect the Green Belt. Planning rules in the NPPF will be changed to make it easier to build on brownfield sites.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Policies for People"
+        }
+      ]
+    },
+    "additionalNotes": "This JSON contains the key policies from a UKIP campaign leaflet, and the issues section reflects statements extracted from the leaflet. Detailed contact information, personal statements, and political experience are not provided in the leaflet and thus those fields are left empty."
+  }
+}
+```

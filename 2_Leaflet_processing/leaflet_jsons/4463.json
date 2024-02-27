@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Donna Hutton",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Labour will bring you back to prosperity and security"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Donna Hutton",
+      "otherPartyLeaderCandidate": "Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Don't go back to austerity and economic disaster. The Tories will make: the wrong changes at the wrong time for the wrong reasons and for the wrong people",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour Party leaflet for Donna Hutton"
+        }
+      ]
+    },
+    "additionalNotes": "Information on the leaflet is partially in Welsh."
+  }
+}
+```

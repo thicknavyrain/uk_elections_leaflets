@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Josh Mason",
+    "constituency": "",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "2017 General Election HERE",
+    "messages": [
+      {
+        "title": "ONLY Liberal Democrat Josh Mason can beat Jeremy Corbyn's Labour here",
+        "content": ""
+      },
+      {
+        "title": "The Conservatives have NEVER WON in this constituency",
+        "content": "and did nothing to stop the steel closure"
+      },
+      {
+        "title": "Only the Lib Dems have a record of beating Labour here",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Save the NHS by putting a penny in the pound on income tax to give the NHS and social care services the cash they need."
+      },
+      {
+        "policyTitle": "Local Economy",
+        "policyDescription": "Boost the local economy with a major programme of capital investment for jobs."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Invest £7.5 billion extra in children's education. Triple the Early Years Pupil Premium to £1000."
+      },
+      {
+        "policyTitle": "Community Policing",
+        "policyDescription": "Increase community policing, investing an extra £300 million a year in local police forces."
+      },
+      {
+        "policyTitle": "Public Transport",
+        "policyDescription": "Two-thirds off bus travel for 16-21 year olds with a Young Person’s Bus Discount Card."
+      },
+      {
+        "policyTitle": "Elderly Support",
+        "policyDescription": "Limit the amount elderly people have to pay for social care. Keep the Triple Lock on our pensions. Make waiting times for mental health care match those for physical health care."
+      }
+    ],
+    "mentions": {
+      "candidate": "Josh Mason",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn's Labour candidate from Kent",
+      "partyLeader": "",
+      "tacticalSituation": "Conservatives have never won in this constituency; Only Josh Mason can beat Labour; Local tactical voting situations implied"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Boost the local economy with a major programme of capital investment for jobs.",
+      "education": "Invest £7.5 billion extra in children's education. Triple the Early Years Pupil Premium to £1000.",
+      "environment": "",
+      "governance": "",
+      "health": "Save the NHS by putting a penny in the pound on income tax to give the NHS and social care services the cash they need.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Limit the amount elderly people have to pay for social care.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

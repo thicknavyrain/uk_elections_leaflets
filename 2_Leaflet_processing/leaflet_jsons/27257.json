@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Lib Dems will give you a say on the final Brexit deal."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, UKIP, Tories",
+      "partyLeader": "Tim Farron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Lib Dems' opposition to a hard Brexit and their commitment to providing a say on the final Brexit deal.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Guardian",
+        "endorsement": "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition."
+      },
+      {
+        "endorser": "The Times",
+        "endorsement": "Every major party except the Lib Dems are supporting Brexit. Only the Lib Dems can stop a hard Brexit."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Every major party except the Lib Dems are supporting Brexit.",
+        "source": "Labour's own election leaflets",
+        "date": ""
+      },
+      {
+        "text": "Only the Lib Dems can stop a hard Brexit.",
+        "source": "The Times",
+        "date": "4 Apr 2017"
+      },
+      {
+        "text": "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition.",
+        "source": "The Guardian",
+        "date": "19 Feb 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tim Farron's picture with the message about giving a say on the final Brexit deal."
+        },
+        {
+          "caption": "Images of Theresa May, Jeremy Corbyn and Nigel Farage with statements critical of their Brexit positions."
+        },
+        {
+          "caption": "A poisoned apple symbolizing the final Brexit deal."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet seems to be focused on the issue of Brexit and criticizes the positions of Labour, UKIP, and the Tories, as well as making statements about Jeremy Corbyn's suitability as the opposition leader."
+  }
+}
+```

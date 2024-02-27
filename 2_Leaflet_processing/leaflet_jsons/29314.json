@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Michael Deem",
+    "constituency": "Cardiff West",
+    "politicalParty": "Plaid Cymru",
+    "electionDate": "May",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Michael Deem",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Michael Deem with a backdrop of trees"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet features a bar chart showing Plaid Cymru as the second leading party in previous Cardiff West results, suggesting a tactical vote might be beneficial."
+  }
+}
+```

@@ -1,0 +1,114 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "SEND A MESSAGE",
+    	"content": "Liberal Democrats have blocked Conservative plans to allow companies to take over schools and run them for profit."
+  	},
+  	{
+    	"title": "NOT FOR SALE",
+    	"content": "Sign the petition today and send a message that our schools aren't for sale. LibDems.org.uk/Not_For_Sale"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "The Liberal Democrats will protect spending on education from nursery to college level over the course of the next Parliament, as part of their manifesto commitment."
+  	},
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "The Liberal Democrats aim to balance the budget by 2018, matching the Conservative commitment to eliminate the deficit."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "The Lib Dems have matched the Conservative commitment to eliminate the deficit by 2018.",
+  	"education": "Protect our schools from cuts.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "8-10 Great George Street, London, SW1P 3AE.",
+  	"phone": "",
+  	"email": "",
+  	"website": "LibDems.org.uk/Not_For_Sale",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Channel 4 FactCheck",
+    	"endorsement": "The Lib Dems have matched the Conservative commitment to eliminate the deficit by 2018."
+  	},
+  	{
+    	"endorser": "BBC News",
+    	"endorsement": "The Lib Dem policy to protect spending from nursery to college level over the course of the next Parliament features on the front page of the Lib Dem manifesto."
+  	},
+  	{
+    	"endorser": "The Guardian",
+    	"endorsement": "Conservatives to cut school funding by 10% if they win general election."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "The Lib Dems have matched the Conservative commitment to eliminate the deficit by 2018.",
+    	"source": "Channel 4 FactCheck, December 2014"
+  	},
+  	{
+    	"text": "The Lib Dem policy to protect spending from nursery to college level over the course of the next Parliament features on the front page of the Lib Dem manifesto.",
+    	"source": "BBC News, February 2015"
+  	},
+  	{
+    	"text": "Conservatives to cut school funding by 10% if they win general election.",
+    	"source": "The Guardian, February 2015"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Liberal Democrats are fighting for a fairer society..."
+    	},
+    	{
+      	"caption": "While Conservative cuts will hurt our schools..."
+    	},
+    	{
+      	"caption": "Only the Liberal Democrats will balance the budget AND protect our schools from cuts"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

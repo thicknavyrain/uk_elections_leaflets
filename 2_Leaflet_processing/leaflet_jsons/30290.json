@@ -1,0 +1,99 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "Cambridge",
+	"politicalParty": "Lib Dem",
+	"electionDate": "8th June",
+	"messages": [
+  	{
+    	"title": "Labour's Brexit let-down",
+    	"content": "Voted with UKIP to back Brexit. Want us out of the single market. Fighting against free movement. Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Brexit",
+    	"policyDescription": "More people in Cambridge are switching to the Lib Dems to stop Brexit wrecking Britain."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "",
+  	"tacticalSituation": "The Conservatives can't win here. Vote Lib Dem on 8th June."
+	},
+	"issues": {
+  	"brexitEurope": "More people in Cambridge are switching to the Lib Dems to stop Brexit wrecking Britain.",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "8-10 Great George Street, London, SW1P 3AE",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "BBC",
+    	"endorsement": "Lib Dems are the anti-Brexit party."
+  	},
+	{
+    	"endorser": "The Times",
+    	"endorsement": "Only the Lib Dems can stop hard Brexit."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition.",
+    	"source": "The Guardian",
+    	"date": "19 February 2017"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Labour's Brexit let-down"
+    	},
+	{
+      	"caption": "More and more people in Cambridge are switching to the Lib Dems to stop Brexit wrecking Britain."
+    	},
+	{
+      	"caption": "Lib Dems are the anti-Brexit party."
+    	},
+	{
+      	"caption": "Only the Lib Dems can stop hard Brexit."
+    	},
+	{
+      	"caption": "The Conservatives can't win here."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

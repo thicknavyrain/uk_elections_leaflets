@@ -1,0 +1,84 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Lib Dems",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Labour are really hoping you will forget about all this...",
+        "content": ""
+      },
+      {
+        "title": "Troops left to buy their own equipment",
+        "content": "Our armed forces do an amazing job for our country. There’s no excuse for sending them into battle without the equipment they need or paying frontline servicemen and women a pittance. Britain’s fighting men and women deserve better than this."
+      },
+      {
+        "title": "Pensioners left struggling in the cold",
+        "content": "It’s been a cold winter, but that’s no excuse for Labour. Older people shouldn’t have to live and sleep in a single room just because that’s all they can afford to keep warm. Older people deserve dignity and security in retirement."
+      },
+      {
+        "title": "Families paying more and more in tax",
+        "content": "After thirteen years of Labour, people are paying more in tax and are getting less return each year. While bankers and the very rich dodge taxes, people on low incomes get clobbered. People across Scotland deserve better than this."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "",
+      "tacticalSituation": "THE TORIES CAN'T WIN IN MANY PARTS OF SCOTLAND - The Conservatives have fallen into a poor third place in many areas. FACT - In these areas, the choice is between real change with the Lib Dems or more of the let downs and failure."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Older people shouldn’t have to live and sleep in a single room just because that’s all they can afford to keep warm. Older people deserve dignity and security in retirement.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour are really hoping you will forget about all this... (picture of two politicians shaking hands)"
+        },
+        {
+          "caption": "Troops left to buy their own equipment (picture of soldiers in camouflage)"
+        },
+        {
+          "caption": "Pensioners left struggling in the cold (picture of an elderly person holding a bill)"
+        },
+        {
+          "caption": "Families paying more and more in tax (picture of a pile of money and tax forms)"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet mentions 'THE SNP CANNOT DELIVER CHANGE AT WESTMINSTER - The SNP are irrelevant in the Westminster Parliament - too small to make any difference. FACT - In Westminster only the Lib Dems can stand up for Scotland. Real change that works for you - see over'"
+  }
+}
+```

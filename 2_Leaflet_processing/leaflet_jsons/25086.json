@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "TOMORROW OUR NHS NEEDS YOU.",
+        "content": "Stay at home or voting for any other party will let the Tories do this: Cut 8000000 nurse's hours, Spend 12000000 on leaflets promoting NHS privatisation."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Labour commits to preserving the NHS by reversing cuts to nurse's hours and opposing the privatisation efforts."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "the Tories",
+      "partyLeader": "",
+      "tacticalSituation": "Stay at home or voting for any other party will let the Tories do this:"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Reverse the 8000000 nurse's hours cut, oppose the 12000000 spent on leaflets promoting NHS privatisation.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of a campaign leaflet designed like an ambulance displaying messages about saving the NHS."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

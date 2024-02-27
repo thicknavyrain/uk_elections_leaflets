@@ -1,0 +1,36 @@
+```json
+{
+  "leaflet": {
+    "politicalParty": "UK Independence Party",
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Say NO to mass immigration"
+      },
+      {
+        "policyTitle": "Referendums",
+        "policyDescription": "Say YES to referendums on all major issues"
+      },
+      {
+        "policyTitle": "EU Spending",
+        "policyDescription": "Say NO to wasting £45 million a day in Brussels"
+      }
+    ],
+    "issues": {
+      "immigration": "Say NO to mass immigration",
+      "governance": "Say YES to referendums on all major issues",
+      "economy": "Say NO to wasting £45 million a day in Brussels"
+    },
+    "contactInformation": {
+      "phone": "Call free 0800 587 6 587"
+    },
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Leaflet cover with UK Independence Party branding, messages and call to action to vote UKIP."
+        }
+      ]
+    }
+  }
+}
+```

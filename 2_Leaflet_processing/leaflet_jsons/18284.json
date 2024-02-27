@@ -1,0 +1,81 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protecting jobs and increasing prosperity",
+        "policyDescription": "Review all legislation and regulations from the EU, raise income thresholds, remove those impeding prosperity, maintain trading relationships with the EU, acknowledge the vacant seat at the World Trade Organization and address improving nation's WTO rules compliance."
+      },
+      {
+        "policyTitle": "Repairing the UK Economy",
+        "policyDescription": "Increase personal allowance for income tax, abolish inheritance tax, introduce a 35p income tax rate between £42,285 and £55,000, Treasury Commission to design a minimum floor rate of tax as a proportion of income."
+      },
+      {
+        "policyTitle": "Reducing debts we leave to our grandchildren",
+        "policyDescription": "Save at least £8bn a year in EU contributions, cut the foreign aid budget, scrap the Department of Energy and Climate Change, and the Department for Culture, Media and Sport."
+      },
+      {
+        "policyTitle": "Prioritising Education and Skills",
+        "policyDescription": "Introduce an option for students to take an Apprenticeship Qualification instead of 'A-levels', schools to be allowed to apply to become grammar schools."
+      },
+      {
+        "policyTitle": "Honouring the Military Covenant",
+        "policyDescription": "Fully resource military assets and personnel, guarantee those who served in the armed forces a job in the police, prison service or border force among others, establish a Veterans Department."
+      },
+      {
+        "policyTitle": "The National Health Service",
+        "policyDescription": "Ensure the NHS is free at the point of delivery, end PFI contracts, ensure GP surgeries remain open at least until 8pm, Veterans' Service Card for fast track treatment."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Review all legislation and regulations from the EU to ensure compliance with WTO rules, save at least £8bn a year in EU contributions.",
+      "economy": "Increase personal allowance for income tax, abolish inheritance tax, introduce a 35p income tax rate, devise a minimum floor rate of tax through a Treasury Commission.",
+      "education": "Introduce an Apprenticeship Qualification, allow schools to apply to become grammar, selection weighted by school in consultation with local authority.",
+      "environment": "Scrap the Department of Energy and Climate Change.",
+      "governance": "",
+      "health": "NHS free at the point of delivery, end PFI contracts, GP surgeries open until 8pm, introduce Veterans' Service Card.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Policies for People"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

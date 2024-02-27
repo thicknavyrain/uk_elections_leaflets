@@ -1,0 +1,112 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Steve Bradley",
+    "constituency": "Bath",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Keep making Bath better",
+        "content": "The Lib Dem Council plan for Bath includes improving transport, bringing new high tech jobs to the area, and building new homes so our young people can stay in the city if they want to."
+      },
+      {
+        "title": "Steve Bradley: 'Let's make our city even better!'",
+        "content": "Environmental and Bath University student Steve Bradley is the Lib Dem standing for election at the General Election this time. Steve gave up his fulltime job in order to set up his own business promoting environmental sustainability. He is passionate about Bath and the extra mile for the causes he believes in - like apprenticeships."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Improve our transport system in a joined up, cohesive way so every traveller works together."
+      },
+      {
+        "policyTitle": "Jobs",
+        "policyDescription": "Bring new, high tech jobs to Bath through the Enterprise Area scheme."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build new homes so our young people can stay in the city if they want to."
+      },
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "Ensure decent pension rises year over year through our 'triple lock' guarantee."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Increase NHS spending by £8 billion a year and establish care for mental health."
+      },
+      {
+        "policyTitle": "Income Tax",
+        "policyDescription": "An additional £400 Income Tax cut for ordinary workers on low and middle incomes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Don Foster and Steve Bradley are working together to keep making Bath even better",
+      "otherPartyLeaderCandidate": "The Conservatives have committed to continue cutting deeper and faster even after the books have been balanced. The Conservatives have plans to cut the pay of nurses and teachers working outside of London. The Conservatives want to allow private companies to take over our schools and run them for a profit.",
+      "partyLeader": "",
+      "tacticalSituation": "Residents in Bath know that the next MP for Bath will either be Lib Dem Steve Bradley or the Tory candidate. Letting the conservatives win Bath means they’re closer to forming a Government by themselves and putting the schemes the Lib Dems stopped into action. Only the Lib Dems can beat the Tories here."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Support vital local services so our pensions keep increasing.",
+      "environment": "Steve is passionate about Bath and the environment.",
+      "governance": "",
+      "health": "Increase NHS spending by £8 billion a year and establish care for mental health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Build new homes so our young people can stay in the city if they want to.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Steve gave up his fulltime job in order to set up his own business promoting environmental sustainability. He is passionate about Bath and the extra mile for the causes he believes in - like apprenticeships.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A group photo of the candidate Steve Bradley, Don Foster and supporters."
+        },
+        {
+          "caption": "Image presenting the tactical situation of the election in text: 'It's so close here!' with the segmentation of council seats."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

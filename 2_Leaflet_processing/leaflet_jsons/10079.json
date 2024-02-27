@@ -1,0 +1,96 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alex Feakes",
+    "constituency": "Clock House ward",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "6th May",
+    "messages": [
+      {
+        "title": "A fairer future for Clock House ward",
+        "content": "Your Lib Dem team: Paul, Jonathan and Reg's pledges to you"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fair Taxes",
+        "policyDescription": "We will keep Council Tax down and return to 'fairer' community charges that are funded through being banked by the borough."
+      },
+      {
+        "policyTitle": "A Fairer Bromley for all",
+        "policyDescription": "We will not let Tory cuts reduce what in Bromley and the care there is and ensure that we play fair and equip for all age groups in our parks."
+      },
+      {
+        "policyTitle": "A Cleaner, safer Bromley",
+        "policyDescription": "We will ensure that all streets are kept clean, pursue anti-fly tipping and bring Environmental Health back under one department."
+      },
+      {
+        "policyTitle": "A thriving business community",
+        "policyDescription": "We will work with community groups and voluntary agencies to bring the Bank into our area."
+      },
+      {
+        "policyTitle": "Decent transport",
+        "policyDescription": "We will repair and refurnish the 'road' and 'right the bus route' and bring public transport to the borough."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alex Feakes",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Fair Taxes",
+      "education": "Lib Dems have announced plans to cut class sizes to twelve through a multi-billion pound pupil premium.",
+      "environment": "A Cleaner, safer Bromley",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "The Liberal Democrats have been challenging the Tory Mayor of London to explain why he intends cutting 455 full time Police Officers from the Metropolitan Police.",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "",
+        "achievements": "Worked on crime reduction with local communities."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "http://www.lewishamlibdems.org.uk.",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Your Lib Dem team: A fairer future for Clock House ward"
+        },
+        {
+          "caption": "Police cut by London Tories"
+        },
+        {
+          "caption": "Lib Dems set out plans for smaller class sizes"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

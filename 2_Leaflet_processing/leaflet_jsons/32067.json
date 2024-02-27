@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ruth Jones",
+    "constituency": "Newport West",
+    "politicalParty": "Welsh Labour",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "",
+        "content": "Dear [Redacted], With a General Election on December 12th you will soon have your Postal Vote. I am asking for your support to keep working for the people who live in Newport West."
+      },
+      {
+        "title": "",
+        "content": "This election is a choice between those fixated on Brexit and those who can see past it, who realise the country's priority should be better schools, hospitals and an economy that works for you. A Labour Government in Westminster will deliver change for those overlooked, under-supported and stretched."
+      },
+      {
+        "title": "",
+        "content": "In Newport West it is a straight race between Labour and the Tories. A vote for any party other than Labour is a vote for them."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "We won't let the Tories sell off our NHS."
+      },
+      {
+        "policyTitle": "Minimum Wage",
+        "policyDescription": "We'll introduce a £10 minimum wage for everyone."
+      },
+      {
+        "policyTitle": "Green Industrial Revolution",
+        "policyDescription": "Support a Green Industrial Revolution."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ruth Jones",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "In Newport West it is a straight race between Labour and the Tories. A vote for any party other than Labour is a vote for them."
+    },
+    "issues": {
+      "brexitEurope": "This election is a choice between those fixated on Brexit and those who can see past it.",
+      "economy": "An economy that works for you.",
+      "education": "Better schools.",
+      "environment": "",
+      "governance": "",
+      "health": "We won't let the Tories sell off our NHS.",
+      "immigration": "",
+      "socialWelfare": "If re-elected as MP for Newport West, I will continue the fight to scrap Universal Credit, work with WASPI women to get the fair pension deal they deserve, fight to save free TV Licences for over 75s and ensure that we bring our country back together again.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I was born and brought up in Newport, it's where my husband and I have raised our family and the place we still call home. I am so proud of our diverse City, and I'm even more proud to have been your local and passionate voice in Parliament.",
+    "politicalExperience": [
+      {
+        "role": "MP for Newport West",
+        "duration": "",
+        "achievements": "Proud to have been your local and passionate voice in Parliament."
+      }
+    ],
+    "contactInformation": {
+      "address": "22 Mill Street, Newport, NP20 5HA",
+      "phone": "07423 277979",
+      "email": "contact@ruthjones.wales",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ruth Jones - Welsh Labour Candidate"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

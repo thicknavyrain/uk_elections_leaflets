@@ -1,0 +1,103 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rob White",
+    "constituency": "Reading East",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "VOTE FOR WHAT YOU BELIEVE IN",
+        "content": "Imagine a political system that puts the public first. Imagine an economy that gives everyone their fair share. Imagine a society capable of supporting everyone's needs. Imagine a planet protected from the threat of climate change now and for the generations to come. That's the future we want to create and we believe we have the ideas to do it."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public NHS",
+        "policyDescription": "Fight for a publicly funded, publicly provided health service free at the point of use."
+      },
+      {
+        "policyTitle": "Fairer Economy",
+        "policyDescription": "Take austerity and restore the public sector, creating over one million good jobs at a living wage. Pay at least a living wage, tax the top 1%, and close tax loopholes."
+      },
+      {
+        "policyTitle": "Decent Homes",
+        "policyDescription": "Build 500,000 social rented homes by 2020 and bring empty homes back into use. Cap rents and introduce longer tenancies to provide greater protection to renters."
+      },
+      {
+        "policyTitle": "Safe Climate",
+        "policyDescription": "Take serious action on climate change by working with other countries to ensure global temperatures do not rise beyond 2 degrees. Phase out fossil fuel-based energy generation and support new renewable power and invest in public programme of renewable generation, flood defences and building insulation."
+      },
+      {
+        "policyTitle": "Free Education",
+        "policyDescription": "Scrap university tuition fees. Promote a comprehensive system of mixed ability teaching supported by schools offering a local syllabus by qualified teachers. Bring Academies and Free Schools into the Local Authority system."
+      },
+      {
+        "policyTitle": "Better Transport",
+        "policyDescription": "Return the railways to public hands to stop profits being put before people. Introduce an immediate cut in fares by 10% to give passengers a much-needed financial break. Promote walking and cycling to help reduce pollution and improve people's health."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rob White",
+      "otherPartyLeaderCandidate": "Caroline Lucas, Natalie Bennett",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Take austerity and restore the public sector, creating over one million good jobs at a living wage.",
+      "education": "Promote a comprehensive system of mixed ability teaching supported by schools offering a local syllabus by qualified teachers.",
+      "environment": "Take serious action on climate change by working with other countries to ensure global temperatures do not rise beyond 2 degrees.",
+      "governance": "",
+      "health": "Fight for a publicly funded, publicly provided health service free at the point of use.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Build 500,000 social rented homes by 2020 and bring empty homes back into use. Cap rents and introduce longer tenancies to give renters protection.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Rob White has worked with passion and commitment for the people of Reading. His priority is that businesses take the lead to tidy the area and that larger family homes are available.",
+    "politicalExperience": [
+      {
+        "role": "Green Party Councillor for Reading",
+        "duration": "Five years",
+        "achievements": "Worked towards making Reading a 'greener, fairer, more affordable town'. Proudp to be Leader of the Green Party on Reading Borough Council."
+      }
+    ],
+    "contactInformation": {
+      "address": "46—48 Portman Road, Reading, Berkshire, RG30 1EA",
+      "phone": "07585 232 398",
+      "email": "rob.white@greenparty.org.uk",
+      "website": "http://reading.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/TheGreenParty",
+        "twitter": "@TheGreenParty",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Vote Green and you can help us build a society that works for the Common Good.",
+        "source": "Natalie Bennett, Green Party Leader",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Rob White with a supporter in front of a residential area."
+        },
+        {
+          "caption": "Rob White in front of the Royal Berkshire Hospital."
+        }
+      ]
+    },
+    "additionalNotes": "This publication is funded by ordinary people and printed on 100% post-consumer fibre, FSC® recycled certified paper."
+  }
+}
+```

@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jeff Smith",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday December 12th",
+    "messages": [
+      {
+        "title": "We're backing Jeff",
+        "content": "Jeff has lived locally all his life and is committed to always available to support the community groups, schools. As a former headteacher, and school governor, I know that education is at the heart of building communities. I know you share my belief that striving together to ensure the Education Service will make sure Everyone can get ahead."
+      },
+      {
+        "title": "Vote Lib Dem - get Tory - You can't trust the Lib Dems to stand up for working people",
+        "content": "Lib Dem leader Jo Swinson helped the Conservatives slash public services at the Coalition government. The Lib Dems voted with the Tories 849 times between 2010-2015!"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investment in our NHS, schools and police",
+        "policyDescription": "A Labour government will invest in our cash-strapped public services to support everyone in society."
+      },
+      {
+        "policyTitle": "A Final Say vote on Brexit - with the option to remain",
+        "policyDescription": "Labour is committed to delivering a final say on Brexit with an option to remain."
+      },
+      {
+        "policyTitle": "A Green Industrial Strategy to tackle the climate crisis",
+        "policyDescription": "Labour pledges to address the climate crisis through a comprehensive Green Industrial Strategy."
+      },
+      {
+        "policyTitle": "Decent Housing for all - Ending homelessness",
+        "policyDescription": "Jeff Smith and Labour promise to ensure decent housing for everyone and to end homelessness."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jeff Smith",
+      "otherPartyLeaderCandidate": "Jo Swinson",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "A Final Say vote on Brexit - with the option to remain",
+      "economy": "",
+      "education": "",
+      "environment": "A Green Industrial Strategy to tackle the climate crisis",
+      "governance": "",
+      "health": "Investment in our NHS, schools and police",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Decent Housing for all - Ending homelessness",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "jeff@jeffsmith.org.uk",
+      "website": "www.jeffsmith.org.uk",
+      "socialMedia": {
+        "facebook": "jeffsmithforWithington",
+        "twitter": "JeffSmithetc",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jeff with Labour party members and activists."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

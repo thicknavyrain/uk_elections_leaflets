@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alistair Darling",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Securing the recovery, not putting it at risk",
+        "content": "I believe our country will have a bright economic future. We will take the right decisions to support recovery."
+      },
+      {
+        "title": "The Budget 2010",
+        "content": "The choice for Britain's economy: Secure the recovery – not put it at risk. Build a future based on growth and jobs – not a decade of austerity."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Supporting our economy",
+        "policyDescription": "Support the economy until recovery is secured, then reducing borrowing while protecting public services like the NHS, schools, and Sure Start children's centres."
+      },
+      {
+        "policyTitle": "A future fair for families",
+        "policyDescription": "Helping families with £4 a week extra child tax credits for one and two year olds; supporting older people by continuing the higher Winter Fuel Allowances; extending help for mortgage holders; no stamp duty for most first-time buyers for properties up to £250,000."
+      },
+      {
+        "policyTitle": "New industries, future jobs",
+        "policyDescription": "Using extra money from bankers' bonuses to boost new industries and future jobs. Creating a Green Investment Bank for clean energy, and supporting growing businesses and making area more business-friendly."
+      },
+      {
+        "policyTitle": "Job guarantees",
+        "policyDescription": "A guarantee that no one under 24 will need to be unemployed for longer than six months before being offered work or training. A plan to halve the levels of youth unemployment."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alistair Darling",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We will take the right decisions to support recovery. In the budget I took steps to provide the support for new jobs, businesses, families and the economy.",
+      "education": "",
+      "environment": "",
+      "governance": "Fairness underpins my budget. We have raised tax from those with the broadest shoulders. Cut out waste and protected services from schools to the NHS.",
+      "health": "Protecting public services like the NHS.",
+      "immigration": "",
+      "socialWelfare": "Support family with weekly extra child tax credits; support older people by continuing the higher Winter Fuel Allowances; extending help for mortgage holders.",
+      "housing": [
+        {
+          "content": "No stamp duty for most first-time buyers for properties up to £250,000.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "In the budget I took steps to provide the support for new jobs, businesses, families and the economy.",
+    "politicalExperience": [
+      {
+        "role": "Chancellor of the Exchequer",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labourspace.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Securing the recovery, not putting it at risk"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

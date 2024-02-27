@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Denham",
+    "constituency": "Southampton, Itchen",
+    "politicalParty": "Labour",
+    "electionDate": "Spring 2010",
+    "messages": [
+      {
+        "title": "Action on schools",
+        "content": "John Denham says the City Council must get behind our children and local schools. Massive investment from the Labour government has funded classrooms, new buildings, and better equipment across Southampton, but the Tory council doesn't take real action for the city."
+      },
+      {
+        "title": "Labour Delivers...",
+        "content": "14% reduction in crime."
+      },
+      {
+        "title": "Labour action on garden grabbing",
+        "content": "Labour has welcomed new action against garden grabbing, but warns that Tory councillors are letting residents down. He said, 'There's a real problem with knocking down good family homes to build low quality flats. Local councils don't have the power to control it.'"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Support for schools with a focus on invested funding for classrooms, buildings and better equipment."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "An emphasis on reducing crime with actions leading to a 14% reduction in crime according to Hampshire police. This includes measures taken by community police teams and new tactics."
+      },
+      {
+        "policyTitle": "Housing and Green Spaces",
+        "policyDescription": "Addressing the issue of 'garden grabbing' and the need for local councils to have more control to prevent high-density developments that compromise community green spaces."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Denham has been MP for Southampton Itchen since 1992",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour's commitment to finding positive ways to boost our economy. The rise in VAT and cuts to public sector budgets are seen as harmful to families and damaging for public services.",
+      "education": "Labour believes in investing in our schools as quickly as the rest of the county.",
+      "environment": "Action against 'garden grabbing' and support for green spaces.",
+      "governance": "Labour's critique on Conservatives saw selling off what belongs to the whole community as harmful governance.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Labour's condemnation of Conservative policies affecting social welfare, including the rise in VAT and cuts to public services. They argue that these changes harm vulnerable communities and families.",
+      "housing": [
+        {
+          "content": "Labour has pledged the most money for road and pavement repairs, particularly in action against ‘garden grabbing’.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for Southampton Itchen",
+        "duration": "since 1992",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "2A Southcliff Road, Southampton, SO14 6FH",
+      "phone": "023 8033 9807",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Your priorities are our priorities",
+        "source": "Local Labour",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John and Sue Blackbowl on Botany Bay Close."
+        },
+        {
+          "caption": "Cllr Simon Letts at the closure of Le Blaireau."
+        },
+        {
+          "caption": "Labour councillor Carol Cunio at roadshow."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

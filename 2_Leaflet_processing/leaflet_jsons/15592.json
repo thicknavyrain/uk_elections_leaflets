@@ -1,0 +1,113 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "HOW WE WILL SECURE A BETTER FUTURE FOR YOU, YOUR FAMILY AND OUR COUNTRY",
+        "content": ""
+      },
+      {
+        "title": "A RECOVERING ECONOMY",
+        "content": "DON'T LET LABOUR WRECK IT"
+      },
+      {
+        "title": "SECURING BRITAIN'S FUTURE",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Eliminate the deficit and start paying down our debts",
+        "policyDescription": "Control welfare spending, reduce waste, invest in important public services like the NHS and schools, and keep our economy healthy and secure."
+      },
+      {
+        "policyTitle": "Back business to create a job for everyone who wants one",
+        "policyDescription": "Keep job's taxes low and cut red tape, deliver 3 million new apprenticeships, and aim for full employment and the highest ever number of EU immigrants with an in/out EU referendum by the end of 2017."
+      },
+      {
+        "policyTitle": "Cut income tax for 30 million people, and ensure everyone pays their fair share",
+        "policyDescription": "Take everyone who earns less than £12,500 out of the income tax altogether, increase the 40p tax threshold so that no one earning less than £50,000 pays it, and increase the tax on very high earners to avoid extreme income and tax evasion."
+      },
+      {
+        "policyTitle": "Provide good schools and help families with childcare costs",
+        "policyDescription": "Ensure a good primary school place for every child, turn around failing secondary schools, support teachers and improve maths, science and English, and provide more support for childcare and a tax cut for over four million married couples."
+      },
+      {
+        "policyTitle": "Give everyone the chance to have a home of their own",
+        "policyDescription": "Keep mortgage rates low so families are able to afford home ownership, help 200,000 new Starter Homes for first-time buyers under 40, and extend the Help-to-Buy scheme."
+      },
+      {
+        "policyTitle": "Help protect and secure people in their retirement",
+        "policyDescription": "Continue to increase the State Pension and protect pensioner benefits like the winter fuel payment, give people freedom over their pension pots, and make sure no-one is forced to sell their home to pay for care."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "in/out EU referendum by the end of 2017",
+      "economy": "Eliminate the deficit and start paying down our debts. Back business to create jobs.",
+      "education": "Provide good schools for every child, improve maths, science, and English education, and support teachers.",
+      "environment": "",
+      "governance": "Control welfare spending, reduce waste, and aim for full employment.",
+      "health": "Invest in important public services like the NHS.",
+      "immigration": "The highest number of EU immigrants with an in/out EU referendum by the end of 2017.",
+      "socialWelfare": "Protect pensioner benefits like winter fuel payment.",
+      "housing": [
+        {
+          "content": "Keep mortgage rates low so families are able to afford home ownership, help 200,000 new Starter Homes for first-time buyers under 40, and extend the Help-to-Buy scheme.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "DON'T LET LABOUR WRECK IT",
+        "source": "A RECOVERING ECONOMY",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "STRONG LEADERSHIP. A CLEAR ECONOMIC PLAN. A BETTER, MORE SECURE FUTURE."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

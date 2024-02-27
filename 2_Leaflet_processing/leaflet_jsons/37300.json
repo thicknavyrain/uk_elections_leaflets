@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "SNP",
+    "electionDate": "May 5",
+    "messages": [
+      {
+        "title": "Making Scotland Better",
+        "content": "In government the SNP has delivered real progress..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "Keep the Council Tax frozen, easing the pressure on family budgets."
+      },
+      {
+        "policyTitle": "Investment in the NHS",
+        "policyDescription": "Protect investment in the NHS, ensuring waiting times are shorter and cancer treatment improves."
+      },
+      {
+        "policyTitle": "Maintain Police Levels",
+        "policyDescription": "Maintain the 1,000 extra police on our streets, helping us reduce crime levels further."
+      },
+      {
+        "policyTitle": "New Job Creation",
+        "policyDescription": "Help 100,000 young Scots get training for work, including a record 25,000 modern apprenticeships."
+      },
+      {
+        "policyTitle": "Low Carbon Economy",
+        "policyDescription": "Deliver a 130,000 jobs in the low carbon economy by 2020."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Keep university education free with no tuition fees or graduate contribution."
+      },
+      {
+        "policyTitle": "Balanced Budgets",
+        "policyDescription": "Continue to deliver balanced budgets for Scotland with savings reinvested to front-line public services."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Alex Salmond as First Minister",
+      "tacticalSituation": ""
+    },
+    "issues": {},
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "bepartofbetter.net",
+      "socialMedia": {}
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Together, we can make Scotland better.",
+        "source": "Leaflet Message",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign message and key policies from the SNP"
+        }
+      ]
+    },
+    "additionalNotes": "Instructions on how to vote in the Scotland's election are provided on the leaflet."
+  }
+}
+```

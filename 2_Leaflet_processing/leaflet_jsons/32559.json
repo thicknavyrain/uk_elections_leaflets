@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Pat Cleary",
+    "constituency": "Birkenhead & Tranmere",
+    "politicalParty": "Green Party",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "PAT CLEARY",
+        "content": "Proven track record for Birkenhead. Works hard all year round. Listens to local residents"
+      },
+      {
+        "title": "TOWN CENTRE REGENERATION MOVES A STEP CLOSER",
+        "content": "Second phase of consultation up and running. Planned regeneration of Birkenhead town moves forward with a new public consultation on the emerging masterplan."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Town Centre Regeneration",
+        "policyDescription": "Supports the regeneration of Birkenhead town centre, which includes a new public consultation on an emerging masterplan for the area."
+      }
+    ],
+    "mentions": {
+      "candidate": "Steve Hayes, Emily Gleaves",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The Green Party is easily the biggest challenger to Labour in Birkenhead."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "TOWN CENTRE REGENERATION MOVES A STEP CLOSER: Planned regeneration of Birkenhead town moves forward with a new public consultation.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Regeneration of the local area includes improving Mersey Park and advocating for 20 mph zones which benefit community safety.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "My vision is for a Birkenhead that is both prosperous and green. Birkenhead has enormous potential, but for decades under the Labour party and the previous MP, that potential has remained untapped and our town has suffered badly. That has to change.",
+    "politicalExperience": [
+      {
+        "role": "Local campaigner and Green councillor",
+        "duration": "",
+        "achievements": "Has transformed Birkenhead and Tranmere with greener, safer streets and community facilities."
+      }
+    ],
+    "contactInformation": {
+      "address": "39 Grange Lane West, Prenton, Birkenhead, CH43 4XE",
+      "phone": "Pat Cleary: 07852 829 559",
+      "email": "patcleary@phonecoop.coop",
+      "website": "www.wirral.org.uk/eam/books/79",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Emily at Mersey Park which is set to benefit from new investment."
+        },
+        {
+          "caption": "Pat and Steve visit the new “Refresh” furniture upcycling shop on St Anne Street."
+        },
+        {
+          "caption": "Green councillors have won council support for more 20mph zones."
+        },
+        {
+          "caption": "Emily, Pat and Steve on Milton Pavement. This is now town centre regeneration scheme."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

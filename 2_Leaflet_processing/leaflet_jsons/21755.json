@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Williams",
+    "constituency": "Wycombe",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "A message from David Williams",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Your Voice in Westminster",
+        "policyDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+      },
+      {
+        "policyTitle": "Building a Better Wycombe",
+        "policyDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Williams",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01494 522672",
+      "email": "labour4wycombe@labour.org.uk",
+      "website": "www.labour4wycombe.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "labour4wycombe",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Williams, Labour candidate for Wycombe"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

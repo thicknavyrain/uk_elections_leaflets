@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "SNP",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "We will play a constructive role with new ideas and fresh thinking.",
+        "content": ""
+      },
+      {
+        "title": "My vow is to make Scotland stronger at Westminster.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "World-class childcare",
+        "policyDescription": "Much-needed cash for public services, not wasting £100 billion on new nuclear weapons."
+      },
+      {
+        "policyTitle": "Additional investment in Scotland's NHS",
+        "policyDescription": "Its budget protected and its future safe in public hands."
+      },
+      {
+        "policyTitle": "Security in retirement",
+        "policyDescription": "With better pensions and ongoing benefits such as free bus travel and free personal care."
+      },
+      {
+        "policyTitle": "A more responsible economic policy",
+        "policyDescription": "One which boosts long-term growth, creates jobs and delivers for all."
+      },
+      {
+        "policyTitle": "Progressive policies",
+        "policyDescription": "Like free education and the living wage."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "voteSNP.com",
+      "socialMedia": {
+        "facebook": "theSNP",
+        "twitter": "theSNP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Candidate in a pink blazer with crossed arms."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

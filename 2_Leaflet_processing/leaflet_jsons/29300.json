@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Bob Russell",
+    "constituency": "Colchester",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "May 2017",
+    "messages": [
+      {
+        "title": "",
+        "content": "Are you worried by the fact that violent crime is now at a five-year high and that the Government has cut police funding over the past two years? Are you concerned that our NHS is being cruelly cut and our local hospital now has a budget deficit of £21million?"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Police Funding",
+        "policyDescription": "Opposition to government cuts in police funding, advocating for proper funding for police in Essex."
+      },
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "Addressing the underfunding of the NHS and urging the government to provide fairer funding for the local NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "Bob Russell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "A win for the Conservative Party here won't send any message at all - it'll just be business as usual and no-one will hold the Government to do better. Only a Lib Dem win will show that Colchester cannot be taken for granted. Labour are a distant 3rd in Colchester, 11,000 votes behind."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Are you concerned that our NHS is being cruelly cut and our local hospital now has a budget deficit of £21million? Doctors and nurses in our NHS do a great job but they are not getting the support they need. The Government seems more interested in picking fights with Junior Doctors than fixing the ever-growing funding gap facing our NHS. Colchester Hospital is suffering because of underfunding.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "If I can win in Colchester, then the Government will have to listen - not just on proper funding for our Police in Essex, but on fairer funding for our local NHS too.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Magdalen Hall, Wimpole Road, Colchester CO1 2DE",
+      "phone": "01206 506611",
+      "email": "voice4colchester@hotmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Even lifelong Conservatives are lending me their support in this one-off election.",
+        "source": "Bob Russell",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Bob Russell - a voice of experience and strength to represent you"
+        }
+      ]
+    },
+    "additionalNotes": "A win for the Conservative Party here won't send any message at all - it'll just be business as usual and no-one will hold the Government to do better. Only a Lib Dem win will show that Colchester cannot be taken for granted. Labour are a distant 3rd in Colchester, 11,000 votes behind."
+  }
+}
+```

@@ -1,0 +1,75 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Save our NHS",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Put more police back on the beat",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Introduce a living wage of £10 per hour",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Kick start a Green Industrial Revolution",
+        "policyDescription": "to tackle the climate emergency and create high-skilled, high-wage jobs"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Kick start a Green Industrial Revolution to tackle the climate emergency and create high-skilled, high-wage jobs",
+      "governance": "",
+      "health": "Save our NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Labour leaflet cover with campaign promises and voting reminder."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

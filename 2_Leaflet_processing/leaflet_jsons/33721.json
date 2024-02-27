@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Meg Hillier",
+    "constituency": "Hackney South and Shoreditch",
+    "politicalParty": "Labour and Co-operative",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Meg Hillier",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Meg Hillier leaning on a railing with residential buildings in the background."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,87 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jasper Gerard",
+    "constituency": "Maidstone & the Weald",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Fighting for more apprenticeships, improving local health services",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Successfully fought for millions of pounds to improve local schools and flood defences."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Working to improve health services and continue to fight the crisis affecting Maidstone's capacity/roads and infrastructure."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Has led several campaigns to protect greenfield sites from Conservative house building plans."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jasper Gerard",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We've achieved a lot, but there is more to do if we are to create a stronger economy and fairer society after May's election.",
+      "education": "Successfully fought for millions of pounds to improve local schools and flood defences.",
+      "environment": "Has led several campaigns to protect greenfield sites from Conservative house building plans.",
+      "governance": "",
+      "health": "Fighting for more apprenticeships, improving local health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Has led several campaigns to protect greenfield sites from Conservative house building plans.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I gave up job 2 years ago to work for Maidstone and the Weald.",
+    "politicalExperience": [
+      {
+        "role": "MP for Maidstone & the Weald",
+        "duration": "",
+        "achievements": "Has led several campaigns to protect greenfield sites from Conservative house building plans. Successfully fought for millions of pounds to improve local schools and flood defences."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo Album"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,58 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Barbara Keeley",
+    "constituency": "Worsley and Eccles South",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Barbara Keeley",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "First Floor, 37 Manchester Road, Walkden, M28 3NS",
+      "phone": "07519 947 155",
+      "email": "barbara@barbarakeeley.co.uk",
+      "website": "www.barbarakeeley.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "KeeleyMP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Barbara Keeley"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

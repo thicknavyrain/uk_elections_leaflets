@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "TOMORROW only a vote for Labour will stop David Cameron walking back into Downing Street.",
+        "content": ""
+      },
+      {
+        "title": "THE CHOICE AT THIS ELECTION IS BETWEEN A LABOUR OR A TORY GOVERNMENT",
+        "content": ""
+      },
+      {
+        "title": "A VOTE FOR ANYONE BUT LABOUR RISKS ANOTHER TORY GOVERNMENT",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Work",
+        "policyDescription": "Ban exploitative zero-hours contracts"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Raise the minimum wage to more than £8 an hour"
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "1,000 more nurses paid for by a mansion tax"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Raise the minimum wage to more than £8 an hour",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "1,000 more nurses paid for by a mansion tax",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A man walking towards 10 Downing Street"
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet also emphasizes that voting for any party other than Labour risks a Tory government, indicating a tactical voting consideration."
+  }
+}
+```

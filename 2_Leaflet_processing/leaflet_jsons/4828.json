@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Dear",
+        "content": "The events of the last year have made me very angry."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "Gordon Brown, David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "Remember, in many parts of Britain, the Conservatives cannot win. The choice is between real change with the Lib Dems or no change with Labour."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Their recession has hit people hard across Britain.",
+      "education": "",
+      "environment": "",
+      "governance": "Westminster politics is viewed with disgust.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "The events of the last year have made me very angry. No wonder Westminster politics is viewed with disgust.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "4 Cowley Street, London, SW1P 3NB",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "Nick Clegg discusses the failures of the current government and positions the Liberal Democrats as a vehicle for real change. There is a dissatisfaction expressed with both Labour and Conservative parties. The leaflet implies a call for action by asking for support to deliver 'real change' and suggests strategic voting, as Conservatives are claimed to be unable to win in many parts of Britain."
+  }
+}
+```

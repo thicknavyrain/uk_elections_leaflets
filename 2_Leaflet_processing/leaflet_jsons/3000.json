@@ -1,0 +1,86 @@
+```json
+{
+  "leaflet": {
+  "candidateName": "Nick Clegg",
+  "constituency": "",
+  "politicalParty": "Liberal Democrats",
+  "electionDate": "",
+  "messages": [
+    {
+      "title": "Change that works for you",
+      "content": "It's hardly been a normal year has it? I'm not just talking about the cold winter we've been through. Our country has seen financial crisis, the worst recession in a generation and the appalling scandal of MPs' expenses."
+    }
+  ],
+  "keyPolicies": [
+    {
+      "policyTitle": "Economy",
+      "policyDescription": "The banks are getting their big bonuses again - even though they only have their jobs thanks to taxpayers' money."
+    },
+    {
+      "policyTitle": "Governance",
+      "policyDescription": "The need for a change in old solutions that no longer work, referencing the MPs' expenses scandal."
+    },
+    {
+      "policyTitle": "Education",
+      "policyDescription": "A Britain where every child can get the best education and can afford to go to university if they wish."
+    },
+    {
+      "policyTitle": "Environment",
+      "policyDescription": "A Britain where we have an economy that provides more jobs and prosperity while protecting the environment."
+    }
+  ],
+  "mentions": {
+    "candidate": "Nick Clegg",
+    "otherPartyLeaderCandidate": "",
+    "partyLeader": "Nick Clegg",
+    "tacticalSituation": "PS - Don't forget that in many areas, the race at the General Election is between the Liberal Democrats and the Conservatives. Your vote could decide who wins!"
+  },
+  "issues": {
+    "brexitEurope": "",
+    "economy": "The banks are getting their big bonuses again - even though they only have their jobs thanks to taxpayers' money.",
+    "education": "A Britain where every child can get the best education and can afford to go to university if they wish.",
+    "environment": "A Britain where we have an economy that provides more jobs and prosperity while protecting the environment.",
+    "governance": "",
+    "health": "",
+    "immigration": "",
+    "socialWelfare": "",
+    "housing": [
+      {
+        "content":"",
+        "yimbyNimby": "N/A"
+      }
+    ]
+  },
+  "personalStatement": "I believe that Britain is ready to once in a generation opportunity for real change.",
+  "politicalExperience": [
+    {
+      "role": "Leader of the Liberal Democrats",
+      "duration": "",
+      "achievements": ""
+    }
+  ],
+  "contactInformation": {
+    "address": "4 Cowley Street, London, SW1P 3NB",
+    "phone": "",
+    "email": "",
+    "website": "www.LibDems.org.uk",
+    "socialMedia": {
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "linkedin": ""
+    }
+  },
+  "endorsements": [],
+  "quotes": [],
+  "campaignMaterial": {
+    "images": [
+      {
+        "caption": "Nick Clegg"
+      }
+    ]
+  },
+  "additionalNotes": ""
+  }
+}
+```

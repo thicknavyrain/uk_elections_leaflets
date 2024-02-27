@@ -1,0 +1,117 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Annabel Tall",
+    "constituency": "Bath",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "GET BREXIT DONE AND UNLEASH OUR COUNTRY",
+        "content": "If we want democracy, we must respect the Referendum result."
+      },
+      {
+        "title": "",
+        "content": "Boris Johnson's deal is ready to go: just add MPs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Supports Boris Johnson's Brexit deal, emphasizing the need to respect the referendum result and move forward."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Pledges cooperation with the NHS to sort out waiting times and making sure that funding goes to the right places."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Promises investment in schools and tackling tough issues."
+      },
+      {
+        "policyTitle": "Policing",
+        "policyDescription": "Aims to focus on policing to keep our streets safe."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Commits to ambitious environmental targets and new clean energy development."
+      }
+    ],
+    "mentions": {
+      "candidate": "Annabel Tall",
+      "otherPartyLeaderCandidate": "Jo Swinson",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": "References to tactical voting situations to avoid a hung parliament or risk of Corbyn in charge."
+    },
+    "issues": {
+      "brexitEurope": "Respect the Referendum result and get Brexit done to unleash the country.",
+      "economy": "",
+      "education": "Invest more in schools locally.",
+      "environment": "Ambitious environmental targets; new clean energy development.",
+      "governance": "",
+      "health": "Cooperate with the NHS to sort out waiting times and insure funding goes to the right places.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01225431400",
+      "email": "bathconservatives@outlook.com",
+      "website": "www.bathconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Herald",
+        "endorsement": "Jo Swinson says no to Tory alliance."
+      },
+      {
+        "endorser": "Reuters",
+        "endorsement": "Don't risk five long years of Corbyn in charge."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Jo Swinson says no to Tory alliance.",
+        "source": "The Herald",
+        "date": ""
+      },
+      {
+        "text": "Don't risk five long years of Corbyn in charge.",
+        "source": "Reuters",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Annabel Tall conversing with people."
+        },
+        {
+          "caption": "Annabel Tall using a smartphone."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

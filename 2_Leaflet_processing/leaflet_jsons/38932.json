@@ -1,0 +1,109 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Nadia Whittome",
+	"constituency": "Nottingham",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "GOOD JOBS AND PROPER SUPPORT",
+    	"content": "It's a scandal that 1.5 million working people live in poverty, and more people than ever rely on food banks. Labour will redistribute wealth from the privileged few to the many. We will immediately introduce a real Living Wage of £10 per hour, ban zero-hours contracts and abolish Universal Credit which has caused untold hardship in Nottingham."
+  	},
+  	{
+    	"title": "A GREEN NEW DEAL FOR NOTTINGHAM",
+    	"content": "Labour’s Green Industrial Revolution will tackle the climate crisis and the crisis of inequality at once, creating one million climate jobs and investing in green innovation. By taking energy into public ownership, we will end fuel poverty and start to clean energy."
+  	},
+	{
+		"title": "A FINAL SAY ON BREXIT",
+		"content": "For too long, Brexit has divided our country, causing economic chaos and anxiety. We will put Brexit to bed by giving you the final say. In that referendum, I will back Remain."
+	},
+	{
+		"title": "FULLY COSTED",
+		"content": "Our whole manifesto is a political choice, not an economic necessity. Labour’s economic plans are bold, transformative and fairer. We will fund them by increasing income tax on the top 5% of earners and making sure corporations pay their way. No one earning under £80,000 a year will pay a penny more."
+	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Good Jobs and Proper Support",
+    	"policyDescription": "Introducing a real Living Wage of £10 per hour, banning zero-hours contracts and abolishing Universal Credit."
+  	},
+	{
+		"policyTitle": "A Green New Deal for Nottingham",
+		"policyDescription": "Creating one million climate jobs and investing in green innovation, taking energy into public ownership to end fuel poverty."
+	},
+	{
+		"policyTitle": "A Final Say on Brexit",
+		"policyDescription": "Putting Brexit to a final say and backing Remain."
+	},
+	{
+		"policyTitle": "Fully Costed Economic Plans",
+		"policyDescription": "Funding initiatives by increasing income tax on the top 5% of earners and ensuring corporations pay their fair share, with no additional tax for those earning under £80,000."
+	}
+	],
+	"mentions": {
+  	"candidate": "Nadia Whittome",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Giving you the final say on Brexit, supporting Remain.",
+  	"economy": "Economic plans funded by taxing the top 5% and corporations, no additional tax for those earning under £80,000.",
+  	"education": "",
+  	"environment": "Tackle the climate crisis and end fuel poverty via a Green Industrial Revolution.",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "Redistribute wealth, introduce a real Living Wage, ban zero-hours contracts, and abolish Universal Credit.",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "labour.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "I'm voting Nadia Whittome"
+    	}
+  	]
+	},
+	"additionalNotes": "Please put this in your window - it helps Labour."
+  }
+}
+```

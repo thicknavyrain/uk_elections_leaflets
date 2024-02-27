@@ -1,0 +1,99 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "David Prescott",
+    "constituency": "Gainsborough",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "A fresh start for the NHS",
+        "content": "David met with NHS users and professionals in Gainsborough to discuss Labour's plans for our health service."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Plans for the NHS include recruiting 20,000 more nurses and 8,000 more GPs, guaranteeing GP appointments within 48 hours and cancer tests in one week."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Plans for reducing class sizes to less than 30 for 5, 6 and 7-year-olds and opening up vocational and apprenticeship opportunities."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Proposes to stop the RBS sell-off saving billions, and promises to promote and grow start-up firms and champion British manufacturing to create more job opportunities."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Prescott",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "David will fight to improve our high streets with more visitors, more jobs and a better deal for private companies and jobs.",
+      "education": "David has been speaking to parents and teachers about how we can help young people achieve their full potential.",
+      "environment": "",
+      "governance": "",
+      "health": "David met with NHS users and professionals in Gainsborough to discuss Labour's plans for our health service.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "David has been speaking to parents and teachers about how we can help young people achieve their full potential.",
+    "politicalExperience": [
+      {
+        "role": "BBC producer, start-up advisor, and entrepreneur",
+        "duration": "",
+        "achievements": "Launched Look North economic initiative, stopped RBS handing out £1 billion of shares without consultation."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Andy King",
+        "endorsement": "Valuable insight into the strategic issues restricting economic growth and has real plans to help small businesses prosper."
+      },
+      {
+        "endorser": "Richard Noon",
+        "endorsement": "Understands the importance of ensuring young people have good opportunities."
+      },
+      {
+        "endorser": "Kim Noble",
+        "endorsement": "An MP who's going to make a difference to the economic life of Gainsborough and improve the NHS."
+      },
+      {
+        "endorser": "Alan Johnson MP",
+        "endorsement": "Dedicated and efficient campaigner who keeps his promises."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Prescott with his family."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

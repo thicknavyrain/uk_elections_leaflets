@@ -1,0 +1,64 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Prue Bray",
+    "constituency": "Wokingham",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Prue Bray",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "5 Easthampstead Road, Wokingham RG41 5ZW",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liberal Democrats are winning for Britain."
+        },
+        {
+          "caption": "Nick Clegg and the Liberal Democrats are winning support across Britain."
+        },
+        {
+          "caption": "Change that works for Wokingham."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet is focused on overall Liberal Democrats success, mentions Nick Clegg, requests campaign support and donations."
+  }
+}
+```

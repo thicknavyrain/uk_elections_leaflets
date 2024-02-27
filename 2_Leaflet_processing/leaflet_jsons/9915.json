@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "George Hollingbery",
+    "constituency": "Meon Valley",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday May 6th",
+    "messages": [
+      {
+        "title": "ONLY BY VOTING FOR GEORGE HOLLINGBERY CAN WE ACHIEVE THE CHANGE WE NEED.",
+        "content": "Keeping development under control of central Conservative policies will see the ditching of eco-towns and the protection of back gardens from development."
+      },
+      {
+        "title": "REWARDING RESPONSIBILITY",
+        "content": "People who have saved all their lives, bought their houses and paid their taxes shouldn't change when they need help. Conservatism plans will change that."
+      },
+      {
+        "title": "George is simply THE BEST CHOICE",
+        "content": "People are worried about crime, the erosion of values, about Government intrusion into our lives, about the level of immigration and about the economy."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Development",
+        "policyDescription": "Keeping development under control with the Conservatives' policy."
+      },
+      {
+        "policyTitle": "Rewarding Responsibility",
+        "policyDescription": "Ensuring that people who have worked hard are supported when they need help."
+      }
+    ],
+    "mentions": {
+      "candidate": "George Hollingbery",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "People are worried about the economy.",
+      "education": "",
+      "environment": "Stopping the ditching of eco-towns and protecting back gardens.",
+      "governance": "Worries about government intrusion into personal lives.",
+      "health": "",
+      "immigration": "Concerns about the level of immigration.",
+      "socialWelfare": "Change in support for those who have saved and worked hard.",
+      "housing": [
+        {
+          "content": "Keeping development under control with the Conservatives' policy.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "George Hollingbery lives in Alresford for 15 years and has been involved in the local community ever since moving. He got involved in politics to protect a local landmark, he has been a councillor and a charity fundraiser.",
+    "politicalExperience": [
+      {
+        "role": "City Councillor",
+        "duration": "over ten years",
+        "achievements": "Environmental work, developing traffic schemes to reduce speed limits."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01962 760626",
+      "email": "",
+      "website": "www.georgehollingbery.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Simon Brown, local businessman",
+        "endorsement": "\"Despite our differing political allegiances, I always knew who to turn to over the weekend. George, your quick and effective response aided an early resolution to the problem. We can't thank you enough.\""
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "George Hollingbery talking with constituents"
+        },
+        {
+          "caption": "George Hollingbery addressing concerns with locals"
+        },
+        {
+          "caption": "George Hollingbery with a group advocating for traffic safety"
+        }
+      ]
+    },
+    "additionalNotes": "George has been involved in various community efforts including challenging the construction of a supermarket, has run a number of his own businesses, and has 'real life' experiences. He has also begun environmental work aiming to reduce speed limits in the Meon Valley."
+  }
+}
+```

@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ross Grant",
+    "constituency": "Leicester South",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Ross Grant's Pledge to Leicester South",
+        "content": "I Ross Grant promise to conduct myself according to the statements below."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Cleaning up Politics",
+        "policyDescription": "Ross has pledged he will not have two jobs; will not employ a member of his family; will have his promise checked independently by the Leicester Mercury."
+      },
+      {
+        "policyTitle": "Being Accessible & Accountable",
+        "policyDescription": "Ross Grant will hold surgeries regularly throughout the constituency, will report every vote made as an MP, and use modern communication tools to explain his work."
+      },
+      {
+        "policyTitle": "Pay & Expenses",
+        "policyDescription": "Ross promises not to accept any paid director roles or accept pay for public roles other than MP. He will not employ his family and will report his tax return to the Leicester Mercury for independent verification. He pledges to have expense claims reviewed for public scrutiny and will report online."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ross Grant",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Councillor for the Year",
+        "duration": "2009",
+        "achievements": "Delivering real improvements to the Fosse ward."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07595 466671",
+      "email": "ross@rossgrant.com",
+      "website": "www.rossgrant.com",
+      "socialMedia": {
+        "facebook": "facebook.com/RossJGrant",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ross Grant running in the Leicester Marathon to raise money for LOROS, the local hospice."
+        },
+        {
+          "caption": "Ross Grant pictured in a suit."
+        },
+        {
+          "caption": "Ross Grant with David Cameron, endorsing his candidacy."
+        }
+      ]
+    },
+    "additionalNotes": "Ross is ranked in the top 100 most influential political twitter users in the UK."
+  }
+}
+```

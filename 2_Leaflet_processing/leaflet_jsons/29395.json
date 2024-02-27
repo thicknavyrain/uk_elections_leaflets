@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "PAUL HOLMES",
+    "constituency": "Southampton Test",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "YOUR CHOICE AT THIS ELECTION:",
+        "content": "STRONG, STABLE LEADERSHIP IN THE NATIONAL INTEREST with Theresa May as Prime Minister. A coalition of chaos with Jeremy Corbyn"
+      },
+      {
+        "title": "MAKING BREXIT A SUCCESS IS CENTRAL TO OUR NATIONAL INTEREST",
+        "content": "By getting the best Brexit deal for Britain."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Investing in education to ensure the young people have the right diverse skill mix for Southampton's future economy."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Support local businesses to thrive and achieve strong economic growth for Southampton."
+      }
+    ],
+    "mentions": {
+      "candidate": "PAUL HOLMES",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "Coalition of chaos with Jeremy Corbyn or strong, stable leadership with Theresa May."
+    },
+    "issues": {
+      "brexitEurope": "Making Brexit a success is central to our national interest. A strong negotiating hand can deliver for Britain.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07483 811 320",
+      "email": "vote4paulholmes@gmail.com",
+      "website": "voteholmes.co.uk",
+      "socialMedia": {
+        "facebook": "fb.com/PaulHolmesSton",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Paul Holmes with Theresa May."
+        },
+        {
+          "caption": "Paul Holmes engaging with the public."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

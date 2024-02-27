@@ -1,0 +1,64 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "The Green Party",
+	"electionDate": "May 7th",
+	"messages": [
+  	{
+    	"title": "Campaign Message",
+    	"content": "On May 7th vote for a strong Green voice in Parliament."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "We are standing in 95% of seats in England & Wales which means more people than ever before have the chance to vote Green."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "Development House, 56-64 Leonard Street, London EC2A 4LT",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "On May 7th vote for a strong Green voice in Parliament."
+    	},
+    	{
+      	"caption": "We are standing in 95% of seats in England & Wales which means more people than ever before have the chance to vote Green."
+    	}
+  	]
+	},
+	"additionalNotes": "This publication has not been paid for by big business or corporate interests, but has been supported and funded by ordinary people and printed on FSC® mixed source certified Chlorine Free paper. Printed by Red River Solutions Ltd. Published and promoted by Penny Kemp on behalf of The Green Party of England and Wales, both at Development House, 56-64 Leonard Street, London EC2A 4LT."
+  }
+}

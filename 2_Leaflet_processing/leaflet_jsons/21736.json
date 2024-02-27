@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tom Heeney",
+    "constituency": "Arseley",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "My Pledge to Residents of Arseley",
+        "content": "UKIP support measures including an Australian-style, points-based migration system, reducing foreign aid to fund tax cuts for families, protecting the NHS and ensuring new immigrants have health cover, and supporting veterans with social housing and job opportunities."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Supports an Australian-style, points-based migration system to reduce immigration volume and prevent undercutting wages of British workers."
+      },
+      {
+        "policyTitle": "Foreign Aid and Taxes",
+        "policyDescription": "Proposes reducing foreign aid spending from £11bn to £2bn and using savings to cut taxes for British families."
+      },
+      {
+        "policyTitle": "NHS and Health Tourism",
+        "policyDescription": "Aims to protect the NHS and combat health tourism by requiring visitors and new migrants to have private health cover as a condition of entry."
+      },
+      {
+        "policyTitle": "Veterans",
+        "policyDescription": "Guarantees priority for veterans on social housing lists and job opportunities in border force, prison service, or police."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tom Heeney",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protect the NHS and clamp down on so-called 'health tourism' by making visitors and new migrants take out private health cover as a condition of entry.",
+      "immigration": "Supports an Australian-style, points-based migration system to slash the volume of immigration and end the undercutting of the wages of British working people.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Will support our brave forces veterans by guaranteeing them priority on social housing waiting lists.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07754526803",
+      "email": "tomheeney112@gmail.com",
+      "website": "www.ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "BELIEVE in BRITAIN"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

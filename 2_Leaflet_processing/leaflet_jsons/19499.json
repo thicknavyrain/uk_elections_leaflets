@@ -1,0 +1,108 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Martin Dobson",
+    "constituency": "Liverpool Riverside",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "VOTE FOR WHAT YOU BELIEVE IN",
+        "content": "Fight for a political system that puts the public first. An economy that gives everyone their fair share. A society capable of supporting everyone's needs. A planet protected from the threat we face of climate change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public NHS",
+        "policyDescription": "Fight to keep the NHS publicly funded and publicly run."
+      },
+      {
+        "policyTitle": "Fair Economy",
+        "policyDescription": "Make minimum wage a living wage. Stop exploitative zero hours contracts."
+      },
+      {
+        "policyTitle": "Decent Homes",
+        "policyDescription": "Invest in public social rented homes. Major programme to insulate homes."
+      },
+      {
+        "policyTitle": "Safe Climate",
+        "policyDescription": "Create jobs and combat climate change by investing in flood defences and renewable energy."
+      },
+      {
+        "policyTitle": "Free Education",
+        "policyDescription": "Tuition free university. Smaller class sizes. Bring Academies and Free Schools into local authority control."
+      },
+      {
+        "policyTitle": "Better Transport",
+        "policyDescription": "Return railways to public hands."
+      }
+    ],
+    "mentions": {
+      "candidate": "Martin Dobson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": "Here in Liverpool Riverside, the Greens came second in the last election. This is the most progressive vote this time."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Make minimum wage a living wage. Stop exploitative zero hours contracts.",
+      "education": "Tuition free university. Smaller class sizes. Bring Academies and Free Schools into local authority control.",
+      "environment": "Create jobs and combat climate change by investing in flood defences and renewable energy.",
+      "governance": "",
+      "health": "Fight to keep the NHS publicly funded and publicly run.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Invest in public social rented homes. Major programme to insulate homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I love Liverpool and have always been proud to stand up for our brilliant, diverse communities. From standing up for our human and workers' rights, to fighting for social and environmental justice, I am on your side.",
+    "politicalExperience": [
+      {
+        "role": "Your Green Party Candidate",
+        "duration": "",
+        "achievements": "Active community campaigner. Work with public and environmental health agencies. Fought against austerity. Protected local services and jobs."
+      }
+    ],
+    "contactInformation": {
+      "address": "Liverpool Green Party, 36 Casino Road, Liverpool, L6 3BY",
+      "phone": "",
+      "email": "info@greenpartyliverpool.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "MartinDobsonGP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Caroline Lucas",
+        "endorsement": "I'm asking you to support Martin Dobson – a passionate, effective advocate for social justice, and for real action to tackle climate change."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "This is the most progressive vote this time.",
+        "source": "Martin Dobson",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Martin Dobson with local supporters."
+        },
+        {
+          "caption": "Martin Dobson with Caroline Lucas, Green MP for Brighton Pavilion."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

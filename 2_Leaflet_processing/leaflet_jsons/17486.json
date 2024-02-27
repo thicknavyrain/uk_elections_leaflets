@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "What a UKIP Government will do for you",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Controlling and managing our borders",
+        "policyDescription": "UKIP recognizes the benefits of limited, controlled immigration. Plans to introduce a points-based system for work permits, limit the number of new settlers to about 50,000 annually, and end active support of multiculturalism."
+      },
+      {
+        "policyTitle": "Foreign Aid",
+        "policyDescription": "Aim to reduce foreign aid that is counter-productive and wasteful, direct it to be used for disaster relief, and end the ring-fencing of the aid budget."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "UKIP will repeal the Climate Change Act 2008, support the development of shale gas, reduce subsidies for renewable energies, and oppose carbon floor pricing and unilateral energy tariffs."
+      },
+      {
+        "policyTitle": "Agriculture and Fishing",
+        "policyDescription": "UKIP aims to leave the EU Common Agricultural Policy, support British agriculture, and establish a British Fishery Limit."
+      },
+      {
+        "policyTitle": "Welfare and Childcare",
+        "policyDescription": "Oppose EU childcare regulations, and propose welfare reform to reduce dependency and benefit fraud."
+      },
+      {
+        "policyTitle": "Employment and Small Businesses",
+        "policyDescription": "Plans to encourage youth employment, reduce over-regulation and support small business growth."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "UKIP will review all legislation and regulations from the EU (3,600 new laws since 2010), with a commitment to cut the business red tape and limiting the EU influence on UK laws and regulations.",
+      "education": "",
+      "environment": "Opposes large-scale onshore wind and solar industrial electricity generation in the countryside. Intends to cancel all subsidies for wind turbines and solar photovoltaic arrays.",
+      "governance": "Plans to leave the EU and save at least £8bn per annum in UK contributions. Also will introduce a US-style written constitution and seek to leave the European Court of Human Rights.",
+      "health": "UKIP will commit an extra £2bn per annum to the NHS and also proposes to eliminate hospital car parking charges across England.",
+      "immigration": "UKIP aims to cut net immigration into the UK and set an annual cap for settlement. It proposes a points-based system for work permits to non-EU citizens who have a job offer and can speak English.",
+      "socialWelfare": "Proposes a welfare reform aiming to reduce dependency and benefit fraud. UKIP supports the introduction of a 'British Bill of Rights' to replace the Human Rights Act.",
+      "housing": [
+        {
+          "content": "UKIP will protect the Green Belt. Planning rules in the NPPF will be changed to make it easier to build on brownfield sites instead of greenfield sites. Central government is to list the nationally available brownfield sites for development and substantially increase the grants to decontaminate suitable brownfield building sites.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Policies for People"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

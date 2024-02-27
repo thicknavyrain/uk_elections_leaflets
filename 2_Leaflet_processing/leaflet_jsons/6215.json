@@ -1,0 +1,108 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tom Crone",
+    "constituency": "Liverpool Riverside",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "FAIR IS WORTH FIGHTING FOR",
+        "content": "At this general election, voters have a chance to make real changes to 'politics as usual' here in Liverpool. As a voter you can: Vote Green for open, honest politics; Vote Green for safer, cleaner neighbourhoods; Vote Green to protect the future for your children and grandchildren."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Open, Honest Politics",
+        "policyDescription": "Advocating for a change in politics to be more transparent and accountable."
+      },
+      {
+        "policyTitle": "Safer, Cleaner Neighbourhoods",
+        "policyDescription": "Supporting initiatives to make neighbourhoods safer and cleaner."
+      },
+      {
+        "policyTitle": "Protecting the Future",
+        "policyDescription": "Focusing on policies that will protect the future of voters' children and grandchildren."
+      },
+      {
+        "policyTitle": "Living Wage",
+        "policyDescription": "Support for a 'living wage' to ensure fair pay for workers."
+      },
+      {
+        "policyTitle": "Million New Jobs",
+        "policyDescription": "Promise to create a million new jobs."
+      },
+      {
+        "policyTitle": "Protect our NHS",
+        "policyDescription": "A commitment to protect the National Health Service."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tom Crone lives in St Michaels and is a local candidate.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "The Green Party is growing fast. Over 1.2 million people voted for the Greens in the Euro elections. We now have two Green Councillors in Liverpool and are aiming to increase that number.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "If you are fed up with the same old politicians just following the wishes of party leaders in Westminster and you want to vote for someone to deal with local issues, and to represent you in your own community, then vote Green.",
+      "health": "Protect our NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Tom Crone lives in St Michaels and is a local candidate.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "\"Vote Green to get a fairer deal for the people of Liverpool Riverside\"",
+        "source": "Campaign Slogan",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tom Crone in Sefton Park."
+        },
+        {
+          "caption": "Tom Crone with residents."
+        }
+      ]
+    },
+    "additionalNotes": "Printed on 100% recycled paper using sustainable technologies that do not harm the environment."
+  }
+}
+```

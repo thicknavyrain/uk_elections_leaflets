@@ -1,0 +1,95 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Daisy Cooper",
+    "constituency": "Suffolk Coastal",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "CUT TO THE BONE",
+        "content": "The people of East Suffolk face further savage and relentless NHS cuts, says Daisy Cooper. Community hospital cut-backs and closures, Loss of local Accident and Emergency services, Over-stretched GP surgeries and inadequate out-of-hours provision, Nuclear industry plans threaten town vitality, Nimbyism over wind farms could halt vital green energy plans, Now under latest NHS plans Hospitals have to battle traffic congestion and slow rural roads to Ipswich or Norwich for treatment. Friends and relatives will find it impossible to visit. So-called '21st century treatment' is no treatment at all, if patients away from the recent proposals which replaces local health boards with central 'independent board' leaving it accountable to no one. We would give local people power over their NHS through elected local health boards. The Liberal Democrats will always put patients' welfare first."
+      },
+      {
+        "title": "Lib Dems signpost Green Road out of Recession",
+        "content": "Lib Dems propose a green stimulus package including - Major new investment in renewable energy sources, 5 yr programme to insulate every school and hospital, Insulation and energy efficiency funding for a million homes, 400,000 extra 'zero-carbon' social houses, Energy and money saving 'smart meters' in every home within 5 years, Reopen old railway lines and stations, and create new ones."
+      },
+      {
+        "title": "Lib Dems - THE REAL alternative",
+        "content": "With 1/3 of Tories refusing to believe the evidence for man-made climate change and several Tory MPs voting against European proposals to reduce CO2 emissions, it is not surprising John Gummer has said he will not stand as Conservative candidate in the next General Election. We wish him well in his future efforts to protect our environment."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS and healthcare",
+        "policyDescription": "Address community hospital cut-backs, loss of local Accident & Emergency services, over-stretched GP surgeries, and inadequate out-of-hours provision. Local health boards over central 'independent board' to ensure local accountability and patient welfare."
+      },
+      {
+        "policyTitle": "Green stimulus package",
+        "policyDescription": "The Lib Dems propose investing in renewable energy, insulating schools and hospitals, funding energy efficiency for homes, building 'zero-carbon' social houses, installing 'smart meters', and reopening railway lines."
+      }
+    ],
+    "mentions": {
+      "candidate": "Daisy Cooper",
+      "otherPartyLeaderCandidate": "John Gummer",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Investment in renewable energy, zero-carbon social housing, reopening railway lines.",
+      "governance": "",
+      "health": "Community hospital cut-backs, loss of Accident & Emergency services, over-stretched GP surgeries, inadequate out-of-hours provision, establishment of local health boards over central 'independent board'.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Building 400,000 extra 'zero-carbon' social houses",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "My name is Daisy Cooper and I'm proud to be your Liberal Democrat candidate for Suffolk Coastal. This year's General Election will give voters the opportunity to choose a new kind of politics - here in Suffolk Coastal and right across the country.",
+    "politicalExperience": [
+      {
+        "role": "Work at the Commonwealth Secretariat",
+        "duration": "",
+        "achievements": "an association that strengthens democracy and human rights in around the world"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.daisycooper.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "These achievable goals would make a real difference to people's lives now, create new jobs today, and leave us with the infrastructure for a long-term, green economic recovery.",
+        "source": "Nick Clegg on Green stimulus package",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Daisy Cooper with Suffolk backdrop."
+        },
+        {
+          "caption": "Graph showing the voting percentage of different parties in Suffolk Coastal."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

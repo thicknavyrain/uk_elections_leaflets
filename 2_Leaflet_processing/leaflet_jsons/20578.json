@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Layla Moran",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "For investment in the NHS and education - not big tax cuts for the rich."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Layla Moran",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "For investment in the NHS and education",
+      "environment": "",
+      "governance": "",
+      "health": "For investment in the NHS and education",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.LaylaMoran.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Layla Moran interacting with individuals, presumably in an educational setting."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

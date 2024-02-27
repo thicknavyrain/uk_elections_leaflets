@@ -1,0 +1,82 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "William Linton",
+    "constituency": "Enfield North",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "FAIR IS WORTH FIGHTING FOR",
+        "content": "Bill Linton is a retired computer professional. He is co-ordinator of the Enfield Fairtrade Campaign, which seeks to ensure that Third World farmers are paid a fair price. In 2008 it achieved Fairtrade Borough status for Enfield. He also campaigns on peace, human rights, the arms trade and climate change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NEW GREEN JOBS",
+        "policyDescription": "We need grants to improve insulation and install solar panels and wind turbines in local homes. This will create jobs and save money, energy and CO2."
+      },
+      {
+        "policyTitle": "STANDING UP FOR CHASE FARM",
+        "policyDescription": "Greens oppose the downgrading of Chase Farm. The NHS should be public service, not a business."
+      },
+      {
+        "policyTitle": "RESHAPING NE ENFIELD",
+        "policyDescription": "The east of Enfield has been neglected. It needs jobs, decent homes and green spaces."
+      }
+    ],
+    "mentions": {
+      "candidate": "Bill Linton runs a Fairtrade stall at a Community Festival.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Bill Linton campaigns on... climate change.",
+      "governance": "",
+      "health": "Greens oppose the downgrading of Chase Farm. The NHS should be public service, not a business.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"The east of Enfield has been neglected. It needs jobs, decent homes and green spaces.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Bill Linton is a retired computer professional. He... also campaigns on peace, human rights, the arms trade and climate change.",
+    "politicalExperience": [
+      {
+        "role": "Coordinator",
+        "duration": "",
+        "achievements": "Co-ordinator of the Enfield Fairtrade Campaign, achieved Fairtrade Borough status for Enfield in 2008."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Bill runs a Fairtrade stall at a Community Festival."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

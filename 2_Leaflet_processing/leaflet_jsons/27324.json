@@ -1,0 +1,80 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Hunter-Rossall",
+    "constituency": "Ashton-under-Lyne",
+    "politicalParty": "Green Party",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "ANDY SAYS...",
+        "content": "I'm standing up for what matters at this election. I'm standing up for the people across Failsworth, Ashton and Droylsden who are suffering under the government's welfare reforms and the people relying on foodbanks that are growing. I'm standing up for our environment, in the face of a government that has repeatedly failed to tackle air pollution, that has slashed funding for renewable energies, and that has put our greenspaces at risk from fracking and unwanted developments."
+      },
+      {
+        "title": "THIS ELECTION ISN'T ABOUT THE NEXT 5 YEARS.",
+        "content": "IT'S ABOUT THE NEXT 50 YEARS. The Green Party is offering real opposition to this Government's extreme Brexit. Only the Green Party has the vision to deliver an alternative future for our country, and our place in the world. And only the Green Party offers a different kind of politics."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "To shape an economy for everyone while preserving a safe environment."
+      },
+      {
+        "policyTitle": "Housing and Public Services",
+        "policyDescription": "To build affordable homes and provide properly funded public services."
+      },
+      {
+        "policyTitle": "Democracy",
+        "policyDescription": "To put power back in your hands through a citizens' democracy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andy Hunter-Rossall",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "opposition to this Government's extreme Brexit",
+      "economy": "shape an economy for everyone",
+      "education": "",
+      "environment": "I'm standing up for our environment, [...] that has repeatedly failed to tackle air pollution, that has slashed funding for renewable energies, and that has put our greenspaces at risk from fracking and unwanted developments.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "suffering under the government's welfare reforms and the people relying on foodbanks",
+      "housing": [
+        {
+          "content": "To build affordable homes",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm standing up for what matters at this election.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "07913 061007",
+      "email": "andy.hunterrossall@greenparty.org.uk",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/AndyHRGreen",
+        "twitter": "twitter.com/AndyHR_Green",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Picture of Andy Hunter-Rossall, Green Party Candidate"
+        }
+      ]
+    },
+    "additionalNotes": "This publication has not been paid for by big business or corporate interests, but has been sourced and funded by ordinary people."
+  }
+}
+```

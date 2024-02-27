@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Michael Britton",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday May 6th",
+	"messages": [
+  	{
+    	"title": "A Safer, Greener, Healthier Britain",
+    	"content": "Under Labour since 1997 we have a fairer Britain."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Healthcare",
+    	"policyDescription": "89,000 more Nurses, 44,000 more Doctors"
+  	},
+	{
+    	"policyTitle": "Education",
+    	"policyDescription": "42,000 more Teachers, Nursery classes attached to primary schools."
+  	},
+	{
+    	"policyTitle": "Safety",
+    	"policyDescription": "16,000 more Police Officers"
+  	},
+	{
+    	"policyTitle": "Employment",
+    	"policyDescription": "Nearly 2.5 million more people in work."
+  	},
+	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "1 million more home owners."
+  	},
+	{
+    	"policyTitle": "Welfare",
+    	"policyDescription": "Minimum wage, winter fuel allowances, tax credits, pensioner and disabled bus passes and much more."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Michael Britton",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Minimum wage",
+  	"education": "Nursery classes attached to primary schools.",
+  	"environment": "",
+  	"governance": "fairer Britain",
+  	"health": "89,000 more Nurses, 44,000 more Doctors",
+  	"immigration": "",
+  	"socialWelfare": "winter fuel allowances, tax credits, pensioner and disabled bus passes and much more.",
+  	"housing": [
+    	{
+      	"content":"1 million more home owners.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "44 Northdown Road Margate CT9 2QB",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Under Labour since 1997 we have a fairer Britain.",
+    	"source": "Campaign Leaflet",
+    	"date": "For the election on Thursday May 6th"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Campaign leaflet with key achievements and policies under Labour."
+    	}
+  	]
+	},
+	"additionalNotes": "Leaflet promotes achievements since 1997 under Labour."
+  }
+}
+```

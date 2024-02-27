@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kate Joester",
+    "constituency": "Edinburgh North and Leith",
+    "politicalParty": "Scottish Green Party",
+    "electionDate": "Thursday 6th May, 2010",
+    "messages": [
+      {
+        "title": "A message from Patrick Harvie MSP",
+        "content": "Voters in Scotland have been electing Green politicians for over ten years now, and we've built up a track record we're proud of, including..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A living wage for all",
+        "policyDescription": "Advocating for fair wages."
+      },
+      {
+        "policyTitle": "Protect public services",
+        "policyDescription": "Commitment to protecting public services."
+      },
+      {
+        "policyTitle": "Create new green jobs",
+        "policyDescription": "Plans to boost employment through green jobs."
+      },
+      {
+        "policyTitle": "Not bonuses for bankers",
+        "policyDescription": "Opposition to excessive bonuses for bankers."
+      },
+      {
+        "policyTitle": "Cut Trident and ID cards",
+        "policyDescription": "Policy to cut spending on the Trident nuclear program and ID cards."
+      },
+      {
+        "policyTitle": "Tackling climate change",
+        "policyDescription": "Efforts to address and combat climate change."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kate Joester",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Patrick Harvie",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Not bonuses for bankers",
+      "education": "",
+      "environment": "Tackling climate change; Create new green jobs",
+      "governance": "Cut Trident and ID cards",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "A living wage for all; Protect public services",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Freepost Scottish Green Party, 4 Bellevue Terrace, Edinburgh, EH7 2PR",
+      "phone": "08700 772207",
+      "email": "hq@scottishgreens.org.uk",
+      "website": "www.scottishgreens.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Green"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

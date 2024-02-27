@@ -1,0 +1,77 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Say NO to the EU",
+        "policyDescription": "UKIP pledges to say NO to the EU"
+      },
+      {
+        "policyTitle": "Control our borders",
+        "policyDescription": "UKIP intends to control the borders"
+      },
+      {
+        "policyTitle": "Extra £3 billion for the NHS",
+        "policyDescription": "UKIP commits to allocating an additional £3 billion to the NHS"
+      },
+      {
+        "policyTitle": "Cut foreign aid spending",
+        "policyDescription": "UKIP proposes to cut foreign aid spending"
+      },
+      {
+        "policyTitle": "No tax on the minimum wage",
+        "policyDescription": "UKIP's pledge includes not to tax individuals on the minimum wage"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "UKIP pledges to say NO to the EU",
+      "economy": "No tax on the minimum wage",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Extra £3 billion for the NHS",
+      "immigration": "Control our borders",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "UKIP's PLEDGE TO BRITAIN"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

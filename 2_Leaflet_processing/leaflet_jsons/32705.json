@@ -1,0 +1,77 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Peter Maughan",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "THE LIB DEMS ARE WINNING",
+    	"content": "The Liberal Democrats have continued to grow following their stunning success at the local and European elections."
+  	},
+  	{
+    	"title": "HAVE A CLEAR CHOICE",
+    	"content": "The Conservatives want to force through a damaging brexit that will wreck our economy and risk the end of the United Kingdom."
+  	},
+  	{
+    	"title": "THIS ELECTION IS YOUR CHANCE TO BUILD A BRIGHTER FUTURE",
+    	"content": "DEMAND BETTER"
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Peter Maughan",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "The Conservatives want to force through a damaging brexit that will wreck our economy and risk the end of the United Kingdom.",
+  	"economy": "The Conservatives want to force through a damaging brexit that will wreck our economy and risk the end of the United Kingdom.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "Return to: Gateshead Liberal Democrats, 76 Saltwell Place, Gateshead, NE8 4QY",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "THE LIB DEMS ARE WINNING"
+    	},
+    	{
+      	"caption": "HAVE A CLEAR CHOICE"
+    	},
+    	{
+      	"caption": "THIS ELECTION IS YOUR CHANCE TO BUILD A BRIGHTER FUTURE"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

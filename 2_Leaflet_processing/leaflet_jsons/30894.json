@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Faisal Rashid",
+    "constituency": "Warrington South",
+    "politicalParty": "Labour",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "Standing up for the many, not the few",
+        "content": "We need a strong, trusted local voice for the community to fight for us in Parliament"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Labour will invest in the future of young people and abolish student tuition fees from September"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Warrington schools are seriously underfunded and facing £4 million cuts. Tory Government funding of schools deliberately robs Warrington South pupils of the cash they deserve"
+      }
+    ],
+    "mentions": {
+      "candidate": "Faisal Rashid",
+      "otherPartyLeaderCandidate": "The Tories",
+      "partyLeader": "",
+      "tacticalSituation": "It's a two horse race in Warrington South between the Tories and Labour. It's neck and neck this time with the LibDems trailing behind."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Labour will invest in the future of young people and abolish student tuition fees from September. Warrington schools are seriously underfunded and facing £4 million cuts.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I have lived in Warrington for almost 20 years. This is our home and I am passionate about making it a better place for all our families.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "07954 080011",
+      "email": "Faisal4RashidWarringtonSouthMP@gmail.com",
+      "website": "www.faisalrashid.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Andy Burnham",
+        "endorsement": "We are supporting Faisal because he is a strong advocate for change and a potent voice for the many."
+      },
+      {
+        "endorser": "Sir Williams and Trisha Cockayne",
+        "endorsement": "We believe he understands the issues facing older people and will stand up for us in Westminster."
+      },
+      {
+        "endorser": "Paul Taylor",
+        "endorsement": "In this election Warrington South voters should back Faisal Rashid..."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Faisal Rashid with supporters at Warrington Hospital"
+        },
+        {
+          "caption": "Faisal Rashid outside The Cobbs Infant and Nursery School, Appleton"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

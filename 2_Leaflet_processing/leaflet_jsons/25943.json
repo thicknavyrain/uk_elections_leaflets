@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kelly Tolhurst",
+    "constituency": "Rochester and Strood",
+    "politicalParty": "Conservatives",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "A strong voice for Rochester and Strood",
+        "content": "A strong local voice working for our community, securing a better future for Rochester and Strood"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Development of the family housing",
+        "policyDescription": "Development of the family housing we need, in the right places, at the right time."
+      },
+      {
+        "policyTitle": "Keeping rates and taxes low",
+        "policyDescription": "Keeping rates and taxes low to support local jobs and businesses."
+      },
+      {
+        "policyTitle": "More children in Outstanding and Good Schools",
+        "policyDescription": "More children in Outstanding and Good Schools, giving them the best start in life."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kelly Tolhurst",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Development of the family housing we need, in the right places, at the right time.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Born, raised and educated in Rochester and Strood before qualifying as a Marine Surveyor. An effective campaigner who listens and delivers on both local and national issues.",
+    "politicalExperience": [
+      {
+        "role": "Experienced local businesswoman",
+        "duration": "",
+        "achievements": "Running a thriving business on the Medway."
+      },
+      {
+        "role": "Local Councillor in Rochester since 2011",
+        "duration": "since 2011",
+        "achievements": ""
+      },
+      {
+        "role": "Cabinet member for educational improvement",
+        "duration": "",
+        "achievements": "Fights for better schools in Medway."
+      },
+      {
+        "role": "Leading member of the Medway Health and Wellbeing board",
+        "duration": "",
+        "achievements": "Helping our hospital improve."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "kelly4rochesterandstrood.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "About Kelly Tolhurst"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

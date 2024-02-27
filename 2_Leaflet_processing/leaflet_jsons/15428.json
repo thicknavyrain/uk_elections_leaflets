@@ -1,0 +1,81 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Boris Johnson",
+	"constituency": "Uxbridge & South Ruislip",
+	"politicalParty": "Conservative",
+	"electionDate": "The General Election in May",
+	"messages": [
+  	{
+    	"title": "HAPPY NEW YEAR FROM BORIS",
+    	"content": "Happy New Year. This year is going to be a big one, for our part of Hillingdon, for the country. The General Election in May will be a decisive moment for the United Kingdom."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Cutting Income Tax & Freezing Fuel Duty",
+    	"policyDescription": "The Conservatives have cut income tax and frozen fuel duty, helping families in Hillingdon become more financially secure."
+  	},
+  	{
+    	"policyTitle": "A Faster and More Reliable Tube",
+    	"policyDescription": "£5 million towards Boris Johnson's multi-million pound improvement programme. Ensuring trains run between trains every two to three minutes during peak times."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Boris Johnson",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "The Conservatives have cut income tax and frozen fuel duty, helping families in Hillingdon become more financially secure.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"I will continue to challenge inappropriate developments with vigour.",
+      	"yimbyNimby": "NIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "After nine years of getting things done as Mayor of London and delivering real improvements to the lives of Londoners, I hope to earn your support and to continue to work on behalf of you, the residents of Uxbridge & South Ruislip.",
+	"politicalExperience": [
+  	{
+    	"role": "Mayor of London",
+    	"duration": "Nine years",
+    	"achievements": "Delivering real improvements to the lives of Londoners."
+  	}
+	],
+	"contactInformation": {
+  	"address": "Boris Johnson, Bay Lodge, 36 Harefield Road, Uxbridge, Middlesex UB8 1PH",
+  	"phone": "",
+  	"email": "",
+  	"website": "boris4uxbridge.com",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Boris Johnson on the Tube."
+    	},
+    	{
+      	"caption": "Boris Johnson with supporters."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet includes a survey for constituents to tell Boris what they think and offers ways for them to help with the campaign."
+  }
+}
+```

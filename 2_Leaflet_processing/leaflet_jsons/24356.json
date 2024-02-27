@@ -1,0 +1,71 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Lesley Rollings",
+    "constituency": "Gainsborough",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Lesley Rollings - the best choice for our next MP",
+        "content": "Lesley believes passionately in fairness, whether that means making sure young people get a decent start in life, that everyone is treated equally, or that we all have the right to live in a warm and comfortable home."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairness",
+        "policyDescription": "Lesley is committed to ensuring fairness, with focus on young people's start in life, equal treatment for all, and right to a warm and comfortable home."
+      }
+    ],
+    "mentions": {
+      "candidate": "Lesley Rollings",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "the right to live in a warm and comfortable home",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Lesley believes passionately in fairness, whether that means making sure young people get a decent start in life, that everyone is treated equally, or that we all have the right to live in a warm and comfortable home.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "gainsborough@libdems.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@goLesleyRolling",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lesley listening to a seated elderly woman"
+        },
+        {
+          "caption": "Lesley and two other people in a semi-rural setting with a dog"
+        }
+      ]
+    },
+    "additionalNotes": "Next General Election: Lib Dem 28% / Conservative 49% / Labour 14% / Others 9% - Indicates a tactical voting situation."
+  }
+}
+```

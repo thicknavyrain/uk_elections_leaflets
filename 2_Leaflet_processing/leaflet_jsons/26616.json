@@ -1,0 +1,52 @@
+{
+  "leaflet": {
+	"candidateName": "Jeff Armstrong",
+	"constituency": "Bolton South East",
+	"politicalParty": "UKIP",
+	"electionDate": "June 8th",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Jeff Armstrong",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": []
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.ukipbolton.org",
+  	"socialMedia": {}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Jeff Armstrong in Bolton South East"
+    	},
+    	{
+      	"caption": "Harry Lamb in Bolton North East"
+    	},
+    	{
+      	"caption": "Martin Tighe in Bolton West"
+    	}
+  	]
+	},
+	"additionalNotes": "UKIP is fighting for proper representation for Bolton in the House of Commons"
+  }
+}

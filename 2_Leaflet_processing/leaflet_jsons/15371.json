@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "A RECORD OF BROKEN PROMISES",
+        "content": "NICK CLEGG PROMISED: No rise in tuition fees, No VAT rise, Fairer taxes. NICK CLEGG'S RECORD: Tripled tuition fees, Raised VAT on working families, Gave millionaires a huge tax break."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Financial Responsibility",
+        "policyDescription": "Balance the books and cut the deficit every year."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "20,000 more nurses and 8,000 more GPs."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Reduce tuition fees to £6,000."
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Freeze energy bills until 2017."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Nick Clegg",
+      "partyLeader": "",
+      "tacticalSituation": "Only Labour can stop Nick Clegg's Lib Dems."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Balance the books and cut the deficit every year.",
+      "education": "Reduce tuition fees to £6,000.",
+      "environment": "",
+      "governance": "",
+      "health": "20,000 more nurses and 8,000 more GPs.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "One Brewer's Green, London SW1H 0RH, Nelson Park, Cramlington, Northumberland NE23 1WG",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "THE LIB DEMS HAVE BROKEN THEIR PROMISES BECAUSE THEY ARE TOO WEAK TO STAND UP TO DAVID CAMERON.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Nick Clegg with text highlighting broken promises and contrasting Labour's key policies."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet critiques Nick Clegg's record and presents Labour's key policies, insinuating the importance of tactical voting to unseat the incumbent party."
+  }
+}
+```

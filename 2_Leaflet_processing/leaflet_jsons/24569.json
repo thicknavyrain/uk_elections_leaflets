@@ -1,0 +1,105 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday",
+    "messages": [
+      {
+        "title": "Across the country, undecided voters are choosing to support Labour",
+        "content": "Labour understands that Britain only succeeds when working families succeed."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Labour will guarantee an apprenticeship for every school leaver who gets the basic grades, and guarantee a job or training for every young person out of work for a year."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Labour will stop people who come here from claiming benefits for two years, and make it illegal for employers to undercut wages by exploiting workers."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Labour will cut the deficit every year, freeze energy bills and ban exploitative zero-hours contracts."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Labour will recruit 20,000 more nurses and 8,000 more GPs, and guarantee a GP appointment within 48 hours."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Labour will reduce tuition fees and guarantee apprenticeships."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Labour will cut stamp duty to zero for first-time buyers and cap rents so they can't rise faster than inflation."
+      }
+    ],
+    "mentions": {
+      "candidate": "Katy, Staff Nurse",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour will cut the deficit every year.",
+      "education": "Labour will reduce tuition fees and guarantee apprenticeships.",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will recruit 20,000 more nurses and 8,000 more GPs, and guarantee a GP appointment within 48 hours.",
+      "immigration": "Labour will stop people who come here from claiming benefits for two years, and make it illegal for employers to undercut wages by exploiting workers.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour will cut stamp duty to zero for first-time buyers and cap rents so they can't rise faster than inflation.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour will train 20,000 more nurses and 8,000 more GPs, and guarantee a GP appointment within 48hrs."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

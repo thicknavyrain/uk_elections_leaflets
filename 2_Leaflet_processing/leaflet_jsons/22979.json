@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "7 May",
+    "messages": [
+      {
+        "title": "We're writing to you because we need your help to kick out the Tories.",
+        "content": "Dear [Name Redacted], \nOn 7 May, we all have a decision to make. It's a choice between a Tory government or a Labour government. Our families and friends in Liverpool, Manchester and Newcastle might be separated from families in Scotland by a border but we still share a lot in common. All of us want an NHS we can depend on, a fair day's wage for a fair day's work, and the best future for our children. We know all too well what the Tories will do if they get another five years in government. They plan even bigger spending cuts which will put our public services at risk. That's why at this election we're voting Labour, and why we're asking you to do the same. We know that Labour is the only party which understands that Britain only succeeds when working families succeed. Labour has a better plan for families in every part of the UK. We're committed to: Ban exploitative zero-hours contracts Raise the minimum wage to more than £8 Recruit more nurses for our NHS Freeze energy bills until 2017 We will do our bit to stop the Tories becoming the largest party and forming the next government. Only Labour can deliver the change we need on 7 May. We are counting on you to vote Labour and help us kick the Tories out. Yours sincerely, Vicky, Mum Newcastle Marie, Grandmother Manchester Perry, Apprentice Liverpool"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Ban exploitative zero-hours contracts and raise the minimum wage to more than £8."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Recruit more nurses for our NHS."
+      },
+      {
+        "policyTitle": "Cost of Living",
+        "policyDescription": "Freeze energy bills until 2017."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "the Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "We want an NHS we can depend on.",
+      "immigration": "",
+      "socialWelfare": "Labour has a better plan for families in every part of the UK.",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Vicky, Mum, Newcastle",
+        "endorsement": "We're voting Labour."
+      },
+      {
+        "endorser": "Marie, Grandmother, Manchester",
+        "endorsement": "We're voting Labour."
+      },
+      {
+        "endorser": "Perry, Apprentice, Liverpool",
+        "endorsement": "We're voting Labour."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We're writing to you because we need your help to kick out the Tories.",
+        "source": "Campaign Leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Peter Lambell",
+    "constituency": "Hove",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "7 May",
+    "messages": [
+      {
+        "title": "Hello",
+        "content": "Remember five years ago, when the Lib Dems promised a new kind of politics? Well I believe we've delivered it. There's now cooperation in government, open discussion about differences instead of the pretence of party unity and ensuing splits between wets and drys, Blairites and Brownites, etc."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "New kind of politics",
+        "policyDescription": "Promoting cooperation in government, open discussion about differences, and avoiding splits such as between wets and drys, and Blairites and Brownites."
+      },
+      {
+        "policyTitle": "Grow-up politics",
+        "policyDescription": "Working with other parties where necessary to get things done for the local community."
+      }
+    ],
+    "mentions": {
+      "candidate": "Peter Lambell",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Promised a new kind of politics, cooperation in government, open discussion about differences, avoiding traditional splits.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "As a former Councillor, I have always practised a grow-up politics, working with other parties where necessary to get things done for the local community. I believe that my experience in local government, while also living and working in the real world, means I would be very effective as MP for Hove.",
+    "politicalExperience": [
+      {
+        "role": "Former Councillor",
+        "duration": "",
+        "achievements": "Practised a grow-up politics, working with other parties where necessary to get things done for the local community."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Peter Lambell, Liberal Democrat candidate for Hove"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

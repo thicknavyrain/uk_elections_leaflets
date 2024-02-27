@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Shaun Bailey",
+    "constituency": "Hammersmith & Fulham",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "In conversation",
+        "content": "Shaun Bailey discusses his time as MP, issues such as Heathrow and housing, and the importance of strong communities and personal responsibility."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Shaun Bailey has put forward plans to combat the housing issue, emphasizing the importance of homeownership and affordable places to rent."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Shaun Bailey recognizes the NHS as an essential service, understanding its importance and the need to properly equip healthcare professionals and hospitals."
+      }
+    ],
+    "mentions": {
+      "candidate": "Shaun Bailey",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Shaun Bailey has written about the need for people to be able to provide for themselves without relying on welfare state provision.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Shaun Bailey emphasizes the importance of the NHS and ensuring it is properly equipped.",
+      "immigration": "",
+      "socialWelfare": "Shaun Bailey has expressed the necessity for people to provide for themselves rather than relying on the welfare state.",
+      "housing": [
+        {
+          "content":"Shaun Bailey has put forward plans to combat the housing issue, focusing on homeownership and affordable renting.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I reject the idea that things must stay the same. By working together we can make things better.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "020 7385 1002",
+      "email": "shaun@shaunbailey.co.uk",
+      "website": "www.shaunbailey.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "All the strong communities that I know attained their strength though personal responsibility, not state hand-outs.",
+        "source": "",
+        "date": ""
+      },
+      {
+        "text": "An entire generation left out of the economy",
+        "source": "The Sun, 16/12/09",
+        "date": ""
+      },
+      {
+        "text": "The development of a whole generation is being stunted. They will enter work they are at all, and the longer they spend doing work the less money they develop personally.",
+        "source": "Shaun Bailey writing for The Independent, 21/01/10",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Shaun Bailey pictured having a conversation with Greg Hands, discussing his time as MP and various campaign issues."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

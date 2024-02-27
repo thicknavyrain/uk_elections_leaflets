@@ -1,0 +1,74 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dari Taylor",
+    "constituency": "Stockton South",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 6 May",
+    "messages": [
+      {
+        "title": "A Future Fair For All",
+        "content": "IT'S YOUR FUTURE. VOTE FOR IT"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax Policy",
+        "policyDescription": "A promise to give a £200,000 tax cut to the richest 3,000 estates in Britain."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dari Taylor",
+      "otherPartyLeaderCandidate": "David Cameron, Nick Clegg",
+      "partyLeader": "",
+      "tacticalSituation": "It's still only Labour who can beat the Tories in Stockton South. Nick Clegg is refusing to rule out backing the Tories in a hung parliament. In our area, a vote for the Liberal Democrats is a vote that helps the Tories."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour enacted policies to support families and businesses and revive the economy during the global recession.",
+      "education": "Investing in our teachers, nurses and police.",
+      "environment": "",
+      "governance": "",
+      "health": "Investing in our teachers, nurses and police.",
+      "immigration": "",
+      "socialWelfare": "Proud of support provided to struggling families and individuals, including those who lost their jobs.",
+      "housing": [
+        {
+          "content": "The Tories abandoned Teesside under Thatcher. They closed down our industries, they employed and left Labour to pick up the pieces.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Labour's Candidate for Stockton South",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Beckfields Avenue, Ingleby Barwick, Stockton-on-Tees, TS17 0QA",
+      "phone": "01642 615778",
+      "email": "dari.taylor@parliament.uk",
+      "website": "www.daritaylor.labour.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dari Taylor, in a campaign photograph."
+        }
+      ]
+    },
+    "additionalNotes": "PS Don't risk not voting Labour this election. If you need help getting to a polling station, call our campaign team on 01642 615778."
+  }
+}
+```

@@ -1,0 +1,88 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Alex Salmond",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "20% VAT 'could be introduced within weeks of a Tory victory' - Daily Telegraph, 8 Aug 2009",
+      "education": "",
+      "environment": "Alex Salmond blasted over climate-change fact-finding trip to the Maldives - Daily Record, 19 Jan 2010",
+      "governance": "",
+      "health": "David Cameron meets NHS privatisation campaigners - Daily Telegraph, 27 Dec 2009",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Labour 'resigned to losing general election'",
+        "source": "The Scotsman, 11 Jan 2010",
+        "date": ""
+      },
+      {
+        "text": "unemployment is already at crisis level.",
+        "source": "TUC General Secretary, 12 Aug 2009",
+        "date": ""
+      },
+      {
+        "text": "[Brown] limps on only because of cabinet cowardice and the fear among backbenchers that a leadership contest now would split the party.",
+        "source": "The Times, 10 Jan 2010",
+        "date": ""
+      },
+      {
+        "text": "Anger as SNP do u-turn on class size and school meals pledges",
+        "source": "Daily Record, 11 December 2009",
+        "date": ""
+      },
+      {
+        "text": "Fewer than one in three voters wants Independence.",
+        "source": "The Scotsman, 25 November 2009",
+        "date": ""
+      },
+      {
+        "text": "Tory Leader wants salaries over £18,000 frozen",
+        "source": "The Herald, 20 Jan 2010",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour has failed us..."
+        },
+        {
+          "caption": "The SNP have failed us..."
+        },
+        {
+          "caption": "...but is this the kind of change we want?"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

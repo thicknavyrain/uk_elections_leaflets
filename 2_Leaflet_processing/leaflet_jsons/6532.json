@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Steve Parker",
+	"constituency": "Stroud",
+	"politicalParty": "UK Independence Party",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Straight talking. Vote UKIP",
+    	"content": "Although I want your vote very much, in this marginal constituency, I ask you to vote for David Drew if possible. He is a committed Euro-sceptic, who will continue to fight for our freedom in Parliament and I don't want to stop him getting there. He has not asked for this help but we believe it would be for the good of our country."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Defend our democratic independence",
+    	"policyDescription": "Support people like David Drew who are prepared to fight for it."
+  	},
+  	{
+    	"policyTitle": "Defend sites like Fox's Field from EU planning targets",
+    	"policyDescription": "Campaign against EU planning targets affecting local sites."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Steve Parker",
+  	"otherPartyLeaderCandidate": "David Drew",
+  	"partyLeader": "",
+  	"tacticalSituation": "In this marginal constituency, tactical voting is suggested to support David Drew, a Euro-sceptic, to ensure his position in Parliament."
+	},
+	"issues": {
+  	"brexitEurope": "Defend our democratic independence from the EU; resist EU planning targets.",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Defend sites like Fox's Field from EU planning targets.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "Freepost RSLU-HZBG-UBBG, UK Independence Party, PO Box 408, Newton Abbot TQ12 9BG.",
+  	"phone": "Call free 0800 587 6 587",
+  	"email": "",
+  	"website": "ukip.org",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Campaign communication for the UK Independence Party featuring Steve Parker for Stroud constituency."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

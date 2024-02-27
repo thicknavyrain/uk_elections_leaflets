@@ -1,0 +1,101 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "South Norfolk",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Don't forget to....",
+        "content": "Use Your Postal Vote. Britain has started growing again but there's much more to do. Let's stay on the road to a stronger economy and a more secure future for you, your family and for South Norfolk. Casting a protest vote could cost you dear. If you forget to return a postal vote you can take it to any polling station in South Norfolk before 10pm on May 7th and your vote will be counted."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "We aim to freeze your Council Tax for another 4 years."
+      },
+      {
+        "policyTitle": "Economic Growth",
+        "policyDescription": "We’ll grow the economy by investing in better facilities that benefit residents and businesses."
+      },
+      {
+        "policyTitle": "Broadband",
+        "policyDescription": "We’ll get superfast Broadband to every neighbourhood."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "We’ll protect our environment and keep South Norfolk clean & tidy."
+      },
+      {
+        "policyTitle": "Support for Vulnerable",
+        "policyDescription": "We’ll help those most in need to stay safe and independent at home."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Casting a protest vote could cost you dear."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A Growing Economy that pays down our debt and creates more business.",
+      "education": "",
+      "environment": "We’ll protect our environment and keep South Norfolk clean & tidy.",
+      "governance": "",
+      "health": "Security in retirement with joined up health and social care.",
+      "immigration": "",
+      "socialWelfare": "Security in retirement with joined up health and social care.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Grasmere Denmark Street Diss Norfolk IP22 4LE",
+      "phone": "01379 333100",
+      "email": "office@snca.org.uk",
+      "website": "www.snca.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@NorfolkTories",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "5 Positive local reasons to vote Conservative. 5 Positive national reasons to vote Conservative"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

@@ -1,0 +1,72 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Bourne",
+    "constituency": "Mid and West Wales",
+    "politicalParty": "Welsh Conservatives",
+    "electionDate": "Thursday 5th May 2011",
+    "messages": [
+      {
+        "title": "A RECORD OF ACTION, A PROMISE OF MORE",
+        "content": "Taking the tough decisions to pay off Labour's debts, getting our economy back on its feet."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Commitment to reducing national debt and restoring jobs by expanding and creating new opportunities."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Pledge to protect the NHS budget, which will additionally reduce waiting times."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Bourne",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Taking the tough decisions to pay off Labour's debts, getting our economy back on its feet.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Pledge to protect the NHS budget, which will additionally reduce waiting times.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Nick Bourne: Supporting Mid and West Wales",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

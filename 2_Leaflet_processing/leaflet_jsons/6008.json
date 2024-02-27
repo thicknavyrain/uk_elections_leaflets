@@ -1,0 +1,104 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rachel Reeves",
+    "constituency": "Leeds West",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday May 6th",
+    "messages": [
+      {
+        "title": "Labour - The Choice for Leeds",
+        "content": "This election is your choice between electing a Labour Party committed to change, or a Tory MP who does not believe real change is needed. Only a vote for Labour will deliver a better future for you, your family, and your community."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A Strong Economy",
+        "policyDescription": "A sustainable economic recovery with high quality jobs"
+      },
+      {
+        "policyTitle": "A First Class Education",
+        "policyDescription": "Investing in schools, training, apprenticeships and SureStart for young people - our future"
+      },
+      {
+        "policyTitle": "Security in Retirement",
+        "policyDescription": "Restoring the earnings link for pensions, protecting the winter fuel allowance, bus passes & other help for pensioners"
+      },
+      {
+        "policyTitle": "Better Transport",
+        "policyDescription": "More frequent and affordable public transport in Leeds West."
+      },
+      {
+        "policyTitle": "Affordable Family Housing",
+        "policyDescription": "Ensuring that local families have the choice of buying or renting a decent home in Leeds West."
+      }
+    ],
+    "mentions": {
+      "candidate": "Being a strong voice for us in Parliament.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Gordon Brown",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Education Revolution in Bramley. Leeds West Academy - A New Start for Bramley.",
+      "environment": "",
+      "governance": "",
+      "health": "Labour Opposes Closure of Bramley Lawn Day Centre.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "New Homes on the Fairfields - Cllr Neil Taggart comments, 'Finally, work has now commenced with the building of the first of over one hundred new homes on the former site of the Tyersal Club; with great views of the countryside, this is set to become a much sort after place to live in our area.'",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I am Labour's new Parliamentary Candidate for Leeds West. I want to be an approachable MP, working in our community to deliver real change.",
+    "politicalExperience": [
+      {
+      "role": "Economist",
+      "duration": "",
+      "achievements": "Rachel Reeves brings to Leeds West and Westminster her experience as an economist working in our country's Bank of England and in our nation's capital, Washington. She has worked for the UK's economic recovery, HBOS, and the massive international finance organisation the World Bank."
+    }
+  ],
+  "contactInformation": {
+      "address": "1 Monkswell, Vesper Road, Leeds LS5 3QE",
+      "phone": "07788 441345",
+      "email": "rachel@leedswestlabour.co.uk",
+      "website": "www.rachelreeves.net",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Cllr Denise Atkinson and Cllr Ted Hanley",
+        "endorsement": "Recommending Rachel Reeves as the strong Labour voice for Leeds West."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "From working with Rachel, I know the tireless campaigner for Leeds West. I couldn't think of anyone better to hand over the baton to than Rachel Reeves, our next MP for Leeds West.",
+        "source": "John Battle",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Rachel Reeves with group of people."
+        },
+        {
+          "caption": "Rachel Reeves at Leeds Station."
+        }
+      ]
+    },
+    "additionalNotes": "Vote for Rachel Reeves and Neil Taggart."
+  }
+}
+```

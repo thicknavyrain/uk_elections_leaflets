@@ -1,0 +1,64 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Bath",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "12th December",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Boris",
+      "partyLeader": "",
+      "tacticalSituation": "Bath is 1 of 50 seats where your vote can Stop Boris... Labour can't win here. Only the Liberal Democrats can beat the Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Tactical voting could swing this election.",
+        "source": "The Guardian, 8th November 2019",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "YOUR vote can help to STOP BORIS"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet focuses on the tactical voting message rather than specific policies or candidate details."
+  }
+}
+```

@@ -1,0 +1,83 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "EMMA WARMAN",
+    "constituency": "Brighton Pavilion",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "STANDING WITH THERESA MAY",
+        "content": "As someone from an ordinary working class background, educated at state school, I'm committed to delivering a fairer society"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer Society",
+        "policyDescription": "Committed to delivering a fairer society with better rail services for Brighton commuters."
+      }
+    ],
+    "mentions": {
+      "candidate": "EMMA WARMAN",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Get the best Brexit deal possible to deliver economic security for our future.",
+      "economy": "Provide strong and stable leadership for our country to deliver economic security for our future.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Committed to delivering a fairer society.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "As someone from an ordinary working class background, educated at state school, I'm committed to delivering a fairer society.",
+    "politicalExperience": [
+      {
+        "role": "Business Career",
+        "duration": "20 year career",
+        "achievements": "Turning to politics after a 20 year career in business I will be an effective local champion and strong voice in Westminster."
+      }
+    ],
+    "contactInformation": {
+      "address": "14 Old Queen Street, London, SW1H 9HP",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Back me on Thursday 8th June to lead Britain.",
+        "source": "Theresa May, Prime Minister",
+        "date": "Thursday 8th June"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "EMMA WARMAN with an image of Brighton Pavilion in the background."
+        },
+        {
+          "caption": "Theresa May, the Prime Minister, speaking."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

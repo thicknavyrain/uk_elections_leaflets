@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Liz Kendall",
+    "constituency": "Leicester West",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "",
+        "content": "Your vote in this election is hugely important; please use it to back the next generation."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Liz Kendall",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liz Kendall with a young girl, emphasizing the importance of voting for the next generation."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

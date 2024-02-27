@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mike Davies",
+    "constituency": "Bath",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "It's time for real change.",
+        "content": "Vote Labour for real change."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Climate Change",
+        "policyDescription": "Take serious action to tackle climate change and invest in sustainable transport, transition to a green industrial revolution."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "An NHS you can depend on with the quality care you need and deserve."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "A final say on Brexit."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Decent, affordable housing."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mike Davies",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "A final say on Brexit.",
+      "economy": "",
+      "education": "",
+      "environment": "Take serious action to tackle climate change and invest in sustainable transport, transition to a green industrial revolution.",
+      "governance": "",
+      "health": "An NHS you can depend on with the quality care you need and deserve.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Decent, affordable housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07922 531 847",
+      "email": "mike@mikedavies4bathlabour.org.uk",
+      "website": "mikedavies4bath.labour.britain",
+      "socialMedia": {
+        "facebook": "facebook.com/mikedavies4bath",
+        "twitter": "twitter.com/mikedavies4bath",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mike Davies, Labour candidate for Bath."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

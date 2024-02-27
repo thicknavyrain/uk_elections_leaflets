@@ -1,0 +1,102 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Howard Porter",
+    "constituency": "Tonbridge and Malling",
+    "politicalParty": "Green Party",
+    "electionDate": "May 7",
+    "messages": [
+      {
+        "title": "Vote for what you believe in",
+        "content": "Imagine a political system that puts the public first. Imagine an economy that gives everyone their fair share. Imagine a society capable of supporting everyone's needs. Imagine a planet protected from the threat of climate change now and for the generations to come."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Public NHS",
+        "policyDescription": "Fight for a publicly funded, publicly provided health service free at the point of use."
+      },
+      {
+        "policyTitle": "Fair Economy",
+        "policyDescription": "End austerity, restore public sector, create jobs through a new Wealth Tax on the top 1%, raise the minimum wage to £10 an hour by 2020."
+      },
+      {
+        "policyTitle": "Decent Homes",
+        "policyDescription": "Build 500,000 social rented homes by 2020 and bring empty homes back into use to ensure affordable housing for everyone."
+      },
+      {
+        "policyTitle": "Safe Climate",
+        "policyDescription": "Take serious action on climate change, phase out fossil fuels, invest in renewable energy and prevent nuclear power."
+      },
+      {
+        "policyTitle": "Free Education",
+        "policyDescription": "Scrap university tuition fees, promote comprehensive local schools offering mixed ability teaching staffed by qualified teachers."
+      },
+      {
+        "policyTitle": "Better Transport",
+        "policyDescription": "Return the railways to public hands for profits to benefit passengers, introduce mandatory seatbelts in all new goods vehicles, promote walking and cycling to help reduce pollution and improve health."
+      }
+    ],
+    "mentions": {
+      "candidate": "Howard Porter",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Restore public sector, create over one million good jobs, pay for this with a new Wealth Tax on the top 1%.",
+      "education": "End tuition fees, comprehensive system of local schools with mixed ability teaching staffed by qualified teachers.",
+      "environment": "Serious action on climate change, phase out fossil fuels, invest in renewables, preventing nuclear power.",
+      "governance": "A democracy that works with a fair voting system, everyone has the right to vote, education system that focuses on learning not teaching to the test.",
+      "health": "Publicly funded and provided NHS, prevent the creeping privatisation of the NHS, make mental health a much higher priority with sufficient resources.",
+      "immigration": "",
+      "socialWelfare": "Abolish the cruel and unfair bedroom tax.",
+      "housing": [
+        {
+          "content": "Build 500,000 social rented homes by 2020 and bring empty homes back into use.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I have lived in Tonbridge and Malling for around 20 years and both my children went to local schools. Before starting my own design business, I was a teacher and both of these experiences have helped me to form a realistic and practical political outlook.",
+    "politicalExperience": [
+      {
+        "role": "Teacher and design business owner",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07950 599 1384",
+      "email": "howard.porter@greenparty.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "facebook.com/HowardForTonbridgeAndMalling",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Caroline Lucas",
+        "endorsement": "MP of the Year, 2014"
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Howard Porter with Natalie Bennett, Green Party Leader."
+        },
+        {
+          "caption": "Howard Porter, Your Green Party Candidate"
+        }
+      ]
+    },
+    "additionalNotes": "This publication has been supported and funded by others, not by big business or corporate interests. Printed on 100% post-consumer waste recycled paper."
+  }
+}
+```

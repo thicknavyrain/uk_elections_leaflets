@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Nick Wellstead",
+	"constituency": "Poole",
+	"politicalParty": "UKIP",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Straight talking.",
+    	"content": "Poole has long suffered from underfunding and bad planning decisions. The time has come for straight talking. I believe in direct democracy and government which listens to the people."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Local decisions on local issues",
+    	"policyDescription": "Advocates for less big government involvement, favoring local decision-making."
+  	},
+  	{
+    	"policyTitle": "Common sense policies",
+    	"policyDescription": "Supports policies with less red tape and bureaucracy."
+  	}
+	],
+	"mentions": {
+  	"candidate": "I want to represent Poole in Parliament and UKIP is the ONLY party committed to action, not just words.",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "0800 587 6 587",
+  	"email": "",
+  	"website": "ukip.org",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Nick Wellstead - Poole"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

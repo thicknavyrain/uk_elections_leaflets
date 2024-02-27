@@ -1,0 +1,93 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Janet Finch-Saunders",
+    "constituency": "Aberconwy",
+    "politicalParty": "Welsh Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "YOUR CHOICE IS MORE OF THE SAME OR CHANGE",
+        "content": "More of the same after 20 years of Labour or a fresh voice with a vote for the Welsh Conservatives."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Jobs and Economy",
+        "policyDescription": "Create 65,000 new jobs by 2026, invest in infrastructure and tourism, £20,000 to support businesses to take on apprentices, aim of a minimum of £10 per hour local minimum wage."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "3,000 more nurses, doctors, and healthcare professionals. Providing better mental health care with 2,200 extra healthcare staff. So we can cut the NHS waiting list backlogs."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Hire 5,000 new teachers over the next 5 years, so we can prioritise our children’s future."
+      }
+    ],
+    "mentions": {
+      "candidate": "Janet Finch-Saunders",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Welsh economy in decline before Covid hit.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Improving access to local health services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Supporting our rural communities. Backing businesses and jobs in Aberconwy.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "A strong voice for Llais cryf dros Aberconwy",
+        "source": "Janet Finch-Saunders",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Janet Finch-Saunders campaigning"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

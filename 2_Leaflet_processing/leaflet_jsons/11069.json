@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Sadiq Khan",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "After May 6th",
+	"messages": [
+  	{
+    	"title": "After May 6th one of two people will represent you...",
+    	"content": "Sadiq Khan stands for re-election on his reputation as an honest, hard-working MP. But what about his Tory opponent?"
+  	},
+	{
+    	"title": "He's hoping you'll vote Lib Dem",
+    	"content": "Whatever happens nationally, here it's a two horse race between Labour and the Tories. Last time, Sadiq Khan got more than twice as many votes as the Liberals. Sadiq visits you more. The Tory candidate opposes it. If the Tories win this seat, they expect to have a majority in Parliament. If you vote Clegg, expect to wake up with Cameron."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Attacking local health services",
+    	"policyDescription": "The Tory opponent has been involved in removing a local health service by voicing for the closure of St George's Hospital Birth Centre."
+  	},
+	{
+    	"policyTitle": "A good education only for a privileged few",
+    	"policyDescription": "Tory opponent depends on a Tory platform of increasing student spending which will make education less accessible to the majority."
+  	},
+	{
+    	"policyTitle": "Taking from the poor to give to the rich",
+    	"policyDescription": "The Tory opponent stated that Britain should make it harder for working families to claim Child Tax Credits."
+  	},
+	{
+    	"policyTitle": "Public transport – Tories making it worse",
+    	"policyDescription": "The Tory opponent criticises plans for a new bus route but has backed rising bus fares."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Sadiq Khan",
+  	"otherPartyLeaderCandidate": "Clegg, Cameron",
+  	"partyLeader": "",
+  	"tacticalSituation": "Two horse race between Labour and the Tories. Voting for Lib Dems or any other party will let the Tories win."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "The closure of St George’s Hospital Birth Centre.",
+  	"immigration": "",
+  	"socialWelfare": "Tory opponent supports policies that would make it harder for working families to claim Child Tax Credits.",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Sadiq Khan stands for re-election on his reputation as an honest, hard-working MP.",
+	"politicalExperience": [
+  	{
+    	"role": "MP",
+    	"duration": "",
+    	"achievements": "Saving St George’s Hospital Birth Centre."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Images of constituents supporting Sadiq Khan"
+    	}
+  	]
+	},
+	"additionalNotes": "Leaflet focused on contrasting Sadiq Khan's hard work and achievements with the opposition's actions and views."
+  }
+}
+```

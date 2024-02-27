@@ -1,0 +1,78 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Angela",
+    "constituency": "Ashton-under-Lyne",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Why I'm standing to be your next MP",
+        "content": "Time and again we hear voters say that they want MPs who are local and who have lived real lives. Our communities desperately need change. Too often policies devised in Westminster seem distant from the real challenges people face every day."
+      },
+      {
+        "title": "Introducing Angela...",
+        "content": "I grew up in a deprived area and have spent the last 15 years of my working life doing low paid care work. I'm a mum of three who has juggled child care with shift work and still found myself counting the pennies until pay day. As an elected trade union official, I have represented 200,000 public sector workers, from school support staff to refuse workers, from cleaners to hospital technicians."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "HEALTH WARNING: TORIES FAIL TO MEET CANCER TARGET",
+        "policyDescription": "The Tories have damaged our NHS over their four years of government with the Liberal Democrats. Since 2010 we've had waiting times go up, winter crisis and ambulances waiting up to 30 minutes outside hospitals because there weren't enough beds."
+      }
+    ],
+    "mentions": {
+      "candidate": "Angela",
+      "otherPartyLeaderCandidate": "Tories and Liberal Democrats",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The Tories have damaged our NHS over their four years of government with the Liberal Democrats. Since 2010 we've had waiting times go up, winter crisis and ambulances waiting up to 30 minutes outside hospitals because there weren't enough beds.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Politics matters to me – I know exactly what the Bedroom Tax means for Ashton-under-Lyne, because every day I speak to people I went to school with, who are really struggling. I understand how crucial our local NHS is, because I rely on it just like everyone else. While Tory millionaires lecture the jobless and vulnerable, struggle to make ends meet, I will show that Labour offers the chance of a better life.",
+    "politicalExperience": [
+      {
+        "role": "elected trade union official",
+        "duration": "15 years",
+        "achievements": "represented 200,000 public sector workers, from school support staff to refuse workers, from cleaners to hospital technicians"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Angela in front of Cancer Research UK"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

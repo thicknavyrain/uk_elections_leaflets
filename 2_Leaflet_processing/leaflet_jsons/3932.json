@@ -1,0 +1,97 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Andy Reed",
+    "constituency": "Loughborough",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Many people have asked me how we can do more to support our pensioners and those getting close to retirement age. Others have expressed their concerns about the future of our NHS, which is a top priority for me."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Invest more in the NHS. Combat the cuts facing the NHS if the Tories get elected."
+      },
+      {
+        "policyTitle": "Cancer Treatment",
+        "policyDescription": "Maintain Labour's guarantee to see a cancer specialist within two weeks if your GP suspects you have cancer."
+      },
+      {
+        "policyTitle": "Pension Rights and Free Bus Passes",
+        "policyDescription": "Protect pension rights, uphold the Winter Fuel Payment, and support free bus passes."
+      },
+      {
+        "policyTitle": "National Care Service",
+        "policyDescription": "Establish a National Care Service to ensure home care and residential care is offered free at the time of need."
+      }
+    ],
+    "mentions": {
+      "candidate": "Andy Reed",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Invest more in the NHS. Combat the cuts facing the NHS if the Tories get elected.",
+      "immigration": "",
+      "socialWelfare": "Protect pension rights, uphold the Winter Fuel Payment, and support free bus passes.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Above all, I am keen to hear more about what you think, so please use the opportunity overleaf. Thank you.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Unity House, 21 Fennel Street, Loughborough, LE11 1UQ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andy Reed interacting with constituents."
+        }
+      ]
+    },
+    "additionalNotes": "Please fill out the survey on the back and return it to me. No stamp required."
+  }
+}
+```

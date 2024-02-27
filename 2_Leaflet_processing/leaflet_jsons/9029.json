@@ -1,0 +1,70 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Robin Wales",
+    "constituency": "Forest Gate",
+    "politicalParty": "Labour Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Your Local Election Team",
+        "content": "Proud of what we have achieved and passionate about what we want to do. We all believe in a fair society and know that means we have to change the way we do things as a council."
+      },
+      {
+        "title": "We're all backing Labour for Forest Gate",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Your local candidates. Robin Wales.",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.newhamlabour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Your Local Election Team"
+        },
+        {
+          "caption": "Robin Wales for Forest Gate"
+        }
+      ]
+    },
+    "additionalNotes": "Remember to vote for Robin Wales, Labour Candidate for Forest Gate."
+  }
+}
+```

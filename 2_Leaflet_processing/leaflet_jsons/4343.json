@@ -1,0 +1,53 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Durham",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "If you vote Conservative in Durham, you'll get 5 more years of Labour"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "If you vote Conservative in Durham, you'll get 5 more years of Labour"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet suggests that voting for the Conservative Party in Durham may be futile, as it would lead to a continuation of Labour governance."
+  }
+}
+```

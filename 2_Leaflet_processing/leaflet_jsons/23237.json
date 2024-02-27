@@ -1,0 +1,63 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "Judith Bunting",
+	"constituency": "Newbury",
+	"politicalParty": "Lib Dems",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Judith Bunting called to see you today",
+    	"content": "Hello, I’m the parliamentary candidate for the Lib Dems in Newbury and West Berkshire. Please contact me if you have any issues or concerns you would like to discuss – no stamp required."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Judith Bunting",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "Ringway House Kelvin Road Newbury RG14 2DB",
+  	"phone": "01635 47375",
+  	"email": "judith.bunting@wbd.org.uk",
+  	"website": "www.judithbunting.co.uk",
+  	"socialMedia": {
+    	"facebook": "JudithBuntingLD",
+    	"twitter": "JudithBuntingLD",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Judith Bunting smiling, with a residential building in the background."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```

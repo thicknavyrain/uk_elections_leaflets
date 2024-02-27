@@ -1,0 +1,85 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Peter May",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Peter May",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Ann Reed, Uplands",
+        "endorsement": "Peter has been a great councillor for us and will make a great MP. People appreciate the time and care he has put into the Uplands ward over the years."
+      },
+      {
+        "endorser": "Wayne Abraham, Townhill",
+        "endorsement": "A lot of people on the Hill want to see Peter as our next MP. Peter works hard for us and he always keeps in touch."
+      },
+      {
+        "endorser": "Jennie Lee, North Hill",
+        "endorsement": "You know what you get with Peter. When there is a local campaign, Peter is there to support a strong voice for us as our MP."
+      },
+      {
+        "endorser": "Mel Nurse, Sandfields",
+        "endorsement": "I'm backing Peter to be our next MP as he is in tune with Swansea. He is an active person who fights for and gets things done."
+      },
+      {
+        "endorser": "Gay Mitchell, Derwen Fawr",
+        "endorsement": "Peter is a great asset to Swansea and deserves to be our MP. He has always been supportive of the local business community."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Local residents expressing their support for Peter May."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

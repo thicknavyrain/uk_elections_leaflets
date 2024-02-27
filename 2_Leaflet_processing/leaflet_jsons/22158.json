@@ -1,0 +1,47 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Daryll Pitcher",
+    "constituency": "Suffolk Coastal",
+    "politicalParty": "UKIP",
+    "electionDate": "2015",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Daryll Pitcher",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "It's a two horse race in Suffolk Coastal"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "A vote for common sense",
+    "politicalExperience": [],
+    "contactInformation": {},
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "I'm backing Daryll Pitcher"
+        }
+      ]
+    },
+    "additionalNotes": "Source European Elections 2014 Suffolk Coastal Council area"
+  }
+}
+```

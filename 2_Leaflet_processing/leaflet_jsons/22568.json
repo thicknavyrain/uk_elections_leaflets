@@ -1,0 +1,60 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Heather Wheeler",
+    "constituency": "South Derbyshire",
+    "politicalParty": "Conservatives",
+    "electionDate": "May 7th",
+    "messages": [
+      {
+        "title": "A personal message from Heather Wheeler",
+        "content": "Heather Wheeler discussing her local connection, achievements, and the importance of securing jobs and improving services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Ensuring that the economy is strong, unemployment low, living standards and pensions rise, the deficit falls and taxes are lowered."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Supporting our NHS, improving education, fighting crime and ensuring that our many beautiful communities retain their identity."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Making sure that we can decide our future in Europe, control immigration and that only English MPs vote on our local issues."
+      }
+    ],
+    "mentions": {
+      "candidate": "Heather Wheeler mentions personal connection to South Derbyshire, her experience, and commitment."
+    },
+    "issues": {
+      "education": "Heather is passionate about extending qualifications at school; discussing apprenticeships with Education Secretary.",
+      "environment": "Supporting local farms and the dairy industry in South Derbyshire.",
+      "governance": "Heather believes the Referendum on Europe is vital as well as stronger immigration controls; ensure protection from crime and terrorism.",
+      "health": "Heather is committed to our NHS."
+    },
+    "politicalExperience": [
+      {
+        "role": "MP for South Derbyshire",
+        "duration": "since 2010",
+        "achievements": "Achieved a reduction in unemployment, support for local farmers and businesses, and improved school qualifications."
+      }
+    ],
+    "contactInformation": {
+      "address": "Martine Allard, Paul M Allard, The Post Office, Main Street, Swadlincote, DE12 8EQ",
+      "phone": "01283 553350",
+      "email": "heather@heatherwheeler.org.uk",
+      "website": "www.heatherwheeler.org.uk",
+      "socialMedia": {}
+    },
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Heather Wheeler pictured discussing local services, with Education Secretary on apprenticeships, and supporting local industry."
+        }
+      ]
+    }
+  }
+}
+```

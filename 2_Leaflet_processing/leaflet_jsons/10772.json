@@ -1,0 +1,65 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Before you cast your vote",
+        "content": "Take a long hard look at the Tories"
+      },
+      {
+        "title": "At every turn the Tories made the wrong decision on tackling the financial crisis.",
+        "content": "And they’re still making the wrong decisions now by committing to immediate cuts which threaten to choke off the recovery."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "At every turn the Tories made the wrong decision on tackling the financial crisis. And they’re still making the wrong decisions now by committing to immediate cuts which threaten to choke off the recovery.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Why won't the Tories guarantee your right to see a cancer specialist within two weeks of GP referral?",
+      "immigration": "",
+      "socialWelfare": "Why would the Tories choose to cut Child Tax Credits and Child Trust Funds and instead give a £200,000 tax break to each of the 3,000 wealthiest estates in the country?",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Take a long hard look at the Tories"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
