@@ -1,0 +1,65 @@
+{
+  "leaflet": {
+    "candidateName": "Eva Lily Fielding",
+    "constituency": "Filton and Bradley Stoke",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Love where you live?",
+        "content": ""
+      }, 
+      {
+        "title": "Want to change politics?",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Eva",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "#lovewhereyoulive"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

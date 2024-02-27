@@ -1,0 +1,107 @@
+{
+    "leaflet": {
+        "candidateName": "Joy Squires",
+        "constituency": "Worcester",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7th May",
+        "messages": [
+            {
+                "title": "A Better Plan. A Better Future for Worcester",
+                "content": "Protect the NHS Reduce tuition fees and improve GP access Tackle the growing housing list"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Protect the NHS and improve GP access"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Reduce tuition fees"
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Tackle the growing housing list"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Lower pay in Worcester by tackling the minimum wage and provide more security with regular working hours"
+            },
+            {
+                "policyTitle": "Employment",
+                "policyDescription": "Create secure jobs and boost small businesses in Worcestershire to ensure people have good jobs with regular quality wages"
+            },
+            {
+                "policyTitle": "Family Support",
+                "policyDescription": "Help working parents with 25 hours of free childcare starting for 3-4 year olds and improved wraparound care"
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Take immigration control and getting tough on benefits"
+            }
+        ],
+        "mentions": {
+            "candidate": "Joy Squires",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Lower pay in Worcester by tackling the minimum wage",
+            "education": "Reduce tuition fees",
+            "environment": "",
+            "governance": "",
+            "health": "Protect the NHS and improve GP access",
+            "immigration": "Take immigration control and getting tough on benefits",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Tackle the growing housing list",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I have made a difference in my working life for over 20 years at the University Lecturer helping part time students return to study to kick start their careers, made a difference for children and families in our city.",
+        "politicalExperience": [
+            {
+                "role": "University Lecturer",
+                "duration": "over 20 years",
+                "achievements": "Helping part time students return to study to kick start their careers"
+            },
+            {
+                "role": "Active in Labour Party",
+                "duration": "For four years",
+                "achievements": "Making a difference to people's everyday lives by fighting for NHS, minimum wage and providing 25 hours a week free childcare"
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Labour's local pledges for Worcester: Plan for the long term, balancing the books without slashing essential services. Labour will back small businesses to create more apprenticeships. Labour will work to ease traffic congestion in the city. Labour will lead the development of Worcester as a city attractive to tourists. Labour will take action to improve safety in the City Centre and local neighbourhoods.",
+                "source": "Labour General Election Candidate",
+                "date": "Thursday 7th May"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

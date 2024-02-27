@@ -1,0 +1,80 @@
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "Sheffield Hallam",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Are you happy with the way things are in Scotland today?",
+        "content": "Some people certainly are! Just look at the bankers picking up huge bonuses as if the credit crunch and bank bail-outs never happened. Just look at the way that pensioners are left to struggle in freezing cold homes. Just look at the scandal of MPs' expenses."
+      },
+      {
+        "title": "No wonder that in many parts of Scotland, it's a choice between real change with the Liberal Democrats or more of the same with Labour.",
+        "content": "Scotland needs change, but that certainly won't come from the Conservatives or the SNP. The Tories only want to help their rich friends by cutting tax for millionaires. The SNP are irrelevant at the Westminster Parliament."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax Plan",
+        "policyDescription": "At the heart of our plans is our fairer tax plan launched by Vince Cable and myself. With the Liberal Democrats, your will will mean millions of low earners and pensioners will pay no tax at all. It will mean that people who earn over £10,000 will get an extra £700 in their pockets."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Rich bankers, millionaires and polluters will finally be made to pay their fair share."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "Conservatives, SNP",
+      "partyLeader": "",
+      "tacticalSituation": "In many parts of Scotland, it's a choice between real change with the Liberal Democrats or no change with Labour."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Discussing the economic situation regarding bankers, bonuses, and the credit crunch.",
+      "education": "",
+      "environment": "Mentions polluters being made to pay their fair share.",
+      "governance": "Refers to the scandal of MPs' expenses.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Description of pensioners struggling implies a social welfare concern.",
+      "housing": [
+        {
+          "content": "Just look at the way that pensioners are left to struggle in freezing cold homes.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Leader of the Liberal Democrats",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "4 Cowley Street, London, SW1P 3NB",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Nick Clegg with the text 'Leader of the Liberal Democrats'"
+        }
+      ]
+    },
+    "additionalNotes": "PS - Remember in many parts of Scotland, the Conservatives and the SNP simply can't win. The choice is between real change with the Liberal Democrats or no change with Labour."
+  }
+}

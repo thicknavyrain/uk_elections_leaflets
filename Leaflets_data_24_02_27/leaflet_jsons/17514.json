@@ -1,0 +1,95 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Voting SNP means...The SNP will play a constructive role in Westminster and bring ideas forward in a positive spirit."
+      },
+      {
+        "title": "THE VOW",
+        "content": "THE VOW Delivered by YOUR SCOTTISH NATIONAL PARTY. The Smith Commission Agreement, back by all parties, now gives us the chance to hold Westminster to the promises they made to us."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "Invest in childcare."
+      },
+      {
+        "policyTitle": "Public Services",
+        "policyDescription": "Invest in vital public services."
+      },
+      {
+        "policyTitle": "Nuclear Weapons",
+        "policyDescription": "Not waste £100 billion on new nuclear weapons."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "discoverSNP.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "With budgets so tight, invest wisely."
+  }
+}

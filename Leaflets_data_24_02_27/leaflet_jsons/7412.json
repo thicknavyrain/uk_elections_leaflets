@@ -1,0 +1,80 @@
+{
+    "leaflet": {
+        "candidateName": "Donald John MacSween",
+        "constituency": "",
+        "politicalParty": "Scottish Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Fighting for local services",
+                "content": "I helped secure financial support for..."
+            },
+            {
+                "title": "My pledges to you",
+                "content": "I believe honesty is open to doubting, financial restraints, and I will respect that to you."
+            },
+            {
+                "title": "D.J. Gets Things Done",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Donald John MacSween",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I am an Islander, by birth, upbringing in the Isle of Skye...Community involvement....",
+        "politicalExperience": [
+            {
+                "role": "Councillor",
+                "duration": "",
+                "achievements": "Fighting for local services\nD.J.'s Achievements."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Sandy Mor.",
+                "endorsement": "A lifetime of support"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Donald John MacSween - A Strong Local Voice"
+                }
+            ]
+        },
+        "additionalNotes": "The text of the leaflet is partially obscured and cannot be fully read. The exact positions on issues are therefore not provided in this JSON format."
+    }
+}

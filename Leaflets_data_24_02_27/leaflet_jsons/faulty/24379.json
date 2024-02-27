@@ -1,0 +1,87 @@
+{
+    "leaflet": {
+        "candidateName": "Sir Edward Leigh",
+        "constituency": "Gainsborough",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday, 7th May 2015",
+        "messages": [
+            {
+                "title": "Re-elect Sir Edward Leigh",
+                "content": "Campaigns strongly on local issues, One of the most regular speakers in the House of Commons, Has his home in the constituency, On the Speaker's Panel of Chairmen."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "The Countryside",
+                "policyDescription": "Campaigning for better local hospital services, local academies and grammar schools, and better rail services."
+            },
+            {
+                "policyTitle": "Policing",
+                "policyDescription": "Campaigning for increased policing on the beat."
+            },
+            {
+                "policyTitle": "Europe",
+                "policyDescription": "Campaigning for a referendum on Europe."
+            },
+            {
+                "policyTitle": "Energy",
+                "policyDescription": "Campaigning against wind turbines and large solar farms."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Campaigning against cuts in rail service and closure of Hawthorn Road."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Campaigning against large-scale overdevelopment of our villages with housing."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sir Edward Leigh",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "A referendum on Europe",
+            "economy": "",
+            "education": "Campaigning for local academies & grammar schools",
+            "environment": "Campaigning for The Countryside",
+            "governance": "",
+            "health": "Better local hospital services",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Campaigning against large-scale overdevelopment of our villages with housing",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Speaker's Panel of Chairmen",
+                "duration": "",
+                "achievements": "One of the most regular speakers in the House of Commons"
+            }
+        ],
+        "contactInformation": {
+            "address": "Office 1, 20 Union Street, Market Rasen LN8 3AA",
+            "phone": "01673 849461",
+            "email": "office@gainsboroughconservatives.org.uk",
+            "website": "www.gainsboroughconservatives.org.uk",
+            "socialMedia": {}
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Sir Edward Leigh - At your service!"
+                }
+            ]
+        },
+        "additionalNotes": "This leaflet is being sent to every home in the constituency to second and subsequent names on the electoral register in each household."
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "leaflet": {
+        "candidateName": "Maggie Throup",
+        "constituency": "Erewash",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Your local vote will decide the next Prime Minister",
+                "content": "This election will be close. YOUR LOCAL VOTE will decide it."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done with our new deal"
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "\u00a333.9 billion extra for the NHS, 40 new hospitals across the country"
+            },
+            {
+                "policyTitle": "Public Safety",
+                "policyDescription": "20,000 extra police officers, more funding for every pupil in every school"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "\u00a33.6 billion to help towns invest and attract new businesses"
+            },
+            {
+                "policyTitle": "Broadband",
+                "policyDescription": "Gigabit broadband for the whole country"
+            }
+        ],
+        "mentions": {
+            "candidate": "Maggie Throup",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn by Nicola Sturgeon, Brexit Party",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Polls teeter between hung parliament and slim Tory majority"
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done with our new deal",
+            "economy": "\u00a33.6 billion to help towns invest and attract new businesses",
+            "health": "\u00a333.9 billion extra for the NHS, 40 new hospitals across the country",
+            "housing": [
+                {
+                    "content": "20,000 extra police officers on the streets",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Maggie Throup with Boris Johnson"
+                },
+                {
+                    "caption": "Promotional graphics comparing leaders' choices, NHS funding, broadband investment, and highlighting strategic voting situation in Erewash"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

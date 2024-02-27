@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "North East",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 6 May",
+	"messages": [
+  	{
+    	"title": "REVEALED: Tories to make North East top target for cuts",
+    	"content": "The leaflet suggests that the Conservative party has plans to target the North East for public spending cuts."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "David Cameron",
+  	"partyLeader": "",
+  	"tacticalSituation": "The leaflet implies a strategic consideration for voters in the North East to remember past events and to vote accordingly in order to avoid the Tory plans."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "The leaflet mentions public spending cuts in the North East and suggests an economic impact on the region.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "An image with text about the Conservative party's alleged plans for cuts in the North East."
+    	}
+  	]
+	},
+	"additionalNotes": "The text is taken from a news source and is used to criticize the Conservative party's alleged plans. It is part of Labour's campaign to encourage voting for their party."
+  }
+}

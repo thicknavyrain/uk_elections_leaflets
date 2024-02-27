@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Conservative Party",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Hung Parliament",
+    	"content": "SNP help Corbyn into No10, Brexit stopped"
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Corbyn",
+  	"partyLeader": "",
+  	"tacticalSituation": "YOUR VOTE CAN STOP THIS."
+	},
+	"issues": {
+  	"brexitEurope": "Brexit stopped",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "4 Matthew Parker Street, London SW1H 9HQ",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Image of Jeremy Corbyn, Nicola Sturgeon, and another individual in front of No. 10 Downing Street."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet appears to be targeting the threat of a 'Hung Parliament' and the potential for Jeremy Corbyn, supported by the SNP, to become Prime Minister."
+  }
+}

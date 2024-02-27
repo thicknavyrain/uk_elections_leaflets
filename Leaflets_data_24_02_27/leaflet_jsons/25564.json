@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+    "candidateName": "Gordon Brown",
+    "constituency": "Kirkcaldy, Fife",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Dear %constituency%",
+        "content": "On Thursday, Scottish families face a choice between a Labour or a Tory government. Every %politicalParty% vote will help to deliver a Labour government is to Vote Labour."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Barn exploitation, zero-hours contracts, raise the minimum wage to above £8"
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Recruit 1,000 more nurses for the Scottish NHS, funded by a UK-wide mansion tax"
+      },
+      {
+        "policyTitle": "Youth Employment",
+        "policyDescription": "Guarantee a job; training or an apprenticeship for our young people"
+      }
+    ],
+    "mentions": {
+      "candidate": "Gordon Brown",
+      "otherPartyLeaderCandidate": "Tories and the SNP",
+      "partyLeader": "",
+      "tacticalSituation": "Only Labour can stop the Tories being the largest party and stop the SNP putting us on the road to a second referendum."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Barn exploitation, zero-hours contracts, raise the minimum wage to above £8",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Recruit 1,000 more nurses for the Scottish NHS, funded by a UK-wide mansion tax",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "This election is the closest thing to investing in generations. Only Labour can stop the Tories being the largest party and stop the SNP putting us on the road to a second referendum.",
+        "source": "Campaign Material",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photograph of Gordon Brown"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

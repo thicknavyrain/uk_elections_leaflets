@@ -1,0 +1,95 @@
+{
+    "leaflet": {
+        "candidateName": "Jeff Smith",
+        "constituency": "South Manchester",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday June 8th",
+        "messages": [
+            {
+                "title": "Labour will invest in our Police",
+                "content": "Discussing the impact of Tory and Lib Dem governments on police numbers and crime, commitment to recruiting more police officers and tackling local crime."
+            },
+            {
+                "title": "Save Our Schools",
+                "content": "Outlining the negative impact of Conservative government plans for school funding in South Manchester's schools, including budget cuts and loss of teachers."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investing in Public Services",
+                "policyDescription": "Opposition to more Tory cuts, and a promise of investment in public services, not cuts."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Against a 'hard Brexit' and voted against triggering Article 50. Pledges to oppose Tory Brexit plans which would harm South Manchester."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Against the government plans to cut school funding which would severely impact schools in South Manchester."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jeff Smith",
+            "otherPartyLeaderCandidate": "Theresa May, Lib Dems",
+            "partyLeader": "",
+            "tacticalSituation": "The leaflet presents the tactical situation that it's a choice between Labour and the Tories, implying Jeremy Corbyn's Labour is the only one that can stop the Tories."
+        },
+        "issues": {
+            "brexitEurope": "Against a 'hard Brexit' and triggering Article 50, which would harm South Manchester.",
+            "economy": "",
+            "education": "Against Conservative government plans for school funding meaning South Manchester's schools face massive cuts.",
+            "environment": "",
+            "governance": "Criticising the Lib Dem record in government and their coalition with Tories.",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Jeff Smith: Standing up for South Manchester - Opposing more Tory cuts, against a hard Brexit.",
+        "politicalExperience": [
+            {
+                "role": "MP for South Manchester",
+                "duration": "Two years",
+                "achievements": "Dealt with over 10,000 enquiries and held local advice surgeries every week, with over 25,000 people having been invited to 'meet your MP' coffee mornings."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "07470 514816",
+            "email": "jeff@jeffsmith2017.org.uk",
+            "website": "www.jeffsmith.org.uk",
+            "socialMedia": {
+                "facebook": "jeffsmithetc",
+                "twitter": "jeffsmithetc",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jeff Smith engaging in parliamentary debate and interacting with constituents."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

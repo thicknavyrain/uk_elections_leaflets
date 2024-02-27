@@ -1,0 +1,85 @@
+{
+  "leaflet": {
+    "candidateName": "JOHN SOUTHWORTH",
+    "constituency": "BURY NORTH",
+    "politicalParty": "Green Party",
+    "electionDate": "7 MAY 2015",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Politics",
+        "policyDescription": "SAY NO TO POLITICS AS USUAL"
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "PROTECT THE NHS"
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "BAN FRACKING"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "FREE EDUCATION"
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "#RAILWAYS IN PUBLIC HANDS"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "#10 AN HOUR MINIMUM WAGE"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "NO TO BEDROOM TAX"
+      }
+    ],
+    "mentions": {
+      "candidate": "JOHN SOUTHWORTH",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "BAN FRACKING",
+      "governance": "SAY NO TO POLITICS AS USUAL",
+      "health": "PROTECT THE NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"NO TO BEDROOM TAX",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Your Green Party Candidate JOHN SOUTHWORTH"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

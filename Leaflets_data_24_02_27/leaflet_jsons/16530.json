@@ -1,0 +1,77 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Bradford",
+        "politicalParty": "Green Party",
+        "electionDate": "7th May",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Welfare",
+                "policyDescription": "Make welfare fairer to protect the most vulnerable in society."
+            },
+            {
+                "policyTitle": "Taxation",
+                "policyDescription": "Make the top 1% and big business pay their fair share of tax."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Stop the privatisation of the NHS and reverse the cuts."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Build truly affordable housing for all."
+            },
+            {
+                "policyTitle": "Climate Change",
+                "policyDescription": "Tackle climate change and invest in renewable energy."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Our current economic system is too unequal and exploitative. Our reckless consumerism is environmentally damaging and unsustainable.",
+            "education": "",
+            "environment": "Our reckless consumerism is environmentally damaging and unsustainable.",
+            "governance": "",
+            "health": "Stop the privatisation of the NHS and reverse the cuts.",
+            "immigration": "",
+            "socialWelfare": "Make welfare fairer to protect the most vulnerable in society.",
+            "housing": [
+                {
+                    "content": "Build truly affordable housing for all.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "bradford.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "Bradford District will have the chance to vote for a different kind of politics. The Green Party believes the politics of the future doesn't have to look like the politics of the past."
+    }
+}

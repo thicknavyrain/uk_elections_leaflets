@@ -1,0 +1,103 @@
+{
+  "leaflet": {
+	"candidateName": "David Nickolay",
+	"constituency": "Ewell",
+	"politicalParty": "Labour",
+	"electionDate": "May 6th",
+	"messages": [
+  	{
+    	"title": "A Listening Leader",
+    	"content": "David Nikolay puts local people first - listening, campaigning tirelessly on our behalf."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Housing Crisis",
+    	"policyDescription": "Tackle unauthorised encampments and ensure developers’ contributions benefit the community."
+  	},
+  	{
+    	"policyTitle": "Supporting Families",
+    	"policyDescription": "Helping families get the support they need by fighting for every penny from Surrey."
+  	},
+  	{
+    	"policyTitle": "A Fair Deal for Ewell",
+    	"policyDescription": "Meet the immediate financial challenge without cutting services or raising council tax."
+  	},
+  	{
+    	"policyTitle": "NHS Heroes",
+    	"policyDescription": "Ensure our NHS workers are rewarded and NHS services in Ewell are properly funded."
+  	},
+  	{
+    	"policyTitle": "Safer Communities",
+    	"policyDescription": "Campaigns for improved safety measures to reduce antisocial behaviour and speeding."
+  	},
+  	{
+    	"policyTitle": "Protecting Green Spaces",
+    	"policyDescription": "Defend Ewell’s parks and open spaces, keeping them accessible to everyone."
+  	}
+	],
+	"mentions": {
+  	"candidate": "David Nickolay",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "Keir Starmer",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Opposed the Government’s Brexit deal.",
+  	"economy": "A Fair Deal for Ewell: Meet the immediate financial challenge without cutting services or raising council tax.",
+  	"education": "",
+  	"environment": "Protecting Green Spaces: Defend Ewell’s parks and open spaces, keeping them accessible to everyone.",
+  	"governance": "",
+  	"health": "NHS Heroes: Ensure our NHS workers are rewarded and NHS services in Ewell are properly funded.",
+  	"immigration": "",
+  	"socialWelfare": "Supporting Families: Helping families get the support they need by fighting for every penny from Surrey.",
+  	"housing": [
+		{
+			"content":"Tackle unauthorised encampments and ensure developers’ contributions benefit the community.",
+			"yimbyNimby": "NIMBY"
+		}
+	]
+	},
+	"personalStatement": "I'm proud to have been part of the Labour team leading the charge to protect Ewell's precious green spaces...",
+	"politicalExperience": [
+  	{
+    	"role": "Ewell Court, Auriol & Cuddington",
+    	"duration": "2 years",
+    	"achievements": "Leading the charge to protect Ewell's green spaces, helping to secure the future of Ewell Village Library..."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "david@epsom-ewell-labour.org.uk",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "david4ewell",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Keir Starmer",
+    	"endorsement": "David has been an invaluable member of the team in Ewell Court, Auriol & Cuddington..."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "I'm proud to have been part of... the Labour team leading the charge...",
+    	"source": "David Nickolay",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "David canvassing with Labour team"
+    	}
+  	]
+	},
+	"additionalNotes": "Endorsed by Keir Starmer. Labour Party leader."
+  }
+}

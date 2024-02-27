@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "Yeadon",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "A plan for a fairer Britain",
+    	"content": "The leaflet presents an outline of the Liberal Democrat's vision for a fairer Britain, which includes promises of tax cuts, NHS investment, and educational support."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Income Tax Cut",
+    	"policyDescription": "The Lib Dems have delivered a £800 income tax cut for 25 million workers. Now they are campaigning for a further £400 income tax cut."
+  	},
+  	{
+    	"policyTitle": "NHS Support",
+    	"policyDescription": "The Lib Dems are committed to invest £8 billion to ensure the NHS remains a world class service."
+  	},
+    	{
+    	"policyTitle": "Schools Support",
+    	"policyDescription": "The Lib Dem 'Pupil Premium' has delivered £5.5 billion extra for children in schools nationwide to stop children falling behind. They are also campaigning for increased pre-school childcare."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "The 'Pupil Premium' initiative delivered by the Lib Dems brought in £5.5 billion extra for education.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "The Lib Dems have a commitment to invest £8 billion in the NHS to maintain its world class service.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+    	  "content":"",
+    	  "yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "A plan for a fairer Britain"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

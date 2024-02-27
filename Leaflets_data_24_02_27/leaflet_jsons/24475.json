@@ -1,0 +1,83 @@
+{
+    "leaflet": {
+        "candidateName": "Anna Turley",
+        "constituency": "Redcar",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Anna Turley",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Anna Turley with a background of infrastructure indicative of Redcar constituency"
+                }
+            ]
+        },
+        "additionalNotes": "Leaflet shows an emphasis on local passion and national experience."
+    }
+}

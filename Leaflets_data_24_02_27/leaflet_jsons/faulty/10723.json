@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Susan Williams",
+    "constituency": "Bolton West",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "BACKING THE NHS",
+        "content": "The NHS is our number one priority. We back it and we want to improve it for everyone."
+      },
+      {
+        "title": "LABOUR'S TAX ON JOBS WILL KILL THE RECOVERY",
+        "content": "The re-election of Gordon Brown's government - with more debt, waste and taxes - will bring us a new recession."
+      },
+      {
+        "title": "SUPPORTING SINGLE SEX WARDS",
+        "content": "Susan and [name redacted] support the campaign for single sex wards."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Cut Labour waste to stop excessive government borrowing, which will cut taxes on jobs."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "NHS is a top priority, the Conservatives will increase spending on the NHS every year."
+      }
+    ],
+    "mentions": {
+      "candidate": "Susan Williams",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Susan has campaigned against massive windfarm projects."
+      "governance": "",
+      "health": "NHS will have increased spending with Conservatives.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Building more local and affordable houses, making sure the system works for people who need help."
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "58 New Hall Lane, Heaton, Bolton BL1 5LW",
+      "phone": "01204 496040",
+      "email": "[email protected]",
+      "website": "www.boltonwestconservatives.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Susan Williams with David Cameron discussing Bolton West issues."
+        },
+        {
+          "caption": "Susan's 2009 'run for the midnight mission' to raise awareness and funds for local hospice - over £200,000 was eventually raised."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

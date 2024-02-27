@@ -1,0 +1,81 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew Waters",
+        "constituency": "SW Bedfordshire",
+        "politicalParty": "Green Party",
+        "electionDate": "12th December",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Taking Real Action on the Climate Crisis",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Making Society Work for Everyone",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Giving the Public a Final Say on Brexit",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "A Green New Deal",
+                "policyDescription": "Investment in new green jobs, green housing, and a sustainable transport revolution. No more fossil fuel subsidies."
+            },
+            {
+                "policyTitle": "A Fairer Society for Britain",
+                "policyDescription": "Scrap tuition fees. Free public childcare. Proper funding for the NHS. Access to mental healthcare."
+            },
+            {
+                "policyTitle": "Power to the People",
+                "policyDescription": "Co-operatively owned public utilities. A basic income for all. Support for small businesses. Proportional representation for future elections."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrew Waters",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Giving the Public a Final Say on Brexit",
+            "economy": "A Green New Deal; Power to the People",
+            "education": "A Fairer Society for Britain",
+            "environment": "Taking Real Action on the Climate Crisis; A Green New Deal",
+            "governance": "Power to the People",
+            "health": "A Fairer Society for Britain",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "A Green New Deal",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "andrew.waters@greenparty.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "Green4SWBeds",
+                "twitter": "@Green4SWBeds",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Andrew Waters with leafy background"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "leaflet": {
+        "candidateName": "Andy McDonald",
+        "constituency": "Middlesbrough",
+        "politicalParty": "Labour Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Good morning!",
+                "content": "Make sure you vote Labour today"
+            },
+            {
+                "title": "",
+                "content": "Send a message to David Cameron and the Tories today. Middlesbrough says 'Enough is enough'. Vote Labour today."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Andy McDonald",
+            "otherPartyLeaderCandidate": "David Cameron",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07872 417 225",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Andy McDonald, Labour Party Candidate"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet promotes voting for Labour Party and Andy McDonald. It attempts to send a message to the then-Prime Minister David Cameron and the Conservative Party."
+    }
+}

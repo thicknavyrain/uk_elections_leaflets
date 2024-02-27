@@ -1,0 +1,74 @@
+{
+    "leaflet": {
+        "candidateName": "Jeremy Corbyn",
+        "constituency": "Islington North",
+        "politicalParty": "Labour",
+        "electionDate": "Spring 2010",
+        "messages": [
+            {
+                "title": "Islington Labour is different. Our priority is to make our borough fairer.",
+                "content": "Free school meals for all primary school children\nMore affordable housing for people in need\nLocal jobs and council apprenticeships"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Free school meals",
+                "policyDescription": "Free school meals for all primary school children"
+            },
+            {
+                "policyTitle": "Affordable housing",
+                "policyDescription": "More affordable housing for people in need"
+            },
+            {
+                "policyTitle": "Local jobs",
+                "policyDescription": "Local jobs and council apprenticeships"
+            }
+        ],
+        "mentions": {
+            "candidate": "Jeremy Corbyn",
+            "otherPartyLeaderCandidate": "The Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "The Tories are showing what they are about in tough times, their priority is to give a tax cut to the 3,000 wealthiest people in the country while taking tax credits off hard working families.",
+            "education": "Free school meals for all primary school children",
+            "environment": "",
+            "governance": "",
+            "health": "We care about local issues such as the future of the Whittington Hospital. NHS managers are currently looking at changes to health services across North London. They are considering closing major services at the Whittington Hospital, like the A&E department. Islington Labour is leading the fight against plans to close the Accident & Emergency unit at the Whittington.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "More affordable housing for people in need",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Photo of Jeremy Corbyn, Stephen Ng, Tom Gatz, and Marian Spall"
+                }
+            ]
+        },
+        "additionalNotes": "Leaflet also contains a space for recipients to fill in the issues important to them and a request to return the card for further engagement."
+    }
+}

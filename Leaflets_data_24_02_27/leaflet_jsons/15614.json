@@ -1,0 +1,103 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The Tories claim the economy is fixed, but we're worse off since 2010.",
+        "content": "Labour will back British businesses by cutting business rates."
+      },
+      {
+        "title": "The Tories claim the economy is fixed, but we're worse off since 2010.",
+        "content": "Labour will deal with the cost-of-living crisis by freezing energy bills until 2017."
+      },
+      {
+        "title": "Back British business, say Labour",
+        "content": "Labour will back British businesses by cutting business rates."
+      },
+      {
+        "title": "Let's 3-plan for the recovery for the many, not the few.",
+        "content": "Labour will raise the minimum wage to £8 an hour by 2020."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Labour will back British businesses by cutting business rates."
+      },
+      {
+        "policyTitle": "Cost-of-Living",
+        "policyDescription": "Labour will deal with the cost-of-living crisis by freezing energy bills until 2017."
+      },
+      {
+        "policyTitle": "Minimum Wage",
+        "policyDescription": "Labour will raise the minimum wage to £8 an hour by 2020."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour will back British businesses by cutting business rates.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Labour will deal with the cost-of-living crisis by freezing energy bills until 2017; Labour will raise the minimum wage to £8 an hour by 2020.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Back British business, say Labour"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

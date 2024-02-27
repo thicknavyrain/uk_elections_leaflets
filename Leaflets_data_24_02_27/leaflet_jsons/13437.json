@@ -1,0 +1,101 @@
+{
+  "leaflet": {
+    "candidateName": "Christine Jardine",
+    "constituency": "Edinburgh West",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "The Best Choice for (constituency)",
+        "content": "A message from Christine Jardine"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Fight against a hard Brexit."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Opposes SNP's education policy, supports investing in schools."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Supports mental health, opposes Conservative health policy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Christine Jardine",
+      "otherPartyLeaderCandidate": "Theresa May, Nicola Sturgeon",
+      "partyLeader": "Tim Farron",
+      "tacticalSituation": "Christine can win, SNP can be beaten here."
+    },
+    "issues": {
+      "brexitEurope": "Opposes hard Brexit, supports staying in single market.",
+      "economy": "",
+      "education": "Wants to reverse SNP education cuts, invest in children's future.",
+      "environment": "",
+      "governance": "",
+      "health": "Wants to put mental health care on an equal footing with physical health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Christine supports more affordable houses.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Christine has lived in Edinburgh for 25 years with her family.",
+    "politicalExperience": [
+      {
+        "role": "Journalism",
+        "duration": "Not specified",
+        "achievements": ""
+      },
+      {
+        "role": "Communications Advisor in Government",
+        "duration": "Not specified",
+        "achievements": ""
+      },
+      {
+        "role": "Lecturer in Journalism",
+        "duration": "Not specified",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "http://www.scotlibdems.org.uk/",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Guardian",
+        "endorsement": "The Guardian has endorsed the Liberal Democrats as the real opposition to the Conservative Brexit government and the only party which is standing up for liberal values for Britain."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "This general election is your chance to change the direction of our country.",
+        "source": "Tim Farron, Leader of the Liberal Democrats",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photographs of Christine Jardine and supporters"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet argues that SNP can be defeated in this constituency, and Christine Jardine is presented as the viable candidate to accomplish this."
+  }
+}

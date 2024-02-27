@@ -1,0 +1,74 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "constituency": "Bury North",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "MAKING BREXIT A SUCCESS IS CENTRAL TO OUR NATIONAL INTEREST",
+                "content": "As a nation, we face the most important period in our lifetime. Making Brexit a success is central to our national interest\u2014and it is central to your own security and prosperity."
+            },
+            {
+                "title": "THAT'S WHY I DECIDED WE NEED AN ELECTION NOW",
+                "content": "By going to Brussels with a strong negotiating hand I can ensure we guarantee our economic security. That means delivering better paying jobs, more affordable housing, a good school place for every child, and a strong economy paying for a strong NHS."
+            },
+            {
+                "title": "THE CHOICE IS CLEAR",
+                "content": "The choice at this election is clear. Strong and stable leadership with me in the national interest, to see us through Brexit and beyond. Or a hung parliament and coalition of chaos with Jeremy Corbyn."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Ensuring a successful Brexit to guarantee economic security, better paying jobs, more affordable housing, good schooling, and a strong NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "The choice at this election is clear. Strong and stable leadership with me in the national interest to see us through Brexit and beyond, or a hung parliament and coalition of chaos with Jeremy Corbyn."
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest.",
+            "economy": "A strong negotiating hand to ensure we guarantee our economic security.",
+            "education": "A good school place for every child.",
+            "environment": "",
+            "governance": "Strong and stable leadership with me in the national interest, to see us through Brexit and beyond.",
+            "health": "A strong economy paying for a strong NHS.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "More affordable housing",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of Theresa May with signature"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet is addressed to an individual named James Mccollom, indicating a personalized approach to the campaign."
+    }
+}

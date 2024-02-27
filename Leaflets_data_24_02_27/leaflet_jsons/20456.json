@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "Tom Rubython",
+        "constituency": "Northampton North",
+        "politicalParty": "UKIP",
+        "electionDate": "7th May",
+        "messages": [
+            {
+                "title": "Election Communication",
+                "content": "What we really stand for. Forgive me for being so familiar and using your christian name but what I have to say is important for the future of our country that I wanted you to read it personally... I hope you can vote for me on 7th May."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "EU Membership",
+                "policyDescription": "UKIP wants to leave the European Union, believing that membership does not benefit the UK. Advocates for spending the foreign aid budget on 'things that really matter' domestically."
+            },
+            {
+                "policyTitle": "Foreign Aid Budget",
+                "policyDescription": "Proposes cutting back on foreign aid budget to use the \u00a330 billion in ways that will benefit the UK domestically."
+            },
+            {
+                "policyTitle": "Control Borders",
+                "policyDescription": "UKIP intends to control borders to regulate immigration, emphasizing that this is not about excluding Commonwealth citizens."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tom Rubython",
+            "otherPartyLeaderCandidate": "Nigel Farage",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "UKIP aims to leave the European Union and control immigration.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "Wants to control immigration but clarifies that it doesn't mean excluding Commonwealth citizens.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "31 St Paul's Road, Northampton, NN2 6ES",
+            "phone": "01604 890808; 07913 403175",
+            "email": "tom@northamptonnorth.com",
+            "website": "www.northamptonnorth.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Election leaflet for Tom Rubython, UKIP Northampton North candidate."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet explains certain misunderstandings regarding UKIP's stance on immigration and the EU. It highlights the party's desire to leave the EU and control Britain's borders while still welcoming individuals from allied countries. There is also a focus on reallocating the foreign aid budget to domestic needs."
+    }
+}

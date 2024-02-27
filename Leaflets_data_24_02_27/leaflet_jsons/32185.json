@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+    "candidateName": "Cat Smith",
+    "constituency": "Lancaster & Fleetwood",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A message from Cat Smith",
+        "content": "I am sorry that we missed you on our recent visit. It has been an honour to serve as your Labour MP since 2015 and I hope to have your support once again."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Defending our NHS",
+        "policyDescription": "Cat has stood up for our local health services in Parliament and locally. She has vowed to always vote against privatisation."
+      },
+      {
+        "policyTitle": "Championing for local communities",
+        "policyDescription": "Cat has been instrumental in getting flood defences built, stopping fracking and securing better transport services."
+      },
+      {
+        "policyTitle": "Declaring Climate Emergency",
+        "policyDescription": "She also secured a Climate Emergency declaration by Parliament and is pushing the government to go further in cutting harmful emissions."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Cat Smith secured a Climate Emergency declaration by Parliament and is pushing the government to go further in cutting harmful emissions.",
+      "governance": "",
+      "health": "Cat Smith has stood up for our local health services in Parliament and locally, vowing to always vote against privatisation.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "It has been an honour to serve as your Labour MP since 2015 and I hope to have your support once again.",
+    "politicalExperience": [
+      {
+        "role": "Labour MP for Lancaster & Fleetwood",
+        "duration": "since 2015",
+        "achievements": "Getting flood defences built, stopping fracking, securing better transport services, and securing a Climate Emergency declaration by Parliament."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cat Smith standing up for Lancaster & Fleetwood."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

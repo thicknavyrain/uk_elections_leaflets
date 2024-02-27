@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+	"candidateName": "Alick Munro",
+	"constituency": "Hayes & Harlington",
+	"politicalParty": "Green Party",
+	"electionDate": "May 7",
+	"messages": [
+  	{
+    	"title": "Affordable Housing",
+    	"content": "I stand for building 500,000 Affordable Homes."
+  	},
+  	{
+    	"title": "Get It Tough",
+    	"content": "We get tough on big business so you can get a fair deal."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Affordable Homes",
+    	"policyDescription": "Building 500,000 new homes that are affordable."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Alick Munro",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Getting tough on big business to ensure fairness.",
+  	"education": "",
+  	"environment": "Stopping the runways and working for cleaner, safer streets.",
+  	"governance": "",
+  	"health": "Against NHS privatization and want NHS fully funded.",
+  	"immigration": "",
+  	"socialWelfare": "Support the idea people with disabilities deserve to live, not just survive.",
+  	"housing": [
+    	{
+      	"content":"Building 500,000 new homes that are affordable."
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "I will do all I can to help build a society that is green and fair.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "We get tough on big business so you can get a fair deal.",
+    	"source": "Campaign Message",
+    	"date": "During the campaign for the May 7 election"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Alick Munro holding a sign: 500,000 Affordable Homes"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

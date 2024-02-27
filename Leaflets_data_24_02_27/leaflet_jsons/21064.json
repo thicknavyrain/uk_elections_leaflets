@@ -1,0 +1,56 @@
+{
+    "leaflet": {
+        "candidateName": "PERRY",
+        "constituency": "",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "PERRY",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "0333 800 6 800",
+            "email": "",
+            "website": "ukip.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "I'M BACKING PERRY UKIP"
+                }
+            ]
+        },
+        "additionalNotes": "Please put this in your window."
+    }
+}

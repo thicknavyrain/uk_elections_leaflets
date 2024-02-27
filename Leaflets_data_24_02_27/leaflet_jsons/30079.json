@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Twickenham",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "A vote for the Lib Dems is the only way to beat the Tories and secure:",
+                "content": "Investment in the NHS, More money for local schools, Stop the Tories' Dementia Tax"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investment in the NHS",
+                "policyDescription": "The leaflet promises investment in the NHS."
+            },
+            {
+                "policyTitle": "More money for local schools",
+                "policyDescription": "The leaflet promises more financial resources for local schools."
+            },
+            {
+                "policyTitle": "Stop the Tories' Dementia Tax",
+                "policyDescription": "The leaflet declares an intent to stop the Tories' Dementia Tax."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Conservatives",
+            "partyLeader": "",
+            "tacticalSituation": "Lifelong Labour supporters here in TWICKENHAM are voting Lib Dem to beat the Tories."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "The leaflet mentions investment in the NHS.",
+            "immigration": "",
+            "socialWelfare": "The leaflet discusses stopping the Tories' Dementia Tax.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Voting for anyone else helps the Tories. To beat the heartless Tories VOTE LIB DEM ON 8TH JUNE",
+                "source": "Liberal Democrats Campaign Leaflet",
+                "date": "8th June"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of the Liberal Democrat leaflet advocating for a vote for the Lib Dems to beat the Tories, including promises for investment in the NHS, more money for local schools, and action against the Tories' Dementia Tax."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

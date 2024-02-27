@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+	"candidateName": "Jeremy Corbyn",
+	"constituency": "Islington North",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday May 7th",
+	"messages": [
+  	{
+    	"title": "Today, please vote",
+    	"content": "Not just for yourself, for the young people who need jobs, those who need homes, for our health service, and for our entire community."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Jobs for young people",
+    	"policyDescription": "Commitment to ensuring young people have access to employment opportunities."
+  	},
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "A focus on providing homes for those in need."
+  	},
+  	{
+    	"policyTitle": "Health Service",
+    	"policyDescription": "Support for the health service."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Jeremy Corbyn",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Support for the health service.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Commitment to providing homes for those in need.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Leaflet page with campaign messages, candidate name, constituency, and political party affiliation."
+    	}
+  	]
+	},
+	"additionalNotes": "It's your right. It's your duty."
+  }
+}

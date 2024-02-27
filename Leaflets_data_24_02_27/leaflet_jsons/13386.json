@@ -1,0 +1,119 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": "At the General Election we need to stop the Tories being the largest party. That's the only way to stop a Tory government. Only Labour can stop the Tories."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "1,000 more nurses in Scotland",
+    	"policyDescription": "Funded by a UK-wide tax on properties worth over £2 million."
+  	},
+  	{
+    	"policyTitle": "Freeze energy bills",
+    	"policyDescription": "So prices can fall but not rise, and reform of our broken energy market."
+  	},
+  	{
+    	"policyTitle": "Job-creating powers for Scottish towns and cities",
+    	"policyDescription": "Giving local authorities the powers they need to get our young people back to work."
+  	},
+  	{
+    	"policyTitle": "Double paternity leave",
+    	"policyDescription": "We will extend leave to 4 weeks and raise paternity pay by more than £100 a week so that working dads can afford to take time off."
+  	},
+  	{
+    	"policyTitle": "Fair pay with an £8 Minimum Wage and a Living Wage",
+    	"policyDescription": "To give a pay rise to half a million Scots, make work pay for ordinary families and deal with the cost-of-living crisis."
+  	},
+  	{
+    	"policyTitle": "Jobs guarantee for our young people",
+    	"policyDescription": "We will guarantee a job, training or an apprenticeship for young people."
+  	},
+  	{
+    	"policyTitle": "Tackle tax avoidance",
+    	"policyDescription": "We will close loopholes that cost taxpayers billions of pounds a year, increase transparency and toughen up penalties."
+  	},
+  	{
+    	"policyTitle": "A triple-lock against fracking plans",
+    	"policyDescription": "To freeze fracking in Scotland and make sure residents always have the final say with a local referendum."
+  	},
+  	{
+    	"policyTitle": "100,000 new homes",
+    	"policyDescription": "To deal with the SNP's housing shortfall, which has seen housebuilding at its lowest level since the 1930s."
+  	},
+  	{
+    	"policyTitle": "A ban on exploitative Zero-Hours contracts",
+    	"policyDescription": "Ensuring that those working regular hours have the right to a regular contract."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "To stop the Tories being the largest party. That's the only way to stop a Tory government. Only Labour can stop the Tories."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "A triple-lock against fracking plans",
+  	"governance": "",
+  	"health": "1,000 more nurses in Scotland",
+  	"immigration": "",
+  	"socialWelfare": "Fair pay with an £8 Minimum Wage and a Living Wage",
+  	"housing": [
+    	{
+      	"content":"100,000 new homes to deal with the SNP's housing shortfall, which has seen housebuilding at its lowest level since the 1930s.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "scottishlabour.org.uk/10-reasons",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "When working families do well Scotland does well",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Leaflet detailing Labour's ten reasons to vote for them with policy proposals related to nurses, energy bills, job creation, paternity leave, fair pay, jobs for young people, tax avoidance, fracking, housing, and zero-hours contracts."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

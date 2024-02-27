@@ -1,0 +1,72 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Brown's Crime Shame",
+                "content": "Only one in a hundred crimes punished by a sentence in court under Labour."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Crime",
+                "policyDescription": "Nick Clegg wants more police out on patrol to make our streets safer."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "Brown",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Nick Clegg said, \"It's time for a fresh approach.\"",
+        "politicalExperience": [
+            {
+                "role": "Lib Dem Leader",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Front page of a campaign leaflet with the headline 'IT'S JUST CRIMINAL' and a subheading 'Brown's Crime Shame', featuring an image of a police officer."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet criticizes the Labour government for a low rate of crimes resulting in a court sentence and promotes a Liberal Democrats approach to crime with effective action."
+    }
+}

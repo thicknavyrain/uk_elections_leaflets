@@ -1,0 +1,74 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Jericho & Osney",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Brexit",
+        "content": "You can support our campaign to stay in the Single Market."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Council Issues",
+        "policyDescription": "Opposition to Conservative County Council's choices including cuts in services like Children's Centres, bus services and elderly day care."
+      },
+      {
+        "policyTitle": "Homeless Fine",
+        "policyDescription": "Campaign to scrap the £1,000 fine for the homeless implemented by Labour City Council."
+      },
+      {
+        "policyTitle": "Electrification of the Rail Line to Oxford",
+        "policyDescription": "Disagreement with the Conservatives' decision to delay investment in Oxford Station."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Nicola Blackwood",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Supports staying in the EU Single Market; opposition to Nicola Blackwood's stance on Brexit.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Opposition to Conservative County Council's decisions on services.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Opposition to Labor's implementation of a large fine for homeless people.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Oxford Lib Dems, FREEPOST SCE 221, Oxford, OX1 1YA",
+      "phone": "",
+      "email": "office@oxonlibdems.uk",
+      "website": "www.oxonlibdems.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liberal Democrats leaflet pages including key policies and issues, and information about Brexit, Oxford Station, and council"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

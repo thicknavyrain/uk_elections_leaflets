@@ -1,0 +1,82 @@
+{
+    "leaflet": {
+        "candidateName": "Alan Stevens",
+        "constituency": "Chesham and Amersham",
+        "politicalParty": "UK Independence Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Straight talking.",
+                "content": "Vote UKIP"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Say NO to mass immigration"
+            },
+            {
+                "policyTitle": "Referendums",
+                "policyDescription": "Say YES to referendums on all major issues"
+            },
+            {
+                "policyTitle": "EU Spending",
+                "policyDescription": "Say NO to wasting \u00a345 million a day in Brussels"
+            },
+            {
+                "policyTitle": "Local Governance",
+                "policyDescription": "Allow local people to control how they are governed and how their money is spent."
+            },
+            {
+                "policyTitle": "Compensation for Homeowners",
+                "policyDescription": "Offer generous compensation payments to house owners affected by the proposed high-speed link through the constituency."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alan Stevens",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The EU is a drag on our economy and a threat to our democracy.",
+            "economy": "The EU is a drag on our economy.",
+            "education": "",
+            "environment": "",
+            "governance": "Allow local people to control how they are governed and how their money is spent.",
+            "health": "",
+            "immigration": "Say NO to mass immigration",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Offer generous compensation payments to house owners affected by the proposed high-speed link through the constituency.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "ukip.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Election communication for the UK Independence Party featuring Alan Stevens."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

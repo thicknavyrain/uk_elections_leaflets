@@ -1,0 +1,113 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Don't let the SNP hold Britain to ransom",
+    	"content": ""
+  	},
+  	{
+    	"title": "A CLIMB-DOWN ON ECONOMIC FIGURES",
+    	"content": ""
+    },
+    {
+    	"title": "I'LL HELP OUR NHS THRIVE",
+    	"content": ""
+    }
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "An economic plan",
+    	"policyDescription": "Growing the economy and cutting the deficit"
+  	},
+  	{
+    	"policyTitle": "NHS",
+    	"policyDescription": "More doctors and nurses for the NHS, paid for from a strong economy"
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Protecting school funding and helping good schools expand"
+  	},
+  	{
+    	"policyTitle": "Homes for families",
+    	"policyDescription": "200,000 Starter Homes for first-time buyers under 40"
+  	},
+  	{
+    	"policyTitle": "Retirement security",
+    	"policyDescription": "Giving you freedom and security in retirement"
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "SNP",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Growing the economy and cutting the deficit",
+  	"education": "Protecting school funding and helping good schools expand",
+  	"environment": "",
+  	"governance": "",
+  	"health": "More doctors and nurses for the NHS, paid for from a strong economy",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"200,000 Starter Homes for first-time buyers under 40",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "A GROWING ECONOMY"
+    	},
+    	{
+      	"caption": "Your Candidate"
+    	},
+    	{
+      	"caption": "Plan for Real Change in your Account"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

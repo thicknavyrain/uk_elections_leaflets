@@ -1,0 +1,72 @@
+{
+  "leaflet": {
+    "candidateName": "Joe Stonely",
+    "constituency": "North Wales",
+    "politicalParty": "Welsh Labour / Llafur Cymru",
+    "electionDate": "Thursday 6 May",
+    "messages": [
+      {
+        "title": "Vote/Pleidleisiwch Welsh Labour Llafur Cymru",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Joe Stonely",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "Facebook.com/WelshLabour",
+        "twitter": "Twitter.com/welshlabour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Carol Edwards",
+        "endorsement": "You have my complete confidence"
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Moving Wales Forward"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

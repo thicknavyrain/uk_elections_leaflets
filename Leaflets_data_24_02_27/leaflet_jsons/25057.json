@@ -1,0 +1,51 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Hove",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Don't Forget to Vote Labour this Thursday 7 May. Your polling station is at: Ajax Hall, Eaton Road, Hove, BN3 3GE."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

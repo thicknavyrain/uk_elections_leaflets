@@ -1,0 +1,95 @@
+{
+    "leaflet": {
+        "candidateName": "James Arbuthnot",
+        "constituency": "Basingstoke",
+        "politicalParty": "Conservative",
+        "electionDate": "May 5th",
+        "messages": [
+            {
+                "title": "VOTE FOR CHANGE",
+                "content": "We can't go on like this. We need change to get Britain moving in the right direction."
+            },
+            {
+                "title": "3 POSITIVE REASONS TO VOTE FOR JAMES ARBUTHNOT",
+                "content": "Local leadership, experience when it counts, can deliver results."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local leadership",
+                "policyDescription": "James Arbuthnot's active local campaigner with passion and enthusiasm."
+            },
+            {
+                "policyTitle": "Experience when it counts",
+                "policyDescription": "James possesses experience during challenging times. He has shown dedication and resilience in fighting for local concerns."
+            },
+            {
+                "policyTitle": "Can deliver results",
+                "policyDescription": "James has a track record of delivering for the community."
+            }
+        ],
+        "mentions": {
+            "candidate": "James Arbuthnot",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01256 345612",
+            "email": "arbuthnot4mp@hotmail.co.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "David Cameron",
+                "endorsement": "He's the change Basingstoke needs."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "James Arbuthnot with community members"
+                },
+                {
+                    "caption": "Campaigning team"
+                },
+                {
+                    "caption": "James Arbuthnot in Basingstoke"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet includes an image of David Cameron, implying his support."
+    }
+}

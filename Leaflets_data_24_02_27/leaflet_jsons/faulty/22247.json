@@ -1,0 +1,68 @@
+{
+    "leaflet": {
+        "candidateName": "Alastair McQuillan",
+        "constituency": "Rutland and Melton",
+        "politicalParty": "Green Party",
+        "electionDate": "7 May",
+        "messages": [
+            {
+                "title": "Vote Green on 7 May",
+                "content": "Say no to politics as usual. Vote for Alastair to..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Rebuild the economy so everyone gets a fair share"
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Reverse the creeping privatisation in the NHS, Put mental health and well being at the centre of the NHS"
+            },
+            {
+                "policyTitle": "Local Support",
+                "policyDescription": "Speak up for local independent businesses & family farms, Invest in local social housing"
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Ban fracking in Rutland and Melton, Invest in renewable energy & home insulation"
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Improve rural public transport & cut fares 10%"
+            }
+        ],
+        "mentions": {
+            "candidate": "Alastair McQuillan"
+        },
+        "issues": {
+            "socialWelfare": "Free social care for over 65s",
+            "governance": "Restore the public sector",
+            "housing": [
+                {
+                    "content": "Invest in local social housing",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "alastair.mcquillan@greenparty.org.uk",
+            "website": "www.rutlandandmelton.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "TheGreenParty",
+                "twitter": "rutlandmeltonGP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Alastair McQuillan with a background of nature"
+                }
+            ]
+        }
+    }
+}

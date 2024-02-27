@@ -1,0 +1,83 @@
+{
+    "leaflet": {
+        "candidateName": "Richard Thomson",
+        "constituency": "Gordon",
+        "politicalParty": "SNP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A message from Richard Thomson:",
+                "content": "At every election, the Conservatives go on and on about another independence referendum. They seem to have absolutely nothing else to say to people about anything. It's almost like they can't find anything positive to say about themselves. As if they are trying to distract us all from something really huge - like Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy and Brexit",
+                "policyDescription": "Opposition to a hard Brexit at the end of the year, which is described as a potential catastrophe for the economy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Richard Thomson",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "In Gordon, it's between the SNP or the Conservatives. The Lib Dems and Labour can't win here."
+        },
+        "issues": {
+            "brexitEurope": "Boris Johnson's Brexit 'deal' will be a disaster for the North East. It solves nothing and we could still be facing a hard Brexit at the end of it, which would be a catastrophe for our economy.",
+            "economy": "A hard Brexit at the end of the year, which is described as a potential catastrophe for the economy.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "It's time to choose our own future before someone else does"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

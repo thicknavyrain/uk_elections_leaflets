@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+	"candidateName": "Antoinette Sandbach",
+	"constituency": "North Wales",
+	"politicalParty": "Conservatives",
+	"electionDate": "Thursday 5th May 2011",
+	"messages": [
+  	{
+    	"title": "North Wales has been failed",
+    	"content": "We will appoint a North Wales Minister"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Appointing a North Wales Minister",
+    	"policyDescription": "The leaflet promises the appointment of a North Wales Minister to address issues specific to the region."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Antoinette Sandbach",
+  	"otherPartyLeaderCandidate": "David Cameron",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "Halkyn Street, Holywell, Flintshire, CH8 7TX",
+  	"phone": "",
+  	"email": "northwales@welshconservatives.com",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Group photo of the North Wales Conservative candidates."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

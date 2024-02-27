@@ -1,0 +1,75 @@
+{
+    "leaflet": {
+        "candidateName": "Nigel Farage",
+        "constituency": "",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Keep the NHS free at point of delivery"
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "An Australian-style, points based, fairer immigration system"
+            },
+            {
+                "policyTitle": "Taxation",
+                "policyDescription": "No tax on the minimum wage, no 'bedroom' tax, no inheritance tax"
+            }
+        ],
+        "mentions": {
+            "candidate": "Nigel Farage",
+            "otherPartyLeaderCandidate": "The old parties",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Keep the NHS free at point of delivery",
+            "immigration": "An Australian-style, points based, fairer immigration system",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "No 'bedroom' tax",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "0333 800 6 800",
+            "email": "",
+            "website": "ukip.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The old parties are lying about UKIP and its policies. They are running scared and don't want you to know the truth. Well, here it is.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The Truth About UKIP leaflet front page"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

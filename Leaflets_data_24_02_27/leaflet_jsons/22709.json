@@ -1,0 +1,85 @@
+{
+    "leaflet": {
+        "candidateName": "MARTIN DOBSON",
+        "constituency": "LIVERPOOL RIVERSIDE",
+        "politicalParty": "Green Party",
+        "electionDate": "MAY 7",
+        "messages": [
+            {
+                "title": "SAY YES TO THE COMMON GOOD",
+                "content": "THIS TIME - MAKE A REAL CHANGE WITH YOUR VOTE"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local Councils Funding",
+                "policyDescription": "Restore the funding to local councils to protect our local services and green spaces"
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Reverse the NHS privatisations and provide free social care for the elderly and disabled"
+            },
+            {
+                "policyTitle": "Railways and Energy",
+                "policyDescription": "Bring the railways and the energy companies back under public control for the public good"
+            },
+            {
+                "policyTitle": "Renewable Energy",
+                "policyDescription": "Invest in renewable energy technologies to create a quarter of a million new green jobs"
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Provide a million new homes, scrap the hated Bedroom Tax and introduce fair rent caps"
+            }
+        ],
+        "mentions": {
+            "candidate": "MARTIN DOBSON",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "On May 7th - Voting for the Green Party will make the difference!"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Reverse the NHS privatisations and provide free social care for the elderly and disabled",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Provide a million new homes, scrap the hated Bedroom Tax and introduce fair rent caps",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "martin@liverpoolriverside.org",
+            "website": "www.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "MARTIN DOBSON and his team campaigning"
+                },
+                {
+                    "caption": "Pie chart showing Green Party polling at 31%"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "leaflet": {
+        "candidateName": "Larry Sanders",
+        "constituency": "Oxford East",
+        "politicalParty": "Green Party",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "Dear [Constituent's Name]",
+                "content": "In this coming General Election, you have the chance to vote for a real alternative."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Support to the NHS",
+                "policyDescription": "Reverses the privatisation of the NHS and commits to funding it properly."
+            },
+            {
+                "policyTitle": "Hard Brexit",
+                "policyDescription": "Says no to a hard Brexit and offers the people the chance to have their say on the final deal."
+            },
+            {
+                "policyTitle": "Council Houses",
+                "policyDescription": "Builds 500,000 council houses and introduces proper rental controls."
+            },
+            {
+                "policyTitle": "Income Inequality",
+                "policyDescription": "Ensures that tackling climate change remains a national and a global priority."
+            }
+        ],
+        "mentions": {
+            "candidate": "Larry Sanders",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "In the Oxford East constituency, the Conservatives cannot win. For decades their vote here in council and General Elections has not risen above 21%. You can safely vote for the candidate that best expresses your values and your priorities."
+        },
+        "issues": {
+            "brexitEurope": "Says no to a hard Brexit and offers the people the chance to have their say on the final deal.",
+            "economy": "Britain is the most unequal country in Europe. The Green Party believes that we should reverse this trend and ensure that everyone can share in our country's wealth.",
+            "education": "",
+            "environment": "Ensures that tackling climate change remains a national and a global priority.",
+            "governance": "",
+            "health": "Reverses the privatisation of the NHS and commits to funding it properly.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Builds 500,000 council houses and introduces proper rental controls.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "As my brother, Senator Bernie Sanders, has said, to win this battle requires a political it in proper. I have been signed up to that battle all my adult life. With your help, I would like the chance to now wage it in Parliament.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Printed by CFH Docmail Ltd., St Peter's Park, Wells Road, Radstock BA3 3UP. Promoted by David Newman on behalf of Larry Sanders, both at 8I8 Donnington Bridge Road, Oxford OX4 4BA.",
+            "phone": "",
+            "email": "",
+            "website": "www.greenoxfordshire.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A photo of Larry Sanders."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

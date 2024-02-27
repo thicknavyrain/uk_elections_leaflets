@@ -1,0 +1,116 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The Truth About UKIP",
+                "content": "The old parties are scared of UKIP and its policies. They don't want you to know the truth."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "UKIP supports controlled immigration with an Australian-style points system."
+            },
+            {
+                "policyTitle": "Tax",
+                "policyDescription": "UKIP opposes the mansion tax."
+            },
+            {
+                "policyTitle": "EU",
+                "policyDescription": "UKIP is committed to leaving the EU."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "UKIP aims to remove the deficit and reduce national debt with a targeted \u00a332 billion in savings each year on items such as foreign aid, EU contributions, and green subsidies."
+            },
+            {
+                "policyTitle": "Energy",
+                "policyDescription": "UKIP supports affordable energy and wants to explore shale gas."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "UKIP wants to keep the NHS free at the point of delivery."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "UKIP plans to remove tuition fees for STEM subjects for students who live and work in the UK for five years after graduation."
+            },
+            {
+                "policyTitle": "Minimum Wage",
+                "policyDescription": "UKIP supports no tax on the minimum wage."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "UKIP is committed to leaving the EU.",
+            "economy": "Remove the deficit and reduce national debt with \u00a332 billion in savings from foreign aid cut, leaving the EU, and removing green subsidies.",
+            "education": "UKIP plans to remove tuition fees for STEM subjects for students who live and work in the UK for five years after graduation.",
+            "environment": "",
+            "governance": "",
+            "health": "UKIP wants to keep the NHS free at the point of delivery.",
+            "immigration": "Supports controlled immigration with an Australian-style points system.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Housing a priority for local people",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "ukip.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "No tax on the minimum wage",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "No tax on the bedroom tax; no inheritance tax",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "UKIP Candidate"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

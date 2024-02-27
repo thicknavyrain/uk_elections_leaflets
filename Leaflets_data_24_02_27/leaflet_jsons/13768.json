@@ -1,0 +1,73 @@
+{
+    "leaflet": {
+        "candidateName": "Antonia Cox",
+        "constituency": "Islington South and Finsbury",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 6th May",
+        "messages": [
+            {
+                "title": "Election Campaign",
+                "content": "Islington Conservatives have been campaigning hard for a fairer deal for council leaseholders and tenants in the borough."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Housing Services Reform",
+                "policyDescription": "Local Conservatives want reform of our housing services, with more competitive tendering, quality repairs, and lower management costs."
+            },
+            {
+                "policyTitle": "Transparency and Value for Money",
+                "policyDescription": "The Conservatives have been taking up cases, using PricewaterhouseCoopers to investigate concerns about the cost and quality of work by Partners for Improvement, Islington."
+            }
+        ],
+        "mentions": {
+            "candidate": "Antonia Cox",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Only Conservatives can beat Labour in Islington South."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Local Conservatives want reform of our housing services, with more competitive tendering, quality repairs, and lower management costs.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "67 Halliford Street, Islington, London N1 3HF",
+            "phone": "020 7226 1599",
+            "email": "antonia@islingtonconservatives.com",
+            "website": "www.islingtonconservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Antonia Cox with supporters"
+                },
+                {
+                    "caption": "Graph showing potential voting outcomes with percentages"
+                }
+            ]
+        },
+        "additionalNotes": "P.S. Thursday 6th May is your chance to bring real change to Islington. Don\u2019t miss your chance to get your voice heard!"
+    }
+}

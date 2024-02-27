@@ -1,0 +1,69 @@
+{
+    "leaflet": {
+        "candidateName": "Robert Goodwill",
+        "constituency": "Scarborough and Whitby",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Get Brexit done with our new deal",
+                "policyDescription": "Commitment to deliver Brexit with a new deal."
+            },
+            {
+                "policyTitle": "\u00a333.9 billion extra for the NHS",
+                "policyDescription": "Promise to invest an additional \u00a333.9 billion in the National Health Service."
+            },
+            {
+                "policyTitle": "20,000 extra police officers",
+                "policyDescription": "Pledge to recruit 20,000 additional police officers."
+            }
+        ],
+        "mentions": {
+            "candidate": "Robert Goodwill",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done with our new deal",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "\u00a333.9 billion extra for the NHS",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Robert Goodwill with scenes of Scarborough and Whitby"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

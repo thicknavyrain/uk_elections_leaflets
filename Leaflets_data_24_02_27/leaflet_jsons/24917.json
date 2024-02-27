@@ -1,0 +1,110 @@
+{
+  "leaflet": {
+    "candidateName": "Cat Smith",
+    "constituency": "Lancaster and Fleetwood",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 7th May",
+    "messages": [
+      {
+        "title": "My pledges to you",
+        "content": "- I will serve the whole community and work hard to earn your trust... - I will stand up for our public services, for fair funding for our schools and against Tory cuts to our police... - I will work to get a fair deal for Lancaster and Fleetwood, whether that's fighting for investment in jobs and our local economy or protecting our environment for the next generation..."
+      },
+      {
+        "title": "Cat Smith - a strong local voice delivering the change we need",
+        "content": "Lancaster and Fleetwood needs a strong voice in Parliament... The Tories and Lib Dems have let our area down with broken promises and failed policies... It's time for change..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Plan for a stronger economy",
+        "policyDescription": "A strong economic foundation is vital... Labour's plan for a stronger economy will create a more prosperous future for Britain..."
+      },
+      {
+        "policyTitle": "Plan for the next generation",
+        "policyDescription": "We must ensure that every child... has the opportunity to succeed..."
+      },
+      {
+        "policyTitle": "Plan for the NHS",
+        "policyDescription": "The NHS is our country's most precious institution... Labour will invest in... the NHS we need for the 21st century."
+      }
+    ],
+    "mentions": {
+      "candidate": "Cat Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A strong economic foundation is vital...",
+      "education": "We must ensure that every child...",
+      "environment": "protecting our environment for the next generation",
+      "governance": "",
+      "health": "Labour will invest in... the NHS we need for the 21st century.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We will build hundreds of thousands of affordable homes to rent and buy each year...",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I'm Cat Smith, your Labour...",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "84 Newland, Lancaster, LA1 4JF",
+      "phone": "01524 566 551",
+      "email": "catsmith@partymail.com",
+      "website": "www.catsmith.co.uk",
+      "socialMedia": {
+        "facebook": "/CatSmithMP",
+        "twitter": "@CatSmithMP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Alison Love",
+        "endorsement": "Alison... says 'Cat Smith is someone... When she speaks, people listen'"
+      },
+      {
+        "endorser": "James Wynne",
+        "endorsement": "James... says 'Cat listens and understands the issues... She's got her heart in the right place.'"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "'Cat Smith is someone who truly cares about local people. When she speaks, people listen.'",
+        "source": "Alison Love",
+        "date": ""
+      },
+      {
+        "text": "'...Cat listens and understands the issues facing people like me. She's got her heart in the right place.'",
+        "source": "James Wynne",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cat Smith with constituents"
+        },
+        {
+          "caption": "Cat Smith at local businesses"
+        },
+        {
+          "caption": "Cat Smith with Labour Party members supporting her campaign"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

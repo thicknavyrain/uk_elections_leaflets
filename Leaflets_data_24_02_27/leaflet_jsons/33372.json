@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+    "candidateName": "Ruth Jones",
+    "constituency": "Newport West",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "Election Message",
+        "content": "This election is a two horse race between me and the Tories. Only Labour will protect our NHS from a Tory sell-off, will reinstate TV licences for over-75s and will deliver for WASPI women"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Ruth Jones",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "This election is a two horse race between me and the Tories."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Only Labour will protect our NHS from a Tory sell-off",
+      "immigration": "",
+      "socialWelfare": "will reinstate TV licences for over-75s and will deliver for WASPI women",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "07423277979",
+      "email": "contact@ruthjones.wales",
+      "website": "www.ruthjones.wales",
+      "socialMedia": {
+        "facebook": "@RuthNewportWest",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ruth Jones with Labour Party campaigning material"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

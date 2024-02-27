@@ -1,0 +1,108 @@
+{
+    "leaflet": {
+        "candidateName": "Tony Hill",
+        "constituency": "Maidenhead",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "What sort of future do you want for Britain?",
+                "content": "Lib Dems will continue to fight for the single market."
+            },
+            {
+                "title": "Here are three good reasons to back Tony Hill",
+                "content": "Send a message on Brexit. End the cuts to education. Safeguard our local NHS."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against hard Brexit",
+                "policyDescription": "Tony Hill campaigned tirelessly to keep Britain in the EU. Every vote for Tony Hill sends a message to the Conservatives against their hard Brexit policies."
+            },
+            {
+                "policyTitle": "Ending cuts to education",
+                "policyDescription": "Tony Hill will end the experiments and reverse the cuts to schools. He will ensure that class sizes decrease and teachers get the support they need."
+            },
+            {
+                "policyTitle": "Protecting our local NHS",
+                "policyDescription": "Tony Hill will champion for local health and care services. With NHS under threat from further Conservative cuts, he will fight for adequate funding."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tony Hill",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Tim Farron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Fighting against hard Brexit. Every vote for Tony Hill sends a message to the Conservatives against their hard Brexit policies.",
+            "economy": "",
+            "education": "Ending cuts to education. Every child deserves the best start. Tony Hill wants to put the money into reversing the cuts to schools.",
+            "environment": "",
+            "governance": "",
+            "health": "Safeguarding our local NHS. Conservative cuts need to be stopped.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Former successful Headteacher",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "150, 197 High Street, Maidenhead, SL6 1JX",
+            "phone": "",
+            "email": "mail@maidenheadlibdems.co.uk",
+            "website": "www.MaidenheadLibDems.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Lib Dems will continue to fight for the single market.",
+                "source": "Financial Times, 11 Feb 2017",
+                "date": "2017-02-11"
+            },
+            {
+                "text": "Hospital cuts planned in most of England.",
+                "source": "BBC, 7 Feb 2017",
+                "date": "2017-02-07"
+            },
+            {
+                "text": "All schools in England likely to face real-terms cuts.",
+                "source": "The Guardian, 16 Mar 2017",
+                "date": "2017-03-16"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tony Hill with Tim Farron and supporters."
+                },
+                {
+                    "caption": "Tony Hill at Furze Platt Senior School."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

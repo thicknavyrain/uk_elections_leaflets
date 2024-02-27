@@ -1,0 +1,69 @@
+{
+  "leaflet": {
+    "candidateName": "Alex Meredith",
+    "constituency": "Cardiff West",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting against Hard Brexit",
+        "policyDescription": "Alex Meredith is opposed to a hard Brexit."
+      },
+      {
+        "policyTitle": "Standing up for the NHS",
+        "policyDescription": "He is dedicated to defending the National Health Service."
+      },
+      {
+        "policyTitle": "A real opposition to the Conservative Government",
+        "policyDescription": "He presents a true challenge to the current Conservative Government."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alex Meredith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader":"",  
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Fighting against Hard Brexit",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "A real opposition to the Conservative Government",
+      "health": "Standing up for the NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Alex Meredith, Liberal Democrat candidate for Cardiff West."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

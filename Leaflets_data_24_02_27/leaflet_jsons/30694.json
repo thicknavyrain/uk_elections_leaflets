@@ -1,0 +1,54 @@
+{
+  "leaflet": {
+	"candidateName": "John Howell",
+	"constituency": "Henley Constituency",
+	"politicalParty": "Conservative",
+	"electionDate": "Thursday 8th June",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "John Howell",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "Theresa May",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": []
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "John Howell with Theresa May"
+    	},
+    	{
+      	"caption": "Theresa MayStrong, stable leadership in the national interest"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

@@ -1,0 +1,102 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "SNP",
+        "electionDate": "Thursday 7 May",
+        "messages": [
+            {
+                "title": "My vow is to make Scotland stronger at Westminster.",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Childcare and public spending",
+                "policyDescription": "World-class childcare and much-needed cash for public services, not wasting \u00a3100-billion on new nuclear weapons."
+            },
+            {
+                "policyTitle": "Scotland's NHS",
+                "policyDescription": "Additional investment in Scotland's NHS - its budget protected and its future safe in public hands."
+            },
+            {
+                "policyTitle": "Retirement security",
+                "policyDescription": "Security in retirement, with better pensions and ongoing benefits such as free bus travel and free personal care."
+            },
+            {
+                "policyTitle": "Economic growth",
+                "policyDescription": "A more responsible economic policy, one which boosts long-term growth, creates jobs, and delivers for all."
+            },
+            {
+                "policyTitle": "Social policies",
+                "policyDescription": "Fresh thinking and new ideas for Westminster, and the guarantors of progressive policies like free education and the living wage."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "The more seats the SNP wins the more influence and power the people of Scotland will have."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "voteSNP.com",
+            "socialMedia": {
+                "facebook": "Follow theSNP",
+                "twitter": "Follow theSNP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "We will play a constructive role with new ideas and fresh thinking.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "My vow is to make Scotland stronger at Westminster."
+                },
+                {
+                    "caption": "We will play a constructive role with new ideas and fresh thinking."
+                }
+            ]
+        },
+        "additionalNotes": "Presented by (name) on behalf of the Scottish National Party, both at (address)."
+    }
+}

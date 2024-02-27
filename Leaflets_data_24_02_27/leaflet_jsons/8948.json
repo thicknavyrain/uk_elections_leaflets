@@ -1,0 +1,107 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Edinburgh East",
+        "politicalParty": "Conservative",
+        "electionDate": "6 May",
+        "messages": [
+            {
+                "title": "VOTE FOR CHANGE",
+                "content": "In just a few days you'll have the chance to vote in the most important general election for a generation. When you're standing in the polling booth with the pencil in your hand, think about the kind of country you want Britain to be."
+            },
+            {
+                "title": "",
+                "content": "If you want a country that has an economy that works for everyone and where enterprise is rewarded, vote for change."
+            },
+            {
+                "title": "",
+                "content": "If you want a country with a strong society, where families and pensioners are supported, and where responsible behaviour is rewarded, vote for change."
+            },
+            {
+                "title": "",
+                "content": "If you want a country where people have more power over their lives, where the size and cost of Parliament is cut and it's the people who call the shots, vote for change. We urgently need to make these changes so that Britain and Scotland can move forward. We cannot afford to wait any longer."
+            },
+            {
+                "title": "",
+                "content": "This is a crucial time in the history of our country and the choice at this election is clear: five more years of Labour or change with the Conservatives."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "An economy that works for everyone and rewards enterprise."
+            },
+            {
+                "policyTitle": "Strong Society",
+                "policyDescription": "Support for families and pensioners, and rewarding responsible behaviour."
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "Cutting the size and cost of Parliament and giving more power to the people."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "If you want a country that has an economy that works for everyone and where enterprise is rewarded, vote for change.",
+            "education": "",
+            "environment": "",
+            "governance": "If you want a country where people have more power over their lives, where the size and cost of Parliament is cut and it's the people who call the shots, vote for change.",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "If you want a country with a strong society, where families and pensioners are supported, and where responsible behaviour is rewarded, vote for change.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Cameron - Leader of the Conservative Party"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

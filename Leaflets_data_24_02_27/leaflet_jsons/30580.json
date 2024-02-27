@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Suzanne Bartington",
+        "constituency": "Oxford East",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Standing with Theresa May",
+                "content": "Better health: As a Doctor, health comes first. Our NHS and social care must work more closely to make people healthier. Good homes: To rent or buy, in the right place, at the right price. Home ownership rises under The Conservatives. Transport that works for everyone: Better transport ups our visitors' experience; they provide so many jobs for local people."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Better Health",
+                "policyDescription": "Our NHS and social care must work more closely to make people healthier."
+            },
+            {
+                "policyTitle": "Good Homes",
+                "policyDescription": "To rent or buy, in the right place, at the right price. Home ownership rises under The Conservatives."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Better transport ups our visitors' experience; they provide so many jobs for local people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Suzanne Bartington",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get the best Brexit deal possible to deliver economic security for our future",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "As a Doctor, health comes first. Our NHS and social care must work more closely to make people healthier.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "To rent or buy, in the right place, at the right price. Home ownership rises under The Conservatives.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Suite 30 The Portway Centre, Old Sarum Park, Salisbury, Wiltshire SP4 6EB",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Theresa May",
+                "endorsement": "Give me and my candidate your vote on Thursday 8th June and I will: Provide strong and stable leadership for our country; Get the best Brexit deal possible to deliver economic security for our future; Always stand up for you and your family."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Back me on Thursday 8th June to lead Britain.",
+                "source": "Theresa May, Prime Minister",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Dr Suzanne Bartington alongside images of her cycling and a preview of Theresa May's endorsement."
+                }
+            ]
+        },
+        "additionalNotes": "Promoted by Alexander Shayler, on behalf of Suzanne Bartington."
+    }
+}

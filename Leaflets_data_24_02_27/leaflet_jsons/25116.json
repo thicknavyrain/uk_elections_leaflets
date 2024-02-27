@@ -1,0 +1,95 @@
+{
+    "leaflet": {
+        "candidateName": "Royston Smith",
+        "constituency": "Southampton",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Standing up for Southampton",
+                "content": "Royston Smith at the heart of Southampton. Promises made, promises kept."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Supporting the local economy and delivering investment."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Backing our schools."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Fighting to protect local green spaces."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Campaigning for fairer health funding."
+            }
+        ],
+        "mentions": {
+            "candidate": "Royston Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Supporting the local economy and delivering investment.",
+            "education": "Backing our schools.",
+            "environment": "Fighting to protect local green spaces.",
+            "governance": "",
+            "health": "Campaigning for fairer health funding.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I have used my local and national experience to help my constituents.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Promises made, promises kept.",
+                "source": "Campaign Slogan",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Royston Smith pictured standing confidently."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

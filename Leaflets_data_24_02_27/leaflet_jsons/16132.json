@@ -1,0 +1,77 @@
+{
+    "leaflet": {
+        "candidateName": "Matt Rodda",
+        "constituency": "Reading",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Deliver an NHS with the time to care - by providing 8,000 more doctors and 20,000 more nurses."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Cut the deficit more fairly by asking those earning over \u00a3150,000 to contribute a little more through a 50p rate of tax."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Guarantee a GP appointment within 48 hours or on the same day for those who need it."
+            },
+            {
+                "policyTitle": "Workers' Rights",
+                "policyDescription": "Raise the Minimum Wage to \u00a38 an hour and ban exploitative zero hour contracts."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Get at least 200,000 homes a year built by 2020 and deliver a fairer deal for private renters."
+            }
+        ],
+        "mentions": {
+            "candidate": "Matt Rodda",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Cut the deficit more fairly by asking those earning over \u00a3150,000 to contribute a little more through a 50p rate of tax.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Guarantee a GP appointment within 48 hours or on the same day for those who need it.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Get at least 200,000 homes a year built by 2020 and deliver a fairer deal for private renters.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Matt Rodda, Labour Parliamentary Candidate"
+                }
+            ]
+        },
+        "additionalNotes": "Protecting the NHS. Tackling the cost-of-living crisis."
+    }
+}

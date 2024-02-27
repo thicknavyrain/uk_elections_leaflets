@@ -1,0 +1,102 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Let's end 22 years of Labour Government...",
+        "content": "Welsh economy in decline before Covid hit. Wales' schools system has been ranked the worst in the UK for the fifth time running."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "3,000 more nurses, 1,200 more doctors and 5 extra hospitals."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "5,000 more teachers. More funding for every pupil."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "65,000 new jobs."
+      },
+      {
+        "policyTitle": "Infrastructure",
+        "policyDescription": "£2 billion to upgrade major roads."
+      },
+      {
+        "policyTitle": "Small Businesses",
+        "policyDescription": "Scrapping business rates for small businesses."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Welsh economy in decline before Covid hit.",
+      "education": "Wales' schools system has been ranked the worst in the UK for fifth time running.",
+      "environment": "",
+      "governance": "",
+      "health": "3,000 more nurses, 1,200 more doctors and 5 extra hospitals.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Welsh economy in decline before Covid hit.",
+        "source": "BBC, Nov 1 Tech 2020"
+      },
+      {
+        "text": "Wales' schools system has been ranked the worst in the UK for the fifth time running.",
+        "source": "WalesOnline, Dec | Rhag 2019"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images of potential policy impacts such as educational and medical professionals, road infrastructure, and a message about supporting small businesses."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

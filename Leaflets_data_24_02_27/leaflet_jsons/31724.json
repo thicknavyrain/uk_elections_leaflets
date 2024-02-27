@@ -1,0 +1,109 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "50 MILLION EXTRA GP APPOINTMENTS",
+                "content": "You shouldn't have to struggle to see your GP. That's why the Prime Minister is ensuring we deliver 50 million more GP appointments a year by 2024/25, helping more patients, and supporting our fantastic GPs and their teams."
+            },
+            {
+                "title": "DON'T LET CORBYN TAKE US BACK TO SQUARE ONE.",
+                "content": "An extra \u00a333.9 billion for the NHS. 20,000 extra police officers. More funding for every pupil in every school. Brexit done with a deal."
+            },
+            {
+                "title": "OUR ECONOMY IS GROWING. OUR PUBLIC FINANCES ARE UNDER CONTROL.",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "An extra \u00a333.9 billion for the NHS to fund more hospitals and better services."
+            },
+            {
+                "policyTitle": "Policing",
+                "policyDescription": "20,000 extra police officers to keep our streets safe."
+            },
+            {
+                "policyTitle": "Education Funding",
+                "policyDescription": "More funding for every pupil in every school."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done with a deal."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done with a deal.",
+            "economy": "",
+            "education": "More funding for every pupil in every school.",
+            "environment": "",
+            "governance": "",
+            "health": "An extra \u00a333.9 billion for the NHS to fund more hospitals and better services. 50 million extra GP appointments to ensure patients have better access to healthcare services.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "50 MILLION EXTRA GP APPOINTMENTS"
+                },
+                {
+                    "caption": "Our promises on the NHS, policing, education funding, and Brexit."
+                },
+                {
+                    "caption": "OUR ECONOMY IS GROWING. OUR PUBLIC FINANCES ARE UNDER CONTROL."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

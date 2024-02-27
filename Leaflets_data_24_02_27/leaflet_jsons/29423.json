@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "constituency": "Ashton under Lyne",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Your local vote on Thursday will decide who is Prime Minister on Friday",
+                "content": "Leading our Brexit negotiations when they start just 11 days after you vote \u2013 Theresa May or Jeremy Corbyn."
+            },
+            {
+                "title": "Strong & Stable Leadership",
+                "content": "The best Brexit deal + Economic security for Britain"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Theresa May promises strong and stable leadership heading into Brexit negotiations."
+            },
+            {
+                "policyTitle": "Economic Security",
+                "policyDescription": "Theresa May's leadership is portrayed as a means to ensure economic security for Britain."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The leaflet emphasizes the importance of the upcoming Brexit negotiations and positions Theresa May as the suitable leader for such talks.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May contrasted with Jeremy Corbyn, reflecting on leadership and Brexit negotiations."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,111 @@
+{
+  "leaflet": {
+    "candidateName": "Tom Hunt",
+    "constituency": "Ipswich",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "IPSWICH LABOUR MP BLOCKS BREXIT!",
+        "content": "Three years ago over 58% of people in Ipswich voted to leave the EU. Since then our local MP has voted in favour of Labour Brexit and repeatedly voted to block Brexit proposals in the UK parliament."
+      },
+      {
+        "title": "Better hospitals. Safer streets. Improved schools.",
+        "content": "It comes down to your vote. Let’s get Brexit done – so we can invest BILLIONS in our public services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Get Brexit done to invest billions in public services, uphold democratic decision made by the people, and aim to leave the EU on good terms."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Investing in extra £33.9 billion into the NHS, helping surgeries."
+      },
+      {
+        "policyTitle": "Law and Order",
+        "policyDescription": "Hiring 20,000 more police officers."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "More funding for every pupil in every school."
+      },
+      {
+        "policyTitle": "Infrastructure",
+        "policyDescription": "Improvements to roads and rail services, ensuring reliable train services to London and Cambridge."
+      },
+      {
+        "policyTitle": "Local Economy",
+        "policyDescription": "Securing up to £25 million for the town centre, making a difference in how the money is spent."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Ensuring local homes for local people, assisting Ipswich residents have access to council housing before other that live elsewhere."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": "Ipswich’s referendum result should be respected."
+    },
+    "issues": {
+      "brexitEurope": "Ipswich voted to leave the EU, but the local Labour MP has voted in favour of blocking Brexit proposals. The Conservative candidate criticizes Labour's stance on Brexit as being indecisive and adding further delay.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Ensuring local homes for local people, so that Ipswich residents have access to council housing before those that live elsewhere.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "\"I voted to leave the EU and if I'm lucky enough to be elected as your MP I will work on getting Brexit done as soon as possible, my number one priority. I want to see Brexit delivered on time, not years of more delay.\"",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "tom@tom4ipswich.com",
+      "website": "www.tom4ipswich.com",
+      "socialMedia": {
+        "facebook": "tom4ipswich",
+        "twitter": "tom4ipswich",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "BBC News",
+        "endorsement": "Labour 'still divided over Brexit'"
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Candidate with Boris Johnson."
+        },
+        {
+          "caption": "Candidate interacting with public."
+        },
+        {
+          "caption": "Candidate speaking at parliament."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet focuses on Brexit and criticizes the opposition for blocking Brexit and creating confusion. It supports Conservative policies and the leadership of Boris Johnson."
+  }
+}

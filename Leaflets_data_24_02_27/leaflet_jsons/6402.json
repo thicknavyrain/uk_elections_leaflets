@@ -1,0 +1,96 @@
+{
+    "leaflet": {
+        "candidateName": "David Cameron",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "IMPROVING THE NHS FOR EVERYONE",
+                "content": "David Cameron has made the NHS our number one priority - and we have plans to improve the NHS for everyone: Conservatives will increase spending on the NHS every year. We will cut NHS bureaucracy by a third and get the money to the front line. Our new Cancer Drugs Fund will mean that everyone can have access to the cancer drugs their doctors think will help them."
+            },
+            {
+                "title": "GETTING OUR ECONOMY MOVING",
+                "content": "Conservatives have the energy and ideas to deal with Britain's debts, create new jobs and get the economy moving again. Labour's jobs tax will kill the recovery so we'll cut waste to stop it. 7 out of 10 working people will be better off than under Labour - and nobody will be worse off. And we'll cut Labour's debt to stop higher interest rates and your mortgage going up. We'll cut wasteful spending, like paying welfare benefits to people who could and should be at work, and scrapping huge, unnecessary government projects like ID cards. And we'll control public spending carefully to make sure we can protect our public services. Most importantly, we'll get the economy growing again. We will support small businesses and the self-employed, scrap taxes on new jobs created by new companies, and create 400,000 new training places."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Increase spending on the NHS every year, cut NHS bureaucracy by a third, and ensure everyone has access to cancer drugs with the new Cancer Drugs Fund."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Deal with Britain's debts, create new jobs, and cut wasteful spending, including scrapping projects like ID cards. Control public spending to protect services, support small businesses, scrap taxes on new jobs by new companies, and create 400,000 new training places."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Labour's jobs tax will kill the recovery so we'll cut waste to stop it. We'll cut Labour's debt to stop higher interest rates and your mortgage going up.",
+            "education": "We have bold plans to change our country for the better. Some of our plans won\u2019t cost money but will need real energy \u2013 like our determination to improve school discipline.",
+            "environment": "",
+            "governance": "",
+            "health": "We will increase spending on the NHS every year.",
+            "immigration": "",
+            "socialWelfare": "We'll cut wasteful spending, like paying welfare benefits to people who could and should be at work.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Britain needs change. You will soon have the chance to make that change happen. [...] Only the Conservatives can bring the change Britain needs. I hope you'll take the chance to vote for that change.",
+        "politicalExperience": [
+            {
+                "role": "Leader of the Conservative Party",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "CCHQ, 30 Millbank, London, SW1P 4DP",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "However you may have felt about the Conservatives in the past, take a look at what we're offering today.",
+                "source": "David Cameron",
+                "date": ""
+            },
+            {
+                "text": "We need a new government with the energy, leadership and values to get the country moving, and our economy back on track.",
+                "source": "David Cameron",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Cameron, Leader of the Conservative Party"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

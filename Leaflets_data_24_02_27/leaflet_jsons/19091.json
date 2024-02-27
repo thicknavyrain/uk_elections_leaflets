@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+    "candidateName": "Martin Freeman",
+    "constituency": "",
+    "politicalParty": "Scottish Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Hello",
+        "content": "Now we are in the run up to a General Election, and over that time you're going to hear loads of claims from people on the left, on the right, all over the place. It's going to drive you mad. It'll probably drive me mad, but don't put this down yet. Because I think in the end it's simple. It boils down to a choice between a Labour government or a Tory one."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Passionate about protecting the NHS."
+      },
+      {
+        "policyTitle": "Minimum Wage",
+        "policyDescription": "Labour will raise the minimum wage to £8."
+      },
+      {
+        "policyTitle": "Zero-hours contracts",
+        "policyDescription": "Opposing zero-hours contracts, while Tories would allow more of their tax cutting for millionaires."
+      }
+    ],
+    "mentions": {
+      "candidate": "I think there's only one choice: and I choose Labour.",
+      "otherPartyLeaderCandidate": "The Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "I could tell you it seems like the Tories don't believe in the NHS which Labour is passionate about protecting it.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "My values are about community, passion, decency - that's how I was brought up.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "scottishlabour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The Labour party started in Scotland. And those values - community, compassion and fairness - still hold true. Only Labour is big enough and strong enough to beat the Tories and deliver the change that Scotland needs.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Martin Freeman with the text 'Hello'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

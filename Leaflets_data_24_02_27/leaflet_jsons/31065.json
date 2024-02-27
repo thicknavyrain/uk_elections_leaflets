@@ -1,0 +1,86 @@
+{
+  "leaflet": {
+    "candidateName": "Alex Hardin",
+    "constituency": "Westminster North",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "8 June",
+    "messages": [
+      {
+        "title": "YOUR CHOICE, YOUR FUTURE",
+        "content": "On 8 June, choose the kind of future you want for you, your family and our country. Every vote for the Liberal Democrats is a vote for: Fully-costed plans for investment in the NHS, schools and social care. Help for small businesses, and fighting the hard Brexit that hurts jobs and services. Building the homes that London needs and introducing new rent-to-buy schemes. Protecting the environment, cleaning up air pollution and keeping our streets safe. Funding aid and defence properly to play a responsible role in a changing world."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Investment in NHS, Schools, and Social Care",
+        "policyDescription": "Fully-costed plans for investment in the NHS, schools and social care"
+      },
+      {
+        "policyTitle": "Support for Small Businesses and Anti-Hard Brexit",
+        "policyDescription": "Help for small businesses, and fighting the hard Brexit that hurts jobs and services"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Building the homes that London needs and introducing new rent-to-buy schemes"
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Protecting the environment, cleaning up air pollution"
+      },
+      {
+        "policyTitle": "Safety",
+        "policyDescription": "Keeping our streets safe"
+      },
+      {
+        "policyTitle": "Aid and Defense",
+        "policyDescription": "Funding aid and defence properly to play a responsible role in a changing world"
+      }
+    ],
+    "mentions": {
+      "candidate": "Alex Hardin",
+      "otherPartyLeaderCandidate": "Tories and Labour",
+      "partyLeader": "",
+      "tacticalSituation": "Tactical voting considerations not explicitly mentioned, but implied criticism of Tories and Labour suggests a need for a positive liberal choice."
+    },
+    "issues": {
+      "brexitEurope": "fighting the hard Brexit that hurts jobs and services",
+      "economy": "",
+      "education": "Investment in schools",
+      "environment": "Protecting the environment, cleaning up air pollution",
+      "governance": "",
+      "health": "Investment in the NHS",
+      "immigration": "",
+      "socialWelfare": "Investment in social care",
+      "housing": [
+        {
+          "content": "Building the homes that London needs and introducing new rent-to-buy schemes",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Alex Hardin with a constituent on a street in Westminster North."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet provides a summary of key platforms and policies of the Liberal Democrat candidate for the Westminster North constituency, positioning the party as the positive choice against the backdrop of dissatisfaction with Tories and Labour."
+  }
+}

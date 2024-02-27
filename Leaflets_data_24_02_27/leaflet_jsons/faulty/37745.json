@@ -1,0 +1,80 @@
+{
+    "leaflet": {
+        "candidateName": "Kezia Dugdale",
+        "constituency": "North East Scotland Region",
+        "politicalParty": "Scottish Labour Party",
+        "electionDate": "MAY 5th",
+        "messages": [
+            {
+                "title": "#BOTH VOTES LABOUR",
+                "content": "In this election you have two votes, one for your constituency candidate and one for a party that will ensure Scottish Parliament uses its new powers to change things. After a decade in charge, the SNP have become too comfortable in power. Send a message that you want the new powers used to stop the cuts. Use both your votes for Labour."
+            },
+            {
+                "title": "Choose Kids, Not Cuts",
+                "content": "With new powers coming to the Scottish Parliament, we are faced with a choice: will we use the powers to invest in public services here in the North East or are we just going to pass on Tory cuts?"
+            },
+            {
+                "title": "Labour will safeguard our ARI",
+                "content": "Currently, there are four designated centres in Scotland for dealing with the most serious injuries, following accidents at work, on the roads or offshore: Aberdeen, Dundee, Glasgow and Edinburgh. Now the SNP are conducting doctors plans for only two Major Trauma Centres, in Glasgow and Edinburgh. They refuse to guarantee that if they win this election, ARI will be a Major Trauma Centre in future. Scottish Labour gives that guarantee. To safeguard the future of ARI, use both your votes for Labour on 5 May."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Invest in the NHS",
+                "policyDescription": "Guaranteeing a Major Trauma Centre at ARI."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Invest in the oil and gas industry and in young minds."
+            },
+            {
+                "policyTitle": "Tackle the housing crisis",
+                "policyDescription": "By building 5,000 new homes over the next five years in Aberdeen, Aberdeenshire and Moray."
+            },
+            {
+                "policyTitle": "Regulate bus services",
+                "policyDescription": "Make bus travel easier and secure local services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Kezia Dugdale"
+        },
+        "issues": {
+            "education": "Invest in the oil and gas industry and in young minds. Stop cuts to education. Asking those earning over \u00a3150,000 to pay a little more for new investment in schools.",
+            "health": "Guaranteeing a Major Trauma Centre at ARI.",
+            "housing": [
+                {
+                    "content": "By building 5,000 new homes over the next five years in Aberdeen, Aberdeenshire and Moray.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "scottishlabour.org.uk",
+            "socialMedia": {
+                "facebook": "scottishlabour",
+                "twitter": "scottishlabour",
+                "instagram": "scottishlabour",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Labour supporters with candidate Kezia Dugdale."
+                },
+                {
+                    "caption": "Major Trauma Centre at ARI."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "leaflet": {
+        "candidateName": "Cat Smith",
+        "constituency": "Fleetwood and Lancaster",
+        "politicalParty": "Labour Party",
+        "electionDate": "May 7th",
+        "messages": [
+            {
+                "title": "A Fresh Start for Fleetwood and Lancaster",
+                "content": "Cat Smith is committed to putting Fleetwood and Lancaster first, with a strong voice in Westminster to champion our area."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protecting Our NHS",
+                "policyDescription": "Cat Smith emphasizes fighting for a well-funded, publicly owned NHS and social care services."
+            },
+            {
+                "policyTitle": "A Future For Our Youth",
+                "policyDescription": "She promises to fight for opportunities for young people including decent jobs and affordable homes."
+            },
+            {
+                "policyTitle": "Tackling the Cost-of-Living Crisis",
+                "policyDescription": "She addresses the cost of living, emphasizing the need to deal with rising bills."
+            },
+            {
+                "policyTitle": "Standing Up For Workers",
+                "policyDescription": "Cat Smith supports workers' rights and promises to stand up for them."
+            },
+            {
+                "policyTitle": "Renationalising Rail",
+                "policyDescription": "Smith advocates for a publicly owned railway system to improve services and lower fares."
+            },
+            {
+                "policyTitle": "Honest Politics",
+                "policyDescription": "She stands for honest, transparent, and accountable politics."
+            }
+        ],
+        "mentions": {
+            "candidate": "Cat Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "She addresses the cost of living, emphasizing the need to deal with rising bills.",
+            "education": "She promises to fight for opportunities for young people including decent jobs and affordable homes.",
+            "environment": "",
+            "governance": "She stands for honest, transparent, and accountable politics.",
+            "health": "Cat Smith emphasizes fighting for a well-funded, publicly owned NHS and social care services.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "She promises to fight for opportunities for young people including decent jobs and affordable homes.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I am proud to call Fleetwood and Lancaster home. I know the value of our community and promise to always stand up for our area.",
+        "politicalExperience": [
+            {
+                "role": "Your local MP",
+                "duration": "Since 2015",
+                "achievements": "Cat lists her achievements as the local MP, including fighting for the NHS and youth in the area."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "cat@catsmith.co.uk",
+            "website": "www.catsmith.co.uk",
+            "socialMedia": {
+                "facebook": "/catsmithforlancasterandfleetwood",
+                "twitter": "@CatSmithMP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Labour Party Leader",
+                "endorsement": "Cat has the compassion to care and the guts to fight for Fleetwood and Lancaster."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Cat Smith won here last time, she\u2019s standing again on 7th May",
+                "source": "Local Newspaper",
+                "date": "Recent Article"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Cat Smith engaging with various individuals and groups."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

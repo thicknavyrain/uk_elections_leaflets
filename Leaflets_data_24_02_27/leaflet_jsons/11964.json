@@ -1,0 +1,95 @@
+{
+    "leaflet": {
+        "candidateName": "David Cameron",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A PERSONAL MESSAGE FROM DAVID CAMERON WHY WE NEED CHANGE IN BRITAIN TODAY",
+                "content": "Thirteen years ago Labour was elected promising change. But today, with the economy in a mess and a growing gap between rich and poor, a lot of people feel let down. Perhaps you're one of them. The Conservative Party has the energy and ideas to change Britain."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "The Conservative party will increase spending on the NHS."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Plans to aid the economy by creating 400,000 new apprenticeship and training places over two years."
+            },
+            {
+                "policyTitle": "Taxes",
+                "policyDescription": "Ensures Britain remains the most family-friendly country in Europe, keeping tax credits, providing 4,200 extra Sure Start places, and freezing council tax for two years."
+            },
+            {
+                "policyTitle": "Pensions",
+                "policyDescription": "Raise the basic state pension and protect winter fuel payments, free bus passes and TV licences for older people."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "The economy is in a mess, promises to create 400,000 new apprenticeships and training places over two years.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Promises increased spending on the NHS.",
+            "immigration": "",
+            "socialWelfare": "Keeping tax credits, providing 4,200 extra Sure Start credits.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I hope you take this chance to vote for change.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Cameron writing, David Cameron speaking with individuals, interacting with the public."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

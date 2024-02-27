@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "Alex White",
+        "constituency": "Central Devon",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Join the Fightback.",
+                "content": "Nick Clegg, Leader of the Liberal Democrats, says: 'Every vote for the Liberal Democrats is a vote to change the direction of our country and stop a hard Brexit.'"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "School Budgets",
+                "policyDescription": "Fighting against school funding cuts."
+            },
+            {
+                "policyTitle": "NHS and Social Care",
+                "policyDescription": "Campaigning to get the NHS and social care the funding they need."
+            },
+            {
+                "policyTitle": "Farming and Rural Affairs",
+                "policyDescription": "Ensuring farmers and rural areas have strong representation."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alex White",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": "It's a fight between the Conservatives and Lib Dems in Central Devon."
+        },
+        "issues": {
+            "brexitEurope": "Every vote for the Liberal Democrats is a vote to change the direction of our country and stop a hard Brexit.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Campaigning to get the NHS and social care the funding they need.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.AlexWhite.org",
+            "socialMedia": {
+                "facebook": "/AlexWhiteLD",
+                "twitter": "@AlexWhiteLD",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Nick Clegg",
+                "endorsement": "Every vote for the Liberal Democrats is a vote to change the direction of our country and stop a hard Brexit."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A thank you message from the Liberal Democrats and images of Alex White with supporters."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet emphasizes that the strategic voting consideration in Central Devon is a fight between the Conservatives and the Liberal Democrats, indicating that other parties can't win there."
+    }
+}

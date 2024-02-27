@@ -1,0 +1,72 @@
+{
+  "leaflet": {
+    "candidateName": "Sarah Lewis",
+    "constituency": "Lambeth",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Sarah Lewis CHALLENGES LABOUR",
+        "content": "Liberal Democrat challenges Labour: 'stop selling off our council homes!'"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Challenges Labour to stop selling off council homes."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sarah Lewis is the best choice for our next MP",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "JO SWINSON THE PRIME MINISTER BRITAIN DESERVES",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "stop selling off council homes",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Sarah Lewis knows exactly what Lambeth should be. Fair, balanced, and an unmitigated focus on its residents.",
+        "source": "Jo Swinson, Leader of the Liberal Democrats",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Sarah Lewis is the best choice for our next MP"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

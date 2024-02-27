@@ -1,0 +1,66 @@
+{
+    "leaflet": {
+        "candidateName": "Peter Gibson",
+        "constituency": "Redcar",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Election Communication",
+                "content": "I grew up in Redcar. I'm appalled how our town has been neglected. I believe we can do better and have a much brighter future. Labour take Redcar for granted. I am NOT a career politician. I will fight your corner. Together we can reinvigorate Redcar. Only a vote for me will give Redcar an MP working side by side with Theresa May to get a fair share of the benefits of Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "To ensure that Redcar gets a fair share of the benefits of Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Peter Gibson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Labour take Redcar for granted."
+        },
+        "issues": {
+            "brexitEurope": "Only a vote for me will give Redcar an MP working side by side with Theresa May to get a fair share of the benefits of Brexit.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "I'm appalled how our town has been neglected.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I grew up in Redcar. I'm appalled how our town has been neglected. I believe we can do better and have a much brighter future.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Peter Gibson, c/o 74 Church St, Guisborough TS14 6HG. Printed by St Ives plc, Albion Mills, The Jute Building, Third Floor, Albion Road, Bradford, BD10 9TQ.",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Peter Gibson standing with Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

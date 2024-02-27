@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "IT'S A TWO HORSE RACE",
+        "content": "Only Labour can beat the Tories"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education Policies",
+        "policyDescription": "Funded by cuts to families, would give more money to wealthy areas than to the least well off."
+      },
+      {
+        "policyTitle": "Child Tax Credits",
+        "policyDescription": "Like the Tories, they'll cut child tax credits and the Child Trust Fund."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Nick Clegg",
+      "partyLeader": "",
+      "tacticalSituation": "Only Labour can beat the Tories"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Education policies, funded by cuts to families, would give more money to wealthy areas than to the least well off.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Like the Tories, they'll cut child tax credits and the Child Trust Fund.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Labour hasn't been perfect, but the choice at this election isn't risk free. Change, without consequence isn't on the ballot paper.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "39 Victoria Street, London SW1H 0HA",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Lib Dem Leader, Nick Clegg, says Britain needs \"savage\" cuts.",
+        "source": "The Guardian, 19 Sept 2009",
+        "date": "2009-09-19"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "IT'S A TWO HORSE RACE Only Labour can beat the Tories"
+        }
+      ]
+    },
+    "additionalNotes": "Promoted by Ray Collins, General Secretary, the Labour Party, on behalf of the Labour Party"
+  }
+}

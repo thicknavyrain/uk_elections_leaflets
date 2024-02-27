@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "Derek Abram",
+        "constituency": "Kingston upon Hull North",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "WITHOUT THE BREXIT PARTY THERE CAN BE NO REAL BREXIT",
+                "content": "VOTE FOR THE BREXIT PARTY ON December 12th"
+            },
+            {
+                "title": "THERE ARE AROUND 130 SEATS THAT THE CONSERVATIVES HAVEN'T WON IN AT LEAST 50 YEARS",
+                "content": "ONLY THE BREXIT PARTY CAN BEAT CORBYN'S LABOUR"
+            },
+            {
+                "title": "LEAVERS, DON'T WASTE YOUR VOTE",
+                "content": "VOTE FOR THE BREXIT PARTY IN KINGSTON UPON HULL NORTH ON DECEMBER 12th"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "The Brexit Party pushes for a 'real Brexit', suggesting that without them, Brexit may not be achieved to their defined standard."
+            }
+        ],
+        "mentions": {
+            "candidate": "Derek Abram",
+            "otherPartyLeaderCandidate": "CORBYN'S LABOUR",
+            "partyLeader": "",
+            "tacticalSituation": "The leaflet suggests that the Brexit Party is the only alternative capable of challenging Labour in seats that the Conservatives have not won in decades."
+        },
+        "issues": {
+            "brexitEurope": "The Brexit Party emphasizes achieving a 'real Brexit'."
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "83 Victoria Street, London SW1H 0HW",
+            "phone": "0800 414 8525",
+            "email": "",
+            "website": "www.thebrexitparty.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of Derek Abram, candidate for The Brexit Party"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet focuses mainly on Brexit and does not provide detailed information on other policy areas or the candidate's personal statements or political experience."
+    }
+}

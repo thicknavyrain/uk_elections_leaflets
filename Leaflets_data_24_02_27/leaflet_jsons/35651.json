@@ -1,0 +1,86 @@
+{
+    "leaflet": {
+        "candidateName": "Cat Smith",
+        "constituency": "Lancaster",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "It's time for real change in our country",
+                "content": "Re-elect Cat Smith. I love Lancaster. I live here and am delighted to be raising my family here. I use our local public services just like you - it is important that your local MP is just that, local. Lancaster matters to me because this is my home. With your support, I can continue to serve our city and work for the real change our country needs."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Build an economy that rewards workers, pensioners and those in need, not just the richest. Act on big tax avoiding firms so all pay their fair share."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Increase funding for the NHS with more nurses and doctors to give patients the care they need."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "End homelessness and make housing affordable. Back councils and housing associations to build good homes for our community."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Kickstart a Green Industrial Revolution to tackle the climate emergency and create high skilled, high wage jobs. Ban fracking from day one."
+            },
+            {
+                "policyTitle": "Community Investment",
+                "policyDescription": "Invest in every community, delivering good jobs and the skills people need, so that no one is held back or left behind."
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "Put Brexit back to the people: a public vote to either remain in the EU or approve a concrete deal that can be delivered immediately."
+            }
+        ],
+        "mentions": {
+            "candidate": "Cat Smith",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Put Brexit back to the people: a public vote to either remain in the EU or approve a concrete deal that can be delivered immediately.",
+            "economy": "Build an economy that rewards workers, pensioners and those in need, not just the richest. Act on big tax avoiding firms so all pay their fair share.",
+            "education": "",
+            "environment": "Kickstart a Green Industrial Revolution to tackle the climate emergency and create high skilled, high wage jobs. Ban fracking from day one.",
+            "governance": "",
+            "health": "Increase funding for the NHS with more nurses and doctors to give patients the care they need.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "End homelessness and make housing affordable. Back councils and housing associations to build good homes for our community.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I love Lancaster. I live here and am delighted to be raising my family here. I use our local public services just like you - it is important that your local MP is just that, local. Lancaster matters to me because this is my home.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01524 566551",
+            "email": "cat@catsmith.co.uk",
+            "website": "www.catsmith.co.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/CatSmithMP",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Re-elect Cat Smith"
+                }
+            ]
+        },
+        "additionalNotes": "FOR THE MANY NOT THE FEW"
+    }
+}

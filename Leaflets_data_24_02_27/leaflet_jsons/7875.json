@@ -1,0 +1,102 @@
+{
+  "leaflet": {
+    "candidateName": "Nigel Waterson",
+    "constituency": "Eastbourne & Willingdon",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "PROTECTING OUR NHS",
+        "content": "Nigel is fighting for local health services."
+      },
+      {
+        "title": "BLUEPRINT FOR THE NHS",
+        "content": "A Conservative Government will back the NHS."
+      },
+      {
+        "title": "GREEN SPACES",
+        "content": "Nigel campaigning with local residents against over development."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health Services",
+        "policyDescription": "Nigel is fighting for local health services."
+      },
+      {
+        "policyTitle": "NHS Support",
+        "policyDescription": "A Conservative Government will back the NHS."
+      },
+      {
+        "policyTitle": "Preservation of Green Spaces",
+        "policyDescription": "Campaigning with local residents against over development."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nigel Waterson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Campaigning with local residents against over development.",
+      "governance": "",
+      "health": "Nigel is fighting for local health services. A Conservative Government will back the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Campaigning with local residents against over development.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Cameron",
+        "endorsement": "Exclusive Interview with David Cameron INSIDE."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nigel Waterson with a local resident"
+        },
+        {
+          "caption": "PROTECTING OUR NHS: Nigel is fighting for local health services."
+        },
+        {
+          "caption": "Nigel campaigning with local residents against over development."
+        },
+        {
+          "caption": "Exclusive Interview with David Cameron INSIDE."
+        }
+      ]
+    },
+    "additionalNotes": "Paid for by local Conservatives NOT BY THE TAXPAYER"
+  }
+}

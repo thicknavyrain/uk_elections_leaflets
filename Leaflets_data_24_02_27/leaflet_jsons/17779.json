@@ -1,0 +1,103 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protecting jobs and increasing prosperity",
+                "policyDescription": "Review all legislation since 2010, negotiate a bespoke trade agreement with the EU, reinstate mutual agreement for trade to and from North America, repair the UK economy with measures such as increasing personal allowance and reducing business rates."
+            },
+            {
+                "policyTitle": "Reducing debts we leave to our grandchildren",
+                "policyDescription": "UK will leave the EU and save at least \u00a38bn per annum in net contributions, cut the foreign aid budget by more than half, end budget contributions to the World Bank."
+            },
+            {
+                "policyTitle": "Education and Skills",
+                "policyDescription": "Introduce an option for students to take vocational qualifications, remove tuition fees for STEM students meeting specific conditions, target 50% of school leavers to go to university, establish a new grammar school in every town."
+            },
+            {
+                "policyTitle": "Energy",
+                "policyDescription": "Repeal the Climate Change Act 2008, ensure affordable household energy, reduce dependency on foreign energy supplies, implement a range of measures to support the development of shale gas."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Scrap HS2, offer existing contracts for public roads, enforce foreign vehicles to purchase a Britdisc before using the roads, ensure speed cameras are used as a deterrent and not a revenue raiser."
+            },
+            {
+                "policyTitle": "Housing and planning",
+                "policyDescription": "Protect the Green Belt, change planning rules to enable local determination of residential and brownfield sites, ensure that affordable homes are not sold off."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Introduce a National Health Service Ombudsman, people will have the right to choose where to go for treatment within the NHS using an 'NHS Health Card'.",
+            "immigration": "Establish an Australian-style points-based immigration system, set a five-year moratorium on unskilled and low-skilled immigration.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Protect the Green Belt, local determination for residential and brownfield sites, affordable homes should not be sold off.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

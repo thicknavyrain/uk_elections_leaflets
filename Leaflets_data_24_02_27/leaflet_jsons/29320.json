@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+	"candidateName": "Theresa May",
+	"constituency": "Southampton Test",
+	"politicalParty": "Conservatives",
+	"electionDate": "Thursday 8th June",
+	"messages": [
+  	{
+    	"title": "MAKE A PLAN TO VOTE – TO BACK ME TO LEAD BRITAIN’S BREXIT NEGOTIATIONS",
+    	"content": "Just 11 days after you vote in this unique and crucial election, the European Union wants to start Brexit negotiations with Britain. And Susan, your local vote in Southampton Test will decide who will be the Prime Minister to lead these Brexit negotiations on behalf of our country. Me or Jeremy Corbyn."
+  	},
+	{
+		"title": "GETTING BREXIT RIGHT IS CENTRAL TO EVERYTHING",
+		"content": "Getting these negotiations right is central to everything – our economic security, our jobs, our vital public services. Get Brexit wrong and we get everything else wrong. From looking after our elderly to educating our children, everything depends on getting Brexit right."
+	},
+	{
+		"title": "EVERY VOTE FOR ME WILL STRENGTHEN MY NEGOTIATING HAND",
+		"content": "Every vote for me in Southampton Test will strengthen my hand in these negotiations. Every vote to back me will help me get the best possible deal for Britain – so we keep a strong economy delivering better jobs for a good paycheck for each city and fund for a strong NHS. And every vote to back me will ensure we control and reduce immigration when we leave the EU."
+	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Brexit Negotiations",
+    	"policyDescription": "The leaflet emphasizes the need for strong leadership during Brexit negotiations, arguing that getting Brexit right is central to everything including economic security, jobs, and public services."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Theresa May",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "Theresa May",
+  	"tacticalSituation": "The leaflet stresses the importance of the local vote in Southampton Test and suggests that losing just 6 seats could put Brexit negotiations at risk, thereby hinting at tactical voting considerations."
+	},
+	"issues": {
+  	"brexitEurope": "Getting Brexit right is central to everything, including economic security, jobs, and public services. The EU wants to start Brexit negotiations 11 days after the election.",
+  	"economy": "The leaflet relates Brexit negotiations to economic security and the ability to provide better jobs with good paychecks.",
+  	"education": "Education is briefly mentioned as being dependent on getting Brexit right.",
+  	"environment": "",
+  	"governance": "Emphasizes strong governance required for Brexit negotiations.",
+  	"health": "The negotiations are said to affect the NHS, suggesting health is a key concern.",
+  	"immigration": "Brexit negotiations will enable control and reduction of immigration when the UK leaves the EU.",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Emphasizes Theresa May's personal commitment to leading Brexit negotiations and creating a successful outcome for Britain.",
+	"politicalExperience": [
+  	{
+    	"role": "Prime Minister",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.conservatives.com/plantovote",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Sky-high immigration would continue if Jeremy Corbyn – the Labour leader you can't afford – signalled today.",
+    	"source": "The Sun, 21st May 2017",
+    	"date": "21st May 2017"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Visual emphasis on Theresa May as a leader, the importance of Brexit negotiations, and the implications of tactical voting."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

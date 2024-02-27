@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Camden",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Stop the sell off of council homes to private developers who make massive profits; Continue improving our homes and getting better value for money from repairs; Set up a tenants and leaseholders panel to give local residents a voice at the town hall; Stop the privatisation of caretakers on estates."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "In the 2008 London and 2009 European elections the Tories came second in Camden, beating the Lib Dems."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Stop the sell off of council homes to private developers. Continue improving our homes for better value from repairs. Set up a panel for tenants and leaseholders. Stop privatisation of caretakers on estates.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Plender Street, NW1 0LB",
+      "phone": "020 7586 6039",
+      "email": "",
+      "website": "www.camdenlabour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Bar chart showing Labour, Tory, Greens, and Lib Dems vote counts in Camden from list section, London elections 2008."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

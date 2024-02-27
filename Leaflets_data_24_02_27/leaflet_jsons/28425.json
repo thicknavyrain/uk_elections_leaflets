@@ -1,0 +1,92 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "AN IMPORTANT MESSAGE FROM THERESA MAY TO YOU",
+                "content": "Getting on with the job of securing the best possible deal from Brexit is vital. ..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Take back control of our borders, laws, and our money, sign new trade deals, ensure Brexit works for you and the whole of the United Kingdom, provide as much clarity as possible, maintaining a strong negotiating hand."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "With a good deal from Brexit we can keep our growing economy and all the public services we rely on: well-paid jobs, more affordable housing, a good school place for every child, a strong economy paying for a strong NHS."
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "Strong and stable leadership to ensure the best possible deal from Brexit is secured."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "DON'T RISK A COALITION OF CHAOS \u2013 VOTE THERESA MAY on 8th June"
+        },
+        "issues": {
+            "brexitEurope": "The only way you can ensure we have the strong and stable leadership to get this right is by backing me, and voting for my Conservative candidate in your local area.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "With a good deal from Brexit we can keep our growing economy and all the public services we rely on: well-paid jobs, more affordable housing, a good school place for every child, a strong economy paying for a strong NHS.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "The only way you can ensure we have the strong and stable leadership to get this right is by backing me, and voting for my Conservative candidate in your local area.",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Your vote counts. It will count to strengthen Theresa May\u2019s hand in the UK\u2019s negotiating position on Brexit.",
+                "source": "The Guardian, 29 April 2017",
+                "date": "29 April 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May with supporters."
+                },
+                {
+                    "caption": "Comparative risks highlighting Theresa May vs Jeremy Corbyn"
+                },
+                {
+                    "caption": "Past shock election outcomes related to Trump, Brexit vote"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet emphasizes the risks of not voting for Theresa May and the Conservative Party, using the potential of Jeremy Corbyn becoming Prime Minister as a warning. No detailed constituency-specific information or direct contact information for the candidate is provided on the leaflet."
+    }
+}

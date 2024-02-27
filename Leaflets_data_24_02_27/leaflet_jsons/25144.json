@@ -1,0 +1,98 @@
+{
+    "leaflet": {
+        "candidateName": "Janet Hunter",
+        "constituency": "",
+        "politicalParty": "Labour Party",
+        "electionDate": "7th May 2015",
+        "messages": [
+            {
+                "title": "We are voting because we care about:",
+                "content": "Our NHS, Our local services, Our future"
+            },
+            {
+                "title": "If you care for it?",
+                "content": "Vote for it."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Support for the National Health Service."
+            },
+            {
+                "policyTitle": "Local services",
+                "policyDescription": "Support for local services."
+            },
+            {
+                "policyTitle": "Future",
+                "policyDescription": "Focus on the future."
+            }
+        ],
+        "mentions": {
+            "candidate": "Janet Hunter",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Support for the National Health Service.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Support for local services.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "We are voting because we care about: Our NHS, Our local services, Our future"
+                },
+                {
+                    "caption": "Don't forget! Polling day is Thursday 7th May"
+                }
+            ]
+        },
+        "additionalNotes": "Don't forget! Polling day is Thursday 7th May. Polls are open from 7am to 10pm. Vote Labour. You have two votes please use them."
+    }
+}

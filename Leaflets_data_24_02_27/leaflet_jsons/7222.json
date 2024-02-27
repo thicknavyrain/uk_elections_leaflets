@@ -1,0 +1,93 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+		{
+			"title": "My personal pledges to you",
+			"content": "Honesty, integrity and a people’s Parliament\nI would like to see a legally-binding code of conduct for MPs. I support a written constitution for the United Kingdom which should be created by the people, not just politicians.\nInvestment and employment, not immediate cuts\nI will oppose cuts which put our economic recovery at risk and punish ordinary people for the recession. Where cuts are needed, I will support 'efficiency savings' which do not adversely affect jobs and services.\nPublic services not private profit\nI will campaign now to maintain investment in health, education and housing. I will also campaign for utilities and the railways to be made more accountable to both customers and passengers.\nBanks responsible to society\nI want to see banks organised so they deliver real benefits to society rather than just to their shareholders. I will support local credit unions, giving people an alternative to rogue lenders, and action to better regulate banks and hedge funds.\nEducation for the many not the few\nI support a truly comprehensive education system giving our young people a real choice between vocational and academic subjects on the same premises. I will also campaign for lower class sizes."
+		}
+	],
+	"keyPolicies": [
+		{
+			"policyTitle": "Honesty, integrity and a people's Parliament",
+			"policyDescription": "Support for a legally-binding code of conduct for MPs and a written constitution created by the people."
+		},
+		{
+			"policyTitle": "Investment and employment",
+			"policyDescription": "Opposition to immediate cuts that harm economic recovery and a focus on efficiency savings that do not adversely affect jobs and services."
+		},
+		{
+			"policyTitle": "Public services not private profit",
+			"policyDescription": "Advocacy for continued investment in health, education, and housing, and increased accountability for utilities and railways to customers and passengers."
+		},
+		{
+			"policyTitle": "Banks responsible to society",
+			"policyDescription": "Promotion of banks that benefit society, support for credit unions as alternatives to 'rogue lenders,' and regulation of banks and hedge funds."
+		},
+		{
+			"policyTitle": "Education for the many not the few",
+			"policyDescription": "Support for a comprehensive education system offering both vocational and academic choices and smaller class sizes."
+		}
+	],
+	"mentions": {
+		"candidate": "",
+		"otherPartyLeaderCandidate": "Gordon Brown",
+		"partyLeader": "",
+		"tacticalSituation": ""
+	},
+	"issues": {
+		"brexitEurope": "",
+		"economy": "",
+		"education": "Support for a truly comprehensive education system giving our young people a real choice between vocational and academic subjects on the same premises. Campaign for lower class sizes.",
+		"environment": "",
+		"governance": "Support for a legally-binding code of conduct for MPs and a written constitution created by the people.",
+		"health": "Campaign to maintain investment in health.",
+		"immigration": "",
+		"socialWelfare": "",
+		"housing": [
+			{
+				"content":"Campaign now to maintain investment in... housing.",
+				"yimbyNimby": "N/A"
+			}
+		]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+		{
+			"role": "",
+			"duration": "",
+			"achievements": ""
+		}
+	],
+	"contactInformation": {
+		"address": "",
+		"phone": "",
+		"email": "",
+		"website": "",
+		"socialMedia": {
+			"facebook": "",
+			"twitter": "",
+			"instagram": "",
+			"linkedin": ""
+		}
+	},
+	"endorsements": [
+		{
+			"endorser": "Les Button, former borough councillor",
+			"endorsement": "Free travel on buses, free television viewing, Winter Fuel Payments: All thanks to Gordon Brown. Don't vote for change!"
+		}
+	],
+	"quotes": [],
+	"campaignMaterial": {
+		"images": [
+			{
+				"caption": "The pensioners' view..."
+			}
+		]
+	},
+	"additionalNotes": ""
+  }
+}

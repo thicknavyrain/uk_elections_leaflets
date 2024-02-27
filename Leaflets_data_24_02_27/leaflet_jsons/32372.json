@@ -1,0 +1,70 @@
+{
+    "leaflet": {
+        "candidateName": "Caroline Jones",
+        "constituency": "Shipley",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "WE HAVE A CLEAR CHOICE",
+                "content": "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom."
+            },
+            {
+                "title": "THIS ELECTION IS YOUR CHANCE TO STOP BREXIT",
+                "content": "Build a brighter future."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Boris Johnson",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom. A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

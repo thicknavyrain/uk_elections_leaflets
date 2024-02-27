@@ -1,0 +1,87 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Lincoln",
+        "constituency": "Watford",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Tell the Lib-Lab-Con:",
+                "content": "Our democracy is NOT yours to give away!"
+            },
+            {
+                "title": "Quote by Winston Churchill, 11th May 1953",
+                "content": "\"We are with Europe, but not of it. We are linked but not combined. We are interested and associated but not absorbed. If Britain must choose between Europe and the sea, she must always choose the open sea.\""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Budget contribution to the EU",
+                "policyDescription": "The leaflet criticizes the financial contributions made to the EU, stating 'We pay \u00a355,000,000 EACH & EVERY DAY to the E.U.'"
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Lincoln",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The leaflet emphasizes a stance on Europe and EU membership, including a historical quote by Winston Churchill and criticism of daily financial contributions to the EU.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.ukip-watford.org.uk",
+            "socialMedia": {
+                "facebook": "UKIPWatford",
+                "twitter": "UKIPWatford",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "We are with Europe, but not of it. We are linked but not combined. We are interested and associated but not absorbed. If Britain must choose between Europe and the sea, she must always choose the open sea.",
+                "source": "Winston Churchill",
+                "date": "11th May 1953"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nick Lincoln, your UKIP Watford Parliamentary Candidate"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

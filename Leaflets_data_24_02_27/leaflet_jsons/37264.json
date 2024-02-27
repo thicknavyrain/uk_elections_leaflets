@@ -1,0 +1,69 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Scottish Greens",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "NO FEES EVER \u2013 KEEP TUITION FREE",
+                "policyDescription": "Education benefits us all, not just students, and must be based on the ability to learn, not to pay."
+            },
+            {
+                "policyTitle": "FAIRER TAXES \u2013 INVEST IN PUBLIC SERVICES",
+                "policyDescription": "Only Greens are offering an alternative to the cuts to public services: investment built on revenue from big business and the better off."
+            },
+            {
+                "policyTitle": "CUT YOUR BILLS \u2013 INSULATE EVERY HOME",
+                "policyDescription": "We would insulate every home for free, boost jobs and tackle climate change."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "NO FEES EVER \u2013 KEEP TUITION FREE: Education benefits us all, not just students, and must be based on the ability to learn, not to pay.",
+            "environment": "CUT YOUR BILLS \u2013 INSULATE EVERY HOME: We would insulate every home for free, boost jobs and tackle climate change.",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "CUT YOUR BILLS \u2013 INSULATE EVERY HOME: We would insulate every home for free, boost jobs and tackle climate change.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "info@scot.gr",
+            "website": "www.scot.gr",
+            "socialMedia": {
+                "facebook": "www.scot.gr/fb",
+                "twitter": "@scotgp",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "2ND VOTE GREEN"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

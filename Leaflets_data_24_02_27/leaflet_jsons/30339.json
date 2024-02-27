@@ -1,0 +1,69 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Brexit negotiations start 11 days after you vote",
+        "content": "Either Theresa May or Jeremy Corbyn will be standing up for your economic security."
+      },
+      {
+        "title": "A loss of just 6 seats and Theresa May's government loses its majority",
+        "content": "Delivering the chaos of a hung parliament."
+      },
+      {
+        "title": "There's no safe way to vote Labour locally.",
+        "content": "If you want to keep our economy strong and taxes low, not voting for Theresa May is the same as voting for Jeremy Corbyn."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Brexit negotiations start 11 days after you vote - either Theresa May or Jeremy Corbyn will be standing up for your economic security.",
+      "economy": "If you want to keep our economy strong and taxes low, not voting for Theresa May is the same as voting for Jeremy Corbyn.",
+      "education": "",
+      "environment": "",
+      "governance": "A loss of just 6 seats and Theresa May's government loses its majority - delivering the chaos of a hung parliament.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Promotional leaflet highlighting risks of a hung parliament and promoting Theresa May’s leadership in the context of Brexit negotiations."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

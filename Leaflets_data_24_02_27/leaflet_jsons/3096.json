@@ -1,0 +1,111 @@
+{
+    "leaflet": {
+        "candidateName": "David Cameron",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "We can't go on like this.",
+                "content": "Vote for change and action now on debt to get the economy moving, get Britain working by boosting enterprise, make Britain the most family-friendly country in Europe, back the NHS, raise standards in schools, and change politics."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Change the economy",
+                "policyDescription": "Support aspiration and opportunity by cutting taxes, reducing government debt and waste, and lowering interest rates."
+            },
+            {
+                "policyTitle": "Change society",
+                "policyDescription": "Mend society by encouraging responsibility and support for those who do right."
+            },
+            {
+                "policyTitle": "Change politics",
+                "policyDescription": "Give more control to the people, sort out MPs' expenses and cut the cost of politics."
+            },
+            {
+                "policyTitle": "Get Britain working by boosting enterprise",
+                "policyDescription": "Cut corporation tax rates and help new businesses create jobs."
+            },
+            {
+                "policyTitle": "Make Britain the most family-friendly country in Europe",
+                "policyDescription": "Improve state pension, recognize marriage in the tax system and back couples in the benefits system."
+            },
+            {
+                "policyTitle": "Back the NHS",
+                "policyDescription": "Increase spending on health every year and make the NHS work for patients not managers."
+            },
+            {
+                "policyTitle": "Raise standards in schools",
+                "policyDescription": "Improve discipline, create new smaller schools and empower teachers."
+            },
+            {
+                "policyTitle": "Change politics",
+                "policyDescription": "Reduce the number of MPs, cut quangos and ensure transparency in government spending."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Vote for change and action now on debt to get the economy moving.",
+            "education": "Raise standards in schools, improve discipline, create new smaller schools.",
+            "environment": "",
+            "governance": "Change politics by giving more control to the people, sorting out MPs' expenses, cutting the cost of politics, reducing the number of MPs, and ensuring transparency.",
+            "health": "Back the NHS by increasing spending on health every year and making it work for patients not managers.",
+            "immigration": "",
+            "socialWelfare": "Make Britain the most family-friendly country in Europe by improving the state pension system, recognizing marriage in the tax system, and supporting young families.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "5 more years of Gordon Brown's tired government making things worse or change with the Conservatives.",
+                "source": "Campaign Leaflet",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Cameron writing at a desk."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet juxtaposes the continuity of a 'tired government' under Gordon Brown with the promise of change under the Conservatives led by David Cameron."
+    }
+}

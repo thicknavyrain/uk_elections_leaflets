@@ -1,0 +1,100 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Dr Mark LIM",
+    "constituency": "Islington South and Finsbury",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The choice at the General Election",
+        "content": "Competent leadership with David Cameron delivering the deficit down, income tax cut, more jobs, and new businesses versus Coalition of chaos led by Labour with high borrowing, higher taxes, more debt, and job losses."
+      },
+      {
+        "title": "My priorities for Islington South and Finsbury",
+        "content": "Fighting for residents, opposing Labour's penalties like the mansion tax, and lower local health and social services."
+      },
+      {
+        "title": "An amazing borough in a proud country",
+        "content": "Comments on the importance of the local community and diversity, reducing crime and anti-social behaviour, improving healthcare, and ensuring fair and controlled immigration."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Reduce borrowing, cut taxes, create jobs, and foster new businesses while reducing the tax burden on families."
+      },
+      {
+        "policyTitle": "Health and Social Care",
+        "policyDescription": "Oppose Labour's proposed mansion tax, fight to improve local health and social services, and present opposition to Whittington Hospital privatizing essential services."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Ensuring fair and controlled immigration."
+      },
+      {
+        "policyTitle": "Local Community",
+        "policyDescription": "Reduce local and anti-social behaviour and make local areas safer."
+      }
+    ],
+    "mentions": {
+      "candidate": "Dr Mark LIM",
+      "otherPartyLeaderCandidate": "Ed Miliband",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Reduce borrowing, cut taxes, create jobs, and foster new businesses.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Fight to improve local health and social services.",
+      "immigration": "Ensuring fair and controlled immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Oppose Labour's mansion tax proposal.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I grew up in Islington and proud of having served the NHS for eleven years. ...I believe in making sure that the local council and Parliament deliver for people, not vested interest groups.",
+    "politicalExperience": [
+      {
+        "role": "NHS service",
+        "duration": "Eleven years",
+        "achievements": "Serving NHS for eleven years, focusing on race equality, health promotion, blood donation, and community health projects."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "islingtonconservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "It's time to end the phoney class war.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dr Mark Lim with supporters."  // This is a descriptive caption based on the image with the candidate and three individuals wearing Conservative badges.
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

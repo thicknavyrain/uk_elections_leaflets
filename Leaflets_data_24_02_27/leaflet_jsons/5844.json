@@ -1,0 +1,77 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "North Cornwall",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "ABOVE: LISTENING TO YOU",
+                "policyDescription": "Promises to provide daily interaction, listen to the voices raised, and preserve the unique life, heritage, and environment of North Cornwall."
+            },
+            {
+                "policyTitle": "SHARED LOCAL NEEDS HOUSING",
+                "policyDescription": "Works towards shared housing in line with community needs and ensures local people are able to stay in the community."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "The leaflet mentions providing the best services for local people, presumably including health services.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Works towards shared housing that meets the needs of the community, ensuring local people can stay in the community.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Candidate and constituents engaging in discussion."
+                },
+                {
+                    "caption": "Candidate assisting an elderly resident."
+                },
+                {
+                    "caption": "Group of people with the candidate outside a newly built housing area."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

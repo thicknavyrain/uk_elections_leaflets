@@ -1,0 +1,74 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "IMPROVING THE NHS FOR EVERYONE",
+        "content": "David Cameron has made the NHS our number one priority - and we have plans to improve the NHS for everyone: We will increase spending on the NHS every year. We will cut NHS bureaucracy by a third to get more of the money you pay in taxes directly to the front line. Our new 'Cancer Drugs Fund' will mean that everyone can have access to the cancer drugs their doctors think will help them."
+      },
+      {
+        "title": "SCRAPPING LABOUR'S JOBS TAX",
+        "content": "Gordon Brown will raise taxes next April on everyone earning over £20,000 a year, and on almost every job. Business experts predict this could cost at least 57,000 jobs. Labour's jobs tax will kill the recovery."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Increase NHS spending annually, cut bureaucracy by a third, and introduce a 'Cancer Drugs Fund'."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Oppose Labour's proposed tax, which is predicted to cost thousands of jobs and impede economic recovery."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour's proposed tax could cost at least 57,000 jobs and kill the recovery.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Plans to improve the NHS include increasing spending annually, reducing bureaucracy, and introducing a 'Cancer Drugs Fund'.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "CCHQ, 30 Millbank, London, SW1P 4DP",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "IMPROVING THE NHS FOR EVERYONE and SCRAPPING LABOUR'S JOBS TAX information"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet presents Conservative policies and critiques Labour's policies, particularly focusing on the impact on the economy and jobs."
+  }
+}

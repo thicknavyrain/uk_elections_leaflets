@@ -1,0 +1,56 @@
+{
+  "leaflet": {
+    "candidateName": "Dave Dempsey",
+    "constituency": "",
+    "politicalParty": "Scottish Conservatives",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Dave Dempsey",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "7 Cairngorms Park, North Queensferry, KY11 1EX",
+      "phone": "01383 416204",
+      "email": "dave.dempsey@scottishconservatives.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Dave Dempsey and his team are pleased to see you today"
+        }
+      ]
+    },
+    "additionalNotes": "Please use the details below to contact Dave about any issue or concern you may have."
+  }
+}

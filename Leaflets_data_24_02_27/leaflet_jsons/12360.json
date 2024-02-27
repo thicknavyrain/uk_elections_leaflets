@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "David Cameron",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday",
+        "messages": [
+            {
+                "title": "VOTE FOR CHANGE ON THURSDAY",
+                "content": "Your vote will decide whether we get the change we need - or have five more years of Gordon Brown."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Britain needs a stable government that from day one will get our economy working, tackle welfare abuse and reform our rotten political system.",
+            "education": "",
+            "environment": "",
+            "governance": "reform our rotten political system",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "tackle welfare abuse",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "This is our contract with you to change Britain for the better.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Cameron writing, with the text: 'VOTE FOR CHANGE ON THURSDAY'"
+                }
+            ]
+        },
+        "additionalNotes": "3 THINGS TO REMEMBER for voting process."
+    }
+}

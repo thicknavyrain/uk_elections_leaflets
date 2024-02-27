@@ -1,0 +1,97 @@
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "",
+    "politicalParty": "Lib Dem",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Fighting for their future",
+        "content": "Nick Clegg wants to build a better future for our children."
+      },
+      {
+        "title": "We need REAL change",
+        "content": "After 13 years, the economy is in the wrong direction. We need a REAL alternative: the NHS is a priority, clean up our politics."
+      },
+      {
+        "title": "Fair pay for heroes",
+        "content": "Massive response to Lib Dem campaign for a fair deal for our troops."
+      },
+      {
+        "title": "Who will put more money in YOUR pocket?",
+        "content": "The Lib Dems announced a new plan to cut the bills of millions of people."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax cuts for the low and middle income earners",
+        "policyDescription": "Lib Dem £700 tax cut promise for low and middle income earners."
+      },
+      {
+        "policyTitle": "Fair pay for military personnel",
+        "policyDescription": "Improving the pay for troops, particularly lower ranks, ensuring fair treatment and compensation."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg wants to build a better future for our children.",
+      "otherPartyLeaderCandidate": "Gordon Brown, David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The economy is moving in the wrong direction under Labour.",
+      "education": "Nick Clegg wants to build a better future for our children, implying a focus on improving education.",
+      "environment": "",
+      "governance": "Nick Clegg wants to clean up our politics.",
+      "health": "The NHS is a priority for Lib Dem.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "New mansion tax on homes over £2 million.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Leader of the Liberal Democrats",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Gordon Brown has let people down...",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg with children, promising a better future for them."
+        },
+        {
+          "caption": "Lib Dem policy highlights like the £700 tax cut."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

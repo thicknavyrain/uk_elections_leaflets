@@ -1,0 +1,93 @@
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "More gloom with Labour and the Conservatives",
+        "content": "Already hiked taxes for lowest paid workers and pensioners. Tax cuts just for millionaires with the Conservatives"
+      },
+      {
+        "title": "IT'S A TWO HORSE RACE!",
+        "content": "The Conservatives and Plaid can't win in many parts of Wales. The choice is between a Lib Dem MP or a Labour MP. Only the Liberal Democrats will deliver real change and fairness."
+      },
+      {
+        "title": "Who will deliver the change we need on tax?",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fairer tax system",
+        "policyDescription": "The Lib Dems are promising to remove those earning £10,000 or less from the tax system altogether. Raising tax thresholds to £10,000 a year, taking four million people out of income tax. Introducing a 'mansion tax' on houses worth over £2million to make the very rich pay their fair share."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The Conservatives and Plaid can't win in many parts of Wales. The choice is between a Lib Dem MP or a Labour MP. Only the Liberal Democrats will deliver real change and fairness."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Introducing a 'mansion tax' on houses worth over £2million.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Fairer taxes that will help our country recover from the recession.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Fairer taxes that will help our country recover from the recession.",
+        "source": "Evening Standard, Jan 2010"
+      },
+      {
+        "text": "The proposal to take the poorest workers out of the tax system is especially worthwhile.",
+        "source": "Evening Standard, Jan 2010"
+      },
+      {
+        "text": "The party is also pledging to raise tax thresholds to £10,000 a year, taking four million people out of income tax.",
+        "source": "BBC News, Nov 2009"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg portrait."
+        },
+        {
+          "caption": "IT'S A TWO HORSE RACE! imagery."
+        },
+        {
+          "caption": "Lib Dem fairer tax plan infographic."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

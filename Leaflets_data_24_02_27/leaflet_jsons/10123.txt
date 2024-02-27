@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "May 6th",
+	"messages": [
+  	{
+    	"title": "A message from Steve Bullock & Joan Ruddock",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "ASafer Lewisham",
+    	"policyDescription": "More police in our neighbourhood, CCTV; and action on anti-social behaviour."
+  	},
+    {
+      "policyTitle": "Investing in Our Schools",
+      "policyDescription": "Protecting our schools from Conservative cuts."
+    },
+    {
+      "policyTitle": "Keeping Lewisham Moving",
+      "policyDescription": "Ensuring efficient and affordable public transport, opposing unfair fare increases."
+    },
+    {
+      "policyTitle": "Helping You Do More",
+      "policyDescription": "Free swimming for children and over 60, more affordable housing, and support for local businesses."
+    }
+	],
+	"mentions": {
+  	"candidate": "Steve Bullock",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "Joan Ruddock",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"More affordable housing",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "I'm proud of my record on housing... I'm standing up for Lewisham's young people... Labour is the only party that can stop [opposition party or parties mentioned in leaflet].",
+	"politicalExperience": [
+  	{
+    	"role": "Mayor",
+    	"duration": "since 2002",
+    	"achievements": "Introduced free swimming, fought to keep Ladywell Pool open, delivered new schools"
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Joan Ruddock",
+    	"endorsement": "Support for protecting schools from Conservative cuts, delivering a fair deal for Lewisham, and emergency intervention to keep Ladywell Pool open."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Steve Bullock with residents and supporters"
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet is signed by Steve Bullock ("Steve") and by Labour's Joan Ruddock. It emphasizes past achievements and future commitments, focusing primarily on local-level issues."
+  }
+}
+
+```

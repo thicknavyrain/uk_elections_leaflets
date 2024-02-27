@@ -1,0 +1,82 @@
+{
+  "leaflet": {
+    "candidateName": "Paul Holmes",
+    "constituency": "Southampton Test",
+    "politicalParty": "Conservative",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "Dear Thomas,",
+        "content": "As your Conservative candidate for Southampton Test I am writing today to share my plan for our area and how we can make our city better together."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Strong national and local economy",
+        "policyDescription": "A strong economy to deliver more employment and highly-skilled jobs. Ensures local people have the opportunity to buy a home, get on and succeed in life."
+      },
+      {
+        "policyTitle": "Best Brexit deal for Southampton",
+        "policyDescription": "Utilize the European Union negotiation advantages for our city to forge its own future."
+      },
+      {
+        "policyTitle": "Rewards for hard work",
+        "policyDescription": "Ensure that everyone in Southampton has the opportunity to make the most of their talents and get the rewards for their efforts."
+      },
+      {
+        "policyTitle": "First class public services",
+        "policyDescription": "A strong economy is the only way we can afford high quality public services. More doctors and more nurses in our hospitals, and better care for you and your family."
+      },
+      {
+        "policyTitle": "Your voice in Westminster",
+        "policyDescription": "As your Conservative Member of Parliament, I'll ensure that Southampton gets the very best deal from Government."
+      }
+    ],
+    "mentions": {
+      "candidate": "Paul Holmes",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Best Brexit deal for Southampton",
+      "economy": "A strong national and local economy",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "More doctors and more nurses in our hospitals, and better care for you and your family.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Ensures local people have the opportunity to buy a home, get on and succeed in life.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "P.O.BOX 1802, Southampton, SO15 9GR",
+      "phone": "",
+      "email": "",
+      "website": "voteholmes.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Paul Holmes standing with Theresa May in Southampton Test"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

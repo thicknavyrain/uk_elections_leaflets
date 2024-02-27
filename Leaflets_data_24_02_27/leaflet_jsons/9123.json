@@ -1,0 +1,95 @@
+{
+    "leaflet": {
+        "candidateName": "Christopher Whiteside",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Why We Need Change In Britain",
+                "content": "Article by David Cameron discussing the need for change in Britain."
+            },
+            {
+                "title": "Nuclear New Build In Copeland",
+                "content": "Discussing the impact and opportunities of a nuclear new build in Copeland."
+            },
+            {
+                "title": "The Dangers Of A Hung Parliament",
+                "content": "Explaining the potential risks and political instability associated with a hung parliament."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Affordable Local Housing",
+                "policyDescription": "The candidate stresses the importance of affordable housing and presents a plan to build more houses."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Campaigning for local hospitals and better healthcare facilities."
+            }
+        ],
+        "mentions": {
+            "candidate": "Christopher Whiteside",
+            "otherPartyLeaderCandidate": "David Cameron",
+            "partyLeader": "",
+            "tacticalSituation": "Mention of contributing to a Conservative majority to avoid a hung parliament."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Chris Whiteside campaigning for local hospitals.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "We need affordable local housing. Christopher Whiteside will work to build more houses.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "Some text is unreadable due to the image quality."
+    }
+}

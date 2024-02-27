@@ -1,0 +1,95 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "Goldsmid",
+	"politicalParty": "Labour",
+	"electionDate": "May 7th",
+	"messages": [
+  	{
+    	"title": "A Fairer Hove",
+    	"content": "Labour will get the basics right and ensure fairness becomes a reality in our city."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "Priorities for the area around housing."
+  	},
+	{
+    	"policyTitle": "Rubbish Collections",
+    	"policyDescription": "Priorities for the area around rubbish collections."
+  	},
+	{
+    	"policyTitle": "Transport",
+    	"policyDescription": "Priorities for the area around transport."
+  	},
+	{
+    	"policyTitle": "NHS",
+    	"policyDescription": "Priorities for the area around the NHS."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "NHS",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Priorities for the area around housing.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "We are a united team, working together on the issues that you've told us matter to you and your neighbours.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Working hard for you all year round"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

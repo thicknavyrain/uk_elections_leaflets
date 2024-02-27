@@ -1,0 +1,73 @@
+{
+  "leaflet": {
+	"candidateName": "Steven Lambert",
+	"constituency": "Aylesbury Constituency",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Safeguard Our Community Against HS2",
+    	"policyDescription": "Steven Lambert aims to protect the community from the impacts of the HS2 project."
+  	},
+  	{
+    	"policyTitle": "Housing Ladder Support",
+    	"policyDescription": "He wants to help more local people get onto the housing ladder."
+  	},
+  	{
+    	"policyTitle": "Local Health Services",
+    	"policyDescription": "His goal is to protect local health services."
+  	},
+  	{
+    	"policyTitle": "Support for Local Schools",
+    	"policyDescription": "He advocates getting more money and support into local schools."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Steven Lambert",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Protect local health services",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Help more local people get on the housing ladder",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Steven Lambert pictured on the campaign leaflet."
+    	}
+  	]
+	},
+	"additionalNotes": "Election communication information provided in the leaflet footer."
+  }
+}

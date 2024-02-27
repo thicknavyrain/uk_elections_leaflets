@@ -1,0 +1,92 @@
+{
+    "leaflet": {
+        "candidateName": "Maria Eagle",
+        "constituency": "Garston and Halewood",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7th May",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Supporting the NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Supporting Pensioners",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Supporting Schools",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Supporting Police",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Supporting the Next Generation",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Maria Eagle",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Supporting the NHS",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Printed by Mary Rasmussen on behalf of Maria Eagle, both at Unit House, Speke Boulevard, L24 9HZ. Printed by Greatesdale Printers at Mailglade Printers House, Pink Bank Lane, Manchester, M12 5GH.",
+            "phone": "",
+            "email": "",
+            "website": "www.mariaeagle.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Maria Eagle with 'Vote Labour' signage"
+                },
+                {
+                    "caption": "Supporting the NHS"
+                },
+                {
+                    "caption": "Supporting Pensioners"
+                },
+                {
+                    "caption": "Supporting Schools"
+                },
+                {
+                    "caption": "Supporting Police"
+                },
+                {
+                    "caption": "Supporting the Next Generation"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

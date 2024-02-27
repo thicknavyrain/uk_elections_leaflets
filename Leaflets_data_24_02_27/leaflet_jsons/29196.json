@@ -1,0 +1,95 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Everyone knows Labour isn't going to win this time.",
+        "content": "There is no realistic chance of us winning."
+      },
+      {
+        "title": "More Conservative MPs will just lead to more years of austerity for this area.",
+        "content": "The Conservatives have wielded ruthless cuts across our services."
+      },
+      {
+        "title": "Voting for the Liberal Democrat is voting for strong local services",
+        "content": "We have a proud record of delivery and a promise of more. NHS, schools facing cuts, worst satisfaction levels for [text obscured]"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health Services",
+        "policyDescription": "Addressing cuts to NHS services and improving health provisions."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Opposing cuts to schools and improving the education system."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Theresa May, Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "The leaflet suggests strategic voting considerations by indicating that Labour cannot win this time and implying the necessity of voting for the Liberal Democrat to oppose Conservative austerity."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Austerity for this area",
+      "education": "School cuts",
+      "environment": "",
+      "governance": "",
+      "health": "NHS cuts",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour and Conservative leaders with captions indicating opposition to their policies or likelihood of winning."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet strategically positions the Liberal Democrat as the viable alternative to the Labour and Conservative parties, both of whose leaders are mentioned negatively."
+  }
+}

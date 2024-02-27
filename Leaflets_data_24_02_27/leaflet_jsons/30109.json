@@ -1,0 +1,77 @@
+{
+  "leaflet": {
+    "candidateName": "Diane Abbott",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Fight to protect our NHS"
+      },
+      {
+        "policyTitle": "Living Wage",
+        "policyDescription": "An increased Living Wage of £10 an hour"
+      },
+      {
+        "policyTitle": "Public Service Cuts",
+        "policyDescription": "An end to public service cuts"
+      },
+      {
+        "policyTitle": "Air Pollution",
+        "policyDescription": "Reduced air pollution"
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Oppose Tory Brexit - defend jobs"
+      }
+    ],
+    "mentions": {
+      "candidate": "Diane Abbott",
+      "otherPartyLeaderCandidate": "Tory",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Oppose Tory Brexit - defend jobs",
+      "economy": "An increased Living Wage of £10 an hour",
+      "education": "",
+      "environment": "Reduced air pollution",
+      "governance": "",
+      "health": "Fight to protect our NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Polling day is Thursday 8 June"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

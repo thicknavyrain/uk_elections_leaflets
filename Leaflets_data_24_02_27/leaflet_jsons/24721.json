@@ -1,0 +1,69 @@
+{
+    "leaflet": {
+        "candidateName": "David Lidington",
+        "constituency": "Aylesbury",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Business and Jobs",
+                "policyDescription": "Beat the drum for business to bring more jobs and apprenticeships to our area."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Support our GPs & hospitals and encourage stronger NHS links with social care."
+            },
+            {
+                "policyTitle": "Local Infrastructure",
+                "policyDescription": "Keep fighting for local people on HS2 and protecting our countryside."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Lidington",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Support our GPs & hospitals and encourage stronger NHS links with social care.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Keep fighting for local people on HS2 and protecting our countryside.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.davidlidington.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Lidington interacting with people and working at a meeting."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

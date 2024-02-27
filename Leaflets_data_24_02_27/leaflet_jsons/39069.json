@@ -1,0 +1,86 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Scottish Green Party",
+        "electionDate": "May 6th",
+        "messages": [
+            {
+                "title": "EVERY GREEN VOTE COUNTS",
+                "content": "Polls show Scottish Greens can win more MSPs than ever, in every part of Scotland."
+            },
+            {
+                "title": "Vote like our future depends on it.",
+                "content": "Vote Green on May 6th."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Scottish Labour",
+            "partyLeader": "",
+            "tacticalSituation": "Scottish Greens have hailed a new poll which shows the party on course to double its number of MSPs and cement a pro-independence majority at Holyrood."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Scottish Greens have hailed a new poll which shows the party on course to double its number of MSPs and cement a pro-independence majority at Holyrood.",
+                "source": "The Daily Record",
+                "date": "01/03/21"
+            },
+            {
+                "text": "Another strong performance for the Greens ... would see them return a record high 11 MSPs",
+                "source": "The Herald",
+                "date": "11/01/21"
+            },
+            {
+                "text": "Scottish Labour continues its decline - offering a chance... for left-wing Greens to eventually become the progressive opposition in Scotland",
+                "source": "The Herald",
+                "date": "15/11/20"
+            },
+            {
+                "text": "The Greens have five MSPs and expect to win several more seats in May",
+                "source": "The Guardian",
+                "date": "25/03/21"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of a wind turbine and inverted image of a person holding a Scottish Green Party sign."
+                }
+            ]
+        },
+        "additionalNotes": "Leaflet predominantly focuses on the party's electoral strength and the potential to increase MSPs rather than outlining specific policy proposals."
+    }
+}

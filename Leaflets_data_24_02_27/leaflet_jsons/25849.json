@@ -1,0 +1,68 @@
+{
+  "leaflet": {
+    "candidateName": "Julian Huppert",
+    "constituency": "West Chesterton",
+    "politicalParty": "",
+    "electionDate": "It's polling day",
+    "messages": [
+      {
+        "title": "Your best choice for our MP",
+        "content": "Vote for change. Vote for Julian Huppert."
+      },
+      {
+        "title": "Safeguard our NHS for the future",
+        "content": "Only Julian Huppert & Damien Tunnacliffe will fight for you on the issues that matter."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Julian Huppert",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Two votes today."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Damien and Julian have worked hard across West Chesterton on a range of local issues...",
+      "environment": "",
+      "governance": "",
+      "health": "Safeguard our NHS for the future",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Liberal Democrats have freed up Council Tax to get over 2,000 empty homes back into use, led the charge to get new affordable homes built in Cambridge.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Julian Huppert and other individuals campaigning."
+        },
+        {
+          "caption": "Damien Tunnacliffe and Julian Huppert at a meeting, possibly discussing issues."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet's content is not fully visible, and the political party of Julian Huppert is not specified. More information would be needed to complete some sections of the JSON."
+  }
+}

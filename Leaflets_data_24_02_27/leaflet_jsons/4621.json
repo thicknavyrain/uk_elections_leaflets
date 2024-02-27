@@ -1,0 +1,75 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Supporting Small Businesses",
+                "policyDescription": "Labour has helped 170,000 small businesses through the recession by allowing them to defer tax payments."
+            },
+            {
+                "policyTitle": "Reducing Child Poverty",
+                "policyDescription": "Labour has taken 1/2 million children out of poverty in the UK and is creating Sure Start Centres for every community."
+            },
+            {
+                "policyTitle": "Healthcare Improvements",
+                "policyDescription": "Labour has provided 89,000 more nurses and 44,000 more doctors. The NHS now has the shortest waiting lists ever."
+            },
+            {
+                "policyTitle": "Support for Pensioners",
+                "policyDescription": "Labour has brought in free bus passes, winter fuel payments and will bring in free personal care at home for those pensioners with the highest needs."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "The Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Labour has helped 170,000 small businesses through the recession by allowing them to defer tax payments.",
+            "education": "Labour has taken 1/2 million children out of poverty in the UK and is creating Sure Start Centres for every community.",
+            "environment": "",
+            "governance": "",
+            "health": "Labour has provided 89,000 more nurses and 44,000 more doctors. The NHS now has the shortest waiting lists ever.",
+            "immigration": "",
+            "socialWelfare": "Labour has taken 1/2 million children out of poverty in the UK and is creating Sure Start Centres for every community.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": ""
+    }
+}

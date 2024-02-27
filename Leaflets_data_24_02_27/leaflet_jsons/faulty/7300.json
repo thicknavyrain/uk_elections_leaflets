@@ -1,0 +1,84 @@
+{
+    "leaflet": {
+        "candidateName": "Stuart King",
+        "constituency": "Putney",
+        "politicalParty": "",
+        "electionDate": "May 6th",
+        "messages": [
+            {
+                "title": "A champion for Putney",
+                "content": "Stuart King interviewed"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Heathrow",
+                "policyDescription": "I will be an unwavering vote against Heathrow expansion."
+            },
+            {
+                "policyTitle": "Overdevelopment",
+                "policyDescription": "I'll stand with you against Tory towers that will blight our area."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "We need more affordable homes built. Local families and the environment will be better off for cleaner, better cared for council estates."
+            }
+        ],
+        "mentions": {
+            "candidate": "Stuart King",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "We need more affordable homes built. Local families and the environment will be better off for cleaner, better cared for council estates.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I served for eight years as a councillor locally. There's a huge amount a council can do to improve our everyday lives.",
+        "politicalExperience": [
+            {
+                "role": "Councillor",
+                "duration": "Eight years",
+                "achievements": "During service as councillor, worked on several improvements for everyday lives of people."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": [
+                "stuartking.net/heathrow",
+                "stuartking.net/overdevelopment",
+                "stuartking.net/housing"
+            ],
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Stuart being interviewed for Channel 4 News outside his headquarters in Feham Road, right in the heart of Putney."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet provides a timeline of the candidate's local involvement and highlights the key policy areas of Heathrow, overdevelopment, and housing."
+    }
+}

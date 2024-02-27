@@ -1,0 +1,67 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "A strong economic foundation",
+    	"policyDescription": ""
+  	},
+	{
+    	"policyTitle": "Higher living standards for working families",
+    	"policyDescription": ""
+  	},
+	{
+    	"policyTitle": "An NHS with the time to care",
+    	"policyDescription": ""
+  	},
+	{
+    	"policyTitle": "Controls on immigration",
+    	"policyDescription": ""
+  	},
+	{
+    	"policyTitle": "A country where the next generation can do better than the last",
+    	"policyDescription": ""
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": []
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "labour.org.uk",
+  	"socialMedia": {}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "A BETTER PLAN. A BETTER FUTURE."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

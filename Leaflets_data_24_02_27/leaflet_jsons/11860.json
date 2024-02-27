@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "Bob Russell",
+        "constituency": "Colchester",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "6th May",
+        "messages": [
+            {
+                "title": "Bill Frame: Local Choice, Local Champion",
+                "content": "Bill Frame has lived in St Mary\u2019s for over 30 years and has been a part of the ward during that time and represented it on the Council before he became Lord Mayor of Colchester."
+            },
+            {
+                "title": "Bob Russell: Better Access to Colchester Hospital Needed",
+                "content": "Bob Russell is pressing for funds to ensure easier access to Colchester Hospital services, particularly the transfer of cancer services from Essex County Hospital."
+            },
+            {
+                "title": "Fighting for a greener Colchester",
+                "content": "Liberal Democrats are working to make Colchester the greenest borough in the East of England. The Council has introduced recycling bins and low energy lighting to reduce bills."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Pressing for better access and services at Colchester Hospital, including cancer services."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Make Colchester the greenest borough in the East of England, introducing recycling bins, and low energy lighting."
+            },
+            {
+                "policyTitle": "Taxes",
+                "policyDescription": "Plans to keep taxes low by reducing waste in the Town Hall."
+            }
+        ],
+        "mentions": {
+            "candidate": "Bob Russell",
+            "otherPartyLeaderCandidate": "Conservatives",
+            "partyLeader": "",
+            "tacticalSituation": "There's no Labour MP to vote out here in Colchester. The fight is between Bob Russell and the Conservative candidate."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "Working to make Colchester the greenest borough in the East of England with initiatives such as recycling bins and low energy lighting.",
+            "governance": "",
+            "health": "Pushing for better access and improvements to Colchester Hospital, especially with regards to cancer services and overall better healthcare.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Over-development of Colchester must stop. Colchester Liberal Democrats want to protect our historic town from over-development.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Lord Mayor of Colchester",
+                "duration": "Over 30 years",
+                "achievements": "Bill Frame has been active in St Mary's, participating in ward-related activities and representing it on the Council."
+            }
+        ],
+        "contactInformation": {
+            "address": "Magdalen Hall, Wimpole Road, CO1 2DE",
+            "phone": "01206 572378",
+            "email": "billframe@btinternet.com",
+            "website": "www.bobrussell.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Bill Frame with supporters"
+                },
+                {
+                    "caption": "Bob Russell outside of Colchester Hospital"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet focuses on the tactical situation, discouraging voters from supporting Labour or Greens as they're out of the race in Colchester, stressing the battle is between Liberal Democrats and Conservatives."
+    }
+}

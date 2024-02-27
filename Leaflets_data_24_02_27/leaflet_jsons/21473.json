@@ -1,0 +1,93 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Green Party",
+        "electionDate": "Spring 2015",
+        "messages": [
+            {
+                "title": "REDUCE RAIL FARES BY 10%, SAYS LEADER NATALIE BENNETT",
+                "content": "Leader Natalie Bennett has announced the Green Party would cut fares and increase government investment in public transport by \u00a31.7bn per year by returning the railways to public ownership. Natalie staged a piece of political campaigning at King's Cross Station. The Green Party believes that public services should be run in the interests of those that use them, not the minority who happen to own them."
+            },
+            {
+                "title": "8,000 COUNCIL HOMES LOST IN \u201cREGENERATION\u201d OF HOUSING ESTATES, REPORT REVEALS",
+                "content": "The London Assembly Housing Committee has released a report showing that regeneration schemes in London have resulted in the loss of 8,296 council homes in a decade. The Committee is chaired by Green politician Darren Johnson."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Public Transport",
+                "policyDescription": "Cut rail fares by 10% and increase government investment in public transport by \u00a31.7bn per year by bringing the railways back into public ownership."
+            },
+            {
+                "policyTitle": "Housing and Regeneration",
+                "policyDescription": "Address the issue of regeneration schemes resulting in a loss of council homes, chaired by Green politician Darren Johnson. A need to introduce rent controls, increase the supply of affordable and council homes has been highlighted."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Natalie Bennett",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "The report by the London Assembly Housing Committee chaired by Green politician Darren Johnson reveals a loss of 8,296 council homes in a decade due to regeneration, indicating a need for increased supply of affordable housing and the implementation of rent controls.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MEP",
+                "duration": "",
+                "achievements": ""
+            },
+            {
+                "role": "Member of the House of Lords and London Assembly Member",
+                "duration": "",
+                "achievements": ""
+            },
+            {
+                "role": "London Assembly Member",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.london.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "LondonGreenParty",
+                "twitter": "@LonGreenParty",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Natalie Bennett, Green Party Leader, advocating for public ownership of railways."
+                },
+                {
+                    "caption": "Darren Johnson, Green Party Housing Spokesperson, emphasizing the need for affordable housing."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

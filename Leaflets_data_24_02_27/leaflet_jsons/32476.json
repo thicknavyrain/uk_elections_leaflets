@@ -1,0 +1,107 @@
+{
+  "leaflet": {
+    "candidateName": "Kim Johnson",
+    "constituency": "Liverpool Riverside",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "A Caring Economy",
+        "content": "Labour will take urgent action on the climate emergency and rebuild our public services, putting people before privilege."
+      },
+      {
+        "title": "Get the housing in order",
+        "content": "A green industrial revolution. 1 million new homes."
+      },
+      {
+        "title": "NHS not for sale",
+        "content": "We will defend our NHS from a sell-off to Trump."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Labour will get Brexit sorted within six months. We'll secure a good deal for working people and give you the final say."
+      },
+      {
+        "policyTitle": "Public Services",
+        "policyDescription": "We will rebuild our public services by investing in education and stopping the privatisation of the NHS."
+      },
+      {
+        "policyTitle": "Green Industrial Revolution",
+        "policyDescription": "We will tackle the climate emergency by kick starting a green industrial revolution."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Labour's plan for real change involves taking urgent action on the climate crisis and reinvesting in public services."
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Labour will stop the privatisation of the NHS and ensure it is not sold off to Trump."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kim Johnson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Jeremy Corbyn",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Labour will get Brexit sorted within six months. We'll secure a good deal for working people and give you the final say.",
+      "economy": "Labour's plan for real change involves taking urgent action on the climate crisis and reinvesting in public services.",
+      "education": "We will rebuild our public services by investing in education",
+      "environment": "Labour will take urgent action on the climate emergency and we will kick start a green industrial revolution.",
+      "governance": "",
+      "health": "We will defend our NHS from a sell-off to Trump and stop the privatisation of the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "A green industrial revolution. 1 million new homes.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I love our community and have spent my working life fighting for social justice, equality and workers' rights.",
+    "politicalExperience": [
+      {
+        "role": "Trade Unionist and Justice Campaigner",
+        "duration": "",
+        "achievements": "Fighting for social justice, equality and workers' rights."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "/KimforLiverpool",
+        "twitter": "@KimJohnsonMP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Jeremy Corbyn",
+        "endorsement": "Kim will be a strong voice for Liverpool Riverside - she has the vision and passion to deliver real change."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Kim Johnson with Jeremy Corbyn."
+        }
+      ]
+    },
+    "additionalNotes": "My pledges to you are: to rebuild public services, address the climate emergency with a green industrial revolution, protect workers' rights, challenge all forms of discrimination, fight for justice for all."
+  }
+}

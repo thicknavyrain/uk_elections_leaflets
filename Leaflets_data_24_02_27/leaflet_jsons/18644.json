@@ -1,0 +1,95 @@
+{
+    "leaflet": {
+        "candidateName": "Stephen Webb",
+        "constituency": "Wantage",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [
+            {
+                "title": "My pledges to you",
+                "content": "An NHS with the time to care. An economic plan that is fair to all, helping hard-working people while cutting the deficit. A country where the next generation can do better than the last. More affordable housing so that local people can afford to live here. Community control of transport in towns and villages."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "An NHS with the time to care."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "An economic plan that is fair to all, helping hard-working people while cutting the deficit."
+            },
+            {
+                "policyTitle": "Next Generation",
+                "policyDescription": "A country where the next generation can do better than the last."
+            },
+            {
+                "policyTitle": "Affordable Housing",
+                "policyDescription": "More affordable housing so that local people can afford to live here."
+            },
+            {
+                "policyTitle": "Community Transport",
+                "policyDescription": "Community control of transport in towns and villages."
+            }
+        ],
+        "mentions": {
+            "candidate": "Stephen Webb",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "An economic plan that is fair to all, helping hard-working people while cutting the deficit.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "An NHS with the time to care.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "More affordable housing so that local people can afford to live here.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Sharron Jenkinson",
+                "endorsement": "I am committed that my children will receive every educational opportunity and no one would be better enthusiastic in supporting local issues."
+            },
+            {
+                "endorser": "Alex Harvey",
+                "endorsement": "I know that Stephen understands the importance of more affordable homes to young people who wish to live in the area."
+            },
+            {
+                "endorser": "Paul Kessling",
+                "endorsement": "Stephen knows all about the frustrations currently faced by people in the public sector and will be the right person to take these issues to our government."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Stephen Webb, Labour Parliamentary Candidate for the Wantage constituency"
+                }
+            ]
+        },
+        "additionalNotes": "On your side in southern Oxfordshire. ELECTION COMMUNICATION"
+    }
+}

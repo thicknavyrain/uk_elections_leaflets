@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+	"candidateName": "Nigel Farage",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "SPEAK FOR ENGLAND",
+    	"content": "Please display this poster in your window. Keep this poster for the World Cup."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Nigel Farage",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "The image shows a campaign poster with a message to vote for Nigel Farage and to display the poster in the window, as well as keeping it for the World Cup."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

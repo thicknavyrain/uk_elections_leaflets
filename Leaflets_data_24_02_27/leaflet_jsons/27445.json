@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+    "candidateName": "Steve Baker",
+    "constituency": "Wycombe",
+    "politicalParty": "Conservative",
+    "electionDate": "8 June",
+    "messages": [
+      {
+        "title": "YOUR CHOICE AT THIS ELECTION",
+        "content": "A STRONG, STABLE NATIONAL INTEREST WITH THERESA MAY OR A COALITION OF CHAOS WITH JEREMY CORBYN"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Steve Baker",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.voteconservative.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Steve Baker with Theresa May in the background on one side, and on the other side references to Jeremy Corbyn, Nicola Sturgeon, Tim Farron, and Caroline Lucas."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet emphasizes a choice between Theresa May's leadership for a stable national interest versus a coalition led by Jeremy Corbyn which is labelled as chaos."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "Sheffield Hallam",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "OUR CHANCE FOR CHANGE",
+        "content": "Only the Lib Dems can provide the strong opposition Britain needs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Opposition to the Tories",
+        "policyDescription": "A vote for the Liberal Democrats will deliver a strong opposition to the Tories on the NHS, schools, and jobs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn's Labour Party, Theresa May",
+      "partyLeader": "Tim Farron",
+      "tacticalSituation": "If the choice is between Labour under Jeremy Corbyn and the Conservatives under Theresa May, only the Liberal Democrats will provide a strong opposition to this hardline Conservative Government."
+    },
+    "issues": {
+      "brexitEurope": "If you care about the way things are going on Brexit and on the NHS, then this is your moment. The choice could not be clearer.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Only a vote for the Liberal Democrats will deliver a strong opposition to the Tories on the NHS, schools, and jobs.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "This is your chance to change Britain's future.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Liberal Democrats FREEPOST RSKS-HKSH-EJGE SW1P 9QE",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "OUR CHANCE FOR CHANGE leaflet image"
+        }
+      ]
+    },
+    "additionalNotes": "P.S. Only the Liberal Democrats can stand up to the Tories and change the direction of our country. If you want an open, tolerant and united Britain, vote Lib Dem on 8th June."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "leaflet": {
+    "candidateName": "Jeremy Corbyn",
+    "constituency": "Islington North",
+    "politicalParty": "Labour",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Dear Neighbour",
+        "content": "On 7th May Britain has the opportunity to choose a new Government. I am asking for your support. Take a moment to read what I stand for."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Defending the Whittington",
+        "policyDescription": "Opposing creeping NHS privatisation."
+      },
+      {
+        "policyTitle": "More affordable housing and an effective regulation of the Private Rented Sector",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Opposing this Government's attack on the poorest people",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Promoting fairness and equality and tackling racism wherever it arises",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "A greener and safer world",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Jeremy Corbyn",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Opposing creeping NHS privatisation.",
+      "immigration": "",
+      "socialWelfare": "Opposing this Government's attack on the poorest people.",
+      "housing": [
+        {
+          "content": "More affordable housing and an effective regulation of the Private Rented Sector",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am privileged to represent the people of Islington North. I work with all communities and individuals to ensure we remain a united force for change. This Government is letting ordinary working people down. Society is more divided and many local people are feeling let out of work. I stand for a fairer Britain and a fairer world.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "151 Hornsey Rd N7 6DU",
+      "phone": "020 3475 3476",
+      "email": "Jeremy.corbyn@islingtonnorthlabour.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "jeremycorbyn",
+        "twitter": "jeremycorbyn",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jeremy Corbyn working for you"
+        }
+      ]
+    },
+    "additionalNotes": "P.S.: I would be grateful if you could display the poster on the reverse of this letter in your window."
+  }
+}

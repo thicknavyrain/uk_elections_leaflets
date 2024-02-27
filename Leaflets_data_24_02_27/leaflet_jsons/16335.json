@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [
+            {
+                "title": "LA BOUR IS BACKING THE NEXT GENERATION",
+                "content": "For the first time in more than a century, this generation will struggle to do better than the last. Labour has a better plan."
+            },
+            {
+                "title": "Higher living standards for working families",
+                "content": "The Tory cost of living crisis has left families across Britain reeling. Stagnant wages."
+            },
+            {
+                "title": "Labour kick-starts election campaign",
+                "content": "As the election campaign officially opens in five days, Labour has revealed its strategy encapsulating the principles of a plan of the General Election Manifesto."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Higher living standards for working families",
+                "policyDescription": "Labour plans to freeze energy bills up to 2017 for working people, have a lower tuition fees, get 200,000 homes built per year, and cut income tax for 24 million people."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "get 200,000 homes built per year",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "A better plan. A better future.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Labour kick-starts election campaign"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

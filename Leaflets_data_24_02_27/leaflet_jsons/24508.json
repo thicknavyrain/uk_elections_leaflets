@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "Jacob Young",
+        "constituency": "Redcar",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "I want to change things.",
+                "content": "I want to bring back our jobs, cut our taxes and make this area great again. Vote for me, if that's what you want too."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Jobs",
+                "policyDescription": "Bring back jobs to our area by supporting local businesses and our steel and chemical works"
+            },
+            {
+                "policyTitle": "Taxes",
+                "policyDescription": "Cut income taxes in our town"
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Give you a referendum on the European Union. Decisions should be made in Britain, not Brussels"
+            }
+        ],
+        "mentions": {
+            "candidate": "Jacob Young",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Give you a referendum on the European Union. Decisions should be made in Britain, not Brussels",
+            "economy": "Bring back jobs to our area by supporting local businesses and our steel and chemical works; Cut income taxes in our town",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I want to change things. I want to bring back our jobs, cut our taxes and make this area great again.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01287 631928",
+            "email": "JacobForRedcar@gmail.com",
+            "website": "www.jacobyoung.org.uk",
+            "socialMedia": {
+                "facebook": "/JacobForRedcar",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jacob Young with a group of people and Conservative Party branding."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

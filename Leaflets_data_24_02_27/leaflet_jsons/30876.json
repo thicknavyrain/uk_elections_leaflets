@@ -1,0 +1,105 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Vote Labour today for a fairer future",
+        "content": ""
+      },
+      {
+        "title": "Time is running out to vote for a strong Labour voice",
+        "content": ""
+      },
+      {
+        "title": "Same old nasty Tories",
+        "content": "School cuts, longer waiting lists, more homelessness, fewer police, pension money at risk, foxes being hunted, homes for speculators not families, child poverty up, Brexit chaos."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Homes for families, not just for speculators."
+      },
+      {
+        "policyTitle": "Child Poverty",
+        "policyDescription": "Focus on reducing child poverty."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Addressing the chaos of Brexit."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Brexit chaos",
+      "economy": "",
+      "education": "School cuts",
+      "environment": "",
+      "governance": "",
+      "health": "Longer waiting lists",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Homes for families, not just for speculators.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Labour today for a fairer future."
+        },
+        {
+          "caption": "Time is running out to vote for a strong Labour voice."
+        },
+        {
+          "caption": "Same old nasty Tories."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

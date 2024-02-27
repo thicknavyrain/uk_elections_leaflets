@@ -1,0 +1,80 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "LEADERSHIP",
+                "content": "STRONG AND STABLE LEADERSHIP WITH THERESA MAY"
+            },
+            {
+                "title": "BREXIT",
+                "content": "THE BEST POSSIBLE DEAL FROM BREXIT"
+            },
+            {
+                "title": "ECONOMY",
+                "content": "A GROWING ECONOMY TO SECURE OUR FUTURE"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Theresa May seeks support to strengthen hand in Brexit negotiations and to ensure the best possible deal for Britain."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Facing challenges from the Liberal Democrats and the SNP, with historical divisions of the referendum, seeking unified support to negotiate the best deal for Britain."
+        },
+        "issues": {
+            "brexitEurope": "Prime Minister Theresa May asks country for support to strengthen hand in Brexit negotiations and to lock in Britain's economic progress.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Prime Minister Theresa May sets out clear choice facing people in the June 8th General Election.",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": "Asks the country for support to strengthen her hand in Brexit negotiations and to lock in Britain's economic progress."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "conservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Prime Minister Theresa May asks country for support to strengthen hand in Brexit negotiations and to lock in Britain's economic progress."
+                }
+            ]
+        },
+        "additionalNotes": "INSIDE: PM SETS OUT PLAN FOR A STRONGER BRITAIN"
+    }
+}

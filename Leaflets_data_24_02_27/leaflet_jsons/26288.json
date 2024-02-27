@@ -1,0 +1,86 @@
+{
+    "leaflet": {
+        "candidateName": "Amber Rudd",
+        "constituency": "Hastings and Rye",
+        "politicalParty": "Conservatives",
+        "electionDate": "7th May",
+        "messages": [
+            {
+                "title": "A personal message from Amber Rudd",
+                "content": "This election is the closest in a generation and every vote will count."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Jobs Up and More Business Investment",
+                "policyDescription": "Aims to reduce unemployment, increase the number of people in work, and hold a Jobs Fair to help people get into work."
+            },
+            {
+                "policyTitle": "Better Schools and more Apprenticeships for a High-Skilled Workforce",
+                "policyDescription": "Plans to improve schools by providing high quality skills and education, and a centre of excellence maternity service."
+            },
+            {
+                "policyTitle": "High Speed Rail is on Track",
+                "policyDescription": "Advocates for High Speed trains in Hastings and Rye, with the HS1 to improve local economy and tourism."
+            }
+        ],
+        "mentions": {
+            "candidate": "Amber Rudd",
+            "otherPartyLeaderCandidate": "Ed Miliband",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Improving schools by providing high quality skills and education.",
+            "environment": "",
+            "governance": "",
+            "health": "A centre of excellence maternity service.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "This election is the most important in a generation, and your vote is crucial. There's a clear choice: continued economic recovery under a Conservative government or economic chaos under Ed Miliband's Labour. Vote for a strong and effective MP who will be accountable to you.",
+        "politicalExperience": [
+            {
+                "role": "Candidate for MP",
+                "duration": "Last five years",
+                "achievements": "Reduced unemployment by nearly 50%, increasing employment by almost 1500. Apprenticeships increased by 3500. Held local Jobs Fairs to help people get into work. Secured investment for transport and community projects."
+            }
+        ],
+        "contactInformation": {
+            "address": "St Helens Crescent, HASTINGS, TN34 2EN",
+            "phone": "01424 423959",
+            "email": "",
+            "website": "http://www.amberrudd.co.uk",
+            "socialMedia": {
+                "facebook": "https://facebook.com/amberruddhr",
+                "twitter": "amberruddhr",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Amber Rudd engaging with constituents and discussing education."
+                },
+                {
+                    "caption": "Amber Rudd at a local Jobs Fair, supporting community employment opportunities."
+                },
+                {
+                    "caption": "Amber Rudd supporting the High Speed Rail project."
+                }
+            ]
+        },
+        "additionalNotes": "Leaflet focuses on local achievements and future commitments in constituency, jobs, education, and transport infrastructure (HS1). Criticizes opposing party's economic plans."
+    }
+}

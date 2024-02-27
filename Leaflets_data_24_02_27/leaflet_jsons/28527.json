@@ -1,0 +1,83 @@
+{
+    "leaflet": {
+        "candidateName": "Henry Newman",
+        "constituency": "North Tyneside",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "YOUR CHOICE AT THIS ELECTION",
+                "content": "Strong leadership in the national interest. Vote for Henry Newman to help secure the right Brexit deal."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Henry Newman is committed to backing Theresa May to get the best Brexit deal, including for local jobs in key industries such as fishing."
+            }
+        ],
+        "mentions": {
+            "candidate": "Henry Newman",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Backing Theresa May to get the best Brexit deal, including for local jobs in key industries such as fishing.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "henry4northtyneside",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Henry Newman standing in front of the coast."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet presents a choice between strong stable leadership with Theresa May, or a coalition of chaos with Jeremy Corbyn."
+    }
+}

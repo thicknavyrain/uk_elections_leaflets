@@ -1,0 +1,88 @@
+{
+    "leaflet": {
+        "candidateName": "Karen Bradley",
+        "constituency": "Staffordshire Moorlands",
+        "politicalParty": "Conservatives",
+        "electionDate": "7th May",
+        "messages": [
+            {
+                "title": "A strong voice for Staffordshire Moorlands",
+                "content": "Creating even more jobs for local people and supporting our growing economy. Protecting the beautiful Moorlands and bringing more success to the area. Making work pay by continuing to reform welfare."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Creating even more jobs for local people and supporting our growing economy."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Protecting the beautiful Moorlands and bringing more success to the area."
+            },
+            {
+                "policyTitle": "Social Welfare",
+                "policyDescription": "Making work pay by continuing to reform welfare."
+            }
+        ],
+        "mentions": {
+            "candidate": "Karen Bradley",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Creating even more jobs for local people and supporting our growing economy.",
+            "education": "",
+            "environment": "Protecting the beautiful Moorlands and bringing more success to the area.",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "Making work pay by continuing to reform welfare.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Only by re-electing Karen can we continue to secure a better future for Staffordshire Moorlands.",
+        "politicalExperience": [
+            {
+                "role": "Chartered accountant",
+                "duration": "20 years",
+                "achievements": "Understands the value of work. Strong business advocate. National policy to benefit Moorlands families. Helped secure new firms, investment, and production lines."
+            },
+            {
+                "role": "Minister",
+                "duration": "",
+                "achievements": "As a Minister, introduced new laws and has successfully brought back over 100 powers from the EU."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.karenbradley.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "About Karen Bradley [purposely omitted images' content]"
+                },
+                {
+                    "caption": "Karen Bradley A strong voice for Staffordshire Moorlands [purposely omitted images' content]"
+                }
+            ]
+        },
+        "additionalNotes": "Leaflet likely contains additional information that is not visible in the provided image. This JSON response only includes the available data. Some fields are left blank due to inaccessible or unspecified information in the image."
+    }
+}

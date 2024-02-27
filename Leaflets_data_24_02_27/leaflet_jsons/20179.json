@@ -1,0 +1,100 @@
+{
+  "leaflet": {
+    "candidateName": "Mark Prisk",
+    "constituency": "Hertford & Stortford",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A STRONG LEADERSHIP, A CLEAR ECONOMIC PLAN, A BRIGHTER, MORE SECURE FUTURE",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A fair deal for local homes",
+        "policyDescription": "Keeping up the pressure to build more homes locally for future generations which are affordable."
+      },
+      {
+        "policyTitle": "A fair deal for communities",
+        "policyDescription": "Protecting and enhancing local services like schools and GP services, ensuring communities get their fair share."
+      },
+      {
+        "policyTitle": "A fair deal for commuters",
+        "policyDescription": "Investing in better rail services and fighting for Oyster-style ticketing."
+      }
+    ],
+    "mentions": {
+      "candidate": "Mark Prisk",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Keeping up the pressure to build more homes locally for future generations which are affordable.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Mark speaks up for everyone, regardless of how you vote.",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament",
+        "duration": "",
+        "achievements": "Fighting for more local health & school services, investing in our roads and railways."
+      }
+    ],
+    "contactInformation": {
+      "address": "West Wing, 2nd Floor, London House, Bishop's Stortford, Hertfordshire, CM23 3LU.",
+      "phone": "01279 312 580",
+      "email": "",
+      "website": "www.markprisk.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "David Cameron",
+        "endorsement": "He's a strong voice for Hertford & Stortford. I need him to help me secure our country's future."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "He's a strong voice for Hertford & Stortford. I need him to help me secure our country's future.",
+        "source": "David Cameron",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mark Prisk with David Cameron"
+        },
+        {
+          "caption": "Mark Prisk at local school"
+        },
+        {
+          "caption": "Mark Prisk with healthcare professionals"
+        },
+        {
+          "caption": "Mark Prisk at railway station"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

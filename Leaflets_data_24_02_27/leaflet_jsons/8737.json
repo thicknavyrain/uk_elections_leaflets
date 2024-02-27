@@ -1,0 +1,65 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Southwark",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Clean Streets",
+        "policyDescription": "Maintain some of the cleanest streets in London."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "A 4 point plan to make 1800 family homes available for rent through Homesearch over the next 4 years."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "A 4 point plan to make 1800 family homes available for rent through Homesearch over the next 4 years.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Support your Liberal Democrat council candidates"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet contrasts Liberal Democrat policies with those of Labour, criticizing the privatization of council homes in Lambeth by Labour. It underlines Liberal Democrat achievements such as maintaining clean streets in Southwark."
+  }
+}

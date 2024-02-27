@@ -1,0 +1,65 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Nottinghamshire",
+        "politicalParty": "Green Party",
+        "electionDate": "7th May 2015",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protecting the NHS",
+                "policyDescription": "The Green Party is committed to protecting the NHS from creeping privatisation."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Ensuring fair access to education and higher education."
+            },
+            {
+                "policyTitle": "Public Transport",
+                "policyDescription": "Providing improved, integrated, affordable public transport."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Ensuring fair access to education and higher education.",
+            "environment": "",
+            "governance": "",
+            "health": "Protecting the NHS from creeping privatisation.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": "The Green Party describes itself as the fastest-growing party in British politics, indicating a trend and momentum in their favour."
+    }
+}

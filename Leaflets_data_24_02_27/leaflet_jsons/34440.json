@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "SNP",
+        "electionDate": "12 Dec",
+        "messages": [
+            {
+                "title": "Your vote can stop the Tories.",
+                "content": "A better future for Scotland is within our reach. But first we need to take that future out of Boris Johnson\u2019s hands and put it where it belongs - in Scotland\u2019s hands. That\u2019s why this is the most important election ever for Scotland. This is our chance to ditch Boris Johnson, to escape Brexit and stop the Tories. Now is the time to fight for our right to choose a different path for Scotland. Vote SNP."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "End Austerity",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Invest in NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Fair Pensions",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Only one party in Scotland can beat the Tories - that\u2019s why every SNP vote matters more than ever. Now is the time to vote SNP \u2013 to help us stop the Tories and stop Boris."
+        },
+        "issues": {
+            "brexitEurope": "escape Brexit",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Scotland is key to the outcome of the election - and to what happens next on Brexit. Only one party in Scotland can beat the Tories - that\u2019s why every SNP vote matters more than ever. Now is the time to vote SNP \u2013 to help us stop the Tories and stop Boris."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+	"candidateName": "Karen Buck",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Good morning",
+    	"content": "It's time to vote for Karen Buck. Your vote WILL make a difference"
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Karen Buck",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Good morning It's time to vote for Karen Buck. Your vote WILL make a difference."
+    	}
+  	]
+	},
+	"additionalNotes": "Polling stations close at 10pm"
+  }
+}

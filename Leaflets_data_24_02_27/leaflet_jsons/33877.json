@@ -1,0 +1,73 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Brexit",
+    	"policyDescription": "Get Brexit done with our new deal"
+  	},
+  	{
+    	"policyTitle": "Healthcare",
+    	"policyDescription": "£33.9 billion extra for the NHS"
+  	},
+  	{
+    	"policyTitle": "Law Enforcement",
+    	"policyDescription": "20,000 extra police officers"
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "More funding for every pupil in every school"
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Get Brexit done with our new deal",
+  	"economy": "",
+  	"education": "More funding for every pupil in every school",
+  	"environment": "",
+  	"governance": "",
+  	"health": "£33.9 billion extra for the NHS",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "YOUR CHOICE AT THIS ELECTION - Getting Brexit done so we can invest in the country's priorities OR A hung parliament with Jeremy Corbyn in charge"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "SNP",
+	"electionDate": "May 6th",
+	"messages": [
+  	{
+    	"title": "Want to protect the things that matter most?",
+    	"content": "Elect a local champion."
+  	},
+  	{
+    	"title": "More NATS, Less Cuts",
+    	"content": "At this election Scotland needs champions, so we can protect the things that really matter. Labour now admits they plan cuts to public services 'deeper and tougher' than under Margaret Thatcher. Tory plans are just the same. We say continue investment in local schools and nursery education. These are important for Scottish families and Scotland's future."
+  	},
+  	{
+    	"title": "On May 6th elect a local champion who will stand up for local services.",
+    	"content": "Vote SNP."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Education and Public Services",
+    	"policyDescription": "Opposition to Labour's and Tories' planned cuts to public services. Commitment to continue investment in local schools and nursery education."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Labour now admits they plan cuts to public services 'deeper and tougher' than under Margaret Thatcher. Tory plans are just the same.",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+		"governance": "Labour now admits they plan cuts to public services 'deeper and tougher' than under Margaret Thatcher. Tory plans are just the same.",
+		"education": "We say continue investment in local schools and nursery education.",
+    	"nuclearArms": "Instead let's cut the £100 billion the London parties plan to splash out on new nuclear weapons.",
+		"housing": [
+    	{
+      	"content":"We say continue investment in local schools and nursery education.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "3 Jackson's Entry, Edinburgh EH8 8PJ",
+  	"phone": "0800 633 5432",
+  	"email": "myviews@snp.org",
+  	"website": "www.snp.org",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Local children interacting with a playhouse, symbolizing local investment in education."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet emphasizes the need for local champions and criticizes the conservative spending cuts by Labour and Tory alike, representing a strategic appeal to voters to prevent austerity measures and protect local services."
+  }
+}

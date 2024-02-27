@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Claire Leigh",
+    "constituency": "Tonbridge and Malling",
+    "politicalParty": "Labour",
+    "electionDate": "7th May 2015",
+    "messages": [
+      {
+        "title": "Labour's pledge to you",
+        "content": "Labour outlines a three-step pledge to: undo damage by Tories, take on vested interests holding millions back, and rebuild a fairer Britain by raising the minimum wage, offering tax breaks, banning exploitative zero-hour contracts, bringing in a lower 10p income tax rate for 24 million workers, supporting working parents with 25 hours of free childcare and helping more young people on the housing ladder."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Freezing energy bills until 2017 and reforming banks to better support small businesses."
+      },
+      {
+        "policyTitle": "Social Welfare",
+        "policyDescription": "Scrapping the Bedroom Tax and reversing the Tories’ £3bn tax cut for millionaires."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Scrapping the Health and Social Care Act, reversing damages and underfunding of the NHS."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Helping more young people get on the housing ladder by getting 200,000 homes built every year."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Raising the minimum wage, promoting the living wage, and banning exploitative zero-hour contracts."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Raising money from tobacco companies, tax avoiders, and implementing a mansion tax to fund doctors, nurses, and careworkers."
+      }
+    ],
+    "mentions": {
+      "candidate": "Claire Leigh",
+      "otherPartyLeaderCandidate": "UKIP",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Local Tory-led Government is planning billions more cuts.",
+      "education": "Conservative-led Government has not invested in schools.",
+      "environment": "",
+      "governance": "Planning taxes aimed at the poorest while giving tax relief to the largest.",
+      "health": "Conservative Government cuts harming the NHS.",
+      "immigration": "",
+      "socialWelfare": "Conservative cuts have put many families into debt.",
+      "housing": [
+        {
+          "content": "Helping more young people get on the housing ladder by getting 200,000 homes built every year.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I am Tonbridge born and bred, and I'm passionate about this area. That's why I'm standing to be your MP, and why I'm determined to win your vote.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Promoted by Greg Hill of 9 Stilemans Lane, East Malling, ME196BT on behalf of the Labour Party, and printed by Promotion House, Edenbridge, TN8 5AL.",
+      "phone": "",
+      "email": "claireleigh4tonbridge@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Claire Leigh, Labour Parliamentary Candidate for Tonbridge and Malling."
+        }
+      ]
+    },
+    "additionalNotes": "To get involved with Claire Leigh's campaign, offers are suggested to deliver leaflets, display a Labour poster, host a meeting, or donate to the campaign."
+  }
+}
+```
+Note: The actual party leader is not directly named in the text and neither are the tactical voting concerns other than the mention of UKIP, so those sections are left blank. Additionally, no quotes or endorsements are present. The contact information, website, social media, political experience, and quotes from the leaflet provided are not fully detailed, so they are represented as such in the JSON.

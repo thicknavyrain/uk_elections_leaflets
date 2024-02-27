@@ -1,0 +1,73 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew Smith",
+        "constituency": "Oxford East",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local Public Services",
+                "policyDescription": "Stand up for local public services \u2013 in health, education, pensions, social care and policing."
+            },
+            {
+                "policyTitle": "Environment and Community Safety",
+                "policyDescription": "Work with local residents for the best quality environment, tackling crime and anti-social behaviour, and combating climate change."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Keep Oxford\u2019s economy strong, supporting businesses, jobs and training \u2013 with effective action against low pay."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Press for the housing we need so local people are able to find somewhere decent and affordable to live in our city."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrew Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Keep Oxford\u2019s economy strong, supporting businesses, jobs and training \u2013 with effective action against low pay.",
+            "education": "Stand up for local public services \u2013 in health, education, pensions, social care and policing.",
+            "environment": "Work with local residents for the best quality environment, tackling crime and anti-social behaviour, and combating climate change.",
+            "governance": "",
+            "health": "Stand up for local public services \u2013 in health, education, pensions, social care and policing.",
+            "immigration": "",
+            "socialWelfare": "Stand up for local public services \u2013 in health, education, pensions, social care and policing.",
+            "housing": [
+                {
+                    "content": "Press for the housing we need so local people are able to find somewhere decent and affordable to live in our city.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Andrew Smith with supporters"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

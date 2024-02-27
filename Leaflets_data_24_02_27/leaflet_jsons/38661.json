@@ -1,0 +1,69 @@
+{
+    "leaflet": {
+        "candidateName": "David Watts",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Protect the NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Tackle Climate Change",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "David Watts",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit",
+            "economy": "",
+            "education": "",
+            "environment": "Tackle Climate Change",
+            "governance": "",
+            "health": "Protect the NHS",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Watts with a background of Liberal Democrats logo and campaign messages."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

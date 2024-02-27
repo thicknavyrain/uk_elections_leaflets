@@ -1,0 +1,74 @@
+{
+    "leaflet": {
+        "candidateName": "Madeline Jones",
+        "constituency": "Enfield North",
+        "politicalParty": "UK Independence Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "My local issues are",
+                "content": "Stopping the downgrading of Chase Farm Hospital's A&E department, consultant-led maternity and babies/children's care wards. Preventing the closure of Albany School and the related sale of the grounds for housing, which will inevitably bring in more children."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Say NO to mass immigration"
+            },
+            {
+                "policyTitle": "Referendums",
+                "policyDescription": "Say YES to referendums on all major issues"
+            },
+            {
+                "policyTitle": "EU Spending",
+                "policyDescription": "Say NO to wasting \u00a345 million a day in Brussels"
+            }
+        ],
+        "mentions": {
+            "candidate": "Madeline Jones",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Say NO to wasting \u00a345 million a day in Brussels",
+            "economy": "",
+            "education": "Preventing the closure of Albany School and the related sale of the grounds for housing",
+            "environment": "",
+            "governance": "",
+            "health": "Stopping the downgrading of Chase Farm Hospital's A&E department, consultant-led maternity and babies/children's care wards",
+            "immigration": "Say NO to mass immigration",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Preventing the sale of the grounds for housing, which will inevitably bring in more children.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I have lived in Brimsdown all my life, attending Brimsdown and Albany Schools. I have three children, one with a learning disability, so I have experience of children and adults with special needs.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "Call free 0800 587 6 587",
+            "email": "",
+            "website": "ukip.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Election communication for the UK Independence Party, featuring candidate Madeline Jones."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "leaflet": {
+        "candidateName": "Stephen Williams",
+        "constituency": "Bristol West",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "2015 General Election",
+        "messages": [
+            {
+                "title": "48% LIB DEM",
+                "content": "It's a choice between Ed Miliband's Labour or hardworking Lib Dem MP, Stephen Williams."
+            },
+            {
+                "title": "How can you help the Lib Dems win?",
+                "content": "Can you display a poster? Can you deliver some leaflets? Would you consider donating?"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Best for Schools",
+                "policyDescription": "Stephen Williams has helped get more money for our schools - the best cash increase in Bristol in the last 10 years."
+            },
+            {
+                "policyTitle": "Best for Hospitals",
+                "policyDescription": "Stephen is fighting to save hospitals - Stephen owes his quality of life to the NHS and is fighting to get the funds needed for it."
+            }
+        ],
+        "mentions": {
+            "candidate": "Stephen Williams",
+            "otherPartyLeaderCandidate": "Ed Miliband",
+            "partyLeader": "",
+            "tacticalSituation": "Lib Dems can only win here. Your vote is crucial."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Stephen Williams MP helped to secure the best ever cash increase for schools in Bristol West.",
+            "environment": "Stephen Williams and the Lib Dems cut income tax for low and middle earners, lifting thousands out of income tax completely. They've helped with creating jobs, making Bristol the European Green Capital.",
+            "governance": "",
+            "health": "Stephen Williams has been proud to fund Bristol hospitals. He is campaigning for better mental health services and fairer NHS funding.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "bristolwestlibdems@gmail.com",
+            "website": "stephenwilliams.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Stephen Williams MP helped to secure the best ever cash increase for our schools in the last 10 years.",
+                "source": "Campaign leaflet",
+                "date": "During 2015 General Election"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Stephen Williams with local residents and campaigners."
+                },
+                {
+                    "caption": "Stephen Williams at Bristol schools."
+                },
+                {
+                    "caption": "Stephen Williams campaigning for better mental health services and fairer NHS funding."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

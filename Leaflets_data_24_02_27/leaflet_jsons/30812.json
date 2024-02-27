@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+	"candidateName": "Theresa May",
+	"constituency": "",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Strong leadership for Britain",
+    	"content": "Strong leadership for Britain's security. Back Theresa as Prime Minister."
+  	},
+  	{
+    	"title": "YOUR LOCAL VOTE WILL DECIDE",
+    	"content": "Higher taxes, fewer jobs, more debt. Labour's plan - bad for your economy. YOUR LOCAL VOTE WILL DECIDE."
+  	}
+	],
+	"keyPolicies": [
+	  {
+	    "policyTitle": "Economy",
+	    "policyDescription": "Working locally to keep our economy strong."
+	  }
+	],
+	"mentions": {
+  	"candidate": "Theresa May",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "",
+  	"tacticalSituation": "11 days to go. Every vote counts. In a hung parliament, Jeremy Corbyn may lose the ability to choose and Theresa May needs just 6 seats to lose majority."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Back locally to keep our economy strong.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Image of Theresa May with messages emphasizing economy and leadership for Britain's security."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "George Lee",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A contract between the Conservative Party and you",
+                "content": "This is our contract with you. I want you to read it and - if we win the election - use it to hold us to account. If we don't deliver our side of the bargain, vote us out in five years time."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "We will change politics",
+                "policyDescription": "Give you the right to sack your MP, cut the number of MPs by ten per cent, cut subsidies and perks for politicians, cut ministers' pay by 5 per cent and freeze it for 5 years, give local communities the power to take charge of the local planning system and vote on excessive council tax rises, make government transparent."
+            },
+            {
+                "policyTitle": "We will change the economy",
+                "policyDescription": "Cut wasteful spending to stop Labour's job tax, cut national insurance so we can keep mortgage rates lower for longer, act now on the national deficit, reduce emissions and build a greener economy, give unemployed people support to get work, get Britain working by giving training places over two years, and cutting benefits for those who refuse work, control immigration, reducing it to the levels of the 1990s."
+            },
+            {
+                "policyTitle": "We will change society",
+                "policyDescription": "Increase spending on health every year, make sure the NHS goes to nurses and doctors rather than administration, support families, raise standards in schools, fight back against crime."
+            }
+        ],
+        "mentions": {
+            "candidate": "George Lee",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "",
+            "tacticalSituation": "A vote for the Lib Dems is a vote for Gordon Brown"
+        },
+        "issues": {
+            "brexitEurope": "Europe - the Lib Dems are in favour of joining the Euro",
+            "economy": "Cut wasteful spending to stop Labour's job tax, act now on the national deficit, reduce emissions and build a greener economy",
+            "education": "Restore discipline and order to our classrooms and create a new generation of independently run state schools",
+            "environment": "",
+            "governance": "Give you the right to sack your MP, cut the number of MPs by ten per cent, make government transparent",
+            "health": "Increasing spending on health every year and making the NHS work for patients not managers",
+            "immigration": "Control immigration, reducing it to the levels of the 1990s",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "give local communities the power to take charge of the local planning system and vote on excessive council tax rises",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "George Lee and the Conservatives vs more of the same with Gordon Brown",
+                "source": "Campaign leaflet",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "George Lee and the Conservative Party campaign leaflet"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

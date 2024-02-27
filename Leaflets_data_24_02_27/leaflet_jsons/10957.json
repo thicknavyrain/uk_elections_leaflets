@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Ipswich",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Voter Beware!",
+                "content": "The Liberal Democrats and Conservatives have run Ipswich Borough Council together since 2004. Tories have never had a majority on the council - the only way they have stayed in power is with the votes of the Liberal Democrats."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Closing Public Amenities and Services",
+                "policyDescription": "Tories supported by the Lib Dems in Ipswich have closed area housing offices, a film theatre, and the Corn Exchange for half the year. They've also started selling off the council's share in Ipswich Buses and cut the roads maintenance budget."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Prioritised luxury flats over affordable family homes and done nothing as town centre shops stand empty."
+            },
+            {
+                "policyTitle": "National Tory Policies Supported by Lib Dems",
+                "policyDescription": "Cutting tax credits, scrapping Child Trust Funds, restricting the use of DNA evidence to catch criminals, and cutting the Train To Gain employee education programme."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": "A vote for the Liberal Democrats means the Tories win."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Prioritised luxury flats over affordable family homes.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Liberal Democrat Leader Nick Clegg wants to cut public services even more than the Tories and is on record as saying he will make 'savage cuts'.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote Labour - Only Labour Can Beat The Tories in Ipswich"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

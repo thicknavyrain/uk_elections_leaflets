@@ -1,0 +1,86 @@
+{
+    "leaflet": {
+        "candidateName": "BRIDGET FOX",
+        "constituency": "Cities of London & Westminster",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "YOUR CHOICE, YOUR FUTURE!",
+                "content": "Only the Liberal Democrats are offering the positive choice we deserve."
+            },
+            {
+                "title": "ELECTION COMMUNICATION",
+                "content": "Tories and Labour have let us down: it's time to vote for the Liberal Democrats!"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investment in the NHS, schools and social care",
+                "policyDescription": "Fully-costed plans for investment in the NHS, schools and social care."
+            },
+            {
+                "policyTitle": "Support for small businesses",
+                "policyDescription": "Help for small businesses, and fighting the hard Brexit that hurts jobs and services."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Building the homes that London needs and introducing new rent-to-buy schemes."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Protecting the environment, cleaning up air pollution and keeping our streets safe."
+            },
+            {
+                "policyTitle": "International Aid",
+                "policyDescription": "Funding aid and defence properly to play a responsible role in a changing world."
+            }
+        ],
+        "mentions": {
+            "candidate": "BRIDGET FOX",
+            "otherPartyLeaderCandidate": "Tories and Labour",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "fighting the hard Brexit that hurts jobs and services.",
+            "economy": "",
+            "education": "investment in ... schools",
+            "environment": "Protecting the environment, cleaning up air pollution",
+            "governance": "",
+            "health": "investment in the NHS",
+            "immigration": "",
+            "socialWelfare": "investment in ... social care",
+            "housing": [
+                {
+                    "content": "Building the homes that London needs and introducing new rent-to-buy schemes.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "BRIDGET FOX: Liberal Democrat Candidate for Cities of London & Westminster"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

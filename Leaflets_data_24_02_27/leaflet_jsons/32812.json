@@ -1,0 +1,76 @@
+{
+	"leaflet": {
+		"candidateName": "",
+		"constituency": "",
+		"politicalParty": "Conservative",
+		"electionDate": "",
+		"messages": [
+			{
+				"title": "LABOUR SHOCK",
+				"content": "FORMER LABOUR MPS QUIT PARTY"
+			}
+		],
+		"keyPolicies": [],
+		"mentions": {
+			"candidate": "",
+			"otherPartyLeaderCandidate": "Jeremy Corbyn",
+			"partyLeader": "",
+			"tacticalSituation": ""
+		},
+		"issues": {
+			"brexitEurope": "",
+			"economy": "",
+			"education": "",
+			"environment": "",
+			"governance": "",
+			"health": "",
+			"immigration": "",
+			"socialWelfare": "",
+			"housing": [
+				{
+					"content": "",
+					"yimbyNimby": ""
+				}
+			]
+		},
+		"personalStatement": "",
+		"politicalExperience": [],
+		"contactInformation": {
+			"address": "",
+			"phone": "",
+			"email": "",
+			"website": "",
+			"socialMedia": {
+				"facebook": "",
+				"twitter": "",
+				"instagram": "",
+				"linkedin": ""
+			}
+		},
+		"endorsements": [
+			{
+				"endorser": "Ian Austin",
+				"endorsement": "Claims the party has been 'poisoned by racism, extremism and intolerance' under Jeremy Corbyn. Urging people to vote Tory."
+			},
+			{
+				"endorser": "John Woodcock",
+				"endorsement": "Backs Tory Barrow candidate over Corbyn's man."
+			}
+		],
+		"quotes": [
+			{
+				"text": "Jeremy Corbyn doesn't represent real Labour values. Don't risk making him Prime Minister - for five long years.",
+				"source": "",
+				"date": ""
+			}
+		],
+		"campaignMaterial": {
+			"images": [
+				{
+					"caption": "Former Labour MPs quit party"
+				}
+			]
+		},
+		"additionalNotes": "Leaflet contains articles and statements from former Labour MPs criticising Jeremy Corbyn and urging votes for the Conservative party."
+	}
+}

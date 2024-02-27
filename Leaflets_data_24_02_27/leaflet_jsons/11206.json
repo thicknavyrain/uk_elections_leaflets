@@ -1,0 +1,99 @@
+{
+    "leaflet": {
+        "candidateName": "David Cameron",
+        "constituency": "Kettering",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A PERSONAL MESSAGE FROM DAVID CAMERON",
+                "content": "Why we need change in Britain today"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Committed to the NHS, planning to increase spending and improve it for everyone."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Aims to get the economy moving again and create 400,000 new apprenticeships, training places, and work pairings."
+            },
+            {
+                "policyTitle": "Families",
+                "policyDescription": "Stopping Labour's jobs tax would help families be better off than under Labour."
+            },
+            {
+                "policyTitle": "Senior Citizens",
+                "policyDescription": "Planning to raise the basic state pension, freeze in earnings and protect winter fuel payments."
+            },
+            {
+                "policyTitle": "Tax Credits",
+                "policyDescription": "Maintaining Britain as the most family-friendly country in Europe, keeping tax credits, and providing 4,200 extra Sure Start health visitors."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Aims to get the economy moving again.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Committed to the NHS, planning to increase spending and improve it for everyone.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "The choice at this election is clear: five more years of Gordon Brown's tired government making things worse or change with the Conservatives. I hope you take this chance to vote for change.",
+        "politicalExperience": [
+            {
+                "role": "Leader of the Conservative Party",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "Leaflet promotes a message of change and targets the record of the incumbent government."
+    }
+}

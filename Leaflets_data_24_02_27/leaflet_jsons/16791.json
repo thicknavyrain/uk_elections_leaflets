@@ -1,0 +1,95 @@
+{
+    "leaflet": {
+        "candidateName": "Steve Harris",
+        "constituency": "Portsmouth South",
+        "politicalParty": "UKIP",
+        "electionDate": "May 7th",
+        "messages": [
+            {
+                "title": "For a Strong United Kingdom",
+                "content": "Our country needs real change."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stopping NHS Privatisation and Free Care for Non-Nationals",
+                "policyDescription": "Our taxes should minimise sickness not maximise corporate profits. NHS resources are limited and should be focused on British people who need care."
+            },
+            {
+                "policyTitle": "Stopping the Overdevelopment of Portsmouth",
+                "policyDescription": "We need living space, decent community facilities and a proper city infrastructure. We must plan and create the city we want to live in."
+            },
+            {
+                "policyTitle": "Reopening the Shipbuilding Yard",
+                "policyDescription": "Our yard was scrapped under the Tory-led coalition and transferred to Scotland. We must reopen the yard or re-task it for other marine work to bring the jobs back to Portsmouth."
+            },
+            {
+                "policyTitle": "Proper UK Border and Immigration Control",
+                "policyDescription": "Our Government's failure on stopping uncontrolled mass immigration means our schools, hospitals, infrastructure and welfare system cannot cope."
+            }
+        ],
+        "mentions": {
+            "candidate": "Steve Harris",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Our taxes should minimise sickness not maximise corporate profits. NHS resources are limited and should be focused on British people who need care.",
+            "immigration": "Our Government's failure on stopping uncontrolled mass immigration means our schools, hospitals, infrastructure and welfare system cannot cope.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "We need living space, decent community facilities and a proper city infrastructure.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Portsmouth first NOT Westminster.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "50 Butterfly Drive Portsmouth PO6 4TR",
+            "phone": "0773 806 8851",
+            "email": "membership@ukipportsmouth.org",
+            "website": "ukipportsmouth.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Steve Harris standing by the coast"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "Drew Durning",
+        "constituency": "Stockton South",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "The Liberal Democrat Voice For Stockton South",
+                "content": "Drew Durning is standing for Parliament to fight against a hard Brexit, put \u00a36bn a year into the NHS & Social Care, and stand against school budget cuts."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Fight against a hard Brexit"
+            },
+            {
+                "policyTitle": "Health & Social Care",
+                "policyDescription": "Put \u00a36bn a year into the NHS & Social Care"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Stand against school budget cuts"
+            }
+        ],
+        "mentions": {
+            "candidate": "Drew Durning",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Fight against a hard Brexit",
+            "economy": "You can't have a Strong Economy with a Hard Brexit",
+            "education": "Stand against school budget cuts",
+            "environment": "",
+            "governance": "",
+            "health": "Put \u00a36bn a year into the NHS & Social Care",
+            "immigration": "",
+            "socialWelfare": "Put \u00a36bn a year into the NHS & Social Care",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "You can't have a Strong Economy with a Hard Brexit",
+                "source": "Campaign Material",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Drew Durning campaigning in an outdoor setting"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

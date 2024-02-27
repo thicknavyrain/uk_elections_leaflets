@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "UK Independence Party",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "UKIP - The Real Opposition",
+    	"content": "In June we made history by finishing second nationally in the European elections. We have an excellent local candidate for the General Election - who will be asking for your support not just on the European Union, but also on issues like lower tax, freedom from crime and a firm but fair immigration policy."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Taxes",
+    	"policyDescription": "Lower tax"
+  	},
+  	{
+    	"policyTitle": "Crime",
+    	"policyDescription": "Freedom from crime"
+  	},
+  	{
+    	"policyTitle": "Immigration",
+    	"policyDescription": "A firm but fair immigration policy"
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "Nigel Farage MEP",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Support for the European Union",
+  	"economy": "Lower tax",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "A firm but fair immigration policy",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "0800 587 6 587",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "UKIP - The Real Opposition promotional material with poll result infographic"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

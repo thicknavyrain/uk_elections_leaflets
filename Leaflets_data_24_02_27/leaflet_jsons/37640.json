@@ -1,0 +1,76 @@
+{
+    "leaflet": {
+        "candidateName": "Nicola Sturgeon",
+        "constituency": "",
+        "politicalParty": "SNP",
+        "electionDate": "Thursday 5 May",
+        "messages": [
+            {
+                "title": "A healthier Scotland.",
+                "content": "We're working on it."
+            },
+            {
+                "title": "Record funding for Scotland's NHS.",
+                "content": "Just what the doctor ordered."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "An extra \u00a3500 million investment into Scotland's health services and social care, raising the health budget for 2016 to \u00a313 billion."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nicola Sturgeon",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Nicola Sturgeon",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "This year the SNP will pump an extra \u00a3500 million into Scotland's health services and social care. ... Staffing in Scotland's NHS is at a record high, with an extra 10,600 workers since the SNP took office.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "First Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.snp.org/health",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nicola Sturgeon with text: 'A healthier Scotland. We're working on it.'"
+                }
+            ]
+        },
+        "additionalNotes": "The SNP will always stand against the creeping privatisation that is threatening the NHS in England."
+    }
+}

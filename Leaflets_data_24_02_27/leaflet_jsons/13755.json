@@ -1,0 +1,98 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The Lib Dem difference",
+                "content": "The Liberal Democrats will take action to protect frontline NHS services. We will put more police on patrol, restore the pensions\u2019 earnings link and deliver fair pay for the armed forces."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fairer taxes",
+                "policyDescription": "No tax on the first \u00a310,000 you earn \u2013 cutting most tax bills by \u00a3700."
+            },
+            {
+                "policyTitle": "A fair chance for every child",
+                "policyDescription": "Smaller class sizes, more cash for schools and abolish university tuition fees."
+            },
+            {
+                "policyTitle": "A fair future: create jobs by making Britain greener",
+                "policyDescription": "Invest in public transport, renewable energy and energy efficient homes."
+            },
+            {
+                "policyTitle": "A fair deal for you from the politicians",
+                "policyDescription": "Make politicians accountable and give you the right to sack corrupt MPs."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "The Lib Dems are the only party with a plan to balance the country's books after the recession."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "The Lib Dems are the only party with a plan to balance the country's books after the recession.",
+            "education": "Smaller class sizes, more cash for schools and abolish university tuition fees.",
+            "environment": "Invest in public transport, renewable energy and energy efficient homes.",
+            "governance": "Make politicians accountable and give you the right to sack corrupt MPs.",
+            "health": "The Liberal Democrats will take action to protect frontline NHS services.",
+            "immigration": "",
+            "socialWelfare": "We will put more police on patrol, restore the pensions\u2019 earnings link and deliver fair pay for the armed forces.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Winning here! Across Britain, people are turning to the Lib Dems for real change. The Lib Dems now run many of the biggest cities in the UK.",
+                "source": "Campaign statement",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Four steps to a fairer Britain"
+                },
+                {
+                    "caption": "Winning here!"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

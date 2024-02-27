@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "North West",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday June 8th",
+        "messages": [
+            {
+                "title": "The Tories have failed the North West",
+                "content": "OUR NHS and social care is facing a growing crisis and hospitals are under huge pressure. OUR POLICE have lost almost 4,000 officers since 2010 making our streets less safe. OUR SCHOOLS are facing cuts leading to teacher redundancies and larger class sizes. OUR COUNCILS have been targeted for bigger cuts than those in the leafy south. OUR PUBLIC TRANSPORT gets just \u00a31 for every \u00a36 spent in London and the South-East."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "OUR SCHOOLS are facing cuts leading to teacher redundancies and larger class sizes.",
+            "environment": "",
+            "governance": "OUR COUNCILS have been targeted for bigger cuts than those in the leafy south.",
+            "health": "OUR NHS and social care is facing a growing crisis and hospitals are under huge pressure.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The Tories have failed the North West"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "leaflet": {
+        "candidateName": "Jonathan Bullock",
+        "constituency": "Northampton North",
+        "politicalParty": "UK Independence Party",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Don't trust Theresa",
+                "content": "The Tories have U-turned on their pledge to scrap the hated ECHR. It currently stops us deporting criminals and even makes us pay them compensation."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "To control immigration and reduce net migration."
+            },
+            {
+                "policyTitle": "European Court of Human Rights",
+                "policyDescription": "Tories have U-turned on their pledge to scrap the hated ECHR."
+            },
+            {
+                "policyTitle": "Fishing Waters",
+                "policyDescription": "To protect fishermen from future Brussels controls."
+            },
+            {
+                "policyTitle": "National Security",
+                "policyDescription": "To strengthen national security undermined by cutting police by 20,000 officers."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jonathan Bullock",
+            "otherPartyLeaderCandidate": "Theresa",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "To deliver a clean Brexit.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "Don't be fooled again by Theresa's Conservatives.",
+            "health": "Criticism of NHS care crisis under Conservative governance.",
+            "immigration": "Pledge to control immigration; criticism of high net migration figures under Conservative leadership.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I actively campaigned for Brexit.",
+        "politicalExperience": [
+            {
+                "role": "Councillor",
+                "duration": "8 years",
+                "achievements": "Campaigning for Brexit."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0333 800 6800",
+            "email": "",
+            "website": "ukip.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Graphical illustration of net migration to the UK from 2009 to 2016."
+                }
+            ]
+        },
+        "additionalNotes": "The message criticizes the Conservative government's record on various issues, including immigration and the NHS, and opposes Theresa May's approach."
+    }
+}

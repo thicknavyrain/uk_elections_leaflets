@@ -1,0 +1,83 @@
+{
+    "leaflet": {
+        "candidateName": "PAUL ENGLISH",
+        "constituency": "BLACKBURN",
+        "politicalParty": "LIBERAL DEMOCRAT",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "PAUL ENGLISH",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "1 Sunnybank Gardens, Blackburn, BB2 3NH",
+            "phone": "01254 57457",
+            "email": "info@paulenglish.net",
+            "website": "www.paulenglish.net",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Photograph of Paul English"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

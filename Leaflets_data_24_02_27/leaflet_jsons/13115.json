@@ -1,0 +1,95 @@
+{
+    "leaflet": {
+        "candidateName": "Michael Ellis",
+        "constituency": "Northampton North",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "60 SECOND Q&A",
+                "content": "Michael Ellis answers questions on economy, NHS, crime, education, and politics."
+            },
+            {
+                "title": "A PERSONAL MESSAGE FROM DAVID CAMERON",
+                "content": "David Cameron emphasizes the need for change and outlines Conservative pledges on the NHS, economy, apprenticeships, and taxes."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "PROTECT OUR NHS",
+                "policyDescription": "Increase spending and improve efficiency."
+            },
+            {
+                "policyTitle": "RESPECT FOR PENSIONERS",
+                "policyDescription": "Work for fairer pensions and benefits."
+            },
+            {
+                "policyTitle": "FIGHTING CRIME",
+                "policyDescription": "Support local police and cut down on paperwork."
+            }
+        ],
+        "mentions": {
+            "candidate": "Michael Ellis",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": "Northampton North is a marginal seat that could help secure a Conservative victory."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Recovery will come from homes, from individuals, from the private sector, not just government.",
+            "education": "Schools need support to manage class size and provide every child with a good school place.",
+            "environment": "",
+            "governance": "We are in difficult times, politics are changing.",
+            "health": "The NHS is our most important national treasure and will be protected.",
+            "immigration": "",
+            "socialWelfare": "Policies aim to support pensioners and provide fairer benefits.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Michael has always lived and worked in Northampton, he understands the local needs and has dedication to public service.",
+        "politicalExperience": [
+            {
+                "role": "Local involvement",
+                "duration": "",
+                "achievements": "Active local involvement, understands the town's needs."
+            }
+        ],
+        "contactInformation": {
+            "address": "23, Cottesbrooke Avenue, Northampton, NN2 8JP",
+            "phone": "07958 127 127",
+            "email": "michael@nellis.co.uk",
+            "website": "www.michaelellis.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "David Cameron",
+                "endorsement": "Supporting change in Britain, endorsing Conservative policies."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Michael Ellis with David Cameron."
+                },
+                {
+                    "caption": "Michael Ellis working with various groups."
+                },
+                {
+                    "caption": "David Cameron writing."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

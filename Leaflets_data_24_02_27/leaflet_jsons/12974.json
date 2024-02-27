@@ -1,0 +1,95 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "WHY BRITAIN NEEDS A CONSERVATIVE GOVERNMENT",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "TACKLING IMMIGRATION",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "FREEZE COUNCIL TAX",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "BRITAIN IN EUROPE",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "OLDER RESIDENTS",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "BRITAIN IN EUROPE",
+            "economy": "FREEZE COUNCIL TAX",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "TACKLING IMMIGRATION",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "FREEZE COUNCIL TAX",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "SNP",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "The leaflet outlines a stance to stop Brexit."
+            },
+            {
+                "policyTitle": "Protect the NHS from Tory trade deals",
+                "policyDescription": "The leaflet emphasizes protecting the NHS from trade deals that could be detrimental, presumably those negotiated by the Conservative Party."
+            },
+            {
+                "policyTitle": "Allow Scotland to choose her own future",
+                "policyDescription": "The message suggests supporting the right of Scotland to make its own decisions about its future."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Protect the NHS from Tory trade deals",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Three Good Reasons to vote SNP today: 1. Stop Brexit 2. Protect the NHS from Tory trade deals 3. Allow Scotland to choose her own future"
+                }
+            ]
+        },
+        "additionalNotes": "Polling Stations are open until 10pm. Please text us your name and postcode on 07584 562469 to let us know if you have voted!"
+    }
+}

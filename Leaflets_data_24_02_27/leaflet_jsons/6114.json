@@ -1,0 +1,69 @@
+{
+    "leaflet": {
+        "candidateName": "Pat McFadden",
+        "constituency": "Wolverhampton South East",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Jobs",
+                "policyDescription": "For jobs in Wolverhampton South East."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "For better schools in Wolverhampton South East."
+            },
+            {
+                "policyTitle": "Safety",
+                "policyDescription": "For safer streets in Wolverhampton South East."
+            }
+        ],
+        "mentions": {
+            "candidate": "Pat McFadden",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Crescent House, 69 Broad Street, Bilston, WV14 0BZ",
+            "phone": "07895 904640",
+            "email": "patforwolverhampton@gmail.com",
+            "website": "www.patmcfadden.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Pat McFadden with constituents and in various settings in Wolverhampton South East."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

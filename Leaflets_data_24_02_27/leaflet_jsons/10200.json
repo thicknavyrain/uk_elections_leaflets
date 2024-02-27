@@ -1,0 +1,83 @@
+{
+    "leaflet": {
+        "candidateName": "Joanne Cash",
+        "constituency": "Westminster North",
+        "politicalParty": "Conservatives",
+        "electionDate": "6th May",
+        "messages": [
+            {
+                "title": "CONSERVATIVES FREEZE COUNCIL TAX",
+                "content": "Conservative-controlled Westminster City Council has frozen Council Tax for local residents for another year. As a result, there have been no rises in Council Tax since 2006 - one of the only councils in the country which has managed to keep tax so low."
+            },
+            {
+                "title": "WORKING FOR YOU\u2014ALL YEAR",
+                "content": "Your Conservative candidates have a range of skills and experience to manage diverse needs of the ward, including noises, trees, housing, road repairs, social services, control, crime, licensing, planning, community cooperation, culture and education."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Council Tax",
+                "policyDescription": "Keep Council Tax low, continue to manage finances without raising Council Tax."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Make the NHS a priority and ensure spending is maintained. Oppose any cut and halt the increase of managers in the NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Joanne Cash",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Joanne Cash says: 'The NHS is the number one priority for me personally, for my life as a family and as my role, I'll be a tireless campaigner for it.'",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Manage diverse needs of the ward, including housing.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Joanne Cash is the Conservative candidate committed to reform of politics. She has a strong stance on making the NHS the number one priority.",
+        "politicalExperience": [
+            {
+                "role": "Conservative candidate for Westminster North",
+                "duration": "",
+                "achievements": "Working for Westminster North residents, launched a mentoring programme for state school teenagers."
+            }
+        ],
+        "contactInformation": {
+            "address": "209 Shirland Road, London, W9 3JP",
+            "phone": "020 7625 3805",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Joanne Cash working for Westminster North residents."
+                },
+                {
+                    "caption": "Joanne Cash and David Cameron, with a message about the NHS being their number one priority."
+                }
+            ]
+        },
+        "additionalNotes": "Delivered by Harrow Road Conservatives."
+    }
+}

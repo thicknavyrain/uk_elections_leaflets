@@ -1,0 +1,67 @@
+{
+  "leaflet": {
+	"candidateName": "Bob Russell",
+	"constituency": "Colchester",
+	"politicalParty": "Lib Dem",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Labour out of the race",
+    	"content": "Labour 100-1 outsiders in Colchester - Ladbrokes. The race to be Colchester’s MP is a straight fight between hard-working Bob Russell and the Conservative candidate from Hertfordshire. Labour and Greens are out of the race and cannot win here."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Bob Russell",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "Labour 100-1 outsiders in Colchester - Ladbrokes. The race to be Colchester’s MP is a straight fight between hard-working Bob Russell and the Conservative candidate from Hertfordshire. Labour and Greens are out of the race and cannot win here."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [
+  	{
+    	"text": "It’s so close here Voting Labour or Green just helps the Conservatives here. Our next MP will be local champion Bob Russell and no other result is possible.",
+    	"source": "Campaign Leaflet",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Bar chart showing Lib Dem 47%, Con 33%, Lab 20% with text 'It’s so close here Voting Labour or Green just helps the Conservatives here. Our next MP will be local champion Bob Russell and no other result is possible.'"
+    	}
+  	]
+	},
+	"additionalNotes": "Figures from the 2005 General Election result in Colchester indicate Lib Dem 47%, Con 33%, Lab 20%."
+  }
+}

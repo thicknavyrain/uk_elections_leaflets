@@ -1,0 +1,67 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Labour Party",
+    "electionDate": "May 5",
+    "messages": [
+ 	  {
+        "title": "Independence is not an idle threat. It is now a real risk.",
+        "content": "Alex Salmond said he wants independence to be the 'dominating issue' in Scottish politics. This will deter business from investing here, put the recovery at risk, and under the SNP's policies, lead us down the same path that has brought Ireland and Iceland to their knees."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Alex Salmond",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Alex Salmond said he wants independence to be the 'dominating issue' in Scottish politics. This will deter business from investing here, put the recovery at risk, and under the SNP's policies, lead us down the same path that has brought Ireland and Iceland to their knees.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+	  "address": "John Smith House, 145-165 West Regent Street, Glasgow G2 4RZ",
+	  "phone": "",
+	  "email": "",
+	  "website": "scottishlabour.org.uk",
+	  "socialMedia": {
+		"facebook": "",
+	    "twitter": "",
+	    "instagram": "",
+	    "linkedin": ""
+	  }
+	},
+	"endorsements": [],
+	"quotes": [
+	  {
+	    "text": "If the SNP wins on Thursday, it would have the moral authority to push for independence.",
+	    "source": "Alex Salmond, BBC News, 19 April",
+	    "date": "19 April"
+	  }
+	],
+	"campaignMaterial": {
+	  "images": [
+		{
+		  "caption": ""
+		}
+	  ]
+	},
+	"additionalNotes": "The leaflet advocates against voting SNP and stresses the risk of Scottish independence as a main issue."
+  }
+}

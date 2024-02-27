@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "Nigel Farage",
+        "constituency": "",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Thank You Message",
+                "content": "Thanks for your support, from UKIP and Nigel Farage"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Nigel Farage",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nigel Farage smiling outside a polling station"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet is a thank you message post-election and does not contain detailed policy information or other campaign specifics."
+    }
+}

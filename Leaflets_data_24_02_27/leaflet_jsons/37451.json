@@ -1,0 +1,82 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Plaid Cymru",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Connecting Wales",
+                "policyDescription": "Plaid will improve mobile signal, broadband, and wi-fi access, ensuring that this region stays connected."
+            },
+            {
+                "policyTitle": "Every Child Counts",
+                "policyDescription": "Plaid will make sure that children leaving primary school are able to read, write and count to the expected standards."
+            },
+            {
+                "policyTitle": "Build4Wales & Business Bonus",
+                "policyDescription": "Ensuring the economy of Mid and West Wales recovers and grows."
+            },
+            {
+                "policyTitle": "Doctors and Dentists",
+                "policyDescription": "Ensuring quick and effective healthcare in our community, and a new focus on preventative healthcare."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Plaid will make sure that children leaving primary school are able to read, write and count to the expected standards.",
+            "environment": "",
+            "governance": "",
+            "health": "Ensuring quick and effective healthcare in our community, and a new focus on preventative healthcare.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Connecting Wales image shows a woman using a laptop, suggesting improved connectivity."
+                },
+                {
+                    "caption": "Every Child Counts image shows children learning, emphasizing education."
+                },
+                {
+                    "caption": "Build4Wales & Business Bonus image depicts a man working, indicating economic growth."
+                },
+                {
+                    "caption": "Doctors and Dentists image shows healthcare professionals, highlighting healthcare services."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet focuses on providing four positive reasons to back Plaid Cymru, with emphasis on connectivity, education, economic growth, and healthcare."
+    }
+}

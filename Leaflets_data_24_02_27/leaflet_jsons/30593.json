@@ -1,0 +1,65 @@
+{
+    "leaflet": {
+        "candidateName": "Kenneth Clarke",
+        "constituency": "Rushcliffe",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "YOUR CHOICE AT THIS ELECTION:",
+                "content": "STRONG, STABLE LEADERSHIP IN THE NATIONAL INTEREST or A COALITION OF CHAOS WITH JEREMY CORBYN"
+            },
+            {
+                "title": "STANDING WITH THERESA MAY",
+                "content": "Think Jeremy Corbyn as Prime Minister is never going to happen? DON'T BE SO SURE. SHOCK WIN: PRESIDENT TRUMP, SHOCK WIN: BREXIT-EUROPE LEAVE VOTE, SHOCK WIN: CORBYN WAS 200-1 OUTSIDER"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Kenneth Clarke",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Think Jeremy Corbyn as Prime Minister is never going to happen? DON'T BE SO SURE."
+        },
+        "issues": {
+            "brexitEurope": "SHOCK WIN: BREXIT-EUROPE LEAVE VOTE",
+            "economy": "THE RISK IS JUST TOO BIG TO TAKE: HIGHER DEBT, HIGHER TAXES, ECONOMIC CHAOS",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "42 WILFRED GROVE, NG2 7QD",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Kenneth Clarke with Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet emphasizes the comparison between a 'strong, stable leadership' with Theresa May and a 'coalition of chaos with Jeremy Corbyn', suggesting a strategic emphasis on leadership stability over specific policy positions. Historical voting surprises are used to suggest the possibility of unexpected outcomes."
+    }
+}

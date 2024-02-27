@@ -1,0 +1,81 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Scottish Labour",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "A PLAN TO PROTECT OUR NHS",
+    	"content": "- 1,000 more nurses\n- Reduce cancer waiting times\n- £100m Frontline Fund targeting A&E"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Health",
+    	"policyDescription": "A plan to protect our NHS, including hiring 1,000 more nurses, reducing cancer waiting times, and establishing a £100m Frontline Fund targeting A&E departments."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Tories",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "A plan to protect our NHS, including hiring 1,000 more nurses, reducing cancer waiting times, and establishing a £100m Frontline Fund targeting A&E departments.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "scottishlabour.org.uk/weloveournhs",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Suzanne, Clackmannanshire",
+    	"endorsement": "Our NHS needs real change. I'll be voting Scottish Labour on 7 May because they're the only party who can get rid of the Tories and pull our NHS back from the brink."
+  	},
+  	{
+    	"endorser": "Pauline, Lenzie",
+    	"endorsement": "I'm supporting Scottish Labour because I know they will invest in and protect our NHS and the frontline services my family relies on."
+  	}
+	],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "A PLAN TO PROTECT OUR NHS"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

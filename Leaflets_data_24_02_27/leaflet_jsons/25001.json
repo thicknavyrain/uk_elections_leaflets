@@ -1,0 +1,80 @@
+{
+    "leaflet": {
+        "candidateName": "Steve McCabe",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Work for jobs, apprenticeships, business",
+                "policyDescription": "I will work to bring jobs, businesses and apprenticeships. Every new development, such as the Battery site, must mean jobs for local people."
+            },
+            {
+                "policyTitle": "Fight for local NHS services",
+                "policyDescription": "I will stand up for our NHS. Save Katie Road. Fight for funding for the QE. Protect our GP services."
+            },
+            {
+                "policyTitle": "Support local schools",
+                "policyDescription": "I will support local schools, respect teachers and put rising standards and opportunities for our children before dogma."
+            },
+            {
+                "policyTitle": "Work with police to tackle crime and anti-social behaviour",
+                "policyDescription": "I will focus on anti-social behaviour and new offences like online crime. Oppose further cuts to police."
+            },
+            {
+                "policyTitle": "More houses",
+                "policyDescription": "I will work for family homes and to protect our neighbourhoods. Local people need affordable homes to rent and buy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Steve McCabe",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "I will work for family homes and to protect our neighbourhoods. Local people need affordable homes to rent and buy.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07935 873997",
+            "email": "",
+            "website": "www.stevemccabe.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Steve McCabe's photo"
+                },
+                {
+                    "caption": "Brigid Jones's photo"
+                }
+            ]
+        },
+        "additionalNotes": "Promoted by Christine Wilkinson on behalf of Steve McCabe and Brigid Jones at [address]. Printed by A. McLay and Company Ltd., Longwood Drive, Forest Farm, Cardiff CF14 7ZB."
+    }
+}

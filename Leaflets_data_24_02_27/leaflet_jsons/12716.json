@@ -1,0 +1,75 @@
+{
+    "leaflet": {
+        "candidateName": "Simon Grover",
+        "constituency": "St Albans",
+        "politicalParty": "Green Party",
+        "electionDate": "May 6th",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Safeguard the NHS and public services",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Economic crisis",
+                "policyDescription": "Tackle the economic crisis with a new financial deal"
+            },
+            {
+                "policyTitle": "Jobs",
+                "policyDescription": "Create a million new UK jobs"
+            }
+        ],
+        "mentions": {
+            "candidate": "Simon Grover",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Tackle the economic crisis with a new financial deal",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Safeguard the NHS and public services",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "councillor",
+                "duration": "",
+                "achievements": "Elect an energetic, enthusiastic and committed councillor."
+            }
+        ],
+        "contactInformation": {
+            "address": "39 Waverley Road, St Albans AL3 5JR",
+            "phone": "",
+            "email": "",
+            "website": "sagreens.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote Green on May 6th"
+                }
+            ]
+        },
+        "additionalNotes": "Watch Simon in action youtube.com/GreenStAlbans"
+    }
+}

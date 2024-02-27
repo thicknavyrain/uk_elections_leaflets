@@ -1,0 +1,73 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Nurses",
+        "policyDescription": "Labour will recruit 20,000 more nurses. FACT: Over half of nurses now say that the ward is dangerously understaffed. The Tories have caused the worst A&E crisis on record."
+      },
+      {
+        "policyTitle": "NHS GPs",
+        "policyDescription": "Labour will recruit 8,000 more GPs and guarantee a GP appointment within 48 hours. FACT: One in four patients now waits a week or more to see a GP, or doesn't get a GP appointment at all."
+      },
+      {
+        "policyTitle": "Cancer Tests",
+        "policyDescription": "Labour will guarantee cancer tests and results within one week. FACT: 20,000 patients waited longer than two months to start urgent cancer treatment in the last year."
+      },
+      {
+        "policyTitle": "Financial Plan",
+        "policyDescription": "None of Labour's plans require extra borrowing. FACT: Labour will fund these commitments through a mansion tax on properties over £2 million, a clamp-down on tax avoidance, and a levy on tobacco firms."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "NHS crisis, recruitment of more nurses, GPs, and guarantee of cancer tests and results within one week.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour campaign leaflet with key policies on recruiting more NHS nurses and GPs, guaranteeing cancer test results within one week, and financial plans without extra borrowing."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

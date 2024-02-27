@@ -1,0 +1,87 @@
+{
+    "leaflet": {
+        "candidateName": "John Wilkinson",
+        "constituency": "Wentworth and Dearne",
+        "politicalParty": "UK Independence Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Straight talking.",
+                "content": "Common sense has left the political scene. The economy is in turmoil yet Gordon Brown still gives billions of pounds we haven't got to the EU, the carbon trading scam and as subsidies to inefficient wind farms. The fact is Cameron and Clegg would do the same. With the Lib/Lab/Con we will stay in the EU. With the lies and deceit of our MPs how can we trust them to right the wrong? It is time to kick them out. If elected I would happily work for half a current MP's pay. It's time to vote out the lunatics."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Energy Policy",
+                "policyDescription": "Promote a common sense energy policy."
+            },
+            {
+                "policyTitle": "Housing Policy",
+                "policyDescription": "Stop building on our green belt wherever possible."
+            }
+        ],
+        "mentions": {
+            "candidate": "John Wilkinson",
+            "otherPartyLeaderCandidate": "Gordon Brown, Cameron, Clegg",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The document states opposition to giving billions of pounds to the EU, implying a Eurosceptic stance, but does not explicitly mention Brexit as it was likely produced before the referendum was announced.",
+            "economy": "The leaflet criticizes the economic policy of giving billions to the EU and describes the economy as in turmoil.",
+            "education": "",
+            "environment": "Mentions subsidies to inefficient wind farms as part of a carbon trading scam.",
+            "governance": "Refers to 'lies and deceit of our MPs' and suggests distrust in current MPs.",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Stop building on our green belt wherever possible.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "UK Independence Party, PO Box 408, Newton Abbot TQ12 9BG.",
+            "phone": "0800 587 6 587",
+            "email": "",
+            "website": "ukip.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "John Wilkinson's portrait."
+                }
+            ]
+        },
+        "additionalNotes": "Includes a coupon for engagement such as delivering leaflets, displaying a poster, and requesting more information."
+    }
+}

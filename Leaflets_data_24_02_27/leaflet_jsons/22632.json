@@ -1,0 +1,70 @@
+{
+    "leaflet": {
+        "candidateName": "Paul Bessant",
+        "constituency": "Leicester West",
+        "politicalParty": "Conservatives",
+        "electionDate": "7th May",
+        "messages": [
+            {
+                "title": "Competent leadership",
+                "content": "Job total hits record high while wages surge. Benefits cap 'leads more into work'. Tax cuts for workers and savers."
+            },
+            {
+                "title": "Coalition of Chaos",
+                "content": "Labour plan to borrow risks \u00a3170bn extra debt. We'll have to 'cut less' and 'borrow more' to fund a Labour and Scottish National Alliance. Bosses queue up to warn: Miliband will bankrupt Britain."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Job totals hitting record highs, wage surges, benefits cap leading more into work, tax cuts for workers and savers, reducing the deficit, income tax cut, more jobs, new businesses."
+            }
+        ],
+        "mentions": {
+            "candidate": "Paul Bessant",
+            "otherPartyLeaderCandidate": "Miliband",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Reducing the deficit, income tax cut, more jobs, new businesses.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "Benefits cap 'leads more into work'.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Paul Bessant promises a strong voice for Leicester West and to never take support for granted.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Conservatives, 32 Clarendon Park Road, Leicester, LE2 3AD",
+            "phone": "",
+            "email": "",
+            "website": "www.leicesterconservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Candidate Paul Bessant's photo and campaign pledges."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet contrasts 'Competent leadership' with 'Coalition of Chaos'. It suggests that under the Conservatives' leadership, there has been economic growth, tax cuts, and job creation, whereas Labour's plans involve borrowing and potential economic risk."
+    }
+}

@@ -1,0 +1,99 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Manifesto 2015",
+        "content": "Stronger Economy. Fairer Society. Opportunity for Everyone."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Prosperity for all",
+        "policyDescription": "Balance the budget fairly and invest to build a high-skill, low-carbon economy."
+      },
+      {
+        "policyTitle": "Fair taxes",
+        "policyDescription": "Cut your taxes by an additional £400 by raising the Personal Allowance to £12,500."
+      },
+      {
+        "policyTitle": "Our environment protected",
+        "policyDescription": "Protect nature and fight climate change with five green laws."
+      },
+      {
+        "policyTitle": "Opportunity for every child",
+        "policyDescription": "Guarantee education funding from nursery to 19 and qualified teachers in every class."
+      },
+      {
+        "policyTitle": "Quality health care for all",
+        "policyDescription": "Invest £8 billion to improve our NHS and guarantee equal care for mental health."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Protect nature and fight climate change with five green laws.",
+      "governance": "",
+      "health": "Invest £8 billion to improve our NHS and guarantee equal care for mental health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Manifesto 2015 - Liberal Democrats"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

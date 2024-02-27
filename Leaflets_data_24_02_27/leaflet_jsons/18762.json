@@ -1,0 +1,107 @@
+{
+  "leaflet": {
+    "candidateName": "Bob Rudd",
+    "constituency": "Garden Quarter",
+    "politicalParty": "Labour",
+    "electionDate": "7th May",
+    "messages": [
+      {
+        "title": "Working Hard",
+        "content": "Bob Rudd is working hard in the Garden Quarter."
+      },
+      {
+        "title": "My pledge to you",
+        "content": "A Labour council will introduce the Cheshire West Street Care Pledge to look after our environment, reduce litter and promote recycling."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Policing, crime, and safety",
+        "policyDescription": "Will abolish Police and Crime Commissioners and introduce a new position of Commissioner that gives a policing commitment to local people."
+      },
+      {
+        "policyTitle": "More money in your pocket",
+        "policyDescription": "Will freeze energy prices until 2017 and introduce a new and fair tax system."
+      },
+      {
+        "policyTitle": "Local planning/regeneration",
+        "policyDescription": "Proposes measures to progress local planning and to regenerate the city centre and other areas that are important community assets."
+      },
+      {
+        "policyTitle": "Protecting our environment",
+        "policyDescription": "Will not allow the culling of badgers and will protect the environment by halting development on green landscapes."
+      },
+      {
+        "policyTitle": "Giving young people the best start in life",
+        "policyDescription": "Will support all schools to maintain or achieve Outstanding Ofsted reports and ensure teachers are qualified."
+      },
+      {
+        "policyTitle": "Four ways to end the housing crisis",
+        "policyDescription": "Will scrap the 'bedroom tax' and build 200,000 homes per year."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Will repeal the Health and Social Care Act and provide GP services within 48 hours.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Will scrap the 'bedroom tax' and build 200,000 homes per year.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "cheshirewestlabour.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@CWCouncillor",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

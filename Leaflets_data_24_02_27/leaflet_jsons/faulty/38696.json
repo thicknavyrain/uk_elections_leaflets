@@ -1,0 +1,46 @@
+{
+  "leaflet": {
+    "candidateName": "Cat Smith",
+    "constituency": "Lancaster and Fleetwood",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "Election Communication",
+        "content": "Our local communities need real change. Only a Labour government can deliver for Lancaster and Fleetwood."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Cat Smith"
+    },
+    "issues": {},
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "50 Lord St, Fleetwood, FY7 6DT",
+      "phone": "",
+      "email": "cat.smith.mp@parliament.uk",
+      "website": "www.catsmith.co.uk",
+      "socialMedia": {
+        "facebook": "facebook.com/catsmithmp",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cat Smith sitting in the House of Commons"
+        },
+        {
+          "caption": "Cat Smith standing outdoors smiling"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

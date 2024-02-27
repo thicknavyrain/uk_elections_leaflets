@@ -1,0 +1,81 @@
+{
+    "leaflet": {
+        "candidateName": "Dan Costello",
+        "constituency": "Ashton-under-Lyne",
+        "politicalParty": "Conservatives",
+        "electionDate": "12th December",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Getting Brexit Done",
+                "policyDescription": "Respects the vote and aims to finally get on with the mutually important priorities."
+            },
+            {
+                "policyTitle": "Investing in our NHS",
+                "policyDescription": "Promises an extra \u00a333.9 billion a year into NHS, with \u00a316 million already promised to upgrade Tameside Hospital."
+            },
+            {
+                "policyTitle": "Hiring 20,000 new police officers",
+                "policyDescription": "Plans for 347 extra police officers for Greater Manchester Police to keep streets safe."
+            },
+            {
+                "policyTitle": "More funding for every school pupil",
+                "policyDescription": "Aims to give children a better start in life by increasing the funding per pupil in every school."
+            },
+            {
+                "policyTitle": "Supporting working families",
+                "policyDescription": "Pledges benefit from an increase to the Living Wage to \u00a310.50 an hour and giving the lowest paid a pay rise."
+            },
+            {
+                "policyTitle": "Increasing GP numbers",
+                "policyDescription": "Wants to create 50 million extra appointments and hire 6,000 extra GPs and nurses."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dan Costello",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Getting Brexit Done",
+            "economy": "Supporting working families",
+            "education": "More funding for every school pupil",
+            "environment": "",
+            "governance": "",
+            "health": "Investing in our NHS",
+            "immigration": "",
+            "socialWelfare": "Supporting working families",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "Leaflet provides an overview of key policies and commitment; detailed positions on issues like environment and governance are not specified."
+    }
+}

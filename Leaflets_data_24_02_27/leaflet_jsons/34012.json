@@ -1,0 +1,86 @@
+{
+  "leaflet": {
+    "candidateName": "Isabel Thurston",
+    "constituency": "Arundel and South Downs",
+    "politicalParty": "Green Party",
+    "electionDate": "European Election 23rd May 2019",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Supporting a People's Vote and campaigning to Remain in the EU"
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Fighting pollution and climate chaos, and protecting the countryside"
+      },
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Championing public transport and clean energy vehicles"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Making corporations pay their fair share of taxes"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Emergency program of affordable, zero-carbon homes"
+      }
+    ],
+    "mentions": {
+      "candidate": "Isabel Thurston",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Supporting a People's Vote and campaigning to Remain in the EU",
+      "economy": "Making corporations pay their fair share of taxes",
+      "education": "",
+      "environment": "Fighting pollution and climate chaos, and protecting the countryside",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Emergency program of affordable, zero-carbon homes",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Isabel Thurston with Green Party member in a town setting"
+        },
+        {
+          "caption": "Isabel Thurston sitting on a bench in a natural setting"
+        }
+      ]
+    },
+    "additionalNotes": "Vote Green Party to say YES to Europe and NO to climate chaos"
+  }
+}

@@ -1,0 +1,99 @@
+{
+    "leaflet": {
+        "candidateName": "Simon Marcus",
+        "constituency": "Hampstead & Kilburn",
+        "politicalParty": "Conservative",
+        "electionDate": "7th May",
+        "messages": [
+            {
+                "title": "What I am fighting for...",
+                "content": "- The best healthcare for your family\n- To boost schools for our children\n- More jobs and independent shops\n- More police on the streets\n- Cleaner streets and less pollution"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "The best healthcare for your family"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "To boost schools for our children"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "More jobs and independent shops"
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "More police on the streets"
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Cleaner streets and less pollution"
+            }
+        ],
+        "mentions": {
+            "candidate": "Simon Marcus",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "1 Heath Hurst Road, NW3 2RU",
+            "phone": "0208 458 7998",
+            "email": "simon@simonmarcus.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "SimonMarcus",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Simon Marcus engaging with a constituent"
+                }
+            ]
+        },
+        "additionalNotes": "7th May is Polling Day"
+    }
+}

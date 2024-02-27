@@ -1,0 +1,69 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Scottish Liberal Democrats",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop another divisive independence referendum",
+                "policyDescription": "The party aims to prevent another referendum on Scottish independence."
+            },
+            {
+                "policyTitle": "Oppose the Conservatives' damaging hard Brexit",
+                "policyDescription": "The party opposes the hard Brexit approach taken by the Conservative Party."
+            },
+            {
+                "policyTitle": "Invest in Scottish education and mental health",
+                "policyDescription": "The party commits to investing in the improvement of Scottish education and mental health services."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Oppose the Conservatives' damaging hard Brexit",
+            "economy": "",
+            "education": "Invest in Scottish education",
+            "environment": "",
+            "governance": "Stop another divisive independence referendum",
+            "health": "Invest in mental health",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.libdems.scot/commit",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Group photo of Scottish Liberal Democrats members with campaign signs"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

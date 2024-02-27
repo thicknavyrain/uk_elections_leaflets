@@ -1,0 +1,90 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Tariq Mahmood",
+        "constituency": "Ealing Southall",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "12th December 2019",
+        "messages": [
+            {
+                "title": "NHS",
+                "content": "As an NHS consultant I will always fight for the NHS and try to Save Ealing Hospital Services."
+            },
+            {
+                "title": "Brexit",
+                "content": "I am Opposed to Brexit and will campaign to remain in the European Union."
+            },
+            {
+                "title": "Local Issues",
+                "content": "I will work tirelessly to improve the Housing Crisis, Knife Crime and Air Quality issues that have been neglected previously."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Committed to fighting for the NHS and saving Ealing Hospital Services."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Opposes Brexit and campaigns for the UK to remain in the European Union."
+            },
+            {
+                "policyTitle": "Housing Crisis",
+                "policyDescription": "Aims to address housing issues."
+            },
+            {
+                "policyTitle": "Knife Crime",
+                "policyDescription": "Plans to work on reducing knife crime."
+            },
+            {
+                "policyTitle": "Air Quality",
+                "policyDescription": "Wants to improve air quality issues."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Tariq Mahmood",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "I am Opposed to Brexit and will campaign to remain in the European Union.",
+            "economy": "",
+            "education": "",
+            "environment": "I will work tirelessly to improve the ... Air Quality issues that have been neglected previously.",
+            "governance": "",
+            "health": "As an NHS consultant I will always fight for the NHS and try to Save Ealing Hospital Services.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "I will work tirelessly to improve the Housing Crisis ... that have been neglected previously.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "libdems.org/join-local",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Photographs showcasing local engagement and campaign efforts."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet includes text in multiple languages, indicating a focus on a diverse electorate."
+    }
+}

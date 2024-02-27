@@ -1,0 +1,82 @@
+{
+    "leaflet": {
+        "candidateName": "Cat Smith",
+        "constituency": "Lancaster",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "Re-elect Cat Smith",
+                "content": "Your local voice in Parliament"
+            },
+            {
+                "title": "A fairer future for Lancaster",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Cat Smith is an active MP here in Lancaster - always speaking up for us in Parliament too!",
+            "otherPartyLeaderCandidate": "It's Lancaster's Cat Smith or the Tory who doesn't even live here",
+            "partyLeader": "",
+            "tacticalSituation": "2017 General Election result in Lancaster and Fleetwood"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "In the last four years Cat has personally responded to 28,500 people getting in touch.",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "last four years",
+                "achievements": "responded to 28,500 people getting in touch, including meeting with more than 1,000 constituents at her weekly advice surgeries. Spoken in more debates than any other MP in our area proving she is an active and busy MP standing up for us. In the last year alone she has spoken in 53 debates and asked 86 written questions, ranking as 'above average' amongst all MPs according to TheyWorkForYou.com."
+            }
+        ],
+        "contactInformation": {
+            "address": "our campaign HQ at 47 Scotforth Road, LA1 4SA.",
+            "phone": "01524 566 570",
+            "email": "cat@catsmith.co.uk",
+            "website": "www.lancasterandfleetwoodlabour.org",
+            "socialMedia": {
+                "facebook": "facebook.com/CatSmithMP",
+                "twitter": "twitter.com/catsmithmp",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Lisa Corkerry, Director of a local social enterprise",
+                "endorsement": "Lancaster and Fleetwood have been lucky to have Cat Smith fighting their corner since 2015. She is approachable, empathetic and remains true to her values and roots, fighting for local issues with tenacity and determination. I'm backing Cat because I want to see her continue the great work she has already done in supporting us all."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Re-elect Cat Smith - Your local voice in Parliament"
+                },
+                {
+                    "caption": "It's Lancaster's Cat Smith or the Tory who doesn't even live here"
+                },
+                {
+                    "caption": "2017 General Election result in Lancaster and Fleetwood"
+                }
+            ]
+        },
+        "additionalNotes": "Labour's campaign is powered by ordinary people coming together to deliver leaflets or talk to their neighbours. If you'd like to get involved or find out more, please visit www.lancasterandfleetwoodlabour.org"
+    }
+}

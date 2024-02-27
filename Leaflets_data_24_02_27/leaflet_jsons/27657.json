@@ -1,0 +1,107 @@
+{
+    "leaflet": {
+        "candidateName": "George Smid",
+        "constituency": "Northampton North",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday June 8th 2017",
+        "messages": [
+            {
+                "title": "Standing up for the NHS",
+                "content": "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds that it needs."
+            },
+            {
+                "title": "Opposing School Cuts",
+                "content": "Local schools are under serious threat from a Conservative Government. Schools in Northamptonshire are set to lose more than \u00a340 million from their budgets."
+            },
+            {
+                "title": "People to decide on BREXIT",
+                "content": "Theresa May is planning a hard BREXIT which will threaten the economy and jobs. Every vote for the Liberal Democrats is a vote to give the final say to the British people not the politicians."
+            },
+            {
+                "title": "A Greener, enterprise economy",
+                "content": "We would kickstart our economy by pushing for proper lifelong learning, more apprenticeships, more support for small businesses & a return of subsidies for going green, supporting green jobs."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Additional investment in health and care services."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Oppose cuts to local school budgets, protect schools from losing \u00a340 million."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Fight against a hard Brexit, allowing the final say to be with the British people."
+            },
+            {
+                "policyTitle": "Economy and Environment",
+                "policyDescription": "Push for lifelong learning, apprenticeships, and support for small businesses. Return of subsidies for going green and supporting green jobs."
+            }
+        ],
+        "mentions": {
+            "candidate": "George Smid",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Theresa May is planning a hard BREXIT which will threaten the economy and jobs.",
+            "economy": "We would kickstart our economy by pushing for proper lifelong learning, more apprenticeships, more support for small businesses & a return of subsidies for going green, supporting green jobs.",
+            "education": "Schools in Northamptonshire are set to lose more than \u00a340 million from their budgets.",
+            "environment": "Return of subsidies for going green, supporting green jobs.",
+            "governance": "",
+            "health": "Additional investment in health and care services.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01604 72242",
+            "email": "georgesmid@northamptonlibdems.org.uk",
+            "website": "www.northamptonlibdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "northamptonlds",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "George Smid at Northampton General Hospital"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

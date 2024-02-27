@@ -1,0 +1,99 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Crime Scene",
+                "content": "Over a million violent crimes were committed last year. This is in addition to nearly 4 million incidents of anti-social behaviour reported to police. There are over a hundred serious knife offences every day. Yet police officers spend more time on paperwork than on patrol."
+            },
+            {
+                "title": "Prisoner Release",
+                "content": "In the past two years, 75,000 prisoners have been released early to ease prison overcrowding."
+            },
+            {
+                "title": "Youth Crime",
+                "content": "Seven thousand crimes were committed last year by young offenders who had been in and out of prison three times - before the age of 18."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Crime Rate",
+                "policyDescription": "Addressing the issue of a million violent crimes and antisocial behaviour with a focus on the number of serious knife offences and the workload of police officers."
+            },
+            {
+                "policyTitle": "Prison Overcrowding",
+                "policyDescription": "Concern regarding the release of 75,000 prisoners early due to overcrowding."
+            },
+            {
+                "policyTitle": "Youth Crime",
+                "policyDescription": "Focusing on the problem of recidivism among young offenders."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "WE CAN'T GO ON LIKE THIS..."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

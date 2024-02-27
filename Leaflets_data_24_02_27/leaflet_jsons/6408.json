@@ -1,0 +1,78 @@
+{
+    "leaflet": {
+        "candidateName": "George Osborne",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "6th May",
+        "messages": [
+            {
+                "title": "26th March 2010",
+                "content": "Dear Elector, There are only a few weeks to go until the general election. I am writing to you because if the Conservatives win that election, David Cameron has asked me to be Chancellor of the Exchequer..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Restore the economy growing again. It is growth that will do most to get our economy moving. It is only with an economy in growth that we can raise the national income to restore hope to the jobless..."
+            }
+        ],
+        "mentions": {
+            "candidate": "George Osborne",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Restore the economy growing again.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "First, we have to get rid of wasteful government programs that ordinary taxpayers never asked for. Those need to be carried out, especially the local council and home front.",
+        "politicalExperience": [
+            {
+                "role": "Shadow Chancellor of the Exchequer",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Conservative Party, 30 Millbank, London SW1P 4DP",
+            "phone": "0845 850 2020",
+            "email": "",
+            "website": "www.conservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "It is growth that will do most to get our economy moving. It is only with an economy in growth that we can raise the national income to restore hope to the jobless that we will all have more money in our pockets.",
+                "source": "George Osborne - policy on economy",
+                "date": "26th March 2010"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of the campaign leaflet."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet includes a survey with questions for the reader to select which Conservative economic plans they support, other issues the government should deal with, and which party they intend to vote for in the general election."
+    }
+}

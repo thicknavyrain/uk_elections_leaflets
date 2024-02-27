@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Tax: will you be a winner?",
+                "content": "The Conservative election campaign is mostly paid for by super rich individuals."
+            },
+            {
+                "title": "The green road to more jobs",
+                "content": "Nick Clegg\u2019s Liberal Democrats have unveiled an exciting plan to get Britain working again."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fair taxes at last",
+                "policyDescription": "Lib Dems Nick Clegg and Vince Cable want to make taxes fairer. By making the very rich pay more, we can cut taxes for ordinary families. The Lib Dem tax plan would mean 10 million will pay no tax at all, and a \u00a3700 tax cut for most people."
+            },
+            {
+                "policyTitle": "The green road to more jobs",
+                "policyDescription": "By making Britain a world leader in renewable energy and investing in public transport and more efficient homes, we can create jobs while protecting our environment."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "David Cameron, Gordon Brown",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "Nick Clegg\u2019s Liberal Democrats have unveiled an exciting plan to get Britain working again. Tackling climate change at the Glastonbury Festival.",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nick Clegg visiting an offshore wind farm and discussing climate change at the Glastonbury Festival."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Scottish Conservative and Unionist",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "On Thursday, you will decide whether or not there is another independence referendum. There's only one way to stop it."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Preventing another independence referendum",
+                "policyDescription": "The leaflet emphasizes the importance of voting against another independence referendum."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon, Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "10 DAYS TO SAVE UNION"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "SNP election win would be 'instructive' for indyref2, says Sturgeon",
+                "source": "Scotsman, Nov 2019"
+            },
+            {
+                "text": "Labour last night declared it would not block a second Scottish independence referendum.",
+                "source": "Daily Mail, Aug 28 2019"
+            },
+            {
+                "text": "Corbyn could back new indyref 'as early as 2021'",
+                "source": "Scotsman, Oct 2019"
+            },
+            {
+                "text": "Nicola Sturgeon will back Jeremy Corbyn if he agrees to Scottish referendum",
+                "source": "The Metro, 9 Nov 2019"
+            },
+            {
+                "text": "DON'T LET SCOTLAND SLEEPWALK INTO INDYREF2",
+                "source": "Scottish Daily Mail, 2 Dec 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Campaign leaflet focusing on preventing another independence referendum."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

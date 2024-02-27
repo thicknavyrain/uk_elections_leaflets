@@ -1,0 +1,73 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "UKIP will scrap HS2, oppose tolls on public roads and renew existing contracts for running bus and rail services."
+            },
+            {
+                "policyTitle": "Housing and planning",
+                "policyDescription": "UKIP will protect the Green Belt, change planning rules in the NPPF, ensure houses on brownfield sites are exempt from Stamp Duty and set a target to develop properties outside the Green Belt."
+            },
+            {
+                "policyTitle": "Democracy and the Constitution",
+                "policyDescription": "UKIP will move towards the elimination of MPs from dual nations voting on English-only issues, propose the recall of MPs, and introduce the Citizens' Initiative to allow petition to initiate national referenda on issues of major public interest."
+            },
+            {
+                "policyTitle": "Law and Order",
+                "policyDescription": "UKIP will withdraw from the jurisdiction of the European Court of Human Rights and introduce a new British Bill of Rights."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "UKIP will withdraw from the EU, oppose the entry of Turkey into the EU and review all legislation and regulations coming from the EU.",
+            "economy": "UKIP proposes an increase of the personal allowance for income tax, a simplified tax system by merging National Insurance and Income Tax, and a promise to leave the EU to save at least \u00a38bn per annum in contributions.",
+            "education": "UKIP targets a 50% of school leavers going to University, enhancing vocational education and restoring grammar school selection.",
+            "environment": "UKIP will repeal the Climate Change Act 2008, support the development of shale gas, and oppose subsidies for wind turbines.",
+            "governance": "",
+            "health": "UKIP plans to spend an extra \u00a3200m on the NHS and ensure foreign health service professionals coming to work in the NHS are properly qualified and can speak English.",
+            "immigration": "UKIP supports a controlled immigration policy, leaving the EU to take back control of UK borders and stop foreign criminals entering the UK.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Planning permission for large-scale developments to be decided by a binding referendum of the local people in the affected area, Houses on brownfield sites to be exempt from Stamp Duty, and planning for brownfield sites to be developed outside the Green Belt.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Policies for People"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet outlines UKIP's commitment to various policy areas including transport, housing, democracy, law, and other national issues. The emphasis is on protecting British identity, controlling immigration, and leaving the European Union."
+    }
+}

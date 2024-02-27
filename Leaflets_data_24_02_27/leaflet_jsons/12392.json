@@ -1,0 +1,96 @@
+{
+    "leaflet": {
+        "candidateName": "David Cameron",
+        "constituency": "Harrogate",
+        "politicalParty": "Conservative Party",
+        "electionDate": "6th May",
+        "messages": [
+            {
+                "title": "Dear Electors",
+                "content": "At the start of this election campaign we were faced with a simple choice: change, or more of the same. But things have moved on. One way or another, the result of this election is going to mean change for Britain. The question is, what kind of change do we want?"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tackling benefit fraud",
+                "policyDescription": "Reform the welfare system to combat benefit fraud."
+            },
+            {
+                "policyTitle": "Funding for the NHS",
+                "policyDescription": "Increase funding for the NHS every year."
+            },
+            {
+                "policyTitle": "Stopping unlimited immigration",
+                "policyDescription": "Stop unlimited immigration by imposing an annual limit on the number of non-EU economic migrants."
+            },
+            {
+                "policyTitle": "Border Police Force",
+                "policyDescription": "Setting up a proper Border Police Force."
+            },
+            {
+                "policyTitle": "State pension",
+                "policyDescription": "Increase the basic state pension and restore the link to earnings."
+            },
+            {
+                "policyTitle": "Cutting the number of MPs",
+                "policyDescription": "Cut the number of MPs by 10%."
+            },
+            {
+                "policyTitle": "Cutting Ministers\u2019 pay",
+                "policyDescription": "Cut Ministers' pay and let people see clearly how the government spends their money."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "",
+            "tacticalSituation": "The tactical situation mentioned is the choice between a hung parliament with years of Gordon Brown as Prime Minister or a decisive Conservative victory."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "A hung parliament could mean a huge setback for our economy.",
+            "education": "",
+            "environment": "",
+            "governance": "Governance issues include addressing broken promises and the distance between voters' everyday lives and politicians, as well as letting people kick out their MP before an election.",
+            "health": "Increase funding for the NHS every year.",
+            "immigration": "Imposing an annual limit on the number of non-EU economic migrants and setting up a proper Border Police Force.",
+            "socialWelfare": "Tackle benefit fraud and reform the welfare system.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I think Britain needs a strong government with the energy, leadership and values to put the country back on its feet and the economy moving. That kind of government, able to take decisive action to start sorting things out, can only come about with a clear election result.",
+        "politicalExperience": [
+            {
+                "role": "Leader of the Conservative Party",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "30 Millbank, London SW1P 4DP",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Cameron, Leader of the Conservative Party"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

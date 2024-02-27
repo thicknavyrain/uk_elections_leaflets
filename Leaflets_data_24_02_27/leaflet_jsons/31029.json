@@ -1,0 +1,77 @@
+{
+  "leaflet": {
+    "candidateName": "Helen Hayes",
+    "constituency": "Dulwich and West Norwood",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "National Health Service",
+        "policyDescription": "Secure the future of our NHS and tackle the huge funding problems created by the Tories and Lib Dems at King's College Hospital"
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Oppose the Tories’ hard Brexit on behalf of residents from across the constituency, who voted overwhelmingly for Remain"
+      },
+      {
+        "policyTitle": "Education Funding",
+        "policyDescription": "Stop the Tories’ damaging plans for huge funding cuts to every school in our area - almost £1,000 per pupil"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build the genuinely affordable homes to rent and buy that we need and ensure a fair deal for private renters"
+      },
+      {
+        "policyTitle": "Air Pollution and Climate Change",
+        "policyDescription": "Tackle air pollution in London and across the UK and make Britain a world leader on climate change once again"
+      }
+    ],
+    "mentions": {
+      "candidate": "Helen Hayes",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Oppose the Tories’ hard Brexit on behalf of residents from across the constituency, who voted overwhelmingly for Remain",
+      "economy": "",
+      "education": "Stop the Tories’ damaging plans for huge funding cuts to every school in our area - almost £1,000 per pupil",
+      "environment": "Tackle air pollution in London and across the UK and make Britain a world leader on climate change once again",
+      "governance": "",
+      "health": "Secure the future of our NHS and tackle the huge funding problems created by the Tories and Lib Dems at King's College Hospital",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Build the genuinely affordable homes to rent and buy that we need and ensure a fair deal for private renters",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Helen Hayes, Labour candidate for Dulwich and West Norwood"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

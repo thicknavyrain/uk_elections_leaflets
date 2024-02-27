@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+	"candidateName": "Nick Clegg",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Britain needs change.",
+    	"content": "Gordon Brown’s Labour Government has failed us. Britain needs change. But in many parts of our country, there are no Labour MPs to vote out. Labour are in a poor and distant third place. The choice is between Liberal Democrats or Conservatives."
+  	}
+	],
+	"keyPolicies": [
+  	{
+		"policyTitle": "Tax Policy",
+		"policyDescription": "We will clean up politics - so that politicians work for you. We will cut waste so we can protect frontline public services. We’ll put money back in your pocket with our fairer tax plan."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Nick Clegg",
+  	"otherPartyLeaderCandidate": "Gordon Brown, David Cameron, Lord Ashcroft",
+  	"partyLeader": "",
+  	"tacticalSituation": "But in many parts of our country, there are no Labour MPs to vote out. Labour are in a poor and distant third place. The choice is between Liberal Democrats or Conservatives."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "People who are angry at whatever has happened to their local services and fear for their jobs.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "We will clean up politics - so that politicians work for you.",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Together we can change Britain for the better.",
+	"politicalExperience": [
+  	{
+    	"role": "Leader of the Liberal Democrats",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "4 Cowley Street, London, SW1P 3NB",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.LibDems.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Nick Clegg engaging with various people, including addressing children, talking with an elderly person, and speaking to an individual."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

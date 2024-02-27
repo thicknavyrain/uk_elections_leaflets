@@ -1,0 +1,82 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "Lord Ashcroft",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "The Tories have spent \u00a36million over two years...largely funded by... Lord Ashcroft.",
+            "education": "",
+            "environment": "",
+            "governance": "David Cameron was accused of allowing the Tories to be 'bought like a banana republic'",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "David Cameron was accused of allowing the Tories to be 'bought like a banana republic'",
+                "source": "FT, Mar 2010",
+                "date": "Mar 2010"
+            },
+            {
+                "text": "Ashcroft has pumped millions into the Tory Party",
+                "source": "BBC News, Mar 2010",
+                "date": "Mar 2010"
+            },
+            {
+                "text": "Tory tycoon Lord Ashcroft was accused of owing Britain \u00a3100million in taxes",
+                "source": "Evening Standard, Mar 2010",
+                "date": "Mar 2010"
+            },
+            {
+                "text": "Lord Ashcroft 'bought' 19 seats for Tories",
+                "source": "Daily Mirror, Mar 2010",
+                "date": "Mar 2010"
+            },
+            {
+                "text": "The Tories have spent \u00a36million over two years...largely funded by... Lord Ashcroft.",
+                "source": "The Independent, Mar 2010",
+                "date": "Mar 2010"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Bought and paid for by billionaires and bankers"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

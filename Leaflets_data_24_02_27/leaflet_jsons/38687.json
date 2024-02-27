@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Bristol East",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "",
+                "content": "WITHOUT THE BREXIT PARTY THERE CAN BE NO REAL BREXIT"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "WITHOUT THE BREXIT PARTY THERE CAN BE NO REAL BREXIT",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "83 Victoria Street, London SW1H 0HW.",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Election Communication Bristol East"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

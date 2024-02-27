@@ -1,0 +1,131 @@
+{
+  "leaflet": {
+	"candidateName": "John Appleby",
+	"constituency": "Tynemouth",
+	"politicalParty": "LD",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Remember when schools...",
+    	"content": "you didn't need a credit card to get your child a higher education"
+  	},
+	{
+    	"title": "You can refund your MP...",
+    	"content": "Recall of MPs they go wrong"
+  	},
+	{
+    	"title": "The Cameron lot decided...",
+    	"content": "A waste of money"
+  	},
+	{
+    	"title": "Stop our Council's...",
+    	"content": "Expensive Elected Mayor"
+  	},
+	{
+    	"title": "Communities must see...",
+    	"content": "prosperity of the economy split more fairly"
+  	},
+	{
+    	"title": "I support...in the Council",
+    	"content": "investment in youth services"
+  	},
+	{
+    	"title": "We can rebuild our...",
+    	"content": "We can rebuild our communities"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "you didn't need a credit card to get your child a higher education"
+  	},
+	{
+    	"policyTitle": "Governance",
+    	"policyDescription": "Recall of MPs they go wrong"
+  	},
+	{
+    	"policyTitle": "Waste of Money",
+    	"policyDescription": "A waste of money"
+  	},
+	{
+    	"policyTitle": "Stoping Expensive Elected Mayor",
+    	"policyDescription": "Expensive Elected Mayor"
+  	},
+	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "prosperity of the economy split more fairly"
+  	},
+	{
+    	"policyTitle": "Youth Services",
+    	"policyDescription": "investment in youth services"
+  	},
+	{
+    	"policyTitle": "Community Rebuilding",
+    	"policyDescription": "rebuild our communities"
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "prosperity of the economy split more fairly",
+  	"education": "you didn't need a credit card to get your child a higher education",
+  	"environment": "",
+  	"governance": "Recall of MPs they go wrong",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": "Image is difficult to read in parts due to pixelation and artifacts, leading to incomplete information."
+  }
+}

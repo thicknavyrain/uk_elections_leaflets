@@ -1,0 +1,82 @@
+{
+    "leaflet": {
+        "candidateName": "David Cameron",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "WE CAN'T GO ON LIKE THIS. IT'S TIME FOR CHANGE.",
+                "content": "The general election is just weeks away now. This is a big moment for Britain. It comes at a time when our economy is in deep trouble, we need to mend our broken society and rebuild trust in our political system. We can't go on like this; Britain needs change to get the country back on its feet - to heal the mistakes of the past and bring new ideas and energy for our future."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "We will protect spending on the NHS and improve it for everyone."
+            },
+            {
+                "policyTitle": "Families and Education",
+                "policyDescription": "We will stand up for families, sort out our schools and fight back against crime."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "We will cut the deficit. As every family knows, the longer you leave a debt problem, the worse it gets."
+            },
+            {
+                "policyTitle": "Society",
+                "policyDescription": "We will take action to restore responsibility to our society."
+            },
+            {
+                "policyTitle": "Politics",
+                "policyDescription": "We will act to rebuild trust in our politics and bring transparency to Parliament."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "We will cut the deficit. As every family knows, the longer you leave a debt problem, the worse it gets.",
+            "education": "We will stand up for families, sort out our schools and fight back against crime.",
+            "environment": "",
+            "governance": "We will act to rebuild trust in our politics and bring transparency to Parliament.",
+            "health": "We will protect spending on the NHS and improve it for everyone.",
+            "immigration": "",
+            "socialWelfare": "We will take action to restore responsibility to our society.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "This can be the year for change \u2013 and the Conservatives have the plans to make that a reality.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Cameron promising change."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

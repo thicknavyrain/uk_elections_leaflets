@@ -1,0 +1,81 @@
+{
+    "leaflet": {
+        "candidateName": "Nigel Sussman",
+        "constituency": "",
+        "politicalParty": "UKIP",
+        "electionDate": "7th May",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "EU Referendum",
+                "policyDescription": "Immediate in/out referendum on the EU"
+            },
+            {
+                "policyTitle": "Immigration Control",
+                "policyDescription": "Taking control of UK borders"
+            },
+            {
+                "policyTitle": "Foreign Aid Budget",
+                "policyDescription": "Cutting the Foreign Aid Budget and capping it against income"
+            },
+            {
+                "policyTitle": "Housing Costs",
+                "policyDescription": "Stopping the Mansion Tax to help control Housing costs"
+            },
+            {
+                "policyTitle": "Defence and NHS",
+                "policyDescription": "Bringing common sense to Defence and the NHS"
+            },
+            {
+                "policyTitle": "Economic Future",
+                "policyDescription": "Tackling the Deficit and the Debt to build a decent future for our children"
+            }
+        ],
+        "mentions": {
+            "candidate": "Vote for Nigel Sussman",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Immediate in/out referendum on the EU",
+            "economy": "Tackling the Deficit and the Debt to build a decent future for our children",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Bringing common sense to Defence and the NHS",
+            "immigration": "Taking control of UK borders",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Stopping the Mansion Tax to help control Housing costs",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "UKIP Westminster North, Suite 84, 464 Edgware Road, Maida Vale, London W2 1AH",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote for Nigel Sussman on 7th May!"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

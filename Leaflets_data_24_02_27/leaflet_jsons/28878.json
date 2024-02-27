@@ -1,0 +1,82 @@
+{
+    "leaflet": {
+        "candidateName": "Daniel Zeichner",
+        "constituency": "Cambridge",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "FIGHTING FOR CAMBRIDGE IN EUROPE",
+                "content": "As your MP, I've always argued for the closest possible relationship between the UK and the EU. As your MP, I've voted to remain in the EU - Labour's fighting for jobs."
+            },
+            {
+                "title": "SAVE OUR NHS",
+                "content": "I'm experienced; I secured the legislation to take back control over our local blood supply."
+            },
+            {
+                "title": "LIB DEMS BACK TRUMP'S BOMBS",
+                "content": "Two years ago he was voting alongside the Conservatives. He voted with the Tories 738 times. He argued MPs had the 'Lib Dem leader says it was the right thing to do'. Cheerfully he will cheerlead for Trump's latest bombing raids. They haven't learned."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Europe",
+                "policyDescription": "Daniel Zeichner fights for the closest possible relationship between the UK and the EU, voting to remain in the EU."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Secured legislation to take back control over local blood supply, demonstrating commitment to NHS."
+            },
+            {
+                "policyTitle": "Foreign Policy",
+                "policyDescription": "Criticizes Lib Dems for supporting Trump's military actions, indicating a different stance on military interventions."
+            }
+        ],
+        "mentions": {
+            "candidate": "Daniel Zeichner",
+            "otherPartyLeaderCandidate": "Lib Dem leader",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Daniel Zeichner has argued for the closest possible relationship between the UK and the EU, voting to remain in the EU.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Secured legislation to take back control over local blood supply, showing a strong commitment to NHS.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I stick to my principles. I'll never sell-out.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Keep Daniel putting Cambridge first"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

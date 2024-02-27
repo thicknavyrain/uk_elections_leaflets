@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "Davy Jones",
+        "constituency": "Brighton Kemptown",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Austerity",
+                "content": "There is an Alternative to Austerity"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Alternative to Austerity",
+                "policyDescription": "Ending austerity by ensuring public services are funded, providing a basic Citizens Income and opposing cuts."
+            },
+            {
+                "policyTitle": "Tax Avoidance",
+                "policyDescription": "Tackling tax avoidance and evasions, implementing Land Value Tax and ensuring companies and rich individuals pay their fair share."
+            },
+            {
+                "policyTitle": "Green New Deal",
+                "policyDescription": "Creating new jobs in renewable energy, insulation, public transport, and waste management, and reducing fuel bills and help combat climate change."
+            }
+        ],
+        "mentions": {
+            "candidate": "Davy has consistently supported trade unions, firefighters and others fighting austerity.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Ending austerity, supporting public services, tackling tax avoidance.",
+            "education": "",
+            "environment": "Green New Deal to combat climate change and create jobs.",
+            "governance": "",
+            "health": "Ending austerity, reducing fuel bills and combating climate change to improve public health.",
+            "immigration": "",
+            "socialWelfare": "Funding public services, introducing a basic Citizens Income.",
+            "housing": [
+                {
+                    "content": "Implementing a Land Value Tax to help fundraise for social housing and drastically cut the nation's road building programme.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "The Green Party, all of 39 - 41 Surrey Street - Brighton - BN1 3PB",
+            "phone": "",
+            "email": "info@davyjones4kemptown.org.uk",
+            "website": "www.davyjones4kemptown.org.uk",
+            "socialMedia": {
+                "facebook": "DAVYJONES4KEMPTOWN",
+                "twitter": "DAVYJONES4KTOWN",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Davy has consistently supported trade unions, firefighters and others fighting austerity.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote Davy Jones"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "leaflet": {
+        "candidateName": "Simon Wilson",
+        "constituency": "Leeds North East",
+        "politicalParty": "Conservative",
+        "electionDate": "7th May",
+        "messages": [
+            {
+                "title": "A personal message from Simon Wilson",
+                "content": "Since 2010 Conservative policies have resulted in a stronger economic recovery with 12000 more jobs and reducing North East constituents' income tax."
+            },
+            {
+                "title": "Making our roads safer",
+                "content": "The Conservative-led government recently granted Leeds City Council \u00a34.5 million to repair roads, ensuring safer and less congested travel."
+            },
+            {
+                "title": "Better Schools Mean Better Futures",
+                "content": "Conservatives' \u00a384 million investment into schools in Leeds will support children to maximize their potential."
+            },
+            {
+                "title": "Delivering More Jobs & Opportunities",
+                "content": "Under the Conservative economy, 1047 jobs have been created, with increasing wages and 2300 apprenticeships since 2010 in Leeds North East."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local Economy",
+                "policyDescription": "Support local businesses to invest locally, boost the economy and create more jobs."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Work with local schools so that they can help every pupil reach their full potential."
+            },
+            {
+                "policyTitle": "Local Roads",
+                "policyDescription": "Ensure additional government money is wisely spent to repair potholes and make road improvements."
+            }
+        ],
+        "mentions": {
+            "candidate": "Simon Wilson",
+            "otherPartyLeaderCandidate": "Ed Miliband, Vince Cable, UKIP",
+            "partyLeader": "",
+            "tacticalSituation": "Coalition of chaos, Vince Cable: Lib Dems could enter rainbow coalition with Labour and SNP, Voting for UKIP will hand keys of No. 10 to Miliband, poll finds"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Discussing Conservative-led recovery, stronger economy, more jobs, and lower taxes.",
+            "education": "Conservative investment into schools to help students reach their potential.",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Conservative policies will mean less of this hassle.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I will be a strong voice, fighting for Leeds North East.",
+        "politicalExperience": [
+            {
+                "role": "Former school governor",
+                "duration": "",
+                "achievements": "Highlighted the importance of a great education for our children."
+            }
+        ],
+        "contactInformation": {
+            "address": "Please see the official campaign longer form address.",
+            "phone": "",
+            "email": "",
+            "website": "www.simonwilson.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@SimonFWilson1",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Simon Wilson meeting with local community volunteers & cabinet ministers"
+                },
+                {
+                    "caption": "Simon tackling traffic problems at Meanwood Corner"
+                },
+                {
+                    "caption": "Discussing Conservatives' \u00a384 million investment into schools in Leeds"
+                },
+                {
+                    "caption": "Conservative policies have resulted in more jobs and opportunities"
+                }
+            ]
+        },
+        "additionalNotes": "Leaflet features information on Conservative policies' past successes and future promises for local improvement and economic development."
+    }
+}

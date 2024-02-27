@@ -1,0 +1,109 @@
+{
+    "leaflet": {
+        "candidateName": "Sam Gurney",
+        "constituency": "Kensington",
+        "politicalParty": "Labour Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Why I\u2019m proud to be standing for Labour:",
+                "content": "Crime is continuing to fall; Labour is investing in our children; We are delivering a fair deal in the modern workplace."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect social housing",
+                "policyDescription": "The Conservatives are threatening to effectively abolish social tenancy. We cannot allow this to happen."
+            },
+            {
+                "policyTitle": "Secure our economic wellbeing",
+                "policyDescription": "To act with honesty, integrity and transparency."
+            },
+            {
+                "policyTitle": "Help with patient care",
+                "policyDescription": "With Labour patients will get tested for cancer and receive results within one week of visiting their GP."
+            },
+            {
+                "policyTitle": "Strengthen Britain\u2019s role in the international community",
+                "policyDescription": "We can only tackle issues such as climate change and global poverty through working with the UN and delivering multilateral commitments."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sam Gurney, Your local candidate",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Protect social housing: The Conservatives are threatening to effectively abolish social tenancy. We cannot allow this to happen.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I grew up here - Help me make Kensington a better place.",
+        "politicalExperience": [
+            {
+                "role": "Regional Organiser, GMB \u2013 Britain\u2019s General Union",
+                "duration": "",
+                "achievements": ""
+            },
+            {
+                "role": "Policy Officer, International Department, Trade Union Congress",
+                "duration": "",
+                "achievements": ""
+            },
+            {
+                "role": "Member of Governing Body, UN International Labour Organisation",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "328 Portobello Road, London, W10 5RU",
+            "phone": "02089643166",
+            "email": "sam@kensingtonlabour.com",
+            "website": "www.kensingtonlabour.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Mustaq and Beinazir Lasharie and Karen Buck (current MP for North Kensington)",
+                "endorsement": "I have worked with Sam for many years and know him to be a dedicated campaigner for Kensington."
+            },
+            {
+                "endorser": "Keith Stirling, Wornington Green Residents' Association",
+                "endorsement": "Sam has been stalwart in his support of our campaigns to save our homes on the Wornington Green and the park at Athlone Gardens. He is the right choice for Kensington."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Sam Gurney with activists Mustaq and Beinazir Lasharie and Karen Buck."
+                },
+                {
+                    "caption": "Sam Gurney for Kensington. Kensington needs an MP who cares."
+                },
+                {
+                    "caption": "Kensington is backing Sam: [Endorsement by Keith Stirling]"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

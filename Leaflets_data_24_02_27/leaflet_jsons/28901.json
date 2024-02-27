@@ -1,0 +1,62 @@
+{
+  "leaflet": {
+    "candidateName": "Fiona Bruce",
+    "constituency": "Congleton Constituency",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Fiona Bruce",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Fiona Bruce with Theresa May"
+        },
+        {
+          "caption": "Fiona Bruce engaging with constituents"
+        },
+        {
+          "caption": "Fiona Bruce at various campaign events"
+        }
+      ]
+    },
+    "additionalNotes": "Standing with Theresa May"
+  }
+}

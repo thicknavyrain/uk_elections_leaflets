@@ -1,0 +1,107 @@
+{
+  "leaflet": {
+    "candidateName": "Mike Sargeant",
+    "constituency": "Cambridge",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Vote for Change! Vote for Labour!",
+        "content": "All year round local action."
+      },
+      {
+        "title": "Labour's pledge to you and your family!",
+        "content": "Keep the NHS public and put patient care before profit, Improve mental health services, Fairer admissions to schools, A real living wage & an end to zero-hours contracts, Affordable homes for all, and Action on the Climate Emergency"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Keep the NHS public and put patient care before profit."
+      },
+      {
+        "policyTitle": "Mental Health",
+        "policyDescription": "Improve mental health services."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Fairer admissions to schools."
+      },
+      {
+        "policyTitle": "Worker's Rights",
+        "policyDescription": "A real living wage & an end to zero-hours contracts."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Affordable homes for all."
+      },
+      {
+        "policyTitle": "Climate",
+        "policyDescription": "Action on the Climate Emergency"
+      }
+    ],
+    "mentions": {
+      "candidate": "Mike Sargeant",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Fairer admissions to schools.",
+      "environment": "Action on the Climate Emergency",
+      "governance": "",
+      "health": "Keep the NHS public and put patient care before profit. Improve mental health services.",
+      "immigration": "",
+      "socialWelfare": "A real living wage & an end to zero-hours contracts.",
+      "housing": [
+        {
+          "content":"Affordable homes for all",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01223 316780",
+      "email": "",
+      "website": "www.cambridgelabour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Mike Sargeant with supporters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

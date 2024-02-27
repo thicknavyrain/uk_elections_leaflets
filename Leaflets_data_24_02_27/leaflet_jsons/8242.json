@@ -1,0 +1,87 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Camden",
+        "politicalParty": "Green Party",
+        "electionDate": "Spring 2009",
+        "messages": [
+            {
+                "title": "Health privacy threatened",
+                "content": "Camden Green Party is urging residents to think twice before they upload personal details onto the new national database."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Plans for the building of new council homes at Maiden Lane estate are opposed due to the size of the proposed units, with a call for a greater quantity of affordable housing."
+            },
+            {
+                "policyTitle": "Fairness",
+                "policyDescription": "The party aims to tackle economic inequality through introducing minimum wage and maximum earnings, investing in public transport, house building, and green industries."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "A minimum wage increase, maximum earnings, investment in public transport, house building, and green industries.",
+            "education": "",
+            "environment": "Investment in green industries.",
+            "governance": "",
+            "health": "Concerns over the national health database threatening patient privacy.",
+            "immigration": "",
+            "socialWelfare": "Introducing a minimum wage and maximum earnings to address economic inequality.",
+            "housing": [
+                {
+                    "content": "Opposition to size of proposed units at Maiden Lane estate, advocating for more affordable housing.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Camden Green Party Freepost RSGU-GCUX-BLAX 56 Walker House, London NW1 1EP",
+            "phone": "",
+            "email": "camden@greenparty.org.uk",
+            "website": "www.camden.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Leaflet images depicting Camden Green News header, housing, and a photo of Green Party campaigner Natalie Bennett."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet discusses concerns over health data privacy, housing issues, and economic inequality. It also includes a section on how to help and support the Camden Green Party."
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "leaflet": {
+        "candidateName": "Bella Sankey",
+        "constituency": "Arundel and South Downs",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "It's time for real change",
+                "content": "Austerity has stripped our communities... It's time for real change."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Decent affordable homes",
+                "policyDescription": "Labour will ensure that local authorities have mandatory housebuilding targets for social housing."
+            },
+            {
+                "policyTitle": "Protecting our environment",
+                "policyDescription": "Labour will put in place a Green Industrial Revolution to tackle climate change."
+            }
+        ],
+        "mentions": {
+            "candidate": "Bella Sankey",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "The tactical vote in this constituency to ensure we beat the Tories is now Labour."
+        },
+        "issues": {
+            "brexitEurope": "Boris Johnson's Brexit a disaster for this country",
+            "economy": "A Farage Johnson alliance would be catastrophic for... our economy.",
+            "education": "",
+            "environment": "Labour is the only party that can tackle our... environmental crisis.",
+            "governance": "",
+            "health": "Rebuild our NHS...",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Labour will ensure your children and grandchildren have the chance to own or rent their own home, unlike the other parties which won\u2019t get us out of the housing crisis.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Why I'm backing Bella",
+        "politicalExperience": [
+            {
+                "role": "Human rights barrister",
+                "duration": "",
+                "achievements": "A woman of principle and compassion."
+            },
+            {
+                "role": "Director of Liberty",
+                "duration": "",
+                "achievements": "Has led a number of successful campaigns for human rights."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "07903079070",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Sir Ed Davey",
+                "endorsement": "A fantastic candidate... She\u2019s the compassionate, progressive, pro-European voice Arundel & the South Downs needs."
+            },
+            {
+                "endorser": "Local resident",
+                "endorsement": "Bella\u2019s dedication to social justice is clear. She\u2019ll be an outstanding MP."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Labour will ensure that local authorities have mandatory housebuilding targets for social housing.",
+                "source": "On housing"
+            },
+            {
+                "text": "Labour will put in place a Green Industrial Revolution...",
+                "source": "On the environment"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Bella Sankey for real change in Arundel and South Downs"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

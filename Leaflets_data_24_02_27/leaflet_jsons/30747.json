@@ -1,0 +1,97 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Same old Tories",
+                "content": "They are threatening to take money from pensioners, force people to use their homes for care, take school lunches from children."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Social Welfare",
+                "policyDescription": "Preventing the threat to take money from pensioners and ensuring children do not lose their entitlement to school lunches."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Addressing the issue of NHS performance and ensuring families are not worried about the future of their homes when a loved one is sick."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "The Tories have brought the NHS to its knees.",
+            "immigration": "",
+            "socialWelfare": "Under the Tories many families stand to lose Winter fuel allowance; many pensioners will once again be facing a cold bleak future. Many families are dependent on the free school meal which the Tories plan to axe. It is wrong that under the Tories more children are living in poverty.",
+            "housing": [
+                {
+                    "content": "When a loved one is sick, families shouldn't be worried about the future of their home.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Under the Tories I stand to lose my Winter fuel allowance; many pensioners will once again be facing a cold bleak future.",
+                "source": "Pensioner",
+                "date": ""
+            },
+            {
+                "text": "Many families are dependent on the free school meal which the Tories plan to axe. It is wrong that under the Tories more children are living in poverty.",
+                "source": "Family",
+                "date": ""
+            },
+            {
+                "text": "The Tories have brought the NHS to its knees. When a loved one is sick, families shouldn't be worried about the future of their home.",
+                "source": "NHS Worker",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Pensioners and families expressing concern over Conservative policies."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

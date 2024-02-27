@@ -1,0 +1,131 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Rebecca Findlay",
+    "constituency": "Streatham",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "FAIR IS WORTH FIGHTING FOR",
+        "content": "This election is your chance to show how you feel. We all hoped the MPs' expenses scandal would lead to real change. Everyone's talking about the need for a fresh start."
+      },
+      {
+        "title": "A Living Wage",
+        "content": "Green MPs will demand a 'Living Wage' to ensure low paid workers earn enough to provide for themselves and their families."
+      },
+      {
+        "title": "A million new jobs",
+        "content": "Green MPs will press for a free insulation scheme for every single home as part of a green package to cut fuel bills and create a million new jobs. Green Party councillors have already pioneered such a scheme in Kirklees."
+      },
+      {
+        "title": "Protect our NHS",
+        "content": "Green MPs will fight to make sure local services are easy to access and are truly local. We will oppose cuts, closures and privatisation within our NHS and protect the jobs of public sector workers."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Creating a million new jobs through a green insulation scheme, providing paid employment."
+      },
+      {
+        "policyTitle": "Living Wage",
+        "policyDescription": "Ensuring low paid workers earn enough to support themselves and families through a 'Living Wage'."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Opposition to cuts, closures, and privatisation in the NHS, protecting public sector workers."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Supporting environmentally friendly living that's affordable, not difficult or expensive, and saving public money by saving energy."
+      },
+      {
+        "policyTitle": "Business",
+        "policyDescription": "Supporting smaller businesses instead of banks and corporations."
+      }
+    ],
+    "mentions": {
+      "candidate": "Rebecca Findlay",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Of the four main parties Rebecca is the only woman running as MP for Streatham."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Creating a million new jobs through a green package scheme.",
+      "education": "",
+      "environment": "Making environmentally friendly living easy and affordable, not difficult and expensive.",
+      "governance": "",
+      "health": "Fight to make sure local services are easy to access and are truly local. Oppose cuts, closures and privatisation within our NHS and protect the jobs of public sector workers.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Green MPs will press for a free insulation scheme for every single home as part of a green package to cut fuel bills and create a million new jobs.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Rebecca says: 'Fed up of career politicians? Want public services like health and education believ human should get equal power?'" +
+                         " 'Fed up of career politicians? Want public services like health and education? Believe politicians should get equal power and tackle people who have more than their share? Vote Green.'",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0844 544 9277",
+      "email": "",
+      "website": "www.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Green Party leader and MEP Caroline Lucas",
+        "endorsement": "Praised the electoral system that 'gives people more power over decisions that shape their environment'."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Vote Green to get a fairer deal for the people of Streatham.",
+        "source": "Campaign Material",
+        "date": ""
+      },
+      {
+        "text": "Green policies on climate change, renewable energy and recycling were established where the main political parties had embraced these crucial issues. Greens now sit in the European Parliament, the Scottish Parliament, the London Assembly and on many local councils.",
+        "source": "Campaign Material",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Rebecca Findlay participating in community work."
+        },
+        {
+          "caption": "Rebecca Findlay with residents."
+        },
+        {
+          "caption": "Promotional image for a 'Living Wage'."
+        },
+        {
+          "caption": "Promotional image for creating new jobs."
+        },
+        {
+          "caption": "Promotional image for protecting the NHS."
+        }
+      ]
+    },
+    "additionalNotes": "Printed on 100% recycled paper using sustainable technologies that do not harm the environment."
+  }
+}
+```

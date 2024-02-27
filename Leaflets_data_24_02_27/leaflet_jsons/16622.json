@@ -1,0 +1,97 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Competent leadership",
+        "content": "Job total hits record high while wages surge. Tax cuts for workers and savers. More jobs. New businesses."
+      },
+      {
+        "title": "Coalition of chaos",
+        "content": "Labour plan to borrow risks £170bn extra debt. We'll hold Labour to ransom - Vince Cable."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Keep mortgage rates low so families are more financially secure. Build more homes including 200,000 new Starter Homes for first-time buyers under 40. Extend the Help to Buy scheme to 2020 to help more people onto the housing ladder."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "The deficit down. Income tax cut."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Labour plan to borrow risks £170bn extra debt. Vince Cable: Lib Dems would enter a coalition with Labour and SNP.",
+      "partyLeader": "",
+      "tacticalSituation": "Your local vote will deliver..."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "More debt. Higher taxes. Jobs lost.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Benefits cap 'leads more into work'.",
+      "housing": [
+        {
+          "content": "Keep mortgage rates low so families are more financially secure. Build more homes including 200,000 new Starter Homes for first-time buyers under 40. Extend the Help to Buy scheme to 2020 to help more people onto the housing ladder.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "conservatives.com/ourcommitments",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Our commitments to build a Britain where everyone who works hard can have a home of their own."
+        },
+        {
+          "caption": "Competent leadership for a better future."
+        },
+        {
+          "caption": "Coalition of chaos."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

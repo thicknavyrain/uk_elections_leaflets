@@ -1,0 +1,85 @@
+{
+	"leaflet": {
+		"candidateName": "Jane Hunt",
+		"constituency": "Nottingham South",
+		"politicalParty": "Conservatives",
+		"electionDate": "Thursday 8th June",
+		"messages": [
+			{
+				"title": "Backing Leadership and Stability",
+				"content": "Provide strong and stable leadership for our country. Get the best Brexit deal possible to deliver economic security for our future. Always stand up for you and your family."
+			}
+		],
+		"keyPolicies": [
+			{
+				"policyTitle": "Brexit",
+				"policyDescription": "Making a success of BREXIT for Nottingham - control of our own borders, laws, and money."
+			},
+			{
+				"policyTitle": "Education",
+				"policyDescription": "Ensuring every child in Nottingham has access to a great education and the opportunity to succeed."
+			},
+			{
+				"policyTitle": "Economy",
+				"policyDescription": "Securing a strong economy to ensure decent local jobs are available for local people."
+			}
+		],
+		"mentions": {
+			"candidate": "Jane Hunt",
+			"otherPartyLeaderCandidate": "",
+			"partyLeader": "Theresa May",
+			"tacticalSituation": ""
+		},
+		"issues": {
+			"brexitEurope": "Making a success of BREXIT for Nottingham - control of our own borders, laws, and money.",
+			"economy": "Securing a strong economy to ensure decent local jobs are available for local people.",
+			"education": "Ensuring every child in Nottingham has access to a great education and the opportunity to succeed.",
+			"environment": "",
+			"governance": "",
+			"health": "",
+			"immigration": "Control of our own borders.",
+			"socialWelfare": "",
+			"housing": [
+				{
+					"content": "",
+					"yimbyNimby": "N/A"
+				}
+			]
+		},
+		"personalStatement": "",
+		"politicalExperience": [
+			{
+				"role": "",
+				"duration": "",
+				"achievements": ""
+			}
+		],
+		"contactInformation": {
+			"address": "",
+			"phone": "",
+			"email": "",
+			"website": "",
+			"socialMedia": {
+				"facebook": "",
+				"twitter": "",
+				"instagram": "",
+				"linkedin": ""
+			}
+		},
+		"endorsements": [
+			{
+				"endorser": "Theresa May",
+				"endorsement": "Provide strong and stable leadership for our country. Don't risk our future at this crucial moment in history with a vote for anyone else. Back me on Thursday 8th June to lead Britain."
+			}
+		],
+		"quotes": [],
+		"campaignMaterial": {
+			"images": [
+				{
+					"caption": "Jane Hunt with Theresa May"
+				}
+			]
+		},
+		"additionalNotes": ""
+	}
+}

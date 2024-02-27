@@ -1,0 +1,105 @@
+{
+  "leaflet": {
+    "candidateName": "David Williams",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday May",
+    "messages": [
+      {
+        "title": "My pledges to you",
+        "content": "David Williams, your Labour candidate will work hard and campaign for a fairer society..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tackling Crime",
+        "policyDescription": "David will fight for more local police to make sure our streets are safe."
+      },
+      {
+        "policyTitle": "Quality Education",
+        "policyDescription": "He will fight for a quality education system that is fair for everyone."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "David is determined to protect our NHS and ensure it receives the funding it needs to deliver world-class care."
+      },
+      {
+        "policyTitle": "Better Transport",
+        "policyDescription": "He will take action to improve our public transport system."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "He's fighting for every generation to have the chance to own a decent home."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Williams",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "He will fight for a quality education system that is fair for everyone.",
+      "environment": "",
+      "governance": "",
+      "health": "David is determined to protect our NHS and ensure it receives the funding it needs to deliver world-class care.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"He's fighting for every generation to have the chance to own a decent home.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "01925 552204",
+      "email": "david@warringtonlabour.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "/DavidWilliamsWarrington",
+        "twitter": "@DWLabour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Williams meeting with residents."
+        },
+        {
+          "caption": "David Williams at an event."
+        },
+        {
+          "caption": "David Williams with NHS staff."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

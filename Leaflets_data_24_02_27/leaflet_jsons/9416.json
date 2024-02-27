@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Shaw",
+        "constituency": "King's Cross & Bloomsbury",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "6 May",
+        "messages": [
+            {
+                "title": "Time for Real Change in King's Cross & Bloomsbury",
+                "content": "The leaflet discusses the need for real change, criticizing the existing situation and suggesting improvements in various fields like healthcare, economy, and governance through the perspectives of the Liberal Democrats."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Only Lib Dems will fix our broken economy. AXE Labour's \u00a3167 billion deficit. Invest in job creation for young people."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Save A&E; oppose cuts to vital Health services like the Whittington A&E."
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "AXE waste on national ID cards, nuclear weapons, and tax breaks for the super-rich."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Shaw",
+            "otherPartyLeaderCandidate": "Labour and Conservatives mentioned as a negative reference.",
+            "partyLeader": "Vince Cable is backing Jo Shaw in her campaign.",
+            "tacticalSituation": "It's Lib Dems or Labour here; highlighting previous election results to emphasize tactical voting."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Only Lib Dems will fix our broken economy.",
+            "education": "Invest in job creation & apprenticeships.",
+            "environment": "",
+            "governance": "AXE waste on national health database, ID cards, tax breaks for the super-rich.",
+            "health": "Save A&E; oppose cuts to vital Health services like the Whittington A&E.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "The leaflet features quotes indicating personal endorsements for Jo Shaw, stating she is a tireless campaigner and understands local issues.",
+        "politicalExperience": [
+            {
+                "role": "Local campaigner",
+                "duration": "",
+                "achievements": "Jo has been campaigning on behalf of local residents and is implied to be dedicated to making change."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Jo is a tireless campaigner for our NHS. She is fighting hard to save our local hospital.",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "Vince Cable and the Lib Dems warned about the financial crisis; the only party being honest about the challenges we face.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Photographs of the candidate, Jo Shaw, with Vince Cable and other members of the Liberal Democratic team, as well as images demonstrating support from citizens."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet positions the Liberal Democrats as the only alternative to Labour, citing the record number of people out of work and criticizing the handling of the financial crisis by Labour. A voter result from the last General Election is presented to emphasize that the race is between Lib Dems and Labour in Camden."
+    }
+}

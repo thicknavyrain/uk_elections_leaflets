@@ -1,0 +1,69 @@
+{
+  "leaflet": {
+    "candidateName": "Max Wilkinson",
+    "constituency": "Stroud",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "AGAINST Hard Brexit",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "FOR NHS & schools",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "FOR Homes that local people can afford",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "Max Wilkinson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "AGAINST Hard Brexit",
+      "economy": "",
+      "education": "FOR NHS & schools",
+      "environment": "",
+      "governance": "",
+      "health": "FOR NHS & schools",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "FOR Homes that local people can afford",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.MaxWilkinson.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Max Wilkinson with supporters"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

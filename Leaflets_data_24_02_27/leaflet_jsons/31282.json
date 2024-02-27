@@ -1,0 +1,77 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Swinson",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Jo Swinson's plan includes stopping Brexit."
+            },
+            {
+                "policyTitle": "Build a fair economy",
+                "policyDescription": "The leaflet mentions a plan to build a fair economy."
+            },
+            {
+                "policyTitle": "Transform our mental health services",
+                "policyDescription": "Part of the plan is to transform mental health services."
+            },
+            {
+                "policyTitle": "Tackle the climate emergency",
+                "policyDescription": "The leaflet includes a policy to tackle the climate emergency."
+            },
+            {
+                "policyTitle": "Give every child the best start in life",
+                "policyDescription": "Jo Swinson's plan aims to give every child the best start in life."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit",
+            "economy": "Build a fair economy",
+            "education": "Give every child the best start in life",
+            "environment": "Tackle the climate emergency",
+            "governance": "",
+            "health": "Transform our mental health services",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "LibDems.org.uk/plan",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jo Swinson's plan for Britain's future."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

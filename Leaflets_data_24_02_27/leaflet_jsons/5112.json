@@ -1,0 +1,85 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Pensions and Benefits",
+        "policyDescription": "Re-link the state pension to earnings and protect winter fuel payments and free bus passes"
+      },
+      {
+        "policyTitle": "Taxation",
+        "policyDescription": "Take the vast majority of family homes out of Inheritance Tax"
+      },
+      {
+        "policyTitle": "Budget",
+        "policyDescription": "Budget within 50 days to take action on the debt and help keep mortgage rates lower for longer"
+      },
+      {
+        "policyTitle": "Council Tax",
+        "policyDescription": "Freeze Council Tax for two years"
+      },
+      {
+        "policyTitle": "Business Tax",
+        "policyDescription": "Abolish taxes on the first 10 jobs created by new firms"
+      },
+      {
+        "policyTitle": "Government Spending",
+        "policyDescription": "5% pay cut for Ministers, 10% cut in the number of MPs"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "No Stamp Duty for first-time buyers up to £250k"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Action on the debt to help keep mortgage rates lower for longer",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "No Stamp Duty for first-time buyers up to £250k",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0845 833 4020",
+      "email": "",
+      "website": "www.conservatives.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote For Change - Tell us what you think about the economy and the change Britain needs"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

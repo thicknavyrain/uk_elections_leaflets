@@ -1,0 +1,103 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [
+            {
+                "title": "Britain succeeds when working people succeed.",
+                "content": "THE TORY-LIB DEM PLAN IS FAILING: University tuition fees have trebled, Rents are skyrocketing, Working people are on average \u00a31,600 a year worse off"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Minimum Wage",
+                "policyDescription": "Raise the minimum wage to \u00a38 an hour"
+            },
+            {
+                "policyTitle": "Zero-Hours Contracts",
+                "policyDescription": "Ban exploitative zero-hours contracts"
+            },
+            {
+                "policyTitle": "University Tuition Fees",
+                "policyDescription": "Reduce tuition fees from \u00a39,000 to \u00a36,000"
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "20,000 more nurses and 8,000 more GPs"
+            },
+            {
+                "policyTitle": "Tax Avoidance",
+                "policyDescription": "Clamp down on tax avoidance"
+            },
+            {
+                "policyTitle": "Tax Policy",
+                "policyDescription": "Reverse the Tory tax break for millionaires"
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Working people are on average \u00a31,600 a year worse off",
+            "education": "University tuition fees have trebled",
+            "environment": "",
+            "governance": "",
+            "health": "20,000 more nurses and 8,000 more GPs",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Rents are skyrocketing",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A better plan. A better future."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

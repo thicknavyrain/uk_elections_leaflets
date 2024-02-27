@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "Workington",
+	"politicalParty": "",
+	"electionDate": "November 2019",
+	"messages": [
+  	{
+    	"title": "Brexit Deal Agreed and Ready to Go",
+    	"content": "New Brexit deal agreed with EU. Protects jobs and trade. Ends uncertainty for our economy. Ready to go from day one of a new parliament."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Brexit",
+    	"policyDescription": "A New Brexit deal has been agreed with the EU that is promised to protect jobs and trade while ending uncertainty for the economy, ready to be implemented from the first day of a new parliament."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "Prime Minister Boris Johnson",
+  	"tacticalSituation": "Voters in Workington will decide this election"
+	},
+	"issues": {
+  	"brexitEurope": "New Brexit deal agreed with EU.",
+  	"economy": "Ends uncertainty for our economy.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "PM on hospitals, police and schools.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "BREAKING NEWS: Brexit Deal Agreed and Ready to Go"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

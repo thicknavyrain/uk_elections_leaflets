@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+	"candidateName": "Layla Moran",
+	"constituency": "Oxford West & Abingdon",
+	"politicalParty": "Lib Dems",
+	"electionDate": "this Thursday",
+	"messages": [
+  		{
+    		"title": "",
+    		"content": ""
+  		}
+	],
+	"keyPolicies": [
+  		{
+    		"policyTitle": "Education",
+    		"policyDescription": "Strongly opposes the Tory plan to cut school budgets by 10%."
+  		},
+  		{
+    		"policyTitle": "Health",
+    		"policyDescription": "Very concerned about the future of the NHS, believes it should remain in public hands and free to everyone who needs it."
+  		}
+	],
+	"mentions": {
+  		"candidate": "Layla Moran",
+  		"otherPartyLeaderCandidate": "right wing Tory",
+  		"partyLeader": "",
+  		"tacticalSituation": "Letting the right wing Tory win in this constituency increases the chance that those cuts to local school budgets will go ahead."
+	},
+	"issues": {
+  		"brexitEurope": "",
+  		"economy": "",
+  		"education": "Opposes Tory plan to cut school budgets by 10%.",
+  		"environment": "",
+  		"governance": "",
+  		"health": "Believes the NHS should remain in public hands, free to everyone who needs it.",
+  		"immigration": "",
+  		"socialWelfare": "",
+  		"housing": [
+    		{
+      		"content":"",
+      		"yimbyNimby": "N/A"
+    		}
+  		]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  		{
+    		"role": "Teacher",
+    		"duration": "several years",
+    		"achievements": "Became involved in politics to make sure that every child has a fair chance to get on in life."
+  		}
+	],
+	"contactInformation": {
+  		"address": "27 Park End Street, Oxford, OX1 1HU",
+  		"phone": "",
+  		"email": "",
+  		"website": "",
+  		"socialMedia": {
+    		"facebook": "",
+    		"twitter": "",
+    		"instagram": "",
+    		"linkedin": ""
+  		}
+	},
+	"endorsements": [
+  		{
+    		"endorser": "",
+    		"endorsement": ""
+  		}
+	],
+	"quotes": [
+  		{
+    		"text": "",
+    		"source": "",
+    		"date": ""
+  		}
+	],
+	"campaignMaterial": {
+  		"images": [
+    		{
+      		"caption": "A big thank you for the very positive response we have had as we have been out and about talking to local residents recently."
+    		}
+  		]
+	},
+	"additionalNotes": ""
+  }
+}

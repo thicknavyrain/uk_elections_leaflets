@@ -1,0 +1,77 @@
+{
+    "leaflet": {
+        "candidateName": "Jonathan Lord",
+        "constituency": "Woking",
+        "politicalParty": "Conservatives",
+        "electionDate": "THURSDAY 12 DECEMBER",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "\u00a333.9 billion extra for the NHS"
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "20,000 extra police officers"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More funding for every pupil in every school"
+            },
+            {
+                "policyTitle": "Broadband",
+                "policyDescription": "Gigabit broadband for the whole country"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "\u00a33.6 billion to help towns invest and attract new businesses"
+            }
+        ],
+        "mentions": {
+            "candidate": "Jonathan Lord",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "A Lib Dem-Conservative coalition is not an option."
+        },
+        "issues": {
+            "brexitEurope": "Brexit done with a deal",
+            "economy": "\u00a33.6 billion to help towns invest and attract new businesses",
+            "education": "More funding for every pupil in every school",
+            "environment": "Ending our contribution to global warming by 2050",
+            "governance": "",
+            "health": "\u00a333.9 billion extra for the NHS",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jonathan Lord with Boris Johnson and others, promoting key policies."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

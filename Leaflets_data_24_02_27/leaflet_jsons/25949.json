@@ -1,0 +1,77 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Say NO to the EU",
+                "policyDescription": "Advocate for leaving the European Union."
+            },
+            {
+                "policyTitle": "Control our borders",
+                "policyDescription": "Enforce tighter immigration controls."
+            },
+            {
+                "policyTitle": "Extra \u00a33 billion for the NHS",
+                "policyDescription": "Allocate an additional \u00a33 billion in funding for the National Health Service."
+            },
+            {
+                "policyTitle": "Cut foreign aid spending",
+                "policyDescription": "Reduce the amount of money spent on foreign aid."
+            },
+            {
+                "policyTitle": "No tax on the minimum wage",
+                "policyDescription": "Ensure that individuals earning the minimum wage do not pay income tax."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Say NO to the EU",
+            "economy": "No tax on the minimum wage",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Extra \u00a33 billion for the NHS",
+            "immigration": "Control our borders",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "0333 800 6 800",
+            "email": "",
+            "website": "ukip.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "BELIEVE in BRITAIN"
+                }
+            ]
+        },
+        "additionalNotes": "Published and promoted by Paul Oakden on behalf of UKIP."
+    }
+}

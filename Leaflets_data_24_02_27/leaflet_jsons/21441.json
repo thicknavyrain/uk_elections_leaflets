@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "Mike Crockart",
+        "constituency": "Edinburgh West",
+        "politicalParty": "the Lib Dems",
+        "electionDate": "Thursday 6th May",
+        "messages": [
+            {
+                "title": "It's a two horse race",
+                "content": "in Edinburgh West between the SNP and the Lib Dems. Only the Lib Dems can also stand up to the Tories. Only 1 vote stops the SNP here."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Jobs",
+                "policyDescription": "Creating jobs by supporting small businesses and building a high-skill economy."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Fighting for the NHS and the vulnerable by opposing Conservative health cuts."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Investing in children's education by opposing Conservative education cuts."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mike Crockart",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Only 1 vote stops the SNP here."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Mike Crockart, political candidate."
+                }
+            ]
+        },
+        "additionalNotes": "Some of the policy details are not completely visible due to the image quality."
+    }
+}

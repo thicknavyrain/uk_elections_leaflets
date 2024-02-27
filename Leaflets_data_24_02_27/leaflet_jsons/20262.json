@@ -1,0 +1,102 @@
+{
+    "leaflet": {
+        "candidateName": "Nicola Sturgeon",
+        "constituency": "",
+        "politicalParty": "SNP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "More SNP seats",
+                "content": "means more influence and power for the people of Scotland."
+            },
+            {
+                "title": "It's time for a more responsible economic policy",
+                "content": "one which boosts long-term growth, creates jobs and delivers for all."
+            },
+            {
+                "title": "Voting SNP means...",
+                "content": "The SNP will play a constructive role in Westminster and bring ideas forward in a positive spirit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "We'll make sure Scotland's NHS is always cared for - its budget protected and its future secure in public hands."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "It's time for a more responsible economic policy, one which boosts long-term growth, creates jobs and delivers for all."
+            },
+            {
+                "policyTitle": "Childcare and Defence",
+                "policyDescription": "With budgets so tight, we'll invest in childcare and vital public services not waste \u00a3100 billion on new nuclear weapons."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nicola Sturgeon",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Nicola Sturgeon",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "It's time for a more responsible economic policy, one which boosts long-term growth, creates jobs and delivers for all.",
+            "education": "",
+            "environment": "",
+            "governance": "More SNP seats means more influence and power for the people of Scotland.",
+            "health": "We'll make sure Scotland's NHS is always cared for - its budget protected and its future secure in public hands.",
+            "immigration": "",
+            "socialWelfare": "With budgets so tight, we'll invest in childcare and vital public services not waste \u00a3100 billion on new nuclear weapons.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "The SNP will play a constructive role in Westminster and bring ideas forward in a positive spirit.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "Follow theSNP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "We offer a real alternative to the drab Tory-Labour consensus in Westminster.",
+                "source": "Nicola Sturgeon Speech to the London School of Economics, 16 March 2015",
+                "date": "2015-03-16"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nicola Sturgeon with text 'Voting SNP means...'"
+                },
+                {
+                    "caption": "Newspaper headlines 'The Vow' with text 'Broken promises prove only SNP can stand up for Scotland'"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

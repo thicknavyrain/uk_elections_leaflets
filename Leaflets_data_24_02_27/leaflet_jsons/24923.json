@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "THIS THURSDAY, OUR NHS NEEDS YOU.",
+        "content": "WE HAVE 48 HOURS TO SAVE OUR NHS"
+      },
+      {
+        "title": "LABOUR WILL:",
+        "content": "Recruit 20,000 more nurses and 8,000 more GPs Guarantee GP appointments within 48 hours Guarantee cancer tests and results within one week"
+      },
+      {
+        "title": "THE TORIES ARE A THREAT TO OUR NHS:",
+        "content": "Worst A&E crisis on record Extreme cuts which threaten the survival of our NHS Waiting lists at their highest levels for six years"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Labour plans to recruit 20,000 more nurses and 8,000 more GPs, guarantee GP appointments within 48 hours, and ensure cancer tests and results are provided within one week."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Staying at home or voting for any other party will let the Tories win."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Recruit 20,000 more nurses and 8,000 more GPs, Guarantee GP appointments within 48 hours, Guarantee cancer tests and results within one week. The Tories are a threat with the worst A&E crisis on record, extreme cuts threatening the NHS survival, and the highest waiting lists for six years.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Vote Labour Thursday 7 May"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

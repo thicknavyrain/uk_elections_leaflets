@@ -1,0 +1,77 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Green Party",
+	"electionDate": "May 7th",
+	"messages": [
+	  {
+    	"title": "",
+    	"content": "Hello [ ], this Thursday, [ ], have the power to return a Green MP to parliament. No more MPs can make more of a difference than you can."
+	  },
+	  {
+    	"title": "",
+    	"content": "The polls, experts and bookies all agree that no single party will win outright. How parties work with each other, or don’t, is important."
+	  },
+	  {
+    	"title": "",
+    	"content": "You can vote Green confident that our MPs will stand up for what matters. We will never back the Tories and we will push a Labour-led government to go further, to be bolder."
+	  },
+	  {
+    	"title": "",
+    	"content": "The Greens are the only ones who will stand against austerity, fight for the NHS to remain fully public and ensure urgent action is taken on climate change."
+	  },
+	  {
+    	"title": "",
+    	"content": "Westminster needs a new Green voice. You can make it happen."
+	  }
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "[ ]",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "Ensure urgent action is taken on climate change.",
+  	"governance": "",
+  	"health": "Fight for the NHS to remain fully public",
+  	"immigration": "",
+  	"socialWelfare": "Stand against austerity",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "ACTION.GREENPARTY.ORG.UK",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "KEEP THE TORIES OUT VOTE GREEN"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

@@ -1,0 +1,111 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Stevens",
+        "constituency": "Cardiff Central",
+        "politicalParty": "Labour",
+        "electionDate": "December 2019",
+        "messages": [
+            {
+                "title": "NEATH DESERVES BETTER",
+                "content": "20,000 extra police officers, Points-based immigration system, No rise in income tax, VAT or National Insurance"
+            },
+            {
+                "title": "LET'S UNLEASH WALES'S POTENTIAL",
+                "content": ""
+            },
+            {
+                "title": "NEATH PORT TALBOT Future",
+                "content": "VOTERS IN NEATH URGED TO VOTE FOR CHANGE IN ELECTION"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Extra Police Officers",
+                "policyDescription": "20,000 extra police officers"
+            },
+            {
+                "policyTitle": "Immigration System",
+                "policyDescription": "Points-based immigration system"
+            },
+            {
+                "policyTitle": "Tax Policy",
+                "policyDescription": "No rise in income tax, VAT or National Insurance"
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Stevens",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Take our Neath residents' survey and tell us what you think."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "Points-based immigration system",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Labour have been in power in Neath for 98 years. But everyone knows this election is different. Eight parties are standing in this election and anything could happen. Make sure you vote for CHANGE in Neath.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "NEATH DESERVES BETTER"
+                },
+                {
+                    "caption": "20,000 extra police officers."
+                },
+                {
+                    "caption": "Points-based immigration system."
+                },
+                {
+                    "caption": "No rise in income tax, VAT or National Insurance."
+                },
+                {
+                    "caption": "Let's unleash Wales's potential."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

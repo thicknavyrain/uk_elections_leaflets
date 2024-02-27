@@ -1,0 +1,68 @@
+{
+  "leaflet": {
+    "candidateName": "Julian Huppert",
+    "constituency": "Cambridge",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "Your choice on 8th June:",
+        "content": "Liberal Democrat MPs fighting to stop hard Brexit wrecking Britain. OR A Labour party that voted with UKIP to back an extreme Brexit."
+      }, 
+      {
+        "title": "The Conservatives are out of the race in Cambridge.", 
+        "content": "Voting Conservative here helps Labour."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Julian Huppert",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The Conservatives are out of the race in Cambridge. Voting Conservative here helps Labour."
+    },
+    "issues": {
+      "brexitEurope": "Liberal Democrat MPs fighting to stop hard Brexit wrecking Britain.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "We're backing Julian"
+        },
+        {
+          "caption": "People from across the political spectrum are coming together to back... Julian Huppert"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

@@ -1,0 +1,84 @@
+{
+    "leaflet": {
+        "candidateName": "John Denham",
+        "constituency": "Southampton Itchen",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Because people like you voted Labour...",
+                "content": "Our children have had a better start in life because of SureStart."
+            },
+            {
+                "title": "...we've been able to make a difference.",
+                "content": "We've helped people keep their homes, helped jobs and businesses, put people first."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "The recession has been difficult for many people. We were determined to help people stay in their homes. The Tories would have done nothing."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "We've helped jobs and businesses."
+            },
+            {
+                "policyTitle": "Health and Childcare",
+                "policyDescription": "The NHS, pre-school and SureStart, tax credits, and extra help for pensioners. That's Labour - the Tories want a tax cut for the rich."
+            }
+        ],
+        "mentions": {
+            "candidate": "John Denham",
+            "otherPartyLeaderCandidate": "David Cameron",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "We've helped jobs and businesses.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "The NHS, pre-school and SureStart, tax credits, and extra help for pensioners.",
+            "immigration": "",
+            "socialWelfare": "Tax credits, and extra help for pensioners.",
+            "housing": [
+                {
+                    "content": "The recession has been difficult for many people. We were determined to help people stay in their homes. The Tories would have done nothing.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I've lived, worked and brought up my children in Southampton. What happens here matters to me as it does to every local family.",
+        "politicalExperience": [
+            {
+                "role": "Labour Candidate for Southampton Itchen",
+                "duration": "",
+                "achievements": "Been able to make a real difference in the city."
+            }
+        ],
+        "contactInformation": {
+            "address": "20-22 Southampton Street, Southampton, SO15 2ED",
+            "phone": "023 8023 1200",
+            "email": "john@johndenham.org.uk",
+            "website": "www.johndenham.org.uk",
+            "socialMedia": {
+                "facebook": "John on Facebook",
+                "twitter": "john@johndenham.org.uk",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "John Denham - Delivering for Southampton"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "SNP",
+        "electionDate": "May 5",
+        "messages": [
+            {
+                "title": "Making Scotland Better",
+                "content": "The SNP has big plans for the next five years. A re-elected SNP government will keep the council tax frozen, increase the number of police on our streets..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Council Tax",
+                "policyDescription": "Keep the council tax frozen, easing the pressure on family budgets."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Protect and extend free healthcare in the NHS, ensuring wait times for treatments are shorter and treatment improves."
+            },
+            {
+                "policyTitle": "Safety",
+                "policyDescription": "Put 1,000 additional extra police on our streets, helping us reduce crime levels further."
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "Gain new law-making powers for the Scottish Parliament."
+            },
+            {
+                "policyTitle": "Independence Referendum",
+                "policyDescription": "Enable the people to decide our nation's future in an independence referendum."
+            },
+            {
+                "policyTitle": "Employment",
+                "policyDescription": "Help 100,000 young Scots get training for work, including modern apprenticeships."
+            },
+            {
+                "policyTitle": "Low Carbon Economy",
+                "policyDescription": "Secure 130,000 jobs in the low carbon economy by 2020."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Reduce the number of Scottish pupils taught in crumbling schools and keep university education free with no tuition fees or graduate contribution."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Deliver balanced budgets for Scotland with savings identified to fund public services."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "Gain new law-making powers for the Scottish Parliament.",
+            "health": "Protect and extend free healthcare in the NHS, ensuring wait times for treatments are shorter and treatment improves.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "bepartofbetter.net",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Children smiling with a caption saying 'In government the SNP has delivered real progress.'"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet suggests that voters have two votes in Scotland's election and indicates how to vote for the SNP on both ballot papers."
+    }
+}

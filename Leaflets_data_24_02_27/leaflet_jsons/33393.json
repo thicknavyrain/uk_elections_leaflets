@@ -1,0 +1,65 @@
+{
+    "leaflet": {
+        "candidateName": "April Clark",
+        "constituency": "Tonbridge and Malling",
+        "politicalParty": "Green Party",
+        "electionDate": "12th December",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Europe",
+                "policyDescription": "Yes to Europe."
+            },
+            {
+                "policyTitle": "Climate",
+                "policyDescription": "No to Climate Chaos."
+            }
+        ],
+        "mentions": {
+            "candidate": "April Clark",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Yes to Europe.",
+            "economy": "",
+            "education": "",
+            "environment": "No to Climate Chaos.",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "8 Northcote Road, Tonbridge TN9 1JD",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "April Clark with a background of Tonbridge"
+                }
+            ]
+        },
+        "additionalNotes": "Promoted by Frances Long on behalf of the Green Party."
+    }
+}

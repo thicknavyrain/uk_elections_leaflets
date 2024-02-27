@@ -1,0 +1,108 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Eastern Region",
+        "politicalParty": "Green Party",
+        "electionDate": "May 2015",
+        "messages": [
+            {
+                "title": "Greens Riding High in the Polls",
+                "content": "The Green Party's support has grown in the last few months within the poll results nationally and in constituency-based polls."
+            },
+            {
+                "title": "Green Party Membership Surges",
+                "content": "Membership in the Green Party in Britain has surged, overtaking UKIP and the Lib Dems, signaling a shift towards environmental and social justice issues."
+            },
+            {
+                "title": "Greens Oppose New Nuclear Power Stations",
+                "content": "The Green Party opposes the recent decision by the European Commission to allow a new nuclear power station to be built in the UK due to environmental and safety concerns."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Minimum Wage Increase",
+                "policyDescription": "The Green Party is calling for a \u00a310 minimum wage by 2020 to reduce income inequality and provide all workers with a living wage."
+            },
+            {
+                "policyTitle": "Nuclear Power Opposition",
+                "policyDescription": "The Green Party is against building more nuclear power stations and aims for a more sustainable and renewable energy policy."
+            },
+            {
+                "policyTitle": "Renationalization of the Railways",
+                "policyDescription": "The Green Party supports the renationalization of the railways and proposes reducing rail fares by 10 percent to create a more accessible and efficient transportation system."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "The Green Party advocates for economic policies that support a living wage, oppose austerity, and promote public services like the renationalization of the railways.",
+            "education": "",
+            "environment": "The Green Party opposes the construction of new nuclear power stations and promotes investment in renewable energy sources.",
+            "governance": "",
+            "health": "Greens condemn the privatization of care homes, arguing for better management and the reversal of national health service sell-offs.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "The Green Party calls for more affordable housing in cities and protection for mobile home communities.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "205-206 Suckville Place, 44-48 Magdalen St, Norwich, Norfolk, NR3 1JU",
+            "phone": "",
+            "email": "eastern@greenparty.org.uk",
+            "website": "www.eastern.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Green Party activists campaigning against nuclear power outside Sizewell B power station in Suffolk."
+                },
+                {
+                    "caption": "The Green Party calls for a \u00a310 minimum wage by 2020."
+                },
+                {
+                    "caption": "Green Party calls for more affordable housing in cities and greater protection for mobile home communities."
+                },
+                {
+                    "caption": "Green campaigners call for the renationalisation of the railways."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

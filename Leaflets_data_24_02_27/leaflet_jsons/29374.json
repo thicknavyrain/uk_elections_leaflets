@@ -1,0 +1,111 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Chris Jones",
+        "constituency": "Norwich North",
+        "politicalParty": "Labour",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Only Labour will stand up for pensioners",
+                "content": "The Tories have launched an all-out attack on pensioners and have announced they would: Scrap the 'Triple Lock' on state pensions, Raise the State Pension Age, Means-test Winter Fuel Payments, Make even more people pay for their own social care."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Guaranteeing the pension triple-lock",
+                "policyDescription": "Labour commits to preserving the 'Triple Lock' on state pensions."
+            },
+            {
+                "policyTitle": "Funding the NHS",
+                "policyDescription": "Increase funding for the NHS to provide essential care."
+            },
+            {
+                "policyTitle": "Scrapping student tuition fees",
+                "policyDescription": "Labour intends to eliminate tuition fees for students."
+            },
+            {
+                "policyTitle": "Investing in housing and infrastructure",
+                "policyDescription": "Focused investment in housing and infrastructure to bolster these areas."
+            },
+            {
+                "policyTitle": "Supporting small and medium-sized businesses",
+                "policyDescription": "Labour plans to back small and medium enterprises."
+            },
+            {
+                "policyTitle": "Renationalising rail services",
+                "policyDescription": "Labour aims to bring rail services back into public ownership."
+            },
+            {
+                "policyTitle": "Investing in education for all",
+                "policyDescription": "Labour promises investment in education to make it inclusive, not just for the select few."
+            },
+            {
+                "policyTitle": "Tackling tax avoidance",
+                "policyDescription": "Labour will take action to address tax avoidance issues."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Chris Jones",
+            "otherPartyLeaderCandidate": "Chloe Smith",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Labour intends to eliminate tuition fees for students.",
+            "environment": "",
+            "governance": "",
+            "health": "Increase funding for the NHS to provide essential care.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Focused investment in housing and infrastructure to bolster these areas.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Dr Chris Jones, St Mark's Church Hall, Hall Road, Norwich NR1 3HL",
+            "phone": "07900 184825",
+            "email": "mail@DrChrisJones.org",
+            "website": "www.DrChrisJones.org",
+            "socialMedia": {
+                "facebook": "facebook.com/ChrisJones4Labour",
+                "twitter": "@Chris4NorwichN",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Dr Chris Jones pictured with a backdrop of Norwich"
+                }
+            ]
+        },
+        "additionalNotes": "Response to Tory policies and positions of Chloe Smith is used to contrast with Labour's pledges."
+    }
+}

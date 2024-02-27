@@ -1,0 +1,86 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Swinson",
+        "constituency": "",
+        "politicalParty": "Lib Dems",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "Plan for Britain's Future",
+                "content": "We have an ambitious plan for the future of our country, where every person, every community, and our planet can thrive."
+            },
+            {
+                "title": "Dear friend,",
+                "content": "For too many people, things aren't working as they should be. Both the Conservatives and Labour are stuck in the past, failing time and again to deliver a better future."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "A Liberal Democrat government will stop Brexit."
+            },
+            {
+                "policyTitle": "Tackle the climate emergency",
+                "policyDescription": "A policy related to addressing climate change issues."
+            },
+            {
+                "policyTitle": "Build a fair economy",
+                "policyDescription": "A policy focused on creating a more equitable economic system."
+            },
+            {
+                "policyTitle": "Give every child the best start in life",
+                "policyDescription": "A policy to improve opportunities and outcomes for children."
+            },
+            {
+                "policyTitle": "Transform our mental health services",
+                "policyDescription": "A policy to improve mental health services across the country."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "A Liberal Democrat government will stop Brexit.",
+            "economy": "Build a fair economy.",
+            "education": "Give every child the best start in life.",
+            "environment": "Tackle the climate emergency.",
+            "governance": "We have an ambitious plan for the future of our country.",
+            "health": "Transform our mental health services.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Both the Conservatives and Labour are stuck in the past, failing time and again to deliver a better future.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "1a Braeburn Park, London, SW18 1AQ",
+            "phone": "",
+            "email": "",
+            "website": "LibDems.org.uk/plan",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jo Swinson's Plan for Britain's Future"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "leaflet": {
+        "candidateName": "Caroline Lucas",
+        "constituency": "Brighton Pavilion",
+        "politicalParty": "Green Party",
+        "electionDate": "7th May",
+        "messages": [
+            {
+                "title": "RE-ELECT CAROLINE LUCAS",
+                "content": "An effective local MP. A strong national voice."
+            },
+            {
+                "title": "Dear Brighton Pavilion Resident",
+                "content": "I want to ask for your support at the General Election on 7th May. With your help, I want to return to Parliament to continue the essential work started during my time as your MP - holding this government to account and offering a positive alternative. Whenever you have needed a strong independent voice in Parliament, I\u2019ve been there. My promise to you is to build on what we have already achieved, to keep putting your concerns first and continue standing up for our city."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Investing in renewable energy and public transport to create jobs, fighting for job security and fair wages, and reversing public service cuts."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Campaigning against privatisation, for better mental health services and to protect the NHS from TTIP."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Fighting for free education and opposing academies and 'free schools'."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Tackling the housing crisis by regulating landlords, banning letting agency fees and building more council houses."
+            }
+        ],
+        "mentions": {
+            "candidate": "Caroline Lucas",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Investing in sustainable sectors such as renewable energy and public transport to create good jobs.",
+            "education": "Fighting for free education and against academies and 'free schools'.",
+            "environment": "",
+            "governance": "Holding the government to account.",
+            "health": "Campaigning to protect the NHS from privatisation and TTIP.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Tackling the housing crisis by regulating landlords, banning letting agency fees and building more council houses.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Whenever you have needed a strong independent voice in Parliament, I\u2019ve been there.",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "2010-Present",
+                "achievements": "Holding the government to account and offering a positive alternative."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.carolinelucas.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@carolinelucas",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Caroline Lucas speaking at an event"
+                },
+                {
+                    "caption": "Caroline Lucas with constituents"
+                },
+                {
+                    "caption": "Graph showing reduction in majority needed for Green victory"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet includes a graph that indicates the reducing majority needed for a Green victory, signifying a tactical situation where the Green Party is closing the gap on leading parties."
+    }
+}

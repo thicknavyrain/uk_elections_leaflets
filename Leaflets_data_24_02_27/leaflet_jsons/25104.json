@@ -1,0 +1,106 @@
+{
+  "leaflet": {
+	"candidateName": "John Doe",
+	"constituency": "Exampleston",
+	"politicalParty": "Lib Dems",
+	"electionDate": "May 5th",
+	"messages": [
+  	{
+    	"title": "A fresh start for Exampleston",
+    	"content": "John is standing to be the next MP for Exampleston to give the area a much needed fresh start"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Safe streets",
+    	"policyDescription": "Fighting to bring back community policing and save the local station from closure"
+  	},
+  	{
+    	"policyTitle": "Better transport",
+    	"policyDescription": "Working for realistic parking charges and better bus services, and to stop Conservative Metro chaos"
+  	},
+  	{
+    	"policyTitle": "Honest politics",
+    	"policyDescription": "John opposes Conservative boundary changes that would slice Exampleston in two"
+  	}
+	],
+	"mentions": {
+  	"candidate": "John",
+  	"otherPartyLeaderCandidate": "Conservative",
+  	"partyLeader": "",
+  	"tacticalSituation": "John opposes Conservative boundary changes that would slice Exampleston in two"
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Working for realistic parking charges and better bus services",
+  	"education": "",
+  	"environment": "",
+  	"governance": "John opposes Conservative boundary changes that would slice Exampleston in two",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Fighting to bring back community policing and save the local station from closure",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "It's time for a fresh start with a local resident putting Exampleston first",
+	"politicalExperience": [
+  	{
+    	"role": "School Governor",
+    	"duration": "15 years",
+    	"achievements": ""
+  	},
+  	{
+    	"role": "Charity Trustee",
+    	"duration": "10 years",
+    	"achievements": ""
+  	},
+  	{
+    	"role": "Magistrate",
+    	"duration": "3 years",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "johndoe@example.com",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "johndoetwit",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "People Name",
+    	"endorsement": "John is a tireless community campaigner"
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "It's time for a fresh start with a local resident putting Exampleston first - John Doe",
+    	"source": "John Doe",
+    	"date": ""
+  	},
+  	{
+    	"text": "John is committed to Exampleston - he'll make a great MP",
+    	"source": "Person2",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

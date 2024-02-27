@@ -1,0 +1,100 @@
+{
+    "leaflet": {
+        "candidateName": "Caroline Lucas",
+        "constituency": "Brighton Pavilion",
+        "politicalParty": "Green Party",
+        "electionDate": "6th May 2010",
+        "messages": [
+            {
+                "title": "Vote for a positive Green vision",
+                "content": "Vote Green on Thursday 6th May."
+            },
+            {
+                "title": "What the bookies say...",
+                "content": "Pundits & pollsters are betting to win Brighton Pavilion."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Create jobs, build a fairer society."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Green policies protect the environment."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "A free NHS dental check-up, prescriptions at \u00a33/per week."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Scrap tuition fees, leaving grant of \u00a380/week."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Create more affordable housing."
+            },
+            {
+                "policyTitle": "Social Welfare",
+                "policyDescription": "A minimum wage of \u00a38.10/hour, decent pension."
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "A fair electoral system, no illegal wars, proportional representation."
+            }
+        ],
+        "mentions": {
+            "candidate": "Caroline Lucas",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Strategic voting considerations highlighted with a bar graph showing Green Party leading in the pollsters' and bookies' predictions."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Create jobs, build a fairer society.",
+            "education": "Scrap tuition fees.",
+            "environment": "Green policies protect the environment.",
+            "governance": "A fair electoral system, proportional representation.",
+            "health": "A free NHS dental check-up.",
+            "immigration": "",
+            "socialWelfare": "A minimum wage of \u00a38.10/hour, decent pension.",
+            "housing": [
+                {
+                    "content": "Create more affordable housing.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Green Party's first MP elected in British Parliament",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01273 766670",
+            "email": "caroline@brightonhovegreens.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of Caroline Lucas with a positive Green vision message."
+                }
+            ]
+        },
+        "additionalNotes": "Labour's disappointing record in Brighton is highlighted. References to the importance of tactical voting in this constituency."
+    }
+}

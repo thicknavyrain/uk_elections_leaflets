@@ -1,0 +1,81 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Small Businesses Support",
+                "policyDescription": "Labour has helped 170,000 small businesses through the recession by allowing them to defer tax payments."
+            },
+            {
+                "policyTitle": "Child Poverty Reduction",
+                "policyDescription": "Labour has taken 1/2 million children out of poverty in the UK."
+            },
+            {
+                "policyTitle": "Creating Sure Start Centres",
+                "policyDescription": "Labour is creating Sure Start Centres for every community."
+            },
+            {
+                "policyTitle": "Healthcare Staffing Increase",
+                "policyDescription": "Labour has provided 89,000 more nurses & 44,000 more doctors."
+            },
+            {
+                "policyTitle": "NHS Waiting Lists",
+                "policyDescription": "The NHS has the shortest waiting lists ever."
+            },
+            {
+                "policyTitle": "Additional Support for the Elderly",
+                "policyDescription": "Labour has brought in free bus passes, winter fuel payments and will bring in free personal care at home for those pensioners with the highest needs."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "This election will be a choice between a Labour or Tory government."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Labour's NHS guarantees will be scrapped by the Tories if they are elected.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Comparison between Labour and Tories on various policies and actions."
+                }
+            ]
+        },
+        "additionalNotes": "The Tories' plans on cutting tax for the richest and putting local jobs and businesses at risk are mentioned in contrast to Labour's achievements and policies."
+    }
+}

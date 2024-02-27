@@ -1,0 +1,84 @@
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "",
+    "politicalParty": "Lib Dems",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "After sixty-five years of Labour and the Conservatives, it’s time to do things differently.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Protect public services",
+        "policyDescription": "Invest £2.5 billion in our schools. A guarantee to protect vital NHS services."
+      },
+      {
+        "policyTitle": "Get our economy moving",
+        "policyDescription": "No tax on the first £10,000 you earn. Cut Government waste to protect services and pay back the deficit. Action to create jobs."
+      },
+      {
+        "policyTitle": "Clean up politics",
+        "policyDescription": "Give people the power to sack corrupt MPs. Ban big donations from politics and give power back to local communities."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "No tax on the first £10,000 you earn. Cut Government waste to protect services and pay back the deficit. Action to create jobs.",
+      "education": "Invest £2.5 billion in our schools.",
+      "environment": "",
+      "governance": "Clean up politics. Give people the power to sack corrupt MPs. Ban big donations from politics and give power back to local communities.",
+      "health": "A guarantee to protect vital NHS services.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {}
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {}
+    ],
+    "quotes": [
+      {
+        "text": "Nick Clegg now in contention as potential PM",
+        "source": "The Guardian",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Clegg interacting with individuals in various settings."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

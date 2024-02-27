@@ -1,0 +1,87 @@
+{
+    "leaflet": {
+        "candidateName": "Jeremy Corbyn",
+        "constituency": "Islington",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Whittington Saved!",
+                "content": "After months of campaigning together, this week our community won the battle to save the Whittington Hospital. Health minister tells local NHS: stop any moves to close A&E."
+            },
+            {
+                "title": "Jeremy Corbyn: A victory for local people",
+                "content": "Jeremy says: Our community in Islington has shown its support for our health service and our hospital. Meetings, demonstrations, Parliamentary debates, council resolutions and lobbying by myself and Emily Thornberry have all helped to bring about this very welcome announcement. I am confident that the 24 hour A&E and maternity services at the Whittington are now safe."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Save Whittington Hospital A&E",
+                "policyDescription": "Stop any moves to close the A&E department at Whittington Hospital; secure maternity services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jeremy Corbyn",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Saved Whittington Hospital's A&E and maternity services from potential closure.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "All at 285 Hornsey Road, London N19 4HN.",
+            "phone": "",
+            "email": "",
+            "website": "www.islington-labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Jeremy Corbyn and Catherine West, Leader of Islington's Labour group",
+                "endorsement": "Join the Save Whittington Hospital coalition."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "I am confident that the 24 hour A&E and maternity services at the Whittington are now safe.",
+                "source": "Jeremy Corbyn",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Save our Hospital."
+                }
+            ]
+        },
+        "additionalNotes": "This newsletter has been delivered by local volunteers for Islington Labour. Campaign supported by demonstrations, Parliamentary debates, council resolutions, and lobbying."
+    }
+}

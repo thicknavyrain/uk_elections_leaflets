@@ -1,0 +1,113 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour Party",
+        "electionDate": "Thursday 7 May",
+        "messages": [
+            {
+                "title": "A PAY RISE FOR HARDWORKING BRITAIN WITH LABOUR",
+                "content": "Labour will make the minimum wage over \u00a38 an hour for a full-time worker on the minimum wage."
+            },
+            {
+                "title": "LABOUR WILL CUT THE DEFICIT EVERY YEAR",
+                "content": "Labour sets out a plan to build a strong economic foundation and balance the books."
+            },
+            {
+                "title": "A&E FACING WORST CRISIS ON RECORD AS TORY-LIB DEM CRISIS STARTS TO BITE",
+                "content": "NHS statistics show A&E departments are facing the worst crisis on record, with more than a million people waiting over four hours."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Minimum Wage",
+                "policyDescription": "Increase the minimum wage to over \u00a38 an hour for full-time workers."
+            },
+            {
+                "policyTitle": "Deficit Reduction",
+                "policyDescription": "Labour will cut the deficit every year with a balanced plan to build a strong economy."
+            },
+            {
+                "policyTitle": "Protecting the NHS",
+                "policyDescription": "Address the A&E crisis and reverse healthcare privatization."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Reduce tuition fees from \u00a39,000 to \u00a36,000 and increase apprentice opportunities."
+            },
+            {
+                "policyTitle": "Cost-of-Living Crisis",
+                "policyDescription": "Tackle the Tory-Lib Dem cost-of-living crisis."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Nick Clegg",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Labour sets out a plan to build a strong economic foundation and balance the books. Labour will also reverse the Tory-Lib Dem tax cuts for millionaires and crack the whip on tax avoiders.",
+            "education": "Tuition fees cut from \u00a39,000 to \u00a36,000 and more apprenticeships for the next generation.",
+            "environment": "",
+            "governance": "",
+            "health": "A&E departments are facing the worst crisis on record, with more than a million people waiting over four hours. Labour will invest in the NHS.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "support.labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Nick Clegg\u2019s record of broken promises is coming back to haunt the Lib Dems as support collapses.",
+                "source": "Labour Today",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "NHS crisis imagery and Labour campaigners"
+                },
+                {
+                    "caption": "Labour candidate discussing with apprentices"
+                },
+                {
+                    "caption": "Individual believed to be Nick Clegg with disappointment expression"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

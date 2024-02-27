@@ -1,0 +1,82 @@
+{
+  "leaflet": {
+	"candidateName": "Alan Bell",
+	"constituency": "Newcastle under Lyme",
+	"politicalParty": "Conservative",
+	"electionDate": "12 December 2019",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Taxation",
+    	"policyDescription": "Against the new homes tax proposed by Corbyn’s policies."
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Opposes free tuition fees for all students under Corbyn’s policies."
+  	},
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Critiques financial transaction tax and opposes putting politicians in charge of key industries as proposed by Corbyn."
+  	},
+  	{
+    	"policyTitle": "Utilities",
+    	"policyDescription": "Against the idea of putting politicians in charge of energy and water companies."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Alan Bell",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "",
+  	"tacticalSituation": "The Conservatives were only nine seats short of a majority last time so tactical voting is important to secure a majority government."
+	},
+	"issues": {
+  	"brexitEurope": "More arguing about Brexit and no action on our priorities mentioned in the context of Corbyn’s policies.",
+  	"economy": "Criticizes Corbyn’s policies for their cost to the country and mentions jobs lost, uncertainty for businesses, and gridlock in parliament.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "Criticizes Corbyn’s approach to involving politicians in the administration of rail, energy, water, and postal services.",
+  	"health": "Mentions the impact of a four-day week on vital public services like the NHS.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"New homes tax on EVERY home",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Your bill for the cost of Corbyn"
+    	},
+    	{
+      	"caption": "Higher tax on every home"
+    	},
+    	{
+      	"caption": "Reduced pension savings"
+    	},
+    	{
+      	"caption": "Politicians in charge of water and energy supplies"
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet critiques the financial impact of Jeremy Corbyn’s policies and encourages voting for Alan Bell to avoid those costs."
+  }
+}
