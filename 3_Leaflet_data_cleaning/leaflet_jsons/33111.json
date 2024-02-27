@@ -1,0 +1,103 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Scottish Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Labour stands for the real change Britain needs.",
+                "content": "You can\u2019t trust Boris Johnson\u2019s Tories. Only Labour can stop Boris Johnson and kick the Tories out of office."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Real Living Wage",
+                "policyDescription": "Give over 700,000 people in Scotland a pay rise by introducing a Real Living Wage of \u00a310 an hour."
+            },
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "Increase funding for the NHS with more nurses and doctors to give patients the care they need."
+            },
+            {
+                "policyTitle": "Housing Crisis",
+                "policyDescription": "Tackle the housing crisis by capping private sector rents and building more council houses."
+            },
+            {
+                "policyTitle": "Green Industrial Revolution",
+                "policyDescription": "Kick start a Green Industrial Revolution to tackle the climate emergency and create high skilled, high wage jobs."
+            },
+            {
+                "policyTitle": "Investment in Public Services",
+                "policyDescription": "Deliver \u00a370 billion of additional funding to invest in Scotland\u2019s people, communities and public services."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit sorted by giving the people the final say, and guaranteeing the option to Remain."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit sorted by giving the people the final say, and guaranteeing the option to Remain.",
+            "economy": "Kick start a Green Industrial Revolution to tackle the climate emergency and create high skilled, high wage jobs.",
+            "education": "",
+            "environment": "Kick start a Green Industrial Revolution to tackle the climate emergency and create high skilled, high wage jobs.",
+            "governance": "",
+            "health": "Increase funding for the NHS with more nurses and doctors to give patients the care they need.",
+            "immigration": "",
+            "socialWelfare": "Give over 700,000 people in Scotland a pay rise by introducing a Real Living Wage of \u00a310 an hour.",
+            "housing": [
+                {
+                    "content": "Tackle the housing crisis by capping private sector rents and building more council houses",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "It\u2019s time for real change \u2013 For the many, not the few",
+                "source": "Campaign slogan",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "It\u2019s time for real change. Vote Scottish Labour"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

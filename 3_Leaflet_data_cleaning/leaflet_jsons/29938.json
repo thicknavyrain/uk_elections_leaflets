@@ -1,0 +1,88 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "BACK THE CONSERVATIVES LOCALLY TO KEEP THERESA MAY AS PRIME MINISTER AND OUR ECONOMY STRONG"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economic Security",
+                "policyDescription": "Strong, stable leadership and economic security for Britain."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "IMF upgrades UK growth again as Theresa May hails economic strength.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "IMF upgrades UK growth again as Theresa May hails economic strength.",
+                "source": "Telegraph, 18 April 2017",
+                "date": "2017-04-18"
+            },
+            {
+                "text": "Labour\u2019s taxes would be highest since Second World War",
+                "source": "The Times, 27 May 2017",
+                "date": "2017-05-27"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "YOUR LOCAL VOTE WILL DECIDE."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

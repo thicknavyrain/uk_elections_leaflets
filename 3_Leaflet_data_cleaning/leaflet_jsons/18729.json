@@ -1,0 +1,94 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Labour will recruit 20,000 more nurses and 8,000 more GPs, guarantee GP appointments within 48 hours and cancer tests within one week."
+      },
+      {
+        "policyTitle": "Energy Bills",
+        "policyDescription": "Labour will freeze energy bills until 2017 and give the energy regulator the power to cut bills this winter."
+      },
+      {
+        "policyTitle": "Families and Tax",
+        "policyDescription": "Labour will not raise VAT, National Insurance or income tax for those earning under £60,000, while cutting taxes for 24 million working people and giving an £800 million boost for first-time buyers."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Labour will lower tuition fees to £6,000 a year and guarantee a job for young people out of work for a year, paid for with a tax on bankers."
+      },
+      {
+        "policyTitle": "Childcare",
+        "policyDescription": "Labour will extend free childcare from 15 to 25 hours for working parents of three and four-year-olds."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Labour will recruit 20,000 more nurses and 8,000 more GPs, guarantee GP appointments within 48 hours and cancer tests within one week.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour will give an £800 million boost for first-time buyers.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

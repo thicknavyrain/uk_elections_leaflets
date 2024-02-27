@@ -1,0 +1,95 @@
+{
+    "leaflet": {
+        "candidateName": "Shaun Bailey",
+        "constituency": "West Bromwich West",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Your local vote will decide the next Prime Minister",
+                "content": "This election will be close. YOUR LOCAL VOTE will decide it."
+            },
+            {
+                "title": "Election Communication",
+                "content": "Delivering Brexit in West Bromwich West."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Getting Brexit done.",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Investing in our NHS.",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Regenerating our communities.",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Shaun Bailey",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "This election will be close. YOUR LOCAL VOTE will decide it."
+        },
+        "issues": {
+            "brexitEurope": "Getting Brexit done. Brexit done with a deal \u00a333.9 billion extra for the NHS \u00a320,000 extra police officers.",
+            "economy": "\u00a33.6 billion to help towns invest and attract new businesses",
+            "education": "More funding for every pupil in every school",
+            "environment": "",
+            "governance": "",
+            "health": "\u00a333.9 billion extra for the NHS More funding for every pupil in every school",
+            "immigration": "",
+            "socialWelfare": "20,000 extra police for safer streets",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "John Curtice",
+                "endorsement": "Polls teeter between hung parliament and slim Tory majority."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Polls teeter between hung parliament and slim Tory majority.",
+                "source": "John Curtice, The Times",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Shaun Bailey pictured with constituents and campaigning."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

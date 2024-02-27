@@ -1,0 +1,115 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Green Party",
+        "electionDate": "Thursday June 8th",
+        "messages": [
+            {
+                "title": "STAND UP FOR OUR ENVIRONMENT",
+                "content": "Tyrannical agriculture, dirty fossil fuels and fracking."
+            },
+            {
+                "title": "STAND UP FOR OUR NHS",
+                "content": "Use Britain's wealth to invest in public health."
+            },
+            {
+                "title": "STAND UP FOR PENSIONERS",
+                "content": "Wealthy pensioners should pay at least as much tax as before."
+            },
+            {
+                "title": "STAND UP FOR YOUNG PEOPLE",
+                "content": "Education free for all and free from debt."
+            },
+            {
+                "title": "STAND UP FOR OUR RIGHTS",
+                "content": "For human rights and a vote on the terms of Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Tyrannical agriculture, dirty fossil fuels and fracking."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Invest in public health using Britain's wealth."
+            },
+            {
+                "policyTitle": "Pensioners",
+                "policyDescription": "Wealthy pensioners should contribute at least as much in taxes as previously."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Provide education that is free for all and not associated with debt."
+            },
+            {
+                "policyTitle": "Human Rights and Brexit",
+                "policyDescription": "Protect human rights and ensure a public vote on the terms of Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "A vote on the terms of Brexit.",
+            "economy": "",
+            "education": "Education free for all and free from debt.",
+            "environment": "Tyrannical agriculture, dirty fossil fuels and fracking.",
+            "governance": "",
+            "health": "Investing in public health using Britain's wealth.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "[email\u00a0protected]",
+            "website": "nottingham.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@NottmGreenParty",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

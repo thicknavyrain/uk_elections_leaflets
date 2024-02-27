@@ -1,0 +1,72 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Bermondsey and Old Southwark",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "8th June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stop Brexit",
+        "policyDescription": "Switching to the Lib Dems to stop Brexit, claiming they are the anti-Brexit party."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "The Conservatives can't win here."
+    },
+    "issues": {
+      "brexitEurope": "Want to stop Brexit from wrecking Britain.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "8-10 Great George Street, London, SW1P 3AE",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "\"Lib Dems are the anti-Brexit party.\"",
+        "source": "BBC, 19 April 2017",
+        "date": "19 April 2017"
+      },
+      {
+        "text": "\"Only the Lib Dems can stop hard Brexit\"",
+        "source": "The Times, 4 April 2017",
+        "date": "4 April 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour's Brexit let-down."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

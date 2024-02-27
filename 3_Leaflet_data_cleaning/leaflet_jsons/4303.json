@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+	"candidateName": "George Davidson",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Supporting the recovery",
+    	"content": "Helping you and your family"
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "George Davidson",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "A future fair for all",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "labour.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

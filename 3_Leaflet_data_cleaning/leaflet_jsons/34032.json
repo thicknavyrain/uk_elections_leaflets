@@ -1,0 +1,80 @@
+{
+  "leaflet": {
+	"candidateName": "Colin Clark",
+	"constituency": "Gordon",
+	"politicalParty": "Conservative",
+	"electionDate": "12th December",
+	"messages": [
+  	{
+    	"title": "ABOUT COLIN CLARK",
+    	"content": "Your Conservative candidate."
+  	},
+  	{
+    	"title": "YOUR VOTE CAN MAKE A DIFFERENCE IN GORDON",
+    	"content": "Informing about tactical voting to beat the SNP."
+  	},
+  	{
+    	"title": "WHY WE NEED TO BACK COLIN",
+    	"content": "He challenges the SNP on important local issues."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Opposition to SNP",
+    	"policyDescription": "Colin Clark is positioned as challenging the SNP, with a focus on their record and independence."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Colin Clark",
+  	"otherPartyLeaderCandidate": "Nicola Sturgeon",
+  	"partyLeader": "",
+  	"tacticalSituation": "Leaflet discusses tactical voting in Gordon to prevent an SNP win."
+	},
+	"issues": {
+  	"brexitEurope": "Highlighted choice between Boris who will deliver Brexit and Corbyn-Sturgeon who will bring more delay.",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [
+  	{
+    	"text": "Only Colin Clark here stops the SNP.",
+    	"source": "Campaign Messaging",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Leaflet with images of Colin Clark, campaign messages, and information about the election."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet is primarily concerned with the tactical voting message against the SNP."
+  }
+}

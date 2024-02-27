@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "David Cameron",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "6 May",
+        "messages": [
+            {
+                "title": "A contract between the Conservative Party and [Redacted]",
+                "content": "We go into the general election on 6 May with trust in politics and politicians at an all-time low. And I can understand why: the years of broken promises, the expenses scandal, the feeling that politicians have become too remote from the people \u2013 they\u2019ve all taken their toll."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Politics",
+                "policyDescription": "Give you the right to sack your MP, cut the number of MPs by ten per cent, cut the subsidies and perks for politicians, freeze ministers' pay."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Cut wasteful government spending, act now on the national debt, reduce emissions and build a greener economy, create more jobs."
+            },
+            {
+                "policyTitle": "Society",
+                "policyDescription": "Increase spending on health every year, support families by giving married couples and civil partners a tax break, raise standards in schools, fight back against crime and disorder."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "If you elect a Conservative government on 6 May, we will: Cut wasteful government spending so we can stop Labour\u2019s jobs tax, which would kill the recovery.",
+            "education": "If you elect a Conservative government on 6 May, we will: Raise standards in schools, by giving parents, charities and voluntary groups the power to start new smaller schools.",
+            "environment": "If you elect a Conservative government on 6 May, we will: Reduce emissions and build a greener economy, with thousands of new jobs in green industries and advanced manufacturing.",
+            "governance": "Our political system needs to change. Politicians must be made more accountable, and we must take power away from Westminster and put it in the hands of people \u2013 individuals, families and neighbourhoods.",
+            "health": "We will INCREASE spending on the NHS, and ENSURE that cancer patients get the drugs and treatment they need.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I\u2019m proud of the positive campaign the Conservatives have fought for this country.",
+        "politicalExperience": [
+            {
+                "role": "Leader of the Conservative Party",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Conservative Party, 30 Millbank, London SW1P 4DP",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A contract between the Conservative Party and [Redacted]"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "David Cameron",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+	],
+	"contactInformation": {
+	},
+	"endorsements": [
+	],
+	"quotes": [
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Securing Britain's Future"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

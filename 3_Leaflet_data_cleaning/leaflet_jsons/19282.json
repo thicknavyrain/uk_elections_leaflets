@@ -1,0 +1,66 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Liberal Democrat",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Don't let this man get away with yet more cuts...",
+    	"content": "The Tories have rejected a plea from doctors' leaders to... guarantee the NHS an extra £8 billion a year by 2020."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "The Tories",
+  	"partyLeader": "",
+  	"tacticalSituation": "In many parts of the country, only a Lib Dem vote can beat the Tories"
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "The Tories have rejected a plea from doctors' leaders to... guarantee the NHS an extra £8 billion a year by 2020.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "The Guardian",
+    	"endorsement": "The Tories have rejected a plea from doctors' leaders to... guarantee the NHS an extra £8 billion a year by 2020."
+  	}
+	],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Don't let this man get away with yet more cuts..."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

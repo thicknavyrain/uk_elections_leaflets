@@ -1,0 +1,88 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "constituency": "Maidenhead",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Strong, Stable Leadership in the National Interest",
+                "content": "Theresa May's key priorities revolve around securing more jobs and investment, safeguarding local NHS services, supporting schools to ensure every child has a good local school place, protecting the character of the area, and improving local train services and road access."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Securing more jobs and investment across the constituency, including a rejuvenated Maidenhead town centre."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Safeguarding local NHS services including St Marks Hospital."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Supporting our schools to ensure every child has a good local school place."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Protecting the character of our part of Berkshire."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Improving local train services and road access to London."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May has been our hard-working local MP since 1997.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Securing more jobs and investment across the constituency, including a rejuvenated Maidenhead town centre.",
+            "education": "Supporting local schools",
+            "environment": "Protecting the character of our part of Berkshire.",
+            "governance": "",
+            "health": "Safeguarding local NHS services including St Marks Hospital.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Theresa has been our hard-working local MP since 1997. She lives in the constituency with her husband Philip, and is active on the issues that matter to local people: like schools, the NHS, transport services, and much more.",
+        "politicalExperience": [
+            {
+                "role": "MP for Maidenhead",
+                "duration": "Since 1997",
+                "achievements": "Working on local issues such as schools, the NHS, transport services, and more."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0118 934 5433",
+            "email": "maidenhead@conservatives.com",
+            "website": "www.tmay.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May visiting the hospital, engaging with the public and partaking in local events."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

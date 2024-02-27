@@ -1,0 +1,88 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Not the Conservatives:",
+        "content": "Theresa May is pressing ahead with the most damaging of hard Brexits - one that no one voted for. If she wins big she'll steamroll ahead with plans to take Britain out of the single market."
+      },
+      {
+        "title": "The Liberal Democrats are fighting the hard Brexit:",
+        "content": "The Liberal Democrats are determined to fight to keep Britain in the single market. With a Conservative victory likely, more Lib Dem MPs in Parliament the better chance there is of challenging hard Brexit. A Lib Dem win in area like ours can stop Theresa May getting the big majority she wants - and prevent her hard Brexit plans."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting the hard Brexit",
+        "policyDescription": "The Liberal Democrats are determined to keep Britain in the single market and challenge the hard Brexit plans."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Theresa May, Nigel Farage",
+      "partyLeader": "Tim Farron",
+      "tacticalSituation": "A Lib Dem win in an area like ours can stop Theresa May from getting the big majority she wants."
+    },
+    "issues": {
+      "brexitEurope": "The Liberal Democrats are fighting against the hard Brexit and want to keep the UK in the single market.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "\"Theresa May says she will take UK into the hardest of Brexits.\"",
+        "source": "The Independent, 17 Jan 2017"
+      },
+      {
+        "text": "\"Only the Lib Dems can stop a hard Brexit.\"",
+        "source": "The Times, 4 April 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liberal Democrat leader Tim Farron with supporters."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```
+Please note that the images have not been used to identify any individuals, roles, or affiliations beyond what is made explicit through text and affiliations depicted within the campaign leaflet.

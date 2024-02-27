@@ -1,0 +1,87 @@
+{
+    "leaflet": {
+        "candidateName": "Rebecca Smith",
+        "constituency": "Plymouth Sutton and Devonport",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Your local vote will decide the next Prime Minister",
+                "content": "This election will be close. YOUR LOCAL VOTE will decide it."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done with new deal"
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Extra \u00a333.9 billion for the NHS"
+            }
+        ],
+        "mentions": {
+            "candidate": "Rebecca Smith",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "This election will be close. YOUR LOCAL VOTE will decide it."
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done with new deal",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Extra \u00a333.9 billion for the NHS",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Rebecca Smith Delivering Brexit in Plymouth Sutton and Devonport"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

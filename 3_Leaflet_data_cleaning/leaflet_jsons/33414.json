@@ -1,0 +1,111 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "LET'S GET BREXIT DONE — AND GET ON WITH THE COUNTRY'S PRIORITIES.",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Getting Brexit Done",
+        "policyDescription": "Brexit done with a deal."
+      },
+      {
+        "policyTitle": "National Health Service",
+        "policyDescription": "An extra £33.9 billion for the NHS."
+      },
+      {
+        "policyTitle": "Policing",
+        "policyDescription": "20,000 extra police officers."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "More funding for every pupil in every school."
+      },
+      {
+        "policyTitle": "General Practice Services",
+        "policyDescription": "50 million extra GP surgery appointments."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Brexit done with a deal.",
+      "economy": "",
+      "education": "More funding for every pupil in every school.",
+      "environment": "",
+      "governance": "",
+      "health": "An extra £33.9 billion for the NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "An extra £33.9 billion for the NHS."
+        },
+        {
+          "caption": "20,000 extra police officers."
+        },
+        {
+          "caption": "More funding for every pupil in every school."
+        },
+        {
+          "caption": "Brexit done with a deal."
+        },
+        {
+          "caption": "50 million extra GP surgery appointments."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

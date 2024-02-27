@@ -1,0 +1,78 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Who would you vote for?",
+                "content": "Nick Clegg has been the Member of Parliament for Sheffield Hallam since 2005, he is also leader of the Liberal Democrats. He has been campaigning to improve the opportunities for graduates who are leaving University into an incredibly difficult job market."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "The Liberal Democrats are committed to getting rid of tuition fees and oppose the top-up fees that Labour and the Conservatives support."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "Labour can't win here.",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": "Only the Lib Dems can beat the Conservatives in Hallam."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Respected economists have warned that the plans for an immediate cut in public spending will make it even more difficult to find work.",
+            "education": "The Liberal Democrats are committed to getting rid of tuition fees and oppose the top-up fees that Labour and the Conservatives support.",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Nick Clegg has been the Member of Parliament for Sheffield Hallam since 2005, he is also leader of the Liberal Democrats. He has been campaigning to improve the opportunities for graduates who are leaving University into an incredibly difficult job market.",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament for Sheffield Hallam",
+                "duration": "Since 2005",
+                "achievements": "Campaigning to improve opportunities for graduates entering the job market."
+            }
+        ],
+        "contactInformation": {
+            "address": "85 Nethergreen Rd, Sheffield, S11 7EH",
+            "phone": "230 9002",
+            "email": "nickclegg@sheffieldhallam.org.uk",
+            "website": "www.nickclegg.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The Conservatives have no interest in making a fairer Britain, their plans would make a more unequal society.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "It's Liberal Democrat or Conservative in Hallam"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet suggests a tactical voting situation where it is implied that the Labour Party cannot win in the constituency, directing voters to consider the Liberal Democrats as the main challengers to the Conservative Party."
+    }
+}

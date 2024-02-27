@@ -1,0 +1,51 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "Lothian",
+	"politicalParty": "Scottish National Party",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": []
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "bepartofbetter.net",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "RE-ELECT A SCOTTISH GOVERNMENT WORKING FOR SCOTLAND."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

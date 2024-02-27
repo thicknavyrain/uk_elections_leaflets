@@ -1,0 +1,111 @@
+{
+  "leaflet": {
+	"candidateName": "Theresa May",
+	"constituency": "Maidenhead",
+	"politicalParty": "Conservative Party",
+	"electionDate": "8th June 2017",
+	"messages": [
+  	{
+    	"title": "Making a success of Brexit",
+    	"content": "Theresa May's plan for Britain means she has the strength and stability to get the best deal for Britain."
+  	},
+  	{
+    	"title": "Stronger Economy",
+    	"content": "Every vote for Theresa May and the Conservatives will strengthen Britain's hand in the Brexit negotiation. Theresa May's Plan for a Stronger Britain will help us make a success of Brexit and deliver a stronger, fairer economy that works for everyone."
+  	},
+  	{
+    	"title": "Protecting our NHS",
+    	"content": "Your NHS will receive more doctors, more nurses, and good care you can rely on."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Cutting the deficit, lowering taxes for working families, and getting the best Brexit deal."
+  	},
+  	{
+    	"policyTitle": "Brexit",
+    	"policyDescription": "Ensuring a deep and special partnership with the EU while regaining control over laws, borders, and money."
+  	},
+  	{
+    	"policyTitle": "NHS",
+    	"policyDescription": "A commitment to increase NHS spending every year."
+  	},
+  	{
+    	"policyTitle": "Schools",
+    	"policyDescription": "More good school places and new technical qualifications."
+  	},
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "Help for first-time buyers and getting more homes built."
+  	},
+  	{
+    	"policyTitle": "Jobs",
+    	"policyDescription": "Creating higher paid, higher skilled jobs to benefit the whole country."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Theresa May",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "Theresa May",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Theresa May's plan for Britain means she has the strength and stability to get the best deal for Britain.",
+  	"economy": "Cutting the deficit, lowering taxes for working families, and getting the best Brexit deal.",
+  	"education": "More good school places and new technical qualifications.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "A commitment to increase NHS spending every year.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Help for first-time buyers and getting more homes built.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "Home Secretary",
+    	"duration": "Six years",
+    	"achievements": "Cutting crime, reducing immigration, and working to keep the country safe."
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Every vote for Theresa May will strengthen Britain's hand in Brexit negotiations",
+    	"source": "Campaign Literature",
+    	"date": "8th June 2017"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Theresa May interacting with various individuals and groups, emphasizing her connection with the public and her hands-on leadership."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

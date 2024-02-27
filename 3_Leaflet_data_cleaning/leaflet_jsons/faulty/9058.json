@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Sue Farrant",
+    "constituency": "West Dorset",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Sue's Positive Pledges for Change",
+        "content": "Sue Farrant's pledges include being a full-time MP, keeping parliament in London informed, publishing her voting record and expenses, holding regular local surgeries, and working to make the electoral system more representative."
+      },
+      {
+        "title": "Sue Farrant Putting West Dorset FIRST",
+        "content": "Sue has been campaigning to retain firefighters, minimize cuts to patient services, keep local post offices open, secure new hourly bus service, preserve local libraries, and support agricultural shows."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Full-Time Representation",
+        "policyDescription": "Pledges to be a full-time MP and to take no other paid employment."
+      },
+      {
+        "policyTitle": "Transparency and Accountability",
+        "policyDescription": "Will keep London informed of West Dorset issues, publish voting and expenses, and hold regular local surgeries."
+      },
+      {
+        "policyTitle": "Electoral Reform",
+        "policyDescription": "Supports changing the electoral system to make it more representative of people's wishes."
+      },
+      {
+        "policyTitle": "Local Campaigns",
+        "policyDescription": "Involved in various local issues such as preserving services, supporting causes related to veterans, and advocating for environmental issues."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sue Farrant",
+      "otherPartyLeaderCandidate": "David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": "The leaflet argues that only Sue Farrant, representing the Liberal Democrats, can beat the Conservatives in West Dorset, suggesting the voters should consider tactical voting."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Working with young people to save the TrickFactory."
+      "environment": "Supporting farms and dairies in their fight to keep conservation grants.",
+      "governance": "Pledging to make the electoral system more representative.",
+      "health": "Trying to minimize the cuts to patient services at Dorset County Hospital.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Campaigning to keep open our local post offices.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "It's no wonder we haven't seen much of our current MP in the last couple of years - he's got three jobs!",
+    "politicalExperience": [
+      {
+        "role": "Campaigner",
+        "duration": "Various campaigns listed",
+        "achievements": "Successfully campaigned to save local facilities like the Chickerell Library and the Three Cups Inn; fighting for compensation for Equitable Life policyholders; working to save the TrickFactory for young people."
+      }
+    ],
+    "contactInformation": {
+      "address": "FREEPOST, Sherborne, DT9 4BR",
+      "phone": "",
+      "email": "",
+      "website": "www.sue4westdorset.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photos of Sue Farrant engaged in various community activities and discussions with residents."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet includes a criticism of the current MP’s lack of presence and multi-job status, implying that Sue Farrant will be more dedicated and available."
+  }
+}
+```

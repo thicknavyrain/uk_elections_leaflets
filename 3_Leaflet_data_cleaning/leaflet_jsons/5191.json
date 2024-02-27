@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Health",
+    	"policyDescription": "Fighting for essential improvements at the local hospital and defending NHS staff."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Campaigning for essential improvements at our local hospital. We are the many, not the few. Defend our NHS!",
+  	"immigration": "",
+  	"socialWelfare": "Looking After Our Older People — believes that older people have made and still make a huge contribution to society. Our loved ones should be treated to a good life in their old age with dignity, respect, and access to high-quality services.",
+  	"housing": [
+    	{
+      	"content":"Fighting for investment in local infrastructure before expansion.",
+      	"yimbyNimby": "NIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

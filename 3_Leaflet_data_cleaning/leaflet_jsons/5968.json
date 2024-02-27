@@ -1,0 +1,109 @@
+{
+  "leaflet": {
+    "candidateName": "Jeremy Corbyn",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "May 6th",
+    "messages": [
+      {
+        "title": "Housing",
+        "content": "Housing is the biggest issue facing our community and I will continue to push for more social housing. Affordable homes are now being built for local people to rent..."
+      },
+      {
+        "title": "The National Health Service",
+        "content": "The National Health Service is the most enduring symbol of a civilised society. I am determined to ensure that it stays that way and that we see continual improvements..."
+      },
+      {
+        "title": "Sure Start Children's Centre",
+        "content": "Sure Start is an invaluable Labour Initiative"
+      },
+      {
+        "title": "The global financial crisis of 2008",
+        "content": "The global financial crisis of 2008 led to the public ownership of the major banks, which I support. The most important issue is to maintain public spending on basic services such as health, education, housing, social security and care for the most vulnerable..."
+      },
+      {
+        "title": "The great changes in our society",
+        "content": "The great changes in our society, from votes for women, anti discrimination laws, support for the disabled, to education and health care, all came from ordinary people making demands through their Members of Parliament."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Continue to push for more social housing and affordable homes for local people to rent."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Ensure the National Health Service remains a symbol of a civilised society with continual improvements and new investment in wards and Accident and Emergency Department."
+      },
+      {
+        "policyTitle": "Economic Policy",
+        "policyDescription": "Maintain public spending on basic services like health, education, housing and care despite the global financial crisis."
+      },
+      {
+        "policyTitle": "Social Justice",
+        "policyDescription": "Support historical changes in society such as votes for women, anti-discrimination laws, and health care, advocating for demands made through MPs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jeremy Corbyn",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "The most important issue is to maintain public spending on basic services such as health, education, housing, social security and care for the most vulnerable. Spending cuts can only mean more job losses and the danger of returning to recession.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "The National Health Service is the most enduring symbol of a civilised society. I am determined to ensure that it stays that way and that we see continual improvements...",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Housing is the biggest issue facing our community and I will continue to push for more social housing. Affordable homes are now being built for local people to rent...",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Vice Chair of the All Party Group on Human Rights, member of the Justice for Unions",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "02072723889",
+      "email": "jeremy@islingtonlabour.org.uk",
+      "website": "www.jeremycorbyn.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jeremy Corbyn outside the much improved Six Acres Estate"
+        },
+        {
+          "caption": "Save the Whittington A&E"
+        },
+        {
+          "caption": "Supported by Jeremy Corbyn, Sure Start Children's Centre"
+        },
+        {
+          "caption": "Jeremy Corbyn holds regular advice sessions"
+        }
+      ]
+    },
+    "additionalNotes": "MPs have to make tough decisions and I voted against the wars in Iraq and Afghanistan. I am a long standing peace and justice campaigner..."
+  }
+}

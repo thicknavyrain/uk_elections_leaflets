@@ -1,0 +1,101 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Real change for Britain",
+        "content": "This election is in your hands. Don't let the old parties scare you with their negative attacks. Don't let the old parties tell you that things can't be different. They can be. With your support on [day], Britain can have real change with the Liberal Democrats. Together we can give our country the fresh start it needs."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Getting our economy moving",
+        "policyDescription": "We will create jobs investing in renewable energy, public transport, and housing. We will take tough action on the banks to get them lending to businesses again."
+      },
+      {
+        "policyTitle": "Cleaning up Westminster",
+        "policyDescription": "We will give people the power to sack MPs who are found to be corrupt. We will ban big political donations. We will change our crazy electoral system."
+      },
+      {
+        "policyTitle": "Cutting your tax bill",
+        "policyDescription": "We will make taxes fairer so that no one will pay tax on the first £10,000 they earn - saving most tax payers £700. We will make the well off pay their fair share."
+      },
+      {
+        "policyTitle": "Protecting public services",
+        "policyDescription": "We will use savings from NHS admin to protect frontline services. We will invest in our schools to cut class sizes. We will put 3,000 more police on patrol to catch more criminals."
+      },
+      {
+        "policyTitle": "Backing our Armed Forces",
+        "policyDescription": "We will keep Britain's nuclear deterrent. We won't waste £100billion on a system we don't need - but we will make sure our Armed Forces have the equipment and pay they need."
+      },
+      {
+        "policyTitle": "Action on immigration",
+        "policyDescription": "We will put in place an immigration policy that works for Britain. We will set up an intelligence-led Border Police to stop illegal immigration. We will only send immigrants to the places where there are jobs and homes."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nick Clegg",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We will create jobs investing in renewable energy, public transport, and housing.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Channel 4 News",
+        "endorsement": "Liberal Democrats ahead of Labour in new poll"
+      },
+      {
+        "endorser": "The Guardian",
+        "endorsement": "Nick Clegg now in contention as potential PM"
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "I'm voting for things to be different this time"
+        }
+      ]
+    },
+    "additionalNotes": "Please display in your window"
+  }
+}

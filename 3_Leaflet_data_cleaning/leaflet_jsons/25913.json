@@ -1,0 +1,97 @@
+{
+    "leaflet": {
+        "candidateName": "Nicola Sturgeon",
+        "constituency": "",
+        "politicalParty": "SNP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Bairns Not Bombs",
+                "content": "With budgets so tight, we'll invest in childcare and vital public services not waste \u00a3100 billion on new nuclear weapons."
+            },
+            {
+                "title": "The Vow",
+                "content": "We'll keep the Westminster parties to their promise of more power for Scotland."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Childcare and Public Services",
+                "policyDescription": "Invest in childcare and vital public services rather than spending \u00a3100 billion on new nuclear weapons."
+            },
+            {
+                "policyTitle": "More Power for Scotland",
+                "policyDescription": "Hold Westminster parties accountable to their promise of granting more power to Scotland."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nicola Sturgeon",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "The SNP will play a constructive role in Westminster and bring ideas forward in a positive spirit.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "votesnp.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Daily Record",
+                "endorsement": "The Vow - The three Westminster leaders' promise to Scotland, Daily Record 16th September 2014"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The SNP will play a constructive role in Westminster and bring ideas forward in a positive spirit.",
+                "source": "Nicola Sturgeon",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Bairns Not Bombs"
+                },
+                {
+                    "caption": "The Vow"
+                },
+                {
+                    "caption": "Voting SNP means..."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

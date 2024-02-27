@@ -1,0 +1,69 @@
+{
+    "leaflet": {
+        "candidateName": "Stef Borella",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Build a million new homes",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Put the railways in public ownership",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Invest in and protect the NHS",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Stef Borella",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Stef Borella standing with a campaign message"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "May 7th",
+	"messages": [
+  	{
+    	"title": "It's too close to call",
+    	"content": "Your vote will make the difference."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "The image suggests that the votes are close between the Tory, Lib Dem, and Labour parties, indicating a tactical situation where a small number of votes could swing the result."
+	},
+	"issues": {
+	  "brexitEurope": "",
+	  "economy": "",
+	  "education": "",
+	  "environment": "",
+	  "governance": "",
+	  "health": "",
+	  "immigration": "",
+	  "socialWelfare": "",
+	  "housing": [
+	    {
+	      "content":"",
+	      "yimbyNimby": ""
+	    }
+	  ]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+	  "address": "",
+	  "phone": "",
+	  "email": "",
+	  "website": "",
+	  "socialMedia": {
+	    "facebook": "",
+	    "twitter": "",
+	    "instagram": "",
+	    "linkedin": ""
+	  }
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+	  "images": [
+	    {
+	      "caption": "Graphical representation of a close race indicating that Lib Dem votes are crucial in a tightly contested race, alongside Tory and Labour votes."
+	    }
+	  ]
+	},
+	"additionalNotes": ""
+  }
+}

@@ -1,0 +1,83 @@
+{
+    "leaflet": {
+        "candidateName": "Rod Cantrill",
+        "constituency": "Cambridge",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "12 December",
+        "messages": [
+            {
+                "title": "It's Rod or Labour here",
+                "content": "More and more remain voters from 2016's Referendum are backing Rod Cantrill and the Lib Dems."
+            },
+            {
+                "title": "YOUR CHOICE IS CLEAR:",
+                "content": "Rod Cantrill & the Lib Dems, fighting to stop Brexit OR Labour, who want to force through a Labour Brexit?"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stopping Brexit",
+                "policyDescription": "Rod Cantrill and the Liberal Democrats' top priority is stopping Brexit. They argue that Rod is the only candidate who can prevent Labour and Tories from carrying through their version of Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Rod Cantrill",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "The leaflet suggests tactical voting is necessary in Cambridge to prevent a Labour Brexit and indicates Rod Cantrill is the clear choice for those who want to stop Brexit."
+        },
+        "issues": {
+            "brexitEurope": "With stopping Brexit as our priority, Rod is the only candidate for you...",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk/join",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Omar, PhD Student",
+                "endorsement": "I'm backing Rod because he's 100% committed to tackling the climate emergency and understands the severity of the issue."
+            },
+            {
+                "endorser": "Anna, Local Pharmacist",
+                "endorsement": "Rod understands the need to invest more in schools and the local health. He'll be a true champion for our NHS."
+            },
+            {
+                "endorser": "Michael, Business Owner",
+                "endorsement": "As a fellow small business owner, I know what it takes to succeed. Rod understands the economy and is prepared to tackle Brexit, whatever it takes to keep jobs."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Leaflet front and back featuring Rod Cantrill, information about tactical voting, key policies, and endorsements."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

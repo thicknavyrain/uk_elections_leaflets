@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "Alis Ballance",
+        "constituency": "South Scotland Parliamentary Region",
+        "politicalParty": "Scottish Greens",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "No fees - keep tuition free"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Fairer taxes to invest in public services"
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Cut fuel bills, insulate every home"
+            }
+        ],
+        "mentions": {
+            "candidate": "Alis Ballance",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Fairer taxes to invest in public services",
+            "education": "No fees - keep tuition free",
+            "environment": "Cut fuel bills, insulate every home",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "insulate every home",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Alis Ballance for MSP"
+                }
+            ]
+        },
+        "additionalNotes": "Election communication from the Scottish Green Party"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "leaflet": {
+        "candidateName": "Tom Morrison",
+        "constituency": "Cheadle",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "The Liberal Democrats are WINNING",
+                "content": "Right across the UK, Jo Swinson's Liberal Democrats are winning and gaining momentum."
+            },
+            {
+                "title": "Vote Liberal Democrat for a brighter future",
+                "content": "It's Lib Dem Tom Morrison or the Conservatives here. Only a vote for the Lib Dems can stop the Conservatives here in Cheadle."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Will protect our NHS and ensure our schools are properly funded."
+            },
+            {
+                "policyTitle": "Law Enforcement",
+                "policyDescription": "More police on our streets."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Reverse the school cuts."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tom Morrison is fighting to give Cheadle Constituency a better deal.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "Only the Lib Dems can beat the Conservatives. Labour Party cannot win in our area."
+        },
+        "issues": {
+            "brexitEurope": "Voting for damaging Brexit",
+            "economy": "",
+            "education": "Reverse the school cuts.",
+            "environment": "",
+            "governance": "",
+            "health": "Will protect our NHS.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Tom told the campaign for more police on our streets and supported local residents and businesses when they were hit by the floods.",
+        "politicalExperience": [
+            {
+                "role": "Local Councillor and school governor",
+                "duration": "",
+                "achievements": "Campaign for more police on the streets, supported residents and businesses affected by floods."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tom and his wife Carla enjoying local beauty spot Bramall Hall"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

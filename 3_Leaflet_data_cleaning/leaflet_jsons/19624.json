@@ -1,0 +1,77 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "A strong economic foundation",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Higher living standards for working families",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "An NHS with the time to care",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Controls on immigration",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "A country where the next generation can do better than the last",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "A strong economic foundation",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "An NHS with the time to care",
+            "immigration": "Controls on immigration",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A better plan. A better future."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

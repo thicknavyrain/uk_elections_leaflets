@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "WHY WE NEED A CLEAN-BREAK BREXIT",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "CLEAN-BREAK BREXIT",
+    	"policyDescription": "Advocating for a Brexit that restores democratic control of laws, borders, and money without compromises, or backstops."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "The European Union empowers unelected commissioners and judges to overrule our Parliament. A Clean-Break Brexit is the way to take democratic control of our laws, borders and money – with no ifs, no buts or backstops.",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Candidate in front of the Big Ben"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

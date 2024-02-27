@@ -1,0 +1,100 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "Transforming Mental Health Services",
+                "content": "The Lib Dems will transform mental health services by treating them with the same urgency as physical health."
+            },
+            {
+                "title": "Free Childcare and a Fairer Economy",
+                "content": "The Lib Dems propose to provide free childcare from 9 months and to help families by unlocking the full potential of our economy."
+            },
+            {
+                "title": "The Choice is Simple",
+                "content": "The leaflet presents a choice for a brighter future with the Liberal Democrats versus the past with Labour or Conservatives being out of the race."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Mental Health",
+                "policyDescription": "Transform mental health services by treating them with the same urgency as physical health."
+            },
+            {
+                "policyTitle": "Childcare",
+                "policyDescription": "Provide free childcare from 9 months and unlock the full potential of our economy."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "The Lib Dems promise to transform mental health services by treating them with the same urgency as physical health.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.libdems.org.uk/plan",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\"The Lib Dem fightback is real - and it's changing everything.\"",
+                "source": "What the papers say",
+                "date": ""
+            },
+            {
+                "text": "\"Boris Johnson is on the run from me, he's scared to face any of us.\"",
+                "source": "Candidate",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The leaflet shows diverse images of people, including children and families, associating positive emotions with the Liberal Democrats' campaign."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

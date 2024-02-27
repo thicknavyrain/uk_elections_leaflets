@@ -1,0 +1,82 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "He's hoping you'll vote Lib Dem",
+        "content": "A vote for the Lib Dems or any other party will let the Tories win."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Nick Clegg",
+      "partyLeader": "",
+      "tacticalSituation": "Many Lib Dem voters would be horrified to watch the Lib Dems hand power to the Tories. But up and down the country this is what has happened."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Nick Clegg will back Tories in hung Parliament",
+        "source": "Daily Telegraph",
+        "date": "18 May 2009"
+      },
+      {
+        "text": "Clegg could support Tories in a minority government",
+        "source": "The Independent",
+        "date": "19 Mar 2010"
+      },
+      {
+        "text": "Clegg reveals Lib Dems prepared to join Tories in coalition",
+        "source": "The Guardian",
+        "date": "23 Nov 2009"
+      },
+      {
+        "text": "CLEGG: I WOULD BACK TORIES IN HUNG POLL",
+        "source": "The Sun",
+        "date": "23 Nov 2009"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Conservative Party campaign leaflet"
+        }
+      ]
+    },
+    "additionalNotes": "Share of the vote at the last general election: Labour 35.3%, Tory 32.3%, Lib Dem 22.1%. Local councils controlled by Tory-Lib Dem deals listed."
+  }
+}

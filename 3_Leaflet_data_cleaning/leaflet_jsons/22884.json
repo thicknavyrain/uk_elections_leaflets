@@ -1,0 +1,80 @@
+{
+	"leaflet": {
+		"candidateName": "",
+		"constituency": "",
+		"politicalParty": "Green Party",
+		"electionDate": "",
+		"messages": [],
+		"keyPolicies": [{
+				"policyTitle": "Economy",
+				"policyDescription": "We must take money back into the banks. A publicly accountable system of creating money directly for public benefit."
+			},
+			{
+				"policyTitle": "Health",
+				"policyDescription": "NHS under threat from EU-US trade deal. We should keep our public service out of the TTIP."
+			},
+			{
+				"policyTitle": "Housing",
+				"policyDescription": "We need affordable, secure homes for everyone. Scrap bedroom tax. Build more council houses; cap rents."
+			},
+			{
+				"policyTitle": "Environment",
+				"policyDescription": "Cutting carbon is good for jobs and the economy. We need a nationwide insulation programme, energy saving technology, funded by the Green New Deal."
+			},
+			{
+				"policyTitle": "Education",
+				"policyDescription": "Education is a right not a privilege. We oppose tuition fees, campaign for a comprehensive system and for education to inspire creativity."
+			},
+			{
+				"policyTitle": "Governance",
+				"policyDescription": "Oppose mass surveillance of our politics and our daily lives. Repeal anti-trade union laws."
+			}
+		],
+		"mentions": {
+			"candidate": "",
+			"otherPartyLeaderCandidate": "",
+			"partyLeader": "",
+			"tacticalSituation": ""
+		},
+		"issues": {
+			"brexitEurope": "",
+			"economy": "We must take money back into the banks. A publicly accountable system of creating money directly for public benefit.",
+			"education": "Education is a right not a privilege. We oppose tuition fees, campaign for a comprehensive system and for education to inspire creativity.",
+			"environment": "Cutting carbon is good for jobs and the economy. We need a nationwide insulation programme, energy saving technology, funded by the Green New Deal.",
+			"governance": "Oppose mass surveillance of our politics and our daily lives. Repeal anti-trade union laws.",
+			"health": "NHS under threat from EU-US trade deal. We should keep our public service out of the TTIP.",
+			"immigration": "",
+			"socialWelfare": "",
+			"housing": [{
+				"content": "We need affordable, secure homes for everyone. Scrap bedroom tax. Build more council houses; cap rents.",
+				"yimbyNimby": "YIMBY"
+			}]
+		},
+		"personalStatement": "",
+		"politicalExperience": [],
+		"contactInformation": {
+			"address": "",
+			"phone": "",
+			"email": "",
+			"website": "",
+			"socialMedia": {
+				"facebook": "",
+				"twitter": "",
+				"instagram": "",
+				"linkedin": ""
+			}
+		},
+		"endorsements": [],
+		"quotes": [],
+		"campaignMaterial": {
+			"images": [{
+					"caption": "Britain before Bankers"
+				},
+				{
+					"caption": "Committed to decentralisation"
+				}
+			]
+		},
+		"additionalNotes": ""
+	}
+}

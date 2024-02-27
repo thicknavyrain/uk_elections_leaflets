@@ -1,0 +1,88 @@
+{
+    "leaflet": {
+        "candidateName": "David Cameron",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Securing a better future for Britain",
+                "content": "By working to our long-term economic plan, we've: reduced the deficit, cut taxes for over 25 million people, created two million new jobs, and helped more people buy a home."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Long-term economic plan that saved the economy from the brink, created jobs and cut taxes for over 25 million people."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Helping hardworking taxpayers onto the housing ladder and plans to build 200,000 new starter homes sold at a discount for first-time buyers under 40."
+            },
+            {
+                "policyTitle": "Welfare",
+                "policyDescription": "Capping welfare and controlling immigration, thereby ensuring that people who work hard and do the right thing are not put at a disadvantage."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Protecting the NHS budget and committing to recruit 5,000 new nurses every year by 2020."
+            },
+            {
+                "policyTitle": "Tax",
+                "policyDescription": "Increase the tax-free personal allowance and introduce a tax cut for 30 million people."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Long-term economic plan that saved the economy from the brink, cut jobs and cut taxes for over 25 million people.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Pledge to protect NHS budget and recruiting more GPs and nurses.",
+            "immigration": "Capping welfare and controlling immigration.",
+            "socialWelfare": "Welfare benefits capped, control on immigration and a plan to support those who work to save and live a decent life.",
+            "housing": [
+                {
+                    "content": "Helping hardworking taxpayers onto the housing ladder with plans to build 200,000 new starter homes exclusively for first-time buyers under 40.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": "Helped stabilize economy, created jobs, cut taxes, increased home ownership, and planned improvements for education, healthcare, and accountability in welfare."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "conservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Cameron with constituents and promoting Conservative policies."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet outlines a request for survey participation to help understand the views on Conservative plans."
+    }
+}

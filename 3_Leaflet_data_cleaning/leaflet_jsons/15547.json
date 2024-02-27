@@ -1,0 +1,56 @@
+{
+  "leaflet": {
+	"candidateName": "Boris JOHNSON",
+	"constituency": "Uxbridge and South Ruislip",
+	"politicalParty": "Conservatives",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Boris JOHNSON",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "boris4uxbridge.com",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "A strong local team for Uxbridge and South Ruislip"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

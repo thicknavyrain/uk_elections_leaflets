@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+    "candidateName": "Ed Miliband",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "7 May",
+    "messages": [
+      {
+        "title": "A BETTER PLAN FOR WORKING FAMILIES",
+        "content": "Labour kick-starts election campaign"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Labour's five pledges are: a strong economic foundation, higher living standards for working families, an NHS with the time to care, controls on immigration, and a country that works for the next generation better than the last."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ed Miliband",
+      "otherPartyLeaderCandidate": "Nigel Farage",
+      "partyLeader": "Ed Miliband",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A strong economic foundation without extra borrowing.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "An NHS with the time to care.",
+      "immigration": "Controls on immigration.",
+      "socialWelfare": "Higher living standards for working families.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "None of Labour's commitments will require any extra borrowing.",
+        "source": "Labour Today",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour leader Ed Miliband launches Labour's better plan for working families."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet mentions Nigel Farage's stance on the NHS, indicating competitive positioning on health services."
+  }
+}

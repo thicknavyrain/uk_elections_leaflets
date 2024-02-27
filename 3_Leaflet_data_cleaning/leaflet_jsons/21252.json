@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+    "candidateName": "Jonny Roberts",
+    "constituency": "Newbury & Thatcham",
+    "politicalParty": "Labour",
+    "electionDate": "Vote on May 7th",
+    "messages": [
+      {
+        "title": "Your Labour Candidate",
+        "content": "Jonny grew up in this area and went to school here before studying PPE at Oxford. After a spell working in Parliament, Jonny decided to leave London again to dedicate himself to improving our area."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Labour's plan for a better housing",
+        "policyDescription": "Labour has a better plan for housing that will deliver 200,000 homes a year by 2020, give locals the first call on new homes in the area, get 16-24 year olds on the housing ladder and put first-time buyers first."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jonny Roberts",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"Labour has a better plan for housing that will deliver 200,000 homes a year by 2020, give locals the first call on new homes in the area, get 16-24 year olds on the housing ladder and put first-time buyers first.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Jonny grew up in this area and went to school here before studying PPE at Oxford. After a spell working in Parliament, Jonny decided to leave London again to dedicate himself to improving our area.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "@JonnyRobertsLabour",
+        "twitter": "@JonnyR_Labour",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "NEWBURY & THATCHAM DESERVE BETTER THAN THIS"
+  }
+}

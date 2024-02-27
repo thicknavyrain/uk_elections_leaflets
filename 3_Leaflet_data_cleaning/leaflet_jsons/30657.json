@@ -1,0 +1,82 @@
+{
+    "leaflet": {
+        "candidateName": "Sam Hall",
+        "constituency": "Muswell Hill",
+        "politicalParty": "Green Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "SAM SAYS...",
+                "content": "I live, work and grew up in Muswell Hill. I firmly believe we need to embrace sustainability so I'm standing to give us a positive Green voice. Only the Greens will stand up for our environment and our children's future. We'll fight for clean air and against Labour's reckless development plans. Please Vote Green."
+            },
+            {
+                "title": "THIS ELECTION ISN'T ABOUT THE NEXT FIVE YEARS. IT'S ABOUT THE NEXT FIFTY YEARS.",
+                "content": "Only the Green Party is offering you a vote on the final terms of the Brexit deal. The Green Party has the vision to offer an alternative future for our country, and our place in the world. Only the Green Party offers a different kind of politics. To build affordable homes and provide properly funded public services. And to put power back in your hands through a citizen's democracy."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Offering a vote on the final terms of the Brexit deal"
+            },
+            {
+                "policyTitle": "Affordable Homes",
+                "policyDescription": "To build affordable homes"
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Provide properly funded public services"
+            },
+            {
+                "policyTitle": "Citizen's Democracy",
+                "policyDescription": "Put power back in your hands through a citizen's democracy"
+            }
+        ],
+        "mentions": {
+            "candidate": "Sam Hall believes in embracing sustainability, standing for a positive Green voice, fighting for clean air, and against Labour's development plans",
+            "otherPartyLeaderCandidate": "The Conservatives",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Offering a vote on the final terms of the Brexit deal",
+            "economy": "To offer an alternative future for our country, and our place in the world",
+            "education": "",
+            "environment": "Stand up for our environment and our children's future. Fight for clean air and against Labour's reckless development plans",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "To build affordable homes",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Sam believes in embracing sustainability, standing for a positive Green voice, fighting for clean air, and against Labour's reckless development plans",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Sam Hall, 58 Springfield Avenue, London, N10 3SU",
+            "phone": "",
+            "email": "",
+            "website": "http://haringeygreens.org.uk",
+            "socialMedia": {
+                "facebook": "/haringeygreens",
+                "twitter": "@haringeygreens",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of the leaflet promoting Sam Hall from the Green Party for the constituency of Muswell Hill, election date 8th June."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

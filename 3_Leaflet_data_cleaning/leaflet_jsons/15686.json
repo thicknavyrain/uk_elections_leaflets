@@ -1,0 +1,57 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Ludlow",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "SHROPSHIRE GROWTH CREATING JOBS",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Working to secure quality healthcare in South Shropshire"
+        },
+        {
+          "caption": "Fighting for fairer funding for rural schools"
+        },
+        {
+          "caption": "Helping deliver better broadband and mobile connectivity"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

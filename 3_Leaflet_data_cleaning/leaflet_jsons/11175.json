@@ -1,0 +1,75 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Liverpool",
+    "politicalParty": "Labour",
+    "electionDate": "May 6th",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Labour support for pensioners",
+        "policyDescription": "Labour will restore the link between pensions and earnings. Labour's minimum income guarantee means that every pensioner receives at least £132 a week for single pensioners, or £202 a week for couples. Labour's Winter Fuel Allowance pays £200 a year and £300 for the over 80s. Labour also introduced free NHS prescriptions, free bus passes, free eye tests and flu jabs for the over 60s."
+      },
+      {
+        "policyTitle": "Labour support for residents",
+        "policyDescription": "Labour have supported and funded the new 'Liverpool Mutual Homes' which is spending over £1million every single week here in Liverpool. The LMH modernisation programme is upgrading ex-council housing in Old Swan, Childwall and Kensington to meet the decent homes standard. Under the Lib Dem Council the housing waiting list in Liverpool has increased to 23,000."
+      },
+      {
+        "policyTitle": "Labour investing in education",
+        "policyDescription": "Labour's investment in education has meant that there are now more university places, with record numbers of young people going to university. Labour's Education Maintenance Allowance encourages young people to stay on at school with up to £30 a week to study. Labour guarantee every young person an apprenticeship, college place or training."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Labour's investment in education has meant that there are now more university places, with record numbers of young people going to university. Labour's Education Maintenance Allowance encourages young people to stay on at school with up to £30 a week to study.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Labour have supported and funded the new 'Liverpool Mutual Homes' which is spending over £1million every single week here in Liverpool. Under the Lib Dem Council the housing waiting list in Liverpool has increased to 23,000.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour support for pensioners"
+        },
+        {
+          "caption": "Labour support for residents"
+        },
+        {
+          "caption": "Labour investing in education"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

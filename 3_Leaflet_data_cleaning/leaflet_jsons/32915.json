@@ -1,0 +1,107 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "12th December",
+	"messages": [
+  		{
+    		"title": "STOP BREXIT",
+    		"content": "Brexit is a national embarrassment. Every day, more and more people are realising how important EU membership is to our country and our future. The Liberal Democrats want to Stop Brexit, call for a People's Vote and remain in the EU because it's best for our economy, environment and public services."
+  		},
+  		{
+    		"title": "LABOUR'S BREXIT LET DOWN",
+    		"content": "Jeremy Corbyn has again rebuffed the demands of many of his own activists for Labour to become the party of remain."
+  		}
+	],
+	"keyPolicies": [
+  		{
+    		"policyTitle": "Stop Brexit",
+    		"policyDescription": "The Liberal Democrats are committed to stopping Brexit, calling for a People's Vote and campaigning to remain in the EU."
+  		}
+	],
+	"mentions": {
+  		"candidate": "",
+  		"otherPartyLeaderCandidate": "Jeremy Corbyn has again rebuffed the demands of many of his own activists for Labour to become the party of remain.",
+  		"partyLeader": "",
+  		"tacticalSituation": ""
+	},
+	"issues": {
+  		"brexitEurope": "The Liberal Democrats want to Stop Brexit, call for a People's Vote and remain in the EU because it's best for our economy, environment and public services.",
+  		"economy": "Stopping Brexit is best for our economy.",
+  		"education": "",
+  		"environment": "Remaining in the EU is best for our environment.",
+  		"governance": "",
+  		"health": "",
+  		"immigration": "",
+  		"socialWelfare": "",
+  		"housing": [
+    		{
+      		"content":"",
+      		"yimbyNimby": "N/A"
+    		}
+  		]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  		{
+    		"role": "",
+    		"duration": "",
+    		"achievements": ""
+  		}
+	],
+	"contactInformation": {
+  		"address": "Lib Dems, 8-10 Great George Street, London, SW1P 3AE",
+  		"phone": "",
+  		"email": "",
+  		"website": "www.LibDems.org.uk/join",
+  		"socialMedia": {
+    		"facebook": "",
+    		"twitter": "",
+    		"instagram": "",
+    		"linkedin": ""
+  		}
+	},
+	"endorsements": [
+  		{
+    		"endorser": "",
+    		"endorsement": ""
+  		}
+	],
+	"quotes": [
+  		{
+    		"text": "Jeremy Corbyn has again rebuffed the demands of many of his own activists for Labour to become the party of remain.",
+    		"source": "Article, October 2019",
+    		"date": "October 2019"
+  		},
+  		{
+    		"text": "[Corbyn] declined to say whether he would support 'Remain or Leave'",
+    		"source": "Interview",
+    		"date": ""
+  		},
+  		{
+    		"text": "Labour is not a remain party?",
+    		"source": "McKechin, November 2019",
+    		"date": "November 2019"
+  		},
+  		{
+    		"text": "19 Labour MPs who backed the Brexit deal",
+    		"source": "Article, Mirror, 2019",
+    		"date": "2019"
+  		},
+  		{
+    		"text": "Mr Corbyn says Labour will negotiate a Brexit deal",
+    		"source": "BBC, November 2019",
+    		"date": "November 2019"
+  		}
+	],
+	"campaignMaterial": {
+  		"images": [
+    		{
+      		"caption": "Liberal Democrats promotion material with messages regarding their stance on Brexit and criticism of Labour's position."
+    		}
+  		]
+	},
+	"additionalNotes": ""
+  }
+}

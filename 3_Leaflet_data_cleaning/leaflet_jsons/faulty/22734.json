@@ -1,0 +1,86 @@
+{
+    "leaflet": {
+        "candidateName": "Tim Goodall",
+        "constituency": "Leeds North West",
+        "politicalParty": "Green Party",
+        "electionDate": "2015",
+        "messages": [
+            {
+                "title": "Austerity: A Lesson From History",
+                "content": "Our country's national debt has regularly been far higher than it is now. We dealt with it without harsh austerity measures after World War 2, why can't we do the same now?"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "The Green Party proposes an end to austerity, moving away from policies that resulted in a slow recovery since the Great Recession."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Investment in public services and supporting a publically-funded National Health Service."
+            },
+            {
+                "policyTitle": "Minimum Wage",
+                "policyDescription": "Introducing a \u00a310 minimum wage to tackle in-work poverty."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tim Goodall",
+            "otherPartyLeaderCandidate": "Conservative government, Labour government",
+            "partyLeader": "Caroline Lucas",
+            "tacticalSituation": "this election we once face a in a generation choice in Leeds North West. You can either do as we have always done and vote for the Lib Dems or Labour to keep the Tories out, but still end up with another 5 years of damaging austerity."
+        },
+        "issues": {
+            "economy": "Investment in public services and a publically-funded NHS to create jobs and support communities.",
+            "health": "Supporting a publically-funded National Health Service.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Tim Goodall has a 24-year history in Leeds North West, first arriving in the constituency while studying at Leeds University in the early '90s. He has lived in Headingley and now lives in Weetwood. He was a Spanish teacher, impacting school performance in exams significantly.",
+        "politicalExperience": [
+            {
+                "role": "Spanish teacher",
+                "duration": "",
+                "achievements": "Significant impact on school performance in exams"
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "#VOTEGREEN2015",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Caroline Lucas",
+                "endorsement": "Imagine what the Green Party could achieve if we had more MPs working with Caroline Lucas to hold the big parties to account."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Austerity is a red line. If elected, Tim Goodall will join Caroline Lucas and any other Green MPs in an anti-austerity alliance with SNP and Plaid Cymru to stop Labour and Tories from imposing more cuts.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Austerity isn't working"
+                }
+            ]
+        },
+        "additionalNotes": "Tim Goodall is an advocate for the 'Keep Our NHS Public' campaign in Leeds."
+    }
+}

@@ -1,0 +1,95 @@
+{
+  "leaflet": {
+	"candidateName": "Theresa May",
+	"constituency": "",
+	"politicalParty": "Conservative Party",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Protecting Our NHS",
+    	"content": ""
+  	},
+  	{
+    	"title": "Help for first-time buyers",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Strong, Stable Leadership in the National Interest",
+    	"policyDescription": ""
+  	},
+  	{
+    	"policyTitle": "A Plan for Brexit and Beyond",
+    	"policyDescription": "Making a success of Brexit"
+  	},
+  	{
+    	"policyTitle": "A Stronger Economy for Your Future",
+    	"policyDescription": ""
+  	}
+	],
+	"mentions": {
+  	"candidate": "Theresa May for Britain",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Making a success of Brexit",
+  	"economy": "",
+  	"education": "More good school places",
+  	"environment": "",
+  	"governance": "Strong, Stable Leadership in the National Interest",
+  	"health": "Protecting Our NHS",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Help for first-time buyers",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "leaflet": {
+    "candidateName": "Ian Ross",
+    "constituency": "Worthing West",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Dear Resident,",
+        "content": "This General Election gives you an opportunity to vote in a young, fresh, energetic MP in Worthing West. Much is under threat if the Conservatives win..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Worried about the Conservatives who say they will scrap the two new hospitals..."
+      },
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Cut inheritance tax for the richest 3000 estates? Scrap 50% income tax for those earning over £150,000?"
+      },
+      {
+        "policyTitle": "Hunting Ban",
+        "policyDescription": "Overturn the fox-hunting ban?"
+      }
+    ],
+    "mentions": {
+      "candidate": "Ian Ross",
+      "otherPartyLeaderCandidate": "the Conservatives",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "As a young enthusiastic candidate aged 24, I find it extremely rewarding helping local people to resolve their problems; that's why I'm in politics.",
+    "politicalExperience": [
+      {
+        "role": "Parliamentary Candidate for Worthing West",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Ian Ross, Labour Hall, Lyndhurst Road, Worthing, BN11 2DF",
+      "phone": "",
+      "email": "ian.ross@btopenworld.com",
+      "website": "www.worthingwestlabour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ian Ross with a background of greenery."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

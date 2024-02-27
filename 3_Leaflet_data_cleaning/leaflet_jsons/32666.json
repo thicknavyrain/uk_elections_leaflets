@@ -1,0 +1,82 @@
+{
+    "leaflet": {
+        "candidateName": "Helen Hayes",
+        "constituency": "Dulwich and West Norwood",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Your Candidate for Dulwich and West Norwood",
+                "content": "\"After 10 years of Tory & Lib Dem cuts we need urgent change. Labour will provide a Final Say on Brexit, invest in King's College Hospital, reverse the cuts to our schools, tackle the climate emergency and build the genuinely affordable homes we need.\""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Labour will provide a Final Say on Brexit."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Invest in King's College Hospital."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Reverse the cuts to our schools."
+            },
+            {
+                "policyTitle": "Climate",
+                "policyDescription": "Tackle the climate emergency."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Build the genuinely affordable homes we need."
+            }
+        ],
+        "mentions": {
+            "candidate": "Helen Hayes",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Labour will provide a Final Say on Brexit.",
+            "economy": "",
+            "education": "Reverse the cuts to our schools.",
+            "environment": "Tackle the climate emergency.",
+            "governance": "",
+            "health": "Invest in King's College Hospital.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Build the genuinely affordable homes we need.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "After 10 years of Tory & Lib Dem cuts we need urgent change.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "020 7787 0573",
+            "email": "helen@helenhayes.org.uk",
+            "website": "helenhayes.org.uk",
+            "socialMedia": {
+                "facebook": "@helenhayes_",
+                "twitter": "@helenhayes_",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Helen Hayes holding an EU flag in front of the Houses of Parliament."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet was promoted by Andy Simmons on behalf of Helen Hayes both at Dulwich and West Norwood Labour Party, with specific address and printing information."
+    }
+}

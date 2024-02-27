@@ -1,0 +1,75 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Lib Dems",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "More money in your pocket",
+                "policyDescription": "The Lib Dems will deliver fairer taxes, more jobs and real help for pensioners."
+            },
+            {
+                "policyTitle": "Fighting for our vital services",
+                "policyDescription": "The Lib Dems will fight for our NHS and invest in schools, police."
+            },
+            {
+                "policyTitle": "Cleaning up Parliament",
+                "policyDescription": "The Lib Dems will give people the power to sack their MP and clean up politics."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Labour MP",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "The Lib Dems will give people the power to sack their MP and clean up politics.",
+            "health": "The Lib Dems will fight for our NHS.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Expenses: Fifth Labour MP Being Investigated",
+                "source": "Sky News, March 2010",
+                "date": "2010-03"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "CHANGE WITH THE LIB DEMS... OR MORE OF THE SAME WITH LABOUR"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

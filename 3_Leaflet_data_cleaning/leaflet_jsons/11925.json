@@ -1,0 +1,103 @@
+{
+    "leaflet": {
+        "candidateName": "ANGIE BRAY",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "VOTE FOR CHANGE ON THURSDAY",
+                "content": "Where we live should not dictate whether we get the change we voted for."
+            },
+            {
+                "title": "3 THINGS TO REMEMBER",
+                "content": "1. Britain needs a stable and decisive government, not a hung parliament.\n2. Only a vote for Angie Bray in [constituency] will kick out [otherPartyLeaderCandidate].\n3. Make your voice heard. Vote by 10pm on Thursday."
+            },
+            {
+                "title": "3 POSITIVE REASONS TO VOTE FOR CHANGE ON THURSDAY",
+                "content": "1. Vote for a strong NHS, fair pensions and a cap on immigration.\n2. Vote to secure your finances with no more stealth taxes and a freeze on council tax.\n3. Vote for clean, honest politics and Action not words on the environment."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "National Health Service",
+                "policyDescription": "Strong NHS, fair pensions."
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "A cap on immigration."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Secure finances with no more stealth taxes and a freeze on council tax."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Clean, honest politics and action not words on the environment."
+            }
+        ],
+        "mentions": {
+            "candidate": "Angie Bray",
+            "otherPartyLeaderCandidate": "[otherPartyLeaderCandidate]",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": "Only a vote for Angie Bray in [constituency] will kick out [otherPartyLeaderCandidate]."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Secure finances with no more stealth taxes and a freeze on council tax.",
+            "education": "",
+            "environment": "Action not words on the environment.",
+            "governance": "Clean, honest politics.",
+            "health": "Vote for a strong NHS, fair pensions.",
+            "immigration": "A cap on immigration.",
+            "socialWelfare": "Vote for a strong NHS, fair pensions.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote for your future. Vote for change."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet uses the image of David Cameron (the party leader) prominently alongside Angie Bray, with messaging focused on change and the importance of a stable government as opposed to a hung parliament. Specific stances and policies are mentioned, particularly regarding the NHS, immigration, taxes, and the environment."
+    }
+}

@@ -1,0 +1,46 @@
+{
+  "leaflet": {
+	"candidateName": "Thangam Debbonaire",
+	"constituency": "Bristol West",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 7 May",
+	"messages": [
+  	{
+    	"title": "My pledges to you",
+    	"content": "I will do everything I can to end child poverty and get a fair deal for people in Bristol. I will protect the rights of tenants. I will campaign for a healthier Bristol. I will protect our NHS across the city."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "End child poverty",
+    	"policyDescription": "I will do everything I can to end child poverty and get a fair deal for people in Bristol."
+  	},
+  	{
+    	"policyTitle": "Rights of tenants",
+    	"policyDescription": "I will protect the rights of tenants, ensure more people can rent safe, secure, and affordable accommodation, make three-year tenancies the norm, and ban Letting Agency fees."
+  	},
+  	{
+    	"policyTitle": "Healthier Bristol",
+    	"policyDescription": "I will campaign for a healthier Bristol by working for clean air, especially to protect the health of children and the elderly."
+  	},
+  	{
+    	"policyTitle": "NHS",
+    	"policyDescription": "I will protect our NHS across the city to help our GPs and hospitals who have been pushed to breaking point."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Thangam Debbonaire was in your local area today"
+	},
+	"issues": {
+  	"health": "Air pollution damages our health, especially the health of children and the elderly. I have been working for clean air in Bristol West and won't stop until our air is safe to breathe."
+	},
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Image of Thangam Debbonaire with a background of Bristol, including text outlining her pledges."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet focuses on local issues for the Bristol West constituency, emphasizing social welfare, housing, environment, and health services."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+	"candidateName": "Simon Hughes",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Our local champion for over 30 years",
+    	"content": ""
+  	},
+  	{
+    	"title": "The Conservatives CAN'T WIN HERE",
+    	"content": "Liberal Democrat Simon Hughes was MP here for 32 years. Labour won in 2015 by just a few thousand votes. A vote for the Conservatives in this constituency will only help Jeremy Corbyn."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Affordable homes",
+    	"policyDescription": "Fighting for affordable homes - fighting Labour’s luxury developments"
+  	},
+  	{
+    	"policyTitle": "Brexit",
+    	"policyDescription": "Giving people not politicians the final say on the final Brexit deal"
+  	}
+	],
+	"mentions": {
+  	"candidate": "Simon Hughes",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "",
+  	"tacticalSituation": "Labour Uncut expect the election here to be neck and neck. Your support can stop Labour sneaking back in."
+	},
+	"issues": {
+  	"brexitEurope": "Giving people not politicians the final say on the final Brexit deal",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Fighting for affordable homes - fighting Labour’s luxury developments",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "Member of Parliament",
+    	"duration": "32 years",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Labour Uncut",
+    	"endorsement": "The election here to be neck and neck. Your support can stop Labour sneaking back in."
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "Labour Uncut expect the election here to be neck and neck. Your support can stop Labour sneaking back in.",
+    	"source": "labour-uncut.co.uk",
+    	"date": "20th May 2017"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Simon Hughes with a background of a street view and Liberal Democrats logo."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

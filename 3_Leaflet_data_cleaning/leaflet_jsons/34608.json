@@ -1,0 +1,115 @@
+{
+  "leaflet": {
+    "candidateName": "Nigel Farage",
+    "constituency": "Ealing Southall",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "OUR CONTRACT WITH THE PEOPLE",
+        "content": "A clear Brexit timetable. A new political system that works for the majority. An Economic plan to boost British business and regions. An NHS 'fit for purpose'. A rational approach to immigration that treats all comers equally. A national debate about fixing our broken education system. A proper discussion about the future of farming, fishing, and our armed forces. A fairer deal to those living outside of London. A crackdown on waste and unnecessary spending."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "A clear Brexit timetable."
+      },
+      {
+        "policyTitle": "Political System",
+        "policyDescription": "A new political system that works for the majority."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "An Economic plan to boost British business and regions."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "An NHS 'fit for purpose'."
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "A rational approach to immigration that treats all comers equally."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "A national debate about fixing our broken education system."
+      },
+      {
+        "policyTitle": "Farming, Fishing, and Armed Forces",
+        "policyDescription": "A proper discussion about the future of farming, fishing, and our armed forces."
+      },
+      {
+        "policyTitle": "Fairness",
+        "policyDescription": "A fairer deal to those living outside of London."
+      },
+      {
+        "policyTitle": "Anti-Waste",
+        "policyDescription": "A crackdown on waste and unnecessary spending."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nigel Farage",
+      "otherPartyLeaderCandidate": "Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "There are around 130 seats that the Conservatives haven't won in at least 50 years. Only the Brexit Party can beat Corbyn's Labour in many of these seats."
+    },
+    "issues": {
+      "brexitEurope": "A clear Brexit timetable.",
+      "economy": "An Economic plan to boost British business and regions.",
+      "education": "A national debate about fixing our broken education system.",
+      "environment": "",
+      "governance": "A new political system that works for the majority.",
+      "health": "An NHS 'fit for purpose'.",
+      "immigration": "A rational approach to immigration that treats all comers equally.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I am standing in this general election because we need to transform politics for good.",
+    "politicalExperience": [
+      {
+        "role": "Member of the European Parliament",
+        "duration": "25 years",
+        "achievements": "Exposing waste and excess at the heart of the EU."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "contact@thebrexitparty.org",
+      "website": "www.thebrexitparty.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@brexitparty_uk",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nigel Farage holding a Brexit Party leaflet."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

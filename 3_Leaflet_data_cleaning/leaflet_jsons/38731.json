@@ -1,0 +1,92 @@
+{
+    "leaflet": {
+        "candidateName": "Laura Farris",
+        "constituency": "Newbury",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "It\u2019s a hung parliament \u2013 or a Conservative majority. Your local vote will decide it",
+                "content": "Your local vote will decide. Another hung parliament \u2013 or a Conservative majority."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done with a new deal"
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "\u00a333.9 billion extra for the NHS"
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "20,000 extra police officers"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More funding for schools, \u00a33.6 billion to help towns attract new businesses"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "\u00a33.6 billion to help towns attract new businesses"
+            },
+            {
+                "policyTitle": "Health Infrastructure",
+                "policyDescription": "40 new hospitals across the country"
+            }
+        ],
+        "mentions": {
+            "candidate": "Laura Farris",
+            "otherPartyLeaderCandidate": "Jo Swinson, Jeremy Corbyn, Nicola Sturgeon",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "A Lib Dem-Conservative coalition is not an option"
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done with a new deal",
+            "economy": "\u00a33.6 billion to help towns attract new businesses",
+            "education": "More funding for schools, \u00a33.6 billion to help towns attract new businesses",
+            "environment": "",
+            "governance": "",
+            "health": "\u00a333.9 billion extra for the NHS, 40 new hospitals",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Laura Farris with public and police officers"
+                },
+                {
+                    "caption": "Infographics of key policies"
+                },
+                {
+                    "caption": "Laura Farris engaging with the local community"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

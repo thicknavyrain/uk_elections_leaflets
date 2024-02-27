@@ -1,0 +1,79 @@
+{
+    "leaflet": {
+        "candidateName": "Samantha Fletcher",
+        "constituency": "Chippenham",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Fight to save Chippenham maternity unit, and reopen Melksham minor injuries unit."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Stop unnecessary development on green field sites and needless rising roads."
+            },
+            {
+                "policyTitle": "Energy",
+                "policyDescription": "Provide free insulation for all homes."
+            },
+            {
+                "policyTitle": "Taxation",
+                "policyDescription": "She says 'I will fight for local people, to claw more of our tax burden back from Westminster to put into local communities; I will fight for what is fair.'"
+            }
+        ],
+        "mentions": {
+            "candidate": "Samantha Fletcher",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "Stop unnecessary development on green field sites and needless rising roads.",
+            "governance": "",
+            "health": "Fight to save Chippenham maternity unit, and reopen Melksham minor injuries unit.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Stop unnecessary development on green field sites.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "0844 544 9277",
+            "email": "",
+            "website": "www.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Local Green Party events inspire hope for the future."
+                },
+                {
+                    "caption": "Vote for a living wage and a million new jobs."
+                },
+                {
+                    "caption": "Protect our NHS."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

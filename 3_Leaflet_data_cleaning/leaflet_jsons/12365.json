@@ -1,0 +1,106 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Take That star says Cameron is singing the right tune",
+                "content": "Gary Barlow backs Tory plans for a national school music competition."
+            },
+            {
+                "title": "Ending the free ride for those who fail to take responsibility",
+                "content": "A Conservative government will create a new welfare contract with people who have responsibilities."
+            },
+            {
+                "title": "Citizen Caine: Sir Michael backs Cameron\u2019s plans for a National Citizen Service",
+                "content": "Sir Michael Caine has given his backing to a National Conservative plan for a National Citizen Service for Britain's teenagers."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Welfare reform",
+                "policyDescription": "End the free ride for those who don't take responsibility."
+            },
+            {
+                "policyTitle": "National Citizen Service",
+                "policyDescription": "Plans for a National Citizen Service for Britain's teenagers."
+            },
+            {
+                "policyTitle": "NHS Cancer Drugs",
+                "policyDescription": "Fund new NHS cancer drugs."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Labour\u2019s David Cameron, The Liberals",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "National school music competition endorsed by Gary Barlow.",
+            "environment": "",
+            "governance": "Cleaning up our political system.",
+            "health": "Let's fund new NHS cancer drugs.",
+            "immigration": "",
+            "socialWelfare": "Ending the free ride for those who fail to take responsibility.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.conservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Gary Barlow",
+                "endorsement": "Backs Tory plans for a national school music competition."
+            },
+            {
+                "endorser": "Sir Michael Caine",
+                "endorsement": "Backs Conservative plans for a National Citizen Service."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The heart of what's wrong with our politics is that the politicians have forgotten. We the people are the boss. That's what needs to change in our system.",
+                "source": "David Cameron, 21 April 2010",
+                "date": "21 April 2010"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Gary Barlow with David Cameron endorsing the national school music competition."
+                },
+                {
+                    "caption": "Sir Michael Caine with David Cameron endorsing the National Citizen Service."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

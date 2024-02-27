@@ -1,0 +1,83 @@
+{
+    "leaflet": {
+        "candidateName": "Stewart McDonald",
+        "constituency": "Castlemilk",
+        "politicalParty": "SNP",
+        "electionDate": "May 7th",
+        "messages": [
+            {
+                "title": "A candidate born in Castlemilk, for Castlemilk",
+                "content": "A local MP who will work with you and your community to make Castlemilk better."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Minimum Wage",
+                "policyDescription": "Increase the minimum wage to \u00a38.70."
+            },
+            {
+                "policyTitle": "Zero Hours Contracts",
+                "policyDescription": "End exploitative zero hours contracts."
+            },
+            {
+                "policyTitle": "Tax Evasion",
+                "policyDescription": "Tough action on companies who dodge tax."
+            },
+            {
+                "policyTitle": "Powers for Scotland",
+                "policyDescription": "More powers for Scotland."
+            }
+        ],
+        "mentions": {
+            "candidate": "Stewart McDonald",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "stewart@glasgowsnp.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@StewartMcDonald",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Maureen Cope",
+                "endorsement": "I've been working to make Castlemilk a better place for more than 30 years, and I've dealt with a lot of politicians over that time. Although I have supported Labour my entire adult life, in this election I'm backing Stewart, the SNP candidate."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Stewart McDonald with Maureen Cope"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

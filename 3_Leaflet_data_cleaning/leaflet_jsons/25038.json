@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Scottish Labour",
+	"electionDate": "Thursday 7 May",
+	"messages": [
+  	{
+    	"title": "TOMORROW only a vote for Labour will stop David Cameron walking back into Downing Street.",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "",
+    	"policyDescription": ""
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "David Cameron",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "TOMORROW only a vote for Labour will stop David Cameron walking back into Downing Street."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

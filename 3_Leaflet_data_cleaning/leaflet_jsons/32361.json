@@ -1,0 +1,84 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Philippa Whitford",
+        "constituency": "Central Ayrshire Constituency",
+        "politicalParty": "SNP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A decade of Austerity",
+                "content": "Campaign against hardship due to Universal Credit, the benefit freeze and the two-child limit."
+            },
+            {
+                "title": "Brexit is BAD for Scotland",
+                "content": "Challenges including tariffs, bureaucracy and delays, staff shortages in NHS, friction at borders affecting medicine supply, lowering safety, and health standards."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Social Welfare",
+                "policyDescription": "SNP Government has measures to alleviate Tory benefit cuts and mitigate Bedroom Tax with policies like the Scottish Child Payment."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Friction at borders post-Brexit threatens NHS supplies, and a US trade deal could double NHS drug costs."
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "Westminster's policies threaten Scottish devolution; advocating for protection of the Scottish Parliament."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Philippa Whitford",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Voting history of 13 Scottish Tories and Labour's stance on public procurement policies."
+        },
+        "issues": {
+            "brexitEurope": "Brexit effects including risks for the NHS, loss of EU citizens resulting in staff shortages, increased tariffs, and bureaucracy.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "Protection of Scottish Parliament from Westminster's policies.",
+            "health": "Brexit leading to potential NHS staff shortages, increased drug costs, and risks from US trade deals.",
+            "immigration": "Loss of EU citizens affecting NHS and other sectors.",
+            "socialWelfare": "Alleviate Tory benefit cuts, protection against austerity measures like the Bedroom Tax.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Your Personal Champion in helping individuals struggling with UK Government agencies and unjust decisions.",
+        "politicalExperience": [
+            {
+                "role": "Shadow Health Spokesperson",
+                "duration": "",
+                "achievements": "Challenging the health threats from Brexit and tackling issues such as loss of EU staff, medicine shortages and pensioner poverty due to Tory Austerity."
+            }
+        ],
+        "contactInformation": {
+            "address": "All the Hub, 183 High Street, Irvine KA12 8AD.",
+            "phone": "",
+            "email": "info@drphilippasnp.scot",
+            "website": "whitford.scot",
+            "socialMedia": {
+                "facebook": "PhilippaWhitfordSNP",
+                "twitter": "@Dr_PhilippaW",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Dr Philippa Whitford leaflet images"
+                }
+            ]
+        },
+        "additionalNotes": "Promoted by N. Sturgeon on behalf of Dr P. Whitford."
+    }
+}

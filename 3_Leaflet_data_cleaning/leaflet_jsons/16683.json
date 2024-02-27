@@ -1,0 +1,97 @@
+{
+    "leaflet": {
+        "candidateName": "David Cameron",
+        "constituency": "West Oxfordshire",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A PERSONAL MESSAGE FROM DAVID CAMERON",
+                "content": "Dear Resident, It is a privilege and an honour to represent Witney and the people of West Oxfordshire. [...] This election is a big moment for Britain."
+            },
+            {
+                "title": "Working hard for you all year round",
+                "content": "Securing our local economy and supporting businesses by cutting the jobs 'tax'. [...] Expanding RAF Brize Norton, the premiere airbase in Britain."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Backing our rural economy; supporting local economy and businesses by cutting the jobs 'tax'."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Improving our transport network; delivery of 'superfast' broadband; improving the Cotswold Line and local stations."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "NHS is to be valued, protected and improved; securing a better future for Witney Community Hospital."
+            },
+            {
+                "policyTitle": "Defence",
+                "policyDescription": "Safeguarding Britain, our airbase and our Armed Forces; expanding RAF Brize Norton."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Working hard for you all year round; Securing our local economy.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Working hard for you all year round; Protected healthcare services in Witney.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Safeguarding Britain, our airbase and our Armed Forces; School pupils from service families at the airbase now have Indy Learning Centres [...].",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "It is a privilege and an honour to represent Witney and the people of West Oxfordshire.",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": "Helping the most among us; representing the interests of constituents; supporting the need for economic transport; upholding national representation of Britain; aiming to get things done and secure a better future."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "witneyconservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Cameron inspects local road improvements."
+                },
+                {
+                    "caption": "David Cameron visits Witney Community Hospital."
+                },
+                {
+                    "caption": "David Cameron addresses troops in Afghanistan."
+                },
+                {
+                    "caption": "David Cameron opens the Northern redoubling of the Cotswold Line."
+                }
+            ]
+        },
+        "additionalNotes": "This leaflet seems to be from a previous election campaign as the name mentioned is no longer the party leader."
+    }
+}

@@ -1,0 +1,66 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "THEY LIED!",
+        "content": "Labour, Tories and Lib Dems all promised the British people a say on the EU... now they've changed their minds and refuse us this right."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Referendum on Britain's membership of the European Union",
+        "policyDescription": "UKIP demands a referendum on Britain's membership of the European Union and highlights issues such as EU membership costing the UK £40 million a day, loss of control over laws and borders, and immigration."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Gordon Brown and David Cameron",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "UKIP demands a referendum on Britain's membership of the European Union and mentions the cost and loss of control due to the EU.",
+      "economy": "EU membership costing the UK £40 million a day.",
+      "education": "",
+      "environment": "",
+      "governance": "Laws made by the EU that govern our lives.",
+      "health": "",
+      "immigration": "Loss of border controls and immigration.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "UK Independence Party, Unit 1 King Charles Business Park, Old Newton Rd, Heathfield, Newton Abbot, Devon TQ12 6UT",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "www.ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign leaflet with the title 'THEY LIED!' highlighting UKIP's demand for a referendum on Britain's EU membership."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

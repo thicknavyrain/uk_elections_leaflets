@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Your vote TODAY will be the difference",
+                "content": "Five years ago, the Labour Minister in charge of spending taxpayers' money left us a note saying: 'I'm afraid there is no money.' Five years on, the Conservatives are building a stronger economy and securing a brighter future for all of us. Let's not go back to square one."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "The Conservatives are building a stronger economy and securing a brighter future for all of us."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Labour Minister",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "The Conservatives are building a stronger economy.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A reproduction of a note from the previous Labour Minister saying: 'I'm afraid there is no money.'"
+                }
+            ]
+        },
+        "additionalNotes": "To keep the economy strong Vote Conservative here today"
+    }
+}

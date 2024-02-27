@@ -1,0 +1,94 @@
+{
+    "leaflet": {
+        "candidateName": "Alistair Darling",
+        "constituency": "Edinburgh South West",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The choice in the general election",
+                "content": "The choice in the general election is whether you want a Labour Government or a Tory Government."
+            },
+            {
+                "title": "It's Your Choice",
+                "content": "When we faced a global recession and the worst financial crisis in 60 years, Labour was not prepared to let the recession take its course. Our priority was to protect homes, jobs and businesses."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Securing the economy",
+                "policyDescription": "Worked hard alongside Gordon Brown and international colleagues to rebuild the banking system and secure the economy."
+            },
+            {
+                "policyTitle": "Standing up for Edinburgh",
+                "policyDescription": "Since 1997 the government has made huge strides, rebuilding schools and hospitals, creating more employment, helping older community members, and improving apprenticeships and pension provisions."
+            },
+            {
+                "policyTitle": "Getting Scotland moving again",
+                "policyDescription": "Support for businesses and new jobs in Scotland, with more apprenticeships to come."
+            },
+            {
+                "policyTitle": "18 - 24 year olds get job guarantee",
+                "policyDescription": "18 to 24 year olds in Scotland out of work or training are promised a guarantee of work or training, funded by the tax on bankers' bonuses."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alistair Darling",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "Gordon Brown",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "During the last three years I have worked hard alongside Gordon Brown and my international colleagues to rebuild the banking system and secure the economy.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Our priority was to protect homes, jobs and businesses.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I am proud to have served as an Edinburgh MP for 29 years, first in Edinburgh Central and now in Edinburgh South West. I am married with two student children and live in the city. I have been in the Cabinet since 1997 and Chancellor of the Exchequer since June 2007.",
+        "politicalExperience": [
+            {
+                "role": "MP for Edinburgh",
+                "duration": "29 years",
+                "achievements": "Served as Chancellor of the Exchequer since June 2007, been in the Cabinet since 1997"
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Putting local people first"
+                },
+                {
+                    "caption": "Scotland fights recession - as Tories plan tax break for richest few"
+                },
+                {
+                    "caption": "Jobs are at risk from Tories"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

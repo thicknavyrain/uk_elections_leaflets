@@ -1,0 +1,97 @@
+{
+    "leaflet": {
+        "candidateName": "Jean Lambert, Jenny Jones, Darren Johnson",
+        "constituency": "London",
+        "politicalParty": "Green Party",
+        "electionDate": "Spring 2015",
+        "messages": [
+            {
+                "title": "The Minimum Wage Must be A Genuine Living Wage",
+                "content": "Elected Greens have been hard at work advocating stronger campaigns to address the living wage across the capital calling to be paid the London Living Wage (currently \u00a39.15 an hour)."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Reduce Rail Fares by 10%",
+                "policyDescription": "Leader Natalie Bennett has announced that a Green Government would cut rail fares by 10% and support rail renationalization."
+            },
+            {
+                "policyTitle": "Air Pollution: Victory in Europe",
+                "policyDescription": "Greens MEP for London Jean Lambert has contributed to the European Court of Justice victory that showed neglect in the air pollution levels which can lead to legislation forcing London's law to be reformed to reduce the levels of harmful air pollution."
+            },
+            {
+                "policyTitle": "8,000 Council Homes Lost in 'Regeneration'",
+                "policyDescription": "The London Assembly Housing Committee has revealed a loss of 8,296 council homes in regeneration projects that contributed to the lack of affordable and council homes and speculation on pricing."
+            },
+            {
+                "policyTitle": "London Assembly Backs Green Challenge to Mayor on Solar Power",
+                "policyDescription": "London Assembly backed the Green Party's challenge to the Mayor of London for investment in solar power on school and government buildings."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jean Lambert, Jenny Jones, Darren Johnson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Natalie Bennett",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "8,000 council homes have been lost in the 'regeneration' of housing estates, according to a report revealed by the London Assembly Housing Committee.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MEP",
+                "duration": "",
+                "achievements": "Jean Lambert, London's Green MEP"
+            },
+            {
+                "role": "Member of the House of Commons and London Assembly Member",
+                "duration": "",
+                "achievements": "Jenny Jones"
+            },
+            {
+                "role": "London Assembly Member",
+                "duration": "",
+                "achievements": "Darren Johnson"
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "london@greenparty.org.uk",
+            "website": "www.london.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/LondonGreenParty",
+                "twitter": "@LonGreenParty",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Natalie Bennett holding a sign for rail nationalization"
+                },
+                {
+                    "caption": "Jean Lambert, Jenny Jones, and Darren Johnson supporting solar power initiatives"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

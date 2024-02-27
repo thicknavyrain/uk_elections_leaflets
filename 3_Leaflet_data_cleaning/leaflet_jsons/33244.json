@@ -1,0 +1,90 @@
+{
+    "leaflet": {
+        "candidateName": "James Baker",
+        "constituency": "Wallasey",
+        "politicalParty": "Conservative",
+        "electionDate": "12 December 2019",
+        "messages": [
+            {
+                "title": "Use your vote to get Brexit done...",
+                "content": "The election on Thursday is your LAST CHANCE to get Brexit done! Lend your vote to James Baker."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Getting Brexit done",
+                "policyDescription": "The priority is to get Brexit done so we can focus on other national issues like the NHS, schools, and police."
+            },
+            {
+                "policyTitle": "Investment in public services",
+                "policyDescription": "Invest billions in our public services, including \u00a333.9 billion for the NHS."
+            },
+            {
+                "policyTitle": "40 new hospitals",
+                "policyDescription": "The commitment includes building 40 new hospitals and ensuring more investment in the NHS."
+            },
+            {
+                "policyTitle": "Breaking up county lines drug gangs",
+                "policyDescription": "Plans to tackle serious and organised crime by breaking up county lines drug gangs."
+            }
+        ],
+        "mentions": {
+            "candidate": "James Baker",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "UKIP candidate backs James Baker this time. Tactical voting might be suggested as necessary to 'get Brexit done'."
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done by January 31, ensuring the country can move forward.",
+            "economy": "Boost the economy by getting Brexit done and focus on investing in public services.",
+            "education": "More funding for every pupil in every school.",
+            "environment": "",
+            "governance": "",
+            "health": "\u00a333.9 billion extra for the NHS, focusing on prevention to save lives, building new hospitals.",
+            "immigration": "Taking control of our borders is mentioned in the context of the Brexit debate.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Dear Resident, Since the election campaign began, I have met and listened to Labour voters in all parts of our constituency. From Seacombe to New Brighton and everywhere in between. There are now just a few days left...",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "office@wallaseyconservatives.com",
+            "website": "www.wallaseyconservatives.com",
+            "socialMedia": {
+                "facebook": "wallaseyconservatives",
+                "twitter": "Conservatives",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Baffled by Labour's Brexit policy? You're not alone.",
+                "source": "The Times",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Photo of James Baker with residents."
+                },
+                {
+                    "caption": "Comparison chart of Conservative versus Labour policy."
+                },
+                {
+                    "caption": "Boris Johnson's statement on Brexit and priorities."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

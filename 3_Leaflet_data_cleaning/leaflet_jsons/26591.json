@@ -1,0 +1,96 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "constituency": "Leeds North East",
+        "politicalParty": "Conservative Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "MAKING BREXIT A SUCCESS IS CENTRAL TO OUR NATIONAL INTEREST",
+                "content": "As a nation, we face the most important period in our lifetime. Making Brexit a success is central to our national interest \u2013 and it is central to your own security and prosperity. While there is enormous opportunity for Britain as we leave the European Union, if we do not get this right the consequences will be serious. Your economic security and prosperity will be put at risk, and the life opportunities your family has fought for and worked hard for will be at risk."
+            },
+            {
+                "title": "THAT'S WHY I DECIDED WE NEED AN ELECTION NOW",
+                "content": "By going to Brussels with a strong mandate, I can get the best for Britain from the Brexit negotiations. A Conservative victory at the polls means delivering better paying jobs, more affordable housing, a good school place for every child, and a strong economy by having a strong NHS."
+            },
+            {
+                "title": "DON'T RISK IT \u2013 EVERY SINGLE VOTE WILL COUNT",
+                "content": "Some people say Jeremy Corbyn can't possibly become Prime Minister and it doesn't matter how you vote locally in Leeds North East. But just remember the opposition said that General Election win in 2015. They got the EU referendum wrong and every other election result, too, since 2004 \u2013 including those for the Labour leadership. So in the days of shock election results and global uncertainty, no one can ever really be sure who will win. And with so much at stake, let's not risk it."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Securing the best possible deal for Britain in Brexit negotiations, ensuring economic security and prosperity."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Delivering better paying jobs and a strong economy."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Providing more affordable housing."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Ensuring a good school place for every child."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Having a strong NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "References to previous elections and the unpredictability of results, suggesting that every vote will count."
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is essential for the security and prosperity of the UK.",
+            "economy": "A Conservative win means a strong economy and better paying jobs.",
+            "education": "Ensuring every child has a good school place.",
+            "environment": "",
+            "governance": "",
+            "health": "A strong NHS is part of the plan for a strong economy.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Delivering better paying jobs, more affordable housing.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "CHQ, 4 Matthew Parker Street, London, SW1H 9HQ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Leaflet images showing letters from Theresa May asking for support with text focusing on the importance of Brexit and the election."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

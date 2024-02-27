@@ -1,0 +1,94 @@
+{
+    "leaflet": {
+        "candidateName": "David Rowntree",
+        "constituency": "Cities of London and Westminster",
+        "politicalParty": "Labour Party",
+        "electionDate": "May 6th",
+        "messages": [
+            {
+                "title": "Let's try some fresh ideas",
+                "content": "Talks about the importance of addressing the housing issue, drug and alcohol addictions, and reforming the political system."
+            },
+            {
+                "title": "Why Labour?",
+                "content": "Emphasizes support for the Labour Party, mentioning community benefits, standing against privatization, and criticizing Tory economic plans."
+            },
+            {
+                "title": "Tory plans threaten our communities",
+                "content": "Criticizes the Tory approach to public services, the impact on families, and the importance of strong communities and valuing public services."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Stressing the importance of solving the housing crisis through a variety of approaches; promising refurbished empty homes, more social housing, and reviewing the bedroom tax."
+            },
+            {
+                "policyTitle": "Drug and alcohol addictions",
+                "policyDescription": "Urges the need to tackle the issue with renewed vigour and ensure better youth services aimed at preventing the start and spread of addiction."
+            },
+            {
+                "policyTitle": "Reforming the political system",
+                "policyDescription": "Advocates for changes in the political system, including the reduction in the number of MPs, a smaller, elected second chamber, election promises, and home rule for the English regions."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Rowntree",
+            "otherPartyLeaderCandidate": "Tory plans",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Comments on Tory economic plans and the desire for strong communities with robust public services.",
+            "education": "",
+            "environment": "",
+            "governance": "Discussion about reforming the political system with a focus on reducing the number of MPs and other changes.",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "Mentions plans such as the winter fuel allowance, child tax credits, the minimum wage and free prescriptions related to social welfare.",
+            "housing": [
+                {
+                    "content": "Focus on addressing the housing crisis, mentioning the importance of refurbishing empty homes, increasing social housing, and reviewing the bedroom tax.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "David Rowntree talks about his motivations for joining politics, including his dismay at the effects of successive governments on housing and his desire to be at the forefront of a new type of politics that puts you first.",
+        "politicalExperience": [
+            {
+                "role": "Labour Parliamentary Candidate for the Cities of London & Westminster",
+                "duration": "",
+                "achievements": "Despite being new to frontline politics, emphasizes prior involvement like campaigning for a joined-up approach to addiction."
+            }
+        ],
+        "contactInformation": {
+            "address": "The Labour Party, 16b The High Street, London",
+            "phone": "07590 227 336",
+            "email": "d.david@davidrowntree.com",
+            "website": "www.davidrowntree.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Rowntree with constituents"
+                },
+                {
+                    "caption": "David Rowntree at an event"
+                },
+                {
+                    "caption": "David Rowntree playing drums"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet includes a variety of photos showing David Rowntree with constituents, at events, and playing drums, emphasizing his personal connection with the community."
+    }
+}

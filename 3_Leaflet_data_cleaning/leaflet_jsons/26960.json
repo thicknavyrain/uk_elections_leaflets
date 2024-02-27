@@ -1,0 +1,76 @@
+{
+    "leaflet": {
+        "candidateName": "Daniel Zeichner",
+        "constituency": "Cambridge",
+        "politicalParty": "Labour",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "Dear Sam",
+                "content": "I promise this one has some new elements in it."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Opposes leaving the EU, supports remaining and protecting the success of Cambridge as a vibrant university city with rights of EU nationals."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Against the mass change automation will bring to society, wants proper funding for NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Daniel Zeichner",
+            "otherPartyLeaderCandidate": "Lib Dems",
+            "partyLeader": "Jeremy Corbyn",
+            "tacticalSituation": "Difficulties with the Lib Dems in the past, tactical situation regarding forgiving them for past actions."
+        },
+        "issues": {
+            "brexitEurope": "Supporting EU membership, highlighting the dangers of a hard Brexit.",
+            "economy": "",
+            "education": "Concerned about education funding, referencing personal experiences.",
+            "environment": "Past involvement with Greenpeace, campaigned about climate issues.",
+            "governance": "Supports democratically elected second chamber.",
+            "health": "Supports NHS strongly against any form of privatization and automation changes.",
+            "immigration": "Wants to protect rights of EU nationals.",
+            "socialWelfare": "Wants proper funding for NHS and to address social care, criticizes zero hour contracts.",
+            "housing": [
+                {
+                    "content": "Concerned about zero hours contracts, sky-high rents and short term job contracts.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Dedicated to the area, mentioning local and personal connections and consistency in views over time.",
+        "politicalExperience": [
+            {
+                "role": "Labour MP Candidate for Cambridge",
+                "duration": "",
+                "achievements": "Campaigning on various local and national issues."
+            }
+        ],
+        "contactInformation": {
+            "address": "Alex Wood Hall, Norfolk Street, Cambridge, CB1 2LD",
+            "phone": "01223 500515",
+            "email": "daniel@danielzeichner.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@DanielZeichner",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Daniel Zeichner out and about in Cambridge."
+                }
+            ]
+        },
+        "additionalNotes": "References personal stories and commitment to community, also speaks about international concerns such as President Trump visits to UK and frustration over Brexit."
+    }
+}

@@ -1,0 +1,98 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Labour's pledges for a future fair for all",
+        "content": "Each pledge is substantial, deliverable and carefully costed, speaking to the values of Britain's mainstream majority."
+      },
+      {
+        "title": "Why we're voting Labour",
+        "content": "In their most moving contribution, Gordon and Sarah Brown talk about their family, showing the human side of the political debate."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Secure the recovery",
+        "policyDescription": "Halve the deficit through economic growth, fair taxes and cuts to lower priority spending."
+      },
+      {
+        "policyTitle": "Protect frontline investments",
+        "policyDescription": "Investing in policing, schools, childcare and the NHS, with a new guarantee of cancer test results within a week."
+      },
+      {
+        "policyTitle": "Strengthen fairness in communities",
+        "policyDescription": "Through an Australian style points-based system to control immigration, guaranteed education, apprenticeships and jobs for young people, and a crackdown on anti-social behaviour."
+      },
+      {
+        "policyTitle": "Raise family living standards",
+        "policyDescription": "Keeping mortgage rates as low as possible; increasing tax credits for families with young children; providing new help for first-time buyers; and restoring the link between the state pension and earnings from 2012."
+      },
+      {
+        "policyTitle": "Build a high tech economy",
+        "policyDescription": "Supporting businesses and industry to create one million more skilled jobs and modernising our infrastructure with High-Speed Rail, a Green Investment Bank and broadband access for all."
+      }
+    ],
+    "mentions": {
+      "candidate": "Gordon and Sarah Brown",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Gordon and Sarah Brown",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Halve the deficit through economic growth, fair taxes and cuts to lower priority spending.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Investing in policing, schools, childcare and the NHS, with a new guarantee of cancer test results within a week.",
+      "immigration": "Australian style points-based system to control immigration.",
+      "socialWelfare": "Increasing tax credits for families with young children; providing new help for first-time buyers; and restoring the link between the state pension and earnings from 2012.",
+      "housing": [
+        {
+          "content": "Increasing tax credits for families with young children; providing new help for first-time buyers;",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "labour.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Labour wants to make it a little bit easier for ordinary people",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Why we're voting Labour photo."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

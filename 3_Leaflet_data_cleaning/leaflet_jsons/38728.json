@@ -1,0 +1,72 @@
+{
+  "leaflet": {
+	"candidateName": "Laura Farris",
+	"constituency": "Newbury",
+	"politicalParty": "",
+	"electionDate": "Thursday 12 December 2019",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "KEEP NEWBURY GREAT",
+    	"policyDescription": "Prioritizing climate change and protecting surroundings, improving schools, ensuring resources to do better, and having the right houses in the right places."
+  	},
+  	{
+    	"policyTitle": "OPEN FOR BUSINESS",
+    	"policyDescription": "Building on business corridor to attract new enterprise, increase investment, and ensure skills base to meet commercial demand."
+  	},
+  	{
+    	"policyTitle": "CARING FOR ALL",
+    	"policyDescription": "Ensuring proper care for the elderly including tackling loneliness, supporting mental health initiatives for children and young people, and improving access to mental health services."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Laura Farris",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "Improving schools.",
+  	"environment": "Prioritizing climate change and protecting surroundings.",
+  	"governance": "",
+  	"health": "Supporting mental health initiatives for children and young people, and improving access to mental health services.",
+  	"immigration": "",
+  	"socialWelfare": "Ensuring proper care for the elderly including tackling loneliness.",
+  	"housing": [
+    	{
+      	"content":"Having the right houses in the right places.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Laura Farris with Newbury backdrop"
+    	},
+    	{
+      	"caption": "Laura Farris engaging with local residents"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

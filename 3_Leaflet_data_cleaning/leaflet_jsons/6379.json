@@ -1,0 +1,106 @@
+{
+    "leaflet": {
+        "candidateName": "Bob Dalrymple",
+        "constituency": "Stirling",
+        "politicalParty": "Scottish Conservatives",
+        "electionDate": "2010",
+        "messages": [
+            {
+                "title": "Vote for change!",
+                "content": "Conservatives the main challengers to Labour in Stirling. Bob Dalrymple on course to win. Stirling could bring the change all of Britain needs."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Supporting rural areas",
+                "policyDescription": "Support measures that benefit rural communities, such as maintaining schools."
+            },
+            {
+                "policyTitle": "Cleaning up King's Park",
+                "policyDescription": "A focus on enhancing King's Park with cleaner streets and safer communities."
+            },
+            {
+                "policyTitle": "No U-Turn on mini-roundabouts",
+                "policyDescription": "Ensure that the decision regarding mini-roundabouts is upheld, opposing any U-turn."
+            }
+        ],
+        "mentions": {
+            "candidate": "Bob Dalrymple",
+            "otherPartyLeaderCandidate": "Anne McGuire",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": "Two horse race"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "How the Tories will be different to fix our shattered economy.",
+            "education": "Maintaining rural schools.",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Cleaner streets and safer communities.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "We can change Britain for the better!",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "David Cameron",
+                "endorsement": "David Cameron and Bob Dalrymple waiting for your support."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Cameron and Bob Dalrymple waiting for your support."
+                },
+                {
+                    "caption": "ACTION across City & County"
+                },
+                {
+                    "caption": "Bob Dalrymple with supporters promoting campaign"
+                },
+                {
+                    "caption": "Bob Dalrymple signs Expenses pledge"
+                },
+                {
+                    "caption": "Was this done in your name? Anne McGuire's voting record."
+                },
+                {
+                    "caption": "Two horse race between Conservatives and Labour in Stirling."
+                }
+            ]
+        },
+        "additionalNotes": "Bob Dalrymple signs Expenses pledge to publish online details of his Parliamentary expenses. Accuses Labour MP Anne McGuire of not delivering on promises."
+    }
+}

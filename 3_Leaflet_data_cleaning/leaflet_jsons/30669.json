@@ -1,0 +1,99 @@
+{
+    "leaflet": {
+        "candidateName": "Maria Miller",
+        "constituency": "Basingstoke",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "YOUR CHOICE AT THIS ELECTION",
+                "content": "A coalition of chaos with Jeremy Corbyn or strong and stable leadership in the national interest with Theresa May."
+            },
+            {
+                "title": "MARIA MILLER STANDING WITH YOU",
+                "content": "Maria Miller is standing with Theresa May, and you can stand with both of them."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Working Hard for Basingstoke",
+                "policyDescription": "Maria Miller has a plan, working with Theresa May, to ensure Basingstoke remains a great place to live and bring up a family."
+            }
+        ],
+        "mentions": {
+            "candidate": "Maria Miller",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Maria Miller has lived in Basingstoke for 14 years with her husband and three children...",
+        "politicalExperience": [
+            {
+                "role": "MP for Basingstoke",
+                "duration": "2005 - Present",
+                "achievements": "Maria has a strong track record of delivering for Basingstoke..."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Maria with Theresa May - the right leadership for Britain."
+                },
+                {
+                    "caption": "Maria meeting with local business leaders."
+                },
+                {
+                    "caption": "Maria visiting a local school."
+                },
+                {
+                    "caption": "Maria visiting the Basingstoke hospital."
+                },
+                {
+                    "caption": "Maria supporting local residents."
+                }
+            ]
+        },
+        "additionalNotes": "This leaflet contains several pictures of Maria Miller with Theresa May, local business leaders, at a local school, Basingstoke hospital, and with local residents."
+    }
+}

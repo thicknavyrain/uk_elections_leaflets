@@ -1,0 +1,76 @@
+{
+    "leaflet": {
+        "candidateName": "Ed Miliband",
+        "constituency": "Doncaster North",
+        "politicalParty": "The Labour Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Labour will build a better future for our NHS",
+                "content": "Labour has a better plan for our NHS: Recruit 20,000 more nurses and 8,000 more GPs, guarantee GP appointments within 48 hours, and guarantee cancer tests and results within one week."
+            },
+            {
+                "title": "A clear choice",
+                "content": "The NHS is at stake with a choice between Labour's plan for investment in more doctors and nurses and the Tories' extreme plans threatening the NHS."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "Labour will recruit 20,000 more nurses and 8,000 GPs, guarantee GP appointments within 48 hours, and guarantee cancer tests and results within one week."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ed Miliband",
+            "otherPartyLeaderCandidate": "Nigel Farage",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Labour's plan includes recruiting more nurses and GPs and ensuring quicker GP appointments and cancer test results to address underfunding and understaffing of the NHS by the Tories, contrasting with Tory and UKIP policies that put the NHS at risk.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "The NHS can only remain balanced by not cutting the deficit every year, but never put our NHS at risk with extreme spending cuts.",
+        "politicalExperience": [
+            {
+                "role": "Leader of the Labour Party",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "One Brewer\u2019s Green, London SW1H 0RH",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Ed Miliband with various groups of people, presumably constituents and healthcare professionals."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet outlines the sharp contrast between Labour and other parties on NHS issues, highlighting potential risks with the Tory and UKIP policies."
+    }
+}

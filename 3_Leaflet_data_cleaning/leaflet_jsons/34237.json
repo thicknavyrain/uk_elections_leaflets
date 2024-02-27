@@ -1,0 +1,76 @@
+{
+    "leaflet": {
+        "candidateName": "Steven Galton",
+        "constituency": "Southampton Test",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "It's time for change in Southampton Test!",
+                "content": "Vote for Steve's new energy and enthusiasm. It's time for change in Southampton Test!"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done to focus on tackling challenges such as investing in schools and the NHS and recruiting more police to be tough on crime."
+            },
+            {
+                "policyTitle": "Local Investment",
+                "policyDescription": "Pushing for ship-to-shore power and lobbying for significant local transport network investment."
+            }
+        ],
+        "mentions": {
+            "candidate": "Steven Galton",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done.",
+            "economy": "Raising the Living Wage from \u00a38,632 to \u00a39,500 and investing in public schools and the NHS.",
+            "education": "Investing in our schools.",
+            "environment": "",
+            "governance": "",
+            "health": "Recruiting more police, promising a properly funded health service.",
+            "immigration": "",
+            "socialWelfare": "Increasing primary school funding and secondary school funding, ensuring the best start to life.",
+            "housing": [
+                {
+                    "content": "Stop the building of a huge power station in the Western Docks. Saved the iconic yew tree in Shirley from developers.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I'm Steven Galton and I'm writing to introduce myself as I'm seeking your support in the upcoming General Election. This is a crucial election as there is a real chance of waking up on Friday 13th December with Jeremy Corbyn as our new prime minister. This scares the life out of me!",
+        "politicalExperience": [
+            {
+                "role": "Local councillor, Special Educational Needs teacher",
+                "duration": "",
+                "achievements": "Campaigning to stop the building of a huge power station in the Western Docks. Saved the iconic yew tree in Shirley from developers. Improving local air quality."
+            }
+        ],
+        "contactInformation": {
+            "address": "PO Box 1802, Southampton, SO15 9GR",
+            "phone": "07956 589639",
+            "email": "steve@stevegalton.co.uk",
+            "website": "www.stevegalton.co.uk",
+            "socialMedia": {
+                "facebook": "SteveGalton1978",
+                "twitter": "@SteveGalton",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Steven Galton with Boris Johnson."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

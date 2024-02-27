@@ -1,0 +1,74 @@
+{
+    "leaflet": {
+        "candidateName": "Hugh Williams",
+        "constituency": "South West Devon",
+        "politicalParty": "UK Independence Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "My local issues are",
+                "content": "It's time for a real shake up in British politics - UKIP is the only party that can do that. We must regain control of our fishing waters so we can restore the fish stocks that Brussels officialdom has destroyed."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Say NO to mass immigration."
+            },
+            {
+                "policyTitle": "Referendums",
+                "policyDescription": "Say YES to referendums on all major issues."
+            },
+            {
+                "policyTitle": "EU Financial Contributions",
+                "policyDescription": "Say NO to wasting \u00a345 million a day in Brussels."
+            }
+        ],
+        "mentions": {
+            "candidate": "Hugh Williams",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Say NO to wasting \u00a345 million a day in Brussels.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "We must regain control of our fishing waters so we can restore the fish stocks that Brussels officialdom has destroyed.",
+            "health": "",
+            "immigration": "Say NO to mass immigration.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I believe that we should be governed by elected politicians in Westminster that we can get rid of; not by unelected, often corrupt, bureaucrats in Brussels who are immune from prosecution.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "UK Independence Party, PO Box 408, Newton Abbot TQ12 9BG.",
+            "phone": "",
+            "email": "",
+            "website": "ukip.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Hugh Williams leaflet images"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

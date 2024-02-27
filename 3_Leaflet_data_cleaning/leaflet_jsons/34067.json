@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Aberdeen North",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "The leaflet suggests that voting for The Brexit Party is essential for a real Brexit to happen."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Without The Brexit Party there can be no real Brexit.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Without The Brexit Party there can be no real Brexit. Vote for The Brexit Party on December 12th. Change Politics for Good."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet appears to primarily focus on Brexit without detailed mention of other policy areas or a personal statement from the candidate. It is also not clear if there are specific endorsements or quotes from individuals. No direct mention is made of tactical voting considerations for the constituency."
+  }
+}

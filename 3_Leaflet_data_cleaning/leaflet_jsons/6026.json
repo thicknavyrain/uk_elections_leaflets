@@ -1,0 +1,84 @@
+{
+  "leaflet": {
+	"candidateName": "David Cameron",
+	"constituency": "",
+	"politicalParty": "Conservative Party",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "you can make the difference",
+    	"content": "Britain needs change. You will soon have the chance to make that change happen."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "We have bold plans to change our country for the better and get the economy moving."
+  	},
+    {
+      "policyTitle": "Energy",
+      "policyDescription": "Our plans won't cost money but will need real energy - like our determination to improve school discipline."
+    },
+    {
+      "policyTitle": "Taxation",
+      "policyDescription": "Stopping Labour's jobs tax."
+    },
+    {
+      "policyTitle": "Government Spending",
+      "policyDescription": "We found the money from other areas like cutting government waste."
+    }
+	],
+	"mentions": {
+  	"candidate": "David Cameron",
+  	"otherPartyLeaderCandidate": "Labour",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Need a new government with the energy, leadership and values to get the country moving and our economy back on track.",
+  	"education": "Determination to improve school discipline.",
+  	"environment": "",
+  	"governance": "Stopping Labour's jobs tax, cutting government waste.",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "I hope you'll take the chance to vote for that change.",
+	"politicalExperience": [
+  	{
+    	"role": "Leader of the Conservative Party",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "David Cameron working at his desk."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet urges voters to consider the changes the Conservative Party offers under David Cameron's leadership and highlights the need for change."
+  }
+}

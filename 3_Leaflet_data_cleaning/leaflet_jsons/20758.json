@@ -1,0 +1,103 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "We've come a long way since 2010 and the economic mess we inherited from Labour: Britain is growing again with more jobs, lower taxes and better wages..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Seven-day NHS will be offered to millions"
+      },
+      {
+        "policyTitle": "Pensioners",
+        "policyDescription": "Pensioners to keep benefits"
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "Employment is at record high"
+      },
+      {
+        "policyTitle": "Hospital Services",
+        "policyDescription": "Hospitals will work weekends with Cam"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Services on UK form as UK economy grows again; Chancellor hails big fall in jobless as 'another economic milestone'; Jobs recovery: salaries grow at fastest rate since crisis; Growth rises to 2.8%"
+      },
+      {
+        "policyTitle": "Homes",
+        "policyDescription": "Homes where no one works down 600,000 in five years"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Britain is growing again with more jobs, lower taxes and better wages...",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Seven-day NHS will be offered to millions",
+      "immigration": "",
+      "socialWelfare": "Pensioners to keep benefits",
+      "housing": [
+        {
+          "content": "Homes where no one works down 600,000 in five years",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Secure a brighter future for you, your family and Britain."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

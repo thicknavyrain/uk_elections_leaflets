@@ -1,0 +1,66 @@
+{
+    "leaflet": {
+        "candidateName": "Brian Smith",
+        "constituency": "Staffordshire Moorlands",
+        "politicalParty": "Green Party",
+        "electionDate": "2015 General Election",
+        "messages": [
+            {
+                "title": "Vote for Change \u2013 Vote for the Common Good.",
+                "content": "Because Fair is Worth Fighting For."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Trade and Economy",
+                "policyDescription": "Opposes TTIP, which grants corporations power to sue governments and lock-in privatisation of public services like NHS. It threatens to slash regulations protecting workers, the environment, and food safety and standards, and poses a threat to democracy, favouring multinationals."
+            }
+        ],
+        "mentions": {
+            "candidate": "Brian Smith is the Green Party candidate for Staffordshire Moorlands Constituency.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Opposes TTIP which endangers democratic decision making, trade policies should favour the common good.",
+            "education": "",
+            "environment": "TTIP threatens regulations that protect the environment.",
+            "governance": "TTIP is a threat to democratic decision making.",
+            "health": "TTIP endangers the quality and safety of food, along with NHS standards.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "brian.smith@greenparty.org.uk",
+            "website": "http://staffsmoorlands.greenparty.org.uk/get-involved.html",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote Green in 2015."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Jeremy Corbyn",
+  	"partyLeader": "",
+  	"tacticalSituation": "If you vote Conservative in your area... Labour win"
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "IF YOU VOTE CONSERVATIVE IN YOUR AREA... LABOUR WIN"
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet suggests a tactical voting situation where a Conservative vote can lead to a Labour win, implying a split in the non-Labour vote could cause Labour to win the constituency."
+  }
+}

@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Scottish Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Only Labour can stop the Tories.",
+                "content": "At the General Election we need to stop the Tories being the largest party. That's the only way to stop a Tory government."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Jobs and Security in the Workplace",
+                "policyDescription": "Increased minimum wage, back our young people, support working families."
+            },
+            {
+                "policyTitle": "Family",
+                "policyDescription": "More time with your family, a fairer deal on utility bills, end unfair delivery charges, control your work hours, ban on exploitative zero hours contracts."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Free tuition, reduce classroom sizes for a better learning and teaching environment."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "the Tories",
+            "partyLeader": "",
+            "tacticalSituation": "Only Labour can stop the Tories."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Free tuition, reduce classroom sizes for a better learning and teaching environment.",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.scottishlabour.org.uk/plan",
+            "socialMedia": {
+                "facebook": "scottishlabourparty",
+                "twitter": "scottishlabour",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Scottish Labour's Plan for Work."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

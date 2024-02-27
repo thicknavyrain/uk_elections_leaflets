@@ -1,0 +1,95 @@
+{
+  "leaflet": {
+	"candidateName": "Royston Smith",
+	"constituency": "Southampton",
+	"politicalParty": "Conservative Party",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "My pledge to you",
+    	"content": "Bring jobs and investment to our City. Protect and enhance health facilities outside of the city centre. An in-out EU referendum, free from any political party. Local referendums on important issues where the people's voice will truly be heard."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Jobs and Investment",
+    	"policyDescription": "Bring jobs and investment to Southampton."
+  	},
+  	{
+    	"policyTitle": "Health Facilities",
+    	"policyDescription": "Protect and enhance health facilities outside of the city centre."
+  	},
+  	{
+    	"policyTitle": "EU Referendum",
+    	"policyDescription": "An in-out EU referendum, free from any political party."
+  	},
+  	{
+    	"policyTitle": "Local Referendums",
+    	"policyDescription": "Local referendums on important issues where the people's voice will truly be heard."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Royston Smith",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "An in-out EU referendum, free from any political party.",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "Local referendums on important issues where the people's voice will truly be heard.",
+  	"health": "Protect and enhance health facilities outside of the city centre.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "www.roystonsmith.co.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Royston Smith - Southampton Itchen matters"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

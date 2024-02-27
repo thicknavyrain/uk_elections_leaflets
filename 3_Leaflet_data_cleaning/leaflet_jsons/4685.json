@@ -1,0 +1,113 @@
+{
+    "leaflet": {
+        "candidateName": "Neil Hudson",
+        "constituency": "Edinburgh South",
+        "politicalParty": "Conservatives",
+        "electionDate": "March 2010",
+        "messages": [
+            {
+                "title": "Annabel Goldie visits Drum Riding for the Disabled",
+                "content": "Scottish Conservative Leader, Annabel Goldie, visited Drum Riding for the Disabled in the constituency, expressing the importance of such facilities."
+            },
+            {
+                "title": "Schools update",
+                "content": "Neil Hudson advocates better discipline, real aspiration and achievement for pupils."
+            },
+            {
+                "title": "Conservative MSPs hit the campaign trail in Edinburgh South",
+                "content": "Conservative MSPs campaign to reduce Council Tax and promise to protect local services such as post offices."
+            },
+            {
+                "title": "It's a two horse race!",
+                "content": "Only David Cameron's Conservatives can overtake Gordon Brown. The information suggests that local Lib Dem voters are switching to Conservatives to get rid of Labour."
+            },
+            {
+                "title": "Conservatives favourites to win seat from Labour",
+                "content": "Quotes endorsing the Conservative candidate's chances to win Edinburgh South."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Boost pensioners' income",
+                "policyDescription": "Increase pensions in line with earnings, maintain the freeze on Council Tax, and campaign against Labour's plans to scrap the Disability Living Allowance and the attendance allowance."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Improving schools by advocating for better discipline and aiming for real achievement and aspiration."
+            },
+            {
+                "policyTitle": "Local Services",
+                "policyDescription": "Reducing Council Tax and protection of local services such as post offices."
+            }
+        ],
+        "mentions": {
+            "candidate": "Neil Hudson",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": "Local Lib Dem voters switching to the Conservatives to get rid of Labour."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Advocates for better discipline, real aspiration and achievement for pupils in schools.",
+            "environment": "Conservatives support the development of renewable energies.",
+            "governance": "Promising to reduce Council Tax.",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "Commitment to safeguard and improve upon elderly benefits such as pensions, Disability Living Allowance, and Attendance Allowance.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Westminster Candidate",
+                "duration": "2010-present",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "31 Minto Street, Edinburgh EH9 1SB",
+            "phone": "0131 539 0333",
+            "email": "info@edinburghsouthconservatives.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Only David Cameron's Conservatives can overtake Gordon Brown.",
+                "source": "leaflet content",
+                "date": ""
+            },
+            {
+                "text": "Local Lib Dem voters switching to the Conservatives to get rid of Labour.",
+                "source": "leaflet content",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Annabel Goldie with local residents at Drum Riding for the Disabled."
+                },
+                {
+                    "caption": "Neil Hudson with supporters holding a 'Vote for a win' banner."
+                },
+                {
+                    "caption": "Neil Hudson introduces David Cameron to University of Edinburgh's Principal, Professor Sir Timothy O'Shea."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet emphasizes the tactical situation in Edinburgh South, urging Lib Dem voters to switch to the Conservatives to remove Labour's hold on the seat."
+    }
+}

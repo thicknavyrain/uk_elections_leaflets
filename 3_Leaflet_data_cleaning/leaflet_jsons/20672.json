@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "Alasdair Murray",
+        "constituency": "Oxford East",
+        "politicalParty": "Lib Dems",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "I\u2019ll fight to protect our NHS and give it the funds it needs",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Alasdair Murray",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "\u00a312 million extra funding for East Oxford schools",
+            "environment": "",
+            "governance": "",
+            "health": "Fighting to give our NHS the money it needs",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "27 Park End St., Oxford, OX1 1HU",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Oxford Voice"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet does not provide enough information to fill out all sections of the JSON structure. Only visible and readable information from the image provided has been included."
+    }
+}

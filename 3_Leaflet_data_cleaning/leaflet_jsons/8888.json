@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Vote UKIP",
+        "content": "If you agree, send them a message..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Leave the EU and stop mass immigration, regain control of our borders, end abuse of the UK asylum system."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Leave the EU",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "Stop mass immigration, regain control of our borders, end abuse of the UK asylum system.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "5000 new people settle here every week",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "FREEPOST RSTU-ZZBZ-UTCH, The UK Independence Party, PO BOX 4089",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "SAY NO TO MASS IMMIGRATION"
+        }
+      ]
+    },
+    "additionalNotes": "Straight talking."
+  }
+}

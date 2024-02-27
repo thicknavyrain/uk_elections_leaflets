@@ -1,0 +1,88 @@
+{
+    "leaflet": {
+        "candidateName": "Warren Bradley",
+        "constituency": "Liverpool",
+        "politicalParty": "Lib Dem",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Lib Dems will cut YOUR tax bill",
+                "content": "Highlighting the commitment to reduce tax bills and mentioning a comparison to the Labour party's approach."
+            },
+            {
+                "title": "Getting young people into training",
+                "content": "Emphasizing efforts to support young people and improve training opportunities."
+            },
+            {
+                "title": "Better off with a Lib Dem council",
+                "content": "Asserting that the Lib Dem council would optimize spending and improve services."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Taxation",
+                "policyDescription": "Pledges to reduce tax bills for local residents."
+            },
+            {
+                "policyTitle": "Youth Training",
+                "policyDescription": "Focus on improving training opportunities for young people."
+            },
+            {
+                "policyTitle": "Fiscal Responsibility",
+                "policyDescription": "Commitment to responsible spending and the efficient delivery of council services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Warren Bradley",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Leaflet positions the election as a choice between Lib Dem and Labour, indicating a two-party race in Liverpool."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Mentions of responsible spending and comparison between Lib Dem council's fiscal approach to Labour's.",
+            "education": "Investment in local schools is highlighted.",
+            "environment": "Commitment to protecting green spaces shown with an image of Warren Bradley in a park.",
+            "governance": "Leaflet criticizes Labour's governance of Liverpool and promotes Lib Dem alternative.",
+            "health": "",
+            "immigration": "Mentions cutting crime with a program named 'Algeriano'.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "The mention of protecting green spaces may imply concerns about development, which could be a NIMBY sentiment.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Leader of Liverpool City Council",
+                "duration": "",
+                "achievements": "Mentions the achievements under his leadership, such as 'Cleaner streets, improved leisure facilities and better schools'."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0151 233 2439",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Leaflet includes multiple images, including photographs of Warren Bradley and imagery related to local facilities and services."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet seems to focus on local issues, criticizing Labour's local governance, and promoting Lib Dem's achievements and future plans for Liverpool."
+    }
+}

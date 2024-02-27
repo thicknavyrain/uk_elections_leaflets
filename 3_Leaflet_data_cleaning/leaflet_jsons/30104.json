@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Putney",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "BREXIT",
+        "content": "Only the Lib Dems will speak for Putney"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Only the Lib Dems will speak for Putney",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Group of people holding Liberal Democrats signs with a message about Brexit."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

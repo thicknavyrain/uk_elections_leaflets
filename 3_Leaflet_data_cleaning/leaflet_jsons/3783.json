@@ -1,0 +1,100 @@
+{
+    "leaflet": {
+        "candidateName": "David Cameron",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Focus on David Cameron",
+                "content": "The choice at this election is between five more years of Gordon Brown or change with the Conservatives. We talk to the Tory leader to find out more about the change."
+            },
+            {
+                "title": "Giving the NHS back to the people",
+                "content": "When David Cameron became leader of the Conservative Party, he put the NHS at the heart of his political mission."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Supporting families",
+                "policyDescription": "A Conservative Government in Europe. It\u2019s about giving local people the trust to make family-friendly decisions by ending the couple penalty, supporting flexible working hours, and stopping the forced closure of special schools."
+            },
+            {
+                "policyTitle": "Better schools",
+                "policyDescription": "Improving standards and discipline in schools, advocating smaller schools with smaller classes, good behaviour, great teachers, and restored confidence in the curriculum."
+            },
+            {
+                "policyTitle": "Crime: safer streets",
+                "policyDescription": "David believes a key issue is to make our streets safer. He pledges for more police to be available on the streets and a crack down on crime with new technology such as CCTV."
+            },
+            {
+                "policyTitle": "Get Britain working",
+                "policyDescription": "Conservatives pledged to support for all those who have lost their jobs with a radical new plan to Get Britain Working again."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Conservative plans for the NHS focuses on making it more about people who work in the NHS - doctors and nurses - by cutting the bureaucracy that prevents them from doing the job as they would like.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I've never voted Tory before, but I like their plans to help families.",
+        "politicalExperience": [
+            {
+                "role": "Leader of the Conservative Party",
+                "duration": "",
+                "achievements": "Putting NHS at the heart of political mission."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.conservatives.com/families",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "I've never voted Tory before, but I like their plans to help families.",
+                "source": "Real life: Why I'm voting Conservative...for the first time ever!",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Cameron holding a baby, depicting him as family-oriented."
+                },
+                {
+                    "caption": "David Cameron in conversation with a policeman, highlighting his focus on crime and police presence."
+                },
+                {
+                    "caption": "David Cameron and his wife with school children, emphasizing his stance on education."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

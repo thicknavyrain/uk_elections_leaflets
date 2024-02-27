@@ -1,0 +1,115 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "UKIP says YES to",
+        "content": "An NHS free at the point of delivery; No tax on the minimum wage; Housing priority for local people; Affordable energy"
+      },
+      {
+        "title": "UKIP says NO to",
+        "content": "Unlimited immigration; £55m a day membership fees to the EU; £12 billion a year in foreign aid; The 'bedroom tax' and the 'mansion tax'"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "An NHS free at the point of delivery with £3 billion extra funding"
+      },
+      {
+        "policyTitle": "Minimum Wage",
+        "policyDescription": "No tax on the minimum wage to benefit the poorest workers"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Priority for local people with an emphasis on low-cost housing on existing sites"
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Invest in affordable energy from shale gas and nuclear, reduce subsidies in wind and solar farms"
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Oppose unlimited immigration to prevent lower wages and pressure on housing and services"
+      },
+      {
+        "policyTitle": "EU Membership Fees",
+        "policyDescription": "Eliminate the £55m a day membership fees to the EU"
+      },
+      {
+        "policyTitle": "Foreign Aid",
+        "policyDescription": "Reduce foreign aid from £12 billion a year, focusing on providing water and fighting diseases"
+      },
+      {
+        "policyTitle": "Taxes",
+        "policyDescription": "Oppose 'bedroom tax' and 'mansion tax'; simplify the tax and welfare system"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Labour and the Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Britain would be better off out of the EU, able to make our own trade.",
+      "economy": "",
+      "education": "",
+      "environment": "Reduce subsidies in wind and solar farms.",
+      "governance": "",
+      "health": "£3 billion extra to the NHS to keep it free.",
+      "immigration": "The EU’s 'free movement of labour' means lower wages, pressure on health, housing and benefits, and fewer jobs for our children.",
+      "socialWelfare": "Our welfare system and our taxes should be fair, with simpler tax and welfare systems.",
+      "housing": [
+        {
+          "content": "Housing priority for local people. We need to build more social and low-cost housing, on existing sites.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Lexdrum House, King Charles Business Park, Newton Abbot TQ12 6UT.",
+      "phone": "0333 800 6800",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign leaflet with UKIP policies outlined including messages saying 'YES' to NHS, no tax on minimum wage, housing priority for locals, and affordable energy; and saying 'NO' to unlimited immigration, EU membership fees, large foreign aid, bedroom and mansion tax."
+        }
+      ]
+    },
+    "additionalNotes": "Published by UKIP, Lexdrum House, King Charles Business Park, Newton Abbot TQ12 6UT. Printed by Printbridge, 16 Castle St, Bodmin PL31 2DU."
+  }
+}

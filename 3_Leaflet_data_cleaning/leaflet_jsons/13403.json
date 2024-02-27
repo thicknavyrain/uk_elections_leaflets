@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Your choice at the General Election",
+    	"content": "Balancing the books fairly. Bringing down Britain's debt while protecting the education budget and investing £8 billion a year extra in the NHS."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Balancing the books fairly and bringing down Britain's debt."
+  	},
+    {
+      "policyTitle": "Education",
+      "policyDescription": "Protecting the education budget."
+    },
+    {
+      "policyTitle": "Health",
+      "policyDescription": "Investing £8 billion a year extra in the NHS."
+    }
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "Labour are out of the race in many parts of the country"
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Balancing the books fairly and bringing down Britain's debt.",
+  	"education": "Protecting the education budget.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Investing £8 billion a year extra in the NHS.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Comparative illustration between the Tories and the Liberal Democrats' approach to the economy, education, and health."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

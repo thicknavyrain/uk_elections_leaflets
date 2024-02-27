@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "Sue Edwards",
+        "constituency": "Gordon",
+        "politicalParty": "Green Party",
+        "electionDate": "Tomorrow is polling day",
+        "messages": [
+            {
+                "title": "A PERSONAL MESSAGE FROM SUE EDWARDS",
+                "content": "Dear Resident, Like most people in Gordon, I feel let down by many of our elected politicians. MPs making huge expenses claims. Aberdeen City Council still in a financial mess. Aberdeenshire Council still undecided as to whether to force residents from their homes so Donald Trump can build an even larger golf course. But it doesn't have to be this way. And you can help make a difference \u2013 by voting for the Scottish Green Party. If you agree with our stance, please give me your support in the election tomorrow."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Sue Edwards",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "Aberdeen City Council still in a financial mess. Aberdeenshire Council still undecided as to whether to force residents from their homes so Donald Trump can build an even larger golf course.",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Aberdeenshire Council still undecided as to whether to force residents from their homes so Donald Trump can build an even larger golf course.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Hillhead Croft, Chapel of Garioch, Inverurie AB51 5HE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Sue Edwards, Green Party candidate"
+                }
+            ]
+        },
+        "additionalNotes": "THE BEST CHOICE FOR GORDON!"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "leaflet": {
+        "candidateName": "Catherine West",
+        "constituency": "Hornsey & Wood Green",
+        "politicalParty": "Labour",
+        "electionDate": "2015",
+        "messages": [
+            {
+                "title": "Dear Neighbour",
+                "content": "We came around today to say hello and ask about any issues you have. In these tough times we need to fight for the things that matter."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Reversing the break up and selling off of the NHS"
+            },
+            {
+                "policyTitle": "Bedroom Tax",
+                "policyDescription": "Repealing the Bedroom Tax which is causing so much hardship"
+            },
+            {
+                "policyTitle": "Education and Jobs",
+                "policyDescription": "Helping our young people get on in life by driving up school standards and providing apprenticeships and jobs"
+            }
+        ],
+        "mentions": {
+            "candidate": "Catherine West",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Helping our young people get on in life by driving up school standards and providing apprenticeships and jobs",
+            "environment": "",
+            "governance": "",
+            "health": "Reversing the break up and selling off of the NHS",
+            "immigration": "",
+            "socialWelfare": "Repealing the Bedroom Tax which is causing so much hardship",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Freepost, 28 Middle Lane, London, N8 8PL",
+            "phone": "020 8340 7362",
+            "email": "contact@catherinewest.org.uk",
+            "website": "bit.ly/hwglabour",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@CatherineWest1",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Catherine West, Labour's candidate for MP called today..."
+                },
+                {
+                    "caption": "Catherine West, Your Labour Candidate for Parliament in 2015"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+    "candidateName": "David Dews",
+    "constituency": "Pudsey",
+    "politicalParty": "UK Independence Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Straight talking. Vote UKIP",
+        "content": "Labour signed up to the Lisbon Treaty - giving away my freedom, and the Conservations and LibDems went along with it. If you feel as frustrated as I do, please don't stay at home on polling day - vote for a change of direction with UKIP, with an engineer, not a politician."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "No house building on green belt forced through to meet quotas imposed by Brussels."
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "Referenda on local and national issues."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Dews",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Labour signed up to the Lisbon Treaty - giving away my freedom, and the Conservations and LibDems went along with it.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "Referenda on local and national issues.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"No house building on green belt forced through to meet quotas imposed by Brussels.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "ukip.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Dews"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

@@ -1,0 +1,68 @@
+{
+    "leaflet": {
+        "candidateName": "John Jones",
+        "constituency": "River ward",
+        "politicalParty": "Labour",
+        "electionDate": "May 7th",
+        "messages": [],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "John Jones",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07732587092",
+            "email": "john.jones1947@btinternet.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "I am proud to have been selected to stand for Parliament in an area that I can call home. I was born here, and attended local schools - so I know the issues and concerns local people have, and I want to give them a voice",
+                "source": "Naushabah Khan",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Naushabah Khan Labour Parliamentary Candidate for Rochester & Strood"
+                },
+                {
+                    "caption": "John Jones Labour Council Candidate for River ward"
+                },
+                {
+                    "caption": "Mark Jones Labour Council Candidate for River ward"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "constituency": "Guildford",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "I need your help to change Britain.",
+                "content": "The Labour Government has been a disappointment. And in Guildford they are in third place. Look at the result last time: [election results data]"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Crime",
+                "policyDescription": "The Lib Dems will put more police on patrol to keep our streets safe."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "We will fight to protect the frontline NHS services that we all rely on."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sue Doughty",
+            "otherPartyLeaderCandidate": "David Cameron, Lord Ashcroft",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": "In this area, it's a choice between Sue Doughty and the Conservatives. There were only 347 votes in it last time. This time your vote could decide who wins."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "The Conservatives are bankrolled by Belize billionaire Lord Ashcroft. He has dodged paying \u00a3100million in UK taxes. So it's no surprise that the Conservatives' top priority is cutting taxes for millionaires.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Our NHS and other vital public services won't be safe with the Tories.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "4 Cowley Street, London, SW1P 3NB",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "PS - Remember, the election in Guildford is a choice between the Lib Dems or the Conservatives. Voting Labour could just help the Tories win.",
+                "source": "Nick Clegg",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nick Clegg's portrait"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

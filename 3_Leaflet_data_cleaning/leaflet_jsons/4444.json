@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "JOHN WISEMAN",
+        "constituency": "",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "STOP MASS IMMIGRATION"
+            }
+        ],
+        "mentions": {
+            "candidate": "JOHN WISEMAN",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "5,000 new immigrants arrive in the UK every week",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07815 767999",
+            "email": "",
+            "website": "ukip-wycombe.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "5,000 new immigrants arrive in the UK every week"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

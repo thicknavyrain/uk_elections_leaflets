@@ -1,0 +1,66 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Conservative",
+	"electionDate": "12 December 2019",
+	"messages": [
+  	{
+    	"title": "YOUR BILL FOR THE COST OF CORBYN",
+    	"content": "To be paid by: hardworking taxpayers like you"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Corbyn's policies",
+    	"policyDescription": "Cost to the country for various policies including putting politicians in charge of rail, energy, water and postal services, universal basic income, and more arguing about Brexit with no action on priorities."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Corbyn",
+  	"partyLeader": "",
+  	"tacticalSituation": "How to pay the cost of Corbyn: vote Labour, Lib Dem or Brexit Party on 12 December 2019. How to avoid the cost of Corbyn: vote Conservative on 12 December 2019."
+	},
+	"issues": {
+  	"brexitEurope": "More arguing about Brexit – and no action on our priorities",
+  	"economy": "New homes tax on EVERY home. Total cost: £1,200,000,000,000. Cost to hardworking families - £2,400.",
+  	"education": "No standards in schools – and a worse education for your children",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Cost of a four-day week, hitting vital public services like the NHS £85,000,000,000",
+  	"immigration": "",
+  	"socialWelfare": "Universal basic income, giving free money to the super rich and prisoners £4,500,000,000",
+  	"housing": [
+    	{
+      	"content":"New homes tax on EVERY home",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Leaflet detailing the costs of Corbyn's policies to taxpayers and families."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

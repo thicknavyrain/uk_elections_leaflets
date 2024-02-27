@@ -1,0 +1,68 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "HELP US WIN!",
+                "content": "We can\u2019t afford more years of let downs from Labour and Conservatives."
+            },
+            {
+                "title": "It's time to vote for the change you want!",
+                "content": "Both Labour and the Conservatives are using desperate scare tactics to try to stop people from backing the Liberal Democrats in this election. They know that if people vote for who they really want, then the Liberal Democrats will win."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "Labour and Conservatives",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "4 Cowley Street, London, SW1P 3NB",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nick Clegg portrait"
+                },
+                {
+                    "caption": "Leaflet header graphic with Nick Clegg and another individual"
+                }
+            ]
+        },
+        "additionalNotes": "To help our campaign for real change in Britain, please complete and return this form today or visit our website."
+    }
+}

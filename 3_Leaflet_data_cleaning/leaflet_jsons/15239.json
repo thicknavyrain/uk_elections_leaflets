@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health Funding",
+        "policyDescription": "£8 Billion more on Health"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "£8 Billion more on Health",
+      "immigration": "",
+      "socialWelfare": "Record Pension Increase",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Liberal Democrats deliver record pension increase"
+        }
+      ]
+    },
+    "additionalNotes": "Years of Savage Cuts Have Left Many Council Services on their knees..."
+  }
+}

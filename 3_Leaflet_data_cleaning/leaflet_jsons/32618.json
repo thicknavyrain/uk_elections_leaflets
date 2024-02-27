@@ -1,0 +1,103 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "IT'S TIME FOR REAL CHANGE",
+        "content": "After nearly a decade of cuts, it's time for real change. Labour will rebuild and transform Britain, so that no one is left behind."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Rebuild our public services",
+        "policyDescription": "More doctors, more nurses, and free prescriptions."
+      },
+      {
+        "policyTitle": "Kick-start a Green Industrial Revolution",
+        "policyDescription": "To tackle the climate emergency and create secure jobs."
+      },
+      {
+        "policyTitle": "Introduce a Real Living Wage of at least £10 per hour",
+        "policyDescription": "For all workers, to give everyone a decent standard of living."
+      },
+      {
+        "policyTitle": "End food bank Britain",
+        "policyDescription": "Tackling poverty and providing help for those who need it most."
+      },
+      {
+        "policyTitle": "Get Brexit sorted within six months",
+        "policyDescription": "By giving you the final say on Brexit."
+      },
+      {
+        "policyTitle": "Build a million affordable homes",
+        "policyDescription": "And bring social housing back to where it's needed most."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Get Brexit sorted within six months. By giving you the final say on Brexit.",
+      "economy": "",
+      "education": "",
+      "environment": "Kick-start a Green Industrial Revolution to tackle the climate emergency and create secure jobs.",
+      "governance": "",
+      "health": "More doctors, more nurses, and free prescriptions.",
+      "immigration": "",
+      "socialWelfare": "End food bank Britain. Tackling poverty and providing help for those who need it most.",
+      "housing": [
+        {
+          "content": "Build a million affordable homes and bring social housing back to where it's needed most.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour's Plan for Real Change leaflet cover."
+        }
+      ]
+    },
+    "additionalNotes": "Vote for real change."
+  }
+}

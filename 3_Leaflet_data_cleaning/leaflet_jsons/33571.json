@@ -1,0 +1,106 @@
+{
+    "leaflet": {
+        "candidateName": "Geoffrey COX",
+        "constituency": "Torridge and West Devon",
+        "politicalParty": "Conservatives",
+        "electionDate": "THURSDAY 12 DECEMBER",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit Done with our New Deal"
+            },
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "\u00a333.9 billion extra for the NHS"
+            },
+            {
+                "policyTitle": "Education Funding",
+                "policyDescription": "Fair funding for every pupil in every school"
+            },
+            {
+                "policyTitle": "Police Funding",
+                "policyDescription": "20,000 extra police for safer streets"
+            },
+            {
+                "policyTitle": "Hospital Creation",
+                "policyDescription": "40 new hospitals across the country"
+            },
+            {
+                "policyTitle": "Broadband Infrastructure",
+                "policyDescription": "Gigabit broadband for the whole country"
+            },
+            {
+                "policyTitle": "Town Investment",
+                "policyDescription": "\u00a33.6 billion to help towns invest and attract new businesses"
+            }
+        ],
+        "mentions": {
+            "candidate": "Geoffrey COX",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit Done with our New Deal",
+            "economy": "\u00a33.6 billion to help towns invest and attract new businesses",
+            "education": "Fair funding for every pupil in every school",
+            "environment": "",
+            "governance": "",
+            "health": "\u00a333.9 billion extra for the NHS",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "40 new hospitals across the country",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Candidate with constituents"
+                },
+                {
+                    "caption": "Candidate with a dog"
+                },
+                {
+                    "caption": "\u00a333.9 billion extra for the NHS"
+                },
+                {
+                    "caption": "20,000 extra police for safer streets"
+                },
+                {
+                    "caption": "40 new hospitals across the country"
+                },
+                {
+                    "caption": "More funding for every pupil in every school"
+                },
+                {
+                    "caption": "Gigabit broadband for the whole country"
+                },
+                {
+                    "caption": "\u00a33.6 billion to help towns invest and attract new businesses"
+                }
+            ]
+        },
+        "additionalNotes": "Election Communication Torridge and West Devon"
+    }
+}

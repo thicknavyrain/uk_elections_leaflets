@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "Menzies Campbell",
+        "constituency": "",
+        "politicalParty": "Scottish Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "There is Only One Choice in This Election!",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Menzies Campbell",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Menzies Campbell speaking at a podium"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "leaflet": {
+        "candidateName": "Alex Norris",
+        "constituency": "Nottingham North",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Alex Norris is the local choice",
+                "content": "Alex has given us a strong voice in Parliament. Let's send him back to continue the job."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Save our NHS",
+                "policyDescription": "Labour will properly fund the NHS so that we can all access it when we need it."
+            },
+            {
+                "policyTitle": "Stand up for older people",
+                "policyDescription": "Labour would reverse these cuts, introduce free personal care, reinstate the free TV licence and force the big businesses."
+            },
+            {
+                "policyTitle": "More for young people",
+                "policyDescription": "A Labour Government would restore youth services with a new Youth Service Guarantee."
+            },
+            {
+                "policyTitle": "Improve our shops",
+                "policyDescription": "Labour has invested in Bulwell Market, Labour will restore town planning powers and give towns like ours more say over their future."
+            },
+            {
+                "policyTitle": "Fight climate change",
+                "policyDescription": "A Labour Government will not only reduce carbon emissions but develop a green economy leading to new jobs in manufacturing."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alex Norris",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "A Labour Government will not only reduce carbon emissions but develop a green economy leading to new jobs in manufacturing.",
+            "governance": "",
+            "health": "Labour will properly fund the NHS so that we can all access it when we need it.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "A Labour Government would fight against school cuts, for better jobs training and access to housing.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "This is a critical election. Nine years of austerity, cuts to our local services, haven't defeated our city. The Tories cut police officers, so crime went up; they gutted the NHS, now it's harder to get in see the Doctor. They cut youth services, now we have more young people to do.",
+        "politicalExperience": [
+            {
+                "role": "Labour\u2019s candidate",
+                "duration": "N/A",
+                "achievements": "I've stood up in Parliament against it - fighting for social care, for better youth spending and more police, for housing and jobs."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Alex launches his campaign with a strong team of local people."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

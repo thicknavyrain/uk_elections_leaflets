@@ -1,0 +1,56 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday",
+        "messages": [
+            {
+                "title": "WARNING",
+                "content": "DON'T RISK GETTING A TORY MP AND HANDING POWER BACK TO THE TORIES. Only Labour can stop the Tories. Only Labour is fighting to protect your family."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Tory MP",
+            "partyLeader": "",
+            "tacticalSituation": "Staying at home, voting Lib Dem or any other party, will let the Tories win."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote Labour on Thursday"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

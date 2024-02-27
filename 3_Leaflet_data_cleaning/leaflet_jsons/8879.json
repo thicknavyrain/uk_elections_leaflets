@@ -1,0 +1,69 @@
+{
+    "leaflet": {
+        "candidateName": "Margaret Hodge",
+        "constituency": "Barking and Dagenham",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "A new maternity unit will open at the old Barking Hospital site later this year."
+            },
+            {
+                "policyTitle": "Local Safety",
+                "policyDescription": "11 local Safer Neighbourhoods Police Teams in the area to address the need for police on the beat."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "The Labour Government has started to build council houses again and aims to secure 3,000 affordable homes in the next five years."
+            }
+        ],
+        "mentions": {
+            "candidate": "I'm here to help Margaret Hodge",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "A new maternity unit will open at the old Barking Hospital site later this year.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "The Labour Government has started to build council houses again and aims to secure 3,000 affordable homes in the next five years.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I'm here to help",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Margaret Hodge with local residents"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

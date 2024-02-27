@@ -1,0 +1,86 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Scottish Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [
+            {
+                "title": "The choice at this election",
+                "content": "The choice at this election is between a Labour or a Tory government."
+            },
+            {
+                "title": "Only a vote for Labour will stop the Tories",
+                "content": "At this election a vote for anyone but Labour risks another Tory government."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Ban exploitative zero-hours contracts",
+                "policyDescription": "Scottish Labour plans to ban exploitative zero-hours contracts."
+            },
+            {
+                "policyTitle": "Raise the minimum wage to more than \u00a38 an hour",
+                "policyDescription": "Scottish Labour plans to raise the minimum wage to more than \u00a38 an hour."
+            },
+            {
+                "policyTitle": "1,000 more nurses paid for by a mansion tax",
+                "policyDescription": "Scottish Labour plans to hire 1,000 more nurses paid for by a mansion tax."
+            },
+            {
+                "policyTitle": "Guarantee a job and training for young people",
+                "policyDescription": "Scottish Labour guarantees a job and training for young people."
+            },
+            {
+                "policyTitle": "Freeze energy bills",
+                "policyDescription": "Scottish Labour plans to freeze energy bills."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Only a vote for Labour will stop the Tories and deliver the change we need."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "1,000 more nurses paid for by a mansion tax",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A Labour or a Tory government - it\u2019s a two horse race"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Don\u2019t be conned by the Conservatives",
+                "content": "Tory campaign chief Lord Ashcroft is spending millions of pounds on negative campaigning to try to defeat hardworking Lib Dem MPs at the election. The Conservatives know that Liberal Democrat MPs have a strong record of action that can\u2019t be matched. Voters won\u2019t be fooled by these desperate Conservative tactics."
+            },
+            {
+                "title": "Only the Liberal Democrats will deliver for you",
+                "content": "It was Nick Clegg\u2019s Lib Dems who delivered Gordon Brown\u2019s first ever Parliamentary defeat on a fair deal for the Gurkhas."
+            },
+            {
+                "title": "In many parts of Britain... It\u2019s a two horse race",
+                "content": "Labour is in a distant third place and cannot win in many areas. Supporting them just helps the Conservatives."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fair deal for the Gurkhas",
+                "policyDescription": "Liberal Democrats delivered a first ever Parliamentary defeat for Gordon Brown resulting in a fair deal for the Gurkhas."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": "Labour is in a distant third place and cannot win in many areas. Supporting them just helps the Conservatives."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Gurkhas were delivered a fair deal.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Liberal Democrat MPs were more highly regarded by their constituents than Conservative or Labour MPs.",
+                "source": "Independent Political/Home largest poll, UK 2006",
+                "date": "2006"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Liberal Democrats campaign leaflet highlighting strategic voting and their successes."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

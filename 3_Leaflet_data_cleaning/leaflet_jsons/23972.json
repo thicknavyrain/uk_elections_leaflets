@@ -1,0 +1,107 @@
+{
+    "leaflet": {
+        "candidateName": "Daniel Zeichner",
+        "constituency": "Cambridge",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dear [Name], \nWe called but you were not in. Sorry to have missed you."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Save our NHS, with 20,000 more nurses and 8,000 more GPs."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Change the law to stop letting agents charging rip off fees."
+            },
+            {
+                "policyTitle": "Childcare",
+                "policyDescription": "Expand free childcare for working parents."
+            },
+            {
+                "policyTitle": "Zero Hours Contracts",
+                "policyDescription": "Ban exploitative zero hours contracts."
+            },
+            {
+                "policyTitle": "Wage",
+                "policyDescription": "Fight for a Living Wage."
+            },
+            {
+                "policyTitle": "Energy Bills",
+                "policyDescription": "Freeze energy bills until 2017."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Make the UK's energy supply carbon zero by 2030."
+            }
+        ],
+        "mentions": {
+            "candidate": "Daniel Zeichner",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Cambridge's LibDem MP has voted with the Tories 782 times."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "Make the UK's energy supply carbon zero by 2030.",
+            "governance": "LibDems are propping up this right-wing Tory Government. They share the blame for NHS privatisation, Post Office privatisation, a lax break for millionaires & tuition fees.",
+            "health": "Save our NHS, with 20,000 more nurses and 8,000 more GPs.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Change the law to stop letting agents charging rip off fees.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Labour MP",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01223 500515",
+            "email": "daniel@cambridgelabour.org.uk",
+            "website": "www.danielzeichner.co.uk",
+            "socialMedia": {
+                "facebook": "facebook/zeichner2015",
+                "twitter": "@DanielZeichner",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Richard Howitt MEP",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "No ifs, no buts, I will never prop up a Tory Government.",
+                "source": "Daniel Zeichner",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote Labour www.danielzeichner.co.uk"
+                }
+            ]
+        },
+        "additionalNotes": "The LibDems are propping up this right-wing Tory Government. They share the blame for NHS privatisation, Post Office privatisation, a tax break for millionaires & tuition fees."
+    }
+}

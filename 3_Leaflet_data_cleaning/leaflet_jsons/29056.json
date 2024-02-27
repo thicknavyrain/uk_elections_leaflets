@@ -1,0 +1,101 @@
+{
+    "leaflet": {
+        "candidateName": "Chris Jones",
+        "constituency": "Norwich North",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "On your side - for our Norwich Community",
+                "content": "Local NHS doctor CHRIS JONES is your Labour candidate on Thursday 8th June. Working for over 16 years in our local community he decided to put himself forward to stand up for Norwich North and our people."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect our Norfolk and Norwich University Hospital.",
+                "policyDescription": "Opposes persistent cuts to our local hospital and emphasizes the importance of local, valued NHS services."
+            },
+            {
+                "policyTitle": "Save our Police Team",
+                "policyDescription": "Objects to the Conservative policy of cutting 20,000 police officers since 2010 and highlights the importance of a strong local police team in Norwich and Norfolk."
+            },
+            {
+                "policyTitle": "Silver Road Community Centre saved!",
+                "policyDescription": "Celebrates the campaign supported by Labour that saved the Silver Rooms, ensuring community value and investment in local assets and not disposals."
+            },
+            {
+                "policyTitle": "Protect our Post Office!",
+                "policyDescription": "Wants to prevent post office closures and ensure the continuation of the Universal Postal Service across Norwich North."
+            },
+            {
+                "policyTitle": "Save our SureStart",
+                "policyDescription": "Wants to protect dozens of SureStart Centres Labour built across Norwich threatened by Conservative cuts."
+            },
+            {
+                "policyTitle": "Save our Fire Stations!",
+                "policyDescription": "Opposes big cuts to fire service and stresses the importance of a good response time during emergencies."
+            },
+            {
+                "policyTitle": "Keep our libraries open!",
+                "policyDescription": "Fights against Conservative local library cuts and underscores the position of libraries as hubs of learning and enjoyment."
+            }
+        ],
+        "mentions": {
+            "candidate": "Chris Jones",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Emphasizes the importance of local, valued NHS services.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Celebrates the campaign supported by Labour that saved the Silver Rooms, ensuring community value and investment in local assets.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Chris says: 'For over 30 years I cared for people as a doctor. More and more I've seen the other side in the political apparatus fail to stand shoulder to shoulder with us in our NHS and in the general community.'",
+        "politicalExperience": [
+            {
+                "role": "Local NHS Doctor",
+                "duration": "Over 16 years",
+                "achievements": "Caring for people as a doctor."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Ian Gibson",
+                "endorsement": "I am pleased to see Chris is battling for a victory in Norwich North. My contacts in the constituency are many and they regret the local representation they have particularly and nationally."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Chris Jones with supporters."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

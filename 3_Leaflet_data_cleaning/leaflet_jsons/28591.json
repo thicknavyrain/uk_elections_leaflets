@@ -1,0 +1,77 @@
+{
+  "leaflet": {
+    "candidateName": "Theresa May",
+    "constituency": "Brent",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Protecting our NHS",
+        "content": ""
+      },
+      {
+        "title": "Help for first-time buyers",
+        "content": ""
+      },
+      {
+        "title": "More good school places",
+        "content": ""
+      },
+      {
+        "title": "More jobs",
+        "content": ""
+      },
+      {
+        "title": "Making a success of Brexit",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Theresa May",
+      "otherPartyLeaderCandidate": "LABOUR WANT TO IGNORE YOUR VOTE ON BREXIT",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Making a success of Brexit",
+      "economy": "",
+      "education": "More good school places",
+      "environment": "",
+      "governance": "",
+      "health": "Protecting our NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Help for first-time buyers",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "THERESA MAY'S PLAN FOR A STRONGER BRITAIN AND A PROSPEROUS FUTURE"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

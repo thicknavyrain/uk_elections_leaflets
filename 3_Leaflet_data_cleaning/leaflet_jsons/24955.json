@@ -1,0 +1,112 @@
+{
+    "leaflet": {
+        "candidateName": "Peter Fortune",
+        "constituency": "Lewisham East",
+        "politicalParty": "Conservative Party",
+        "electionDate": "7th May",
+        "messages": [
+            {
+                "title": "FINAL COUNTDOWN",
+                "content": "Voting for a strong economy"
+            },
+            {
+                "title": "LOCAL UPDATE",
+                "content": "POLL REVEALS TWO HORSE RACE"
+            },
+            {
+                "title": "A RECOVERING ECONOMY",
+                "content": "May 7th Is decision day for Britain. From education to defence, from job creation to Britain's place In the world, the country Is at a crossroads."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Support for a recovering economy and the avoidance of Labour's alleged economic mismanagement."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Calls for more support in local schools due to the underperformance of Lewisham schools."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "A pledge to build a stronger NHS, continuing the commitment to a ring-fenced budget."
+            },
+            {
+                "policyTitle": "Cost of Living",
+                "policyDescription": "Address the impact of the financial crash and support those on lowest incomes feeling the greatest impact."
+            }
+        ],
+        "mentions": {
+            "candidate": "Peter Fortune",
+            "otherPartyLeaderCandidate": "Ed Miliband, Labour Party; David Cameron, Conservative Party",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": "Close polling has revealed that it is a 'neck and neck' battle between Labour and the Conservatives. A vote for the Conservatives can stop Ed Miliband being handed the keys to number 10."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Support for recovering the economy and avoiding Labour's mismanagement.",
+            "education": "Lewisham schools are underperforming and require more support.",
+            "environment": "",
+            "governance": "",
+            "health": "Creating a stronger NHS with a ring-fenced budget.",
+            "immigration": "",
+            "socialWelfare": "Supporting those on the lowest incomes feeling the greatest impact of the financial crash.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I have spoken to thousands of people across Lewisham and I know how passionately they want to see real changes that will make many residents feel they can trust the future for Lewisham and for Britain.",
+        "politicalExperience": [
+            {
+                "role": "Conservative Party Candidate",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "ELCA, 77 Dartmouth Road, London, SE23 3HT",
+            "phone": "",
+            "email": "",
+            "website": "peterfortune.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "#fortune4lewisham",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Conservative Party logo with text 'Vote Conservative on 7th May'"
+                },
+                {
+                    "caption": "Local candidate Peter Fortune talks to parents."
+                },
+                {
+                    "caption": "University Hospital Lewisham photo with a baby."
+                },
+                {
+                    "caption": "Candidate engaging in discussion with individuals."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

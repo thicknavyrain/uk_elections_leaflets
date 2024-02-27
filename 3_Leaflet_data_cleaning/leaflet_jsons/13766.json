@@ -1,0 +1,90 @@
+{
+    "leaflet": {
+        "candidateName": "Eric Pickles",
+        "constituency": "Brentwood and Ongar",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "ERIC PICKLES FOR BRENTWOOD AND ONGAR",
+                "content": "I'm the most important General Election for a generation. Britain has got the biggest budget deficit in the developed world, with the highest rate of family breakdown in Europe, and trust in politics is at an all-time low. Now, more than ever, the country needs change."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "We will cut the deficit. As every family knows, the longer you live a debt problem, the worse it gets."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "We will protect spending on the NHS and improve it for everyone."
+            },
+            {
+                "policyTitle": "Family and Education",
+                "policyDescription": "We will stand up for families, sort out our schools and fight back against crime."
+            },
+            {
+                "policyTitle": "Transparent Governance",
+                "policyDescription": "To continue to be open and transparent about parliamentary expenses and regularly publish them on line."
+            }
+        ],
+        "mentions": {
+            "candidate": "Eric Pickles",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Britain has got the biggest budget deficit in the developed world.",
+            "education": "Sort out our schools.",
+            "environment": "",
+            "governance": "To continue to be open and transparent about parliamentary expenses and regularly publish them on line.",
+            "health": "We will protect spending on the NHS and improve it for everyone.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "But, in spite of everything, I'm optimistic about our future. I believe that if we all work together, we can get Britain to the recovery that will assure hope and chance for every family in Britain today.",
+        "politicalExperience": [
+            {
+                "role": "Chairman of the Conservative Party",
+                "duration": "",
+                "achievements": "He has led the way on important issues like the environment, civil liberties, and fixing our broken society."
+            }
+        ],
+        "contactInformation": {
+            "address": "19 Crown Street, Brentwood, Essex CM14 4BA",
+            "phone": "01277 210725",
+            "email": "eric@ericpickles.com",
+            "website": "www.ericpickles.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "When you're standing in that polling booth with the pencil in your hand, I want you to remember this: in your hands you have the power to change Britain's very political destiny.",
+                "source": "David Cameron",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of Eric Pickles speaking with David Cameron."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

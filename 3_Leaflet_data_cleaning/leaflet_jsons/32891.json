@@ -1,0 +1,75 @@
+{
+    "leaflet": {
+        "candidateName": "Gordon Henderson",
+        "constituency": "Sittingbourne & Sheppey",
+        "politicalParty": "",
+        "electionDate": "Thursday 12th December 2019",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Better Roads",
+                "policyDescription": "With the help of local people, managed to secure funds to improve the Lower Road on Sheppey and the Stockbury Roundabout. Now will press for other sections of our area to be improved."
+            },
+            {
+                "policyTitle": "Less Housing",
+                "policyDescription": "Sittingbourne and Sheppey has taken more than its fair share of the housing needed to meet Swale's target. Although will continue to push for a lower target, any housing developments that must be built should take place in Faversham."
+            },
+            {
+                "policyTitle": "More Doctors",
+                "policyDescription": "There is a shortage of GPs in the area. The reasons are complex, but solvable. There will be an improvement once the proposed medical school is opened in Kent. However, will continue to press for action to help attract more doctors to Sittingbourne and Sheppey."
+            }
+        ],
+        "mentions": {
+            "candidate": "Gordon Henderson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "There is a shortage of GPs in the area. The reasons are complex but solvable. There will be an improvement once the proposed medical school is opened in Kent. However, will continue to press for action to help attract more doctors to Sittingbourne and Sheppey.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Sittingbourne and Sheppey has taken more than its fair share of the housing needed to meet Swale's target. Although will continue to push for a lower target, any housing developments that must be built should take place in Faversham.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A photo featuring Gordon Henderson standing next to a sign for Lower Road improvements."
+                },
+                {
+                    "caption": "An image showing a construction site with houses being built."
+                },
+                {
+                    "caption": "A photo featuring Gordon Henderson and a group of people at the Newington Surgery."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

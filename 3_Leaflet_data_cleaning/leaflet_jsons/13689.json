@@ -1,0 +1,109 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "This time we can do things differently",
+                "content": ""
+            },
+            {
+                "title": "You can make the difference...",
+                "content": "For decades Labour and the Conservatives have been taking it in turns to run Britain. We've seen all they can offer. This election, it's time to do something different."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tax",
+                "policyDescription": "No tax on the first \u00a310,000 you earn"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Action to get our economy moving again"
+            },
+            {
+                "policyTitle": "Politics",
+                "policyDescription": "Clean up politics and give you the power to sack corrupt MPs"
+            },
+            {
+                "policyTitle": "Law and Order",
+                "policyDescription": "3000 more police on our streets"
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Action to protect frontline NHS services"
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "In many parts of Britain, it's a choice between the Liberal Democrats and Labour"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Action to get our economy moving again",
+            "education": "",
+            "environment": "",
+            "governance": "Clean up politics and give you the power to sack corrupt MPs",
+            "health": "Action to protect frontline NHS services",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Liberal Democrats - change that works for you."
+                },
+                {
+                    "caption": "This time we can do things differently"
+                },
+                {
+                    "caption": "In many parts of Britain, it's a choice between the Liberal Democrats and Labour"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

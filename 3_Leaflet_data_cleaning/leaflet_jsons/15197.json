@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Scottish Labour",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect Our NHS",
+                "policyDescription": "Plan includes hiring 1,000 more nurses, reducing cancer waiting times, and establishing a \u00a3100m Frontline Fund targeting A&E."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Plan to protect NHS by hiring 1,000 more nurses, reducing cancer waiting times, and creating a \u00a3100m Frontline Fund for A&E.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A PLAN TO PROTECT OUR NHS"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

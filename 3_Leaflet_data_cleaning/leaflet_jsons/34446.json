@@ -1,0 +1,109 @@
+{
+    "leaflet": {
+        "candidateName": "John Stevenson",
+        "constituency": "Carlisle",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Your local vote will decide the next Prime Minister",
+                "content": "Brexit done with a deal, \u00a333.9 billion extra for the NHS, 20,000 extra police officers, more funding per pupil in every school, and gigabit broadband to connect every home and business."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done with our new deal."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "\u00a333.9 billion extra for the NHS."
+            },
+            {
+                "policyTitle": "Policing",
+                "policyDescription": "20,000 extra police to keep our streets safe."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More funding for every pupil in every school."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Gigabit broadband to connect every home and business. \u00a33.6 billion to help towns invest and attract new businesses."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Better transport for the North."
+            }
+        ],
+        "mentions": {
+            "candidate": "John Stevenson: Polls teeter between hung parliament and slim Tory majority",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn propped up by Nicola Sturgeon",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "This election will be close. Your local vote will decide it."
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done with our new deal.",
+            "economy": "\u00a33.6 billion to help towns invest and attract new businesses.",
+            "education": "More funding for every pupil in every school.",
+            "environment": "",
+            "governance": "",
+            "health": "\u00a333.9 billion extra for the NHS.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "John Stevenson, Delivering Brexit in Carlisle"
+                },
+                {
+                    "caption": "Your local vote will decide the next Prime Minister"
+                },
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

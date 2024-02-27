@@ -1,0 +1,114 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Never voted Tory before?",
+        "content": "Here are ten reasons why you should..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "The NHS - Our number one priority",
+        "policyDescription": "We believe in a National Health Service that is free and available to everyone in our society. Unlike Labour, we will increase spending on healthcare every year."
+      },
+      {
+        "policyTitle": "Dealing with Labour's Debt Crisis",
+        "policyDescription": "Labour are spending more on debt interest repayments than on tacking child poverty. We will cut the deficit quicker than Labour, and build stronger, so we can spend your taxes on the things that matter. Conservative plans will help keep mortgage rates lower for longer."
+      },
+      {
+        "policyTitle": "Creating new jobs",
+        "policyDescription": "Unemployment has gone up under Labour and one in five young people now can't find a job. We will Get Britain Working by creating 400,500 apprenticeships, college and training places over two years. As part of our plan to build a more balanced economy, where Britain makes things again, new businesses will pay no tax on the first ten jobs they create."
+      },
+      {
+        "policyTitle": "Protecting the poorest",
+        "policyDescription": "Under Labour the poor have got poorer, with 900,000 more people living in severe poverty. We will keep the minimum wage, extend benefit tax credits, and other measures to help working families, and take action to deal with the long-term causes of poverty."
+      },
+      {
+        "policyTitle": "Supporting families",
+        "policyDescription": "Under Labour, we have the highest family breakdown in Europe. We will support marriage in the tax system and end the couple penalty in the tax benefit system, extend flexible working to all families with children under the age of 18, and recruit 4,200 more Sure Start health visitors to give families the support they need."
+      },
+      {
+        "policyTitle": "Giving every child a good education",
+        "policyDescription": "Under Labour, the gulf between the exam results of children from rich and poor backgrounds has widened. We will create new schools to raise standards for all children, with extra money for children from the poorest families."
+      }
+      // There are more policies listed, but the rest are not visible due to image quality.
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We will cut the deficit quicker than Labour, and build stronger...",
+      "education": "We will create new schools to raise standards for all children, with extra money for children from the poorest families.",
+      "environment": "",
+      "governance": "",
+      "health": "We believe in a National Health Service that is free and available to everyone in our society. Unlike Labour, we will increase spending on healthcare every year.",
+      "immigration": "",
+      "socialWelfare": "We will keep the minimum wage, extend benefit tax credits, and other measures to help working families...",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Julie",
+        "endorsement": "Julie is a married mother of two from Llandudno. She works part-time as a recruitment co-ordinator. ... 'Growing up, I never thought I would vote for the Tories. But I went to a 'Cameron Direct' event in the local town hall where David Cameron answered questions from members of the public and something he said that really took hold with me was that he wanted Britain to be one of the most family friendly countries in the world. I think that is just a great objective to have – and I believe Conservative policies on family, especially on flexible working, are the best thing for my future and for my children's future.'"
+      },
+      {
+        "endorser": "Danielle",
+        "endorsement": "Danielle is 27 and lives in Brighton. She's a project worker at a homeless charity. ... 'I always voted Labour because that was the done thing – my family did it, my friends did it. I didn't really think about it. But I saw David Cameron on TV talking about how we need to encourage families and communities and build up constituencies – and 'Yeah - that's what I think about.' And the Conservative plans to widen communities and let them take their destinies into their own hands is why I'll be voting for them at the next election.'"
+      },
+      {
+        "endorser": "Ian",
+        "endorsement": "Ian lives in Congleton, with his wife and two children. He runs a hydraulics company, which employs six people. ...'I come from a staunch Labour family – my dad was a miner, my Mum were very active in the local Labour party – and I've always voted Labour myself. But having children has changed my outlook. I want a government that can ensure that I can provide for my family – and I think the Conservatives will do that.'"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We can't afford five more years of Gordon Brown. We need change to build a stronger and fairer society.",
+        "source": "Conservative Campaign Leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images of individuals purportedly supporting the Conservative party."
+        }
+      ]
+    },
+    "additionalNotes": "Leaflet focused on highlighting the failures of the Labour party and presenting Conservative policies as the solutions."
+  }
+}
+```

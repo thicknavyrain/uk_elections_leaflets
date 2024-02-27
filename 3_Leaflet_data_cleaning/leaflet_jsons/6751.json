@@ -1,0 +1,86 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Nick Clegg came out on top",
+                "content": "The second election debate was much closer than the first, but again Nick Clegg proved the winner. In a debate dominated by issues like Iraq, immigration and climate change, Nick Clegg again answered the questions that Brown and Cameron could not."
+            },
+            {
+                "title": "Desperate Conservatives and Labour turn nasty in election",
+                "content": "Polls this week have shown the Liberal Democrats in the lead in the General Election. Labour and the Conservatives and their friends in the media have reacted by going negative and nasty."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "Brown, Cameron",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "In a debate dominated by issues like Iraq, immigration and climate change, Nick Clegg again answered the questions that Brown and Cameron could not.",
+            "health": "",
+            "immigration": "In a debate dominated by issues like Iraq, immigration and climate change, Nick Clegg again answered the questions that Brown and Cameron could not.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "We need to put people before politics",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Nick Clegg came out on top",
+                "source": "ITV News",
+                "date": ""
+            },
+            {
+                "text": "\"The polls said...\"",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "ITV News",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "\"Desperate Conservatives and Labour turn nasty in election\"",
+                "source": "The Guardian",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nick Clegg in the election debate"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

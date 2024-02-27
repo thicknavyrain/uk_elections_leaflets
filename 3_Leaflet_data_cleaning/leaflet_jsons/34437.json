@@ -1,0 +1,66 @@
+{
+    "leaflet": {
+        "candidateName": "Ruth Davidson",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "Dear Voter",
+                "content": "This week we will all cast our votes in what is being described as the most important election of our lifetimes."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Scotland's place within the United Kingdom",
+                "policyDescription": "Defend Scotland's place within the United Kingdom, which is at risk as Nicola Sturgeon is trying to carve out an agreement with Jeremy Corbyn, risking further referenda on Brexit and Scottish independence."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ruth Davidson",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Nicola Sturgeon",
+            "tacticalSituation": "The fact is that if you want to beat the SNP here and make certain they're not holding a heavy influence on 13th December, with Nicola Sturgeon in Downing Street, your vote - even if it is only this time - needs to be for the Scottish Conservatives. It's the only way to be sure."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I understand why many are thinking even more carefully than usual about the way they will vote this time.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "67 Northumberland Street, Edinburgh, EH3 6JG",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A scan of a campaign leaflet written by Ruth Davidson MSP."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet mainly focuses on the threat to Scotland's place within the UK and sketches out the strategic voting considerations relevant to the specific electorate, advising a vote for the Scottish Conservatives to ensure SNP does not gain influence post-election."
+    }
+}

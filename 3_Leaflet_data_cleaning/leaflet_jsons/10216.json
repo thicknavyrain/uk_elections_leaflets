@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "UK Independence Party",
+	"electionDate": "Thursday, May 6th",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Leave the EU",
+    	"policyDescription": "Leave the EU and stop mass immigration"
+  	},
+  	{
+    	"policyTitle": "Immigration Control",
+    	"policyDescription": "Regain control of our borders"
+  	},
+  	{
+    	"policyTitle": "Asylum System",
+    	"policyDescription": "End abuse of the UK asylum system"
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Leave the EU",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "Stop mass immigration, Regain control of our borders",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "UK Independence Party, PO Box 408, Newton Abbot TQ12 9BG",
+  	"phone": "0800 587 6 587",
+  	"email": "",
+  	"website": "ukip.org",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "UKIP leaflet promoting policies on leaving the EU, immigration control, and ending abuse of the UK asylum system."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

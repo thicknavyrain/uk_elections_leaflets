@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "STOP THE TORIES TODAY",
+        "content": "Say 'NO' to: The 'Dementia Tax' that punishes the elderly and the sick, Cuts to schools that mean less teachers and bigger classes, More privatisation of the NHS and healthcare in crisis."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Dementia Tax",
+        "policyDescription": "Opposes the 'Dementia Tax' that punishes the elderly and the sick."
+      },
+      {
+        "policyTitle": "Education Funding",
+        "policyDescription": "Against cuts to schools that lead to less teachers and bigger classes."
+      },
+      {
+        "policyTitle": "NHS Privatisation",
+        "policyDescription": "Against further privatisation of the NHS and addressing the healthcare crisis."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Cuts to schools mean less teachers and bigger classes.",
+      "environment": "",
+      "governance": "",
+      "health": "More privatisation of the NHS and healthcare in crisis.",
+      "immigration": "",
+      "socialWelfare": "Opposes the 'Dementia Tax'.",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "STOP THE TORIES TODAY Say 'NO' to: The 'Dementia Tax' that punishes the elderly and the sick, Cuts to schools that mean less teachers and bigger classes, More privatisation of the NHS and healthcare in crisis."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

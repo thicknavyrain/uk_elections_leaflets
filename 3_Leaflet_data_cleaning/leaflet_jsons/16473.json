@@ -1,0 +1,107 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Lib Dems",
+        "electionDate": "May 7th",
+        "messages": [
+            {
+                "title": "Fixing the economy - and creating more jobs and apprenticeships",
+                "content": "The Liberal Democrats have helped businesses create 1.9 million more private sector jobs, and have delivered a record rise in apprenticeships."
+            },
+            {
+                "title": "Protecting spending on nurseries, schools and colleges",
+                "content": "\u00a3400 Income Tax cut for 26 million local workers."
+            },
+            {
+                "title": "\u00a38 billion a year extra for the NHS",
+                "content": "The Lib Dems are planning to increase spending on the NHS by \u00a38 billion a year by 2020 and put mental health treatment on an equal footing with that of physical health."
+            },
+            {
+                "title": "\u00a340million improvements at Sheffield Children's Hospital",
+                "content": "An exciting new wing is being built at Sheffield Children's Hospital which will provide new wards, a new outpatients department and better accommodation for parents staying with children. Nick Clegg launched the building work of the project."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Creating more private sector jobs and increasing apprenticeships."
+            },
+            {
+                "policyTitle": "Tax Cuts",
+                "policyDescription": "Income Tax cut for local workers."
+            },
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "Increase spending on the NHS by \u00a38 billion a year by 2020, with a focus on mental health."
+            },
+            {
+                "policyTitle": "Children's Hospital",
+                "policyDescription": "Investing \u00a340 million in improvements at Sheffield Children's Hospital."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "Ed Miliband, Labour",
+            "partyLeader": "",
+            "tacticalSituation": "The Conservatives can't win here. Tactical voting sentiment."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Fixing the economy by creating more jobs and apprenticeships.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "\u00a38 billion a year extra for the NHS. Mental health treatment on equal footing with physical health.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Wendy, local resident",
+                "endorsement": "I'm backing Nick - he's the best choice for our area."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Nick and the Lib Dems really engage with our local community.",
+                "source": "Wendy, local resident",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nick Clegg at building work at Sheffield Children's Hospital."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

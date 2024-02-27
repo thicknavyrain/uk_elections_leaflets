@@ -1,0 +1,95 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "THINKING OF VOTING LABOUR?",
+                "content": "SEE INSIDE FOR AN IMPORTANT MESSAGE..."
+            },
+            {
+                "title": "Who can stop the Tories?",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "The leaflet suggests that the Liberal Democrats would oppose cuts to NHS funding."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "The leaflet indicates opposition to cuts to school funding."
+            },
+            {
+                "policyTitle": "Welfare Cuts",
+                "policyDescription": "The Liberal Democrats have opposed extra \u00a36.5bn welfare cuts."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "The illustration of David Cameron with an implied negative message suggests a reference to the opposing party leader at the time of the leaflet.",
+            "partyLeader": "",
+            "tacticalSituation": "The leaflet implies a tactical voting situation where voting for the Liberal Democrats can stop the Tories, mentioning that in many places the Liberal Democrats are the true opposition to the Tories."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "The leaflet mentions opposing cuts to school funding.",
+            "environment": "",
+            "governance": "",
+            "health": "The leaflet opposes cuts to NHS funding by 10%.",
+            "immigration": "",
+            "socialWelfare": "The leaflet references opposition to welfare cuts.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Lib Dems block Tory welfare cut [and] block the \u00a36.5bn more... to welfare cuts.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Illustration of David Cameron with a caption 'You will only help this man remain Prime Minister'"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet is targeted at voters who are considering voting for the Labour Party, urging them to consider the Liberal Democrats as a tactical vote against the Conservatives."
+    }
+}

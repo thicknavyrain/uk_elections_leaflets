@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+    "candidateName": "Federica Smith",
+    "constituency": "Sample Constituency Woodvale Ward",
+    "politicalParty": "Liberal Democrat",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Opportunity for Everyone",
+        "content": "Three great reasons to vote for Federica Smith."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax Cuts for 23 Million",
+        "policyDescription": "Tax cuts for 23 million lower and middle-income earners."
+      },
+      {
+        "policyTitle": "2 Million Apprenticeships",
+        "policyDescription": "Created more than 2 million apprenticeships."
+      }
+    ],
+    "mentions": {
+      "candidate": "Federica Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "We'll ensure every child has a fair start.",
+      "environment": "",
+      "governance": "",
+      "health": "The NHS has been guaranteed £8bn a year - by 2020 we will have increased spending every year.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "Federica4Woodvale",
+        "twitter": "federicasmith",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Fair Opportunity, Fair Reward.",
+        "source": "Liberal Democrats' pre-election promise",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Federica Smith"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet lists several assurances and stances without detailed policy descriptions and does not provide explicit dates or contact information besides social media handles."
+  }
+}

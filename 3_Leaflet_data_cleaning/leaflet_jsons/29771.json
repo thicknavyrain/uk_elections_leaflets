@@ -1,0 +1,85 @@
+{
+  "leaflet": {
+	"candidateName": "Theresa May",
+	"constituency": "",
+	"politicalParty": "Conservatives",
+	"electionDate": "8th June",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Social Care System",
+    	"policyDescription": "Ensuring the social care system provides proper care and protection, especially for older people."
+  	},
+  	{
+    	"policyTitle": "Home Ownership and Care Payments",
+    	"policyDescription": "Ensure no one has to sell their home to pay for care, with an absolute limit on what people have to pay."
+	  },
+	  {
+    	"policyTitle": "Life Savings Protection",
+    	"policyDescription": "Protect life savings, including home, under the current system if in nursing home by capping the exposure of assets to pay for care."
+	  },
+	  {
+    	"policyTitle": "New Protections for Carers",
+    	"policyDescription": "Introduce new protections to allow anyone to take up to a year off work, without penalty, to care for a loved one."
+	  },
+	  {
+    	"policyTitle": "Pensions Double-Lock",
+    	"policyDescription": "Guarantee a double-lock for pensions, ensuring pensions will rise with inflation or average wages, whichever is higher."
+	  },
+	  {
+    	"policyTitle": "Pensioner Benefits",
+    	"policyDescription": "Protect pensioner benefits, including free bus passes, eye tests, prescriptions, and TV licenses for over 75s."
+	  },
+	  {
+    	"policyTitle": "Winter Fuel Payment",
+    	"policyDescription": "Continue to provide the Winter Fuel Payment for the poorest pensioners who need it."
+	  }
+	],
+	"mentions": {
+  	"candidate": "Theresa May",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "Theresa May",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Best possible hand in the Brexit negotiations",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "social care system provides proper care and protection for those who need it, especially older people",
+  	"housing": [
+    	{
+      	"content": "Ensure no one has to sell their home to pay for care. Under the current system if you are in a nursing home you could lose almost all your life savings - including your home.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Campaign leaflet detailing Theresa May and the Conservative's plans for social care."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

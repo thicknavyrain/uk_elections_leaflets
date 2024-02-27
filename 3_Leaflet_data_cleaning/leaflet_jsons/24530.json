@@ -1,0 +1,87 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [
+            {
+                "title": "A better plan. A better future.",
+                "content": "I'm really worried about the future of the NHS if the Tories get in again. Our NHS needs a Labour government. - Nina, Nurse"
+            },
+            {
+                "title": "THE LIB DEMS BROKE THEIR PROMISE TO PROTECT OUR FRONTLINE NHS",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Recruit 20,000 more nurses and 8,000 GPs, guarantee a GP appointment within 48 hours, guarantee cancer tests and results within a week."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Recruit 20,000 more nurses and 8,000 GPs, guarantee a GP appointment within 48 hours, guarantee cancer tests and results within a week.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Nina, Nurse",
+                "endorsement": "I'm really worried about the future of the NHS if the Tories get in again. Our NHS needs a Labour government."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "I'm really worried about the future of the NHS if the Tories get in again. Our NHS needs a Labour government.",
+                "source": "Nina, Nurse",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A better plan. A better future."
+                }
+            ]
+        },
+        "additionalNotes": "None of our manifesto commitments require extra borrowing."
+    }
+}

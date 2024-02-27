@@ -1,0 +1,82 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Wapping",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Wapping Labour News",
+                "content": "Jim works for Wapping"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stand up against a Hard Brexit and for a stronger economy",
+                "policyDescription": "Will fight for the best EU deal to protect jobs and growth across the whole country and in Poplar and Limehouse."
+            },
+            {
+                "policyTitle": "Stand up for everyone in Poplar and Limehouse",
+                "policyDescription": "Won't stop fighting for local people and help to create the opportunities we need to prosper."
+            },
+            {
+                "policyTitle": "Stand up for our NHS",
+                "policyDescription": "Will fight to keep our health services free and effective."
+            },
+            {
+                "policyTitle": "Stand up for affordable housing and sustainable development",
+                "policyDescription": "Will support renters and leaseholders, support the building of affordable homes and work to improve local conditions."
+            },
+            {
+                "policyTitle": "Stand up for our quality of life",
+                "policyDescription": "Will work for our schools, safer streets and cleaner air."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jim",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Stand up against a Hard Brexit and for a stronger economy.",
+            "economy": "Stand up against a Hard Brexit and for a stronger economy.",
+            "education": "Stand up for our quality of life.",
+            "environment": "Stand up for our quality of life.",
+            "governance": "",
+            "health": "Stand up for our NHS.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Stand up for affordable housing and sustainable development.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Jim has represented the area for 20 years and is committed to the residents and their work. Hopes to count on support to continue hard work.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jim at Wapping"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

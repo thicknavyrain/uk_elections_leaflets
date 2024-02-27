@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "Rupert Read",
+        "constituency": "",
+        "politicalParty": "Green Party",
+        "electionDate": "7 May",
+        "messages": [
+            {
+                "title": "Only expecting one?",
+                "content": "You have two votes on 7 May"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Rupert Read",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Only expecting one?"
+                }
+            ]
+        },
+        "additionalNotes": "This leaflet makes use of a visual metaphor comparing the opportunity to vote for the Green Party in both the MP and City Council elections to the surprise of expecting one baby but getting twins."
+    }
+}

@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Welsh Labour/Llafur Cymru",
+	"electionDate": "Thursday",
+	"messages": [
+  	{
+    	"title": "THIS ELECTION IS A TWO HORSE RACE",
+    	"content": "It's a straight fight between Labour and the Tories. Don't risk staying at home and not voting on Thursday or the Tories will win."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "the Tories",
+  	"partyLeader": "",
+  	"tacticalSituation": "It's a straight fight between Labour and the Tories."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "THIS ELECTION IS A TWO HORSE RACE"
+    	}
+  	]
+	},
+	"additionalNotes": "Polls are open 7am to 10pm"
+  }
+}

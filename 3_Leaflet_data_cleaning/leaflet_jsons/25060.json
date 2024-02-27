@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 7 May",
+	"messages": [
+  	{
+    	"title": "Save Our NHS",
+    	"content": "TOMORROW OUR NHS NEEDS YOU. WE HAVE 24 HOURS TO SAVE OUR NHS."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Health",
+    	"policyDescription": "The focus is on saving the National Health Service (NHS)."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "The leaflet suggests an urgent need to act to save the NHS.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Ambulance with campaign message regarding the NHS."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

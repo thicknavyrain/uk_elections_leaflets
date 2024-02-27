@@ -1,0 +1,107 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Better schools",
+        "content": "Improving standards and discipline in schools."
+      },
+      {
+        "title": "Giving the NHS back to the people",
+        "content": "We will make the NHS work for you."
+      },
+      {
+        "title": "How to get Britain Working",
+        "content": "Conservatives have pledged action right now as well as hope for the future."
+      },
+      {
+        "title": "More support for parents",
+        "content": "Conservatives giving power back to parents."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Giving the NHS back to the people",
+        "policyDescription": "Actions to make the NHS work for people including cutting bureaucracy and putting power in the hands of patients and doctors."
+      },
+      {
+        "policyTitle": "Improving standards and discipline in schools",
+        "policyDescription": "Focus on giving headteachers more powers to maintain discipline, ensuring children are learning in an environment that is conducive to their education."
+      },
+      {
+        "policyTitle": "More support for parents",
+        "policyDescription": "Empowering parents by giving them access to the best schools for their children and information on how schools are performing."
+      },
+      {
+        "policyTitle": "How to get Britain Working",
+        "policyDescription": "A plan to tackle unemployment and get people back into work, encompassing a range of measures from helping businesses to increasing job opportunities."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "David Cameron",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A plan to tackle unemployment and get people back into work, encompassing a range of measures from helping businesses to increasing job opportunities.",
+      "education": "Improving standards and discipline in schools.",
+      "environment": "",
+      "governance": "",
+      "health": "Actions to make the NHS work for people including cutting bureaucracy and putting power in the hands of patients and doctors.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

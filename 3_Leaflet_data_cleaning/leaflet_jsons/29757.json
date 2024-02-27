@@ -1,0 +1,104 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "SPECIAL BREXIT",
+                "content": "THERESA MAY NEEDS YOUR LOCAL VOTE Just 11 days after you vote, the EU wants to start Brexit negotiations with Britain. So whoever is Prime Minister must be up to the job and ready to take straight right back to getting everyone, our country's future and ours. Everything depends on getting a good Brexit deal."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "It states the importance of the Prime Minister being ready to take on Brexit negotiations and stresses that 'Everything depends on getting a good Brexit deal.'"
+            },
+            {
+                "policyTitle": "Taxation",
+                "policyDescription": "It criticizes the opposition's stance by stating that if 'Jeremy Corbyn [is] imposed as Prime Minister' there will be a 'Surgeon the deficit on Brexit and tax rises in return for their support.'"
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "It suggests 'sky-high immigration' would continue under Jeremy Corbyn and critiques Labour for plotting 'Brexit deals with others that weaken [the] hand.'"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Under the Economy section, it accuses Labour of wanting 'more taxes, more debt, fewer jobs' and offers the alternative of 'lower taxes, lower bills, and better-paid jobs.'"
+            },
+            {
+                "policyTitle": "Schools",
+                "policyDescription": "Underlines the achievements under the Conservatives with more 'good and outstanding schools than ever before' and a promise to invest '\u00a34 billion extra over the next five years.'"
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "The leaflet suggests that a loss of just six seats would put Brexit negotiations at risk due to a hung parliament and emphasizes that 'seats like yours will decide' the outcome."
+        },
+        "issues": {
+            "brexitEurope": "The leaflet highlights the significance of Brexit negotiations and the need for a competent Prime Minister to take the lead immediately after the election. It asserts that everything depends on getting a good Brexit deal.",
+            "economy": "Warns against the 'chaos of a hung parliament' and critiques the opposition's economic stance.",
+            "education": "Boasts of educational improvements such as more good and outstanding schools and promises further investment in education.",
+            "environment": "",
+            "governance": "Mentions the potential negative outcomes of having 'Jeremy Corbyn imposed as Prime Minister' and the risks associated with losing Theresa May's majority in Parliament, emphasizing the importance of governance stability.",
+            "health": "Promises at least \u00a38 billion more on the NHS over the next five years.",
+            "immigration": "The leaflet indicates potential ongoing high levels of immigration under Jeremy Corbyn and criticizes Labour's Brexit negotiation strategies.",
+            "socialWelfare": "Includes a commitment to implementing long-term measures for social care, ensuring the sustainability of pension triple lock for senior citizens.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Labour want to ignore our EU ref vote",
+                "source": "Mirror, 20th April 2017",
+                "date": "20th April 2017"
+            },
+            {
+                "text": "Sky-high immigration would continue for years under Jeremy Corbyn \u2013 the Labour leader signalled today.",
+                "source": "The Sun, 25th Mar 2017",
+                "date": "25th Mar 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Photo collage depicting various political figures and messaging related to Brexit and the general election."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

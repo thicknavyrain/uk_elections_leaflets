@@ -1,0 +1,84 @@
+{
+    "leaflet": {
+        "candidateName": "Ann Duncan",
+        "constituency": "Oxford East",
+        "politicalParty": "Green Party",
+        "electionDate": "May 7",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Fight to keep it publicly funded, free at the point of use, and resisting privatization plans."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Promote a comprehensive Living Wage, and ensuring the minimum wage is set at least at this level."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Build 500,000 social rented homes to high energy efficiency standards."
+            },
+            {
+                "policyTitle": "Climate Change",
+                "policyDescription": "Take serious action on climate change by investing in renewable energy and green jobs."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Scrap university tuition fees, bring back student grants, reduce class sizes, and promote well-funded schools."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Return the railways to public hands, improve public transport, and promote walking and cycling."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ann Duncan",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Natalie Bennett",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Promote a comprehensive Living Wage, and ensuring the minimum wage is set at least at this level, 1% wealth tax on top 1%, and Robin Hood tax on bank transactions.",
+            "education": "Scrap university tuition fees, bring back student grants, reduce class sizes, and promote well-funded schools.",
+            "environment": "Take serious action on climate change by investing in renewable energy and green jobs.",
+            "governance": "",
+            "health": "Fight to keep the NHS publicly funded, free at the point of use, and resisting privatization plans.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Build 500,000 social rented homes to high energy efficiency standards, and action on the housing crises.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "OX4 1RG",
+            "phone": "01865 794 490",
+            "email": "ann@oxfordshire.greenparty.org.uk",
+            "website": "www.greenoxfordshire.com",
+            "socialMedia": {
+                "facebook": "facebook.com/oxfordgreenparty",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Ann Duncan with Natalie Bennett, Green Party Leader, and supporters."
+                },
+                {
+                    "caption": "Ann Duncan, Green Party candidate for Oxford East."
+                }
+            ]
+        },
+        "additionalNotes": "This publication has not been paid for by big trade unions or corporate interests, but has been supported and funded by ordinary people like you."
+    }
+}

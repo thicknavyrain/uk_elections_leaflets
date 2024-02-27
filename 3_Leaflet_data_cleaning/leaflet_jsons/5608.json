@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+	"candidateName": "Ian Murray",
+	"constituency": "Edinburgh South",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+	  	{
+	    	"title": "The Choice.",
+	    	"content": "As we start to rebuild our economy..."
+	  	}
+	],
+	"keyPolicies": [
+	  	{
+	    	"policyTitle": "Economy",
+	    	"policyDescription": "Supporting the economy, putting people back to work, and managing recovery after a worldwide recession."
+	  	},
+	  	{
+	    	"policyTitle": "Local Services",
+	    	"policyDescription": "Opposing cuts to schools, services for old folk, and loss of support for local charities."
+	  	}
+	],
+	"mentions": {
+	  	"candidate": "Ian Murray",
+	  	"otherPartyLeaderCandidate": "David Cameron",
+	  	"partyLeader": "",
+	  	"tacticalSituation": "Only Labour or Tories can win in Edinburgh South, implying strategic voting considerations against the LibDems."
+	},
+	"issues": {
+	  	"brexitEurope": "",
+	  	"economy": "The recession started in America and spread to every country in the world, including Scotland, putting jobs at risk here and everywhere.",
+	  	"education": "The LibDems running the Council made cuts to schools.",
+	  	"environment": "",
+	  	"governance": "",
+	  	"health": "",
+	  	"immigration": "",
+	  	"socialWelfare": "Services for old folk and to support our local charities were cut.",
+	  	"housing": [
+	    	{
+	      	"content": "",
+	      	"yimbyNimby": "N/A"
+	    	}
+	  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+	  	{
+	    	"role": "",
+	    	"duration": "",
+	    	"achievements": ""
+	  	}
+	],
+	"contactInformation": {
+	  	"address": "",
+	  	"phone": "",
+	  	"email": "",
+	  	"website": "www.murray4south.co.uk",
+	  	"socialMedia": {
+	    	"facebook": "",
+	    	"twitter": "",
+	    	"instagram": "",
+	    	"linkedin": ""
+	  	}
+	},
+	"endorsements": [
+	  	{
+	    	"endorser": "",
+	    	"endorsement": ""
+	  	}
+	],
+	"quotes": [
+	  	{
+	    	"text": "",
+	    	"source": "",
+	    	"date": ""
+	  	}
+	],
+	"campaignMaterial": {
+	  	"images": [
+	    	{
+	      	"caption": "Jobs all over South Edinburgh are at risk from Tory policies."
+	    	}
+	  	]
+	},
+	"additionalNotes": ""
+  }
+}

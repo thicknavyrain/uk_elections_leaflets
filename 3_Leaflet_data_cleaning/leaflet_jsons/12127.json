@@ -1,0 +1,97 @@
+{
+    "leaflet": {
+        "candidateName": "Mark Coote",
+        "constituency": "Cheltenham",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 6th May",
+        "messages": [
+            {
+                "title": "Blueprint for the NHS",
+                "content": "How a Conservative Government will back the NHS."
+            },
+            {
+                "title": "Why Cheltenham Needs a Change",
+                "content": "By the time you read this Gordon Brown will at last have called the General Election."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Conservatives will make NHS their number one priority, ensuring it has the tools it needs for world-class health care by reducing bureaucracy and focusing on the frontline needs."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "The Conservatives plan to deal with the debt crisis and have a commitment to increase spending on the NHS every year."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mark Coote",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Plan to cut the deficit, not the NHS. Will stop Labour's jobs tax.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "A Conservative government will increase the NHS budget every year. Will cut waste and bureaucracy in NHS, focus on cancer drugs and reduce management fees.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I am ready for the honour to represent my home town; it's a huge privilege standing for Parliament in my home town.",
+        "politicalExperience": [
+            {
+                "role": "Councillor",
+                "duration": "20 years",
+                "achievements": "Initiated 20 years of Bedleklown Children's Centre for families."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0845 521 2065",
+            "email": "mark@markcoote.co.uk",
+            "website": "www.markcoote.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Mark is the best choice for Cheltenham - it's time to focus on the national picture and our town's local needs.",
+                "source": "Local Resident",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Mark with NHS staff discussing improvements to health services."
+                },
+                {
+                    "caption": "Mark Coote engaging with the local community."
+                },
+                {
+                    "caption": "Mark Coote visiting a local school to show support for education."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet focuses on local concerns and initiatives by the candidate. Specific policies or historic achievements are not detailed, keeping the content more general and value-oriented."
+    }
+}

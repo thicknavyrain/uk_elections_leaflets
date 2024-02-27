@@ -1,0 +1,90 @@
+```
+{
+  "leaflet": {
+	"candidateName": "Edward",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "EDWARD CALLS FOR ACTION ON UNEMPLOYMENT",
+    	"content": "Edward has reacted to the new figures showing unemployment in our area being almost twice the national average."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Unemployment",
+    	"policyDescription": "Edward proposes a plan to provide real help now for businesses in our area."
+  	},
+    {
+        "policyTitle": "Health",
+        "policyDescription": "Edward makes the NHS a top priority and intends to stop health service cuts."
+    }
+	],
+	"mentions": {
+  	"candidate": "Edward",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Edward has made the NHS a top priority.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}
+```
+Please note that the text in the image is too small to read with certainty, and hence some fields have remained empty. This JSON reflects the discernible sections and information, but lacks details such as exact policy descriptions, personal statements, political experience, contact information, etc., which could not be extracted from the provided image due to resolution constraints.

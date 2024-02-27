@@ -1,0 +1,72 @@
+{
+  "leaflet": {
+    "candidateName": "Charles Walker",
+    "constituency": "Broxbourne",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Get Brexit done",
+        "policyDescription": "Get Brexit done with our new deal"
+      },
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "£33.9 billion extra for the NHS"
+      },
+      {
+        "policyTitle": "Police Officers",
+        "policyDescription": "20,000 extra police officers"
+      }
+    ],
+    "mentions": {
+      "candidate": "Charles Walker",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Get Brexit done with our new deal",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "£33.9 billion extra for the NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Charles Walker with Boris Johnson"
+        },
+        {
+          "caption": "Charles Walker in conversation"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

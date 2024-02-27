@@ -1,0 +1,99 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "constituency": "Gedling Constituency",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Strong & Stable Leadership",
+                "content": ""
+            },
+            {
+                "title": "The best Brexit deal",
+                "content": ""
+            },
+            {
+                "title": "Economic security for Britain",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong & Stable Leadership",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "The best Brexit deal",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Economic security for Britain",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "EU wants Brexit negotiations to start 11 days after you vote",
+            "economy": "Economic security for Britain",
+            "education": "",
+            "environment": "",
+            "governance": "Strong & Stable Leadership",
+            "health": "",
+            "immigration": "Uncertain on immigration",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

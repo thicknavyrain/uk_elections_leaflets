@@ -1,0 +1,56 @@
+{
+    "leaflet": {
+        "candidateName": "Bob Neill",
+        "constituency": "Bromley",
+        "politicalParty": "",
+        "electionDate": "7th May 2015",
+        "messages": [],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Bob Neill",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Bob Neill standing in the House of Commons"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

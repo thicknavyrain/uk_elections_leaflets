@@ -1,0 +1,78 @@
+{
+    "leaflet": {
+        "candidateName": "David Cameron",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "6 May",
+        "messages": [
+            {
+                "title": "Dear Electors",
+                "content": "At the start of this election campaign we were faced with a simple choice: change, or more of the same. But things have moved on. One way or another, the result of this election is going to mean change for Britain. The question is, what kind of change do we want?"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Welfare",
+                "policyDescription": "Tackle benefit fraud and reform the welfare system so that those who can work do work."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Increase funding for the NHS every year and make sure the best new cancer drugs are widely available in our country."
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Set up a proper Border Police Force and an annual limit on the number of non-EU economic migrants."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Increase the basic state pension and restore the link to earnings. Change politics by cutting the number of MPs by 10 per cent, cutting ministers' pay, letting people kick out their MP, and letting people see clearly how the government spends their money."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "",
+            "tacticalSituation": "The uncertainty and indecision of a hung parliament, with the danger of five more years of Gordon Brown as Prime Minister - or a decisive Conservative victory, giving a new government the mandate to start changing things for the better straight away."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "Change politics by cutting the number of MPs by 10 per cent, cutting ministers' pay, letting people kick out their MP, and letting people see clearly how the government spends their money.",
+            "health": "Increase funding for the NHS every year and make sure the best new cancer drugs are widely available in our country.",
+            "immigration": "Set up a proper Border Police Force and an annual limit on the number of non-EU economic migrants.",
+            "socialWelfare": "Tackle benefit fraud and reform the welfare system so that those who can work do work.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I think Britain needs a strong government with the energy, leadership and values to put the country back on its feet and get the economy moving. That kind of government, able to take decisive action to start sorting things out, can only come about with a clear election result.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "30 Millbank, London SW1P 4DP",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Leaflet image of David Cameron"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

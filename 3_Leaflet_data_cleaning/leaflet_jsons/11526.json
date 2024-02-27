@@ -1,0 +1,95 @@
+{
+    "leaflet": {
+        "candidateName": "Sam Gurney",
+        "constituency": "Kensington and Chelsea",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A message from Karen Buck MP",
+                "content": "Sam Gurney is the Labour Party candidate for Kensington and Chelsea. He has dedicated his life to the service of others."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Sam pledges to fight for the NHS."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Labour wishes to make it a priority to ensure every local family has a decent home."
+            },
+            {
+                "policyTitle": "Crime",
+                "policyDescription": "Pledges to work for neighbourhood police teams and measures to tackle antisocial behaviour and crime."
+            },
+            {
+                "policyTitle": "Comprehensive Education",
+                "policyDescription": "Committed to comprehensive education and promises to fight for it along with public services such as Holland Park School."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sam Gurney",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Karen Buck MP",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Committed to comprehensive education.",
+            "environment": "",
+            "governance": "",
+            "health": "Will fight for the NHS.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Make it a priority to ensure every local family has a decent home.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "sam@labour.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Karen Buck MP",
+                "endorsement": "Sam Gurney is dedicated to the service of others and will fight for the NHS, local schools, and public services."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of Sam Gurney, the Labour Party candidate."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

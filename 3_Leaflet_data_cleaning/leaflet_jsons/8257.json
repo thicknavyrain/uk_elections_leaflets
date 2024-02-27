@@ -1,0 +1,106 @@
+{
+    "leaflet": {
+        "candidateName": "Sue",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "We can't go on like this",
+                "content": "Vote for change."
+            },
+            {
+                "title": "The Choice at this election",
+                "content": "Change with the Conservatives or 5 more years of Labour."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Cut the deficit",
+                "policyDescription": "Act now on the deficit to get the economy moving."
+            },
+            {
+                "policyTitle": "Support the NHS",
+                "policyDescription": "Boost the NHS health on the front line, make NHS work for patients not managers."
+            },
+            {
+                "policyTitle": "Raise standards in schools",
+                "policyDescription": "Discipline, standards, and tougher examination."
+            },
+            {
+                "policyTitle": "Get Britain working",
+                "policyDescription": "Control immigration, make everyone who can work."
+            },
+            {
+                "policyTitle": "Change politics",
+                "policyDescription": "Stop the expenses scandal, make MP's accountable."
+            }
+        ],
+        "mentions": {
+            "candidate": "We can't go on like this. Vote for change. Vote for Sue.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Labour's job tax will kill the recovery.",
+            "education": "Raise standards in our schools: Discipline, standards, and tougher examination.",
+            "environment": "",
+            "governance": "Change politics: Stop the expenses scandal, make MP's accountable.",
+            "health": "Support the NHS: Boost the NHS health on the front line, make NHS work for patients not managers.",
+            "immigration": "Get Britain working: Control immigration, make everyone who can work.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "We can't go on like this. Vote for change. Vote for Sue."
+                },
+                {
+                    "caption": "Change with the Conservatives or 5 more years of Labour."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

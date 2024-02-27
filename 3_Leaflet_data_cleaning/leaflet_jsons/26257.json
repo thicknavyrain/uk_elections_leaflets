@@ -1,0 +1,83 @@
+{
+    "leaflet": {
+        "candidateName": "Alok Sharma",
+        "constituency": "Reading West",
+        "politicalParty": "Conservative",
+        "electionDate": "7 May",
+        "messages": [
+            {
+                "title": "A RECOVERING ECONOMY",
+                "content": "Every vote on 7th May not cast for Alok Sharma, the Conservative Parliamentary Candidate in Reading West, makes it more likely that Reading West will have a Labour MP and Ed Miliband will be Prime Minister."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "The leaflet claims Conservatives have helped to repair government finances, cut Labour's record deficit in half, and helped to create over 2 million jobs across the country."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alok Sharma",
+            "otherPartyLeaderCandidate": "Ed Miliband, Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "Strategic voting considerations suggest preventing a Labour MP and Ed Miliband from becoming Prime Minister with the support of Nicola Sturgeon and the Scottish National Party."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Conservatives in government have repaired government finances, cut Labour's record deficit in half, and helped to create over 2 million jobs.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "The leaflet mentions higher borrowing, higher taxes, higher welfare bills, and weaker defenses as negative outcomes associated with the Labour party.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "I'm offering to make Ed Miliband Prime Minister.",
+                "source": "NICOLA STURGEON Scotland Leaders' Debate 07/04/15",
+                "date": "07/04/15"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Don't let Labour wreck it."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet conveys a message against a potential Miliband-SNP Coalition of Chaos, which it claims would undo the work done by the Conservatives by implementing higher borrowing, taxes, welfare bills, and weak defenses."
+    }
+}

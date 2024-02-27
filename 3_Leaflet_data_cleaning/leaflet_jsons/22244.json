@@ -1,0 +1,80 @@
+{
+    "leaflet": {
+        "candidateName": "Sir Alan DUNCAN",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "7th May",
+        "messages": [
+            {
+                "title": "A personal message from Sir Alan DUNCAN",
+                "content": "Britain is firmly on the road to economic recovery. We are growing faster than any major economy and have cut the deficit in half..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economic Growth",
+                "policyDescription": "Promises to cut the deficit in half and mention of a 'record high' of jobs"
+            },
+            {
+                "policyTitle": "National Health Service",
+                "policyDescription": "NHS has been protected and the conservative plan to put a cap on the cost of old age care."
+            },
+            {
+                "policyTitle": "Business and Tax",
+                "policyDescription": "Corporation Tax cuts leading to new jobs and the Income Tax cut for hardworking people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sir Alan DUNCAN",
+            "otherPartyLeaderCandidate": "Ed Miliband, Nicola Sturgeon, Nigel Farage, Nick Clegg",
+            "partyLeader": "",
+            "tacticalSituation": "Mention of potential 'coalition of chaos' that could arise from a Labour government without a clear majority."
+        },
+        "issues": {
+            "brexitEurope": "Backs the promise of an In/Out referendum on Britain's membership of the EU.",
+            "economy": "Mention of economic recovery, job creation, and halving the deficit.",
+            "education": "",
+            "environment": "Has blocked unsuitable wind turbines and fought for the roll-out of superfast broadband.",
+            "governance": "Has a progressive Conservative view on societal cohesion and tolerance.",
+            "health": "Has been protecting NHS spending and capping the cost of old age care.",
+            "immigration": "",
+            "socialWelfare": "Benefits cap 'leads more into work'.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Alan has served the constituency for over two decades, and is a strong and respected voice in Westminster.",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament",
+                "duration": "Over two decades",
+                "achievements": "Has a strong reputation for helping any constituent who comes to him with a problem, lived here for over twenty years, deep knowledge of the area's needs, protecting NHS spending and capping the cost of old age care, blocking unsuitable wind turbines and fighting for broadband rollout, backing the promise of an EU referendum."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01664 566444",
+            "email": "alan@alanduncan.org.uk",
+            "website": "www.alanduncan.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Picture of Sir Alan Duncan with constituents; images related to jobs, broadband, and the NHS."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

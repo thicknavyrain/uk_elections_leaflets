@@ -1,0 +1,90 @@
+{
+  "leaflet": {
+    "candidateName": "Simon Hoare",
+    "constituency": "Cardiff South & Penarth",
+    "politicalParty": "Conservative",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "VOTE FOR CHANGE",
+        "content": "In the last elections, the Liberal Democrats forced a number of recounts. Every vote for me and the local Conservative team is a step closer to getting the change we need."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Cutting red tape to help create new jobs."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "New recycling services and keep weekly black bag collections."
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "More visible street policing."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Faster access to GPs and dentists."
+      }
+    ],
+    "mentions": {
+      "candidate": "Simon Hoare",
+      "otherPartyLeaderCandidate": "Liberal Democrats",
+      "partyLeader": "",
+      "tacticalSituation": "In the last elections, the Liberal Democrats forced a number of recounts. Conservative support needed for change."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Cutting red tape to help create new jobs.",
+      "education": "",
+      "environment": "New recycling services and keep weekly black bag collections.",
+      "governance": "",
+      "health": "Faster access to GPs and dentists.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "We will fight plan to build on local playing fields.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "As a dad of two young children I understand... We should demand better for our children.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "simon@cardiffconservatives.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@SimonHoareForCS",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Simon with his family."
+        },
+        {
+          "caption": "Simon meeting with residents."
+        },
+        {
+          "caption": "Simon supporting local businesses."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

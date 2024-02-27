@@ -1,0 +1,98 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "James Peterson",
+    "constituency": "Newport East",
+    "politicalParty": "UKIP",
+    "electionDate": "May 5th",
+    "messages": [
+      {
+        "title": "My Promise to Newport East",
+        "content": "I promise not to take a penny of the £10,000 pay rise that AMs are getting in May. I will donate any money I receive from this pay rise back to community projects in Newport East."
+      },
+      {
+        "title": "Why Vote For Me?",
+        "content": "I have had enough of being governed by the run of the mill politicians who are out of touch with the majority of the electorate. I have spent my life living in the Stow Hill and now the Liswerry area and I then went to work in the care sector where I was a home carer and support worker supporting students with learning disabilities in education."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "No Tax Raising Powers",
+        "policyDescription": "UKIP is the only party opposed to the Welsh Assembly getting tax raising powers without first holding the referendum we were promised."
+      },
+      {
+        "policyTitle": "More Assembly Members",
+        "policyDescription": "UKIP parties want 20 more AMs, costing an additional £9 million every year. UKIP is opposed to any increase. UKIP believes the current 60 AMs are more than enough to deal with devolved powers."
+      },
+      {
+        "policyTitle": "Protect the Welsh NHS",
+        "policyDescription": "UKIP is opposed to any privatisation of our Welsh National Health Service. UKIP will have local elected health boards accountable to the people and will enable the removal of managers earning six figure salaries."
+      },
+      {
+        "policyTitle": "Practical Education",
+        "policyDescription": "UKIP will reintroduce grammar schools and set up University Technical Colleges teaching vocational skills ensuring young people in Wales get the best possible opportunities."
+      },
+      {
+        "policyTitle": "Campaign to Scrap the Severn Tolls",
+        "policyDescription": "The Severn Bridge tolls deter trade and tourism for Wales. UKIP will campaign to abolish the tolls and demolish the toll booths."
+      },
+      {
+        "policyTitle": "Economic Development"
+        "policyDescription": "UKIP believes local councils should lead on economic development in their areas. For example, people in North Wales know better than the Cardiff Bay establishment, what's best for North Wales, so let's give them the power and money to do so."
+      }
+    ],
+    "mentions": {
+      "candidate": "James Peterson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "UKIP will reintroduce grammar schools and set up University Technical Colleges teaching vocational skills ensuring young people in Wales get the best possible opportunities.",
+      "environment": "",
+      "governance": "UKIP is the only party opposed to the Welsh Assembly getting tax raising powers without first holding the referendum we were promised.",
+      "health": "UKIP is opposed to any privatisation of our Welsh National Health Service.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "As an ex-labour voter I feel that the Labour party has left behind the working class voters in pursuit of self interest and securing their own careers. I believe that I can better identify with the traditional working classes.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I, like many, have had enough of being governed by the run of the mill politicians who are out of touch with the majority of the electorate. I have spent my life living in the Stow Hill and now the Liswerry area and I then went to work in the care sector where I was a home carer and support worker supporting students with learning disabilities in education.",
+    "politicalExperience": [
+      {
+        "role": "Mental Health Nurse",
+        "duration": "Since 1997",
+        "achievements": "Working with the National Health Service and supporting students with learning disabilities."
+      }
+    ],
+    "contactInformation": {
+      "address": "Lliswerry Rd, Newport, NP19 4LB",
+      "phone": "07968 459212",
+      "email": "james.peterson@mail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "James Peterson's campaign image with UKIP branding."
+        }
+      ]
+    },
+    "additionalNotes": "Out of 60 Assembly Members who make the decision on the Welsh NHS, none of them are medically trained. 'VOTE for someone who has served on the front line of our NHS as a mental health nurse.'"
+  }
+}
+```

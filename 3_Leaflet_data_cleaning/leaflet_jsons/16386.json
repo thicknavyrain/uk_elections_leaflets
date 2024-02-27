@@ -1,0 +1,98 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Portsmouth South",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The Tories want employers to be able to sack staff for no reason",
+                "content": "The Lib Dems in government STOPPED them"
+            },
+            {
+                "title": "It's Lib Dem or Conservative here!",
+                "content": "Labour, UKIP the Greens cannot win here. Only the Liberal Democrats can beat the Conservatives in Portsmouth South."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Job Protection",
+                "policyDescription": "Stopped employers from being able to sack staff for no reason."
+            },
+            {
+                "policyTitle": "Economic Contribution",
+                "policyDescription": "18,800 more jobs created in Portsmouth from 2004-2013, and 7,720 new apprenticeships for young people."
+            },
+            {
+                "policyTitle": "Tax Reduction",
+                "policyDescription": "\u00a3800 Income Tax cut for 76,000 Portsmouth workers."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": "Only the Liberal Democrats can beat the Conservatives in Portsmouth South."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\"I govern like a true Tory it it wasn't for the Lib Dems.\"",
+                "source": "David Cameron, Daily Mail, May 2012.",
+                "date": "May 2012"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Candidate interacting with a voter."
+                },
+                {
+                    "caption": "Person working at a control panel with text 'Should your boss be able to sack you for no reason?'"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

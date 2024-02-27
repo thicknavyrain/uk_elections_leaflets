@@ -1,0 +1,72 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "The SNP have failed",
+        "content": "Only the Liberal Democrats will fight for a fair deal for Scotland."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "SNP",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Despite higher NHS spending in the rest of the UK, the SNP have cut health spending in Scotland, experts say. SNP MISSED CANCER TREATMENT TARGETS MISSED HOSPITALS IN BED SHORTAGE CRISIS ALL UNDERFUNDING LEADING TO RISE IN BED BLOCKING REST OF UK",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Despite higher NHS spending in the rest of the UK, the SNP have cut health spending in Scotland.",
+        "source": "Experts",
+        "date": ""
+      },
+      {
+        "text": "The SNP MISSED CANCER TREATMENT TARGETS. HOSPITALS IN BED SHORTAGE CRISIS. ALL UNDERFUNDING LEADING TO RISE IN BED BLOCKING.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "The SNP are bad for your health."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

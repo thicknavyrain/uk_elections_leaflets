@@ -1,0 +1,87 @@
+{
+    "leaflet": {
+        "candidateName": "Gordon Brown",
+        "constituency": "",
+        "politicalParty": "Scottish Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Change",
+                "content": "Only a vote for Gordon Brown on May 3rd can stop the Tories and protect the National Health Service for future generations."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "National Health Service",
+                "policyDescription": "Committed to blocking scandalous SNP and Tory health service cuts. Investing in the NHS to receive the funding it needs."
+            },
+            {
+                "policyTitle": "Scottish Economy",
+                "policyDescription": "Boosting young people's employment. More than 20,000 new apprenticeships have already been delivered."
+            }
+        ],
+        "mentions": {
+            "candidate": "Gordon Brown",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Boosting young people's employment.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Investing in the NHS to receive the funding it needs.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Gordon pictured outside the Scottish Parliament"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "leaflet": {
+        "candidateName": "Emma Harper",
+        "constituency": "",
+        "politicalParty": "SNP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A strong voice in Westminster",
+                "content": "Vote for change. Vote Emma Harper."
+            },
+            {
+                "title": "This Election is a 2 horse race",
+                "content": "This Election ONLY The SNP can beat the Tories. Polls show only The SNP can unseat Scotland's last Tory MP. Vote for The People's Champion Vote Emma Harper."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Protect our NHS from privatization."
+            },
+            {
+                "policyTitle": "Jobs",
+                "policyDescription": "Work to create jobs."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Invest \u00a3180 million to cut college students\u2019 part time and cancel maintenance allowance."
+            },
+            {
+                "policyTitle": "Austerity",
+                "policyDescription": "End austerity."
+            }
+        ],
+        "mentions": {
+            "candidate": "Emma Harper",
+            "otherPartyLeaderCandidate": "Scotland's last Tory MP",
+            "partyLeader": "",
+            "tacticalSituation": "Polls show only The SNP can unseat Scotland's last Tory MP. Vote for The People's Champion Vote Emma Harper."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Invest \u00a3180 million to cut college students' part time and cancel maintenance allowance.",
+            "environment": "",
+            "governance": "",
+            "health": "Protect our NHS from privatization.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A strong voice in Westminster"
+                },
+                {
+                    "caption": "This Election is a 2 horse race"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

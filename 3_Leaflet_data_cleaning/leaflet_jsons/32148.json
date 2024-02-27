@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Don't our children deserve better?",
+        "content": "83% of schools will be worse off next year than they were in 2015 - National Education Union, October 2019"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Advocating for better funding for schools as current projections show that 83% of schools will be worse off next year compared to 2015."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "83% of schools will be worse off next year than they were in 2015.",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "National Education Union",
+        "endorsement": "83% of schools will be worse off next year than they were in 2015."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "83% of schools will be worse off next year than they were in 2015.",
+        "source": "National Education Union, October 2019",
+        "date": "October 2019"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Don't our children deserve better?"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

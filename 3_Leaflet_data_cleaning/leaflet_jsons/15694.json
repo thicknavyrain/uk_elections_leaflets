@@ -1,0 +1,99 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "Clear economic plan to secure Britain's future."
+  	},
+  	{
+  		"policyTitle": "Family",
+  		"policyDescription": "Substantial improvements in childcare to help hardworking people."
+  	},
+  	{
+  		"policyTitle": "Tax",
+  		"policyDescription": "No rise in VAT, National Insurance contributions, or Income Tax."
+  	},
+  	{
+  		"policyTitle": "Housing",
+  		"policyDescription": "Help to buy and Right to build to help people get their home."
+  	},
+  	{
+  		"policyTitle": "Education",
+  		"policyDescription": "Ensure smaller class sizes and good school places for your children."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Ed Miliband",
+  	"partyLeader": "David Cameron",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Clear economic plan.",
+  	"education": "Smaller class sizes, good school places.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Help to buy and Right to build schemes.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": ""
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

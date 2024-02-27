@@ -1,0 +1,87 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Brexit negotiations start 11 days after you vote",
+                "content": "Brexit negotiations start 11 days after you vote \u2014 either Theresa May or Jeremy Corbyn will be standing up for your economic security."
+            },
+            {
+                "title": "A loss of just 6 seats and Theresa May's government loses its majority",
+                "content": "A loss of just 6 seats and Theresa May's government loses its majority \u2014 delivering the chaos of a hung parliament."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "A loss of just 6 seats and Theresa May's government loses its majority \u2014 delivering the chaos of a hung parliament."
+        },
+        "issues": {
+            "brexitEurope": "Brexit negotiations start 11 days after you vote \u2014 either Theresa May or Jeremy Corbyn will be standing up for your economic security.",
+            "economy": "Strong, stable leadership and economic security for Britain. IMF upgrades UK growth again as Theresa May hails economic strength.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Strong, stable leadership and economic security for Britain.",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "IMF upgrades UK growth again as Theresa May hails economic strength.",
+                "source": "The Telegraph, 18 APRIL 2017",
+                "date": ""
+            },
+            {
+                "text": "Labour's taxes would be highest since Second World War.",
+                "source": "The Times, 27 MAY 2017",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May as Prime Minister"
+                }
+            ]
+        },
+        "additionalNotes": "There's no safe way to vote Labour locally."
+    }
+}

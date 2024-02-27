@@ -1,0 +1,103 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Labour's Pledges to You",
+        "content": "A strong economic foundation. Higher living standards for working families. An NHS with the time to care. Controls on immigration. A country where the next generation can do better than the last."
+      },
+      {
+        "title": "Our Promise to You",
+        "content": "None of our manifesto commitments requires additional borrowing. We will cut the deficit every year while securing the future of our NHS."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic Foundation",
+        "policyDescription": "A strong economic foundation"
+      },
+      {
+        "policyTitle": "Living Standards",
+        "policyDescription": "Higher living standards for working families"
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "An NHS with the time to care"
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Controls on immigration"
+      },
+      {
+        "policyTitle": "Next Generation",
+        "policyDescription": "A country where the next generation can do better than the last"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "A strong economic foundation; We will cut the deficit every year",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Securing the future of our NHS",
+      "immigration": "Controls on immigration",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Labour's Pledges to You"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

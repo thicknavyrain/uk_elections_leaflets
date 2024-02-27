@@ -1,0 +1,60 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "In many parts of Britain...",
+        "content": "It's a two horse race"
+      },
+      {
+        "title": "",
+        "content": "In many areas, Labour is in a distant third place and cannot win."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Labour",
+      "partyLeader": "",
+      "tacticalSituation": "ONLY THE LIB DEMS OR THE CONSERVATIVES CAN WIN"
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "In many parts of Britain... It's a two horse race. In many areas, Labour is in a distant third place and cannot win. ONLY THE LIB DEMS OR THE CONSERVATIVES CAN WIN"
+        }
+      ]
+    },
+    "additionalNotes": "The image suggests a tactical voting situation where Labour is not considered a viable option."
+  }
+}

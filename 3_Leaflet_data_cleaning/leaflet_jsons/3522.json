@@ -1,0 +1,67 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "WE CAN'T GO ON LIKE THIS...",
+                "content": "Over a million violent crimes were committed last year. This is in addition to nearly a million incidents of anti-social behaviour reported to police. There are over a hundred serious knife offences every day. Yet police officers spend more time on paperwork than on patrol."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Crime scene tape with text overlay: 'WE CAN'T GO ON LIKE THIS...'"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet focuses on crime rates and the challenges faced by the police, indicating a policy interest in law enforcement or criminal justice, but without a specific policy proposal or mention of the candidate's stance on these issues."
+    }
+}

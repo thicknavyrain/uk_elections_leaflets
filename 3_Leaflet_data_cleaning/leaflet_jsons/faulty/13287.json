@@ -1,0 +1,90 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Michael McCann",
+    "constituency": "East Kilbride, Strathaven and Lesmahagow",
+    "politicalParty": "Labour Party",
+    "electionDate": "7 May 2015",
+    "messages": [
+      {
+        "title": "A Momentous Year",
+        "content": "Recalls the hosting of the Commonwealth Games and the Ryder Cup, successes that are wished to be an enduring part of United Kingdom history."
+      },
+      {
+        "title": "The Type of Future",
+        "content": "Calls for hard-working families and vulnerable individuals in society to be considered."
+      },
+      {
+        "title": "General Election",
+        "content": "Prompts constituents to determine the future and caution against the toxicity of subscribing to the Conservative Party or the SNP agendas, urging to not break the relation with the United Kingdom."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "National Wage",
+        "policyDescription": "Introduction of an £8 an hour national living wage."
+      },
+      {
+        "policyTitle": "Zero-Hours Contracts",
+        "policyDescription": "Plans to end the exploitation of zero-hours contracts."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Commitment to build new houses, targeting 5000 individuals in the constituency on the housing list."
+      }
+    ],
+    "mentions": {
+      "candidate": "Michael McCann",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The leaflet cautions against the agendas of the Conservative Party and the SNP, and suggests that voting for the Labour Party is the way to maintain unity with the United Kingdom and avoid 'breaking our precious country'."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Introduction of an £8 an hour national living wage. Plans to end the exploitation of zero-hours contracts.",
+      "education": "",
+      "environment": "",
+      "governance": "Prompts constituents to determine the future and cautions against the toxicity of subscribing to the Conservative Party or the SNP agendas.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Calls for support for those who are sick and vulnerable.",
+      "housing": [
+        {
+          "content": "Commitment to build new houses to tackle the issue of 5000 people on the constituency housing list, creating jobs and apprenticeships.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Michael McCann believes in the quality of the people of the constituency and wants to build a legacy."
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament",
+        "duration": "Previously elected",
+        "achievements": "Unavailable in the provided image"
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "michael@mccannmp.com",
+      "website": "www.michaelmccann.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "michaelmccannmp",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photograph of Michael McCann"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```

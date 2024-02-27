@@ -1,0 +1,76 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Peter Grace",
+    "constituency": "XXXXX",
+    "politicalParty": "UKIP",
+    "electionDate": "7th May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "UKIP will control immigration, make sure that people who come to the UK contribute to society, and have a points-based visa system & time-limited work permits."
+      },
+      {
+        "policyTitle": "National Health Service",
+        "policyDescription": "UKIP will ensure the NHS is free at the point of delivery and time of need for all UK residents."
+      },
+      {
+        "policyTitle": "Social Housing",
+        "policyDescription": "UKIP will prioritise social housing for people whose parents and grandparents were born locally."
+      },
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "UKIP will raise the tax threshold to ensure that people working on minimum wage will not pay tax, which will benefit the economy."
+      }
+    ],
+    "mentions": {
+      "candidate": "Peter Grace",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Nigel Farage",
+      "tacticalSituation": "Details about the UKIP's position in the constituency and their strategic appeal to the electorate can be inferred but are not directly stated."
+    },
+    "issues": {
+      "brexitEurope": "UKIP supports a Brexit - a British exit from the European Union.",
+      "economy": "UKIP will raise the tax threshold which will benefit the economy.",
+      "education": "",
+      "environment": "",
+      "governance": "UKIP wants to leave the European Union to regain national governance.",
+      "health": "UKIP will ensure the NHS is free at the point of delivery and time of need for all UK residents.",
+      "immigration": "UKIP will control immigration with a points-based visa system & time-limited work permits.",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "UKIP will prioritise social housing for people whose parents and grandparents were born locally.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "peter@voteukipwestminster.co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "www.facebook.com/petergraceukip",
+        "twitter": "twitter.com/ukipwestminster",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "A photo of the candidate with another individual."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}
+```
+Please note that some fields have not been filled in due to the image not providing sufficient information (e.g., `constituency`, `otherPartyLeaderCandidate`, etc.). Furthermore, since I can't ascertain whether Nigel Farage is specifically referred to as the party leader within this campaign leaflet, his mention is made based on general knowledge up to April 2023. If this is incorrect as per the leaflet's specific contents, the `partyLeader` field would need adjustment.

@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "Liverpool, Riverside",
+    "politicalParty": "The Brexit Party",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "NO REAL BREXIT",
+        "content": "Without the Brexit Party there can be no real Brexit."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Without the Brexit Party there can be no real Brexit.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "CHANGE POLITICS FOR GOOD"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

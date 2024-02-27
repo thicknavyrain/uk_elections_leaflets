@@ -1,0 +1,77 @@
+{
+    "leaflet": {
+        "candidateName": "Bethan Vincent",
+        "constituency": "York Outer",
+        "politicalParty": "Green Party",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "VOTE FOR BETHAN VINCENT ON JUNE 8TH",
+                "content": "This election isn't about the next five years. It's about the next fifty years. Only the Green Party is offering real opposition to this government's extreme Brexit. Only the Green Party has the vision to deliver an alternative future for our country, and our place in the world. And only the Green Party offers a different kind of politics. Every Green vote on 8th June will help make that vision a reality."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "To shape an economy for everyone while preserving a safe environment."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "To build affordable homes and provide properly funded public services."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "To power back in your hands through a citizen\u2019s democracy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Bethan Vincent",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Caroline Lucas and Jonathan Bartley",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "offering real opposition to this government's extreme Brexit.",
+            "economy": "To shape an economy for everyone while preserving a safe environment.",
+            "education": "",
+            "environment": "while preserving a safe environment.",
+            "governance": "To power back in your hands through a citizen\u2019s democracy.",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "To build affordable homes and provide properly funded public services.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "office@yorkgreenparty.org.uk",
+            "website": "yorkgreenparty.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/thegreenparty",
+                "twitter": "@TheGreenParty",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Bethan Vincent holding a placard that reads 'YOUR GREEN CANDIDATE BETHAN VINCENT FOR YORK OUTER'"
+                },
+                {
+                    "caption": "Green Party Co-Leaders Caroline Lucas and Jonathan Bartley"
+                }
+            ]
+        },
+        "additionalNotes": "This publication has not been paid for by big business or corporate interests, but has been supported and paid for by ordinary people."
+    }
+}

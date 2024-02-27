@@ -1,0 +1,99 @@
+{
+    "leaflet": {
+        "candidateName": "Jeremy Corbyn",
+        "constituency": "Islington North",
+        "politicalParty": "Labour Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Islington Labour is on your side.",
+                "content": "The General Election on 8th June is a clear choice between a Labour Party who will stand up for you or the Tories who are failing working people."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Building over a million new homes in 5 years",
+                "policyDescription": "Including over 500,000 council homes, and taking tough action to help private renters."
+            },
+            {
+                "policyTitle": "Introducing a real living wage of \u00a310 per hour",
+                "policyDescription": "Making work pay and banning exploitative zero hour contracts."
+            },
+            {
+                "policyTitle": "Giving our NHS the funding it needs",
+                "policyDescription": "Tackling the crisis in social care to ensure it is there for those who need it."
+            },
+            {
+                "policyTitle": "Building a new National Education Service",
+                "policyDescription": "Restoring free education for all; and guaranteeing quality apprenticeships and adult skills training."
+            },
+            {
+                "policyTitle": "Maintaining access to the single market",
+                "policyDescription": "Guaranteeing EU citizens\u2019 rights and protecting the workers\u2019 rights, social funding and environmental safeguards we get from Europe."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jeremy Corbyn",
+            "otherPartyLeaderCandidate": "the Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Guaranteeing EU citizens\u2019 rights and protecting the workers\u2019 rights, social funding and environmental safeguards we get from Europe.",
+            "economy": "Making work pay and banning exploitative zero hour contracts.",
+            "education": "Restoring free education for all; and guaranteeing quality apprenticeships and adult skills training.",
+            "environment": "Protecting the environment through maintaining environmental safeguards we get from Europe.",
+            "governance": "",
+            "health": "Tackling the crisis in social care to ensure it is there for those who need it.",
+            "immigration": "",
+            "socialWelfare": "Guaranteeing EU citizens\u2019 rights and protecting the workers\u2019 rights, social funding and environmental safeguards we get from Europe.",
+            "housing": [
+                {
+                    "content": "Building over a million new homes in 5 years, including over 500,000 council homes",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Under my leadership, Labour will deliver a better, fairer Britain where inequality is reduced, where public services are protected and the next generation have the best start in life.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "65 Barnsbury Street, London, N1 1EJ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "IslingtonLabour ON YOUR SIDE"
+                }
+            ]
+        },
+        "additionalNotes": "Vote Labour on 8th June to re-elect me as your MP and to elect a Labour Government."
+    }
+}

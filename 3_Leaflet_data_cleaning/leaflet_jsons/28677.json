@@ -1,0 +1,82 @@
+{
+    "leaflet": {
+        "candidateName": "GRANT SHAPPS",
+        "constituency": "Welwyn Hatfield",
+        "politicalParty": "Conservatives",
+        "electionDate": "THURSDAY 8th JUNE",
+        "messages": [
+            {
+                "title": "YOUR CHOICE AT THIS ELECTION:",
+                "content": "STRONG, STABLE LEADERSHIP IN THE NATIONAL INTEREST or A COALITION OF CHAOS WITH JEREMY CORBYN"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "MAKING BREXIT A SUCCESS IS CENTRAL TO OUR NATIONAL INTEREST",
+                "policyDescription": "With a strong negotiating hand I can deliver for you an ambitious deal that ensures Brexit is a success for Britain."
+            },
+            {
+                "policyTitle": "CREATING GOOD QUALITY JOBS, RIGHT HERE, IN WELWYN HATFIELD",
+                "policyDescription": "Attract new businesses to our area, building on the success stories that are already here and ensure Hatfield receives the regeneration it has long deserved."
+            }
+        ],
+        "mentions": {
+            "candidate": "GRANT SHAPPS",
+            "otherPartyLeaderCandidate": "JEREMY CORBYN",
+            "partyLeader": "THERESA MAY",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "BREXIT: EUROPE SHOCKED BY UK VOTE",
+            "economy": "THE RISK IS JUST TOO BIG TO TAKE: HIGHER DEBT, HIGHER TAXES: ECONOMIC CHAOS",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Welcome to Barnfield",
+        "politicalExperience": [
+            {
+                "role": "FIGHTING THE NEW INCINERATOR",
+                "duration": "Since 2008",
+                "achievements": "Identified the wrong site for an incinerator, protecting local campaigns against this and keeping it out of Welyn Hatfield."
+            }
+        ],
+        "contactInformation": {
+            "address": "Fawk Street, 12-16",
+            "phone": "01707 262 632",
+            "email": "",
+            "website": "grantshapps.com",
+            "socialMedia": {
+                "facebook": "grantshapps.com/GrantShapps",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Build a stronger economy that rewards people who work hard and creates secure and well-paid jobs, we will ensure the benefits of prosperity are spread across every part of our country.",
+                "source": "Rt. Hon THERESA MAY Prime Minister",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Photos of the candidate, campaign activities and a message from the Prime Minister."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

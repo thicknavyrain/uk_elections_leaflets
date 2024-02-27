@@ -1,0 +1,55 @@
+{
+  "leaflet": {
+    "candidateName": "Paul Holmes",
+    "constituency": "Southampton Test",
+    "politicalParty": "Conservatives",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "4 GOOD REASONS TO VOTE FOR PAUL HOLMES AND THERESA MAY...",
+        "content": "2.9 MILLION MORE JOBS\nMILLIONS MORE GOOD SCHOOL PLACES\ni3 MILLION NEW APPRENTICESHIPS\nOVER 1 MILLION NEW BUSINESS"
+      },
+      {
+        "title": "YOUR CLEAR CHOICE ON June 8th",
+        "content": "A VOTE FOR PAUL HOLMES AND THERESA MAY:\nSTRENGTH AND EXPERIENCE\nA VOTE FOR THE LABOUR CANDIDATE AND JEREMY CORBYN:\nWEAKNESS AND INSTABILITY"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Since 2010 over 1,000 jobs have been created every single day. In Southampton Test, there are now 370 great, local businesses since 2010."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Millions more pupils are going to good or outstanding schools. Southampton schools have received over £16m."
+      },
+      {
+        "policyTitle": "Employment",
+        "policyDescription": "1.8 million new apprenticeships have been started since 2010."
+      },
+      {
+        "policyTitle": "Business",
+        "policyDescription": "There are over 1 million new businesses in Southhampton Test since 2010."
+      }
+    ],
+    "mentions": {
+      "candidate": "Paul Holmes",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Labour Candidate",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "Jeremy Corbyn is only six seats away from forming a government. Don't take the risk."
+    },
+    "issues": {
+      "economy": "Since 2010 over 1,000 jobs have been created every single day. In Southampton Test, there are now 370 great, local businesses since 2010.",
+      "education": "Millions more pupils are going to good or outstanding schools.",
+      "employment": "1.8 million new apprenticeships have been started since 2010.",
+      "business": "There are over 1 million new businesses in Southhampton Test since 2010."
+    },
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    }
+  }
+}

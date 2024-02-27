@@ -1,0 +1,69 @@
+{
+    "leaflet": {
+        "candidateName": "James Wilder",
+        "constituency": "Newbury",
+        "politicalParty": "Labour Party",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "VOTE WILDER FOR NEWBURY",
+                "content": "The people of Newbury deserve better. I ask for your vote to rebuild our education, NHS and youth services. It's time for real change, but only if we seek it here and now."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Rebuilding Services",
+                "policyDescription": "Focus on rebuilding education, NHS, and youth services for real change."
+            }
+        ],
+        "mentions": {
+            "candidate": "James Wilder",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Focus on rebuilding education.",
+            "environment": "",
+            "governance": "",
+            "health": "Focus on rebuilding NHS services.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "The people of Newbury deserve better.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "88 Bartholomew Street, Newbury RG14 5LS",
+            "phone": "01635813911",
+            "email": "news@newburylabour.co.uk",
+            "website": "www.newburylabour.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@Wilder4Newbury",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Candidate James Wilder standing outside, dressed formally, next to ballot box."
+                },
+                {
+                    "caption": "Headshot of candidate James Wilder."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

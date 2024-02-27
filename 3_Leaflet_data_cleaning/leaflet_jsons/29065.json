@@ -1,0 +1,56 @@
+{
+  "leaflet": {
+	"candidateName": "Robert Mackenzie",
+	"constituency": "Ross, Skye and Lochaber",
+	"politicalParty": "Scottish Conservative & Unionist",
+	"electionDate": "Thursday 8th June 2017",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Robert Mackenzie",
+  	"otherPartyLeaderCandidate": "the SNP",
+  	"partyLeader": "Ruth Davidson",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Robert Mackenzie standing by the waterfront."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

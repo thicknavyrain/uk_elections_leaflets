@@ -1,0 +1,134 @@
+{
+    "leaflet": {
+        "candidateName": "Anne-Marie Trevelyan",
+        "constituency": "Berwick",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "May 7th",
+        "messages": [
+            {
+                "title": "CONSERVATIVE NHS BETRAYAL",
+                "content": "The Conservative candidate for North Northumberland failed to turn up for vital NHS meetings in the North East, despite being elected as local health governor."
+            },
+            {
+                "title": "IT'S A TWO HORSE RACE",
+                "content": "Straight choice between Lib Dems or Conservative. In many areas across the country, Labour simply cannot win."
+            },
+            {
+                "title": "Biggest ever rise in state pensions",
+                "content": "Lib Dem 'triple lock' on pensions has seen a year-on-year rise since 2010."
+            },
+            {
+                "title": "Regaining control of our borders",
+                "content": "Lib Dems demand return of proper border checks so we know who's coming in and out of the UK."
+            },
+            {
+                "title": "Memo reveals Tories won't rule out cuts to schools' budget",
+                "content": "David Cameron's Conservatives could potentially reduce education fundings."
+            },
+            {
+                "title": "Lib Dems make extra money for NHS top priority",
+                "content": "Spending on NHS would be at least \u00a38 billion higher per year with Lib Dems."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare and the NHS",
+                "policyDescription": "Plan to stop the Conservative NHS betrayal by improving accountability; increase NHS spending by \u00a38 billion."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Tories threaten school budget; Lib Dems will protect education funding."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Balance the budget in a fair way that\u2019s fair."
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Return of proper border checks."
+            },
+            {
+                "policyTitle": "Pensions",
+                "policyDescription": "Year-on-year rise in state pensions through the 'triple lock'."
+            }
+        ],
+        "mentions": {
+            "candidate": "Anne-Marie Trevelyan has shamefully never turned up at official health governor meetings.",
+            "otherPartyLeaderCandidate": "David Cameron's Conservatives",
+            "partyLeader": "",
+            "tacticalSituation": "It\u2019s a two horse race between Liberal Democrats and Conservatives. Labour, UKIP and the Greens are out of the race."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Conservative candidate's attendance record in Berwick as a local health governor is the worst.",
+            "immigration": "Lib Dems are working to bring back control to our borders.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Elected Governor of Northumbria Hospitals, focusing on Berwick",
+                "duration": "2012-13, 2013-14",
+                "achievements": "Attendance record was lacking, did not turn up for meetings."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Local residents Mr. and Mrs. Hutson",
+                "endorsement": "Praise for the state pension increase provided by the Lib Dems."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Labour, UKIP and the Greens are of the race on May 7th. Many voters looking to stop the Conservatives are backing the Lib Dems.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Conservative NHS Betrayal headline"
+                },
+                {
+                    "caption": "It's a two horse race headline"
+                },
+                {
+                    "caption": "Biggest ever rise in state pensions headline"
+                },
+                {
+                    "caption": "Regaining control of our borders headline"
+                },
+                {
+                    "caption": "Tories won't rule out cuts to schools' budget headline"
+                },
+                {
+                    "caption": "Lib Dems make extra money for NHS top priority headline"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

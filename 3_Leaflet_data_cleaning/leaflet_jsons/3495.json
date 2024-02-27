@@ -1,0 +1,75 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "constituency": "",
+        "politicalParty": "Lib Dem",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The Lib Dem fairer tax plan",
+                "content": "The Lib Dems are promising to remove those earning \u00a310,000 or less from the tax system altogether. Clegg promises fairer tax system. The very rich will pay their fair share."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tax",
+                "policyDescription": "Promise to remove those earning \u00a310,000 or less from the tax system, ensuring \u00a3100 back in the pockets of pensioners, \u00a3700 back in the pocket of everyone who earns over \u00a310,000, and \u00a31,400 back in the pockets of a couple each earning over \u00a310,000. Introducing a new 'mansion tax' on houses worth over \u00a32 million and closing tax loopholes exploited by the very rich."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "The Conservatives are both planning to raise VAT as high as 20 per cent; The SNP are helpess on tax - too small to change anything at Westminister; Already hiked tax for the lowest paid workers and pensioners.",
+            "partyLeader": "",
+            "tacticalSituation": "The Tories and Labour can't win in many parts of Scotland. The choice is between a Lib Dem MP or a Labour MP."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "The Conservatives are both planning to raise VAT as high as 20 per cent.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Introducing a new 'mansion tax' on houses worth over \u00a32 million.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Freepost, Scottish Lib Dems Clifton Terrace, Edinburgh, EH12 2QP",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nick Clegg and quotes about tax policies"
+                },
+                {
+                    "caption": "Comparisons of tax positions with other political party leaders"
+                },
+                {
+                    "caption": "It's a two horse race narrative and betting metaphor"
+                },
+                {
+                    "caption": "Who will deliver the change we need on tax?"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet uses recurring themes of fairer taxes and describes the opposition's approaches to taxation in a negative light."
+    }
+}

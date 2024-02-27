@@ -1,0 +1,99 @@
+{
+  "leaflet": {
+    "candidateName": "Joe Richards",
+    "constituency": "Hackney North & Stoke Newington",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Joe will fight a Hard Brexit",
+        "content": "Diane Abbott and the Labour Party voted with UKIP and the Tories to trigger Article 50 and start the process of leaving the EU. Labour won't stand up for Hackney on Europe."
+      },
+      {
+        "title": "Lib Dems will protect our NHS",
+        "content": "Lib Dems have published a plan to protect and fund the National Health Service, starting with an extra 1p on Income Tax. Labour always talk about the NHS, but only Lib Dems will act."
+      },
+      {
+        "title": "We will tackle the housing crisis",
+        "content": "Joe supports Lib Dem plans to build 300,000 new homes every year. Hackney Labour has failed to stand up to developers and insist they build enough social and affordable homes here."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Hard Brexit",
+        "policyDescription": "Joe will oppose a hard Brexit. He criticizes Labour for not standing up for Hackney on Europe."
+      },
+      {
+        "policyTitle": "NHS Protection",
+        "policyDescription": "Lib Dems propose to protect and fund the National Health Service with an extra 1p on Income Tax."
+      },
+      {
+        "policyTitle": "Housing Crisis",
+        "policyDescription": "The plan includes building 300,000 new homes per year to address social and affordable housing needs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Joe Richards",
+      "otherPartyLeaderCandidate": "Diane Abbott",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Joe criticizes Labour for voting with UKIP and the Tories to trigger Article 50, indicating he stands against a hard Brexit and believes in standing up for Hackney on Europe.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Lib Dems have published a plan to fund the NHS, implying that Labour only talks about it without action.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Lib Dems aim to tackle the housing crisis by building 300,000 new homes every year.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "joe@joerichards.org.uk",
+      "website": "joerichards.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Joe Richards campaign flyer"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

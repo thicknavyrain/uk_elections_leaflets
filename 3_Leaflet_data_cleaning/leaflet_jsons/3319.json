@@ -1,0 +1,72 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Get Britain Working",
+                "policyDescription": "Pledge more support to those who have lost their job with a radical plan to Get Britain Working."
+            },
+            {
+                "policyTitle": "Improving education",
+                "policyDescription": "Aims to enhance the education system by empowering headteachers, increasing parental choice, and ensuring children get the chance to learn maths and English."
+            },
+            {
+                "policyTitle": "NO INHERITANCE TAX FOR MOST FAMILIES",
+                "policyDescription": "Promises to raise the threshold for inheritance tax in order to protect the assets of the majority of families from being taxed after death."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Job creation strategies and reduction of inheritance tax.",
+            "education": "Empowering headteachers and increasing parental choice in schools.",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Every year, some 45,000 people are forced to sell their homes to pay for residential care. The Conservatives express that this is a scandal and suggest it wouldn't happen under their proposed policy.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Conservative members working with the public."
+                },
+                {
+                    "caption": "Families potentially affected by inheritance tax."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet contrasts Conservative policies with those of the Labour party, particularly casting the Labour party's policy as a \u00a320k 'death tax'."
+    }
+}

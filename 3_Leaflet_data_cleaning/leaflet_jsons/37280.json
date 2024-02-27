@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "North Wales Regional List",
+    "politicalParty": "UKIP",
+    "electionDate": "May 5th",
+    "messages": [
+      {
+        "title": "",
+        "content": "You have two votes for the Welsh Assembly"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "0800 587 6 587",
+      "email": "",
+      "website": "ukipwales.org",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Give UKIP your second vote"
+        }
+      ]
+    },
+    "additionalNotes": "UKIP's name will only appear on your WHITE Regional List ballot paper"
+  }
+}

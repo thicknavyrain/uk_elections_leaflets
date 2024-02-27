@@ -1,0 +1,71 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Hornsey and Wood Green constituency",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Labour aren't what they were",
+                "content": ""
+            },
+            {
+                "title": "Can you really trust Labour again?",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Ed Miliband",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Bank deregulation leads to financial disaster.",
+            "education": "",
+            "environment": "",
+            "governance": "Election on community and not class.",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The gap between rich and poor got bigger under the last Labour government.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet criticizes Labour policies and questions if they can be trusted. It mentions Ed Miliband, directly associating him with Labour's past policy decisions, such as plans to cut benefits for young jobless individuals and the claim that Labour does not want people out of work. It also addresses the issue of bank deregulation leading to financial disaster and pension insecurity."
+    }
+}

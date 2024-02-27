@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+    "candidateName": "Andy McDonald",
+    "constituency": "Middlesbrough",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "Putting Middlesbrough First",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Andy McDonald",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Andy McDonald with supporter Dave Budd"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

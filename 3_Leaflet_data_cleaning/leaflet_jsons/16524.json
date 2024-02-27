@@ -1,0 +1,100 @@
+{
+    "leaflet": {
+        "candidateName": "Rupert Read",
+        "constituency": "Eastern Region",
+        "politicalParty": "Green Party",
+        "electionDate": "May 7th",
+        "messages": [
+            {
+                "title": "Why I'm voting Green",
+                "content": "Thoughts of a first-time voter"
+            },
+            {
+                "title": "Green Surge in the East",
+                "content": "The Green Party is experiencing a remarkable surge in membership..."
+            },
+            {
+                "title": "Can YOU help the Green Party?",
+                "content": "By voting Green at the general election, volunteering and making a donation."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Public Transport",
+                "policyDescription": "The Green Party is advocating for better public transport."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "The party supports more affordable housing and building more social houses."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Greens demand real action on climate change and are campaigning for clean energy."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "A Green Bill of Health proposes to keep the NHS public with a fully national, publicly owned system."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Greens call for a \u00a310 minimum wage by 2020."
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "Greens fight public service cuts and demand improved local services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Amy Wright",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Greens call for a \u00a310 minimum wage by 2020.",
+            "education": "",
+            "environment": "Real Action on Climate Change - Greens campaign for clean energy and building insulation.",
+            "governance": "Greens are opposing service cuts.",
+            "health": "KEEP THE NHS PUBLIC - The Green Bill of Health plans to maintain the NHS as a publicly owned system.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "The party supports building more affordable and social houses.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "As a young woman with a family, I feel that the Greens are the only party...",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "31 King Street, Norwich, NR1 1PH",
+            "phone": "",
+            "email": "campaigns@eastern.greenparty.org.uk",
+            "website": "www.eastern.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Green Party campaigners advocate for public transport improvements."
+                },
+                {
+                    "caption": "Rupert Read alongside Green Party campaigners calling for railway improvements."
+                },
+                {
+                    "caption": "Beccles Greens successfully campaigning to improve local train services."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

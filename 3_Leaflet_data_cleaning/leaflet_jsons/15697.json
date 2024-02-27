@@ -1,0 +1,97 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Strong leadership, a clear economic plan, and a brighter, more secure future."
+            },
+            {
+                "policyTitle": "",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Ed Miliband",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Strong leadership, a clear economic plan, and a brighter, more secure future. The deficit down, income tax cut, more jobs, new businesses.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Labour plan to borrow risks debt",
+                "source": "Coalition of Chaos",
+                "date": ""
+            },
+            {
+                "text": "Bosses queue up to warn: Miliband will bankrupt Britain",
+                "source": "Coalition of Chaos",
+                "date": ""
+            },
+            {
+                "text": "Labour is plotting a job-destroying deal with the SNP",
+                "source": "Coalition of Chaos",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "Coalition of Chaos: Don't let your vote put Ed Miliband into No.10"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "David Morgan",
+        "constituency": "Liverpool",
+        "politicalParty": "The Green Party",
+        "electionDate": "Thursday 7th May",
+        "messages": [
+            {
+                "title": "I'M VOTING FOR DAVID MORGAN AND THE GREEN PARTY",
+                "content": "Endorsements from David James, Ella Booth, and Iain Hamilton highlighting their support for David Morgan and the Green Party."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Austerity Cuts",
+                "policyDescription": "A Green MP would oppose Labour's stance on austerity cuts and fight for the changes and investment needed."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Morgan",
+            "otherPartyLeaderCandidate": "Ed Miliband",
+            "partyLeader": "Martin Dobson",
+            "tacticalSituation": "The leaflet suggests voting for the Green Party as a real alternative to mainstream politics and highlights that Green MPs do not have a party 'whip', allowing them to vote with their conscience."
+        },
+        "issues": {
+            "governance": "A Green MP would oppose Labour's stance on austerity cuts and have the real freedom to vote against more cuts.",
+            "housing": [
+                {
+                    "content": "A Green MP would oppose the Labour Mayor's plans to bulldoze through homes on Sefton Park Meadows.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {},
+        "endorsements": [
+            {
+                "endorser": "David James",
+                "endorsement": "Impressed with Green Councillor Lawrence Brown's work and will vote for David Morgan."
+            },
+            {
+                "endorser": "Ella Booth",
+                "endorsement": "Views the Greens as a real alternative to mainstream politics, appreciates their opposition to cuts."
+            },
+            {
+                "endorser": "Iain Hamilton",
+                "endorsement": "Believes Green MPs in Westminster will ensure Britain becomes a fairer society by pressuring multinational companies to pay their fair share of taxes."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Pictures of endorsers David James, Ella Booth, and Iain Hamilton, along with campaign statements."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

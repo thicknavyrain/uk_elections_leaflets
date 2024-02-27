@@ -1,0 +1,69 @@
+{
+  "leaflet": {
+	"candidateName": "Gill Hickson",
+	"constituency": "Coulsdon South",
+	"politicalParty": "Liberal Democrat",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "Including affordable homes and shared ownership."
+  	},
+  	{
+    	"policyTitle": "Local Train Services",
+    	"policyDescription": "Improve local train services."
+  	},
+  	{
+    	"policyTitle": "Hospital",
+    	"policyDescription": "An upgrade and longer hours for Purley Hospital."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Gill Hickson",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "An upgrade and longer hours for Purley Hospital.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Including affordable homes and shared ownership.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Gill Hickson pictured with Coulsdon South sign."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

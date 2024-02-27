@@ -1,0 +1,72 @@
+{
+    "leaflet": {
+        "candidateName": "Elin Jones",
+        "constituency": "Ceredigion",
+        "politicalParty": "Plaid Cymru",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "HEALTH",
+                "content": "Have you ever received treatment at any of the four general hospitals in the Hywel Dda Health Board area? Bronglais / Withybush / Glangwill / Prince Philip."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Investment in health care facilities. Plans for an extension to Bronglais Hospital, as well as new integrated health facilities at Cardigan, Tregaron, and Aberaeron."
+            }
+        ],
+        "mentions": {
+            "candidate": "Elin Jones",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Investment in health care facilities. Plans for an extension to Bronglais Hospital, as well as new integrated health facilities at Cardigan, Tregaron, and Aberaeron.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Four years ago, I received a great response to my survey on what local residents wanted for Ceredigion.",
+        "politicalExperience": [
+            {
+                "role": "Assembly Member for Ceredigion",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Elin Jones in front of the health care facility"
+                }
+            ]
+        },
+        "additionalNotes": "Elin conducts a survey to engage with constituents on local issues."
+    }
+}

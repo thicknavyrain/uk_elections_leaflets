@@ -1,0 +1,56 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Green Party",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Green economy",
+  	"education": "",
+  	"environment": "Environment",
+  	"governance": "Democracy, Fairness, Justice",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "Equality, Community, Living wage, Social welfare",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "A group of happy people with one holding a banner of the Green Party"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

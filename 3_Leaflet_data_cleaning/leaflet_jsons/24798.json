@@ -1,0 +1,72 @@
+{
+  "leaflet": {
+    "candidateName": "David Jones",
+    "constituency": "Clwyd West",
+    "politicalParty": "Welsh Conservatives",
+    "electionDate": "7th May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Growing the economy",
+        "policyDescription": "So that we can afford the services we all need."
+      },
+      {
+        "policyTitle": "Looking after pensioners",
+        "policyDescription": "Making sure they have a secure retirement."
+      },
+      {
+        "policyTitle": "Renegotiating our relationship with Europe",
+        "policyDescription": "And giving everyone a vote on EU membership."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Jones",
+      "otherPartyLeaderCandidate": "Vince Cable, Labour, Salmond, SNP",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Re-negotiating our relationship with Europe and giving everyone a vote on EU membership.",
+      "economy": "Growing the economy so that we can afford the services we all need.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Looking after pensioners; making sure they have a secure retirement.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "votedavidjones.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Jones with supporters."
+        },
+        {
+          "caption": "David Jones in front of a building."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

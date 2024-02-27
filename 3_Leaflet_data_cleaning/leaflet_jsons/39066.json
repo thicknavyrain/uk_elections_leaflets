@@ -1,0 +1,80 @@
+{
+    "leaflet": {
+        "candidateName": "Bruce Wilson",
+        "constituency": "Edinburgh Central",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "6th May",
+        "messages": [
+            {
+                "title": "Bruce Wilson for Edinburgh Central",
+                "content": "As Scottish Liberal Democrats we believe that serving the people of Edinburgh comes ahead of any narrow-minded ideology. We will put recovery from the pandemic first."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A Green Recovery",
+                "policyDescription": "Supporting a green recovery."
+            },
+            {
+                "policyTitle": "Boosting Mental and Physical Health",
+                "policyDescription": "Boosting mental and physical health."
+            },
+            {
+                "policyTitle": "Opportunities for Young People",
+                "policyDescription": "Ensuring young people have the opportunities they deserve."
+            }
+        ],
+        "mentions": {
+            "candidate": "Bruce Wilson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Christine Jardine MP",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Improving our local education.",
+            "environment": "Improving our environment.",
+            "governance": "",
+            "health": "Improving our local NHS.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I got active in politics to make a positive difference in my community. Serving in the Royal Marines and working in business showed me the benefits of working together.",
+        "politicalExperience": [
+            {
+                "role": "Royal Marines",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "4 Clifton Terrace, Edinburgh, EH12 5DR",
+            "phone": "",
+            "email": "Bruce.Wilson@edinburghlibdems.org",
+            "website": "www.brucewilson.scot",
+            "socialMedia": {
+                "facebook": "@BruceWilsonLibDem",
+                "twitter": "@BruceRoyWilson",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Bruce Wilson with Christine Jardine MP"
+                }
+            ]
+        },
+        "additionalNotes": "Listening to local residents across Edinburgh Central. Putting recovery from the COVID-19 pandemic first."
+    }
+}

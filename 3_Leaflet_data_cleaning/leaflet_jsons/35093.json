@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "Ed Miliband",
+        "constituency": "Doncaster North",
+        "politicalParty": "Labour Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Labour will rebuild an NHS with the time to care:",
+                "content": "Labour's plan includes hiring 20,000 more nurses and 8,000 more GPs, a guarantee for GP appointments within 48 hours and cancer test results within a week, and bringing in 5,000 more care-workers to join up care from homes to hospitals."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Rebuilding",
+                "policyDescription": "Invest in training and recruiting 20,000 more nurses and 8,000 more GPs to ensure the NHS has time to care for you and your family."
+            },
+            {
+                "policyTitle": "NHS Waiting Times",
+                "policyDescription": "Guarantee a maximum 48 hours waiting time for GP appointments and one week for cancer test results."
+            },
+            {
+                "policyTitle": "Integrated Care",
+                "policyDescription": "Hire 5,000 more care-workers to join up services from home to hospital to ensure more efficient care and better patient outcomes."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ed Miliband",
+            "otherPartyLeaderCandidate": "David Cameron",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Labour plans to end the worsening crisis in the NHS seen under the Conservative Government, with investments in staff and guaranteeing quicker service.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Building the NHS was one of our greatest achievements as a country. Only a Labour government can ensure that the NHS will always be there for you and your family.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "The Labour Party One Brewer\u2019s Green London SW1H 0RH",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "As you may have seen in the news recently, in every part of the country more people are having to wait longer at A&E and for important tests. None of our manifesto commitments require any extra borrowing.",
+                "source": "Campaign Leaflet",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Labour will rebuild an NHS with the time to care: 20,000 more nurses and 8,000 more GPs, guarantee that no one waits more than 48 hours for a GP appointment or 1 week for cancer test results, 5,000 more care-workers to join up care from homes to hospitals."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet focuses on NHS issues and does not mention the election date or detailed contact information other than website and address. No specific mentions of social media were found."
+    }
+}

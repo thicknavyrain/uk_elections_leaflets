@@ -1,0 +1,86 @@
+{
+    "leaflet": {
+        "candidateName": "Meg Hillier",
+        "constituency": "Hackney South & Shoreditch",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Improving council housing",
+                "policyDescription": "Meg Hillier and the Labour team express an interest in improving council housing."
+            },
+            {
+                "policyTitle": "Regenerating Hackney's economy",
+                "policyDescription": "The leaflet mentions efforts to regenerate Hackney's economy."
+            },
+            {
+                "policyTitle": "Rising educational standards",
+                "policyDescription": "One of the listed concerns is raising educational standards."
+            },
+            {
+                "policyTitle": "Controlling parking and traffic",
+                "policyDescription": "The team is concerned with controlling parking and traffic."
+            },
+            {
+                "policyTitle": "Better libraries / leisure facilities",
+                "policyDescription": "Improving libraries and leisure facilities is listed as a key concern."
+            }
+        ],
+        "mentions": {
+            "candidate": "Meg Hillier",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Regenerating Hackney's economy",
+            "education": "Rising educational standards",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Improving council housing",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Hackney Town Hall, Mare Street, London E8 1EA",
+            "phone": "020 8356 3373",
+            "email": "hoxton@hackney-labour.org.uk",
+            "website": "www.hackney-labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Portrait of Meg Hillier, MP for Hackney South & Shoreditch."
+                },
+                {
+                    "caption": "Portrait of Jules Pipe, Mayor of Hackney."
+                },
+                {
+                    "caption": "Portrait of Jennette Arnold, London Assembly Member."
+                },
+                {
+                    "caption": "Images of local Labour councillors."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Don't knock. Don't worry. I've already voted for the Liberal Democrats to build a brighter future."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet is designed to be displayed in a window after voting."
+  }
+}

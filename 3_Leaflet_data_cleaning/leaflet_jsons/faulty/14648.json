@@ -1,0 +1,46 @@
+{
+  "leaflet": {
+    "candidateName": "David Alexander",
+    "constituency": "Hemel Hempstead",
+    "politicalParty": "UK Independence Party",
+    "messages": [
+      {
+        "title": "My local issues are",
+        "content": "Give people more input and control over their local issues. Develop an economy that encourages business both locally and nationally."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Say NO to mass immigration"
+      },
+      {
+        "policyTitle": "Referendums",
+        "policyDescription": "Say YES to referendums on all major issues"
+      },
+      {
+        "policyTitle": "EU Spending",
+        "policyDescription": "Say NO to wasting £45 million a day in Brussels"
+      }
+    ],
+    "mentions": {
+      "candidate": "David Alexander is standing for UKIP and all the principles in our manifesto"
+    },
+    "issues": {
+      "immigration": "Say NO to mass immigration",
+      "governance": "Say YES to referendums on all major issues",
+      "brexitEurope": "Say NO to wasting £45 million a day in Brussels"
+    },
+    "contactInformation": {
+      "phone": "Call free 0800 587 6 587",
+      "website": "ukip.org"
+    },
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of David Alexander, candidate for Hemel Hempstead"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+    "leaflet": {
+        "candidateName": "Sam Gould",
+        "constituency": "Caerphilly",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Sam Gould",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "sam@samgould.uk",
+            "website": "www.samgould.uk",
+            "socialMedia": {
+                "facebook": "fb.com/SamuelGould",
+                "twitter": "@GouldSam",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Join the People's Army"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

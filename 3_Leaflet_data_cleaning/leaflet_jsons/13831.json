@@ -1,0 +1,87 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Stockton-on-Tees",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 6 May",
+        "messages": [
+            {
+                "title": "Tories target North East for cuts",
+                "content": "David Cameron has revealed he is targeting the North East for cuts."
+            },
+            {
+                "title": "REVEALED: TORIES LET SLIP THEIR PLANS TO MAKE THE NORTH EAST THEIR TOP TARGET FOR CUTS.",
+                "content": "David Cameron wants to put our local economy in the firing line to pay for his huge tax breaks for the 3000 richest estates the UK. The Tory Leader has likened investment in regions such as the North East to the 'old Eastern Block' and has put us at the top of his cut list."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Opposition to the Conservative Party's planned cuts for the North East, highlighting the potential harm to the local economy and public services."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "David Cameron",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "David Cameron has revealed he is targeting the North East for cuts. He wants to put the local economy in the firing line for his huge tax breaks for the richest estates.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "labournorth.com/handsoff",
+            "socialMedia": {
+                "facebook": "facebook.com/labournorth",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Suzanne, Chris and Lucy Reid",
+                "endorsement": "David Cameron doesn't care about the North East. His cuts will really affect families like ours."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Cameron tells BBC Tories would cut spending in North-East",
+                "source": "David Cameron",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Local residents holding signs opposing Tory cuts."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

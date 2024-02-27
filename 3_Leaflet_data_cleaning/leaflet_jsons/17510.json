@@ -1,0 +1,101 @@
+{
+    "leaflet": {
+        "candidateName": "Nancy Platts",
+        "constituency": "Brighton Pavilion",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [
+            {
+                "title": "Working hard for everyone",
+                "content": "If elected as your MP, I will dedicate myself to represent residents and businesses in our community."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Protection of public services and opposed to austerity."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Against the privatisation of the NHS and cuts in services."
+            },
+            {
+                "policyTitle": "Jobs",
+                "policyDescription": "Support for a higher minimum wage and ending zero hour contracts."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Commitment to affordable homes and rent controls."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Against fracking and will push for cleaner, public energy."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Against school academisation and for smaller class sizes."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nancy Platts",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Protection of public services and closure of tax loopholes.",
+            "education": "Against school academisation and for smaller class sizes.",
+            "environment": "Against fracking and will push for cleaner, public energy.",
+            "governance": "",
+            "health": "Against the privatisation of the NHS and will fight cuts in services.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Commitment to affordable homes and rent controls.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I have a track record of standing up for ordinary people...",
+        "politicalExperience": [
+            {
+                "role": "Trade Unionist and Campaigner",
+                "duration": "",
+                "achievements": "Fighting against privatisation of public services."
+            }
+        ],
+        "contactInformation": {
+            "address": "27 St James's Street, Brighton BN2 1RF",
+            "phone": "01273 675027",
+            "email": "nancyforpavilion@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Fire Brigades Union",
+                "endorsement": "Backing Nancy Platts as a clear choice for those looking to protect public services."
+            },
+            {
+                "endorser": "Unite the Union",
+                "endorsement": "Endorsing Nancy Platts for fighting privatisation and for a fair economy."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nancy Platts campaigning."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

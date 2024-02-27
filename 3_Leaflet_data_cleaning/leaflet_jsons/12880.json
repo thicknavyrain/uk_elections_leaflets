@@ -1,0 +1,62 @@
+{
+  "leaflet": {
+	"candidateName": "Murray",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Murray",
+  	"otherPartyLeaderCandidate": "Clegg",
+  	"partyLeader": "",
+  	"tacticalSituation": "Just hours to stop the Tories"
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [
+  	{
+    	"text": "Clegg: I have a lot of admiration for what Mrs. Thatcher and her government did.",
+    	"source": "The Biography by Chris Bowers",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Just hours to stop the Tories. He's hoping you'll vote Lib Dem"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Liberal Democrats",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Please show people you're backing the Liberal Democrats",
+    	"content": "There's an orange diamond inside this envelope. We're sending one today to more than 70,000 people who are backing the Liberal Democrats in key seats like this one."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Stop Brexit",
+    	"policyDescription": "Stop Boris Johnson from winning a majority and forcing through his terrible Brexit deal."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Boris Johnson",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Stop Boris Johnson from winning a majority and forcing through his terrible Brexit deal.",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "1 Tennant Ave, East Kilbride, Glasgow G74 5NA",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "In many places across the country, the Liberal Democrats are the only party that can win seats from the Conservatives. We are the only party that can stop Boris Johnson from winning a majority and forcing through his terrible Brexit deal.",
+    	"source": "Mike Dixon - Chief Executive Liberal Democrats",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Mike Dixon, Chief Executive Liberal Democrats"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

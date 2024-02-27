@@ -1,0 +1,68 @@
+{
+    "leaflet": {
+        "candidateName": "Chris Adams",
+        "constituency": "Aylesbury",
+        "politicalParty": "UKIP",
+        "electionDate": "May 7th",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "HS2",
+                "policyDescription": "UKIP doesn't support and would scrap HS2 to save \u00a380bn"
+            },
+            {
+                "policyTitle": "Foreign Aid Budget",
+                "policyDescription": "UKIP disagrees with increasing the foreign aid budget to \u00a312 billion and would spend the money at home"
+            }
+        ],
+        "mentions": {
+            "candidate": "Chris Adams",
+            "otherPartyLeaderCandidate": "David Cameron",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Conservatives fully support HS2 - David Cameron"
+                },
+                {
+                    "caption": "Increasing the foreign aid budget to \u00a312 billion is my proudest achievement - David Cameron"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet opposes the stance of David Cameron and the Conservative party on HS2 and the foreign aid budget, positioning UKIP's candidate Chris Adams as the alternative who would make different fiscal choices."
+    }
+}

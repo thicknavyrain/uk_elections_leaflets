@@ -1,0 +1,84 @@
+{
+    "leaflet": {
+        "candidateName": "Laurence Robertson",
+        "constituency": "TEWKESBURY",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12th December 2019",
+        "messages": [
+            {
+                "title": "Dear Elector",
+                "content": "Up to Parliament being dissolved, I had the privilege of representing the Tewkesbury constituency since 1997. I am now offering myself for re-election as your Conservative Party candidate..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Let's get Brexit done"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Continue to strengthen our economy"
+            },
+            {
+                "policyTitle": "Health and Education",
+                "policyDescription": "Further increases in funding for hospitals and schools"
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Protect our environment for the next generation"
+            }
+        ],
+        "mentions": {
+            "candidate": "Laurence Robertson",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Let's get Brexit done",
+            "economy": "Continue to strengthen our economy",
+            "education": "Further increases in funding for schools",
+            "environment": "Protect our environment for the next generation",
+            "governance": "",
+            "health": "Further increases in funding for hospitals",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I am totally dedicated to the Tewkesbury constituency...",
+        "politicalExperience": [
+            {
+                "role": "Parliament representative for Tewkesbury",
+                "duration": "Since 1997",
+                "achievements": "Represented a wide array of issues on behalf of constituents, campaigned for better treatment of veterans, animals, better broadband, and against inappropriate development..."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.laurencerobertson.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A Strong Voice for Tewkesbury"
+                }
+            ]
+        },
+        "additionalNotes": "Supporting public services has been a big priority... I have worked hard to protect our jobs... I campaigned strongly for our infrastructure... I have always believed that we should do more to protect the environment..."
+    }
+}

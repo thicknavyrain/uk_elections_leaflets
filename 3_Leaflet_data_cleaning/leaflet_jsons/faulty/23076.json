@@ -1,0 +1,66 @@
+{
+    "leaflet": {
+        "candidateName": "Nicholas Soames",
+        "constituency": "Mid Sussex",
+        "politicalParty": "Conservatives",
+        "electionDate": "7th May",
+        "messages": [
+            {
+                "title": "A personal message from Nicholas Soames",
+                "content": "Text regarding candidate's personal message, history in Mid Sussex and aims is not clearly visible."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A strong economy",
+                "policyDescription": "Where there is a job for every resident and local businesses continue to thrive."
+            },
+            {
+                "policyTitle": "Locally decided housing numbers",
+                "policyDescription": "Ensure that housing numbers are decided locally, and oppose the Gatwick's second runway and Mayfield's new town."
+            },
+            {
+                "policyTitle": "Excellent NHS and schools",
+                "policyDescription": "Ensuring we have an excellent NHS and schools in Mid Sussex."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nicholas Soames has served as the MP for Mid Sussex since 1997.",
+            "otherPartyLeaderCandidate": "References to Labour and Lib Dems, specifically Vince Cable, Ed Miliband, and Alex Salmond, are made in a comparative context.",
+            "partyLeader": "David Cameron is depicted alongside the candidate on campaign materials.",
+            "tacticalSituation": "Comparison between 'Competent leadership' and \u2018Coalition of Chaos' suggests strategic voting considerations."
+        },
+        "issues": {
+            "economy": "The leaflet implies a stance of economic growth and support for tax cuts, jobs, and businesses.",
+            "housing": [
+                {
+                    "content": "Housing should be decided locally. Opposes Gatwick's second runway and Mayfield's new town.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ],
+            "health": "Promises an excellent NHS.",
+            "education": "Promises excellent schools."
+        },
+        "personalStatement": "Personal message content not fully readable, but includes background and dedication to serving Mid Sussex.",
+        "contactInformation": {
+            "address": "5 Hazelgrove Road, Haywards Heath, West Sussex, RH16 3PH",
+            "phone": "01444 452590",
+            "email": "",
+            "website": "www.nicholassoames.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Pictures of the candidate Nicholas Soames in various settings, engaging with the community, David Cameron, and opposing views with Labour and Lib Dems."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet emphasizes experience and a personal touch from the candidate, and draws stark contrasts between Conservative leadership and the opposition's potential 'Coalition of Chaos'."
+    }
+}

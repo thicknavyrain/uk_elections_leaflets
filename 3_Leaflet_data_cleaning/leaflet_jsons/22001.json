@@ -1,0 +1,89 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa Villiers",
+        "constituency": "Chipping Barnet",
+        "politicalParty": "Conservatives",
+        "electionDate": "7th May",
+        "messages": [
+            {
+                "title": "A strong voice for Chipping Barnet",
+                "content": "Theresa has been working hard as MP for Chipping Barnet since 2005, and has played a key role in local campaigns eg: supporting the upgrade of the Northern Line; opposing inappropriate developments like Cat Hill and Pinkham Way; saving local Post Offices and securing banking services at Barnet Hospital; securing expanded A&E and maternity services at Barnet Hospital; reopening Brunswick Park Health Centre; bringing BT for faster broadband services in Barnet; working to keep crime-falling in Barnet, eg supporting efforts to combat anti-Semitism."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Supporting local businesses",
+                "policyDescription": "Creating jobs, and championing our local high streets."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Keeping Barnet's schools among the best in the country."
+            },
+            {
+                "policyTitle": "Defending the green belt and local environment",
+                "policyDescription": "Backing efforts to cut crime."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa Villiers",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Keeping Barnet's schools among the best in the country.",
+            "environment": "Defending the green belt and local environment.",
+            "governance": "",
+            "health": "Securing expanded A&E and maternity services at Barnet Hospital; reopening Brunswick Park Health Centre.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Opposing inappropriate developments like Cat Hill and Pinkham Way.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for Chipping Barnet",
+                "duration": "Since 2005",
+                "achievements": "Supporting the upgrade of the Northern Line; opposing inappropriate developments; saving local Post Offices and securing banking services; securing expanded A&E and maternity services; reopening Brunswick Park Health Centre; bringing faster broadband services; working to keep crime-falling."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.theresavilliers.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa Villiers with constituents"
+                },
+                {
+                    "caption": "Theresa Villiers in a community meeting"
+                },
+                {
+                    "caption": "Theresa Villiers supporting local campaigns"
+                },
+                {
+                    "caption": "Theresa Villiers official portrait"
+                }
+            ]
+        },
+        "additionalNotes": "Leaflet also states SAY NO to Pinkham Way."
+    }
+}

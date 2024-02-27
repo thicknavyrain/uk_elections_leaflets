@@ -1,0 +1,81 @@
+{
+    "leaflet": {
+        "candidateName": "Melanie Magee",
+        "constituency": "Oxford East",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 7th May",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Support and encourage improvements to the performance of our schools"
+            },
+            {
+                "policyTitle": "Crime",
+                "policyDescription": "Work with Police and other agencies to address rising crime levels in Oxford East"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Encourage plans to create employment and apprenticeships and supporting economic recovery"
+            },
+            {
+                "policyTitle": "Welfare Reform",
+                "policyDescription": "Support welfare reform which benefits families and the most vulnerable whilst ending the culture of dependency"
+            },
+            {
+                "policyTitle": "Tax Reforms",
+                "policyDescription": "Support tax reforms which reward and encourage aspiration"
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Encourage measures to increase the number of first time home buyers"
+            }
+        ],
+        "mentions": {
+            "candidate": "Melanie Magee",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Encourage plans to create employment and apprenticeships and supporting economic recovery",
+            "education": "Support and encourage improvements to the performance of our schools",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "Support welfare reform which benefits families and the most vulnerable whilst ending the culture of dependency",
+            "housing": [
+                {
+                    "content": "Encourage measures to increase the number of first time home buyers",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "033 33 70 65 80",
+            "email": "melanie.magee@me.com",
+            "website": "www.melaniemagee.com",
+            "socialMedia": {
+                "facebook": "OxfordEastConservatives",
+                "twitter": "cllr_magee",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Melanie Magee's campaign leaflet"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

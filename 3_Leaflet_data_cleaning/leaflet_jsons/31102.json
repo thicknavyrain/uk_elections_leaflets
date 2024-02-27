@@ -1,0 +1,83 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "Brent Central",
+        "politicalParty": "Green Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Housing is a Human Right",
+                "content": "The condition of your home & the neighbourhood you live in are environmental issues."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Addressing the housing crisis by ensuring it is treated as a human right."
+            }
+        ],
+        "mentions": {
+            "candidate": "Shaka Lish",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "The condition of your home & the neighbourhood you live in are environmental issues.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "You can't live without somewhere to live.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Housing-themed campaign leaflet."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet emphasizes the housing crisis and positions it as an environmental issue, appealing to the constituency of Brent Central for the Green Party candidate Shaka Lish."
+    }
+}

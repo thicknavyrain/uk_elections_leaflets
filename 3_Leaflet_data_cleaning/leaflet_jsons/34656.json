@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+	"candidateName": "Luke Pollard",
+	"constituency": "Plymouth Sutton and Devonport",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 12 December",
+	"messages": [
+  	{
+    	"title": "I'm standing for re-election",
+    	"content": "so I can continue the fight for our fair share of the funding as a city. We all know that things need to change in our country and that is what Labour is offering - real change."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Luke Pollard",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "I'm standing for re-election so I can continue the fight for our fair share of the funding as a city. We all know that things need to change in our country and that is what Labour is offering - real change.",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "01752 269180",
+  	"email": "luke@lukepollard.net",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "LukePollard",
+    	"twitter": "LukePollard",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Luke Pollard speaking with a microphone at an event."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet mainly promotes the candidate's bid for re-election without giving specific details on policies or stances on certain issues. Key policies, political experience, and various other details typically found in a campaign leaflet are not disclosed and thus are not included in this JSON."
+  }
+}

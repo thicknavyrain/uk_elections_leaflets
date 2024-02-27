@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "SNP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "DEVELOPMENT STRATEGY",
+                "content": "The SNP's development strategy will put the constituency at the forefront of Scotland's drive for a strong economic recovery and ensure local communities benefit first from the jobs and investment this creates."
+            },
+            {
+                "title": "RENEWABLE ENERGY",
+                "content": "Investing in Renewable Energy is central to our vision of Scotland's future and central to our plans, helping to drive down our net carbon emissions to zero."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Development Strategy",
+                "policyDescription": "Aims to position the constituency at the center of Scotland's economic recovery by prioritizing local job creation and investment."
+            },
+            {
+                "policyTitle": "Renewable Energy",
+                "policyDescription": "Focus on investing in renewable energy to reduce carbon emissions and drive economic growth."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Development strategy focused on strong economic recovery and job creation.",
+            "education": "",
+            "environment": "Investment in renewable energy to achieve net-zero carbon emissions.",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.germinuit.uk",
+            "socialMedia": {
+                "facebook": "www.facebook.com/germinuit",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,69 @@
+{
+  "leaflet": {
+    "candidateName": "Boris Johnson",
+    "constituency": "Uxbridge & South Ruislip",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Putting Residents First",
+        "policyDescription": "I will put residents first and make their voices heard."
+      },
+      {
+        "policyTitle": "HS2 Disruption",
+        "policyDescription": "I will support residents against HS2 disruption."
+      },
+      {
+        "policyTitle": "Protecting Our Area",
+        "policyDescription": "I will protect our area from over-development."
+      }
+    ],
+    "mentions": {
+      "candidate": "Boris Johnson",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "I will protect our area from over-development.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "boris4uxbridge.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Boris Johnson in an outdoor setting."
+        }
+      ]
+    },
+    "additionalNotes": "Election Communication."
+  }
+}

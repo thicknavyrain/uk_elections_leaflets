@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "YOU CAN CHANGE THE COUNTRY",
+        "content": "It's in YOUR hands"
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "IN MANY COMMUNITIES THE CONSERVATIVES CAN NOT WIN."
+    },
+    "issues": {
+      "brexitEurope": "THE LIB DEMS ARE THE ONLY PARTY WHO WILL FIGHT THE HARD BREXIT.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaign message emphasizing the power in voter's hands."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet presents a tactical voting message, suggesting that in many communities the Conservatives cannot win, therefore the Liberal Democrats present themselves as the alternative."
+  }
+}

@@ -1,0 +1,91 @@
+{
+    "leaflet": {
+        "candidateName": "George Osborne",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Dear Electors",
+                "content": "There are only a few weeks to go until the general election, I am writing to you because if the Conservatives win that election, David Cameron has asked me to be Chancellor of the Exchequer."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Most importantly of all, we need to get the economy growing again. If our economy is growing strongly again then we will be able to make real inroads into the huge debt that Labour have built up."
+            },
+            {
+                "policyTitle": "National Insurance",
+                "policyDescription": "We will stop the National Insurance job tax which would destroy jobs and kill off the recovery."
+            },
+            {
+                "policyTitle": "Public Service and Taxpayers",
+                "policyDescription": "Our country has agreed to introduce one as Labour propose. The banks were bailed out with taxpayers' money and it is only right that the banks should now help to fund economic recovery."
+            }
+        ],
+        "mentions": {
+            "candidate": "George Osborne",
+            "otherPartyLeaderCandidate": "Labour",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Need to get the economy growing again.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I hope you will take the chance to vote for that change.",
+        "politicalExperience": [
+            {
+                "role": "Shadow Chancellor of the Exchequer",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Conservative Party, 30 Millbank, London SW1P 4DP",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Most importantly of all, we need to get the economy growing again.",
+                "source": "George Osborne",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Photo of George Osborne letter"
+                }
+            ]
+        },
+        "additionalNotes": "Leaflet contains personal appeal from George Osborne and outlines key economic policies and Conservative Party critiques of Labour policies. Specific details about election date and contact information other than address are not provided."
+    }
+}

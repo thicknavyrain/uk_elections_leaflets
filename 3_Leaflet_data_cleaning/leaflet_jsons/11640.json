@@ -1,0 +1,115 @@
+{
+  "leaflet": {
+	"candidateName": "Maria",
+	"constituency": "Belle and Halewood",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 6th May",
+	"messages": [
+  	{
+    	"title": "Education Investment",
+    	"content": "Children like ours are getting a far better education because of Labour's investment in local schools."
+  	},
+  	{
+    	"title": "Opinion on Conservative Party",
+    	"content": "The Tories would just turn their backs on us if they win the election like they did in the 1980s and 1990s."
+  	},
+  	{
+    	"title": "Support for Youth Services",
+    	"content": "Maria works really hard for the area and campaigned with me against the Lib Dem cuts to youth services."
+  	},
+  	{
+    	"title": "Winter Fuel Allowance",
+    	"content": "Many are worried that the Tories will snatch it back. They didn't do anything for older people the last time they were in power."
+  	},
+  	{
+    	"title": "Sure Start and Child Tax Credits",
+    	"content": "I've really been helped through Labour's Sure Start scheme and Child Tax Credits."
+  	}
+	],
+	"keyPolicies": [
+	  {
+	    "policyTitle": "Education",
+	    "policyDescription": "Labour's investment in local schools leads to a far better education."
+	  }
+	],
+	"mentions": {
+	  "candidate": "Maria",
+	  "otherPartyLeaderCandidate": "Tories, Conservative Party",
+	  "partyLeader": "",
+	  "tacticalSituation": ""
+	},
+	"issues": {
+	  "brexitEurope": "",
+	  "economy": "",
+	  "education": "Labour's investment in local schools leads to a far better education.",
+	  "environment": "",
+	  "governance": "",
+	  "health": "",
+	  "immigration": "",
+	  "socialWelfare": "Concerns about the Tories taking away the Winter Fuel Allowance and not doing anything for older people; benefits from Labour's Sure Start scheme and Child Tax Credits.",
+	  "housing": [
+	    {
+	      "content":"",
+	      "yimbyNimby": "N/A"
+	    }
+	  ]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+	  "address": "",
+	  "phone": "",
+	  "email": "",
+	  "website": "",
+	  "socialMedia": {
+	    "facebook": "",
+	    "twitter": "",
+	    "instagram": "",
+	    "linkedin": ""
+	  }
+	},
+	"endorsements": [
+  	{
+    	"endorser": "Pauline from Belle Vale",
+    	"endorsement": "Maria works really hard for the area and campaigned with me against the Lib Dem cuts to youth services."
+  	},
+  	{
+	    "endorser": "Norman and Wendy from Halewood",
+	    "endorsement": "The Winter Fuel Allowance we get every year is a real God send. Many are worried that the Tories will snatch it back."
+	  },
+	  {
+	    "endorser": "James & Gill from Hunts Cross",
+	    "endorsement": "Children like ours are getting a far better education because of Labour's investment in local schools."
+	  },
+	  {
+	    "endorser": "Colin and Les from Speke",
+	    "endorsement": "South Liverpool and Halewood need a Labour government. The Tories would just turn their backs on us if they win the election like they did in the 1980s and 1990s."
+	  },
+	  {
+	    "endorser": "Tina from Speke",
+	    "endorsement": "I've really been helped through Labour's Sure Start scheme and Child Tax Credits."
+	  }
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Use both your votes for Labour"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

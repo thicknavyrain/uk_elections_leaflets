@@ -1,0 +1,82 @@
+{
+  "leaflet": {
+    "candidateName": "Elaine Bagshaw",
+    "constituency": "Poplar & Limehouse",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Local housing",
+        "content": "There is a shortage of affordable homes in Poplar & Limehouse. Only the Lib Dems will significantly increase the number of homes built."
+      },
+      {
+        "title": "Jobs and growth",
+        "content": "The Tories want further cuts to benefits, while Labour will put the recovery at risk. Only the Lib Dems are committed to building a stronger economy and a fairer society."
+      },
+      {
+        "title": "Local health",
+        "content": "GP surgeries in Poplar & Limehouse are struggling with funding cuts. Only the Lib Dems will provide the NHS with £8bn of extra funding."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Local housing",
+        "policyDescription": "Increase the number of affordable homes built in Poplar & Limehouse."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Avoid further cuts to benefits and build a stronger economy and a fairer society."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Provide NHS with £8bn of extra funding to help GP surgeries in Poplar & Limehouse."
+      }
+    ],
+    "mentions": {
+      "candidate": "Elaine Bagshaw",
+      "otherPartyLeaderCandidate": "The Tories, Labour",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Avoid further cuts to benefits and build a stronger economy and a fairer society.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Provide NHS with £8bn of extra funding to help GP surgeries in Poplar & Limehouse.",
+      "immigration": "",
+      "socialWelfare": "Avoid further cuts to benefits.",
+      "housing": [
+        {
+          "content": "Increase the number of affordable homes built in Poplar & Limehouse.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.tower-hamlets-libdems.org.uk",
+      "socialMedia": {
+        "facebook": "TowerHamletsLiberalDemocrats",
+        "twitter": "@esbagshaw",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Elaine Bagshaw and your local Lib Dem Team working hard here all year round!"
+        }
+      ]
+    },
+    "additionalNotes": "There is a section to take part in a local survey, asking about the most important local issue, issues the candidate should focus on, opinion on Britain's EU membership, and rating the Mayor of Tower Hamlets."
+  }
+}

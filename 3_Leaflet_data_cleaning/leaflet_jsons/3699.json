@@ -1,0 +1,76 @@
+{
+    "leaflet": {
+        "candidateName": "David Blackburn",
+        "constituency": "Leeds West",
+        "politicalParty": "Green Party",
+        "electionDate": "General Election",
+        "messages": [
+            {
+                "title": "A Message from David",
+                "content": "I feel it a great honour to be selected by my Party to stand at this year's General Election. It comes at a time when the world seems to have gone mad. With the spectre of mass unemployment, where the culture of greed has brought the financial system to its knees, while those who are responsible continue to be paid their massive bonuses. At the same time we are having to live with the massive effects of Climate Change and environmental degradation. And, of course, the scandal of MPs expenses."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Greens offer a sustainable solid state economy, where fairness replaces greed."
+            },
+            {
+                "policyTitle": "Environmental Sustainability",
+                "policyDescription": "Taking action on climate change, helping to reduce carbon emissions and ending fuel poverty."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Blackburn",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Greens offer a sustainable solid state economy, where fairness replaces greed.",
+            "education": "",
+            "environment": "Taking action on climate change, helping to reduce carbon emissions and ending fuel poverty.",
+            "governance": "The scandal of MPs expenses.",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "David Blackburn is 58 years old and married with a grown up son and daughter. He has lived in West Leeds all his life and currently lives in Farnley & Wortley where he has lived for the past 28 years.",
+        "politicalExperience": [
+            {
+                "role": "City Councillor for Leeds West",
+                "duration": "since 1998",
+                "achievements": "David Blackburn was elected to the City Council in 1998 as the City's first Green Party Councillor and has continued to represent the Farnley & Wortley area on the Council since that time."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Blackburn selected as Green Party candidate for Leeds West."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet contains information about another candidate, Andy Parnham, but the requested JSON structure does not include fields for information about other candidates mentioned in tandem with the main candidate."
+    }
+}

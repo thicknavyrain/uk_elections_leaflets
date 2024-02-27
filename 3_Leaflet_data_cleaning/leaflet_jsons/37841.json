@@ -1,0 +1,156 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "IT'S TIME TO",
+        "content": "Switch toUKIP"
+      },
+      {
+        "title": "TAKE BACK CONTROL OF OUR COUNTRY",
+        "content": ""
+      },
+      {
+        "title": "UKIP WORKS FOR YOU NOT FOR THE EU",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "ECONOMY",
+        "policyDescription": "UKIP will ensure that the UK keeps VAT revenues"
+      },
+      {
+        "policyTitle": "IMMIGRATION",
+        "policyDescription": "We will put a 5 year freeze on immigration for unskilled workers"
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "UKIP will increase personal care in the NHS"
+      },
+      {
+        "policyTitle": "EDUCATION",
+        "policyDescription": "More grammar schools"
+      },
+      {
+        "policyTitle": "HOUSING",
+        "policyDescription": "UKIP will protect the green belt"
+      },
+      {
+        "policyTitle": "LAW & ORDER",
+        "policyDescription": "More police on the beat"
+      },
+      {
+        "policyTitle": "DEFENDING BREXIT",
+        "policyDescription": "UKIP will defend Brexit against those who wish to overturn the result"
+      },
+      {
+        "policyTitle": "VETERANS",
+        "policyDescription": "More to help veterans"
+      },
+      {
+        "policyTitle": "DEMOCRACY",
+        "policyDescription": "UKIP will abolish the House of Lords and replace it with an elected chamber"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "UKIP will defend Brexit against those who wish to overturn the result",
+      "economy": "UKIP will ensure that the UK keeps VAT revenues",
+      "education": "More grammar schools",
+      "environment": "",
+      "governance": "UKIP will abolish the House of Lords and replace it with an elected chamber",
+      "health": "UKIP will increase personal care in the NHS",
+      "immigration": "We will put a 5 year freeze on immigration for unskilled workers",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "UKIP will protect the green belt",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0800 587 6 MM",
+      "email": "info@ukip.org",
+      "website": "www.ukip.org",
+      "socialMedia": {
+        "facebook": "/ukip",
+        "twitter": "@UKIP",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "ECONOMY - UKIP will ensure that the UK keeps VAT revenues"
+        },
+        {
+          "caption": "IMMIGRATION - We will put a 5 year freeze on immigration for unskilled workers"
+        },
+        {
+          "caption": "NHS - UKIP will increase personal care in the NHS"
+        },
+        {
+          "caption": "EDUCATION - More grammar schools"
+        },
+        {
+          "caption": "HOUSING - UKIP will protect the green belt"
+        },
+        {
+          "caption": "LAW & ORDER - More police on the beat"
+        },
+        {
+          "caption": "DEFENDING BREXIT - UKIP will defend Brexit against those who wish to overturn the result"
+        },
+        {
+          "caption": "VETERANS - More to help veterans"
+        },
+        {
+          "caption": "DEMOCRACY - UKIP will abolish the House of Lords and replace it with an elected chamber"
+        },
+        {
+          "caption": "UKIP - WORKS FOR YOU NOT FOR THE EU"
+        },
+        {
+          "caption": "IT'S TIME TO Switch to UKIP"
+        },
+        {
+          "caption": "TAKE BACK CONTROL OF OUR COUNTRY"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

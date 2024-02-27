@@ -1,0 +1,90 @@
+{
+    "leaflet": {
+        "candidateName": "John Whittingdale",
+        "constituency": "Maldon",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "I SUPPORT",
+                "content": "John's campaign to make Maldon constituency safer."
+            },
+            {
+                "title": "John Whittingdale's campaign to...",
+                "content": "Make Maldon Constituency Safer."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Get Brexit Done",
+                "policyDescription": "delivering on the result of the EU referendum"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Continue to build a strong economy with low taxes for people and businesses"
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "An extra \u00a333.9billion of NHS funding and a new Community Hospital in Maldon"
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Investment in infrastructure to support new housing development"
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Maintain our world-leading record in tackling climate change"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "An additional \u00a314billion for education benefitting all our local schools"
+            }
+        ],
+        "mentions": {
+            "candidate": "John Whittingdale",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "delivering on the result of the EU referendum",
+            "economy": "Continue to build a strong economy with low taxes for people and businesses",
+            "education": "An additional \u00a314billion for education benefitting all our local schools",
+            "environment": "Maintain our world-leading record in tackling climate change",
+            "governance": "",
+            "health": "An extra \u00a333.9billion of NHS funding and a new Community Hospital in Maldon",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Investment in infrastructure to support new housing development",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Our police do a great job in keeping us safe locally and crime is still relatively low.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "19 High Street, Maldon, Essex CM9 5PE",
+            "phone": "",
+            "email": "contact@johnwhittingdale.org.uk",
+            "website": "www.johnwhittingdale.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@johnwhittingdale4maldon",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "John Whittingdale with a police officer."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

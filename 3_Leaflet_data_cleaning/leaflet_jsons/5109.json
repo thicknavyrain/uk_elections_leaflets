@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+	"candidateName": "George Osborne",
+	"constituency": "",
+	"politicalParty": "Conservative Party",
+	"electionDate": "6th May 2010",
+	"messages": [
+  	{
+    	"title": "Dear Elector",
+    	"content": "There are only a few weeks to go until the general election. I am writing to you because if the Conservatives win that election, David Cameron has asked me to be Chancellor of the Exchequer."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Economy",
+    	"policyDescription": "It will be my job to get Britain's economy moving – ensuring that banks grant loans to families and businesses and that the budget is balanced without excessive public spending."
+  	},
+  	{
+    	"policyTitle": "Healthcare",
+    	"policyDescription": "Cut waste in NHS while increasing spending every year – focus on reducing costs yet investing more in the NHS."
+  	}
+	],
+	"mentions": {
+  	"candidate": "George Osborne",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "David Cameron",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "We will end the waste and reckless spending. We will stop the tax rises planned by Labour. We will take immediate steps to cut the deficit.",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "We will end the waste in the NHS. We will increase spending on the NHS every year.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "We will bring to an end the era of reckless lending and the housing boom and bust.",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "Shadow Chancellor of the Exchequer",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "Conservative Party, 30 Millbank, London SW1P 4DP",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "I hope you will take the chance to vote for that change.",
+    	"source": "George Osborne",
+    	"date": "26th March 2010"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "George Osborne's letter to the electorate."
+    	}
+  	]
+	},
+	"additionalNotes": "The letter outlines key priorities if the Conservatives win the election, such as balancing the budget, supporting the NHS, and promoting job creation and new apprenticeships."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "leaflet": {
+	"candidateName": "Phil Henrick",
+	"constituency": "Solihull",
+	"politicalParty": "UKIP",
+	"electionDate": "May 7th",
+	"messages": [
+  	{
+    	"title": "Real Change",
+    	"content": "On May 7th you can vote for real change in Solihull"
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Immigration",
+    	"policyDescription": "Control our borders"
+  	},
+    {
+      "policyTitle": "Healthcare",
+      "policyDescription": "Invest in the NHS"
+    },
+    {
+      "policyTitle": "Economy",
+      "policyDescription": "Spend money wisely at home, not abroad"
+    },
+    {
+      "policyTitle": "Tax System",
+      "policyDescription": "Fairer tax system"
+    }
+	],
+	"mentions": {
+  	"candidate": "Phil Henrick",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Spend money wisely at home, not abroad",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Invest in the NHS",
+  	"immigration": "Control our borders",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "Phil Henrick is standing up for real change in Solihull.",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "07903 464882",
+  	"email": "philenrick@sky.com",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Phil Henrick - UKIP Candidate for Solihull"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

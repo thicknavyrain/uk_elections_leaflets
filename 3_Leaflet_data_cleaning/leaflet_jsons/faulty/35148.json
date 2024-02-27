@@ -1,0 +1,46 @@
+{
+  "leaflet": {
+	"candidateName": "Jeremy Corbyn",
+	"constituency": "Islington North",
+	"politicalParty": "Labour",
+	"electionDate": "7 May",
+	"messages": [],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "Jeremy Corbyn",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": []
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Jeremy Corbyn working for you"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

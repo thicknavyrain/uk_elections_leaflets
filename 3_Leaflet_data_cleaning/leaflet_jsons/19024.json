@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+  	"candidateName": "Ian McInnes",
+  	"constituency": "",
+  	"politicalParty": "Labour",
+  	"electionDate": "",
+  	"messages": [
+    	{
+      	"title": "",
+      	"content": ""
+    	}
+  	],
+  	"keyPolicies": [],
+  	"mentions": {
+    	"candidate": "",
+    	"otherPartyLeaderCandidate": "",
+    	"partyLeader": "",
+    	"tacticalSituation": ""
+  	},
+  	"issues": {
+    	"brexitEurope": "",
+    	"economy": "",
+    	"education": "",
+    	"environment": "",
+    	"governance": "",
+    	"health": "",
+    	"immigration": "",
+    	"socialWelfare": "",
+    	"housing": [
+      	{
+        	"content":"",
+        	"yimbyNimby": ""
+      	}
+    	]
+  	},
+  	"personalStatement": "",
+  	"politicalExperience": [],
+  	"contactInformation": {
+    	"address": "",
+    	"phone": "",
+    	"email": "",
+    	"website": "",
+    	"socialMedia": {
+      	"facebook": "",
+      	"twitter": "",
+      	"instagram": "",
+      	"linkedin": ""
+    	}
+  	},
+  	"endorsements": [],
+  	"quotes": [],
+  	"campaignMaterial": {
+    	"images": [
+      	{
+        	"caption": "Ian McInnes by the seashore"
+      	}
+    	]
+  	},
+  	"additionalNotes": "Campaigning for real change"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "leaflet": {
+	"candidateName": "Jo Richards",
+	"constituency": "Newark",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 7 May",
+	"messages": [
+  	{
+    	"title": "My Pledges to you",
+    	"content": "I pledge to... Work with local councils to deliver high quality services... Focus on delivering the Local Plan for the future including... Labour’s Sure Start children’s centres."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Freeze your energy bills",
+    	"policyDescription": "Freeze on energy bills until 2017."
+  	},
+  	{
+    	"policyTitle": "Education",
+    	"policyDescription": "Smaller class sizes for 5, 6, and 7-year-olds funded by ending the Free Schools programme."
+  	},
+  	{
+    	"policyTitle": "Health",
+    	"policyDescription": "More doctors and nurses funded by a mansion tax on homes worth over £2 million."
+  	},
+  	{
+    	"policyTitle": "Living Wage",
+    	"policyDescription": "Promote the Living Wage to ensure low-paid employees can earn enough to provide for their families."
+  	},
+  	{
+    	"policyTitle": "Housing",
+    	"policyDescription": "Building more affordable homes to help first time buyers."
+  	} 
+	],
+	"mentions": {
+  	"candidate": "I've lived locally for 27 years...",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "Labour’s plan for a better future",
+  	"tacticalSituation": "It’s a two horse race here in Newark. The Tory MP has... So only Labour’s Jo Richards can beat the Tory in Newark."
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "Building more affordable homes to help first time buyers.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "I've lived locally for 27 years and have raised my family here...",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "This is a straight fight between Labour and the Tories...",
+    	"source": "Paddy Tipping",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Vote Labour on Thursday 7 May"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

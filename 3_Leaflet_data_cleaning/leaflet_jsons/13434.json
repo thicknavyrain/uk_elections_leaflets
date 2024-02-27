@@ -1,0 +1,102 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "TEN REASONS TO VOTE LABOUR",
+                "content": "The leaflet outlines ten policies that Labour proposes to implement."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "1,000 more nurses in Scotland",
+                "policyDescription": "Funded by a UK-wide tax on properties worth over \u00a32 million."
+            },
+            {
+                "policyTitle": "Freeze energy bills",
+                "policyDescription": "Prices can fall but not rise, and reform of broken energy market."
+            },
+            {
+                "policyTitle": "Job-creating powers for Scottish towns and cities",
+                "policyDescription": "Giving local authorities the powers they need to get young people back to work."
+            },
+            {
+                "policyTitle": "Double paternity leave",
+                "policyDescription": "Increase paternity leave to 4 weeks and raise paternity pay by more than \u00a3100 a week."
+            },
+            {
+                "policyTitle": "Fair pay with an \u00a38 Minimum Wage",
+                "policyDescription": "A Living Wage to half a million Scots to make work pay for ordinary families amid cost-of-living crisis."
+            },
+            {
+                "policyTitle": "Jobs guarantee for our young people",
+                "policyDescription": "Guarantee a job, training, or an apprenticeship for young people."
+            },
+            {
+                "policyTitle": "Tackle tax avoidance",
+                "policyDescription": "Close loopholes that cost taxpayers billions and toughen up penalties."
+            },
+            {
+                "policyTitle": "A triple-lock against fracking plans",
+                "policyDescription": "To freeze fracking in Scotland and ensure residents always have the final say with a local referendum."
+            },
+            {
+                "policyTitle": "100,000 new homes",
+                "policyDescription": "To deal with the SNP's housing shortfall and ensure new homes at levels not seen since the 1930s."
+            },
+            {
+                "policyTitle": "A ban on exploitative Zero-Hours contracts",
+                "policyDescription": "Ensuring that those working regular hours have the right to a regular contract."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": "At the General Election we need to stop the Tories being the largest party. That\u2019s the only way to stop a Tory government."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "100,000 new homes to deal with the SNP's housing shortfall, which has seen housebuilding at its lowest level since the 1930s.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "scottishlabour.org.uk/10-reasons",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A variety of images showing the diverse people involved in the campaign, including scenes illustrating the key policy areas."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet is focused on policies specific to Scotland and presents a strategic frame against the Tories."
+    }
+}

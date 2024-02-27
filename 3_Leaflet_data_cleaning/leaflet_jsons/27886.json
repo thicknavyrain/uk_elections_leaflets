@@ -1,0 +1,121 @@
+{
+    "leaflet": {
+        "candidateName": "Julian Huppert",
+        "constituency": "Cambridge",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Real change for Britain",
+                "content": "Only the Liberal Democrats have a plan to change Britain's future."
+            },
+            {
+                "title": "It's Julian or Corbyn's Labour here",
+                "content": "Bookies and pundits agree Conservatives out of the race. Ashcroft declares Cambridge 'seat to watch.'"
+            },
+            {
+                "title": "Julian's plan to fight for Cambridge",
+                "content": "People from right across the political spectrum are backing Julian to make a return to Parliament and implement his plan of action for Cambridge."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Lib Dems are the only party committed to keeping Britain in the single market and will fight any deal that harms jobs and public services."
+            },
+            {
+                "policyTitle": "Investment in NHS",
+                "policyDescription": "Lib Dems plan to raise extra \u00a36 billion in NHS and social care."
+            },
+            {
+                "policyTitle": "Fair Deal for Pensioners",
+                "policyDescription": "Lib Dems promise to protect state pension with triple lock."
+            }
+        ],
+        "mentions": {
+            "candidate": "Julian Huppert",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Conservatives out of the race, bookies and pundits agree. Ashcroft declares Cambridge 'seat to watch.'"
+        },
+        "issues": {
+            "brexitEurope": "Only the Lib Dems can stop hard Brexit.",
+            "economy": "",
+            "education": "Work to deliver even more for local families including in education.",
+            "environment": "",
+            "governance": "",
+            "health": "Plan to raise extra \u00a36 billion in NHS and social care, resolve the crisis in our NHS.",
+            "immigration": "",
+            "socialWelfare": "Protection of the state pension with triple lock.",
+            "housing": [
+                {
+                    "content": "Build affordable homes for local people",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "People from right across the political spectrum are backing Julian to make a return to Parliament.",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament",
+                "duration": "",
+                "achievements": "Built a reputation for securing improvements for Cambridge, delivered on stopping Brexit, and working to deliver even more for local families."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Times",
+                "endorsement": "Only the Lib Dems can stop hard Brexit."
+            },
+            {
+                "endorser": "The Independent",
+                "endorsement": "Lib Dems plan to invest an extra \u00a36 billion in NHS and social care."
+            },
+            {
+                "endorser": "ITV News",
+                "endorsement": "Lib Dems promise to protect state pension with triple lock."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Only the Lib Dems can stop hard Brexit.",
+                "source": "The Times",
+                "date": "March 4, 2017"
+            },
+            {
+                "text": "Lib Dems promise to protect state pension with triple lock.",
+                "source": "ITV News",
+                "date": "May 7, 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Julian Huppert with supporters."
+                },
+                {
+                    "caption": "Graph showing Lib Dems at 35%, Labour at 36%, Conservatives at 16%."
+                },
+                {
+                    "caption": "Julian Huppert engaging with a local family."
+                },
+                {
+                    "caption": "Julian Huppert with diverse group of supporters."
+                }
+            ]
+        },
+        "additionalNotes": "Julian earned praise for putting the needs of city before party politics. Julian's approach is straightforward and not extreme."
+    }
+}

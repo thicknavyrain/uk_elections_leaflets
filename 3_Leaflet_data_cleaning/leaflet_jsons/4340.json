@@ -1,0 +1,82 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Vote Lib Dem get Tory...",
+                "content": "Lib Dem Leader Nick Clegg is refusing to rule out a back room deal to put the Tories into power. Many Lib Dem voters would be horrified to watch the Lib Dems hand power to the Tories. But up and down the country this is what has happened. The Lib Dems and Tories do back room deals to make sure they run many major councils."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "David Cameron",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "LOCAL COUNCILS CONTROLLED BY TORY-LIB DEM DEALS",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Nick Clegg will back Tories in hung Parliament",
+                "source": "Daily Telegraph",
+                "date": "18 May 2009"
+            },
+            {
+                "text": "Clegg could support Tories in a minority government",
+                "source": "The Independent",
+                "date": "19 Mar 2010"
+            },
+            {
+                "text": "Clegg: I would back Tories in hung poll",
+                "source": "The Sun",
+                "date": "23 Nov 2009"
+            },
+            {
+                "text": "Lib Dems deals prepared to back Cameron",
+                "source": "The Independent",
+                "date": "23 Nov 2009"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Lists of local councils controlled by Tory-Lib Dem deals"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

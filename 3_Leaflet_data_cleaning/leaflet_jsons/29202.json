@@ -1,0 +1,109 @@
+{
+    "leaflet": {
+        "candidateName": "David Drew",
+        "constituency": "Stroud",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Environment",
+                "content": "Tackling the climate emergency and protecting nature."
+            },
+            {
+                "title": "Housing",
+                "content": "Delivering secure, affordable housing for all."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Build council houses. Oppose 'Right to Buy'. Invest in eco-friendly homes."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Oppose any new road building. Support trains, bikes and buses."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Drew",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "We must stop the rot in education and care for the young.",
+            "environment": "Oppose any new road building. Support trains, bikes and buses.",
+            "governance": "",
+            "health": "With proper resources for health and social care.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "We need secure, affordable housing for the young, for families and for the elderly.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "5a Lansdown, Stroud, GL5 1BB",
+            "phone": "",
+            "email": "david@daviddrew-mp.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "DavidDrewStroud",
+                "twitter": "DavidEDrew",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "We must stop the rot in education and care for the young.",
+                "source": "David Drew",
+                "date": ""
+            },
+            {
+                "text": "Delivering secure, affordable housing for all.",
+                "source": "David Drew",
+                "date": ""
+            },
+            {
+                "text": "With proper resources for health and social care.",
+                "source": "David Drew",
+                "date": ""
+            },
+            {
+                "text": "Tackling the climate emergency and protecting nature.",
+                "source": "David Drew",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of a housing development"
+                },
+                {
+                    "caption": "Image of David Drew"
+                }
+            ]
+        },
+        "additionalNotes": "This leaflet focuses on housing and the environment, common issues of David's party."
+    }
+}

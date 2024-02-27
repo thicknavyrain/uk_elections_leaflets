@@ -1,0 +1,80 @@
+{
+	"leaflet": {
+		"candidateName": "Rhun ap Iorwerth",
+		"constituency": "Ynys Môn",
+		"politicalParty": "Plaid Cymru - The Party of Wales",
+		"electionDate": "5th May 2016",
+		"messages": [
+			{
+				"title": "The Change Wales Needs",
+				"content": "On 5th May 2016, vote for the Assembly Members you trust to deliver the change Wales needs."
+			}
+		],
+		"keyPolicies": [
+			{
+				"policyTitle": "Health",
+				"policyDescription": "Opposes health cuts and a commitment to reform the NHS to deliver a full cancer treatment system within Wales, a new medical school in the North, and scrapping the unfair council tax."
+			},
+			{
+				"policyTitle": "Economy",
+				"policyDescription": "Supporting local businesses, addressing high business rates, boosting the number of well-paid jobs."
+			},
+			{
+				"policyTitle": "Education",
+				"policyDescription": "Proposing smaller class sizes, protecting school budgets."
+			}
+		],
+		"mentions": {
+			"candidate": "Rhun ap Iorwerth",
+			"otherPartyLeaderCandidate": "Leanne Wood",
+			"partyLeader": "",
+			"tacticalSituation": ""
+		},
+		"issues": {
+			"brexitEurope": "",
+			"economy": "Supporting local businesses and addressing high business rates to boost the number of well-paid jobs.",
+			"education": "Smaller class sizes and protection of school budgets are among the educational priorities.",
+			"environment": "",
+			"governance": "",
+			"health": "A promise to oppose health cuts and a commitment to reform the NHS to provide comprehensive cancer treatment in Wales, set up a new medical school in the North, and eliminate the unfair council tax.",
+			"immigration": "",
+			"socialWelfare": "",
+			"housing": [
+				{
+					"content": "",
+					"yimbyNimby": "N/A"
+				}
+			]
+		},
+		"personalStatement": "",
+		"politicalExperience": [
+			{
+				"role": "Assembly Member for Ynys Môn",
+				"duration": "Since 2013",
+				"achievements": "Achievements include leading campaigns to protect public services, significant investment in the electricity grid, and progress for the Morlais tidal energy project."
+			}
+		],
+		"contactInformation": {
+			"address": "",
+			"phone": "",
+			"email": "",
+			"website": "www.plaid2016.wales",
+			"socialMedia": {
+				"facebook": "",
+				"twitter": "",
+				"instagram": "",
+				"linkedin": ""
+			}
+		},
+		"endorsements": [],
+		"quotes": [],
+		"campaignMaterial": {
+			"images": [
+				{
+					"caption": "Rhun ap Iorwerth - Your candidate"
+				}
+			]
+		},
+		"additionalNotes": ""
+	}
+}

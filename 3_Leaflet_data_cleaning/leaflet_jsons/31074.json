@@ -1,0 +1,87 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "constituency": "Westminster North",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Personal Message",
+                "content": "Give me and my candidate your vote on Thursday 8th June and I will: Provide strong and stable leadership for our country, Get the best Brexit deal possible to deliver economic security for our future, Always stand up for you and your family. Don't risk our future at this crucial moment in history with a vote for anyone else. Back me on Thursday 8th June to lead Britain."
+            },
+            {
+                "title": "Local Message",
+                "content": "I will continue to be your local champion and to fight for you and your family. I will support local businesses and help them create jobs. I will deliver on affordable housing and outstanding schools for local residents."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get the best Brexit deal possible to deliver economic security for our future."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Provide strong and stable leadership to deliver economic security for our future."
+            },
+            {
+                "policyTitle": "Local Community",
+                "policyDescription": "Support local businesses and help them create jobs. Deliver on affordable housing and outstanding schools for local residents."
+            }
+        ],
+        "mentions": {
+            "candidate": "Lindsey Hall",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get the best Brexit deal possible to deliver economic security for our future.",
+            "economy": "Provide strong and stable leadership to deliver economic security for our future.",
+            "education": "I will deliver on outstanding schools for local residents.",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "I will deliver on affordable housing for local residents.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Give me and my candidate your vote on Thursday 8th June and I will: Provide strong and stable leadership for our country, Get the best Brexit deal possible to deliver economic security for our future, Always stand up for you and your family.",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "30 Shireland Road, London W9 3JP",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May with locals"
+                },
+                {
+                    "caption": "Theresa May with Lindsey Hall"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet is targeted at both Theresa May's general campaign for Prime Minister and the candidate Lindsey Hall for the specific constituency of Westminster North."
+    }
+}

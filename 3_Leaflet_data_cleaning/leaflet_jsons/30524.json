@@ -1,0 +1,72 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "THURSDAY 8th JUNE",
+        "messages": [
+            {
+                "title": "STRONG AND STABLE LEADERSHIP IN THE NATIONAL INTEREST",
+                "content": "We need a General Election now to secure the strong and stable leadership the country needs to see us through Brexit and beyond."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "General Election for Brexit",
+                "policyDescription": "A General Election will strengthen our negotiating hand in Europe. It is the only way to ensure we have strong leadership, certainty, and stability for a full five years, not just up to the point at which we leave the European Union but beyond it too."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The only way to ensure we have strong leadership, certainty, and stability for a full five years, not just up to the point at which we leave the European Union but beyond it too.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "The choice at this election is between strong and stable leadership in the national interest with me, or weak and unstable coalition government led by Jeremy Corbyn.",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May, Prime Minister"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

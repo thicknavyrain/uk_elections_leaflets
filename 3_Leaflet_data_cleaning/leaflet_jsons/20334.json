@@ -1,0 +1,69 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "BALANCE THE BOOKS.",
+    	"content": ""
+  	},
+  	{
+    	"title": "BETTER WAGES.",
+    	"content": ""
+  	},
+  	{
+    	"title": "BACK THE NEXT GENERATION.",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "labour.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "LABOUR: A BETTER PLAN. A BETTER FUTURE."
+    	}
+  	]
+	},
+	"additionalNotes": "The leaflet prompts to read the pledge inside, suggesting more detailed campaign pledges and policies are included within."
+  }
+}

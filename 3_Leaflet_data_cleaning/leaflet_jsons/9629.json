@@ -1,0 +1,79 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 5 May",
+        "messages": [
+            {
+                "title": "Our pledges for flourishing communities",
+                "content": ""
+            },
+            {
+                "title": "Britain in the world",
+                "content": ""
+            },
+            {
+                "title": "Our pledges for a safer and fairer world",
+                "content": ""
+            },
+            {
+                "title": "Three things to take away",
+                "content": "Footprint grows, Jobs are lost, School places lost."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk/policies",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "I've never voted Labour before, but I will now...",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "Vote Labour"
+    }
+}

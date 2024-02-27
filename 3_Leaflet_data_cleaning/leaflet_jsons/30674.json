@@ -1,0 +1,65 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "ON THURSDAY 8TH JUNE THERE WILL BE A GENERAL ELECTION",
+                "content": "We need this election to lock in the economic progress we have made together. Every vote cast for the Conservatives will strengthen my hand in the Brexit negotiations. And that's why I need your support."
+            },
+            {
+                "title": "HELP US STOP THE COALITION OF CHAOS",
+                "content": "Voters across our country face a choice. It's a choice between me and my team, providing strong and stable leadership for the United Kingdom, or a coalition of chaos and instability led by a weak, failing and nonsensical Jeremy Corbyn that will put our nation's future at risk."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Every vote cast for the Conservatives will strengthen my hand in the Brexit negotiations.",
+            "economy": "We need this election to lock in the economic progress we have made together.",
+            "education": "",
+            "environment": "",
+            "governance": "providing strong and stable leadership for the United Kingdom",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Conservative Campaign Headquarters, 4 Matthew Parker Street, London, SW1H 9HQ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May, Leader of the Conservative Party"
+                }
+            ]
+        },
+        "additionalNotes": "PS We have to stop Labour\u2019s coalition of chaos. Please donate today, and let\u2019s win this election together."
+    }
+}

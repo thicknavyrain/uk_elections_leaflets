@@ -1,0 +1,70 @@
+{
+    "leaflet": {
+        "candidateName": "David Black",
+        "constituency": "Newbury",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Straight talking. Vote UKIP",
+                "content": "Are you desperate to hear common sense policies on the economy, immigration, the NHS etc? There is very little difference between the three main parties on these issues because what they can do is tightly constrained by our membership of the EU. Only a vote for UKIP will produce real change."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "UKIP will fund the inclusion of a maternity and A&E facility in our hospital by abolishing unnecessary and overlapping layers of NHS bureaucracy such as the EU-inspired Strategic Health Authorities (SHAs) and Primary Care Trusts (PCTs)."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "UKIP will end undemocratic regional planning processes is ruining Newbury towns and villages. We will also ensure that your voice is heard on any future large scale planning applications similar to the Newbury Racecourse development by introducing binding local referenda."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Black",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Only a vote for UKIP will produce real change.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "UKIP will fund the inclusion of a maternity and A&E facility in our hospital by abolishing unnecessary and overlapping layers of NHS bureaucracy such as the EU-inspired Strategic Health Authorities (SHAs) and Primary Care Trusts (PCTs).",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "UKIP will end undemocratic regional planning processes is ruining Newbury towns and villages. We will also ensure that your voice is heard on any future large scale planning applications similar to the Newbury Racecourse development by introducing binding local referenda.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "PO Box 408, Newton Abbot TQ12 9BG",
+            "phone": "0800 587 6 587",
+            "email": "",
+            "website": "ukipnewbury.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Black, UKIP candidate for Newbury"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

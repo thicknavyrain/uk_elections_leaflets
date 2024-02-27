@@ -1,0 +1,89 @@
+{
+    "leaflet": {
+        "candidateName": "Tim Farron",
+        "constituency": "",
+        "politicalParty": "Lib Dems",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "THINKING OF VOTING TORY?",
+                "content": "IF HER FINAL BREXIT DEAL IS A POISONED APPLE... WHY SHOULD YOU HAVE TO EAT IT?"
+            },
+            {
+                "title": "EVERYONE KNOWS LABOUR CAN'T WIN THIS TIME.",
+                "content": "VOTE LIB DEM TO CHANGE BRITAIN'S FUTURE."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Final Brexit Deal",
+                "policyDescription": "Tim Farron's Lib Dems will give you a say on the final Brexit deal."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tim Farron",
+            "otherPartyLeaderCandidate": "Theresa May, Nigel Farage",
+            "partyLeader": "",
+            "tacticalSituation": "EVERYONE KNOWS LABOUR CAN'T WIN THIS TIME. VOTE LIB DEM TO CHANGE BRITAIN'S FUTURE."
+        },
+        "issues": {
+            "brexitEurope": "Tim Farron's Lib Dems will give you a say on the final Brexit deal. Theresa May is pushing the extreme Brexit UKIP want. The Lib Dems... have vowed to fight us every step of the way. Only the Lib Dems can stop a hard Brexit.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Cheltenham STA R17, Paultonmead and G. Gettion on behalf of the Liberal Democrats, at 8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The Lib Dems... have vowed to fight us every step of the way.",
+                "source": "Theresa May"
+            },
+            {
+                "text": "Only the Lib Dems can stop a hard Brexit.",
+                "source": "The Times, 4 April 2017"
+            },
+            {
+                "text": "All the things that I've been banging on about for the last 20 years have now been adopted wholesale by Theresa May.",
+                "source": "Nigel Farage, 5 May 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tim Farron surrounded by supporters."
+                },
+                {
+                    "caption": "Theresa May with a portrayal of a poisoned apple."
+                },
+                {
+                    "caption": "Theresa May and Nigel Farage."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

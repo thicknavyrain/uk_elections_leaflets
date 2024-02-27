@@ -1,0 +1,70 @@
+{
+    "leaflet": {
+        "candidateName": "Spencer Pitfield",
+        "constituency": "Penistone & Stocksbridge",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "RESTORING TRUST IN POLITICS",
+                "content": "I have set the details of MPs' expenses were first published, since the rightly been furious about the excessive, unacceptable and possibly illegal claims made by some of the individuals we sent to represent us in the House of Commons."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "MPs' expenses: my contract with you",
+                "policyDescription": "Publish on my personal website details of all my personal and office expenses incurred as your Member of Parliament."
+            },
+            {
+                "policyTitle": "A NEW POLITICS",
+                "policyDescription": "David Cameron has argued that the abuse of MPs expenses is part of a wider problem of people in positions of power looking after their own interests, rather than the people they're meant to serve. That you do think of the following proposals he has made to shift power back to you and other electorate constituents."
+            }
+        ],
+        "mentions": {
+            "candidate": "Spencer Pitfield",
+            "otherPartyLeaderCandidate": "Gordon Brown, David Cameron, Nick Clegg",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "Protecting the environment and tackling global warming",
+            "governance": "RESTORING TRUST IN POLITICS",
+            "health": "Improving NHS services",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Protecting our area from overdevelopment",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "If I am elected as your MP, I will always seek to stand up for the interests of all local people, regardless of how you vote and whatever your political views.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "9a High Street, Penistone, Sheffield S36 6BR",
+            "phone": "07931 523 948",
+            "email": "spencer@penistockconservatives.co.uk",
+            "website": "www.spencerpitfield.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Photo of Spencer Pitfield"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet includes a 'Residents' Survey' asking for views on various issues which may imply campaign focal points but does not contain explicit statements on the candidate's positions for all issues mentioned in the JSON structure."
+    }
+}

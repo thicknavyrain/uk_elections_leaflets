@@ -1,0 +1,80 @@
+{
+    "leaflet": {
+        "candidateName": "John Glen",
+        "constituency": "Salisbury and South Wiltshire",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "STANDING WITH THERESA MAY",
+                "content": "John Glen is standing with Theresa May to provide strong and stable leadership in the national interest."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stronger Economy",
+                "policyDescription": "John Glen seeks to continue creating a stronger economy for Salisbury and South Wiltshire."
+            },
+            {
+                "policyTitle": "Opportunity for All",
+                "policyDescription": "Focus on improving educational opportunities, with reference to grammar schools policy."
+            },
+            {
+                "policyTitle": "Delivering for Salisbury",
+                "policyDescription": "John Glen wants to ensure Salisbury receives strong representation and speaks of past investment."
+            }
+        ],
+        "mentions": {
+            "candidate": "John Glen",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Strong and Stable leadership for Brexit negotiations.",
+            "economy": "Create a stronger economy.",
+            "education": "Improving educational opportunities, including supporting grammar schools.",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "John Glen speaks about continuing to serve Salisbury and providing strong representation.",
+        "politicalExperience": [
+            {
+                "role": "Local representation",
+                "duration": "",
+                "achievements": "Fighting for Salisbury's priorities, investment in city's health and transport, support for veterans and campaigning on international human rights."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01722 323050",
+            "email": "john.glensalisbury@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "facebook.com/JohnGlenSalisbury",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "John Glen with Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet includes a figure of Theresa May with a message of support for her leadership on the front page."
+    }
+}

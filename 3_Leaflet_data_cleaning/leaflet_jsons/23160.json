@@ -1,0 +1,69 @@
+{
+    "leaflet": {
+        "candidateName": "Martin Vickers",
+        "constituency": "Cleethorpes Constituency",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Business Investment",
+                "policyDescription": "Bang the drum for business to invest locally, boosting the economy and bringing more jobs and opportunities to the area."
+            },
+            {
+                "policyTitle": "Infrastructure",
+                "policyDescription": "Ensure we have the road, rail and broadband infrastructure in place to help our local economy expand and grow."
+            },
+            {
+                "policyTitle": "Countryside Safeguard",
+                "policyDescription": "Safeguard our countryside by managing development and promoting the use of brown field sites first for construction."
+            }
+        ],
+        "mentions": {
+            "candidate": "Martin Vickers",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Boosting the economy by encouraging business investment locally.",
+            "education": "",
+            "environment": "Managing development and promoting the use of brown field sites to safeguard the countryside.",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Promoting the use of brown field sites first for construction.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A strong voice for Cleethorpes Constituency"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "SNP",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Who cares most for our health service?",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Health Service",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Who cares most for our health service?",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "NHSNP logo and a medical stethoscope with a stopwatch"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet suggests a focus on the health service by the SNP."
+  }
+}

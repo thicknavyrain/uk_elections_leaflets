@@ -1,0 +1,75 @@
+{
+  "leaflet": {
+    "candidateName": "Julia Lopez",
+    "constituency": "Hornchurch & Upminster",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Get Brexit done with our new deal"
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "£33.9 billion extra for the NHS"
+      },
+      {
+        "policyTitle": "Law and Order",
+        "policyDescription": "20,000 extra police officers"
+      }
+    ],
+    "mentions": {
+      "candidate": "Julia Lopez",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Get Brexit done with our new deal",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "£33.9 billion extra for the NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Julia Lopez with Boris Johnson"
+        },
+        {
+          "caption": "Julia Lopez at the House of Commons"
+        },
+        {
+          "caption": "Julia Lopez with children and adults in a classroom setting"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

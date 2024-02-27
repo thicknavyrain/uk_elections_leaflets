@@ -1,0 +1,87 @@
+{
+	"leaflet": {
+		"candidateName": "",
+		"constituency": "Ipswich",
+		"politicalParty": "Brexit Party",
+		"electionDate": "",
+		"messages": [
+			{
+				"title": "NO TO A SECOND REFERENDUM",
+				"content": "YES TO A REAL BREXIT"
+			}
+		],
+		"keyPolicies": [
+			{
+				"policyTitle": "Brexit",
+				"policyDescription": "Priority to stop a Corbyn-led Remainer alliance and a rigged second referendum. Promise not to extend the transition period beyond 2020 and to do a free trade deal that does not involve any political entanglement with the EU."
+			},
+			{
+				"policyTitle": "Governance",
+				"policyDescription": "Seeking democratic reforms to make Parliament serve the people."
+			}
+		],
+		"mentions": {
+			"candidate": "",
+			"otherPartyLeaderCandidate": "Jeremy Corbyn",
+			"partyLeader": "Nigel Farage",
+			"tacticalSituation": "Tactical voting consideration to prevent a Corbyn-led Labour and to take the fight to Corbyn's Labour in the Brexit heartlands."
+		},
+		"issues": {
+			"brexitEurope": "Priority to stop a Corbyn-led Remainer alliance and a rigged second referendum. Not extending transition period beyond 2020. A free trade deal without political entanglement with the EU.",
+			"economy": "",
+			"education": "",
+			"environment": "",
+			"governance": "Parliament's betrayal of the Brexit vote proves the political system is broken. Need for democratic reforms to make Parliament serve the People.",
+			"health": "",
+			"immigration": "",
+			"socialWelfare": "",
+			"housing": [
+				{
+					"content": "",
+					"yimbyNimby": "N/A"
+				}
+			]
+		},
+		"personalStatement": "",
+		"politicalExperience": [
+			{
+				"role": "Leader",
+				"duration": "",
+				"achievements": ""
+			}
+		],
+		"contactInformation": {
+			"address": "",
+			"phone": "",
+			"email": "",
+			"website": "",
+			"socialMedia": {
+				"facebook": "",
+				"twitter": "",
+				"instagram": "",
+				"linkedin": ""
+			}
+		},
+		"endorsements": [
+			{
+				"endorser": "",
+				"endorsement": ""
+			}
+		],
+		"quotes": [
+			{
+				"text": "",
+				"source": "",
+				"date": ""
+			}
+		],
+		"campaignMaterial": {
+			"images": [
+				{
+					"caption": "Leader of The Brexit Party"
+				}
+			]
+		},
+		"additionalNotes": ""
+	}
+}

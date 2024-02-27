@@ -1,0 +1,59 @@
+{
+    "leaflet": {
+        "candidateName": "Mary Macleod",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Mary Macleod",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "David Cameron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "433 Chiswick High Road, Chiswick W4 4AU",
+            "phone": "020 8994 1406",
+            "email": "mary@marymacleod.com",
+            "website": "www.marymacleod.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Mary Macleod and her team called to see you today"
+                },
+                {
+                    "caption": "Mary Macleod with David Cameron"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

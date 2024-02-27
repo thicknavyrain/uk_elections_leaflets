@@ -1,0 +1,94 @@
+{
+    "leaflet": {
+        "candidateName": "Emily Thornberry",
+        "constituency": "Islington South and Finsbury",
+        "politicalParty": "Labour",
+        "electionDate": "May 6th",
+        "messages": [
+            {
+                "title": "New jobs in Islington",
+                "content": "The leaflet mentions initiatives to create new jobs in Islington."
+            },
+            {
+                "title": "Tory threat to social housing",
+                "content": "The leaflet discusses the opposing party's threat to social housing."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Job Creation",
+                "policyDescription": "Plans to create more jobs, including green jobs with decent pay and conditions."
+            },
+            {
+                "policyTitle": "Social Housing",
+                "policyDescription": "Defend social housing from privatisation and maintain it under local authority control."
+            }
+        ],
+        "mentions": {
+            "candidate": "Emily has a track record of being actively involved in the community.",
+            "otherPartyLeaderCandidate": "Tory leaders and candidates are mentioned as a threat to social housing.",
+            "partyLeader": "",
+            "tacticalSituation": "The leaflet discusses tactical voting implications in the constituency."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "The leaflet talks about the financial crisis and job creation as a response.",
+            "education": "",
+            "environment": "Green jobs in the job creation policy imply an environmental aspect.",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "The social housing policy touches on social welfare concerns.",
+            "housing": [
+                {
+                    "content": "The leaflet indicates that Tory policies are a threat to social housing.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Emily's personal commitment to the community is highlighted.",
+        "politicalExperience": [
+            {
+                "role": "Labour MP",
+                "duration": "Since 2005",
+                "achievements": "The leaflet lists her activities and initiatives within the community."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0207 219 5649",
+            "email": "thornterrye@parliament.uk",
+            "website": "www.emilythornberry.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@EmilyThornberry",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Local people",
+                "endorsement": "The leaflet includes quotes and images suggesting endorsement by constituents."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Labour looks out for us. The Tories don't share my priorities.",
+                "source": "A local constituent",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Emily at work in the constituency."
+                },
+                {
+                    "caption": "Local resident discussing issues with Emily."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet frames a narrative of Emily as a community-focused MP with a strong emphasis on job creation, particularly green jobs, and defending social housing from Conservative policies."
+    }
+}

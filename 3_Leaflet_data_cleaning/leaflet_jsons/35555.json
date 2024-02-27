@@ -1,0 +1,82 @@
+{
+    "leaflet": {
+        "candidateName": "Pam",
+        "constituency": "",
+        "politicalParty": "Scottish Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "PICK PAM TODAY",
+                "content": "SPOT THE DIFFERENCE TOMORROW IT'S TIME FOR REAL CHANGE"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A \u00a310 Minimum Wage",
+                "policyDescription": "Pam endorses the implementation of a \u00a310 Minimum Wage."
+            },
+            {
+                "policyTitle": "Free Fibre Broadband",
+                "policyDescription": "Pam is advocating for Free Fibre Broadband access."
+            },
+            {
+                "policyTitle": "1000s of New Homes",
+                "policyDescription": "Pam proposes to build 1000s of New Homes."
+            },
+            {
+                "policyTitle": "A Green New Deal",
+                "policyDescription": "Pam supports a Green New Deal."
+            },
+            {
+                "policyTitle": "Remain in EU and UK",
+                "policyDescription": "Pam's stance is for the constituency to Remain in EU and UK."
+            }
+        ],
+        "mentions": {
+            "candidate": "Pam",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Remain in EU and UK",
+            "economy": "A \u00a310 Minimum Wage",
+            "education": "",
+            "environment": "A Green New Deal",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "Free Fibre Broadband",
+            "housing": [
+                {
+                    "content": "1000s of New Homes",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "290 Bath Street G2 4RE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of Pam, the candidate, holding campaign materials."
+                }
+            ]
+        },
+        "additionalNotes": "Polls open from 7am-10pm. Vote Scottish Labour."
+    }
+}

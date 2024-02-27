@@ -1,0 +1,89 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Swinson",
+        "constituency": "Rhayader",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "12 December",
+        "messages": [
+            {
+                "title": "Don't just take our word for it...",
+                "content": "Quotes from various sources criticizing Boris Johnson."
+            },
+            {
+                "title": "A Liberal Democrat vote can beat Boris Johnson here - and deliver a brighter future:",
+                "content": "Outlines reasons to vote for Liberal Democrats to prevent a majority for Boris Johnson and addresses environmental policy and NHS support."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Transform the climate by generating 80% of our electricity from renewables by 2030."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Every vote for the Liberal Democrats is a vote to stop Boris Johnson. It is a vote to build a brighter future where we tackle the climate emergency, address inequality, properly fund our NHS and mental health services, and give every child the best start in life."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "If you want to stop Boris Johnson getting a majority, vote Liberal Democrat on 12 December."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Every vote for the Liberal Democrats is a vote... and give every child the best start in life.",
+            "environment": "Every vote for the Liberal Democrats is a vote to stop Boris Johnson. It is a vote to build a brighter future where we tackle the climate emergency... Transform the climate by generating 80% of our electricity from renewables by 2030.",
+            "governance": "",
+            "health": "Every vote for the Liberal Democrats is a vote... properly fund our NHS and mental health services...",
+            "immigration": "",
+            "socialWelfare": "Every vote for the Liberal Democrats is a vote to stop Boris Johnson. It is a vote to build a brighter future where we tackle the climate emergency, address inequality...",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Dear Resident, In just a few days' time, you have the chance to decide the future of our country. This General Election is about choosing the kind of country we want to be - whether we are open, fair and inclusive, or closed, selfish and intolerant.",
+        "politicalExperience": [
+            {
+                "role": "Leader of the Liberal Democrats",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Boris Johnson is not fit to be Prime Minister.",
+                "source": "Liberal Democrats campaign material",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of Boris Johnson with negative quotes from various figures."
+                },
+                {
+                    "caption": "Image of Jo Swinson, Leader of the Liberal Democrats."
+                }
+            ]
+        },
+        "additionalNotes": "P.S. If you want to stop Boris Johnson getting a majority, vote Liberal Democrat on 12 December."
+    }
+}

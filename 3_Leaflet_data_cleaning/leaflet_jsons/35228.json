@@ -1,0 +1,92 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "7 May",
+        "messages": [
+            {
+                "title": "A BETTER PLAN FOR WORKING FAMILIES",
+                "content": "Labour has revealed its five pledges to the people of Britain ahead of the General Election on 7 May."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "We will build Britain's prosperity so that it extends to kitchen tables right around the country, and we'll make sure the NHS has the time to care."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Labour pledges include an extra 20,000 nurses, over 8,000 more doctors, midwives, and homecare workers, and freezing energy bills until 2017 while giving the regulator the power to cut bills this winter."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ed Miliband",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Ed Miliband",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "We will build Britain's prosperity",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "We'll make sure the NHS has the time to care.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "This election is a fight for the future of our country.",
+                "source": "Ed Miliband",
+                "date": ""
+            },
+            {
+                "text": "At the moment this country only works for those at the top because the Tories put a privileged few before the hardworking majority.",
+                "source": "Ed Miliband",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Labour Leader Ed Miliband announces Labour's better plan for working families."
+                }
+            ]
+        },
+        "additionalNotes": "None of Labour's commitments will require any extra borrowing."
+    }
+}

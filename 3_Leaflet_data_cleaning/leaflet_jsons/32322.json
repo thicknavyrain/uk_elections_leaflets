@@ -1,0 +1,107 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 12 December",
+	"messages": [
+  	{
+    	"title": "You can’t trust Boris Johnson’s Tories.",
+    	"content": "Boris Johnson represents a privileged elite that has failed the country. A decade of Conservative cuts has damaged our economy, our communities and our public services."
+  	},
+  	{
+    	"title": "It’s time for real change.",
+    	"content": "Labour stands for the real change Britain needs."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Reward workers, pensioners and those in need, not just the richest",
+    	"policyDescription": "Labour aims to shift focus on rewarding workers, pensioners and those in need rather than just the wealthiest individuals."
+  	},
+  	{
+    	"policyTitle": "Increase funding for the NHS with more nurses and doctors to give patients the care they need",
+    	"policyDescription": "Labour proposes to increase funding for the NHS which includes hiring more nurses and doctors to enhance patient care."
+  	},
+  	{
+    	"policyTitle": "End homelessness and make housing affordable to rent or buy",
+    	"policyDescription": "Labour has plans to end homelessness and to make housing more affordable for renting or purchasing."
+  	},
+  	{
+    	"policyTitle": "Kick start a Green Industrial Revolution to tackle the climate emergency and create high skilled, high wage jobs",
+    	"policyDescription": "Labour will initiate a Green Industrial Revolution to address the climate crisis and create jobs that are high skilled and well paid."
+  	},
+  	{
+    	"policyTitle": "Invest in every community, delivering good jobs and the skills people need, so that no one is held back or left behind",
+    	"policyDescription": "Labour intends to invest in all communities ensuring the availability of good jobs and essential skills, preventing anyone from being disadvantaged or excluded."
+  	},
+  	{
+    	"policyTitle": "Get Brexit sorted by giving the people the final say",
+    	"policyDescription": "Labour wants to resolve Brexit by allowing the public to have the final decision."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Boris Johnson",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "Get Brexit sorted by giving the people the final say",
+  	"economy": "Boris Johnson represents a privileged elite that has failed the country. A decade of Conservative cuts has damaged our economy",
+  	"education": "",
+  	"environment": "Kick start a Green Industrial Revolution to tackle the climate emergency and create high skilled, high wage jobs",
+  	"governance": "",
+  	"health": "Increase funding for the NHS with more nurses and doctors to give patients the care they need",
+  	"immigration": "",
+  	"socialWelfare": "Reward workers, pensioners and those in need, not just the richest",
+  	"housing": [
+    	{
+      	"content":"End homelessness and make housing affordable to rent or buy",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "It’s time for real change."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

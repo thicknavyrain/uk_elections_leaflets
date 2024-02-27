@@ -1,0 +1,83 @@
+{
+    "leaflet": {
+        "candidateName": "Ed Mayne",
+        "constituency": "Epsom & Ewell",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Local schools budgets slashed",
+                "content": "Conservative cuts are starving schools of funding, risking our children's future. Ed Mayne will fight these cuts."
+            },
+            {
+                "title": "Tory campaign in chaos and confusion",
+                "content": "Theresa May has thrown her own campaign into chaos and confusion. Ed Mayne argues Labour will stand up for older people and provide the security and dignity they deserve."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local schools",
+                "policyDescription": "Opposes cuts to local schools and will fight to prevent turning schools into academies without local consent."
+            },
+            {
+                "policyTitle": "Pensions",
+                "policyDescription": "Against the Conservative proposals, promises to secure pensions with the 'Triple-Lock' system."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ed Mayne",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "A fair and safe Brexit. Labour will seek to retain the benefits of the EU Single Market & Customs Union plus an EU Rights and Protections Bill.",
+            "economy": "",
+            "education": "Local schools budgets slashed. Ed Mayne will fight these cuts.",
+            "environment": "",
+            "governance": "",
+            "health": "Take back central services to the NHS and integrate the social services.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Build more homes for local families which they can afford to live in.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "For too long, Epsom's voice hasn't been heard in Westminster.",
+        "politicalExperience": [
+            {
+                "role": "Previous MP for Epsom & Ewell",
+                "duration": "the past year",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Shaw Close, Epsom, Surrey KT17 1JP",
+            "phone": "07763 512 428",
+            "email": "ed@epsomandewell.labour.co.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@ee_labour",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Ed Mayne visiting local school"
+                },
+                {
+                    "caption": "Ed Mayne in Epsom"
+                }
+            ]
+        },
+        "additionalNotes": "Leaflet promotes recycling with a 'Please recycle' message."
+    }
+}

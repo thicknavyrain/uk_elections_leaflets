@@ -1,0 +1,95 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 5 May",
+        "messages": [
+            {
+                "title": "Our pledges for flourishing communities",
+                "content": "Protection for the post offices and pubs on which many people rely... investment for those hit hardest by Tory cuts... support for local businesses... better bus services... investment in digital infrastructure... Rapid Response officers to tackle anti-social behaviour."
+            },
+            {
+                "title": "Britain in the world",
+                "content": "Labour is committed to a secure, financially protected and grounded Britain that plays a part on the global stage."
+            },
+            {
+                "title": "Our pledges for a safer and fairer world",
+                "content": "Ensure our British Defense Review to equip our Armed Forces for 21st century challenges... Use international means to build security and stability... Prioritise education and health internationally... Lead the world as an outgoing active European Union member... Reverse the government's planned cuts to the Navy and Air Force... Hold the governments to account for their broken promises."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Defense and Security",
+                "policyDescription": "Conduct a Strategic Defense Review to equip our Armed Forces for 21st century challenges, prioritise education and health internationally, and reverse cuts to the Navy and Air Force."
+            },
+            {
+                "policyTitle": "International Relations",
+                "policyDescription": "Utilize international means to build security and stability, including leadership as an active European Union member and promoting global economic justice."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Lead the world as an outgoing active European Union member.",
+            "economy": "Support for local businesses, better bus services, investment in digital infrastructure.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Prioritise education and health internationally.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk/policies",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The Tories have failed, Labour is the real alternative",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

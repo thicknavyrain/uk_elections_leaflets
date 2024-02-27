@@ -1,0 +1,95 @@
+{
+	"leaflet": {
+		"candidateName": "",
+		"constituency": "",
+		"politicalParty": "Labour",
+		"electionDate": "Thursday May 3rd",
+		"messages": [
+			{
+				"title": "TIME IS RUNNING OUT",
+				"content": "Vote Labour on Thursday"
+			},
+			{
+				"title": "Labour has a better plan for a better future.",
+				"content": "Six concrete pledges."
+			}
+		],
+		"keyPolicies": [
+			{
+				"policyTitle": "Protecting Healthcare Service",
+				"policyDescription": "Labour will recruit 2500 more nurses and midwives."
+			},
+			{
+				"policyTitle": "Housing Developments",
+				"policyDescription": "Planning authorities to be given stronger powers to ensure developments benefit the area and are affordable."
+			},
+			{
+				"policyTitle": "Community Safety",
+				"policyDescription": "Ensure police numbers are maintained to keep communities safe."
+			}
+		],
+		"mentions": {
+			"candidate": "",
+			"otherPartyLeaderCandidate": "",
+			"partyLeader": "",
+			"tacticalSituation": ""
+		},
+		"issues": {
+			"brexitEurope": "",
+			"economy": "",
+			"education": "",
+			"environment": "",
+			"governance": "",
+			"health": "The services we all rely on are at risk. Labour will recruit 2500 more nurses and midwives.",
+			"immigration": "",
+			"socialWelfare": "",
+			"housing": [
+				{
+					"content":"Planning authorities to be given stronger powers to ensure developments benefit the area and are affordable.",
+					"yimbyNimby": "N/A"
+				}
+			]
+		},
+		"personalStatement": "",
+		"politicalExperience": [
+			{
+				"role": "",
+				"duration": "",
+				"achievements": ""
+			}
+		],
+		"contactInformation": {
+			"address": "",
+			"phone": "",
+			"email": "",
+			"website": "",
+			"socialMedia": {
+				"facebook": "",
+				"twitter": "",
+				"instagram": "",
+				"linkedin": ""
+			}
+		},
+		"endorsements": [
+			{
+				"endorser": "",
+				"endorsement": ""
+			}
+		],
+		"quotes": [
+			{
+				"text": "",
+				"source": "",
+				"date": ""
+			}
+		],
+		"campaignMaterial": {
+			"images": [
+				{
+					"caption": "Vote Labour on Thursday"
+				}
+			]
+		},
+		"additionalNotes": ""
+	}
+}

@@ -1,0 +1,86 @@
+{
+    "leaflet": {
+        "candidateName": "David Cameron",
+        "constituency": "Middlesbrough",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A PERSONAL MESSAGE FROM DAVID CAMERON WHY WE NEED CHANGE IN BRITAIN TODAY",
+                "content": "Thirteen years ago Labour were elected promising change. But today, with a failing economy and a growing gap between rich and poor, a lot of people tell me that they don't need to give up hope for a fairer, stronger country. The Conservative Party has the energy and ideas to change Britain."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "We'll get the economy moving and improve it for everyone."
+            },
+            {
+                "policyTitle": "Employment",
+                "policyDescription": "Our plans will create 400,000 new apprenticeships, training places and work pairings."
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "We\u2019ll stop Labour's jobs tax which will kill the recovery, meaning that seven out of ten jobs taking will be better off than under Labour."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "I'm personally committed to the NHS, so we'll increase spending and tackle the debt, while protecting and improving NHS services."
+            },
+            {
+                "policyTitle": "Social Welfare",
+                "policyDescription": "We'll help your family budget by working with local councils to freeze council tax for two years. We'll raise the basic state pension in line with earnings and protect winter fuel payments."
+            },
+            {
+                "policyTitle": "Family and Elderly Support",
+                "policyDescription": "We\u2019ll make Britain the most family-friendly country in Europe, keeping tax credits, improving Sure Start and providing 4,200 extra Sure Start health visitors."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Cameron",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "We'll get the economy moving and improve it for everyone.",
+            "education": "",
+            "environment": "",
+            "governance": "We'll stop Labour's jobs tax which will kill the recovery.",
+            "health": "Increase spending and tackle the debt, while protecting and improving NHS services.",
+            "immigration": "",
+            "socialWelfare": "Help your family budget by working with local councils to freeze council tax for two years.",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "The choice at this election is clear: five more years of Gordon Brown\u2019s tired old government making things worse or change with the Conservatives.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Cameron with various groups of people, including speaking at an event, interacting with children, visiting an elderly woman, and conversing with a worker."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "leaflet": {
+        "candidateName": "Stuart King",
+        "constituency": "West Putney",
+        "politicalParty": "Labour",
+        "electionDate": "6th May",
+        "messages": [
+            {
+                "title": "Overdevelopment we can't go on like this",
+                "content": "The defining local issue of the Putney election has been the threat of overdevelopment."
+            },
+            {
+                "title": "Only Labour can defeat the Tories",
+                "content": "It's a two horse race here. The Lib Dems and Greens can't win in West Putney."
+            },
+            {
+                "title": "Our first five West Putney pledges",
+                "content": "Pride in Putney, Curbing youth centre crime, Halting the Tory overdevelopment threat, More affordable homes, Live-in caretakers returned to our estates"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Pride in Putney",
+                "policyDescription": "Tackling litter and fly-tipping."
+            },
+            {
+                "policyTitle": "Curbing youth centre crime",
+                "policyDescription": "Labour has a positive plan to turn around the shocking state of Putney's youth and leisure provision and cut youth crime."
+            },
+            {
+                "policyTitle": "Halting the Tory overdevelopment threat",
+                "policyDescription": "Oppose inappropriate developments and threats to local areas, including Upper Richmond Road and Dover House area."
+            },
+            {
+                "policyTitle": "More affordable homes",
+                "policyDescription": "Pledge to build more private and affordable homes and revitalize town centres."
+            },
+            {
+                "policyTitle": "Live-in caretakers returned to our estates",
+                "policyDescription": "Ensuring Ashburton and Eastwood estates can be better looked after, by bringing back live-in caretakers."
+            }
+        ],
+        "mentions": {
+            "candidate": "Stuart King",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "It's a two horse race here. The Lib Dems and Greens can't win in West Putney"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "Pride in Putney - Tackling litter and fly-tipping.",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Pledge to build more private and affordable homes and revitalize town centres.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "West Putney's local Labour team with images of Maureen Booker, Daniel Lawless, and Patrick Macfarlane."
+                },
+                {
+                    "caption": "Heading 'Two elections on 6th May' with instructions on how to vote."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

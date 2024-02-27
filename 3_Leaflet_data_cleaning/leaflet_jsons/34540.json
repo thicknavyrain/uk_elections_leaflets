@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Scottish Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "WHO IS REALLY ON YOUR SIDE?",
+        "content": "Dealing with Brexit: Jo Swinson's Liberal Democrats - Leading the fight to Stop Brexit. Independence chaos: Stop the divide and chaos of independence. A plan for the future: Investing in schools, mental health, and tackling the climate emergency."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Leading the fight to Stop Brexit."
+      },
+      {
+        "policyTitle": "Independence",
+        "policyDescription": "Stop the divide and chaos of independence."
+      },
+      {
+        "policyTitle": "Investment",
+        "policyDescription": "Investing in schools, mental health, and tackling the climate emergency."
+      }
+    ],
+    "mentions": {
+      "candidate": "Jo Swinson's Liberal Democrats",
+      "otherPartyLeaderCandidate": "Boris Johnson's Conservatives, Jeremy Corbyn's Labour Party",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Leading the fight to Stop Brexit.",
+      "economy": "",
+      "education": "Investing in schools.",
+      "environment": "Tackling the climate emergency.",
+      "governance": "",
+      "health": "Investing in mental health.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.LibDems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The SNP have let Scotland down. It's time to build a brighter future",
+        "source": "News from Jo Swinson's Liberal Democrats",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jo Swinson's Liberal Democrats - Leading the fight to Stop Brexit."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Ed Miliband",
+      "otherPartyLeaderCandidate": "Nigel Farage, Alex Salmond, Vince Cable",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Labour plan to borrow £170bn risks extra debt.",
+      "education": "",
+      "environment": "",
+      "governance": "Miliband will bankrupt Britain.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Labour plan to borrow £170bn risks extra debt.",
+        "source": "Times",
+        "date": "13/03/15"
+      },
+      {
+        "text": "Miliband will bankrupt Britain.",
+        "source": "Daily Mail",
+        "date": "04/02/15"
+      },
+      {
+        "text": "Voting for UKIP will hand keys of No. 10 to Miliband, poll finds.",
+        "source": "The Mail Online",
+        "date": "17/10/14"
+      },
+      {
+        "text": "Labour is plotting Scottish alliance.",
+        "source": "Sun",
+        "date": "03/04/15"
+      },
+      {
+        "text": "'I’ll be the power broker in Westminster,' says Salmond.",
+        "source": "The Daily Mail",
+        "date": "08/12/14"
+      },
+      {
+        "text": "Vince Cable: Lib Dems could enter rainbow coalition with Labour and SNP.",
+        "source": "The Herald",
+        "date": "18/02/15"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Ed Miliband surrounded by Nigel Farage, Alex Salmond, Vince Cable with headlines suggesting negative outcomes of his potential leadership."
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet appears to be an attack advertisement focusing on the potential negative consequences of Ed Miliband's leadership and hypothetical alliances with other parties."
+  }
+}

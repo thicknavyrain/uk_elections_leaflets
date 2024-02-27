@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+	"candidateName": "John Spottiswoode",
+	"constituency": "Southampton Test",
+	"politicalParty": "Green Party",
+	"electionDate": "May 6th",
+	"messages": [
+  	{
+    	"title": "FAIR'S WORTH FIGHTING FOR",
+    	"content": "The Green Party is the only party that's always fought for fairness and always will."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "A Living Wage",
+    	"policyDescription": "Fight for living wages for all, working for fairness in pay."
+  	},
+  	{
+    	"policyTitle": "A Million More Jobs",
+    	"policyDescription": "Pushing for investment in a fairer economy to create a million more jobs."
+  	},
+  	{
+    	"policyTitle": "Protect our NHS",
+    	"policyDescription": "Protect our NHS from cuts and privatisation, keeping it out of American healthcare deals."
+  	}
+	],
+	"mentions": {
+  	"candidate": "John Spottiswoode has lived in Southampton for over 15 years.",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": "John Spottiswoode has been a consistent campaigner on local issues"
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "Will fight for a fairer economy to create jobs.",
+  	"education": "Fought for investment in education.",
+  	"environment": "Helped to start up a local recycling scheme.",
+  	"governance": "",
+  	"health": "Will protect the NHS from cuts and privatisation.",
+  	"immigration": "",
+  	"socialWelfare": "Fought for local pensioners against the unfair pension credit system.",
+  	"housing": [
+    	{
+      	"content":"Wants investment in an affordable place to live for everyone.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "Green Party member",
+    	"duration": "over 15 years",
+    	"achievements": "A consistent campaigner on local issues"
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "john@greenparty.org.uk",
+  	"website": "www.greenparty.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "John and the Green Party are committed to..."
+    	}
+  	]
+	},
+	"additionalNotes": "John has helped to start up a local recycling scheme and has fought hard for local pensioners against the unfair pension credit system."
+  }
+}

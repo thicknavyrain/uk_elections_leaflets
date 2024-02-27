@@ -1,0 +1,95 @@
+{
+  "leaflet": {
+    "candidateName": "Bridget Fox",
+    "constituency": "Islington",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Vote Conservative get Labour again",
+        "content": "Only Bridget Fox's Lib Dems can beat Labour in Islington."
+      },
+      {
+        "title": "DO YOU WANT TO HELP GORDON?",
+        "content": "Voting Conservative will put a smile on his face."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Tax",
+        "policyDescription": "Cutting tax for those on middle and low incomes."
+      },
+      {
+        "policyTitle": "Police",
+        "policyDescription": "More police on patrol."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Protecting our NHS."
+      }
+    ],
+    "mentions": {
+      "candidate": "Bridget Fox",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": "In Islington the Conservatives are in a poor third place and cannot win. Not voting or voting Conservative will just help Labour win again."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Protecting our NHS.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Former Conservative candidate for Islington South & Finsbury",
+        "endorsement": "Backing the Lib Dems - he knows the Lib Dems are the only party that can deliver change for Islington."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Only Bridget Fox's Lib Dems can beat Labour here. No other result is possible.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Photo of Gordon Brown smiling"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

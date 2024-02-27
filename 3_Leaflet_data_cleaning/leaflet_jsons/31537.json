@@ -1,0 +1,116 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "LET'S GET BREXIT DONE",
+                "content": "So we can focus on YOUR priorities."
+            },
+            {
+                "title": "Labour = more delay, more confusion, more indecision",
+                "content": ""
+            },
+            {
+                "title": "The Labour Party can't govern itself, much less Britain",
+                "content": ""
+            },
+            {
+                "title": "BAFFLED BY LABOUR'S BREXIT POLICY? YOU\u2019RE NOT ALONE",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "By getting Brexit done, we can get on with the priorities we all share."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "More money for hospitals"
+            },
+            {
+                "policyTitle": "Policing",
+                "policyDescription": "20,000 extra police officers"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More money for every single school"
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "By getting Brexit done, we can get on with the priorities we all share.",
+            "economy": "A Corbyn government would deliver more confusion and delay and NOTHING else would get done. Harming our economy and leaving you and your family to pay the price.",
+            "education": "More money for every single school",
+            "environment": "",
+            "governance": "The Labour Party can't govern itself, much less Britain",
+            "health": "More money for hospitals",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "A Corbyn government would deliver more confusion and delay and NOTHING else would get done. Harming our economy and leaving you and your family to pay the price.",
+                "source": "The Times, 11 September 2019",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "LET'S GET BREXIT DONE"
+                },
+                {
+                    "caption": "Labour = more delay, more confusion, more indecision"
+                },
+                {
+                    "caption": "The Labour Party can't govern itself, much less Britain"
+                },
+                {
+                    "caption": "BAFFLED BY LABOUR'S BREXIT POLICY? YOU\u2019RE NOT ALONE"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

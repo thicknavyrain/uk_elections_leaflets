@@ -1,0 +1,74 @@
+{
+    "leaflet": {
+        "candidateName": "Duncan Enright",
+        "constituency": "Witney Constituency",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [
+            {
+                "title": "I will be an MP for West Oxfordshire",
+                "content": "not Westminster, focussed on the best for our communities: better roads, good local jobs, and affordable homes."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Better Roads",
+                "policyDescription": "Focus on improving roads."
+            },
+            {
+                "policyTitle": "Good Local Jobs",
+                "policyDescription": "Commitment to creating and sustaining good local jobs."
+            },
+            {
+                "policyTitle": "Affordable Homes",
+                "policyDescription": "Ensure homes are affordable."
+            }
+        ],
+        "mentions": {
+            "candidate": "Duncan Enright",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Affordable homes",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I will be an MP for West Oxfordshire, not Westminster, focussed on the best for our communities.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Duncan Enright, smiling, with text encouraging to vote for him as the Labour candidate for Witney Constituency."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,86 @@
+{
+  "leaflet": {
+	"candidateName": "Tom",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+	],
+	"keyPolicies": [
+	],
+	"mentions": {
+	  "candidate": "I know Tom personally, so I know he will always put this constituency first. - Mary Leggat Local resident",
+	  "otherPartyLeaderCandidate": "",
+	  "partyLeader": "",
+	  "tacticalSituation": ""
+	},
+	"issues": {
+	  "brexitEurope": "",
+	  "economy": "As a life-long trade unionist, I’m proud that Labour introduced the minimum wage. - Hugh Gourlay",
+	  "education": "",
+	  "environment": "",
+	  "governance": "We need a Labour government to protect the devolution settlement. - Archie Graham",
+	  "health": "",
+	  "immigration": "",
+	  "socialWelfare": "Only Labour understands the value of the winter heating allowance. - Edith Quinn. Removing it would be a disaster.",
+	  "housing": [
+		{
+		  "content":"",
+		  "yimbyNimby": "N/A"
+		}
+	  ]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	],
+	"contactInformation": {
+	  "address": "",
+	  "phone": "",
+	  "email": "",
+	  "website": "",
+	  "socialMedia": {
+		"facebook": "",
+		"twitter": "",
+		"instagram": "",
+		"linkedin": ""
+	  }
+	},
+	"endorsements": [
+	  {
+		"endorser": "Mary Leggat",
+		"endorsement": "I know Tom personally, so I know he will always put this constituency first."
+	  },
+	  {
+		"endorser": "Hugh Gourlay",
+		"endorsement": "As a life-long trade unionist, I’m proud that Labour introduced the minimum wage."
+	  },
+	  {
+		"endorser": "Edith Quinn",
+		"endorsement": "Only Labour understands the value of the winter heating allowance. Removing it would be a disaster."
+	  },
+	  {
+		"endorser": "Archie Graham",
+		"endorsement": "We need a Labour government to protect the devolution settlement."
+	  }
+	],
+	"quotes": [
+	],
+	"campaignMaterial": {
+	  "images": [
+		{
+		  "caption": "Mary Leggat - Local resident"
+		},
+		{
+		  "caption": "Hugh Gourlay - Local man"
+		},
+		{
+		  "caption": "Edith Quinn - Local woman"
+		},
+		{
+		  "caption": "Archie Graham - Popular local councillor"
+		}
+	  ]
+	},
+	"additionalNotes": ""
+  }
+}

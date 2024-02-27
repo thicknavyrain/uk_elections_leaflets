@@ -1,0 +1,52 @@
+{
+    "leaflet": {
+        "candidateName": "Victoria Groulef",
+        "constituency": "Reading West",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [
+            {
+                "title": "Best for Reading West",
+                "content": "The government wasted billions on a top-down reorganisation of our NHS, money that could have been better spent protecting front-line staff."
+            },
+            {
+                "title": "Best for our NHS",
+                "content": "When partners at Circuit Lane Surgery took the difficult decision to resign their NHS contract, Victoria worked with local residents to keep the surgery open in public hands. As a result, the surgery will stay in the hands of an NHS provider on an interim basis."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "A Labour government would invest in our NHS, guarantee a GP appointment within 48 hours and bring back the cancer drugs fund for tests for cancer patients."
+            }
+        ],
+        "mentions": {
+            "candidate": "Victoria worked with local residents to keep the surgery open in public hands. As a result, the surgery will stay in the hands of an NHS provider on an interim basis."
+        },
+        "issues": {
+            "health": "A Labour government would invest in our NHS, guarantee a GP appointment within 48 hours and bring back the cancer drugs fund for tests for cancer patients."
+        },
+        "contactInformation": {
+            "address": "FREPOST RSBA-LTSH-BRCS 3 Windsor Square Silver Street Reading RG1 2TH",
+            "phone": "0118 923 9404",
+            "email": "Victoria@victoriagroulef.co.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "Victoria Groulef",
+                "twitter": "@VictoriaGroulef",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Victoria with local residents campaigning to keep Circuit Lane Surgery open."
+                },
+                {
+                    "caption": "Victoria with a supporter."
+                }
+            ]
+        }
+    }
+}

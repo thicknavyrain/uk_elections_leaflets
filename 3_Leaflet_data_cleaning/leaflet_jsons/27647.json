@@ -1,0 +1,73 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "YOUR CHOICE AT THIS ELECTION:",
+        "content": "Strong, stable leadership in the national interest or a coalition of chaos with Jeremy Corbyn"
+      },
+      {
+        "title": "GENERAL ELECTION: THURSDAY 8th JUNE",
+        "content": "Strong and stable leadership for the best possible deal from Brexit and a growing economy to secure our future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "The leaflet argues for the best Brexit deal possible and stresses the need for strong leadership to secure that deal."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "The leaflet suggests that a vote for the candidate is a vote to avoid chaos and to ensure strong and stable leadership."
+    },
+    "issues": {
+      "brexitEurope": "The leaflet emphasizes the importance of securing the best possible Brexit deal and strong leadership through Brexit and beyond.",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "Getting on with the job and making Brexit work is vital.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Promoted by Daisy Pick, on behalf of Michael Ellis, both of 78 St George's Avenue, Northampton NN2 6JF. Printed by J&S Print Ltd, 92 Lower Parliament Street, Nottingham, Nottinghamshire NG1 1EH",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "YOUR CHOICE AT THIS ELECTION: STRONG, STABLE LEADERSHIP IN THE NATIONAL INTEREST or A COALITION OF CHAOS WITH JEREMY CORBYN"
+        },
+        {
+          "caption": "GENERAL ELECTION: THURSDAY 8th JUNE STRONG AND STABLE LEADERSHIP THE BEST POSSIBLE DEAL FROM BREXIT A GROWING ECONOMY TO SECURE OUR FUTURE"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

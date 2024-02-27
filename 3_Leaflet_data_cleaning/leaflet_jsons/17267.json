@@ -1,0 +1,72 @@
+{
+    "leaflet": {
+        "candidateName": "Andy Slaughter",
+        "constituency": "Hammersmith",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7 May",
+        "messages": [
+            {
+                "title": "SAVE OUR HOSPITALS",
+                "content": "A Labour Government will tackle the housing crisis. Five more years of the Conservatives will make it worse."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Labour will build 200,000 new homes across the country each year. We will cap rent rises, give longer tenancies in the private sector and scrap the hated bedroom tax. Five more years of Conservative government will just mean luxury flats for the super-rich - and another generation growing up in poor quality, expensive and insecure homes."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andy Slaughter",
+            "otherPartyLeaderCandidate": "Conservatives",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Every year I deal with thousands of housing problems in Hammersmith, from repairs and overpriced private rents to cramped conditions. I see families growing up in service charges without ever having the chance of a decent place to live at a price they can afford. The lack of council and housing association homes means people are pushed into the expensive private rented sector.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Labour MP for Hammersmith",
+                "duration": "",
+                "achievements": "Fighting for better homes in Shepherds Bush, Hammersmith and Fulham."
+            }
+        ],
+        "contactInformation": {
+            "address": "28 Greyhound Road, London, W6 8NX",
+            "phone": "020 7610 1950",
+            "email": "andy@andyslaughter.com",
+            "website": "www.andyslaughter.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "HammersmithAndy",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "SAVE OUR HOSPITALS - Andy Slaughter MP for Hammersmith Fighting for You"
+                }
+            ]
+        },
+        "additionalNotes": "A Labour government will make the housing situation better by stopping demolitions of flats and estates, by building affordable homes, and by ensuring that affordable developers are being built. However, continued Conservative leadership will exacerbate the housing crisis by selling off empty council homes, diminishing local authority homes and taking security from tenants."
+    }
+}

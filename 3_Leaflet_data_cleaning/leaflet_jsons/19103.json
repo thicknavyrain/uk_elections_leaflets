@@ -1,0 +1,78 @@
+{
+    "leaflet": {
+        "candidateName": "Gulnar HASNAIN",
+        "constituency": "",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Vote for change, vote to...",
+                "content": "make housing affordable support local businesses save our libraries protect our parks"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "make housing affordable"
+            },
+            {
+                "policyTitle": "Local Businesses",
+                "policyDescription": "support local businesses"
+            },
+            {
+                "policyTitle": "Libraries",
+                "policyDescription": "save our libraries"
+            },
+            {
+                "policyTitle": "Parks",
+                "policyDescription": "protect our parks"
+            }
+        ],
+        "mentions": {
+            "candidate": "Gulnar HASNAIN",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "make housing affordable",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Gulnar HASNAIN"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

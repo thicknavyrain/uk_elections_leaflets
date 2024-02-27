@@ -1,0 +1,91 @@
+{
+  "leaflet": {
+    "candidateName": "Jill Rawling",
+    "constituency": "Woking",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [
+      {
+        "title": "",
+        "content": "I will ensure that the NHS is better funded, and that Woking gets more local schools and more affordable housing"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Ensure that the NHS is better funded"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Woking gets more local schools"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Woking gets more affordable housing"
+      }
+    ],
+    "mentions": {
+      "candidate": "Jill Rawling",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Ensure that the NHS is better funded",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Woking gets more affordable housing",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Jill Rawling - Labour candidate for Woking"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

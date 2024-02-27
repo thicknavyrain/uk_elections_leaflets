@@ -1,0 +1,73 @@
+{
+  "leaflet": {
+    "candidateName": "Lois Davis",
+    "constituency": "Battersea",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "A chance to keep EU laws that protect our environment",
+        "policyDescription": "Advocating for the retention of EU environmental protection laws."
+      },
+      {
+        "policyTitle": "A fair voting system",
+        "policyDescription": "Supporting electoral reform towards a more representative voting system."
+      },
+      {
+        "policyTitle": "Genuinely affordable homes and living rents",
+        "policyDescription": "Promoting the development of affordable housing and the establishment of living rents."
+      },
+      {
+        "policyTitle": "An NHS run for patients not profits",
+        "policyDescription": "Emphasizing the need for a National Health Service that prioritizes patient care over profitability."
+      }
+    ],
+    "mentions": {
+      "candidate": "Lois Davis",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "Advocating for the retention of EU environmental protection laws.",
+      "governance": "Supporting electoral reform towards a more representative voting system.",
+      "health": "Emphasizing the need for a National Health Service that prioritizes patient care over profitability.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Promoting the development of affordable housing and the establishment of living rents.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Lois Davis in front of an industrial backdrop with the slogan 'TIME TO STAND UP FOR WHAT MATTERS'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

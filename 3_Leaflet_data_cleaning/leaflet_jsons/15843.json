@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+  "candidateName": "Nigel Farage",
+  "constituency": "Purfleet",
+  "politicalParty": "UKIP",
+  "electionDate": "Monday 13th April",
+  "messages": [
+    {
+      "title": "Nigel Farage at the Circus Tavern",
+      "content": "You are invited to an evening with Nigel Farage at the Circus Tavern in Purfleet on Monday 13th April."
+    }
+  ],
+  "keyPolicies": [],
+  "mentions": {
+    "candidate": "Nigel Farage",
+    "otherPartyLeaderCandidate": "Tim Aker",
+    "partyLeader": "",
+    "tacticalSituation": ""
+  },
+  "issues": {
+    "brexitEurope": "",
+    "economy": "",
+    "education": "",
+    "environment": "",
+    "governance": "",
+    "health": "",
+    "immigration": "",
+    "socialWelfare": "",
+    "housing": [
+      {
+        "content":"",
+        "yimbyNimby": "N/A"
+      }
+    ]
+  },
+  "personalStatement": "",
+  "politicalExperience": [],
+  "contactInformation": {
+    "address": "Circus Tavern, Purfleet, RM19 1TS",
+    "phone": "01375 374 352",
+    "email": "",
+    "website": "ticketsource.co.uk/ukip",
+    "socialMedia": {
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "linkedin": ""
+    }
+  },
+  "endorsements": [],
+  "quotes": [],
+  "campaignMaterial": {
+    "images": [
+      {
+        "caption": "Nigel Farage at the Circus Tavern"
+      }
+    ]
+  },
+  "additionalNotes": "The leaflet is an invitation for an event with the candidate Nigel Farage and does not detail specific policies or campaign promises."
+  }
+}

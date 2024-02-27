@@ -1,0 +1,71 @@
+{
+    "leaflet": {
+        "candidateName": "Russell Perrin",
+        "constituency": "Cambridge",
+        "politicalParty": "Conservative",
+        "electionDate": "12th of December",
+        "messages": [
+            {
+                "title": "You can use your local vote to get on with the priorities we all share.",
+                "content": "A majority government can build on our progress and invest in the priorities we all share. Because a majority government can finally get Brexit out of the way."
+            },
+            {
+                "title": "We can\u2019t afford to go back to square one. But that\u2019s exactly where another hung parliament would take us. So your local vote has never been more important.",
+                "content": "Don't risk five long years of Jeremy Corbyn. Use your vote to vote for the Conservative to secure a majority government."
+            },
+            {
+                "title": "On the 12th of December, you\u2019ll cast your vote. So the next five years are now down to you and your local vote in Cambridge.",
+                "content": "It's easy to forget, but in 2010 the country looked very different. Public finances in chaos. Out-of-control spending. More and more people unemployed."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done with a deal that protects jobs and trade."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Invest in our NHS \u2013 Investing in a state of the art hospital at Addenbrookes."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Increasing funding for Cambridge Schools \u2013 More pupil funding including \u00a3780m in SEND provision."
+            },
+            {
+                "policyTitle": "Infrastructure",
+                "policyDescription": "Building a better Cambridge \u2013 Investing in the A428 upgrade and the south Cambridge railway station and opposing the introduction of a City Congestion Charge."
+            }
+        ],
+        "mentions": {
+            "candidate": "Russell Perrin",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "At the last election, the Conservatives were only nine seats short of a majority. This election will be just as close \u2013 and Cambridge is one of the seats Boris Johnson needs to win; so, will you use your vote to secure a majority government?"
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done with a deal that protects jobs and trade.",
+            "economy": "A growing economy.",
+            "education": "More pupil funding including \u00a3780m in SEND provision.",
+            "health": "Investing in a state of the art hospital at Addenbrookes.",
+            "housing": [
+                {
+                    "content": "Invest in our NHS \u2013 Investing in a state of the art hospital at Addenbrookes.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "20 Station Road, Cambridge, CB12JD",
+            "website": "www.cambridgeconservatives.org.uk"
+        },
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Russell Perrin"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

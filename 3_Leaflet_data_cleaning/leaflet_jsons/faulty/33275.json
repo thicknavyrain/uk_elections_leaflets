@@ -1,0 +1,89 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Nick Morphet",
+    "constituency": "Hexham",
+    "politicalParty": "Green Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A GREEN NEW DEAL FOR TYNEDALE AND PONTELAND",
+        "content": "The Green New Deal is an economic reform package designed to combat climate breakdown and inequality. It will ensure a "just transition" to a better society in which nobody gets left behind."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Support the Green New Deal for economic transformation, stimulate economic growth with universal basic income (UBI), support starting and growing businesses."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Combat climate change through the Green New Deal with a focus on five most polluting sectors – transport, industry, buildings, energy and agriculture."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Morphet",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Caroline Lucas",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Nick Morphet says, 'Brexit was caused by a divided society - and can divide it more if not handled as everyone’s simple democratic return.'",
+      "economy": "Universal basic income (UBI) to ensure economic growth and freedom to participate.",
+      "education": "",
+      "environment": "The Green New Deal aims to create jobs while making ecological, cultural, and financial changes across society.",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "Basic income will provide economic security, extend choice and freedom.",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Nick Morphet, your local Green Party parliamentary candidate"
+        }
+      ]
+    },
+    "additionalNotes": "In the meantime, please ask me about it on the campaign trail!"
+  }
+}
+```

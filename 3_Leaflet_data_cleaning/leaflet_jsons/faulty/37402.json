@@ -1,0 +1,41 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "UKIP",
+        "electionDate": "May 5th",
+        "messages": [
+            {
+                "title": "2 are better than 1",
+                "content": "On May 5th You will have 2 Votes in the Welsh Assembly Elections"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {},
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "29 Ponc Y Fron, Llangefni, Anglesey, LL77 7NY",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {}
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Two lambs with text '2 are better than 1'"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

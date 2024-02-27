@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+    "candidateName": "Nick Clegg",
+    "constituency": "Sheffield Hallam",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "June 8th",
+    "messages": [
+      {
+        "title": "TREE FELLING FIASCO",
+        "content": "NICK CLEGG is leading the fight against the council's disastrous tree felling programme."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting Hard Brexit",
+        "policyDescription": "Nick Clegg to lead the fight against hard Brexit."
+      },
+      {
+        "policyTitle": "Tree Felling Programme",
+        "policyDescription": "Nick Clegg leads the fight against the council's disastrous tree felling programme."
+      }
+    ],
+    "mentions": {
+      "candidate": "Nick Clegg",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The race to be your next MP is hotting-up. The Liberal Democrats are the Liberal Democrats are Winning."
+    },
+    "issues": {
+      "brexitEurope": "[\"Lib Dems are] the anti-Brexit party. So for all those Remain voters still unreconciled to the outcome of the referendum, they are the obvious choice to go for.\" - BBC, 2017",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Nick Clegg is leading the fight against the council's disastrous tree felling programme.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Sheffield Liberal Democrats, Riverdale House, 89 Graham Road, SHEFFIELD, S10 3GP",
+      "phone": "",
+      "email": "",
+      "website": "shefflibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Pundits",
+        "endorsement": "The Lib Dems are the anti-Brexit party."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "\"[Lib Dems are] the anti-Brexit party. So for all those Remain voters still unreconciled to the outcome of the referendum, they are the obvious choice to go for.\"",
+        "source": "BBC, 2017",
+        "date": "2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

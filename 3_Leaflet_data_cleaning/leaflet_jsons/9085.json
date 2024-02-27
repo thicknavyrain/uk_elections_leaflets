@@ -1,0 +1,100 @@
+{
+    "leaflet": {
+        "candidateName": "Steve Brine",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "STEVE'S PRIORITY - THE LOCAL NHS",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "TWO YEAR COUNCIL TAX FREEZE",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "REMOVAL OF HOUSING TARGETS",
+                "policyDescription": "Steve appreciates the removal of regional housing targets."
+            },
+            {
+                "policyTitle": "STEVE'S PENSIONER PLEDGE",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Steve Brine",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Steve appreciates the removal of regional housing targets.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Steve with constituents"
+                },
+                {
+                    "caption": "Website screenshot of council tax freeze"
+                },
+                {
+                    "caption": "Steve at a local meeting"
+                },
+                {
+                    "caption": "Local area greenery"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

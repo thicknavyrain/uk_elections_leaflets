@@ -1,0 +1,85 @@
+{
+    "leaflet": {
+        "candidateName": "John Leech",
+        "constituency": "Manchester Withington",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Change that works for you",
+                "content": "The recession has made life tough for many people."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Action on the banks",
+                "policyDescription": "Lib Dems plan to tackle the banks that helped cause the recession. New penalty on banks and a new tax on bank profits and excessive bonuses."
+            },
+            {
+                "policyTitle": "Fair tax system",
+                "policyDescription": "Lib Dems have launched a tax back plan, reducing Council Tax by \u00a351 for Band D properties, and making the first \u00a310,000 of income tax free for families."
+            }
+        ],
+        "mentions": {
+            "candidate": "Only John Leech or Labour can win here",
+            "otherPartyLeaderCandidate": "The Conservatives can't win; it's between a Labour MP or John Leech.",
+            "partyLeader": "",
+            "tacticalSituation": "It's a two horse race. The Conservatives can't win in many parts of Britain."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Conservatives are offering tax cuts for their millionaire friends.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "We would introduce our Mansion tax on houses worth over \u00a32 million to help fund our tax plans and take Britain out of recession.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "After thirteen years of failure, it's time to send a message to this Labour Government that enough is enough.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "8 Gawsworth Avenue, Manchester, M20 5NF",
+            "phone": "",
+            "email": "",
+            "website": "john-leech.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Times",
+                "endorsement": "The idea of taking the four million lowest earners out of income tax is a good one."
+            },
+            {
+                "endorser": "Daily Mirror",
+                "endorsement": "The move would see the charge scrapped for four million low-paid workers - with most other workers taking home an extra \u00a3700 a year."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "John Leech with constituents"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

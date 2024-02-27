@@ -1,0 +1,97 @@
+{
+    "leaflet": {
+        "candidateName": "Sarah Jones",
+        "constituency": "Croydon",
+        "politicalParty": "Labour",
+        "electionDate": "7 May",
+        "messages": [
+            {
+                "title": "Fighting for a better Croydon",
+                "content": "I'm Sarah and as some of you know I'm standing again to be the MP on 7th May. I'm really lucky to have been born and brought up in Croydon and now bringing up my family of four here too."
+            },
+            {
+                "title": "Fighting for a better NHS",
+                "content": "The NHS is under threat. The government are privatising services, targets are being missed and waiting times are up. I want the NHS to be there for my children's children. I want their generation to better than mine."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Save our NHS",
+                "policyDescription": "Save our NHS with more doctors and nurses paid for by a mansion tax on homes over \u00a32 million."
+            },
+            {
+                "policyTitle": "Build a strong economy in Croydon",
+                "policyDescription": "Pledge to build a strong economy in Croydon with guaranteed jobs for unemployed young people."
+            },
+            {
+                "policyTitle": "Deliver a fair deal at work",
+                "policyDescription": "Pledge to deliver a fair deal at work with a living wage and an end to exploitative zero hours contracts."
+            },
+            {
+                "policyTitle": "Invest in Croydon's schools",
+                "policyDescription": "Pledge to invest in Croydon's schools and raise teaching standards to ensure all children become properly qualified."
+            },
+            {
+                "policyTitle": "Create strong and safe communities",
+                "policyDescription": "Pledge to create strong and safe communities with more decent homes, police on bad landlords and campaign for 100 extra police."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sarah Jones",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "The NHS is under threat. The government are privatising services, targets are being missed and waiting times are up.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Only Labour will fund more doctors and nurses and cares, paid for by the mansion tax and clamp down on tax loopholes.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I'm Sarah and as some of you know I'm standing again to be the MP on 7th May. I'm really lucky to have been born and brought up in Croydon and now bringing up my family of four here too.",
+        "politicalExperience": [
+            {
+                "role": "School Governor",
+                "duration": "",
+                "achievements": "Worked to improve education."
+            },
+            {
+                "role": "Advisor",
+                "duration": "",
+                "achievements": "Served as an advisor in the Olympics."
+            }
+        ],
+        "contactInformation": {
+            "address": "Croydon Labour Party, 908 London Road, Thornton Heath CR7 7PA",
+            "phone": "020 8716 9809",
+            "email": "sarah.jones@croydonlabour.org.uk",
+            "website": "www.sarah-jones.org",
+            "socialMedia": {
+                "facebook": "CroydonSarah",
+                "twitter": "LabourSJ",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

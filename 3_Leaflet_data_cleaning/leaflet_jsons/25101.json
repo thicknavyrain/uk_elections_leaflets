@@ -1,0 +1,83 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 7 May",
+	"messages": [
+  	{
+    	"title": "YOUR CHILD BENEFIT IS ON THE BALLOT PAPER TOMORROW.",
+    	"content": "The Tories' cuts to Child Benefit will cost 4 million families over £1,000 a year."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Child Benefit",
+    	"policyDescription": "Oppose cuts to Child Benefit that would cost families financially."
+  	}
+	],
+	"mentions": {
+  	"candidate": "The Labour Party Candidate",
+  	"otherPartyLeaderCandidate": "The Conservative Party Candidate",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "Oppose cuts to Child Benefit that would cost families financially.",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Vote Labour Thursday 7 May"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

@@ -1,0 +1,76 @@
+{
+    "leaflet": {
+        "candidateName": "Ed Miliband",
+        "constituency": "One Brewer's Green London",
+        "politicalParty": "The Labour Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Use your postal vote for Labour \u2013 and help us to build a better Britain"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health",
+                "policyDescription": "An NHS with the time to care with 20,000 more nurses, 8,000 more doctors, a GP appointment within 48 hours and cancer tests within a week"
+            },
+            {
+                "policyTitle": "Higher living standards for working families",
+                "policyDescription": "We'll freeze energy bills until 2017 and give households the power to cut their winter fuel bills, raise the minimum wage to \u00a38, and provide 25 hours free childcare for 3 and 4 year olds"
+            },
+            {
+                "policyTitle": "A country where the next generation can do better than the last",
+                "policyDescription": "We'll cut tuition fees by \u00a33,000 a year; We'll help first-time buyers get onto the housing ladder, and we'll guarantee every young person an apprenticeship"
+            }
+        ],
+        "mentions": {
+            "candidate": "Ed Miliband",
+            "otherPartyLeaderCandidate": "The Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Higher living standards for working families - We'll freeze energy bills until 2017 and give households the power to cut their winter fuel bills, raise the minimum wage to \u00a38, and provide 25 hours free childcare for 3 and 4 year olds.",
+            "education": "A country where the next generation can do better than the last - We'll cut tuition fees by \u00a33,000 a year; guarantee every young person an apprenticeship",
+            "environment": "",
+            "governance": "",
+            "health": "An NHS with the time to care with 20,000 more nurses, 8,000 more doctors, a GP appointment within 48 hours and cancer tests within a week",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "We'll help first-time buyers get onto the housing ladder",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "One Brewer's Green London SW1H 0RH",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Labour\u2019s plan is based on one simple idea: that Britain only succeeds when working families succeed.",
+                "source": "Ed Miliband",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": ""
+    }
+}

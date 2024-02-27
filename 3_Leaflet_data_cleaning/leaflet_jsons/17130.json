@@ -1,0 +1,69 @@
+{
+  "leaflet": {
+    "candidateName": "Peter Kyle",
+    "constituency": "Hove & Portslade",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Supporting working parents",
+        "policyDescription": "Make the city a fairer place to rent."
+      },
+      {
+        "policyTitle": "Backing the next generation",
+        "policyDescription": "Build 200,000 new homes a year."
+      },
+      {
+                "policyTitle": "Protecting NHS",
+        "policyDescription": "Recruit 8,000 more GPs, guarantee GP appointments within 48 hours and cancer tests within one week."
+      }
+                ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Inadequate housing. Home ownership is at its lowest for a generation. Build 200,000 new homes a year.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "99 Church Road",
+      "phone": "01273 933 377",
+      "email": "office@peterkyle.co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "/peterkylehove",
+        "twitter": "@peterkyle",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Peter Kyle with a group of people"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "leaflet": {
+    "candidateName": "Natalie Bennett",
+    "constituency": "",
+    "politicalParty": "Green Party",
+    "electionDate": "Spring 2013",
+    "messages": [
+      {
+        "title": "REDUCE RAIL FARES BY 10%, SAYS LEADER NATALIE BENNETT",
+        "content": "Leader Natalie Bennett has announced that if the Green Party were in charge, they'd commit to lowering rail fares by at least 10 percent."
+      },
+      {
+        "title": "8,000 COUNCIL HOMES LOST IN “REGENERATION” OF HOUSING ESTATES, REPORT REVEALS",
+        "content": "The report demonstrates the loss of council homes due to 'regeneration' projects, an issue the Green Party pledges to counteract by focusing on people's needs over private profit."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Transport",
+        "policyDescription": "Propose a 10% reduction in rail fares."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Countering the loss of council homes due to regeneration projects by emphasizing the needs of people over private profits."
+      }
+    ],
+    "mentions": {
+      "candidate": "Natalie Bennett",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Natalie Bennett",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "The report demonstrates the loss of council homes due to 'regeneration' projects, an issue the Green Party pledges to counteract by focusing on people's needs over private profit.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Leader of the Green Party",
+        "duration": "",
+        "achievements": "Announced policies such as reducing rail fares by 10%."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "www.london.greenparty.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Natalie Bennett with a background of public transportation, referencing her policy on reducing rail fares by 10%."
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

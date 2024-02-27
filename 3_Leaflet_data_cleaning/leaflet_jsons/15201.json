@@ -1,0 +1,102 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "TEN REASONS TO VOTE LABOUR",
+        "content": "Read our plan inside."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Better jobs",
+        "policyDescription": "A ban on exploitative zero hours contracts"
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "1000 more nurses in Scotland"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Double childcare to 25 hours for working parents"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Build 100,000 homes"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "An £8 minimum wage"
+      },
+      {
+        "policyTitle": "Social Welfare",
+        "policyDescription": "Fair pay award for public sector workers"
+      },
+      {
+        "policyTitle": "Youth",
+        "policyDescription": "Full JSA for under-25s"
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "A triple lock safeguard for fracking"
+      },
+      {
+        "policyTitle": "Pensions",
+        "policyDescription": "Double pension relief yearly"
+      },
+      {
+        "policyTitle": "Governance",
+        "policyDescription": "More powers for Scottish towns and cities"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "Tories being the largest party. That's the only way to stop a Tory government. Only Labour can stop the Tories."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "An £8 minimum wage; fair pay award for public sector workers",
+      "education": "Double childcare to 25 hours for working parents",
+      "environment": "A triple lock safeguard for fracking",
+      "governance": "More powers for Scottish towns and cities",
+      "health": "1000 more nurses in Scotland",
+      "immigration": "",
+      "socialWelfare": "Full JSA for under-25s; fair pay award for public sector workers",
+      "housing": [
+        {
+          "content": "Build 100,000 homes",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "TEN REASONS TO VOTE LABOUR"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

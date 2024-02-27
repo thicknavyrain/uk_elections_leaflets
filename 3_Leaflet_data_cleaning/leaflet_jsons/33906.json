@@ -1,0 +1,72 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Gideon",
+        "constituency": "Stoke-on-Trent Central",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "\u00a333.9 billion more for the NHS"
+            },
+            {
+                "policyTitle": "Policing",
+                "policyDescription": "20,000 extra police"
+            },
+            {
+                "policyTitle": "Education Funding",
+                "policyDescription": "More funding for every pupil in every school"
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Gideon",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "More funding for every pupil in every school",
+            "environment": "",
+            "governance": "",
+            "health": "\u00a333.9 billion more for the NHS",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jo Gideon with constituents"
+                },
+                {
+                    "caption": "Portrait of Jo Gideon"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

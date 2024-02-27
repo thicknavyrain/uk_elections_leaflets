@@ -1,0 +1,84 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew Simpson",
+        "constituency": "Northampton North",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A message from Nick Clegg",
+                "content": "Gordon Brown and Labour have failed. We need real change in Britain and we need it now. The Liberal Democrats can offer that change. Unlike the Conservatives, we have real solutions to tackle the problems facing our country."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tax Cuts",
+                "policyDescription": "The Lib Dems will cut the tax bills of those on middle and low incomes. A tax cut of up to \u00a3700."
+            },
+            {
+                "policyTitle": "Job Creation",
+                "policyDescription": "The Liberal Democrats plan to create jobs, tackle climate change and clean up politics."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "The Lib Dems will invest in our schools to cut class sizes and abolish Labour's unfair tuition fees."
+            },
+            {
+                "policyTitle": "Energy",
+                "policyDescription": "Lib Dems will lead the fight for real action to stop climate change by making Britain a world leader in renewable energy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrew Simpson",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "Investing in our schools, cutting class sizes and abolishing unfair tuition fees.",
+            "environment": "Making Britain a world leader in renewable energy.",
+            "governance": "Creating jobs, tackling climate change, and cleaning up politics.",
+            "health": "More nurses at our local hospital, get more police out and extra police on patrol.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Protecting green spaces, delivering a huge petition against the mass housing threats to our green fields and overwhelming our local services.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": "Delivered a huge petition against mass housing to Downing Street and fighting to keep Northamptonshire green."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.andrew-simpson.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Andrew Simpson in front of Northampton landmarks."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

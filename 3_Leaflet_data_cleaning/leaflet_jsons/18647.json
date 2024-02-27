@@ -1,0 +1,70 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Brown",
+        "constituency": "Newcastle upon Tyne East",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 7th May",
+        "messages": [
+            {
+                "title": "Securing long-term, well-paid, sustainable jobs",
+                "content": "My priority for East Newcastle is securing long-term, well-paid, sustainable jobs for our community."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economic Development",
+                "policyDescription": "An all-out effort to grow, strengthen and deepen the economy of the North East of England. A push for the same choice of jobs, the same opportunities and promotion prospects that are enjoyed in other parts of the country."
+            },
+            {
+                "policyTitle": "Government Spending",
+                "policyDescription": "Opposes unfair Tory cuts and austerity, and does not consider them the answer. Wants to end years of pay freezes and restraint."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Brown",
+            "otherPartyLeaderCandidate": "Unfair Tory cuts",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "An all-out effort to grow, strengthen and deepen the economy of the North East of England.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "My priority for East Newcastle is securing long-term, well-paid, sustainable jobs for our community.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nick Brown in front of a scenic view of Newcastle"
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet is focused on economic issues, particularly job creation and opposition to austerity measures."
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "leaflet": {
+        "candidateName": "Lucy Frazer",
+        "constituency": "South East Cambridgeshire",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Lucy Frazer",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Lucy Frazer standing with Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

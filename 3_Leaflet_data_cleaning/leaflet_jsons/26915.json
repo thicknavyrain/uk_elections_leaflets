@@ -1,0 +1,81 @@
+{
+    "leaflet": {
+        "candidateName": "Luke Shirley",
+        "constituency": "Telford",
+        "politicalParty": "Green Party",
+        "electionDate": "June 8th",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect our green spaces",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Keep our NHS public",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Affordable energy efficient homes for all",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "For a fair economy",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "With a real living wage",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Safe climate",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Luke Shirley",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Affordable energy efficient homes for all",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Luke Shirley, Your Green Party Candidate"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

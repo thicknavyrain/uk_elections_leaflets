@@ -1,0 +1,74 @@
+{
+    "leaflet": {
+        "candidateName": "Laura Gordon",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "Do you want to stop Trump\u2019s takeover of the NHS?",
+                "content": "Everyone knows the Tories can't be trusted with our NHS. But, Brexit will allow them to open the door to Trump trade deal \u2013 risking our NHS from sell-off."
+            },
+            {
+                "title": "A vote for me is a vote to stop Brexit \u2013 and protect our NHS.",
+                "content": "In just a few short weeks we will go to the polls to decide the future of this country."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stopping Brexit",
+                "policyDescription": "The leaflet states the candidate's intent to stop Brexit, indicating it as a means to protect the National Health Service (NHS)."
+            },
+            {
+                "policyTitle": "Improving Public Services",
+                "policyDescription": "The candidate promises to fund 20,000 extra teachers, make ambulances accessible 24 hours a day, 365 days a year, and invest in insulating all homes by 2030 to reduce fuel poverty and help tackle the climate emergency."
+            }
+        ],
+        "mentions": {
+            "candidate": "Laura Gordon",
+            "otherPartyLeaderCandidate": "Boris Johnson and Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The leaflet is focused on stopping Brexit and describes it as a threat to the NHS and a potential route to victory for the Brexiters.",
+            "economy": "",
+            "education": "Promises to fund 20,000 extra teachers.",
+            "environment": "Investment in insulating all homes by 2030 to reduce fuel poverty and help tackle the climate emergency.",
+            "governance": "",
+            "health": "Stopping Brexit to protect the NHS; promises of ambulance service accessible at all times.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Investment in insulating all homes by 2030 to reduce fuel poverty and help tackle the climate emergency.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Photo of Laura Gordon, Liberal Democrat campaigner for Sheffield Hallam."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet emphasizes the potential risks of a Conservative government to the NHS in conjunction with Brexit, and the Liberal Democrats' plan to fund public services and tackle the climate emergency."
+    }
+}

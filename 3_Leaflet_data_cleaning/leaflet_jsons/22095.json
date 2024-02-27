@@ -1,0 +1,98 @@
+{
+    "leaflet": {
+        "candidateName": "Ed Miliband",
+        "constituency": "",
+        "politicalParty": "The Labour Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Labour\u2019s contract with you",
+                "content": "Dear [Recipient], I am writing to set out Labour\u2019s contract with you. This contract sets out exactly what you can expect from the next Labour government, and it will allow you to hold us to account too. Our plan is based on a simple truth: that Britain only succeeds when working people succeed. Our contract will ensure we cut the deficit every year. We will not borrow a single extra penny to fund our manifesto commitments. The Tory plan is failing working people because it puts a privileged few first. Labour has a better plan: [Key policies] I have also included a card for you to keep and hold me to account. Our contract means we will secure the future of our NHS. You may have heard in the news recently that the Tories are planning extreme cuts which threaten the survival of the NHS as we know it. This plan for extreme cuts would be a disaster for working families, and I want you to know that is something a Labour government would never do. Labour has a better plan - a plan for a better future for you and your family. Together, we can build a better Britain."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A strong economic foundation",
+                "policyDescription": "Labour\u2019s plan includes a commitment to ensuring a strong economy."
+            },
+            {
+                "policyTitle": "Higher living standards for working families",
+                "policyDescription": "The party promises to deliver higher living standards for working families."
+            },
+            {
+                "policyTitle": "An NHS with the time to care",
+                "policyDescription": "Labour intends to secure the future of the NHS, making sure it has the resources and time to care."
+            },
+            {
+                "policyTitle": "Controls on immigration",
+                "policyDescription": "Labour plans to apply controls on immigration."
+            },
+            {
+                "policyTitle": "A country where the next generation can do better than the last",
+                "policyDescription": "The Labour Party aims for progress, ensuring the next generation can surpass the preceding one."
+            },
+            {
+                "policyTitle": "Homes to buy and action on rents",
+                "policyDescription": "Labour plans to address issues surrounding housing, including home purchases and rental actions."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ed Miliband",
+            "otherPartyLeaderCandidate": "The Tories",
+            "partyLeader": "Ed Miliband",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Labour has a plan for a strong economic foundation without borrowing an extra penny to fund manifesto commitments.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Our contract means we will secure the future of our NHS.",
+            "immigration": "Labour intends to implement controls on immigration.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Labour plans to address issues surrounding housing, including home purchases and rental actions.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Leader of the Labour Party",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "One Brewer\u2019s Green, London, SW1H 0RH",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Our plan is based on a simple truth: that Britain only succeeds when working people succeed.",
+                "source": "Labour's campaign message",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of Ed Miliband, the Labour Party candidate."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+	"candidateName": "John Cryer",
+	"constituency": "Leyton and Wanstead",
+	"politicalParty": "Labour",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "A strong experienced voice for Leyton and Wanstead.",
+    	"content": "Local voice, national experience."
+  	}
+	],
+	"keyPolicies": [],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "labour.org.uk",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "John Cryer with a Labour rosette"
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

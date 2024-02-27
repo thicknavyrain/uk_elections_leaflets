@@ -1,0 +1,98 @@
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "Croydon Central",
+    "politicalParty": "Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "A PERSONAL MESSAGE FROM DAVID CAMERON",
+        "content": "WHY WE NEED CHANGE IN BRITAIN TODAY"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Increase spending and improve it for everyone, to get the economy moving."
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Help families and protect winter fuel payments, free bus passes, and eye test; deliver tax cuts for 16 million people and raise tax thresholds."
+      },
+      {
+        "policyTitle": "Family",
+        "policyDescription": "Make Britain the most family-friendly country in Europe, keeping tax credits, improving Sure Start and providing 4,200 extra Sure Start health visitors."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "Create 400,000 new apprenticeships, control over taxes and work pairings.",
+      "education": "Keeping tax credits, improve Sure Start.",
+      "environment": "",
+      "governance": "",
+      "health": "Increase spending on the NHS.",
+      "immigration": "",
+      "socialWelfare": "Help families with budget by working with local councils to freeze council tax for two years, raise the basic state pension in line with earnings, and protect winter fuel payments, free bus passes, and eye tests.",
+      "housing": [
+        {
+          "content": "Working with local councils to ",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm asking for your support today because I believe that the Conservative Party has the energy and ideas to change Britain. I personally commit and over the next five years, we'll increase spending and improve it for everyone.",
+    "politicalExperience": [
+      {
+        "role": "Leader of the Conservative Party",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "The choice at this election is clear: five more years of Gordon Brown’s tired government making things worse or change with the Conservatives.",
+        "source": "David Cameron",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron writing"
+        },
+        {
+          "caption": "David Cameron speaking with an elderly man"
+        },
+        {
+          "caption": "David Cameron in the House of Commons"
+        },
+        {
+          "caption": "David Cameron with a bullhorn"
+        },
+        {
+          "caption": "David Cameron sitting with an elderly woman"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

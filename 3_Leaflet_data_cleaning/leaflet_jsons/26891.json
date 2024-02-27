@@ -1,0 +1,99 @@
+{
+  "leaflet": {
+	"candidateName": "Keir Starmer",
+	"constituency": "Holborn and St Pancras",
+	"politicalParty": "Labour",
+	"electionDate": "Thursday 8 June",
+	"messages": [
+  	{
+    	"title": "My pledges to you",
+    	"content": "To restore the NHS to a properly funded, patient-centered health service. To ensure excellent education for our children, supporting local schools and small class sizes across the country. To provide genuinely affordable housing and to crack down on rogue landlords. To tackle air pollution and introduce a national framework for air quality. To work with community groups and residents in the face of HS2."
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS",
+    	"policyDescription": "Restore the NHS to a properly funded, patient-centered health service."
+  	},
+    {
+    	"policyTitle": "Education",
+    	"policyDescription": "Ensure excellent education for our children, supporting local schools and small class sizes across the country."
+  	},
+    {
+    	"policyTitle": "Housing",
+    	"policyDescription": "Provide genuinely affordable housing and to crack down on rogue landlords."
+  	},
+    {
+    	"policyTitle": "Environment",
+    	"policyDescription": "Tackle air pollution and introduce a national framework for air quality."
+  	},
+    {
+    	"policyTitle": "Community",
+    	"policyDescription": "Work with community groups and residents in the face of HS2."
+  	}
+	],
+	"mentions": {
+  	"candidate": "Keir Starmer",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "Ensure excellent education for our children, supporting local schools and small class sizes across the country.",
+  	"environment": "Tackle air pollution and introduce a national framework for air quality.",
+  	"governance": "",
+  	"health": "Restore the NHS to a properly funded, patient-centered health service.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"Provide genuinely affordable housing and to crack down on rogue landlords.",
+      	"yimbyNimby": "YIMBY"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "7 Crowndale Road, NW1 1TU",
+  	"phone": "0207 388 8968",
+  	"email": "keir@labour.org.uk",
+  	"website": "www.votelabour.org.uk",
+  	"socialMedia": {
+    	"facebook": "keirstarmer",
+    	"twitter": "keirstarmer",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Image of Keir Starmer with supporters holding 'I'm voting Labour' signs."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

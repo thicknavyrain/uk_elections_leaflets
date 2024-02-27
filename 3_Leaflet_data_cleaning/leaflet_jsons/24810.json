@@ -1,0 +1,79 @@
+{
+  "leaflet": {
+    "candidateName": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 7 May",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Save and improve our NHS"
+      },
+      {
+        "policyTitle": "Minimum Wage",
+        "policyDescription": "Raise the minimum wage to £8"
+      },
+      {
+        "policyTitle": "Immigration",
+        "policyDescription": "Stop people who come here from claiming benefits for two years"
+      },
+      {
+        "policyTitle": "Zero-Hours Contracts",
+        "policyDescription": "Ban exploitative zero-hours contracts"
+      },
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "Balance the books and cut the deficit"
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "the Tories",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We will cut the deficit every year. None of our manifesto commitments require extra borrowing.",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "Save and improve our NHS",
+      "immigration": "Stop people who come here from claiming benefits for two years",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "We will cut the deficit every year. None of our manifesto commitments require extra borrowing.",
+        "source": "Labour Party",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": []
+    },
+    "additionalNotes": ""
+  }
+}

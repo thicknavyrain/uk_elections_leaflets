@@ -1,0 +1,87 @@
+{
+  "leaflet": {
+    "candidateName": "Theresa May",
+    "constituency": "",
+    "politicalParty": "The Conservative Party",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Brexit negotiations",
+        "content": "Brexit negotiations start 11 days after you vote. If you want to make sure Brexit is a success, you need to ensure Theresa May can get the best deal for Britain."
+      },
+      {
+        "title": "Your local vote will decide",
+        "content": "The choice at this election is clear. It’s strong and stable leadership with Theresa May and the Conservatives or a coalition of chaos with Jeremy Corbyn."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic Stability",
+        "policyDescription": "A vote for Theresa May and the Conservatives is a vote for strong and stable leadership in the national interest. With her team, Theresa May will build a stronger economy and secure a better brexit deal."
+      }
+    ],
+    "mentions": {
+      "candidate": "Theresa May",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "",
+      "tacticalSituation": "A loss of just 6 seats would cost the Conservatives a majority, leading to a coalition of chaos led by Jeremy Corbyn."
+    },
+    "issues": {
+      "brexitEurope": "Brexit negotiations start 11 days after you vote. If you want to make sure Brexit is a success, you need to ensure Theresa May can get the best deal for Britain.",
+      "economy": "A vote for Theresa May is a vote for strong and stable leadership in the national interest. Only Theresa May and the Conservatives will ensure that the economy stays strong.",
+      "education": "",
+      "environment": "",
+      "governance": "It’s strong and stable leadership with Theresa May and the Conservatives or a coalition of chaos with Jeremy Corbyn.",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Prime Minister",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "CCHQ, 4 Matthew Parker Street, London, SW1H 9HQ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "IMF",
+        "endorsement": "The IMF says economic stability is growing, creating jobs."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Labour’s taxes would destroy jobs.",
+        "source": "Conservative Party campaign leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Theresa May with the message 'Strong Leadership. A clear Economic Plan. A brighter, more secure future.' and 'BACK THERESA MAY AS PRIME MINISTER'"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

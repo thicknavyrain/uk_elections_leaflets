@@ -1,0 +1,61 @@
+{
+  "leaflet": {
+    "candidateName": "Cat Smith",
+    "constituency": "Lancaster and Fleetwood",
+    "politicalParty": "Labour Party",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "It’s time for real change.",
+        "content": "This election is a once-in-a-generation chance to save our NHS, rebuild and invest in our police and public services, and transform our country."
+      }
+    ],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Cat Smith",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "save our NHS",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "50 Lord Street, FY7 6DT",
+      "phone": "01524 566 570",
+      "email": "cat@catsmith.co.uk",
+      "website": "www.catsmith.co.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "I'M VOTING LABOUR"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

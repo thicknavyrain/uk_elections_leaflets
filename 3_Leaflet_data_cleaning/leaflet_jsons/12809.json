@@ -1,0 +1,74 @@
+{
+    "leaflet": {
+        "candidateName": "Robert H. Brown",
+        "constituency": "North West Cambridgeshire",
+        "politicalParty": "UK Independence Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "My local issues are",
+                "content": "Voters should be able to sack their elected MPs if they are not doing what they said they would do. Let the people decide and take control. It's not about race... it's about space. Stop the developers in this country building on some of the best agricultural land in the world, especially with nearly a million houses currently unoccupied."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "Voters should be able to sack their elected MPs."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Stop the developers from building on some of the best agricultural land, especially with nearly a million houses currently unoccupied."
+            },
+            {
+                "policyTitle": "EU Spending",
+                "policyDescription": "Say NO to wasting \u00a345 million a day in Brussels."
+            }
+        ],
+        "mentions": {
+            "candidate": "Robert H. Brown",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Say NO to wasting \u00a345 million a day in Brussels.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "Voters should be able to sack their elected MPs.",
+            "health": "",
+            "immigration": "It's not about race... it's about space.",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Stop the developers from building on some of the best agricultural land in the world, especially with nearly a million houses currently unoccupied.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "The reason why I have been asked to stand as the UKIP Candidate in NW Cambs again is because I am passionate about the country our forefathers worked, fought and died for. By controlling who lives here, we control who lives here!",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "0800 587 6 587",
+            "email": "",
+            "website": "ukip.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Image of Robert H. Brown and UKIP campaign messages."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

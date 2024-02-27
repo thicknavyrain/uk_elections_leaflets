@@ -1,0 +1,72 @@
+{
+    "leaflet": {
+        "candidateName": "Ed Miliband",
+        "constituency": "Doncaster North",
+        "politicalParty": "The Labour Party",
+        "electionDate": "2015-05-07",
+        "messages": [
+            {
+                "title": "Labour will build a better future for our NHS",
+                "content": "Labour has a better plan for our NHS with key points such as recruiting 20,000 more nurses and 8,000 more GPs, guaranteeing GP appointments within 48 hours, and guaranteeing cancer tests and results within one week."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Improvement",
+                "policyDescription": "Recruit 20,000 more nurses and 8,000 more GPs, guarantee GP appointments within 48 hours, and guarantee cancer tests and results within one week."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ed Miliband",
+            "otherPartyLeaderCandidate": "Nigel Farage",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "To fund this, we will clamp down on tax avoidance, introduce a levy on tobacco firms and introduce a Mansion Tax on properties worth over \u00a32 million.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Labour has a plan for NHS, including recruiting more nurses and GPs, guaranteeing quicker appointments and cancer tests.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Introduce a Mansion Tax on properties worth over \u00a32 million.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Ed Miliband's personal commitment to balance the books and cut the deficit every year while not putting NHS at risk with extreme spending cuts or a Labour government that invests more years of the Tories' extreme plans that threaten the NHS.",
+        "politicalExperience": [
+            {
+                "role": "Leader of the Labour Party",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "One Brewers\u2019 Green, London SW1H 0RH",
+            "phone": "",
+            "email": "",
+            "website": "www.labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A picture of Ed Miliband with various community members and professionals."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet focuses on NHS-related issues and emphasizes the importance of preventing the Conservatives' extreme spending cuts which are seen as threatening to the NHS."
+    }
+}

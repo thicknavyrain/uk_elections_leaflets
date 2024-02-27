@@ -1,0 +1,99 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "SNP",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "Tax",
+    	"policyDescription": "£300 in your pocket, that's the average family saving from our council tax freeze."
+  	},
+    {
+    	"policyTitle": "Healthcare",
+    	"policyDescription": "Prescriptions charges abolished."
+  	},
+    {
+    	"policyTitle": "Law and Order",
+    	"policyDescription": "1,000 more police on the streets, driving crime down to a 32-year low."
+  	},
+    {
+    	"policyTitle": "Education",
+    	"policyDescription": "Free higher education restored."
+  	},
+    {
+    	"policyTitle": "Employment",
+    	"policyDescription": "Jobs protected with massive cuts in small business rates."
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "Free higher education restored.",
+  	"environment": "",
+  	"governance": "",
+  	"health": "Prescriptions charges abolished.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content":"",
+      	"yimbyNimby": ""
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "bepartofbetter.net",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "",
+    	"source": "",
+    	"date": ""
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "In government the SNP has delivered 84 of our 94 headline pledges."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

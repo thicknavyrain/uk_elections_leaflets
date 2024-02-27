@@ -1,0 +1,85 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "ANOTHER HUNG PARLIAMENT OR A MAJORITY CONSERVATIVE GOVERNMENT.",
+                "content": "YOUR VOTE WILL DECIDE."
+            },
+            {
+                "title": "Just NINE more seats to secure a majority government",
+                "content": "312 seats needed for a majority."
+            },
+            {
+                "title": "No more dither and delay. Vote for the majority government our country needs. Vote Conservative.",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon, Jeremy Corbyn, Jo Swinson",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Hung parliament leverage and tactical voting implied."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Hung parliament would give SNP 'significant influence and power', says Sturgeon",
+                "source": "The Independent",
+                "date": ""
+            },
+            {
+                "text": "Voting Lib Dem means we'll get another hung parliament. And more arguing.",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "John Curtice: Polls teeter between hung parliament and slim Tory majority.",
+                "source": "The Times",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Graphic showing number of seats needed for a majority, comparing Conservative and Labour seats."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

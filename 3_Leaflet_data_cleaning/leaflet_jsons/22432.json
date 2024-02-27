@@ -1,0 +1,99 @@
+{
+    "leaflet": {
+        "candidateName": "Suzanne",
+        "constituency": "Clackmannanshire",
+        "politicalParty": "Scottish Labour",
+        "electionDate": "7 May",
+        "messages": [
+            {
+                "title": "We need to protect our NHS",
+                "content": "Working as a nurse I see every day the huge strain our NHS is under. Our winter A&E services reached breaking point because we simply don't have the resources. Our NHS needs real help now."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protecting NHS",
+                "policyDescription": "Investment to prevent A&E services from reaching breaking point by ensuring resources are available."
+            }
+        ],
+        "mentions": {
+            "candidate": "Suzanne",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Our winter A&E services reached breaking point because we simply don't have the resources.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.scottishlabour.org.uk/weloveournhs",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Pauline, Lenzie",
+                "endorsement": "I'm supporting Scottish Labour because they will invest in and protect our NHS and the frontline services my family relies on."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Working as a nurse I see every day the huge strain our NHS is under.",
+                "source": "Suzanne, Clackmannanshire",
+                "date": ""
+            },
+            {
+                "text": "Our NHS needs real help now. I'll be voting Scottish Labour on 7 May because they're the only party who can get rid of the Tories and pull our NHS back from the brink.",
+                "source": "Suzanne, Clackmannanshire",
+                "date": ""
+            },
+            {
+                "text": "Our NHS means so much to my family - it has always been there when we need it. I want to make sure it will be there for my kids in the future.",
+                "source": "Pauline, Lenzie, Mum of three",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Breaking News: SNP's A&E Crisis - Thousands of Scots forced to wait for more than four hours."
+                },
+                {
+                    "caption": "Vote Scottish Labour"
+                },
+                {
+                    "caption": "Endorsement by Pauline, Lenzie, Mum of three"
+                }
+            ]
+        },
+        "additionalNotes": "Leaflet features graphs demonstrating emergency room waiting times and mentions SNP's A&E crisis."
+    }
+}

@@ -1,0 +1,110 @@
+{
+  "leaflet": {
+	"candidateName": "",
+	"constituency": "",
+	"politicalParty": "",
+	"electionDate": "",
+	"messages": [
+  	{
+    	"title": "Labour has failed us...",
+    	"content": "Spending squeeze for NHS despite Darling's promise."
+  	},
+  	{
+    	"title": "...but is this the kind of change we want?",
+    	"content": ""
+  	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "NHS",
+    	"policyDescription": "Concerns about NHS spending and privatization."
+  	},
+  	{
+    	"policyTitle": "Tax",
+    	"policyDescription": "20% VAT 'could be introduced within weeks of a Tory victory at the next election.'"
+  	}
+	],
+	"mentions": {
+  	"candidate": "",
+  	"otherPartyLeaderCandidate": "Brown, Julia Manning, David Cameron",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "Claims of cabinet cowardice and leadership contest avoidance",
+  	"health": "Worries over the state of the NHS and potential privatization.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": [
+    	{
+      	"content": "",
+      	"yimbyNimby": "N/A"
+    	}
+  	]
+	},
+	"personalStatement": "",
+	"politicalExperience": [
+  	{
+    	"role": "",
+    	"duration": "",
+    	"achievements": ""
+  	}
+	],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [
+  	{
+    	"endorser": "",
+    	"endorsement": ""
+  	}
+	],
+	"quotes": [
+  	{
+    	"text": "unemployment is already at crisis level",
+    	"source": "TUC General Secretary, 12 Aug 2009"
+  	},
+  	{
+    	"text": "[Brown] limps on only because of cabinet cowardice and the fear among backbenchers that a leadership contest now would split the party.",
+    	"source": "The Times, 10 Jan 2010"
+  	},
+  	{
+    	"text": "We've lived through this mistake for 60 years now... The reality is it [the NHS] hasn't worked - it has made people iller.",
+    	"source": "Top Conservative MEP Dan Hannan on the NHS August 2009"
+  	},
+  	{
+    	"text": "Tory adviser Julia Manning wants end to minor treatments on NHS",
+    	"source": "The Times, 10 Jan 2010"
+  	},
+  	{
+    	"text": "20% VAT 'could be introduced within weeks of a Tory victory at the next election'",
+    	"source": "Daily Telegraph, 8 Aug 2009"
+  	},
+  	{
+    	"text": "David Cameron meets NHS privatisation campaigners",
+    	"source": "Daily Telegraph, 27 Dec 2009"
+  	}
+	],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Images of Gordon Brown looking distressed and David Cameron smiling, accompanied by critical quotes and headlines."
+    	}
+  	]
+	},
+	"additionalNotes": "Leaflet critiquing the Labour Party's handling of the NHS and implying negative consequences should the Conservative Party come to power."
+  }
+}

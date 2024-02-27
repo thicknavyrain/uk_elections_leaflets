@@ -1,0 +1,81 @@
+{
+    "leaflet": {
+        "candidateName": "Chris Nicholson",
+        "constituency": "Streatham, Brixton & Clapham",
+        "politicalParty": "Lib Dem",
+        "electionDate": "6th May",
+        "messages": [
+            {
+                "title": "It's YOUR Choice YOU can make the difference!",
+                "content": "Last election result for this constituency 2006: Lab 38%, Lib Dem 35%, Con 15%. The Conservatives cannot win here. It\u2019s Lib Dem or Labour round here."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Chris is fighting for tenants and residents on local estates against the Council\u2019s failing policies."
+            }
+        ],
+        "mentions": {
+            "candidate": "Chris Nicholson",
+            "otherPartyLeaderCandidate": "Gordon Brown",
+            "partyLeader": "",
+            "tacticalSituation": "The Conservatives cannot win here. It\u2019s Lib Dem or Labour round here."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "Chris is fighting for tenants and residents on local estates against the Council\u2019s failing policies.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "More and more local people are backing Chris Nicholson to win. Chris will be a strong voice in Parliament for our area.",
+        "politicalExperience": [
+            {
+                "role": "Local Councilor",
+                "duration": "10 years",
+                "achievements": "Moving London forward"
+            }
+        ],
+        "contactInformation": {
+            "address": "Lib Dem House, Unit 6, Hermes House Lifecycle, SW2 5RW London SE11 1BB",
+            "phone": "020 8769 5917",
+            "email": "chris@chrisnicholson.org.uk",
+            "website": "www.ChrisNicholson.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Chris Nicholson in the community"
+                },
+                {
+                    "caption": "Charts showing election result for this constituency 2006"
+                },
+                {
+                    "caption": "Images of local community and endorsement by Chris Nicholson"
+                },
+                {
+                    "caption": "Message of the tactical situation of the constituency"
+                }
+            ]
+        },
+        "additionalNotes": "Every vote counts. Remember every Conservative vote just lets Labour win here again."
+    }
+}

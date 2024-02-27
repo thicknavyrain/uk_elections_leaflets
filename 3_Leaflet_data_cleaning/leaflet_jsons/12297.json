@@ -1,0 +1,102 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "constituency": "",
+        "politicalParty": "Lib Dems",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "This time we can do things differently",
+                "content": "Only the Lib Dems offer real change."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tax",
+                "policyDescription": "No tax on the first \u00a310,000 you earn"
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Cut NHS admin to protect frontline services"
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "Give you the right to sack corrupt MPs"
+            },
+            {
+                "policyTitle": "Security",
+                "policyDescription": "3000 more police on patrol"
+            },
+            {
+                "policyTitle": "Defence",
+                "policyDescription": "Proper equipment for Britain's Armed Forces"
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Clegg now in contention as potential PM",
+            "otherPartyLeaderCandidate": "Tories intensify personal attacks on Nick Clegg. Desperate Labour in smear bid",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "Give you the right to sack corrupt MPs",
+            "health": "Cut NHS admin to protect frontline services",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Guardian",
+                "endorsement": "Nick Clegg now in contention as potential PM"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "After sixty-five years, they've got nothing new to offer. Just the same old scare stories and the same old negative politics.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "After sixty-five years, they've got nothing new to offer."
+                },
+                {
+                    "caption": "This time we can do things differently"
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

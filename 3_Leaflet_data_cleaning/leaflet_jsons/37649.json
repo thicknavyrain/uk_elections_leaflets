@@ -1,0 +1,84 @@
+{
+    "leaflet": {
+        "candidateName": "Mandy Jones",
+        "constituency": "Clwyd South",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "I have lived and worked in North Wales, as a Shepherd, for over 30 Years and am well acquainted with farming and local community problems."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Community Health",
+                "policyDescription": "Proper funding for our community health."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Acknowledging problems of poor education."
+            },
+            {
+                "policyTitle": "Infrastructure",
+                "policyDescription": "Addressing issues with cuts to rural bus services, poor roads, and facility closures like libraries and public toilets."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Concerns over small businesses struggling due to high business rates and the impact of facility closures on passing trade."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mandy Jones",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Small businesses come and go every week, due to high business rates.",
+            "education": "Problems of low wages, poor education",
+            "environment": "",
+            "governance": "",
+            "health": "Proper funding for our community health, NHS cuts, care-home closures.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Being proud of our heritage, we ask for nothing more than fairness, for our towns and villages, proper funding, for our community health, growth, and prosperity.",
+        "politicalExperience": [
+            {
+                "role": "Shepherd",
+                "duration": "30 years",
+                "achievements": "Acquainted with farming and local community problems."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Mandy Jones pictured with a lamb."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet corresponds to a UKIP campaign for the Clwyd South constituency, emphasizing local community issues such as health, economy, and education."
+    }
+}

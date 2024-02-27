@@ -1,0 +1,34 @@
+{
+  "leaflet": {
+	"messages": [
+  	{
+    	"title": "We all face a choice about the future of our National Health Service.",
+    	"content": ""
+  	},
+	{
+		"title": "A better plan. A better future.",
+		"content": ""
+	}
+	],
+	"keyPolicies": [
+  	{
+    	"policyTitle": "National Health Service",
+    	"policyDescription": "Labour's plan to recruit 20,000 more nurses and 8,000 more doctors."
+  	}
+	],
+	"mentions": {
+  	"otherPartyLeaderCandidate": "Tories",
+  	"candidate": "Bob & Margaret"
+	},
+	"issues": {
+  	"health": "Our NHS is too important to leave in the Tories' hands. We're backing Labour's plan to recruit 20,000 more nurses and 8,000 more doctors."
+	},
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "An elderly couple looking at each other with a sense of warmth and concern about the NHS."
+    	}
+  	]
+	}
+  }
+}

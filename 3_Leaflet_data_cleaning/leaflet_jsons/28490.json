@@ -1,0 +1,66 @@
+{
+    "leaflet": {
+        "candidateName": "Jeremy Quin",
+        "constituency": "Horsham",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Strong, Stable Leadership In The National Interest",
+                "content": "Jeremy Quin is standing with Theresa May. Together, they provide the leadership the United Kingdom needs to make the most of Brexit and deliver a strong economy."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Making Brexit a success is central to our National Interest. We need to ensure strong and stable leadership to handle Brexit negotiations with a clear plan to benefit Britain."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jeremy Quin",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest.",
+            "economy": "The Conservatives promise a strong economy with job security and rising living standards. They aim to provide real opportunity and support for all, making sure the economy works for every household.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Healthcare priorities include supporting the NHS to ensure it is a good place for getting old, having children, and receiving emergency care.",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Jeremy Quin supports Theresa May in delivering for Britain and is committed to working hard for his constituents.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01403 240000",
+            "email": "",
+            "website": "www.jeremyquin.com",
+            "socialMedia": {
+                "facebook": "JeremyQuinOfficial",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jeremy Quin with Theresa May, showing their partnership and shared vision."
+                }
+            ]
+        },
+        "additionalNotes": "The leaflet emphasizes the contrast between 'strong, stable leadership' with Theresa May and 'a coalition of chaos' with Jeremy Corbyn."
+    }
+}

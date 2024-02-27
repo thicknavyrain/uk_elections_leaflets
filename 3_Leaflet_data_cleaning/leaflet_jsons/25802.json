@@ -1,0 +1,56 @@
+{
+  "leaflet": {
+    "candidateName": "Nigel Farage",
+    "constituency": "",
+    "politicalParty": "UKIP",
+    "electionDate": "",
+    "messages": [],
+    "keyPolicies": [],
+    "mentions": {
+      "candidate": "Nigel Farage",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content":"",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "THANKS FOR YOUR SUPPORT, FROM UKIP AND NIGEL FARAGE"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

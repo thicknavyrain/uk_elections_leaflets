@@ -1,0 +1,77 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "7 May",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "National Health Service",
+                "policyDescription": "Save and improve our NHS"
+            },
+            {
+                "policyTitle": "Minimum Wage",
+                "policyDescription": "Raise the minimum wage to \u00a38"
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Stop people who come here from claiming benefits for two years"
+            },
+            {
+                "policyTitle": "Labour Market",
+                "policyDescription": "Ban exploitative zero-hours contracts"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Balance the books and cut the deficit"
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "Balance the books and cut the deficit",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "Save and improve our NHS",
+            "immigration": "Stop people who come here from claiming benefits for two years",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Key policy commitments with the assurance that none of the commitments require extra borrowing."
+                }
+            ]
+        },
+        "additionalNotes": "None of the commitments require extra borrowing."
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "leaflet": {
+    "candidateName": "Naomi Rylatt",
+    "constituency": "Filton and Bradley Stoke",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Social Care",
+        "policyDescription": ""
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": ""
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "health": "",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Standing up for Services - Education, Health, Social Care, Housing"
+        }
+      ]
+    },
+    "additionalNotes": ""
+  }
+}

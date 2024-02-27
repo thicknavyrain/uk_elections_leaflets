@@ -1,0 +1,80 @@
+{
+  "leaflet": {
+    "candidateName": "Helen Hayes",
+    "constituency": "Dulwich and West Norwood",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "A record of action, a promise of more",
+        "content": "Helen is a passionate supporter of our NHS and has been at the forefront of campaigns to save King's College Hospital's critical services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Helen is opposed to the Conservative underfunding and will fight for our health services."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Against Conservative plans to force all state schools to become academies."
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Pushing for more genuinely affordable homes and action against rogue landlords."
+      }
+    ],
+    "mentions": {
+      "candidate": "Helen Hayes",
+      "otherPartyLeaderCandidate": "Conservative",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "",
+      "education": "Opposes Conservative plans to force all state schools to become academies and is supporting parents and teachers to prevent this.",
+      "environment": "",
+      "governance": "",
+      "health": "Helen is a passionate supporter of our NHS and will continue her work to ensure it receives the funding it needs.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "Helen is working for more genuinely affordable homes, for secure tenancies for private renters, and action against rogue landlords.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I have been standing up for our community since being elected in 2015, working tirelessly to ensure your voice is heard in Parliament.",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "since 2015",
+        "achievements": "Standing up for our community in Parliament and working tirelessly to ensure your voice is heard."
+      }
+    ],
+    "contactInformation": {
+      "address": "Labour Party candidate for Dulwich and West Norwood, PO Box 47629, SW2 1ZZ",
+      "phone": "",
+      "email": "helen@helenhayes.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Image of Helen Hayes"
+        }
+      ]
+    },
+    "additionalNotes": "Vote Labour in your council on Thursday 8 June, and remember to cast both your votes for Labour!"
+  }
+}

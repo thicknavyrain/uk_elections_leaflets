@@ -1,0 +1,64 @@
+{
+    "leaflet": {
+        "candidateName": "Mike Smith",
+        "constituency": "Gloucester",
+        "politicalParty": "UK Independence Party",
+        "electionDate": "May 6th 2010",
+        "messages": [
+            {
+                "title": "Do you want to;",
+                "content": "Kick Labour out? Stop the Tories? Get out of the EU?"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Mike Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "UKIP beat the Lib Dems in 2 and Labour in 1 out of 3 divisions fought in the 2009 County Council elections"
+        },
+        "issues": {
+            "brexitEurope": "Get out of the EU?",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "82 Marlborough Road, Gloucester GL4 6GD",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Mike Smith photo"
+                },
+                {
+                    "caption": "UKIP can win Gloucester bar chart"
+                }
+            ]
+        },
+        "additionalNotes": "Printed by Staples, Eastern Avenue, Gloucester. Promoted by Mike Smith."
+    }
+}

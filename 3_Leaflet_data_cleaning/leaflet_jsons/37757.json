@@ -1,0 +1,61 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "constituency": "LOTHIAN",
+        "politicalParty": "Scottish National Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "5 more steps",
+                "content": "5 more steps will take her to a better future."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "5 more steps will take her to a better future."
+                }
+            ]
+        },
+        "additionalNotes": ""
+    }
+}

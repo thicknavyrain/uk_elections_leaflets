@@ -1,0 +1,64 @@
+{
+  "leaflet": {
+	"candidateName": "RICHARD DICKSON",
+	"constituency": "Kenilworth & Southam",
+	"politicalParty": "Liberal Democrat",
+	"electionDate": "THURSDAY JUNE 8th 2017",
+	"messages": [],
+	"keyPolicies": [
+	  	{
+	    	"policyTitle": "Fighting against Hard Brexit",
+	    	"policyDescription": "The candidate opposes a hard Brexit."
+	  	},
+	  	{
+	    	"policyTitle": "Standing up for the NHS",
+	    	"policyDescription": "The candidate is committed to supporting the National Health Service."
+	  	},
+	  	{
+	    	"policyTitle": "Opposing school cuts",
+	    	"policyDescription": "The candidate is against cuts to school funding."
+	  	}
+	],
+	"mentions": {
+  	"candidate": "RICHARD DICKSON",
+  	"otherPartyLeaderCandidate": "",
+  	"partyLeader": "",
+  	"tacticalSituation": ""
+	},
+	"issues": {
+  	"brexitEurope": "The candidate opposes a hard Brexit.",
+  	"economy": "",
+  	"education": "",
+  	"environment": "",
+  	"governance": "",
+  	"health": "The candidate is committed to supporting the National Health Service.",
+  	"immigration": "",
+  	"socialWelfare": "",
+  	"housing": []
+	},
+	"personalStatement": "",
+	"politicalExperience": [],
+	"contactInformation": {
+  	"address": "",
+  	"phone": "",
+  	"email": "",
+  	"website": "",
+  	"socialMedia": {
+    	"facebook": "",
+    	"twitter": "",
+    	"instagram": "",
+    	"linkedin": ""
+  	}
+	},
+	"endorsements": [],
+	"quotes": [],
+	"campaignMaterial": {
+  	"images": [
+    	{
+      	"caption": "Photo of Richard Dickson in an urban street setting."
+    	}
+  	]
+	},
+	"additionalNotes": ""
+  }
+}

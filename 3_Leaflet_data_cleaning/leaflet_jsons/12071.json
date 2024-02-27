@@ -1,0 +1,95 @@
+{
+  "leaflet": {
+    "candidateName": "David Cameron",
+    "constituency": "",
+    "politicalParty": "Conservatives",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "WE CAN’T GO ON LIKE THIS.",
+        "content": "It’s time for change. The general election is just weeks away now. This is a big moment for Britain."
+      },
+      {
+        "title": "IT’S TIME FOR CHANGE.",
+        "content": "We will cut the deficit, not the NHS. We will act on the economy. Every family knows, the longer you leave a debt problem, the worse it gets. "
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economy",
+        "policyDescription": "We will cut the deficit, not the NHS."
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "We will protect spending on the NHS and improve it for everyone."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "We will stand up for families, sort out our schools and fight back against crime."
+      }
+    ],
+    "mentions": {
+      "candidate": "David Cameron",
+      "otherPartyLeaderCandidate": "Gordon Brown",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "economy": "We will act on the economy. Every family knows, the longer you leave a debt problem, the worse it gets.",
+      "education": "We will stand up for families, sort out our schools and fight back against crime.",
+      "environment": "",
+      "governance": "We will act on the economy to restore responsibility to our society.",
+      "health": "We will cut the deficit, not the NHS. We will protect spending on the NHS and improve it for everyone.",
+      "immigration": "",
+      "socialWelfare": "",
+      "housing": [
+        {
+          "content": "",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "David Cameron looking directly ahead"
+        }
+      ]
+    },
+    "additionalNotes": "The leaflet makes a direct appeal to prevent Gordon Brown from staying in office and underscores the necessity for change."
+  }
+}

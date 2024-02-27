@@ -1,0 +1,81 @@
+{
+    "leaflet": {
+        "candidateName": "Lucy Powell",
+        "constituency": "Manchester Central",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "The General Election will be held in a few weeks. All the polls show it's going to be very close between Labour and the Conservatives."
+            },
+            {
+                "title": "",
+                "content": "You live in one of the most marginal parliamentary seats in Britain. It's one of the seats that will decide the outcome of the election - between a Labour or a Conservative Government. That's why your vote matters."
+            },
+            {
+                "title": "Do you want to help David Cameron into power?",
+                "content": "He's hoping you'll vote Lib Dem in South Manchester. Only voting Labour here can stop David Cameron's Conservatives winning the General Election."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Taxation",
+                "policyDescription": "Creating a fairer deal for families in South Manchester. Introducing a top rate tax for the richest highest earners."
+            },
+            {
+                "policyTitle": "Support for Families",
+                "policyDescription": "Protecting vital public services by introducing a top rate tax for the richest highest earners and cutting Tax Credits and support for low and middle income families."
+            }
+        ],
+        "mentions": {
+            "candidate": "Lucy Powell",
+            "otherPartyLeaderCandidate": "David Cameron",
+            "partyLeader": "",
+            "tacticalSituation": "Voting Lib Dem or Green, or not voting at all, would mean one less Labour seat at the election, and will help David Cameron's Conservatives into power."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "health": "",
+            "immigration": "",
+            "socialWelfare": "",
+            "housing": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "We haven't always got it right, but a Labour Government has created, and will continue to create, a fairer deal for families in South Manchester.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "PO BOX 46247",
+            "phone": "0161 225 9600",
+            "email": "lucypowell@labour.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Lucy Powell - Your Local Choice for Manchester Central"
+                },
+                {
+                    "caption": "Do you want to help David Cameron into power?"
+                }
+            ]
+        },
+        "additionalNotes": "Leaflet emphasizes strategic voting considerations, implying a vote for anyone other than Labour benefits the Conservative Party in a marginal seat. A strong tax policy targeting the richest earners is outlined as a key Labour commitment."
+    }
+}
